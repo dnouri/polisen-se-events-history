@@ -1,17 +1,5 @@
 [
   {
-    "id": 411289,
-    "datetime": "2023-03-26 10:04:59 +02:00",
-    "name": "26 mars 09:28, Trafikolycka, singel, Norrtälje",
-    "summary": "Polis och ambulans kallas till länsväg 278 på Humlö med anledning av att en personbil kört av vägen.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0928-trafikolycka-singel-norrtalje/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
     "id": 411291,
     "datetime": "2023-03-26 10:58:59 +02:00",
     "name": "26 mars 08:04, Farligt föremål, misstänkt, Järfälla",
@@ -21,6 +9,66 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 411295,
+    "datetime": "2023-03-26 12:03:29 +02:00",
+    "name": "26 mars 10:54, Narkotikabrott, Sollefteå",
+    "summary": "Sollefteå, misstänkt narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1054-narkotikabrott-solleftea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 411294,
+    "datetime": "2023-03-26 12:02:20 +02:00",
+    "name": "26 mars 11:47, Trafikolycka, Ljusnarsberg",
+    "summary": "En singelolycka har inträffat på länsväg 798",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1147-trafikolycka-ljusnarsberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ljusnarsberg",
+      "gps": "59.877447,14.998849"
+    }
+  },
+  {
+    "id": 411293,
+    "datetime": "2023-03-26 11:48:03 +02:00",
+    "name": "26 mars 10:44, Trafikolycka, Karlshamn",
+    "summary": "Singelolycka på väg 126, Svängsta.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1044-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 411292,
+    "datetime": "2023-03-26 11:42:37 +02:00",
+    "name": "26 mars 10:32, Trafikolycka, Gävle",
+    "summary": "Bil har kört av vägen.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1032-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 411289,
+    "datetime": "2023-03-26 10:04:59 +02:00",
+    "name": "26 mars 09:28, Trafikolycka, singel, Norrtälje",
+    "summary": "Polis och ambulans kallas till länsväg 278 på Humlö med anledning av att en personbil kört av vägen.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0928-trafikolycka-singel-norrtalje/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 409601,
-    "datetime": "2023-03-20 17:11:10 +01:00",
-    "name": "20 mars 17:05, Trafikolycka, Norrköping",
-    "summary": "Trafikolycka på E22",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1705-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 409600,
-    "datetime": "2023-03-20 17:00:37 +01:00",
-    "name": "20 mars 15:43, Stöld, Umeå",
-    "summary": "Misstänkt ringa stöld i matbutik i centrala Umeå.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1543-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 409597,
-    "datetime": "2023-03-20 15:58:55 +01:00",
-    "name": "20 mars 15:38, Övrigt, Stockholm",
-    "summary": "Inom lokalpolisområde Norrmalm har det under dagen genomförts fotpatruller och trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1538-ovrigt-stockholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 409569,
-    "datetime": "2023-03-20 15:02:15 +01:00",
-    "name": "20 mars 14:53, Trafikolycka, Säter",
-    "summary": "En bilist har kört in i mittenräcket på Rv 70, riktning Borlänge.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1453-trafikolycka-sater/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Säter",
-      "gps": "60.34665,15.7479"
     }
   }
 ]
