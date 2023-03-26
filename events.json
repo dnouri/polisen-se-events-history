@@ -1,5 +1,65 @@
 [
   {
+    "id": 411299,
+    "datetime": "2023-03-26 16:17:40 +02:00",
+    "name": "26 mars 09:24, Försvunnen person, Göteborg",
+    "summary": "Polisen letar efter en man i 20-årsåldern.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0924-forsvunnen-person-goteborg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 411312,
+    "datetime": "2023-03-26 15:57:28 +02:00",
+    "name": "26 mars 15:45, Trafikolycka, Solna",
+    "summary": "Polis och ambulans kallast till Råsta Strandväg vid Solna tenniscenter med anledning av en trafikolycka.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1545-trafikolycka-solna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 411311,
+    "datetime": "2023-03-26 15:45:23 +02:00",
+    "name": "26 mars 15:45, Övrigt, Hallands län",
+    "summary": "Efter klockan 16:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1545-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 411310,
+    "datetime": "2023-03-26 15:45:12 +02:00",
+    "name": "26 mars 15:45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 16:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1545-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 411307,
+    "datetime": "2023-03-26 14:12:13 +02:00",
+    "name": "26 mars 13:31, Larm Överfall, Göteborg",
+    "summary": "Vi får larm om ett bråk i en mataffär på Andra Långgatan.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1331-larm-overfall-goteborg/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 411300,
     "datetime": "2023-03-26 13:28:47 +02:00",
     "name": "26 mars 12:56, Kontroll person/fordon, Uppsala",
@@ -69,18 +129,6 @@
     "location": {
       "name": "Norberg",
       "gps": "60.065042,15.923796"
-    }
-  },
-  {
-    "id": 411307,
-    "datetime": "2023-03-26 14:12:13 +02:00",
-    "name": "26 mars 13:31, Larm Överfall, Göteborg",
-    "summary": "Vi får larm om ett bråk i en mataffär på Andra Långgatan.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1331-larm-overfall-goteborg/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Håbo",
       "gps": "59.627071,17.452298"
-    }
-  },
-  {
-    "id": 409616,
-    "datetime": "2023-03-20 19:10:56 +01:00",
-    "name": "20 mars 18:36, Trafikolycka, vilt, Bräcke",
-    "summary": "Polisen får in en anmälan om en viltolycka på E14, Stavre.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1836-trafikolycka-vilt-bracke/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Bräcke",
-      "gps": "62.750741,15.422575"
-    }
-  },
-  {
-    "id": 409611,
-    "datetime": "2023-03-20 19:09:09 +01:00",
-    "name": "20 mars 16:30, Trafikolycka, Strömsund",
-    "summary": "Larm om trafikolycka på länsväg 342, mellan Alavattnet och Strand.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1630-trafikolycka-stromsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 409615,
-    "datetime": "2023-03-20 19:09:06 +01:00",
-    "name": "20 mars 18:28, Rån, Botkyrka",
-    "summary": "Utomhus i Tullinge utsatte okänd gärningsperson brottsoffret för ett grovt rån.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1828-ran-botkyrka/",
-    "type": "Rån",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 409614,
-    "datetime": "2023-03-20 19:00:42 +01:00",
-    "name": "20 mars 19:00, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat efter trafikkontroller under eftermiddagen.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1900-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
