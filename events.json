@@ -1,14 +1,62 @@
 [
   {
-    "id": 411301,
-    "datetime": "2023-03-26 13:40:52 +02:00",
-    "name": "26 mars 13:35, Trafikolycka, Karlstad",
-    "summary": "En trafikolycka med flera bilister har inträffat på Karl IX:s gata",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1335-trafikolycka-karlstad/",
+    "id": 411308,
+    "datetime": "2023-03-26 14:35:09 +02:00",
+    "name": "26 mars 14:01, Trafikolycka, Malmö",
+    "summary": "Olycka på Hyacintgatan.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1401-trafikolycka-malmo/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 411298,
+    "datetime": "2023-03-26 14:29:36 +02:00",
+    "name": "26 mars 14:29, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1429-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 411294,
+    "datetime": "2023-03-26 12:02:20 +02:00",
+    "name": "26 mars 11:47, Trafikolycka, Ljusnarsberg",
+    "summary": "En singelolycka har inträffat på länsväg 798",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1147-trafikolycka-ljusnarsberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ljusnarsberg",
+      "gps": "59.877447,14.998849"
+    }
+  },
+  {
+    "id": 411296,
+    "datetime": "2023-03-26 12:41:51 +02:00",
+    "name": "26 mars 12:17, Brand, Norberg",
+    "summary": "Fullt utvecklad brand i en lada.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1217-brand-norberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Norberg",
+      "gps": "60.065042,15.923796"
+    }
+  },
+  {
+    "id": 411307,
+    "datetime": "2023-03-26 14:12:13 +02:00",
+    "name": "26 mars 13:31, Larm Överfall, Göteborg",
+    "summary": "Vi får larm om ett bråk i en mataffär på Andra Långgatan.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1331-larm-overfall-goteborg/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -24,6 +72,42 @@
     }
   },
   {
+    "id": 411303,
+    "datetime": "2023-03-26 13:49:02 +02:00",
+    "name": "26 mars 13:48, Trafikkontroll, Västernorrlands län",
+    "summary": "Kramfors, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1348-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 411302,
+    "datetime": "2023-03-26 13:44:51 +02:00",
+    "name": "26 mars 09:55, Fjällräddning, Dorotea",
+    "summary": "Fjällräddning i Borgafjäll.",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0955-fjallraddning-dorotea/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Dorotea",
+      "gps": "64.261794,16.415234"
+    }
+  },
+  {
+    "id": 411301,
+    "datetime": "2023-03-26 13:40:52 +02:00",
+    "name": "26 mars 13:35, Trafikolycka, Karlstad",
+    "summary": "En trafikolycka med flera bilister har inträffat på Karl IX:s gata",
+    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1335-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 411297,
     "datetime": "2023-03-26 12:55:44 +02:00",
     "name": "26 mars 12:38, Trafikolycka, Söderhamn",
@@ -33,18 +117,6 @@
     "location": {
       "name": "Söderhamn",
       "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 411296,
-    "datetime": "2023-03-26 12:41:51 +02:00",
-    "name": "26 mars 12:17, Brand, Norberg",
-    "summary": "Fullt utvecklad brand i en lada.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1217-brand-norberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Norberg",
-      "gps": "60.065042,15.923796"
     }
   },
   {
@@ -69,18 +141,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 411294,
-    "datetime": "2023-03-26 12:02:20 +02:00",
-    "name": "26 mars 11:47, Trafikolycka, Ljusnarsberg",
-    "summary": "En singelolycka har inträffat på länsväg 798",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1147-trafikolycka-ljusnarsberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljusnarsberg",
-      "gps": "59.877447,14.998849"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 409612,
-    "datetime": "2023-03-20 18:48:20 +01:00",
-    "name": "20 mars 18:41, Trafikolycka, Avesta",
-    "summary": "En busschaufför och en bilist har kolliderat i anslutning till Järnvägsstationen i Krylbo.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1841-trafikolycka-avesta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 409605,
-    "datetime": "2023-03-20 18:44:53 +01:00",
-    "name": "20 mars 14:51, Stöld, Luleå",
-    "summary": "Misstänkt ringa stöld i matbutik, Örnäset.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1451-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 409606,
-    "datetime": "2023-03-20 17:59:47 +01:00",
-    "name": "20 mars 17:00, Trafikolycka, Örebro",
-    "summary": "Två bilister har kolliderat på Mannatorpsvägen/ Östra Bangatan i Örebro.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1700-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 409609,
-    "datetime": "2023-03-20 18:19:59 +01:00",
-    "name": "20 mars 17:18, Stöld, Östersund",
-    "summary": "Misstänkt ringa stöld i matbutik, Norr.",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1718-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 409608,
-    "datetime": "2023-03-20 18:11:00 +01:00",
-    "name": "20 mars 17:11, Rån väpnat, Finspång",
-    "summary": "Butiksrån i Hällestad, Finspång",
-    "url": "/aktuellt/handelser/2023/mars/20/20-mars-1711-ran-vapnat-finspang/",
-    "type": "Rån väpnat",
-    "location": {
-      "name": "Finspång",
-      "gps": "58.707488,15.773595"
     }
   }
 ]
