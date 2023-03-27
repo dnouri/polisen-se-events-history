@@ -1,5 +1,89 @@
 [
   {
+    "id": 411407,
+    "datetime": "2023-03-27 13:16:32 +02:00",
+    "name": "27 mars 08:24, Trafikkontroll, Skellefteå",
+    "summary": "Resultat efter en trafikkontroll på E4, Bureå.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0824-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 411405,
+    "datetime": "2023-03-27 13:10:38 +02:00",
+    "name": "27 mars 13:08, Trafikolycka, Höör",
+    "summary": "Larm om påkörd person, RV23/Hörbyvägen",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1308-trafikolycka-hoor/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Höör",
+      "gps": "55.934859,13.53959"
+    }
+  },
+  {
+    "id": 411404,
+    "datetime": "2023-03-27 13:04:54 +02:00",
+    "name": "27 mars 11:49, Fylleri/LOB, Stockholm",
+    "summary": "Berusad man omhändertogs i Vällingby.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1149-fyllerilob-stockholm/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 411394,
+    "datetime": "2023-03-27 10:52:09 +02:00",
+    "name": "27 mars 10:49, Trafikolycka, Linköping",
+    "summary": "Trafikolycka mellan bil och lastbil, Gistad, Linköping",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1049-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 411392,
+    "datetime": "2023-03-27 10:42:05 +02:00",
+    "name": "27 mars 09:22, Knivlagen, Värmdö",
+    "summary": "Samtal om en utåtagerande man vid en byggnad på Odelbergs väg.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0922-knivlagen-varmdo/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 411403,
+    "datetime": "2023-03-27 12:56:27 +02:00",
+    "name": "27 mars 12:12, Trafikkontroll, Piteå",
+    "summary": "Resultat efter trafikkontroll på länsväg 373, Bergsviken.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1212-trafikkontroll-pitea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 411402,
+    "datetime": "2023-03-27 12:53:09 +02:00",
+    "name": "27 mars 12:22, Mord/dråp, försök, Stockholm",
+    "summary": "I på perrongen i Skärmarbrink anträffade ordningsvakter en skadad man.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1222-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 411399,
     "datetime": "2023-03-27 12:26:24 +02:00",
     "name": "27 mars 12:18, Övrigt, Stockholms län",
@@ -48,18 +132,6 @@
     }
   },
   {
-    "id": 411394,
-    "datetime": "2023-03-27 10:52:09 +02:00",
-    "name": "27 mars 10:49, Trafikolycka, Linköping",
-    "summary": "Trafikolycka mellan bil och lastbil, Gistad, Linköping",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1049-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
     "id": 411393,
     "datetime": "2023-03-27 10:50:06 +02:00",
     "name": "27 mars 10:25, Rattfylleri, Karlstad",
@@ -69,18 +141,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 411392,
-    "datetime": "2023-03-27 10:42:05 +02:00",
-    "name": "27 mars 09:22, Knivlagen, Värmdö",
-    "summary": "Samtal om en utåtagerande man vid en byggnad på Odelbergs väg.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0922-knivlagen-varmdo/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Skövde",
       "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 410701,
-    "datetime": "2023-03-21 8:20:51 +01:00",
-    "name": "21 mars 06:34, Stöld, Nacka",
-    "summary": "Påverkad man med datorer hittas på busshållsplats.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-0634-stold-nacka/",
-    "type": "Stöld",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 410700,
-    "datetime": "2023-03-21 8:10:43 +01:00",
-    "name": "21 mars 02:41, Mord/dråp, försök, Stockholm",
-    "summary": "Skadad kvinna hittas utomhus.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-0241-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 410699,
-    "datetime": "2023-03-21 7:53:45 +01:00",
-    "name": "21 mars 05:17, Brand, Ekerö",
-    "summary": "Brand på återvinningscentral.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-0517-brand-ekero/",
-    "type": "Brand",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 410694,
-    "datetime": "2023-03-21 7:50:05 +01:00",
-    "name": "21 mars 00:14, Brand, Huddinge",
-    "summary": "En man som eldat på en lekstuga blir omhändertagen.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-0014-brand-huddinge/",
-    "type": "Brand",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 410695,
-    "datetime": "2023-03-21 7:50:01 +01:00",
-    "name": "21 mars 01:55, Misshandel, Haninge",
-    "summary": "En man grips för att ha slagit sin fru.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-0155-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   }
 ]
