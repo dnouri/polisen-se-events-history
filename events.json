@@ -1,5 +1,41 @@
 [
   {
+    "id": 411467,
+    "datetime": "2023-03-27 21:34:01 +02:00",
+    "name": "27 mars 21:33, Trafikolycka, Norrköping",
+    "summary": "Bilar kolliderade i Norrköping",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-2133-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 411452,
+    "datetime": "2023-03-27 21:47:24 +02:00",
+    "name": "27 mars 21:45, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Vakthavande befäl besvarar frågor från media i mån av tid.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 411451,
+    "datetime": "2023-03-27 21:47:17 +02:00",
+    "name": "27 mars 21:45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Vakthavande befäl besvarar frågor från media i mån av tid.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 411468,
     "datetime": "2023-03-27 21:43:01 +02:00",
     "name": "27 mars 17:59, Våld/hot mot tjänsteman, Borås",
@@ -21,18 +57,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 411467,
-    "datetime": "2023-03-27 21:34:01 +02:00",
-    "name": "27 mars 21:33, Trafikolycka, Norrköping",
-    "summary": "Bilar kolliderade i Norrköping",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-2133-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 410773,
-    "datetime": "2023-03-21 16:23:34 +01:00",
-    "name": "21 mars 15:03, Fylleri/LOB, Huddinge",
-    "summary": "I Skogås omhändertogs en berusad man.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-1503-fyllerilob-huddinge/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 410767,
-    "datetime": "2023-03-21 16:01:40 +01:00",
-    "name": "21 mars 15:55, Brand, Grums",
-    "summary": "Det brinner i en industri",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-1555-brand-grums/",
-    "type": "Brand",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
     }
   }
 ]
