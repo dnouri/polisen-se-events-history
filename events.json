@@ -1,5 +1,41 @@
 [
   {
+    "id": 411360,
+    "datetime": "2023-03-27 7:27:57 +02:00",
+    "name": "27 mars 05:29, Stöld, Stockholm",
+    "summary": "Vaktbolag fick in larm från ett byggarbetsplats i Örby.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0529-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 411375,
+    "datetime": "2023-03-27 10:11:47 +02:00",
+    "name": "27 mars 08:16, Knivlagen, Örnsköldsvik",
+    "summary": "Misstänkt brott mot knivlagen i Örnsköldsvik.",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0816-knivlagen-ornskoldsvik/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 411332,
+    "datetime": "2023-03-27 6:58:26 +02:00",
+    "name": "27 mars 05:08, Farligt föremål, misstänkt, Höör",
+    "summary": "Misstänkt farligt föremål, Höör",
+    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0508-farligt-foremal-misstankt-hoor/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Höör",
+      "gps": "55.934859,13.53959"
+    }
+  },
+  {
     "id": 411377,
     "datetime": "2023-03-27 8:37:02 +02:00",
     "name": "27 mars 07:57, Trafikolycka, Härryda",
@@ -144,18 +180,6 @@
     }
   },
   {
-    "id": 411360,
-    "datetime": "2023-03-27 7:27:57 +02:00",
-    "name": "27 mars 05:29, Stöld, Stockholm",
-    "summary": "Vaktbolag fick in larm från ett byggarbetsplats i Örby.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0529-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 411351,
     "datetime": "2023-03-27 7:25:36 +02:00",
     "name": "27 mars 07:24, Sammanfattning natt, Örebro län",
@@ -285,18 +309,6 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 411332,
-    "datetime": "2023-03-27 6:58:26 +02:00",
-    "name": "27 mars 05:08, Farligt föremål, misstänkt, Höör",
-    "summary": "Misstänkt farligt föremål, Höör",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0508-farligt-foremal-misstankt-hoor/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Höör",
-      "gps": "55.934859,13.53959"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 410685,
-    "datetime": "2023-03-21 7:00:19 +01:00",
-    "name": "21 mars 06:00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Det finns inga händelser från natten att rapportera.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-0600-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
