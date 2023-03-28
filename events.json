@@ -12,6 +12,66 @@
     }
   },
   {
+    "id": 411615,
+    "datetime": "2023-03-28 18:22:05 +02:00",
+    "name": "28 mars 17:03, Brand, Trollhättan",
+    "summary": "Enligt SOS så ska det brunnit på flera platser vid/i Leklandet, Skogshöjden.",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1703-brand-trollhattan/",
+    "type": "Brand",
+    "location": {
+      "name": "Trollhättan",
+      "gps": "58.283489,12.285821"
+    }
+  },
+  {
+    "id": 411618,
+    "datetime": "2023-03-28 18:16:40 +02:00",
+    "name": "28 mars 16:21, Fylleri/LOB, Sollentuna",
+    "summary": "I Edsberg omhändertogs en berusad kvinna.",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1621-fyllerilob-sollentuna/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 411617,
+    "datetime": "2023-03-28 18:05:18 +02:00",
+    "name": "28 mars 18:04, Stöld, Linköping",
+    "summary": "Flera ungdomar kontrollerades i Ekholmen.",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1804-stold-linkoping/",
+    "type": "Stöld",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 411616,
+    "datetime": "2023-03-28 18:04:15 +02:00",
+    "name": "28 mars 14:21, Trafikbrott, Stockholm",
+    "summary": "I Vasastaden rapporterades en mopedförare.",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1421-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 411611,
+    "datetime": "2023-03-28 17:48:45 +02:00",
+    "name": "28 mars 16:38, Trafikolycka, singel, Falköping",
+    "summary": "En singelolycka med personbil ska enligt SOS ha inträffat vid Åsarp.",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1638-trafikolycka-singel-falkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Falköping",
+      "gps": "58.175029,13.553217"
+    }
+  },
+  {
     "id": 411610,
     "datetime": "2023-03-28 16:55:19 +02:00",
     "name": "28 mars 14:40, Bedrägeri, Västerås",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 410843,
-    "datetime": "2023-03-22 8:20:55 +01:00",
-    "name": "22 mars 08:19, Övrigt, Västra Götalands län",
-    "summary": "På grund av en teknisk säkerhetskontroll kommer presstalespersonerna ej kunna ta emot samtal fram till cirka k",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-0819-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 410841,
-    "datetime": "2023-03-22 8:05:54 +01:00",
-    "name": "22 mars 02:54, Brand, Stockholm",
-    "summary": "Brand i lägenhetshotell misstänks vara anlagd.",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-0254-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 410839,
-    "datetime": "2023-03-22 7:58:15 +01:00",
-    "name": "22 mars 06:50, Fylleri/LOB, Skellefteå",
-    "summary": "Skellefteå, person omhändertagen på Anderstorp.",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-0650-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 410825,
-    "datetime": "2023-03-22 7:04:42 +01:00",
-    "name": "22 mars 06:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-0600-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 410827,
-    "datetime": "2023-03-22 7:47:07 +01:00",
-    "name": "22 mars 07:46, Sammanfattning natt, Jönköpings län",
-    "summary": "Inga ärenden som sticker ut polisiärt.",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-0746-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
