@@ -1,5 +1,65 @@
 [
   {
+    "id": 411579,
+    "datetime": "2023-03-28 13:17:48 +02:00",
+    "name": "28 mars 13:15, Brand, Örebro",
+    "summary": "Det brinner i en bostad i Hampetorp",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1315-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 411578,
+    "datetime": "2023-03-28 13:13:41 +02:00",
+    "name": "28 mars 11:31, Arbetsplatsolycka, Oskarshamn",
+    "summary": "Larm om arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1131-arbetsplatsolycka-oskarshamn/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 411577,
+    "datetime": "2023-03-28 13:06:48 +02:00",
+    "name": "28 mars 11:10, Trafikolycka, personskada, Falkenberg",
+    "summary": "En singelolycka inträffar vid länsväg 154, Vinberg.",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1110-trafikolycka-personskada-falkenberg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 411575,
+    "datetime": "2023-03-28 12:52:36 +02:00",
+    "name": "28 mars 11:19, Arbetsplatsolycka, Lessebo",
+    "summary": "Larm om arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1119-arbetsplatsolycka-lessebo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Lessebo",
+      "gps": "56.751264,15.270001"
+    }
+  },
+  {
+    "id": 411574,
+    "datetime": "2023-03-28 12:50:28 +02:00",
+    "name": "28 mars 12:42, Trafikolycka, Lund",
+    "summary": "Trafikolycka LV108, Värpinge",
+    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1242-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
     "id": 411557,
     "datetime": "2023-03-28 10:51:31 +02:00",
     "name": "28 mars 10:49, Trafikolycka, Strängnäs",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 410823,
-    "datetime": "2023-03-22 6:40:11 +01:00",
-    "name": "22 mars 03:14, Brand, Malmö",
-    "summary": "Bilbrand, Von Rosens väg",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-0314-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 410822,
-    "datetime": "2023-03-22 6:38:31 +01:00",
-    "name": "22 mars 00:09, Brand, Markaryd",
-    "summary": "Brand på Drottninggatan.",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-0009-brand-markaryd/",
-    "type": "Brand",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 410820,
-    "datetime": "2023-03-22 6:36:33 +01:00",
-    "name": "22 mars 01:06, Stöld/inbrott, Växjö",
-    "summary": "Inbrott, Linnéuniversitetet",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-0106-stoldinbrott-vaxjo/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 410818,
-    "datetime": "2023-03-22 1:06:45 +01:00",
-    "name": "21 mars 22:45, Stöld/inbrott, Nykvarn",
-    "summary": "Vaktbolag fick in larm om pågående inbrott på en byggarbetsplats.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-2245-stoldinbrott-nykvarn/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Nykvarn",
-      "gps": "59.178177,17.427816"
-    }
-  },
-  {
-    "id": 410814,
-    "datetime": "2023-03-21 22:30:21 +01:00",
-    "name": "21 mars 22:17, Mord/dråp, försök, Huddinge",
-    "summary": "Från Vårby fick polisen samtal om ljud som beskrevs som smällare/ och eller skottlossning.",
-    "url": "/aktuellt/handelser/2023/mars/21/21-mars-2217-morddrap-forsok-huddinge/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
     }
   }
 ]
