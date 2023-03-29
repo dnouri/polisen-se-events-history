@@ -1,5 +1,65 @@
 [
   {
+    "id": 411730,
+    "datetime": "2023-03-29 13:10:37 +02:00",
+    "name": "29 mars 12:27, Trafikolycka, Nyköping",
+    "summary": "Stopp på E4 norr om Nyköping",
+    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1227-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 411683,
+    "datetime": "2023-03-29 9:43:01 +02:00",
+    "name": "29 mars 09:01, Farligt föremål, misstänkt, Västerås",
+    "summary": "Kontroll av föremål.",
+    "url": "/aktuellt/handelser/2023/mars/29/29-mars-0901-farligt-foremal-misstankt-vasteras/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 411702,
+    "datetime": "2023-03-29 11:17:58 +02:00",
+    "name": "29 mars 10:34, Farligt föremål, misstänkt, Halmstad",
+    "summary": "Larm om misstänkt farligt föremål.",
+    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1034-farligt-foremal-misstankt-halmstad/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 411706,
+    "datetime": "2023-03-29 11:26:28 +02:00",
+    "name": "29 mars 10:46, Trafikolycka, Östergötlands län",
+    "summary": "Flertalet trafikolyckor i Östergötland - dessa samlas här.",
+    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1046-trafikolycka-ostergotlands-lan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 411713,
+    "datetime": "2023-03-29 12:48:46 +02:00",
+    "name": "29 mars 09:53, Rattfylleri, Ekerö",
+    "summary": "En bilist kör efter en bil som framförs väldigt vingligt och ringer polisen.",
+    "url": "/aktuellt/handelser/2023/mars/29/29-mars-0953-rattfylleri-ekero/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ekerö",
+      "gps": "59.279834,17.790225"
+    }
+  },
+  {
     "id": 411703,
     "datetime": "2023-03-29 11:20:11 +02:00",
     "name": "29 mars 11:17, Farligt föremål, misstänkt, Jönköping",
@@ -48,18 +108,6 @@
     }
   },
   {
-    "id": 411683,
-    "datetime": "2023-03-29 9:43:01 +02:00",
-    "name": "29 mars 09:01, Farligt föremål, misstänkt, Västerås",
-    "summary": "Kontroll av föremål.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-0901-farligt-foremal-misstankt-vasteras/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
     "id": 411707,
     "datetime": "2023-03-29 11:32:17 +02:00",
     "name": "29 mars 11:07, Farligt föremål, misstänkt, Malmö",
@@ -72,18 +120,6 @@
     }
   },
   {
-    "id": 411706,
-    "datetime": "2023-03-29 11:26:28 +02:00",
-    "name": "29 mars 10:46, Trafikolycka, Östergötlands län",
-    "summary": "Flertalet trafikolyckor i Östergötland - dessa samlas här.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1046-trafikolycka-ostergotlands-lan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 411705,
     "datetime": "2023-03-29 11:26:10 +02:00",
     "name": "29 mars 11:26, Vapenlagen, Örebro",
@@ -93,18 +129,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 411702,
-    "datetime": "2023-03-29 11:17:58 +02:00",
-    "name": "29 mars 10:34, Farligt föremål, misstänkt, Halmstad",
-    "summary": "Larm om misstänkt farligt föremål.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1034-farligt-foremal-misstankt-halmstad/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Knivsta",
       "gps": "59.72612,17.792036"
-    }
-  },
-  {
-    "id": 410930,
-    "datetime": "2023-03-22 20:06:31 +01:00",
-    "name": "22 mars 19:56, Trafikolycka, singel, Borlänge",
-    "summary": "En personbil har kolliderat med en tunnelvägg vid Backaviadukten i Borlänge.",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-1956-trafikolycka-singel-borlange/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 410926,
-    "datetime": "2023-03-22 18:47:02 +01:00",
-    "name": "22 mars 18:14, Trafikolycka, Piteå",
-    "summary": "Trafikolycka i Annelund, Piteå.",
-    "url": "/aktuellt/handelser/2023/mars/22/22-mars-1814-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
     }
   }
 ]
