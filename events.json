@@ -1,17 +1,5 @@
 [
   {
-    "id": 411940,
-    "datetime": "2023-03-30 20:53:08 +02:00",
-    "name": "30 mars 18:11, Rattfylleri, Åre",
-    "summary": "Åre, grovt rattfylleri.",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1811-rattfylleri-are/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 411939,
     "datetime": "2023-03-30 20:51:57 +02:00",
     "name": "30 mars 20:43, Trafikolycka, Varberg",
@@ -24,15 +12,27 @@
     }
   },
   {
-    "id": 411938,
-    "datetime": "2023-03-30 20:43:54 +02:00",
-    "name": "30 mars 19:33, Fylleri/LOB, Nacka",
-    "summary": "Berusad man omhändertogs på Forumvägen.",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1933-fyllerilob-nacka/",
-    "type": "Fylleri/LOB",
+    "id": 411935,
+    "datetime": "2023-03-30 21:32:53 +02:00",
+    "name": "30 mars 21:32, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-2132-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
     "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 411942,
+    "datetime": "2023-03-30 21:32:00 +02:00",
+    "name": "30 mars 21:26, Brand, Storfors",
+    "summary": "Ett garage brinner i Lungsund",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-2126-brand-storfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Storfors",
+      "gps": "59.533208,14.272209"
     }
   },
   {
@@ -45,6 +45,54 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 411941,
+    "datetime": "2023-03-30 21:22:38 +02:00",
+    "name": "30 mars 20:27, Trafikbrott, Huddinge",
+    "summary": "På länsväg 259 stoppades en lastbil.",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-2027-trafikbrott-huddinge/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 411924,
+    "datetime": "2023-03-30 17:10:22 +02:00",
+    "name": "30 mars 16:51, Trafikolycka, Kiruna",
+    "summary": "Trafikolycka på länsväg 875/Färjevägen i Laxforsen.",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1651-trafikolycka-kiruna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 411940,
+    "datetime": "2023-03-30 20:53:08 +02:00",
+    "name": "30 mars 18:11, Rattfylleri, Åre",
+    "summary": "Åre, grovt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1811-rattfylleri-are/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 411938,
+    "datetime": "2023-03-30 20:43:54 +02:00",
+    "name": "30 mars 19:33, Fylleri/LOB, Nacka",
+    "summary": "Berusad man omhändertogs på Forumvägen.",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1933-fyllerilob-nacka/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
     }
   },
   {
@@ -141,18 +189,6 @@
     "location": {
       "name": "Hagfors",
       "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 411924,
-    "datetime": "2023-03-30 17:10:22 +02:00",
-    "name": "30 mars 16:51, Trafikolycka, Kiruna",
-    "summary": "Trafikolycka på länsväg 875/Färjevägen i Laxforsen.",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1651-trafikolycka-kiruna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 411072,
-    "datetime": "2023-03-23 19:40:49 +01:00",
-    "name": "23 mars 17:55, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på Bodenvägen/Svartövägen, Luleå.",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-1755-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 411063,
-    "datetime": "2023-03-23 17:53:56 +01:00",
-    "name": "23 mars 16:51, Rån, försök, Stockholm",
-    "summary": "Akalla. Försök till rån av moped.",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-1651-ran-forsok-stockholm/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 411059,
-    "datetime": "2023-03-23 17:09:03 +01:00",
-    "name": "23 mars 16:53, Brand, Avesta",
-    "summary": "Det har brunnit i en fasad till en bostad i Fors",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-1653-brand-avesta/",
-    "type": "Brand",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
     }
   }
 ]
