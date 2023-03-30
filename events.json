@@ -1,5 +1,65 @@
 [
   {
+    "id": 411870,
+    "datetime": "2023-03-30 12:13:37 +02:00",
+    "name": "30 mars 11:53, Trafikolycka, Växjö",
+    "summary": "Kollision mellan personbil och fotgängare, Teleborg",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1153-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 411878,
+    "datetime": "2023-03-30 12:22:03 +02:00",
+    "name": "30 mars 11:30, Trafikolycka, singel, Timrå",
+    "summary": "E4 Söråker, En bilist har kört in i mitträcke",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1130-trafikolycka-singel-timra/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 411873,
+    "datetime": "2023-03-30 12:15:21 +02:00",
+    "name": "30 mars 11:56, Trafikkontroll, Sundsvall",
+    "summary": "Haga, resultat efter trafikkontroll nära Hagarondellen",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1156-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 411859,
+    "datetime": "2023-03-30 10:30:38 +02:00",
+    "name": "30 mars 10:12, Trafikolycka, singel, Umeå",
+    "summary": "Ålidhemstunneln, en singelolycka med personbil",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1012-trafikolycka-singel-umea/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 411860,
+    "datetime": "2023-03-30 12:04:21 +02:00",
+    "name": "30 mars 12:00, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, ett urval av polisens arbete i trafiken under morgon och förmiddag",
+    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1200-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 411696,
     "datetime": "2023-03-29 11:06:10 +02:00",
     "name": "29 mars 11:00, Farligt föremål, misstänkt, Luleå",
@@ -81,18 +141,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 411859,
-    "datetime": "2023-03-30 10:30:38 +02:00",
-    "name": "30 mars 10:12, Trafikolycka, singel, Umeå",
-    "summary": "Ålidhemstunneln, en singelolycka med personbil",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1012-trafikolycka-singel-umea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5946,54 +5994,6 @@
     "summary": "Påverkad man misshandlar förbipasserande.",
     "url": "/aktuellt/handelser/2023/mars/23/23-mars-1240-misshandel-stockholm/",
     "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 411000,
-    "datetime": "2023-03-23 13:42:15 +01:00",
-    "name": "23 mars 13:42, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-1342-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 411008,
-    "datetime": "2023-03-23 13:41:14 +01:00",
-    "name": "23 mars 10:01, Sjukdom/olycksfall, Stockholm",
-    "summary": "En man stiger in i en bil och vill åka till Uppsala.",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-1001-sjukdomolycksfall-stockholm/",
-    "type": "Sjukdom/olycksfall",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 411007,
-    "datetime": "2023-03-23 13:38:15 +01:00",
-    "name": "23 mars 13:38, Trafikolycka, Sävsjö",
-    "summary": "Trafikolycka Sävsjö",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-1338-trafikolycka-savsjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sävsjö",
-      "gps": "57.398996,14.665814"
-    }
-  },
-  {
-    "id": 411005,
-    "datetime": "2023-03-23 13:27:42 +01:00",
-    "name": "23 mars 07:46, Stöld/inbrott, Stockholm",
-    "summary": "Efter källarinbrott på Kungsholmen grips en man.",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-0746-stoldinbrott-stockholm/",
-    "type": "Stöld/inbrott",
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
