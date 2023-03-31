@@ -1,5 +1,77 @@
 [
   {
+    "id": 412001,
+    "datetime": "2023-03-31 10:11:05 +02:00",
+    "name": "31 mars 10:10, Trafikolycka, Linköping",
+    "summary": "Olycka på länsväg 636 utanför Vikingstad.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1010-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 412003,
+    "datetime": "2023-03-31 10:20:16 +02:00",
+    "name": "31 mars 10:19, Trafikolycka, Linköping",
+    "summary": "Bilist körde in i stolpe på Lambohovsleden.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1019-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 412002,
+    "datetime": "2023-03-31 10:15:05 +02:00",
+    "name": "31 mars 10:10, Trafikolycka, Helsingborg",
+    "summary": "Larm om trafikolycka på E4, Trafikplats Kropp.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1010-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 411998,
+    "datetime": "2023-03-31 10:01:56 +02:00",
+    "name": "31 mars 10:01, Trafikolycka, Jönköping",
+    "summary": "Trafikolycka E4 Fridhem, Jönköping",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1001-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 412000,
+    "datetime": "2023-03-31 10:08:41 +02:00",
+    "name": "31 mars 09:50, Trafikolycka, Karlskrona",
+    "summary": "Larm om trafikolycka, Annebo",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0950-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 411989,
+    "datetime": "2023-03-31 9:26:23 +02:00",
+    "name": "31 mars 09:26, Trafikolycka, Kinda",
+    "summary": "SOS-larm om trafikolycka på riksväg 34 utanför Kisa.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0926-trafikolycka-kinda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kinda",
+      "gps": "57.997571,15.685223"
+    }
+  },
+  {
     "id": 411985,
     "datetime": "2023-03-31 8:33:02 +02:00",
     "name": "31 mars 06:56, Trafikolycka, personskada, Gävle",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Hudiksvall",
       "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 411989,
-    "datetime": "2023-03-31 9:26:23 +02:00",
-    "name": "31 mars 09:26, Trafikolycka, Kinda",
-    "summary": "SOS-larm om trafikolycka på riksväg 34 utanför Kisa.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0926-trafikolycka-kinda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kinda",
-      "gps": "57.997571,15.685223"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Värmdö",
       "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 411108,
-    "datetime": "2023-03-24 7:55:04 +01:00",
-    "name": "24 mars 00:10, Brand, Järfälla",
-    "summary": "Bilbrand i Viksjö.",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0010-brand-jarfalla/",
-    "type": "Brand",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 411109,
-    "datetime": "2023-03-24 7:55:00 +01:00",
-    "name": "24 mars 01:16, Trafikbrott, Sundbyberg",
-    "summary": "En bilförare utan körkort i trafikolycka.",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0116-trafikbrott-sundbyberg/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 411112,
-    "datetime": "2023-03-24 7:54:56 +01:00",
-    "name": "24 mars 01:57, Knivlagen, Stockholm",
-    "summary": "Man bär batong.",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0157-knivlagen-stockholm/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 411116,
-    "datetime": "2023-03-24 7:54:52 +01:00",
-    "name": "24 mars 02:22, Hemfridsbrott, Huddinge",
-    "summary": "Främmande män med ficklampor har tagit sig in hos ett äldre par.",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0222-hemfridsbrott-huddinge/",
-    "type": "Hemfridsbrott",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 411102,
-    "datetime": "2023-03-24 7:54:48 +01:00",
-    "name": "23 mars 23:12, Rattfylleri, Solna",
-    "summary": "Två bilförare är nära att krocka på Klarastrandsleden och en av förarna ringer polisen.",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-2312-rattfylleri-solna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
     }
   }
 ]
