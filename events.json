@@ -1,14 +1,38 @@
 [
   {
-    "id": 412016,
-    "datetime": "2023-03-31 12:57:18 +02:00",
-    "name": "31 mars 11:35, Trafikolycka, Vilhelmina",
-    "summary": "Larm om trafikolycka öster om Vilhelmina flygplats.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1135-trafikolycka-vilhelmina/",
-    "type": "Trafikolycka",
+    "id": 412011,
+    "datetime": "2023-03-31 11:33:39 +02:00",
+    "name": "31 mars 11:33, Anträffat gods, Norrköping",
+    "summary": "Ett brev med oklart innehåll har inkommit till Migrationsverket.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1133-antraffat-gods-norrkoping/",
+    "type": "Anträffat gods",
     "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 412033,
+    "datetime": "2023-03-31 14:12:07 +02:00",
+    "name": "31 mars 14:10, Övrigt, Örebro",
+    "summary": "En man anträffades under torsdagskvällen och sitter numera anhållen misstänkt för ett grovt rån som inträffade",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1410-ovrigt-orebro/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 412023,
+    "datetime": "2023-03-31 14:04:43 +02:00",
+    "name": "31 mars 12:30, Fjällräddning, Åre",
+    "summary": "Fjällräddningsinsats på Åreskutan.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1230-fjallraddning-are/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Härjedalen",
       "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 412016,
+    "datetime": "2023-03-31 12:57:18 +02:00",
+    "name": "31 mars 11:35, Trafikolycka, Vilhelmina",
+    "summary": "Larm om trafikolycka öster om Vilhelmina flygplats.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1135-trafikolycka-vilhelmina/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
     }
   },
   {
@@ -129,18 +165,6 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 412011,
-    "datetime": "2023-03-31 11:33:39 +02:00",
-    "name": "31 mars 11:33, Anträffat gods, Norrköping",
-    "summary": "Ett brev med oklart innehåll har inkommit till Migrationsverket.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1133-antraffat-gods-norrkoping/",
-    "type": "Anträffat gods",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Strängnäs",
       "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 411144,
-    "datetime": "2023-03-24 11:54:43 +01:00",
-    "name": "24 mars 11:50, Rattfylleri, Malung-Sälen",
-    "summary": "Två skoterförare misstänks för rattfylleri",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-1150-rattfylleri-malung-salen/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
-    }
-  },
-  {
-    "id": 411143,
-    "datetime": "2023-03-24 11:47:19 +01:00",
-    "name": "24 mars 08:02, Trafikkontroll, Övertorneå",
-    "summary": "Resultat efter trafikkontroll på riksväg 99, Övertorneå,",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0802-trafikkontroll-overtornea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Övertorneå",
-      "gps": "66.388444,23.639283"
     }
   }
 ]
