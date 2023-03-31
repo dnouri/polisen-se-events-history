@@ -1,14 +1,14 @@
 [
   {
-    "id": 412002,
-    "datetime": "2023-03-31 10:15:05 +02:00",
-    "name": "31 mars 10:10, Trafikolycka, Helsingborg",
-    "summary": "Larm om trafikolycka på E4, Trafikplats Kropp.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1010-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
+    "id": 412006,
+    "datetime": "2023-03-31 11:12:42 +02:00",
+    "name": "31 mars 09:49, Trafikolycka, singel, Tanum",
+    "summary": "En singeloycka med personbil ska ha inträffat vid Naverstad-Mo.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0949-trafikolycka-singel-tanum/",
+    "type": "Trafikolycka, singel",
     "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
     }
   },
   {
@@ -24,6 +24,18 @@
     }
   },
   {
+    "id": 411996,
+    "datetime": "2023-03-31 10:57:47 +02:00",
+    "name": "31 mars 09:13, Misshandel, grov, Göteborg",
+    "summary": "Larm om knivskadad person i Askim.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0913-misshandel-grov-goteborg/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 412003,
     "datetime": "2023-03-31 10:20:16 +02:00",
     "name": "31 mars 10:19, Trafikolycka, Linköping",
@@ -33,6 +45,18 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 412002,
+    "datetime": "2023-03-31 10:15:05 +02:00",
+    "name": "31 mars 10:10, Trafikolycka, Helsingborg",
+    "summary": "Larm om trafikolycka på E4, Trafikplats Kropp.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1010-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 411117,
-    "datetime": "2023-03-24 7:55:53 +01:00",
-    "name": "24 mars 07:50, Trafikolycka, Höganäs",
-    "summary": "Olycka på Jonstorpsvägen, Jonstorp.",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0750-trafikolycka-hoganas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Höganäs",
-      "gps": "56.200639,12.555329"
-    }
-  },
-  {
-    "id": 411104,
-    "datetime": "2023-03-24 7:55:09 +01:00",
-    "name": "23 mars 23:33, Kontroll person/fordon, Värmdö",
-    "summary": "Personer med yxa försöker stjäla koppar i Gustavsberg.",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-2333-kontroll-personfordon-varmdo/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   }
 ]
