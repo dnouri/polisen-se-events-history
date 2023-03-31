@@ -1,5 +1,113 @@
 [
   {
+    "id": 411974,
+    "datetime": "2023-03-31 7:08:19 +02:00",
+    "name": "31 mars 06:09, Brand, Kristianstad",
+    "summary": "Vånga. Brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0609-brand-kristianstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 411973,
+    "datetime": "2023-03-31 7:06:22 +02:00",
+    "name": "31 mars 07:06, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0706-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 411972,
+    "datetime": "2023-03-31 7:04:33 +02:00",
+    "name": "31 mars 07:04, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0704-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 411971,
+    "datetime": "2023-03-31 7:03:48 +02:00",
+    "name": "31 mars 04:24, Arbetsplatsolycka, Älmhult",
+    "summary": "Häradsvägen. Man skadad efter arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0424-arbetsplatsolycka-almhult/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Älmhult",
+      "gps": "56.552446,14.137405"
+    }
+  },
+  {
+    "id": 411970,
+    "datetime": "2023-03-31 7:03:15 +02:00",
+    "name": "31 mars 07:03, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0703-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 411969,
+    "datetime": "2023-03-31 7:02:31 +02:00",
+    "name": "31 mars 07:02, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0702-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 411967,
+    "datetime": "2023-03-31 7:00:28 +02:00",
+    "name": "31 mars 00:55, Misshandel, grov, Växjö",
+    "summary": "Räppe. Man skadad efter bråk utomhus.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0055-misshandel-grov-vaxjo/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 411965,
+    "datetime": "2023-03-31 6:58:43 +02:00",
+    "name": "31 mars 06:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Ett urval ur kvällen/nattens händelser.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0600-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 411966,
+    "datetime": "2023-03-31 6:58:37 +02:00",
+    "name": "31 mars 06:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Ett urval ur kvällen/nattens händelser.",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0600-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 411953,
     "datetime": "2023-03-30 23:53:34 +02:00",
     "name": "30 mars 23:44, Detonation, Malmö",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Ljungby",
       "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 411096,
-    "datetime": "2023-03-24 6:46:30 +01:00",
-    "name": "24 mars 02:48, Skadegörelse, Malmö",
-    "summary": "Bilbrand på Serenadgatan.",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0248-skadegorelse-malmo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 411095,
-    "datetime": "2023-03-24 6:42:48 +01:00",
-    "name": "24 mars 02:38, Misshandel, grov, Helsingborg",
-    "summary": "Grov misshandel, Stortorget.",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0238-misshandel-grov-helsingborg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 411093,
-    "datetime": "2023-03-24 5:49:37 +01:00",
-    "name": "24 mars 05:46, Narkotikabrott, Åre",
-    "summary": "Narkotikabrott",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0546-narkotikabrott-are/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 411087,
-    "datetime": "2023-03-24 2:43:41 +01:00",
-    "name": "23 mars 17:52, Försvunnen person, Örebro",
-    "summary": "Försvunnen 74-årig man anträffad vid liv.",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-1752-forsvunnen-person-orebro/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 411092,
-    "datetime": "2023-03-24 3:25:54 +01:00",
-    "name": "24 mars 03:23, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens händelser",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0323-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 411091,
-    "datetime": "2023-03-24 3:22:58 +01:00",
-    "name": "24 mars 03:13, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens händelser",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0313-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 411090,
-    "datetime": "2023-03-24 3:19:42 +01:00",
-    "name": "24 mars 01:40, Mord/dråp, försök, Malmö",
-    "summary": "Kvinna skadad i samband med knivskärning.",
-    "url": "/aktuellt/handelser/2023/mars/24/24-mars-0140-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 411084,
-    "datetime": "2023-03-23 22:11:57 +01:00",
-    "name": "23 mars 21:45, Rattfylleri, Örebro",
-    "summary": "En bilists är misstänkt för brott i Rosta",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-2145-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 411083,
-    "datetime": "2023-03-23 22:09:32 +01:00",
-    "name": "23 mars 21:57, Trafikolycka, vilt, Karlstad",
-    "summary": "En olycka har inträffat i höjd med Väsemotet",
-    "url": "/aktuellt/handelser/2023/mars/23/23-mars-2157-trafikolycka-vilt-karlstad/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
