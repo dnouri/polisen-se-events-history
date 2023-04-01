@@ -1,5 +1,53 @@
 [
   {
+    "id": 412115,
+    "datetime": "2023-04-01 13:56:50 +02:00",
+    "name": "01 april 12:49, Fylleri/LOB, Östersund",
+    "summary": "Polisen kontaktas angående en berusad man i centrala Östersund.",
+    "url": "/aktuellt/handelser/2023/april/1/01-april-1249-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 412112,
+    "datetime": "2023-04-01 13:24:36 +02:00",
+    "name": "01 april 12:53, Brand, Orust",
+    "summary": "Rökutveckling syns i en villa i Ellös.",
+    "url": "/aktuellt/handelser/2023/april/1/01-april-1253-brand-orust/",
+    "type": "Brand",
+    "location": {
+      "name": "Orust",
+      "gps": "58.180267,11.675984"
+    }
+  },
+  {
+    "id": 412120,
+    "datetime": "2023-04-01 13:55:10 +02:00",
+    "name": "01 april 13:01, Trafikolycka, Umeå",
+    "summary": "Polisen kontaktas angående en snöskoterolycka som inträffat vid 11:45.",
+    "url": "/aktuellt/handelser/2023/april/1/01-april-1301-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 412119,
+    "datetime": "2023-04-01 13:48:05 +02:00",
+    "name": "01 april 13:39, Trafikolycka, singel, Nykvarn",
+    "summary": "Det har inträffat en singelolycka på G:a Strängnäsvägen. En bilist har kört av vägen. Polis och räddningstjäns",
+    "url": "/aktuellt/handelser/2023/april/1/01-april-1339-trafikolycka-singel-nykvarn/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Nykvarn",
+      "gps": "59.178177,17.427816"
+    }
+  },
+  {
     "id": 412118,
     "datetime": "2023-04-01 13:34:49 +02:00",
     "name": "01 april 11:39, Trafikkontroll, Kramfors",
@@ -45,18 +93,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 412112,
-    "datetime": "2023-04-01 13:24:36 +02:00",
-    "name": "01 april 12:53, Brand, Orust",
-    "summary": "Rökutveckling syns i en villa i Ellös.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-1253-brand-orust/",
-    "type": "Brand",
-    "location": {
-      "name": "Orust",
-      "gps": "58.180267,11.675984"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 411220,
-    "datetime": "2023-03-25 7:21:21 +01:00",
-    "name": "25 mars 01:46, Misshandel, grov, Gävle",
-    "summary": "Skadad man inkommer till akuten.",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-0146-misshandel-grov-gavle/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 411219,
-    "datetime": "2023-03-25 7:14:55 +01:00",
-    "name": "25 mars 00:17, Stöld, försök, Solna",
-    "summary": "En inringare från Råsunda ser att en man står på en balkong och försöker bryta sig in i en lägenhet  med en ko",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-0017-stold-forsok-solna/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 411218,
-    "datetime": "2023-03-25 7:09:46 +01:00",
-    "name": "25 mars 02:30, Skadegörelse, Sala",
-    "summary": "Kvinna misstänkt för flera brott.",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-0230-skadegorelse-sala/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Sala",
-      "gps": "59.920859,16.606328"
     }
   }
 ]
