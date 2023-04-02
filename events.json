@@ -1,5 +1,113 @@
 [
   {
+    "id": 412148,
+    "datetime": "2023-04-02 8:19:31 +02:00",
+    "name": "02 april 03:07, Trafikolycka, Stockholm",
+    "summary": "Polisbil under utryckning krockades med taxibil på riksväg 73.",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0307-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 412141,
+    "datetime": "2023-04-02 8:11:59 +02:00",
+    "name": "02 april 07:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Här följer ett urval av kvällens och nattens händelser.",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 412142,
+    "datetime": "2023-04-02 8:10:11 +02:00",
+    "name": "02 april 07:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Här följer ett urval av kvällens och nattens händelser.",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0700-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 412147,
+    "datetime": "2023-04-02 8:09:48 +02:00",
+    "name": "02 april 08:09, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat efter polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0809-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 412146,
+    "datetime": "2023-04-02 7:53:37 +02:00",
+    "name": "02 april 07:53, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0753-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 412140,
+    "datetime": "2023-04-02 7:48:22 +02:00",
+    "name": "02 april 07:48, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0748-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 412145,
+    "datetime": "2023-04-02 7:48:22 +02:00",
+    "name": "02 april 07:48, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0748-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 412144,
+    "datetime": "2023-04-02 7:45:26 +02:00",
+    "name": "02 april 07:45, Sammanfattning natt, Dalarnas län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0745-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 412143,
+    "datetime": "2023-04-02 7:44:59 +02:00",
+    "name": "02 april 07:42, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/april/2/02-april-0742-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 412139,
     "datetime": "2023-04-02 7:39:22 +02:00",
     "name": "02 april 07:39, Sammanfattning natt, Västernorrlands län",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 411246,
-    "datetime": "2023-03-25 12:32:43 +01:00",
-    "name": "25 mars 10:57, Trafikbrott, Sundsvall",
-    "summary": "Stenstan, bilist stoppad efter att ej ha stannat vid stopplikt",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-1057-trafikbrott-sundsvall/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 411245,
-    "datetime": "2023-03-25 12:31:31 +01:00",
-    "name": "25 mars 10:09, Trafikkontroll, Kramfors",
-    "summary": "Riksväg 90 Strömnäs, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-1009-trafikkontroll-kramfors/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 411244,
-    "datetime": "2023-03-25 12:29:38 +01:00",
-    "name": "25 mars 09:23, Rattfylleri, Sundsvall",
-    "summary": "Birsta, en förare blåste positivit i samband med nykterhetskontroll i trafiken",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-0923-rattfylleri-sundsvall/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 411243,
-    "datetime": "2023-03-25 12:21:22 +01:00",
-    "name": "25 mars 11:32, Trafikolycka, Sundsvall",
-    "summary": "Njurunda, larm inkommer gällande påkörd person",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-1132-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 411242,
-    "datetime": "2023-03-25 12:13:32 +01:00",
-    "name": "25 mars 12:03, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken under morgon och förmiddag",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-1203-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 411241,
-    "datetime": "2023-03-25 12:03:11 +01:00",
-    "name": "25 mars 12:00, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat efter trafikkontroller under morgon och förmiddag",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-1200-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 411240,
-    "datetime": "2023-03-25 10:29:41 +01:00",
-    "name": "25 mars 10:00, Trafikolycka, Kristinehamn",
-    "summary": "Två fordon är inblandade i en trafikolycka på länsväg 603",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-1000-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 411239,
-    "datetime": "2023-03-25 9:43:15 +01:00",
-    "name": "25 mars 09:39, Trafikolycka, Örebro",
-    "summary": "En bilist har voltat på E18",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-0939-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 411236,
-    "datetime": "2023-03-25 10:18:04 +01:00",
-    "name": "24 mars 22:39, Misshandel, grov, Uppsala",
-    "summary": "Kvinna svårt misshandlad.",
-    "url": "/aktuellt/handelser/2023/mars/25/24-mars-2239-misshandel-grov-uppsala/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
