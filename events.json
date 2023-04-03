@@ -1,14 +1,62 @@
 [
   {
-    "id": 413210,
-    "datetime": "2023-04-03 11:05:33 +02:00",
-    "name": "03 april 07:52, Mord/dråp, Göteborg",
-    "summary": "Polis larmas till en bostad på Hisingen med anledning av ett familjebråk.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0752-morddrap-goteborg/",
-    "type": "Mord/dråp",
+    "id": 413237,
+    "datetime": "2023-04-03 12:21:26 +02:00",
+    "name": "03 april 12:16, Misshandel, grov, Nässjö",
+    "summary": "Större bråk, parkering Brogatan, Nässjö",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1216-misshandel-grov-nassjo/",
+    "type": "Misshandel, grov",
     "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 413236,
+    "datetime": "2023-04-03 12:21:21 +02:00",
+    "name": "03 april 12:20, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1220-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 413235,
+    "datetime": "2023-04-03 12:02:44 +02:00",
+    "name": "03 april 11:58, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1158-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 413234,
+    "datetime": "2023-04-03 11:58:55 +02:00",
+    "name": "03 april 10:32, Trafikkontroll, Skellefteå",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1032-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 413233,
+    "datetime": "2023-04-03 11:55:01 +02:00",
+    "name": "03 april 10:52, Narkotikabrott, Sollefteå",
+    "summary": "Ung man misstänks för ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1052-narkotikabrott-solleftea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
     }
   },
   {
@@ -21,6 +69,30 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 413232,
+    "datetime": "2023-04-03 11:51:00 +02:00",
+    "name": "03 april 10:52, Rattfylleri, Piteå",
+    "summary": "Piteå, man misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1052-rattfylleri-pitea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 413210,
+    "datetime": "2023-04-03 11:05:33 +02:00",
+    "name": "03 april 07:52, Mord/dråp, Göteborg",
+    "summary": "Polis larmas till en bostad på Hisingen med anledning av ett familjebråk.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0752-morddrap-goteborg/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -156,18 +228,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -177,6 +237,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Höganäs",
       "gps": "56.200639,12.555329"
-    }
-  },
-  {
-    "id": 411312,
-    "datetime": "2023-03-26 15:57:28 +02:00",
-    "name": "26 mars 15:45, Trafikolycka, Solna",
-    "summary": "Polis och ambulans kallast till Råsta Strandväg vid Solna tenniscenter med anledning av en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1545-trafikolycka-solna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 411311,
-    "datetime": "2023-03-26 15:45:23 +02:00",
-    "name": "26 mars 15:45, Övrigt, Hallands län",
-    "summary": "Efter klockan 16:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1545-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 411310,
-    "datetime": "2023-03-26 15:45:12 +02:00",
-    "name": "26 mars 15:45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 16:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1545-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 411307,
-    "datetime": "2023-03-26 14:12:13 +02:00",
-    "name": "26 mars 13:31, Larm Överfall, Göteborg",
-    "summary": "Vi får larm om ett bråk i en mataffär på Andra Långgatan.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1331-larm-overfall-goteborg/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 411300,
-    "datetime": "2023-03-26 13:28:47 +02:00",
-    "name": "26 mars 12:56, Kontroll person/fordon, Uppsala",
-    "summary": "Allmänhet hittar ensamt barn i Sävja.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1256-kontroll-personfordon-uppsala/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 411309,
-    "datetime": "2023-03-26 14:58:21 +02:00",
-    "name": "26 mars 14:58, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1458-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
