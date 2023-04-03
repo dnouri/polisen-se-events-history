@@ -1,5 +1,29 @@
 [
   {
+    "id": 413201,
+    "datetime": "2023-04-03 8:33:16 +02:00",
+    "name": "03 april 07:44, Trafikolycka, Stockholm",
+    "summary": "Trafikolycka, Rågsved",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0744-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 413184,
+    "datetime": "2023-04-03 7:09:05 +02:00",
+    "name": "03 april 06:49, Trafikolycka, Örebro",
+    "summary": "Polis är på plats vid en trafikolycka på Aspholmen.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0649-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 413190,
     "datetime": "2023-04-03 7:40:15 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Södermanlands län",
@@ -12,18 +36,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -33,6 +45,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -153,18 +177,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 413184,
-    "datetime": "2023-04-03 7:09:05 +02:00",
-    "name": "03 april 06:49, Trafikolycka, Örebro",
-    "summary": "Polis är på plats vid en trafikolycka på Aspholmen.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0649-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 411295,
-    "datetime": "2023-03-26 12:03:29 +02:00",
-    "name": "26 mars 10:54, Narkotikabrott, Sollefteå",
-    "summary": "Sollefteå, misstänkt narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1054-narkotikabrott-solleftea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
     }
   }
 ]
