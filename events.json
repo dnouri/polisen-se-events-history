@@ -1,5 +1,65 @@
 [
   {
+    "id": 413241,
+    "datetime": "2023-04-03 13:16:03 +02:00",
+    "name": "31 mars 12:00, Narkotikabrott, Orust",
+    "summary": "Grovt narkotikabrott i Henån",
+    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1200-narkotikabrott-orust/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Orust",
+      "gps": "58.180267,11.675984"
+    }
+  },
+  {
+    "id": 413240,
+    "datetime": "2023-04-03 13:11:37 +02:00",
+    "name": "03 april 12:54, Trafikolycka, personskada, Uppsala",
+    "summary": "Kollision mellan personbilar",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1254-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 413239,
+    "datetime": "2023-04-03 12:55:24 +02:00",
+    "name": "03 april 12:13, Stöld, Umeå",
+    "summary": "Ung man misstänks för ringa stöld.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1213-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 413218,
+    "datetime": "2023-04-03 9:27:45 +02:00",
+    "name": "03 april 08:57, Arbetsplatsolycka, Stockholm",
+    "summary": "Larm om arbetsplatsolycka, Solnavägen.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0857-arbetsplatsolycka-stockholm/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 413238,
+    "datetime": "2023-04-03 12:51:47 +02:00",
+    "name": "03 april 11:10, Brand, Lidköping",
+    "summary": "Polis och räddningstjänst larmas till Kvarnegårdsgatan med anledning av en rökfylld lägenhet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1110-brand-lidkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Lidköping",
+      "gps": "58.503505,13.157077"
+    }
+  },
+  {
     "id": 413219,
     "datetime": "2023-04-03 9:44:51 +02:00",
     "name": "03 april 09:37, Trafikolycka, Stockholm",
@@ -177,18 +237,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 413218,
-    "datetime": "2023-04-03 9:27:45 +02:00",
-    "name": "03 april 08:57, Arbetsplatsolycka, Stockholm",
-    "summary": "Larm om arbetsplatsolycka, Solnavägen.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0857-arbetsplatsolycka-stockholm/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 411316,
-    "datetime": "2023-03-26 22:18:14 +02:00",
-    "name": "26 mars 21:17, Rattfylleri, Ljungby",
-    "summary": "Men i 20-årsåldern misstänks för drograttfylleri efter kontroll.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-2117-rattfylleri-ljungby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 411315,
-    "datetime": "2023-03-26 18:07:51 +02:00",
-    "name": "26 mars 17:02, Trafikolycka, Ronneby",
-    "summary": "En personbil och en A-traktor kolliderar på riksväg 27 väster om Hasselstad.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1702-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 411314,
-    "datetime": "2023-03-26 17:25:01 +02:00",
-    "name": "26 mars 16:49, Trafikolycka, Helsingborg",
-    "summary": "En trafikolycka med två fordon sker på E6 i höjd med Rydebäck.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1649-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 411313,
-    "datetime": "2023-03-26 16:57:31 +02:00",
-    "name": "26 mars 16:02, Trafikolycka, Höganäs",
-    "summary": "En singelolycka inträffar på väg 1451 sydväst om Arild.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1602-trafikolycka-hoganas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Höganäs",
-      "gps": "56.200639,12.555329"
     }
   }
 ]
