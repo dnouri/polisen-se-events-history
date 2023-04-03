@@ -1,5 +1,29 @@
 [
   {
+    "id": 413266,
+    "datetime": "2023-04-03 18:37:49 +02:00",
+    "name": "03 april 16:36, Anträffad död, Göteborg",
+    "summary": "Larm om drunkningstillbud/räddningsinsats vid Näset via SOS.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1636-antraffad-dod-goteborg/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 413274,
+    "datetime": "2023-04-03 18:35:04 +02:00",
+    "name": "03 april 17:48, Fylleri/LOB, Hedemora",
+    "summary": "En man är omhändertagen i centrum",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1748-fyllerilob-hedemora/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Hedemora",
+      "gps": "60.277545,15.985892"
+    }
+  },
+  {
     "id": 413273,
     "datetime": "2023-04-03 18:16:40 +02:00",
     "name": "03 april 18:13, Brand, Malmö",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 413268,
+    "datetime": "2023-04-03 17:28:08 +02:00",
+    "name": "03 april 17:25, Larm Överfall, Stockholm",
+    "summary": "Personalen på ett boende har utlöst överfallslarm då någon på boendet enligt initiala uppgifter har bemötts me",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1725-larm-overfall-stockholm/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -69,18 +105,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 413268,
-    "datetime": "2023-04-03 17:28:08 +02:00",
-    "name": "03 april 17:25, Larm Överfall, Stockholm",
-    "summary": "Personalen på ett boende har utlöst överfallslarm då någon på boendet enligt initiala uppgifter har bemötts me",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1725-larm-overfall-stockholm/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -516,18 +540,6 @@
     }
   },
   {
-    "id": 413192,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
-    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 413186,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
@@ -537,6 +549,18 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413192,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
+    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Upplands-bro",
       "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 411373,
-    "datetime": "2023-03-27 8:14:05 +02:00",
-    "name": "26 mars 20:09, Rån väpnat, Sigtuna",
-    "summary": "I Valsta hotade en okänd gärningsperson till sig en personbil.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-2009-ran-vapnat-sigtuna/",
-    "type": "Rån väpnat",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 411372,
-    "datetime": "2023-03-27 8:10:23 +02:00",
-    "name": "27 mars 08:07, Sammanfattning natt, Östergötlands län",
-    "summary": "Natten har genererat ca 40 händelser som RLC hanterat. Här följer ett kort urval av dem.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0807-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
