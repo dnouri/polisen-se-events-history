@@ -1,5 +1,29 @@
 [
   {
+    "id": 413210,
+    "datetime": "2023-04-03 11:05:33 +02:00",
+    "name": "03 april 07:52, Mord/dråp, Göteborg",
+    "summary": "Polis larmas till en bostad på Hisingen med anledning av ett familjebråk.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0752-morddrap-goteborg/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 413230,
+    "datetime": "2023-04-03 10:50:15 +02:00",
+    "name": "03 april 10:31, Brand, Stockholm",
+    "summary": "Larm om brand, Skarpnäck",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1031-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 413220,
     "datetime": "2023-04-03 9:54:49 +02:00",
     "name": "03 april 09:31, Trafikolycka, Piteå",
@@ -132,18 +156,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -153,6 +165,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 411308,
-    "datetime": "2023-03-26 14:35:09 +02:00",
-    "name": "26 mars 14:01, Trafikolycka, Malmö",
-    "summary": "Olycka på Hyacintgatan.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1401-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 411298,
-    "datetime": "2023-03-26 14:29:36 +02:00",
-    "name": "26 mars 14:29, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1429-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
