@@ -1,5 +1,77 @@
 [
   {
+    "id": 413291,
+    "datetime": "2023-04-03 21:10:09 +02:00",
+    "name": "03 april 17:07, Brand, Nordmaling",
+    "summary": "Brand i vindskydd utanför Nyåker.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1707-brand-nordmaling/",
+    "type": "Brand",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
+    "id": 413290,
+    "datetime": "2023-04-03 21:04:57 +02:00",
+    "name": "03 april 20:44, Brand, Malmö",
+    "summary": "Limhamn. Brand i anslutning till byggnad.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-2044-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 413289,
+    "datetime": "2023-04-03 21:03:26 +02:00",
+    "name": "03 april 20:56, Knivlagen, Stockholm",
+    "summary": "Ett vittne som befinner sig på en T-station i en söderförort observerar en kvinna som står och håller i en kni",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-2056-knivlagen-stockholm/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 413288,
+    "datetime": "2023-04-03 20:57:55 +02:00",
+    "name": "03 april 20:04, Misshandel, Botkyrka",
+    "summary": "En man har gripits för misshandel efter det att han har slagit en kvinna i en lägenhet i Tullinge.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-2004-misshandel-botkyrka/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 413287,
+    "datetime": "2023-04-03 20:48:22 +02:00",
+    "name": "03 april 16:48, Mord/dråp, Malmö",
+    "summary": "Oxie. Anträffad avliden person i bostad.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1648-morddrap-malmo/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 413286,
+    "datetime": "2023-04-03 20:47:46 +02:00",
+    "name": "03 april 19:17, Trafikbrott, Laxå",
+    "summary": "En bilist är misstänkt för brott i Von Boijområdet",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1917-trafikbrott-laxa/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
     "id": 413285,
     "datetime": "2023-04-03 20:33:54 +02:00",
     "name": "03 april 18:38, Bedrägeri, Borlänge",
@@ -660,18 +732,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -681,6 +741,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Höör",
       "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 411404,
-    "datetime": "2023-03-27 13:04:54 +02:00",
-    "name": "27 mars 11:49, Fylleri/LOB, Stockholm",
-    "summary": "Berusad man omhändertogs i Vällingby.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1149-fyllerilob-stockholm/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 411394,
-    "datetime": "2023-03-27 10:52:09 +02:00",
-    "name": "27 mars 10:49, Trafikolycka, Linköping",
-    "summary": "Trafikolycka mellan bil och lastbil, Gistad, Linköping",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1049-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 411392,
-    "datetime": "2023-03-27 10:42:05 +02:00",
-    "name": "27 mars 09:22, Knivlagen, Värmdö",
-    "summary": "Samtal om en utåtagerande man vid en byggnad på Odelbergs väg.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0922-knivlagen-varmdo/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 411403,
-    "datetime": "2023-03-27 12:56:27 +02:00",
-    "name": "27 mars 12:12, Trafikkontroll, Piteå",
-    "summary": "Resultat efter trafikkontroll på länsväg 373, Bergsviken.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1212-trafikkontroll-pitea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 411399,
-    "datetime": "2023-03-27 12:26:24 +02:00",
-    "name": "27 mars 12:18, Övrigt, Stockholms län",
-    "summary": "Fotpatrullering har skett på flera platser mellan klockan 08-12.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1218-ovrigt-stockholms-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 411397,
-    "datetime": "2023-03-27 11:28:24 +02:00",
-    "name": "27 mars 10:12, Trafikolycka, singel, Gotland",
-    "summary": "Ingen misstanke om brott vid olyckan som skedde på länsväg 148 i Rute.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1012-trafikolycka-singel-gotland/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Gotland",
-      "gps": "57.468412,18.486745"
     }
   }
 ]
