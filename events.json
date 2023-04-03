@@ -12,18 +12,6 @@
     }
   },
   {
-    "id": 413280,
-    "datetime": "2023-04-03 19:32:52 +02:00",
-    "name": "03 april 18:05, Sedlighetsbrott, Skellefteå",
-    "summary": "Skellefteå, man misstänks för sexköp.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1805-sedlighetsbrott-skelleftea/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
     "id": 413279,
     "datetime": "2023-04-03 19:07:28 +02:00",
     "name": "03 april 18:25, Brand, Kalmar",
@@ -33,6 +21,54 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 413265,
+    "datetime": "2023-04-03 16:52:39 +02:00",
+    "name": "03 april 16:40, Trafikolycka, Linköping",
+    "summary": "Trafikolycka i Linghem",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1640-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 413281,
+    "datetime": "2023-04-03 20:10:14 +02:00",
+    "name": "03 april 19:27, Trafikolycka, Göteborg",
+    "summary": "Kollision mellan elsparkcykel och cyklist vid Västra Nordstan. Allt enligt SOS.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1927-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 413283,
+    "datetime": "2023-04-03 20:08:08 +02:00",
+    "name": "03 april 19:40, Stöld/inbrott, Strömstad",
+    "summary": "Inbrott i fastighet vid Håve enligt SOS. Fastighetsägaren blockerar vägen ut från fastigheten.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1940-stoldinbrott-stromstad/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 413280,
+    "datetime": "2023-04-03 19:32:52 +02:00",
+    "name": "03 april 18:05, Sedlighetsbrott, Skellefteå",
+    "summary": "Skellefteå, man misstänks för sexköp.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1805-sedlighetsbrott-skelleftea/",
+    "type": "Sedlighetsbrott",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -201,18 +237,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 413265,
-    "datetime": "2023-04-03 16:52:39 +02:00",
-    "name": "03 april 16:40, Trafikolycka, Linköping",
-    "summary": "Trafikolycka i Linghem",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1640-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Lidingö",
       "gps": "59.36296,18.1468"
-    }
-  },
-  {
-    "id": 411393,
-    "datetime": "2023-03-27 10:50:06 +02:00",
-    "name": "27 mars 10:25, Rattfylleri, Karlstad",
-    "summary": "Misstänkt rattfylleri på Välsviken och Bergvik",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-1025-rattfylleri-karlstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 411390,
-    "datetime": "2023-03-27 10:37:37 +02:00",
-    "name": "27 mars 09:49, Stöld, Östersund",
-    "summary": "Misstänkt ringa stöld i matbutik, Norr.",
-    "url": "/aktuellt/handelser/2023/mars/27/27-mars-0949-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
