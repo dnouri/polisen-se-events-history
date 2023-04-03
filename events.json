@@ -1,5 +1,77 @@
 [
   {
+    "id": 413220,
+    "datetime": "2023-04-03 9:54:49 +02:00",
+    "name": "03 april 09:31, Trafikolycka, Piteå",
+    "summary": "Trafikolycka på E4/Kattisvägen i Rosvik, Piteå.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0931-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 413182,
+    "datetime": "2023-04-03 7:06:15 +02:00",
+    "name": "03 april 06:40, Trafikolycka, Karlstad",
+    "summary": "Polis är på plats vid en trafikolycka på länsväg 278 i höjd med Hösserud norr om Karlstad.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0640-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 413199,
+    "datetime": "2023-04-03 10:01:07 +02:00",
+    "name": "03 april 10:00, Övrigt, Östergötlands län",
+    "summary": "Presstalespersonerna är på möte klockan 13-15.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1000-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413200,
+    "datetime": "2023-04-03 10:01:02 +02:00",
+    "name": "03 april 10:00, Övrigt, Jönköpings län",
+    "summary": "Presstalespersonerna är på möte klockan 13-15.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1000-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413198,
+    "datetime": "2023-04-03 10:00:56 +02:00",
+    "name": "03 april 10:00, Övrigt, Södermanlands län",
+    "summary": "Presstalespersonerna är på möte klockan 13-15.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-1000-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 413219,
+    "datetime": "2023-04-03 9:44:51 +02:00",
+    "name": "03 april 09:37, Trafikolycka, Stockholm",
+    "summary": "Trafikolycka, Huddinge",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0937-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 413218,
     "datetime": "2023-04-03 9:27:45 +02:00",
     "name": "03 april 08:57, Arbetsplatsolycka, Stockholm",
@@ -60,18 +132,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -84,15 +144,15 @@
     }
   },
   {
-    "id": 413182,
-    "datetime": "2023-04-03 7:06:15 +02:00",
-    "name": "03 april 06:40, Trafikolycka, Karlstad",
-    "summary": "Polis är på plats vid en trafikolycka på länsväg 278 i höjd med Hösserud norr om Karlstad.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0640-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
     "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 411294,
-    "datetime": "2023-03-26 12:02:20 +02:00",
-    "name": "26 mars 11:47, Trafikolycka, Ljusnarsberg",
-    "summary": "En singelolycka har inträffat på länsväg 798",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1147-trafikolycka-ljusnarsberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljusnarsberg",
-      "gps": "59.877447,14.998849"
-    }
-  },
-  {
-    "id": 411296,
-    "datetime": "2023-03-26 12:41:51 +02:00",
-    "name": "26 mars 12:17, Brand, Norberg",
-    "summary": "Fullt utvecklad brand i en lada.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1217-brand-norberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Norberg",
-      "gps": "60.065042,15.923796"
-    }
-  },
-  {
-    "id": 411303,
-    "datetime": "2023-03-26 13:49:02 +02:00",
-    "name": "26 mars 13:48, Trafikkontroll, Västernorrlands län",
-    "summary": "Kramfors, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1348-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 411302,
-    "datetime": "2023-03-26 13:44:51 +02:00",
-    "name": "26 mars 09:55, Fjällräddning, Dorotea",
-    "summary": "Fjällräddning i Borgafjäll.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0955-fjallraddning-dorotea/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Dorotea",
-      "gps": "64.261794,16.415234"
-    }
-  },
-  {
-    "id": 411301,
-    "datetime": "2023-03-26 13:40:52 +02:00",
-    "name": "26 mars 13:35, Trafikolycka, Karlstad",
-    "summary": "En trafikolycka med flera bilister har inträffat på Karl IX:s gata",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-1335-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
