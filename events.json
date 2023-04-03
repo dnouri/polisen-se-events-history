@@ -1,14 +1,134 @@
 [
   {
-    "id": 413177,
-    "datetime": "2023-04-03 4:16:34 +02:00",
-    "name": "03 april 03:01, Brand, Malmö",
-    "summary": "Margaretapaviljongen. Större brand.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0301-brand-malmo/",
+    "id": 413191,
+    "datetime": "2023-04-03 7:19:52 +02:00",
+    "name": "03 april 07:18, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0718-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 413189,
+    "datetime": "2023-04-03 7:14:20 +02:00",
+    "name": "03 april 07:13, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0713-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 413188,
+    "datetime": "2023-04-03 7:13:15 +02:00",
+    "name": "03 april 05:35, Inbrott, Malmö",
+    "summary": "Inbrott på köpcentrum, Hyllie.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0535-inbrott-malmo/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 413187,
+    "datetime": "2023-04-03 7:12:06 +02:00",
+    "name": "03 april 03:07, Detonation, Malmö",
+    "summary": "Explosion utanför bostadshus, Almvik.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0307-detonation-malmo/",
+    "type": "Detonation",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 413185,
+    "datetime": "2023-04-03 7:09:36 +02:00",
+    "name": "03 april 03:02, Brand, Malmö",
+    "summary": "Brand i byggnad, Pildammsparken.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0302-brand-malmo/",
     "type": "Brand",
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 413184,
+    "datetime": "2023-04-03 7:09:05 +02:00",
+    "name": "03 april 06:49, Trafikolycka, Örebro",
+    "summary": "Polis är på plats vid en trafikolycka på Aspholmen.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0649-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 413183,
+    "datetime": "2023-04-03 7:08:38 +02:00",
+    "name": "03 april 02:45, Inbrott, Kalmar",
+    "summary": "Inbrott på idrottsplats, Påryd.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0245-inbrott-kalmar/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 413182,
+    "datetime": "2023-04-03 7:06:15 +02:00",
+    "name": "03 april 06:40, Trafikolycka, Karlstad",
+    "summary": "Polis är på plats vid en trafikolycka på länsväg 278 i höjd med Hösserud norr om Karlstad.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0640-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 413178,
+    "datetime": "2023-04-03 7:04:51 +02:00",
+    "name": "03 april 06:00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0600-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 413181,
+    "datetime": "2023-04-03 7:00:10 +02:00",
+    "name": "03 april 06:00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0600-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 413180,
+    "datetime": "2023-04-03 6:59:20 +02:00",
+    "name": "03 april 06:59, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0659-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 411285,
-    "datetime": "2023-03-26 8:15:18 +02:00",
-    "name": "26 mars 07:48, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser i länet",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0748-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 411284,
-    "datetime": "2023-03-26 8:14:41 +02:00",
-    "name": "26 mars 08:14, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0814-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 411283,
-    "datetime": "2023-03-26 8:14:00 +02:00",
-    "name": "26 mars 08:13, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0813-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 411282,
-    "datetime": "2023-03-26 8:11:23 +02:00",
-    "name": "26 mars 08:11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0811-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 411281,
-    "datetime": "2023-03-26 8:01:22 +02:00",
-    "name": "26 mars 08:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0800-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 411280,
-    "datetime": "2023-03-26 8:01:08 +02:00",
-    "name": "26 mars 08:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0800-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 411279,
-    "datetime": "2023-03-26 7:48:52 +02:00",
-    "name": "26 mars 07:38, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser i länet",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0738-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 411278,
-    "datetime": "2023-03-26 7:38:31 +02:00",
-    "name": "26 mars 07:37, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser i länet",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0737-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 411275,
-    "datetime": "2023-03-26 7:08:06 +02:00",
-    "name": "25 mars 23:48, Brand, Västerås",
-    "summary": "Skador på flera fordon och byggnad efter brand.",
-    "url": "/aktuellt/handelser/2023/mars/25/25-mars-2348-brand-vasteras/",
-    "type": "Brand",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 411277,
-    "datetime": "2023-03-26 7:16:40 +02:00",
-    "name": "26 mars 01:16, Misshandel, Ronneby",
-    "summary": "Flera omhändertagna efter slagsmål, Eringsboda.",
-    "url": "/aktuellt/handelser/2023/mars/26/26-mars-0116-misshandel-ronneby/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
     }
   }
 ]
