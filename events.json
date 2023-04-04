@@ -1,5 +1,41 @@
 [
   {
+    "id": 413437,
+    "datetime": "2023-04-04 19:47:34 +02:00",
+    "name": "04 april 16:00, Mord/dråp, Filipstad",
+    "summary": "En person har anträffats död i ett skogsområde strax söder om Filipstad.",
+    "url": "/aktuellt/handelser/2023/april/4/04-april-1600-morddrap-filipstad/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 413449,
+    "datetime": "2023-04-04 20:46:32 +02:00",
+    "name": "04 april 19:14, Vapenlagen, Malmö",
+    "summary": "Hyllie. Uppgift om beväpnad person.",
+    "url": "/aktuellt/handelser/2023/april/4/04-april-1914-vapenlagen-malmo/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 413448,
+    "datetime": "2023-04-04 20:45:16 +02:00",
+    "name": "04 april 19:19, Brand, Krokom",
+    "summary": "Larm om brand i byggnad utanför Nälden.",
+    "url": "/aktuellt/handelser/2023/april/4/04-april-1919-brand-krokom/",
+    "type": "Brand",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
     "id": 413447,
     "datetime": "2023-04-04 20:27:03 +02:00",
     "name": "04 april 15:26, Arbetsplatsolycka, Borlänge",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 413437,
-    "datetime": "2023-04-04 19:47:34 +02:00",
-    "name": "04 april 16:00, Anträffad död, Filipstad",
-    "summary": "En person har anträffats död i ett skogsområde strax söder om Filipstad.",
-    "url": "/aktuellt/handelser/2023/april/4/04-april-1600-antraffad-dod-filipstad/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Filipstad",
-      "gps": "59.713997,14.169845"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 411590,
-    "datetime": "2023-03-28 14:31:09 +02:00",
-    "name": "28 mars 12:54, Stöld, Örnsköldsvik",
-    "summary": "Ringa stöld i butik",
-    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1254-stold-ornskoldsvik/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 411585,
-    "datetime": "2023-03-28 14:01:34 +02:00",
-    "name": "28 mars 10:41, Skadegörelse, Karlstad",
-    "summary": "Det har brunnit i ett plastupplag i Stodene",
-    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1041-skadegorelse-karlstad/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
