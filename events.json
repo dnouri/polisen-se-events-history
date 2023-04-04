@@ -1,5 +1,65 @@
 [
   {
+    "id": 413439,
+    "datetime": "2023-04-04 18:22:27 +02:00",
+    "name": "04 april 18:05, Misshandel, grov, Göteborg",
+    "summary": "Larm om misshandel i Gårdstensbergen, möjlig knivskada.",
+    "url": "/aktuellt/handelser/2023/april/4/04-april-1805-misshandel-grov-goteborg/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 413440,
+    "datetime": "2023-04-04 18:19:25 +02:00",
+    "name": "04 april 18:10, Trafikolycka, personskada, Örebro",
+    "summary": "En lastbil och en personbil har kolliderat på E18 i Örebro.",
+    "url": "/aktuellt/handelser/2023/april/4/04-april-1810-trafikolycka-personskada-orebro/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 413429,
+    "datetime": "2023-04-04 17:03:13 +02:00",
+    "name": "04 april 16:44, Trafikolycka, Sundsvall",
+    "summary": "Birsta, trafikolycka på Ljustavägen.",
+    "url": "/aktuellt/handelser/2023/april/4/04-april-1644-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 413436,
+    "datetime": "2023-04-04 18:07:22 +02:00",
+    "name": "04 april 18:07, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/april/4/04-april-1807-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 413433,
+    "datetime": "2023-04-04 17:45:55 +02:00",
+    "name": "04 april 17:30, Trafikolycka, Umeå",
+    "summary": "Umeå, trafikolycka på Sandbacka.",
+    "url": "/aktuellt/handelser/2023/april/4/04-april-1730-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 413432,
     "datetime": "2023-04-04 17:43:58 +02:00",
     "name": "04 april 15:46, Stöld, Luleå",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 413429,
-    "datetime": "2023-04-04 17:03:13 +02:00",
-    "name": "04 april 16:44, Trafikolycka, Sundsvall",
-    "summary": "Birsta, trafikolycka på Ljustavägen.",
-    "url": "/aktuellt/handelser/2023/april/4/04-april-1644-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Strängnäs",
       "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 411568,
-    "datetime": "2023-03-28 12:15:52 +02:00",
-    "name": "28 mars 12:15, Trafikkontroll, Västernorrlands län",
-    "summary": "Ett urval av dagens trafikkontroller",
-    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1215-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 411521,
-    "datetime": "2023-03-28 10:32:48 +02:00",
-    "name": "28 mars 10:32, Trafikkontroll, Jämtlands län",
-    "summary": "24 förare körde för fort vid en kontroll",
-    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1032-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 411567,
-    "datetime": "2023-03-28 11:49:15 +02:00",
-    "name": "28 mars 11:23, Trafikolycka, Skellefteå",
-    "summary": "Trafikolycka, flera fordon",
-    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1123-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 411566,
-    "datetime": "2023-03-28 11:38:07 +02:00",
-    "name": "28 mars 10:53, Rattfylleri, Örebro",
-    "summary": "En bilist är misstänkt för brott på E18",
-    "url": "/aktuellt/handelser/2023/mars/28/28-mars-1053-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
