@@ -1,5 +1,53 @@
 [
   {
+    "id": 413875,
+    "datetime": "2023-04-05 20:10:59 +02:00",
+    "name": "05 april 20:06, Trafikolycka, Sölvesborg",
+    "summary": "Personbil i olycka, Agerum.",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-2006-trafikolycka-solvesborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 413873,
+    "datetime": "2023-04-05 19:53:26 +02:00",
+    "name": "05 april 17:43, Våldtäkt, Södertälje",
+    "summary": "Polisen griper en man som misstänks för våldtäkt.",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1743-valdtakt-sodertalje/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 413872,
+    "datetime": "2023-04-05 19:49:38 +02:00",
+    "name": "05 april 16:02, Narkotikabrott, Umeå",
+    "summary": "Döbelns park, polis kontrollerar några personer i parken",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1602-narkotikabrott-umea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 413871,
+    "datetime": "2023-04-05 19:48:35 +02:00",
+    "name": "05 april 17:39, Trafikolycka, personskada, Södertälje",
+    "summary": "En mopedförare förs till sjukhus efter en krock.",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1739-trafikolycka-personskada-sodertalje/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 413852,
     "datetime": "2023-04-05 19:35:32 +02:00",
     "name": "05 april 18:00, Trafikkontroll, Västerbottens län",
@@ -2688,18 +2736,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -2709,6 +2745,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 411784,
-    "datetime": "2023-03-29 17:38:46 +02:00",
-    "name": "29 mars 16:52, Brand, Borlänge",
-    "summary": "Det har brunnit i en bostad i Ornäs",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1652-brand-borlange/",
-    "type": "Brand",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 411780,
-    "datetime": "2023-03-29 16:54:12 +02:00",
-    "name": "29 mars 16:37, Trafikolycka, Piteå",
-    "summary": "Piteå, trafikolycka i Öjebyn.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1637-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 411783,
-    "datetime": "2023-03-29 17:15:18 +02:00",
-    "name": "29 mars 17:00, Åldringsbrott, Örebro",
-    "summary": "Brotten mot äldre fortsätter",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1700-aldringsbrott-orebro/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 411781,
-    "datetime": "2023-03-29 17:00:54 +02:00",
-    "name": "29 mars 16:46, Trafikbrott, Örebro",
-    "summary": "Många brytet mot regler på Storgatan",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1646-trafikbrott-orebro/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
