@@ -1,14 +1,50 @@
 [
   {
-    "id": 413877,
-    "datetime": "2023-04-05 20:39:11 +02:00",
-    "name": "05 april 20:38, Bedrägeri, Strängnäs",
-    "summary": "Två personer försökte tränga sig in hos en kvinna.",
-    "url": "/aktuellt/handelser/2023/april/5/05-april-2038-bedrageri-strangnas/",
-    "type": "Bedrägeri",
+    "id": 413874,
+    "datetime": "2023-04-05 21:17:07 +02:00",
+    "name": "05 april 20:00, Fylleri/LOB, Västerbottens län",
+    "summary": "Västerbotten, berusade personer omhändertagna under tidig kväll",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-2000-fyllerilob-vasterbottens-lan/",
+    "type": "Fylleri/LOB",
     "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 413881,
+    "datetime": "2023-04-05 21:15:32 +02:00",
+    "name": "05 april 20:11, Olovlig körning, Haparanda",
+    "summary": "Haparanda, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-2011-olovlig-korning-haparanda/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 413880,
+    "datetime": "2023-04-05 21:12:50 +02:00",
+    "name": "05 april 19:11, Trafikolycka, Luleå",
+    "summary": "Bredviken, larm om singelolycka",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1911-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 413875,
+    "datetime": "2023-04-05 20:10:59 +02:00",
+    "name": "05 april 20:06, Trafikolycka, Sölvesborg",
+    "summary": "Personbil i olycka, Agerum.",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-2006-trafikolycka-solvesborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
     }
   },
   {
@@ -24,6 +60,18 @@
     }
   },
   {
+    "id": 413877,
+    "datetime": "2023-04-05 20:39:11 +02:00",
+    "name": "05 april 20:38, Bedrägeri, Strängnäs",
+    "summary": "Två personer försökte tränga sig in hos en kvinna.",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-2038-bedrageri-strangnas/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
     "id": 413861,
     "datetime": "2023-04-05 20:31:57 +02:00",
     "name": "05 april 20:00, Trafikkontroll, Jämtlands län",
@@ -33,18 +81,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 413875,
-    "datetime": "2023-04-05 20:10:59 +02:00",
-    "name": "05 april 20:06, Trafikolycka, Sölvesborg",
-    "summary": "Personbil i olycka, Agerum.",
-    "url": "/aktuellt/handelser/2023/april/5/05-april-2006-trafikolycka-solvesborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Hedemora",
       "gps": "60.277545,15.985892"
-    }
-  },
-  {
-    "id": 411790,
-    "datetime": "2023-03-29 18:48:58 +02:00",
-    "name": "29 mars 16:04, Stöld, Luleå",
-    "summary": "Luleå, stöld i butik.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1604-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 411789,
-    "datetime": "2023-03-29 18:39:07 +02:00",
-    "name": "29 mars 18:39, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1839-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 411787,
-    "datetime": "2023-03-29 18:16:51 +02:00",
-    "name": "29 mars 14:29, Narkotikabrott, Nacka",
-    "summary": "Vid fotpatrullering vid och i Nacka forum kontrollerades en man.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1429-narkotikabrott-nacka/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
     }
   }
 ]
