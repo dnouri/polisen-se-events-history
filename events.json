@@ -1,5 +1,41 @@
 [
   {
+    "id": 413857,
+    "datetime": "2023-04-05 17:39:02 +02:00",
+    "name": "05 april 16:03, Fylleri/LOB, Sundsvall",
+    "summary": "Stenstan, berusad man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1603-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 413856,
+    "datetime": "2023-04-05 17:35:22 +02:00",
+    "name": "05 april 14:00, Trafikkontroll, Ånge",
+    "summary": "Bergsjö, resultat efter trafikkontroll vid E14/Knärotsvägen",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1400-trafikkontroll-ange/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Ånge",
+      "gps": "62.522874,15.658942"
+    }
+  },
+  {
+    "id": 413855,
+    "datetime": "2023-04-05 17:33:53 +02:00",
+    "name": "05 april 16:30, Trafikkontroll, Sundsvall",
+    "summary": "Bergsåker, resultat efter trafikkontroller",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1630-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 413854,
     "datetime": "2023-04-05 17:03:24 +02:00",
     "name": "05 april 15:40, Fylleri/LOB, Luleå",
@@ -2556,18 +2592,6 @@
     }
   },
   {
-    "id": 413192,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
-    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 413186,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
@@ -2577,6 +2601,18 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413192,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
+    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 411690,
-    "datetime": "2023-03-29 10:41:51 +02:00",
-    "name": "29 mars 10:02, Farligt föremål, misstänkt, Växjö",
-    "summary": "Larm om misstänkt farligt föremål",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1002-farligt-foremal-misstankt-vaxjo/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 411689,
-    "datetime": "2023-03-29 10:40:43 +02:00",
-    "name": "29 mars 10:07, Farligt föremål, misstänkt, Kalmar",
-    "summary": "Larm om misstänkt farligt föremål",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1007-farligt-foremal-misstankt-kalmar/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 411756,
-    "datetime": "2023-03-29 14:16:38 +02:00",
-    "name": "29 mars 11:00, Trafikolycka, Sundsvall",
-    "summary": "Nordväst om Sundsvall, larm om skoterolycka",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1100-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
