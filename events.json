@@ -1,5 +1,41 @@
 [
   {
+    "id": 413877,
+    "datetime": "2023-04-05 20:39:11 +02:00",
+    "name": "05 april 20:38, Bedrägeri, Strängnäs",
+    "summary": "Två personer försökte tränga sig in hos en kvinna.",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-2038-bedrageri-strangnas/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 413876,
+    "datetime": "2023-04-05 20:34:20 +02:00",
+    "name": "05 april 19:56, Kontroll person/fordon, Svedala",
+    "summary": "Skadad man, Svedala.",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1956-kontroll-personfordon-svedala/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Svedala",
+      "gps": "55.508908,13.23711"
+    }
+  },
+  {
+    "id": 413861,
+    "datetime": "2023-04-05 20:31:57 +02:00",
+    "name": "05 april 20:00, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, ett urval av polisens arbete i trafiken under dagen",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-2000-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 413875,
     "datetime": "2023-04-05 20:10:59 +02:00",
     "name": "05 april 20:06, Trafikolycka, Sölvesborg",
@@ -2736,18 +2772,6 @@
     }
   },
   {
-    "id": 413192,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
-    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 413186,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
@@ -2757,6 +2781,18 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413192,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
+    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 411786,
-    "datetime": "2023-03-29 18:01:19 +02:00",
-    "name": "29 mars 18:01, Trafikolycka, Eskilstuna",
-    "summary": "Personbil gled in i ett träd på Nygatan.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1801-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 411699,
-    "datetime": "2023-03-29 11:13:03 +02:00",
-    "name": "29 mars 11:06, Farligt föremål, misstänkt, Örebro",
-    "summary": "Regional insats med anledning av anmälningar om pulver som inkommit till flera länsstyrelser.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1106-farligt-foremal-misstankt-orebro/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 411698,
-    "datetime": "2023-03-29 11:13:00 +02:00",
-    "name": "29 mars 11:07, Farligt föremål, misstänkt, Falun",
-    "summary": "Regional insats med anledning av anmälningar om pulver som inkommit till flera länsstyrelser.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1107-farligt-foremal-misstankt-falun/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   }
 ]
