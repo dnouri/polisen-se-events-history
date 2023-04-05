@@ -1,5 +1,29 @@
 [
   {
+    "id": 413852,
+    "datetime": "2023-04-05 19:35:32 +02:00",
+    "name": "05 april 18:00, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, ett urval av polisens arbete i trafiken under eftermiddagen",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1800-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 413870,
+    "datetime": "2023-04-05 19:31:07 +02:00",
+    "name": "05 april 19:14, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken under dagen",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1914-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 413752,
     "datetime": "2023-04-05 16:14:42 +02:00",
     "name": "05 april 16:06, Trafikolycka, Lessebo",
@@ -2664,18 +2688,6 @@
     }
   },
   {
-    "id": 413192,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
-    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 413186,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
@@ -2685,6 +2697,18 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413192,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
+    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 411782,
-    "datetime": "2023-03-29 16:58:29 +02:00",
-    "name": "29 mars 14:27, Stöld, Östersund",
-    "summary": "Östersund, ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1427-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 411779,
-    "datetime": "2023-03-29 16:52:40 +02:00",
-    "name": "29 mars 12:46, Trafikbrott, Sundsvall",
-    "summary": "Trafikbrott söder om Sundsvall.",
-    "url": "/aktuellt/handelser/2023/mars/29/29-mars-1246-trafikbrott-sundsvall/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
