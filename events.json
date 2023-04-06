@@ -1,14 +1,26 @@
 [
   {
-    "id": 413981,
-    "datetime": "2023-04-06 17:18:46 +02:00",
-    "name": "06 april 16:59, Försvunnen person, Hagfors",
-    "summary": "Polisen söker efter en försvunnen flicka i Hagfors.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1659-forsvunnen-person-hagfors/",
-    "type": "Försvunnen person",
+    "id": 413983,
+    "datetime": "2023-04-06 17:43:37 +02:00",
+    "name": "06 april 17:32, Stöld/inbrott, Mariestad",
+    "summary": "Polisen larmas om ett inbrott på Mariegärdes väg i Lockerud.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-1732-stoldinbrott-mariestad/",
+    "type": "Stöld/inbrott",
     "location": {
-      "name": "Hagfors",
-      "gps": "60.03437,13.694508"
+      "name": "Mariestad",
+      "gps": "58.710112,13.821333"
+    }
+  },
+  {
+    "id": 413982,
+    "datetime": "2023-04-06 17:42:53 +02:00",
+    "name": "06 april 17:31, Trafikolycka, Malmö",
+    "summary": "En buss kör i diket på Sallrupsvägen i höjd med Kölnan.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-1731-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -24,15 +36,27 @@
     }
   },
   {
-    "id": 413979,
-    "datetime": "2023-04-06 16:43:01 +02:00",
-    "name": "06 april 16:10, Försvunnen person, Västerås",
-    "summary": "Äldre kvinna söks i Västerås.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1610-forsvunnen-person-vasteras/",
+    "id": 413981,
+    "datetime": "2023-04-06 17:18:46 +02:00",
+    "name": "06 april 16:59, Försvunnen person, Hagfors",
+    "summary": "Polisen söker efter en försvunnen flicka i Hagfors.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-1659-forsvunnen-person-hagfors/",
     "type": "Försvunnen person",
     "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
+      "name": "Hagfors",
+      "gps": "60.03437,13.694508"
+    }
+  },
+  {
+    "id": 413972,
+    "datetime": "2023-04-06 16:28:51 +02:00",
+    "name": "06 april 15:47, Trafikolycka, Luleå",
+    "summary": "Trafikolycka på E4/länsväg 961 Ersnäs i Luleå.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-1547-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -45,6 +69,18 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 413979,
+    "datetime": "2023-04-06 16:43:01 +02:00",
+    "name": "06 april 16:10, Försvunnen person, Västerås",
+    "summary": "Äldre kvinna söks i Västerås.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-1610-forsvunnen-person-vasteras/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -69,18 +105,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 413972,
-    "datetime": "2023-04-06 16:28:51 +02:00",
-    "name": "06 april 15:47, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på E4/länsväg 961 Ersnäs i Luleå.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1547-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -3672,18 +3696,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -3693,6 +3705,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 411932,
-    "datetime": "2023-03-30 18:52:05 +02:00",
-    "name": "30 mars 16:40, Knivlagen, Boden",
-    "summary": "Boden, brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1640-knivlagen-boden/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 411923,
-    "datetime": "2023-03-30 17:08:18 +02:00",
-    "name": "30 mars 16:00, Bråk, Lund",
-    "summary": "Bråk utanför skola",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1600-brak-lund/",
-    "type": "Bråk",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   }
 ]
