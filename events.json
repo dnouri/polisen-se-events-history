@@ -1,5 +1,53 @@
 [
   {
+    "id": 413925,
+    "datetime": "2023-04-06 10:16:51 +02:00",
+    "name": "06 april 08:38, Trafikbrott, Tyresö",
+    "summary": "På Sikvägen rapporterades en personbilsförare.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-0838-trafikbrott-tyreso/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
+    "id": 413922,
+    "datetime": "2023-04-06 10:00:38 +02:00",
+    "name": "06 april 09:31, Arbetsplatsolycka, Ystad",
+    "summary": "Larm om arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-0931-arbetsplatsolycka-ystad/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Ystad",
+      "gps": "55.429505,13.820031"
+    }
+  },
+  {
+    "id": 413921,
+    "datetime": "2023-04-06 9:57:31 +02:00",
+    "name": "06 april 09:09, Trafikolycka, vilt, Boden",
+    "summary": "Polisen får in en anmälan om en olycka med en personbil och en ren.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-0909-trafikolycka-vilt-boden/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 413920,
+    "datetime": "2023-04-06 9:54:10 +02:00",
+    "name": "05 april 12:10, Mord/dråp, Fagersta",
+    "summary": "Polisen inleder förundersökning om mord.",
+    "url": "/aktuellt/handelser/2023/april/5/05-april-1210-morddrap-fagersta/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Fagersta",
+      "gps": "59.989144,15.816642"
+    }
+  },
+  {
     "id": 413908,
     "datetime": "2023-04-06 8:18:19 +02:00",
     "name": "06 april 08:17, Trafikolycka, Nässjö",
@@ -3288,18 +3336,6 @@
     }
   },
   {
-    "id": 413192,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
-    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 413186,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
@@ -3309,6 +3345,18 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413192,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
+    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 411864,
-    "datetime": "2023-03-30 11:14:54 +02:00",
-    "name": "30 mars 10:30, Trafikkontroll, Luleå",
-    "summary": "Skutvikens industriområde, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1030-trafikkontroll-lulea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 411863,
-    "datetime": "2023-03-30 11:13:22 +02:00",
-    "name": "30 mars 09:50, Trafikkontroll, Kalix",
-    "summary": "Djuptjärn, resultat efter nykterhetskontroll i trafiken",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-0950-trafikkontroll-kalix/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 411862,
-    "datetime": "2023-03-30 11:10:30 +02:00",
-    "name": "30 mars 10:01, Stöld, Sundsvall",
-    "summary": "Kvissleby, en man har stoppats efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-1001-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 411849,
-    "datetime": "2023-03-30 10:11:21 +02:00",
-    "name": "30 mars 08:39, Farligt föremål, misstänkt, Västra Götalands län",
-    "summary": "Ett brev med ett vitt pulver har inkommit till Länsstyrelsen i Västra Götaland och polis kallas till platsen.",
-    "url": "/aktuellt/handelser/2023/mars/30/30-mars-0839-farligt-foremal-misstankt-vastra-gotalands-lan/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
