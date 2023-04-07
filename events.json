@@ -1,5 +1,41 @@
 [
   {
+    "id": 414031,
+    "datetime": "2023-04-07 9:17:38 +02:00",
+    "name": "07 april 00:46, Brand, Vallentuna",
+    "summary": "Polisen misstänker att branden i ett soprum är anlagd av okänd gärningsperson.",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0046-brand-vallentuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 414030,
+    "datetime": "2023-04-07 8:53:37 +02:00",
+    "name": "07 april 00:22, Trafikbrott, Norrtälje",
+    "summary": "I Rö rapporterades en personbilsförare.",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0022-trafikbrott-norrtalje/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 414029,
+    "datetime": "2023-04-07 8:51:17 +02:00",
+    "name": "06 april 23:02, Misshandel, Nacka",
+    "summary": "På Kvarnholmen greps en man misstänkt för misshandel som skett inomhus.",
+    "url": "/aktuellt/handelser/2023/april/6/06-april-2302-misshandel-nacka/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
     "id": 414028,
     "datetime": "2023-04-07 8:09:17 +02:00",
     "name": "07 april 07:00, Sammanfattning natt, Västra Götalands län",
@@ -4212,18 +4248,6 @@
     }
   },
   {
-    "id": 413192,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
-    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 413186,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
@@ -4233,6 +4257,18 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413192,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
+    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 411989,
-    "datetime": "2023-03-31 9:26:23 +02:00",
-    "name": "31 mars 09:26, Trafikolycka, Kinda",
-    "summary": "SOS-larm om trafikolycka på riksväg 34 utanför Kisa.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0926-trafikolycka-kinda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kinda",
-      "gps": "57.997571,15.685223"
-    }
-  },
-  {
-    "id": 411985,
-    "datetime": "2023-03-31 8:33:02 +02:00",
-    "name": "31 mars 06:56, Trafikolycka, personskada, Gävle",
-    "summary": "Trafikolycka på Sätrahöjden.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0656-trafikolycka-personskada-gavle/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 411994,
-    "datetime": "2023-03-31 9:38:53 +02:00",
-    "name": "31 mars 08:48, Trafikolycka, smitning från, Hudiksvall",
-    "summary": "Smitningsolycka på E4.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0848-trafikolycka-smitning-fran-hudiksvall/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
     }
   }
 ]
