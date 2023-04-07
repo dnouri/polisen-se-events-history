@@ -1,5 +1,41 @@
 [
   {
+    "id": 414035,
+    "datetime": "2023-04-07 10:07:46 +02:00",
+    "name": "07 april 09:59, Brand, Ronneby",
+    "summary": "Brand i lägenhet, Knektabacken.",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0959-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 414034,
+    "datetime": "2023-04-07 10:06:50 +02:00",
+    "name": "07 april 09:51, Trafikolycka, vilt, Skellefteå",
+    "summary": "Polisen får in en anmälan om en viltolycka på Sundgrundsbron, Örviken.",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0951-trafikolycka-vilt-skelleftea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 414032,
+    "datetime": "2023-04-07 10:06:44 +02:00",
+    "name": "07 april 10:06, Misshandel, Skellefteå",
+    "summary": "En man i Skellefteå kommun har under fredagsmorgonen frihetsberövats efter att ha varit anhållen i sin frånvar",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-1006-misshandel-skelleftea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 414033,
     "datetime": "2023-04-07 9:32:05 +02:00",
     "name": "07 april 00:31, Rattfylleri, Stockholm",
@@ -4260,18 +4296,6 @@
     }
   },
   {
-    "id": 413192,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
-    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 413186,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
@@ -4281,6 +4305,18 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413192,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
+    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Tanum",
       "gps": "58.732727,11.457819"
-    }
-  },
-  {
-    "id": 412001,
-    "datetime": "2023-03-31 10:11:05 +02:00",
-    "name": "31 mars 10:10, Trafikolycka, Linköping",
-    "summary": "Olycka på länsväg 636 utanför Vikingstad.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1010-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 411996,
-    "datetime": "2023-03-31 10:57:47 +02:00",
-    "name": "31 mars 09:13, Misshandel, grov, Göteborg",
-    "summary": "Larm om knivskadad person i Askim.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0913-misshandel-grov-goteborg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 412002,
-    "datetime": "2023-03-31 10:15:05 +02:00",
-    "name": "31 mars 10:10, Trafikolycka, Helsingborg",
-    "summary": "Larm om trafikolycka på E4, Trafikplats Kropp.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-1010-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   }
 ]
