@@ -1,5 +1,65 @@
 [
   {
+    "id": 414028,
+    "datetime": "2023-04-07 8:09:17 +02:00",
+    "name": "07 april 07:00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0700-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 414026,
+    "datetime": "2023-04-07 8:03:41 +02:00",
+    "name": "07 april 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 414025,
+    "datetime": "2023-04-07 8:01:54 +02:00",
+    "name": "07 april 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 414027,
+    "datetime": "2023-04-07 8:01:14 +02:00",
+    "name": "07 april 07:59, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0759-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 414024,
+    "datetime": "2023-04-07 7:47:06 +02:00",
+    "name": "07 april 07:00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/april/7/07-april-0700-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
     "id": 414023,
     "datetime": "2023-04-07 7:42:51 +02:00",
     "name": "07 april 07:42, Sammanfattning natt, Norrbottens län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hudiksvall",
       "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 411974,
-    "datetime": "2023-03-31 7:08:19 +02:00",
-    "name": "31 mars 06:09, Brand, Kristianstad",
-    "summary": "Vånga. Brand i byggnad.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0609-brand-kristianstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 411987,
-    "datetime": "2023-03-31 8:50:32 +02:00",
-    "name": "31 mars 07:39, Trafikolycka, personskada, Fagersta",
-    "summary": "Trafikolycka vid Hedkärra.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0739-trafikolycka-personskada-fagersta/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Fagersta",
-      "gps": "59.989144,15.816642"
-    }
-  },
-  {
-    "id": 411983,
-    "datetime": "2023-03-31 8:09:29 +02:00",
-    "name": "31 mars 07:56, Trafikolycka, Östersund",
-    "summary": "Larm om trafikolycka på Basvägen, Torvalla.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0756-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 411980,
-    "datetime": "2023-03-31 7:49:28 +02:00",
-    "name": "31 mars 07:49, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0749-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 411981,
-    "datetime": "2023-03-31 7:50:55 +02:00",
-    "name": "31 mars 07:50, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2023/mars/31/31-mars-0750-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
