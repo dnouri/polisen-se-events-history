@@ -1,5 +1,89 @@
 [
   {
+    "id": 414095,
+    "datetime": "2023-04-08 8:16:49 +02:00",
+    "name": "08 april 08:12, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-0812-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 414092,
+    "datetime": "2023-04-08 8:16:36 +02:00",
+    "name": "08 april 08:00, Sammanfattning natt, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-0800-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 414094,
+    "datetime": "2023-04-08 8:16:27 +02:00",
+    "name": "08 april 08:10, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-0810-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 414096,
+    "datetime": "2023-04-08 8:16:09 +02:00",
+    "name": "08 april 08:14, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-0814-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 414089,
+    "datetime": "2023-04-08 8:11:30 +02:00",
+    "name": "08 april 07:00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-0700-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 414093,
+    "datetime": "2023-04-08 8:10:14 +02:00",
+    "name": "08 april 07:00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-0700-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 414091,
+    "datetime": "2023-04-08 7:46:18 +02:00",
+    "name": "08 april 02:11, Misshandel, Malmö",
+    "summary": "Ringa misshandel samt framkallande av fara för annan, Inre Ringvägen.",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-0211-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 414088,
     "datetime": "2023-04-08 7:38:35 +02:00",
     "name": "08 april 04:10, Rattfylleri, Järfälla",
@@ -4860,18 +4944,6 @@
     }
   },
   {
-    "id": 413192,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
-    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 413186,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
@@ -4881,6 +4953,18 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 413192,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
+    "summary": "Kort sammanfattning av nattens händelser från länet. Hos Polisen/RLC har det upprättats ca 40 händelserapporte",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 412098,
-    "datetime": "2023-04-01 7:50:06 +02:00",
-    "name": "01 april 07:49, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-0749-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 412097,
-    "datetime": "2023-04-01 7:49:05 +02:00",
-    "name": "01 april 01:22, Mord/dråp, försök, Malmö",
-    "summary": "Möllevången. En man anträffas utomhus med stickskador.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-0122-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 412095,
-    "datetime": "2023-04-01 7:46:43 +02:00",
-    "name": "01 april 07:46, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-0746-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 412094,
-    "datetime": "2023-04-01 7:37:46 +02:00",
-    "name": "01 april 07:37, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-0737-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 412093,
-    "datetime": "2023-04-01 7:31:10 +02:00",
-    "name": "01 april 07:31, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-0731-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 412091,
-    "datetime": "2023-04-01 7:26:16 +02:00",
-    "name": "01 april 00:29, Brand, Trelleborg",
-    "summary": "Minnesberg. Brand i fordon.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-0029-brand-trelleborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Trelleborg",
-      "gps": "55.376243,13.157423"
-    }
-  },
-  {
-    "id": 412090,
-    "datetime": "2023-04-01 7:18:55 +02:00",
-    "name": "01 april 07:18, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-0718-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
