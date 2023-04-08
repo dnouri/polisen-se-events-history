@@ -1,5 +1,77 @@
 [
   {
+    "id": 414865,
+    "datetime": "2023-04-08 19:12:18 +02:00",
+    "name": "08 april 18:17, Skadegörelse, Stockholm",
+    "summary": "På Östermalm omhändertogs en man som är misstänkt för skadegörelse.",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-1817-skadegorelse-stockholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 414864,
+    "datetime": "2023-04-08 19:10:28 +02:00",
+    "name": "08 april 18:57, Trafikolycka, personskada, Kiruna",
+    "summary": "Trafikolycka med snöskoter nordväst om Kiruna.",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-1857-trafikolycka-personskada-kiruna/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 414863,
+    "datetime": "2023-04-08 18:57:18 +02:00",
+    "name": "08 april 18:46, Trafikolycka, personskada, Storuman",
+    "summary": "Fjällräddning, snöskoterolycka Tärnafjällen",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-1846-trafikolycka-personskada-storuman/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 414770,
+    "datetime": "2023-04-08 18:48:32 +02:00",
+    "name": "08 april 18:30, Brand, Ljungby",
+    "summary": "Brand i Ladugård",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-1830-brand-ljungby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 414769,
+    "datetime": "2023-04-08 18:46:33 +02:00",
+    "name": "08 april 18:39, Trafikolycka, personskada, Storuman",
+    "summary": "Trafikolycka Tärnaby E12",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-1839-trafikolycka-personskada-storuman/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 414768,
+    "datetime": "2023-04-08 18:45:48 +02:00",
+    "name": "08 april 17:46, Rån, försök, Malmö",
+    "summary": "Försök till rån, Apotek",
+    "url": "/aktuellt/handelser/2023/april/8/08-april-1746-ran-forsok-malmo/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 414582,
     "datetime": "2023-04-08 18:25:11 +02:00",
     "name": "08 april 16:49, Brand, Danderyd",
@@ -5280,18 +5352,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -5301,6 +5361,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Gotland",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 412133,
-    "datetime": "2023-04-01 21:15:24 +02:00",
-    "name": "01 april 20:38, Rattfylleri, Stockholm",
-    "summary": "Samtal om bil på Essingeleden som vinglade mycket.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-2038-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 412131,
-    "datetime": "2023-04-01 19:16:23 +02:00",
-    "name": "01 april 19:13, Trafikolycka, Nybro",
-    "summary": "Personbil i olycka, Örsjö.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-1913-trafikolycka-nybro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 412132,
-    "datetime": "2023-04-01 19:16:25 +02:00",
-    "name": "01 april 18:24, Misshandel, Haninge",
-    "summary": "Man greps misstänkt för misshandel i Brandbergen.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-1824-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 412130,
-    "datetime": "2023-04-01 18:01:23 +02:00",
-    "name": "01 april 17:44, Trafikolycka, Landskrona",
-    "summary": "Två bilar i olycka, E6.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-1744-trafikolycka-landskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 412129,
-    "datetime": "2023-04-01 17:43:07 +02:00",
-    "name": "01 april 15:42, Bedrägeri, Sollentuna",
-    "summary": "Anmälan om ringa bedrägeri då personer ätit och druckit utan att betala.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-1542-bedrageri-sollentuna/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 412127,
-    "datetime": "2023-04-01 16:18:43 +02:00",
-    "name": "01 april 16:13, Trafikolycka, Åstorp",
-    "summary": "Motorcykelolycka, Åstorp.",
-    "url": "/aktuellt/handelser/2023/april/1/01-april-1613-trafikolycka-astorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
     }
   }
 ]
