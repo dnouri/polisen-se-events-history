@@ -1,5 +1,53 @@
 [
   {
+    "id": 417842,
+    "datetime": "2023-04-09 13:04:21 +02:00",
+    "name": "09 april 13:04, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/9/09-april-1304-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 417841,
+    "datetime": "2023-04-09 12:53:10 +02:00",
+    "name": "09 april 12:17, Fjällräddning, Åre",
+    "summary": "Fjällräddningsinsats nordost om Ullsjön.",
+    "url": "/aktuellt/handelser/2023/april/9/09-april-1217-fjallraddning-are2/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 417840,
+    "datetime": "2023-04-09 12:48:20 +02:00",
+    "name": "09 april 12:48, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/9/09-april-1248-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 417839,
+    "datetime": "2023-04-09 12:46:33 +02:00",
+    "name": "09 april 12:46, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Viltolyckor inrapporterade till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/april/9/09-april-1246-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 417745,
     "datetime": "2023-04-09 11:56:03 +02:00",
     "name": "09 april 11:55, Trafikkontroll, Norrbottens län",
@@ -5676,18 +5724,6 @@
     }
   },
   {
-    "id": 413186,
-    "datetime": "2023-04-03 7:40:08 +02:00",
-    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
     "id": 413192,
     "datetime": "2023-04-03 7:40:08 +02:00",
     "name": "03 april 07:40, Sammanfattning natt, Jönköpings län",
@@ -5697,6 +5733,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 413186,
+    "datetime": "2023-04-03 7:40:08 +02:00",
+    "name": "03 april 07:40, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/april/3/03-april-0740-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 412155,
-    "datetime": "2023-04-02 16:05:44 +02:00",
-    "name": "02 april 15:45, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/april/2/02-april-1545-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 412154,
-    "datetime": "2023-04-02 16:05:39 +02:00",
-    "name": "02 april 15:45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/april/2/02-april-1545-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 412168,
-    "datetime": "2023-04-02 15:28:17 +02:00",
-    "name": "02 april 15:25, Trafikolycka, Hässleholm",
-    "summary": "Personbil i olycka, RV23.",
-    "url": "/aktuellt/handelser/2023/april/2/02-april-1525-trafikolycka-hassleholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 412166,
-    "datetime": "2023-04-02 14:48:34 +02:00",
-    "name": "02 april 13:40, Trafikolycka, Östersund",
-    "summary": "Trafikolycka på länsväg 605/Brunflovägen.",
-    "url": "/aktuellt/handelser/2023/april/2/02-april-1340-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
