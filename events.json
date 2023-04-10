@@ -1,5 +1,65 @@
 [
   {
+    "id": 419304,
+    "datetime": "2023-04-10 14:30:35 +02:00",
+    "name": "10 april 14:30, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-1430-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 419302,
+    "datetime": "2023-04-10 14:28:47 +02:00",
+    "name": "10 april 13:21, Fjällräddning, Härjedalen",
+    "summary": "Fjällräddningsinsats, Ramundberget.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-1321-fjallraddning-harjedalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 419291,
+    "datetime": "2023-04-10 10:22:38 +02:00",
+    "name": "10 april 10:15, Brand, Ystad",
+    "summary": "Brand i radhus på Annirogatan.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-1015-brand-ystad/",
+    "type": "Brand",
+    "location": {
+      "name": "Ystad",
+      "gps": "55.429505,13.820031"
+    }
+  },
+  {
+    "id": 419307,
+    "datetime": "2023-04-10 14:13:38 +02:00",
+    "name": "10 april 13:57, Mord/dråp, försök, Södertälje",
+    "summary": "Polisen ser ett sammanhang mellan två händelser som skett inom Södertälje kommun under morgonen den 10 april.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-1357-morddrap-forsok-sodertalje/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 419305,
+    "datetime": "2023-04-10 13:48:18 +02:00",
+    "name": "10 april 13:48, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-1348-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 419303,
     "datetime": "2023-04-10 13:40:36 +02:00",
     "name": "10 april 13:25, Trafikolycka, Helsingborg",
@@ -105,18 +165,6 @@
     "location": {
       "name": "Sotenäs",
       "gps": "58.440139,11.361439"
-    }
-  },
-  {
-    "id": 419291,
-    "datetime": "2023-04-10 10:22:38 +02:00",
-    "name": "10 april 10:15, Brand, Ystad",
-    "summary": "Brand i radhus på Annirogatan.",
-    "url": "/aktuellt/handelser/2023/april/10/10-april-1015-brand-ystad/",
-    "type": "Brand",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 413243,
-    "datetime": "2023-04-03 13:32:59 +02:00",
-    "name": "03 april 10:49, Stöld, Sundsvall",
-    "summary": "Man gripen misstänkt för stöld av elcykel mm.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1049-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 413242,
-    "datetime": "2023-04-03 13:29:55 +02:00",
-    "name": "03 april 12:27, Trafikolycka, singel, Östhammar",
-    "summary": "Personbil kör in i träd",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1227-trafikolycka-singel-osthammar/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Östhammar",
-      "gps": "60.259302,18.365341"
-    }
-  },
-  {
-    "id": 413240,
-    "datetime": "2023-04-03 13:11:37 +02:00",
-    "name": "03 april 11:05, Trafikolycka, personskada, Uppsala",
-    "summary": "Kollision mellan personbilar",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1105-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 413239,
-    "datetime": "2023-04-03 12:55:24 +02:00",
-    "name": "03 april 12:13, Stöld, Umeå",
-    "summary": "Ung man misstänks för ringa stöld.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1213-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
