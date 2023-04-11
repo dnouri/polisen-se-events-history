@@ -1,5 +1,41 @@
 [
   {
+    "id": 419475,
+    "datetime": "2023-04-11 8:50:10 +02:00",
+    "name": "10 april 20:48, Stöld, Tyresö",
+    "summary": "I Trollbäcken stal okända gärningspersoner en elsparkcykel.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-2048-stold-tyreso/",
+    "type": "Stöld",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
+    "id": 419371,
+    "datetime": "2023-04-11 7:55:30 +02:00",
+    "name": "11 april 07:47, Skadegörelse, Borlänge",
+    "summary": "Flertalet bilar som används av en hyresbolag i deras tjänsteutövande har utsatts för skadgörelse.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-0747-skadegorelse-borlange/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 419322,
+    "datetime": "2023-04-10 23:46:55 +02:00",
+    "name": "10 april 20:42, Övrigt, Malmö",
+    "summary": "Heleneholm. Misstänkt sexualbrott utomhus.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-2042-ovrigt-malmo/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 419474,
     "datetime": "2023-04-11 8:28:37 +02:00",
     "name": "11 april 07:18, Trafikolycka, personskada, Värmdö",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 419371,
-    "datetime": "2023-04-11 7:55:30 +02:00",
-    "name": "11 april 07:47, Skadegörelse, Borlänge",
-    "summary": "Flertalet bilar som används av en hyresbolag i deras tjänsteutövande har utsatts för skadgörelse.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-0747-skadegorelse-borlange/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -333,18 +357,6 @@
     "location": {
       "name": "Vaggeryd",
       "gps": "57.498962,14.14863"
-    }
-  },
-  {
-    "id": 419322,
-    "datetime": "2023-04-10 23:46:55 +02:00",
-    "name": "10 april 20:42, Övrigt, Malmö",
-    "summary": "Heleneholm. Misstänkt sexualbrott utomhus.",
-    "url": "/aktuellt/handelser/2023/april/10/10-april-2042-ovrigt-malmo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Lekeberg",
       "gps": "59.16539,14.743407"
-    }
-  },
-  {
-    "id": 413295,
-    "datetime": "2023-04-03 21:45:28 +02:00",
-    "name": "03 april 17:21, Trafikkontroll, Boden",
-    "summary": "Boden, resultat från en trafikkontroll.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1721-trafikkontroll-boden/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
     }
   }
 ]
