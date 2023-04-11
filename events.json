@@ -1,14 +1,38 @@
 [
   {
-    "id": 419532,
-    "datetime": "2023-04-11 16:41:09 +02:00",
-    "name": "11 april 16:40, Trafikolycka, Finspång",
-    "summary": "Trafikolycka på riksväg 51 Ljusfallshammar.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1640-trafikolycka-finspang/",
+    "id": 419534,
+    "datetime": "2023-04-11 17:17:18 +02:00",
+    "name": "11 april 16:03, Stöld, Luleå",
+    "summary": "Misstänkt ringa stöld i butik i Innerstaden.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1603-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 419529,
+    "datetime": "2023-04-11 16:26:04 +02:00",
+    "name": "11 april 16:14, Brand, Karlstad",
+    "summary": "Larm om brand i lägenhet i Tingvallastaden",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1614-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 419533,
+    "datetime": "2023-04-11 17:11:16 +02:00",
+    "name": "11 april 16:48, Trafikolycka, Örebro",
+    "summary": "En cyklist har blivit påkörd av en bilist",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1648-trafikolycka-orebro/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Finspång",
-      "gps": "58.707488,15.773595"
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 419513,
+    "datetime": "2023-04-11 15:00:01 +02:00",
+    "name": "11 april 14:39, Trafikolycka, personskada, Essunga",
+    "summary": "På E 20 nära Lekåsa har en lastbil och en personbil varit inblandade i en olycka.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1439-trafikolycka-personskada-essunga/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Essunga",
+      "gps": "58.195507,12.778158"
+    }
+  },
+  {
+    "id": 419532,
+    "datetime": "2023-04-11 16:41:09 +02:00",
+    "name": "11 april 16:40, Trafikolycka, Finspång",
+    "summary": "Trafikolycka på riksväg 51 Ljusfallshammar.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1640-trafikolycka-finspang/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Finspång",
+      "gps": "58.707488,15.773595"
     }
   },
   {
@@ -45,18 +93,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 419529,
-    "datetime": "2023-04-11 16:26:04 +02:00",
-    "name": "11 april 16:14, Brand, Karlstad",
-    "summary": "Larm om brand i lägenhet i Tingvallastaden",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1614-brand-karlstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -93,18 +129,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 419513,
-    "datetime": "2023-04-11 15:00:01 +02:00",
-    "name": "11 april 14:39, Trafikolycka, personskada, Essunga",
-    "summary": "På E 20 nära Lekåsa har en lastbil och en personbil varit inblandade i en olycka.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1439-trafikolycka-personskada-essunga/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Essunga",
-      "gps": "58.195507,12.778158"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Malung-Sälen",
       "gps": "60.900926,13.322618"
-    }
-  },
-  {
-    "id": 413353,
-    "datetime": "2023-04-04 10:39:24 +02:00",
-    "name": "04 april 10:31, Trafikolycka, Malmö",
-    "summary": "Motorcykel i olycka, Stenkällan.",
-    "url": "/aktuellt/handelser/2023/april/4/04-april-1031-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 413366,
-    "datetime": "2023-04-04 11:04:16 +02:00",
-    "name": "04 april 09:02, Brand, Uppsala",
-    "summary": "Bil fattar eld på E4",
-    "url": "/aktuellt/handelser/2023/april/4/04-april-0902-brand-uppsala/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
