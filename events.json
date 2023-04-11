@@ -1,5 +1,65 @@
 [
   {
+    "id": 419537,
+    "datetime": "2023-04-11 18:25:40 +02:00",
+    "name": "11 april 18:25, Skottlossning, Eskilstuna",
+    "summary": "Polisen larmades till centralstationen med anledning av höga smällar.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1825-skottlossning-eskilstuna/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 419532,
+    "datetime": "2023-04-11 16:41:09 +02:00",
+    "name": "11 april 16:40, Trafikolycka, Finspång",
+    "summary": "Trafikolycka på riksväg 51 Ljusfallshammar.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1640-trafikolycka-finspang/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Finspång",
+      "gps": "58.707488,15.773595"
+    }
+  },
+  {
+    "id": 419536,
+    "datetime": "2023-04-11 17:56:29 +02:00",
+    "name": "11 april 16:28, Rattfylleri, Krokom",
+    "summary": "Bilförare misstänks för flera brott.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1628-rattfylleri-krokom/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 419526,
+    "datetime": "2023-04-11 15:56:30 +02:00",
+    "name": "11 april 15:56, Brand, Strängnäs",
+    "summary": "Larm om brand i radhus i Mariefred.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1556-brand-strangnas/",
+    "type": "Brand",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 419535,
+    "datetime": "2023-04-11 17:52:51 +02:00",
+    "name": "11 april 17:52, Misshandel, Valdemarsvik",
+    "summary": "Man gripen misstänkt för misshandel, ska ha misshandlat närstående kvinna.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-1752-misshandel-valdemarsvik/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Valdemarsvik",
+      "gps": "58.202451,16.601363"
+    }
+  },
+  {
     "id": 419533,
     "datetime": "2023-04-11 17:11:16 +02:00",
     "name": "11 april 16:48, Trafikolycka, Örebro",
@@ -60,18 +120,6 @@
     }
   },
   {
-    "id": 419532,
-    "datetime": "2023-04-11 16:41:09 +02:00",
-    "name": "11 april 16:40, Trafikolycka, Finspång",
-    "summary": "Trafikolycka på riksväg 51 Ljusfallshammar.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1640-trafikolycka-finspang/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Finspång",
-      "gps": "58.707488,15.773595"
-    }
-  },
-  {
     "id": 419525,
     "datetime": "2023-04-11 15:53:51 +02:00",
     "name": "11 april 15:26, Trafikolycka, Kramfors",
@@ -105,18 +153,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 419526,
-    "datetime": "2023-04-11 15:56:30 +02:00",
-    "name": "11 april 15:56, Brand, Strängnäs",
-    "summary": "Larm om brand i radhus i Mariefred.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1556-brand-strangnas/",
-    "type": "Brand",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Gotland",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 413370,
-    "datetime": "2023-04-04 11:40:31 +02:00",
-    "name": "04 april 11:03, Trafikbrott, Stockholms län",
-    "summary": "Några av de trafikbrott som rapporterades mellan klockan 08 och 11.",
-    "url": "/aktuellt/handelser/2023/april/4/04-april-1103-trafikbrott-stockholms-lan/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 413372,
-    "datetime": "2023-04-04 11:40:28 +02:00",
-    "name": "04 april 11:34, Olovlig körning, Degerfors",
-    "summary": "En bilist misstänks ha framfört körkortspliktigt fordon utan körkort.",
-    "url": "/aktuellt/handelser/2023/april/4/04-april-1134-olovlig-korning-degerfors/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Degerfors",
-      "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 413371,
-    "datetime": "2023-04-04 11:34:54 +02:00",
-    "name": "04 april 11:13, Rattfylleri, Malung-Sälen",
-    "summary": "En bilist misstänks för att ha framfört sitt fordon under påverkat tillstånd",
-    "url": "/aktuellt/handelser/2023/april/4/04-april-1113-rattfylleri-malung-salen/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
     }
   }
 ]
