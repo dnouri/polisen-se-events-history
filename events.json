@@ -1,5 +1,65 @@
 [
   {
+    "id": 419360,
+    "datetime": "2023-04-11 7:42:15 +02:00",
+    "name": "10 april 18:28, Trafikolycka, Österåker",
+    "summary": "Ingen misstanke om brott vid olyckan som skedde på Svinnigevägen.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-1828-trafikolycka-osteraker/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Österåker",
+      "gps": "59.500058,18.352485"
+    }
+  },
+  {
+    "id": 419359,
+    "datetime": "2023-04-11 7:37:47 +02:00",
+    "name": "11 april 07:27, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet klockan 22:00–07:00.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-0727-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 419358,
+    "datetime": "2023-04-11 7:36:56 +02:00",
+    "name": "10 april 23:49, Rattfylleri, Norrtälje",
+    "summary": "Föraren som kontrollerades på Stockholmsvägen är misstänkt för drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/april/10/10-april-2349-rattfylleri-norrtalje/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 419357,
+    "datetime": "2023-04-11 7:27:17 +02:00",
+    "name": "11 april 07:13, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet klockan 22:00–07:00.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-0713-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 419356,
+    "datetime": "2023-04-11 7:22:05 +02:00",
+    "name": "11 april 03:19, Trafikolycka, Värmdö",
+    "summary": "Från en ö i mellersta skärgården fördes en person till sjukhus med ambulanshelikopter.",
+    "url": "/aktuellt/handelser/2023/april/11/11-april-0319-trafikolycka-varmdo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
     "id": 419353,
     "datetime": "2023-04-11 7:13:33 +02:00",
     "name": "11 april 07:06, Trafikolycka, Helsingborg",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 413265,
-    "datetime": "2023-04-03 16:52:39 +02:00",
-    "name": "03 april 16:40, Trafikolycka, Linköping",
-    "summary": "Trafikolycka i Linghem",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1640-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 413281,
-    "datetime": "2023-04-03 20:10:14 +02:00",
-    "name": "03 april 19:27, Trafikolycka, Göteborg",
-    "summary": "Kollision mellan elsparkcykel och cyklist vid Västra Nordstan. Allt enligt SOS.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1927-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 413283,
-    "datetime": "2023-04-03 20:08:08 +02:00",
-    "name": "03 april 19:40, Stöld/inbrott, Strömstad",
-    "summary": "Inbrott i fastighet vid Håve enligt SOS. Fastighetsägaren blockerar vägen ut från fastigheten.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1940-stoldinbrott-stromstad/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Strömstad",
-      "gps": "58.938346,11.179187"
-    }
-  },
-  {
-    "id": 413280,
-    "datetime": "2023-04-03 19:32:52 +02:00",
-    "name": "03 april 18:05, Sedlighetsbrott, Skellefteå",
-    "summary": "Skellefteå, man misstänks för sexköp.",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1805-sedlighetsbrott-skelleftea/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 413274,
-    "datetime": "2023-04-03 18:35:04 +02:00",
-    "name": "03 april 17:48, Fylleri/LOB, Hedemora",
-    "summary": "En man är omhändertagen i centrum",
-    "url": "/aktuellt/handelser/2023/april/3/03-april-1748-fyllerilob-hedemora/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Hedemora",
-      "gps": "60.277545,15.985892"
     }
   }
 ]
