@@ -1,5 +1,89 @@
 [
   {
+    "id": 419923,
+    "datetime": "2023-04-13 14:22:48 +02:00",
+    "name": "13 april 14:17, Trafikolycka, Borlänge",
+    "summary": "En olycka har inträffat i Hytting",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1417-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 419922,
+    "datetime": "2023-04-13 14:14:03 +02:00",
+    "name": "13 april 12:37, Stöld, Borlänge",
+    "summary": "En man är misstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1237-stold-borlange/",
+    "type": "Stöld",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 419920,
+    "datetime": "2023-04-13 13:58:27 +02:00",
+    "name": "13 april 13:58, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1358-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 419919,
+    "datetime": "2023-04-13 13:55:12 +02:00",
+    "name": "13 april 10:16, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, misstänkt drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1016-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 419918,
+    "datetime": "2023-04-13 13:53:34 +02:00",
+    "name": "13 april 08:28, Stöld, Sundsvall",
+    "summary": "Sundsbruk, stöld av kopparkabel.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-0828-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 419917,
+    "datetime": "2023-04-13 13:48:46 +02:00",
+    "name": "13 april 13:48, Fylleri/LOB, Umeå",
+    "summary": "Umeå, personer omhändertogs i centrum.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1348-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 419883,
+    "datetime": "2023-04-13 13:45:48 +02:00",
+    "name": "13 april 13:45, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1345-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 419894,
     "datetime": "2023-04-13 12:34:18 +02:00",
     "name": "13 april 12:29, Trafikolycka, Ludvika",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 413900,
-    "datetime": "2023-04-06 7:54:35 +02:00",
-    "name": "06 april 07:52, Sammanfattning natt, Jönköpings län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0752-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 413899,
-    "datetime": "2023-04-06 7:53:42 +02:00",
-    "name": "06 april 07:52, Sammanfattning natt, Östergötlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0752-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 413895,
-    "datetime": "2023-04-06 7:52:21 +02:00",
-    "name": "06 april 07:52, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0752-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 413901,
-    "datetime": "2023-04-06 7:51:08 +02:00",
-    "name": "06 april 03:47, Larm Inbrott, Botkyrka",
-    "summary": "Vaktbolag fick in larm från en skola i Fittja.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0347-larm-inbrott-botkyrka/",
-    "type": "Larm Inbrott",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 413897,
-    "datetime": "2023-04-06 7:35:09 +02:00",
-    "name": "06 april 07:07, Trafikolycka, vilt, Örnsköldsvik",
-    "summary": "Polisen får in en anmälan om en viltolycka på Brogatan/Timotejvägen, Domsjö.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0707-trafikolycka-vilt-ornskoldsvik/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 413896,
-    "datetime": "2023-04-06 7:31:17 +02:00",
-    "name": "06 april 07:31, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0731-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 413893,
-    "datetime": "2023-04-06 7:24:39 +02:00",
-    "name": "06 april 07:24, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00–07:00.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0724-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
