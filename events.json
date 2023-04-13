@@ -1,5 +1,53 @@
 [
   {
+    "id": 419901,
+    "datetime": "2023-04-13 13:07:08 +02:00",
+    "name": "13 april 12:41, Trafikbrott, Stockholm",
+    "summary": "I Vasastaden rapporterades en personbilsförare.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1241-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 419899,
+    "datetime": "2023-04-13 12:55:25 +02:00",
+    "name": "13 april 10:59, Narkotikabrott, Lycksele",
+    "summary": "Lycksele, misstänkt narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1059-narkotikabrott-lycksele/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 419898,
+    "datetime": "2023-04-13 12:54:17 +02:00",
+    "name": "13 april 12:53, Övrigt, Hallands län",
+    "summary": "Tillfälligt obemannat.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1253-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 419897,
+    "datetime": "2023-04-13 12:53:45 +02:00",
+    "name": "13 april 13:00, Övrigt, Västra Götalands län",
+    "summary": "Tillfälligt obemannad.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-1300-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 419894,
     "datetime": "2023-04-13 12:34:18 +02:00",
     "name": "13 april 12:29, Trafikolycka, Ludvika",
@@ -62,10 +110,10 @@
   {
     "id": 419888,
     "datetime": "2023-04-13 11:48:25 +02:00",
-    "name": "13 april 09:12, Trafikkontroll, Stockholm",
+    "name": "13 april 09:12, Trafikolycka, Stockholm",
     "summary": "Cyklist påkörd i Ulvsunda industriområde.",
-    "url": "/aktuellt/handelser/2023/april/13/13-april-0912-trafikkontroll-stockholm/",
-    "type": "Trafikkontroll",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-0912-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 413890,
-    "datetime": "2023-04-06 7:14:38 +02:00",
-    "name": "06 april 07:14, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0714-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 413887,
-    "datetime": "2023-04-06 7:10:49 +02:00",
-    "name": "06 april 07:06, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en mycket lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0706-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 413888,
-    "datetime": "2023-04-06 7:10:44 +02:00",
-    "name": "06 april 07:08, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en mycket lugn natt i länet. Nedan följer ett urval av de händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0708-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 413889,
-    "datetime": "2023-04-06 7:10:39 +02:00",
-    "name": "06 april 07:09, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en mycket lugn natt i länet. Nedan följer ett urval av de händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0709-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
