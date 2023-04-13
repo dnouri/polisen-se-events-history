@@ -1,5 +1,65 @@
 [
   {
+    "id": 419976,
+    "datetime": "2023-04-13 21:43:20 +02:00",
+    "name": "13 april 21:42, Mord/dråp, Malmö",
+    "summary": "Stadionområdet. Anträffad avliden person.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-2142-morddrap-malmo/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 419974,
+    "datetime": "2023-04-13 21:40:10 +02:00",
+    "name": "13 april 21:15, Trafikolycka, vilt, Krokom",
+    "summary": "Larm om trafikolycka på E14/länsväg 611, Ås.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-2115-trafikolycka-vilt-krokom/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 419975,
+    "datetime": "2023-04-13 21:38:31 +02:00",
+    "name": "13 april 20:22, Mord/dråp, försök, Solna",
+    "summary": "En inringare från ett flerbostadshus i Råsunda hör att det är bråk i en lägenhet och är orolig för att någon b",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-2022-morddrap-forsok-solna/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 419969,
+    "datetime": "2023-04-13 20:14:07 +02:00",
+    "name": "13 april 20:08, Trafikolycka, Malung-Sälen",
+    "summary": "En trafikolycka har inträffat mellan Transtrand och Lindvallen, på riksväg 66",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-2008-trafikolycka-malung-salen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 419972,
+    "datetime": "2023-04-13 21:19:06 +02:00",
+    "name": "13 april 21:19, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/13/13-april-2119-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 419973,
     "datetime": "2023-04-13 21:13:30 +02:00",
     "name": "13 april 17:15, Misshandel, Åre",
@@ -69,18 +129,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 419969,
-    "datetime": "2023-04-13 20:14:07 +02:00",
-    "name": "13 april 20:08, Trafikolycka, Malung-Sälen",
-    "summary": "En trafikolycka har inträffat mellan Transtrand och Lindvallen",
-    "url": "/aktuellt/handelser/2023/april/13/13-april-2008-trafikolycka-malung-salen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Uddevalla",
       "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 413894,
-    "datetime": "2023-04-06 7:28:02 +02:00",
-    "name": "06 april 01:28, Misshandel, Nacka",
-    "summary": "I Saltsjö-boo greps en man misstänkt för bland annat misshandel.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0128-misshandel-nacka/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 413941,
-    "datetime": "2023-04-06 12:42:36 +02:00",
-    "name": "06 april 11:14, Stöld, Sundsvall",
-    "summary": "Misstänkt ringa stöld i butik i Stenstan.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1114-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 413940,
-    "datetime": "2023-04-06 12:39:00 +02:00",
-    "name": "06 april 11:37, Stöld, Skellefteå",
-    "summary": "Misstänkt ringa stöld i matbutik, Anderstorp.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1137-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 413919,
-    "datetime": "2023-04-06 12:36:22 +02:00",
-    "name": "06 april 07:26, Stöld, försök, Umeå",
-    "summary": "Polispatrull beordras till Berghem med anledning av en mistänkt cykelstöld.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-0726-stold-forsok-umea/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
