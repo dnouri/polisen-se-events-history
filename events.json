@@ -1,5 +1,41 @@
 [
   {
+    "id": 420017,
+    "datetime": "2023-04-14 9:03:23 +02:00",
+    "name": "14 april 09:00, Övrigt, Örebro",
+    "summary": "Fyra personer är gripna misstänkt för grovt sabotage mot blåljusverksamhet efter påsken 2022.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-0900-ovrigt-orebro/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 420072,
+    "datetime": "2023-04-14 19:04:09 +02:00",
+    "name": "14 april 15:51, Skadegörelse, Eskilstuna",
+    "summary": "Skadegörelse på polisens övervakningskamera.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-1551-skadegorelse-eskilstuna/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 420080,
+    "datetime": "2023-04-14 18:52:05 +02:00",
+    "name": "14 april 17:11, Trafikolycka, personskada, Vaggeryd",
+    "summary": "Singelolycka med moped.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-1711-trafikolycka-personskada-vaggeryd/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Vaggeryd",
+      "gps": "57.498962,14.14863"
+    }
+  },
+  {
     "id": 420079,
     "datetime": "2023-04-14 18:35:50 +02:00",
     "name": "14 april 18:13, Trafikolycka, Malmö",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 420075,
+    "datetime": "2023-04-14 18:02:43 +02:00",
+    "name": "14 april 17:27, Trafikolycka, Borlänge",
+    "summary": "Två bilister är inblandade i en kollision.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-1727-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -54,18 +102,6 @@
     "summary": "En anmälare uppger att han utsatt för ett rån i Borlänge centrum.",
     "url": "/aktuellt/handelser/2023/april/14/14-april-1802-ran-borlange/",
     "type": "Rån",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 420075,
-    "datetime": "2023-04-14 18:02:43 +02:00",
-    "name": "14 april 17:27, Trafikolycka, Borlänge",
-    "summary": "Två bilister är inblandade i en kollision.",
-    "url": "/aktuellt/handelser/2023/april/14/14-april-1727-trafikolycka-borlange/",
-    "type": "Trafikolycka",
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
@@ -321,18 +357,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 420017,
-    "datetime": "2023-04-14 9:03:23 +02:00",
-    "name": "14 april 09:00, Övrigt, Örebro",
-    "summary": "Två personer är gripna misstänkt för grovt sabotage mot blåljusverksamhet efter påsken 2022.",
-    "url": "/aktuellt/handelser/2023/april/14/14-april-0900-ovrigt-orebro/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Vallentuna",
       "gps": "59.5357,18.078017"
-    }
-  },
-  {
-    "id": 414030,
-    "datetime": "2023-04-07 8:53:37 +02:00",
-    "name": "07 april 00:22, Trafikbrott, Norrtälje",
-    "summary": "I Rö rapporterades en personbilsförare.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-0022-trafikbrott-norrtalje/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 414029,
-    "datetime": "2023-04-07 8:51:17 +02:00",
-    "name": "06 april 23:02, Misshandel, Nacka",
-    "summary": "På Kvarnholmen greps en man misstänkt för misshandel som skett inomhus.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-2302-misshandel-nacka/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
     }
   }
 ]
