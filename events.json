@@ -1,5 +1,65 @@
 [
   {
+    "id": 420007,
+    "datetime": "2023-04-14 7:37:11 +02:00",
+    "name": "14 april 04:44, Brand, Älvkarleby",
+    "summary": "Brand i villa.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-0444-brand-alvkarleby/",
+    "type": "Brand",
+    "location": {
+      "name": "Älvkarleby",
+      "gps": "60.568607,17.448913"
+    }
+  },
+  {
+    "id": 420005,
+    "datetime": "2023-04-14 7:28:17 +02:00",
+    "name": "14 april 07:28, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-0728-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 420004,
+    "datetime": "2023-04-14 7:27:41 +02:00",
+    "name": "14 april 07:27, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-0727-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 420003,
+    "datetime": "2023-04-14 7:26:43 +02:00",
+    "name": "14 april 07:26, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-0726-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 420002,
+    "datetime": "2023-04-14 7:25:10 +02:00",
+    "name": "14 april 07:25, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-0725-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 419996,
     "datetime": "2023-04-14 7:17:23 +02:00",
     "name": "14 april 07:17, Sammanfattning natt, Värmlands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Markaryd",
       "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 413983,
-    "datetime": "2023-04-06 17:43:37 +02:00",
-    "name": "06 april 17:32, Stöld/inbrott, Mariestad",
-    "summary": "Polisen larmas om ett inbrott på Mariegärdes väg i Lockerud.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1732-stoldinbrott-mariestad/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Mariestad",
-      "gps": "58.710112,13.821333"
-    }
-  },
-  {
-    "id": 413982,
-    "datetime": "2023-04-06 17:42:53 +02:00",
-    "name": "06 april 17:31, Trafikolycka, Malmö",
-    "summary": "En buss kör i diket på Sallrupsvägen i höjd med Kölnan.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1731-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 413981,
-    "datetime": "2023-04-06 17:18:46 +02:00",
-    "name": "06 april 16:59, Försvunnen person, Hagfors",
-    "summary": "Polisen söker efter en försvunnen flicka i Hagfors.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1659-forsvunnen-person-hagfors/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Hagfors",
-      "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 413972,
-    "datetime": "2023-04-06 16:28:51 +02:00",
-    "name": "06 april 15:47, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på E4/länsväg 961 Ersnäs i Luleå.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1547-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 413975,
-    "datetime": "2023-04-06 16:37:46 +02:00",
-    "name": "06 april 16:00, Trafikolycka, Landskrona",
-    "summary": "En personbil och en lätt lastbil kolliderar på E6 i höjd med Häljarp.",
-    "url": "/aktuellt/handelser/2023/april/6/06-april-1600-trafikolycka-landskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
     }
   }
 ]
