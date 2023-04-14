@@ -1,5 +1,17 @@
 [
   {
+    "id": 420076,
+    "datetime": "2023-04-14 18:16:07 +02:00",
+    "name": "14 april 15:00, Stöld/inbrott, Söderhamn",
+    "summary": "Man gripen efter inbrott i Ljusne.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-1500-stoldinbrott-soderhamn/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
     "id": 420074,
     "datetime": "2023-04-14 17:43:58 +02:00",
     "name": "14 april 17:32, Misshandel, Göteborg",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 420077,
+    "datetime": "2023-04-14 18:09:53 +02:00",
+    "name": "14 april 18:02, Rån, Borlänge",
+    "summary": "En anmälare uppger att han utsatt för ett rån i Borlänge centrum.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-1802-ran-borlange/",
+    "type": "Rån",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 420075,
+    "datetime": "2023-04-14 18:02:43 +02:00",
+    "name": "14 april 17:27, Trafikolycka, Borlänge",
+    "summary": "Två bilister är inblandade i en kollision.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-1727-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 420066,
+    "datetime": "2023-04-14 15:55:54 +02:00",
+    "name": "14 april 00:00, Brand, Hällefors",
+    "summary": "Det brinner i ett garage i Örlingen i Hällefors kommun.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-0000-brand-hallefors/",
+    "type": "Brand",
+    "location": {
+      "name": "Hällefors",
+      "gps": "59.783688,14.522569"
     }
   },
   {
@@ -33,18 +81,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 420066,
-    "datetime": "2023-04-14 15:55:54 +02:00",
-    "name": "14 april 00:00, Brand, Hällefors",
-    "summary": "Det brinner i ett garage i Örlingen i Hällefors kommun.",
-    "url": "/aktuellt/handelser/2023/april/14/14-april-0000-brand-hallefors/",
-    "type": "Brand",
-    "location": {
-      "name": "Hällefors",
-      "gps": "59.783688,14.522569"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 414025,
-    "datetime": "2023-04-07 8:01:54 +02:00",
-    "name": "07 april 08:00, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-0800-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 414027,
-    "datetime": "2023-04-07 8:01:14 +02:00",
-    "name": "07 april 07:59, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-0759-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 414024,
-    "datetime": "2023-04-07 7:47:06 +02:00",
-    "name": "07 april 07:00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-0700-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
