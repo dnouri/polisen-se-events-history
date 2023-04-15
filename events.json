@@ -1,5 +1,113 @@
 [
   {
+    "id": 420116,
+    "datetime": "2023-04-15 7:18:19 +02:00",
+    "name": "15 april 02:02, Mord/dråp, försök, Stockholm",
+    "summary": "En inringare hörde av sig om ett misstänkt farligt föremål i ett bostadsområde i Vinsta.",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-0202-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 420113,
+    "datetime": "2023-04-15 7:17:33 +02:00",
+    "name": "15 april 07:11, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-0711-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 420114,
+    "datetime": "2023-04-15 7:17:27 +02:00",
+    "name": "15 april 07:12, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-0712-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 420115,
+    "datetime": "2023-04-15 7:17:23 +02:00",
+    "name": "15 april 07:14, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-0714-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 420112,
+    "datetime": "2023-04-15 7:10:06 +02:00",
+    "name": "15 april 06:52, Trafikolycka, Ystad",
+    "summary": "Olycka i samband med avlastning, hamnen.",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-0652-trafikolycka-ystad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ystad",
+      "gps": "55.429505,13.820031"
+    }
+  },
+  {
+    "id": 420093,
+    "datetime": "2023-04-14 22:41:15 +02:00",
+    "name": "14 april 21:18, Mord/dråp, försök, Nacka",
+    "summary": "Skottlossning i Älta centrum.",
+    "url": "/aktuellt/handelser/2023/april/14/14-april-2118-morddrap-forsok-nacka/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 420111,
+    "datetime": "2023-04-15 7:02:09 +02:00",
+    "name": "15 april 01:19, Trafikbrott, Kävlinge",
+    "summary": "Förföljande, Kävlinge/Svalöv.",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-0119-trafikbrott-kavlinge/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 420109,
+    "datetime": "2023-04-15 6:54:14 +02:00",
+    "name": "15 april 00:04, Misshandel, Karlskrona",
+    "summary": "Man misshandlad och bestulen, Kungsmarken.",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-0004-misshandel-karlskrona/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 420107,
+    "datetime": "2023-04-15 6:49:13 +02:00",
+    "name": "15 april 04:20, Räddningsinsats, Trelleborg",
+    "summary": "Lastbil hänger ut från färja, hamnen.",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-0420-raddningsinsats-trelleborg/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
     "id": 420106,
     "datetime": "2023-04-15 4:39:56 +02:00",
     "name": "15 april 00:11, Brand, Hässleholm",
@@ -69,18 +177,6 @@
     "location": {
       "name": "Perstorp",
       "gps": "56.137972,13.394986"
-    }
-  },
-  {
-    "id": 420093,
-    "datetime": "2023-04-14 22:41:15 +02:00",
-    "name": "14 april 21:18, Mord/dråp, försök, Nacka",
-    "summary": "Skottlossning i Älta centrum.",
-    "url": "/aktuellt/handelser/2023/april/14/14-april-2118-morddrap-forsok-nacka/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 414057,
-    "datetime": "2023-04-07 16:19:05 +02:00",
-    "name": "07 april 16:18, Övrigt, Hallands län",
-    "summary": "Sidan uppdateras inte mer idag.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1618-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 414056,
-    "datetime": "2023-04-07 15:40:52 +02:00",
-    "name": "07 april 14:28, Misshandel, grov, Lilla edet",
-    "summary": "Vid Lödösegrillen i Lödöse är det en person som blir påkörd av en bilist som smiter från platsen.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1428-misshandel-grov-lilla-edet/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Lilla edet",
-      "gps": "58.132158,12.124134"
-    }
-  },
-  {
-    "id": 414054,
-    "datetime": "2023-04-07 15:22:00 +02:00",
-    "name": "07 april 14:02, Trafikolycka, personskada, Halmstad",
-    "summary": "På Laholmsvägen vid Larsfrid är det en bilist som kör upp på en refug i hög hastighet och kolliderar med ett t",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1402-trafikolycka-personskada-halmstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 414053,
-    "datetime": "2023-04-07 14:30:35 +02:00",
-    "name": "07 april 13:59, Brand, Nacka",
-    "summary": "I Saltsjö-Duvnäs biträder polisen räddningstjänsten vid en brand i en mindre byggnad.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1359-brand-nacka/",
-    "type": "Brand",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 414052,
-    "datetime": "2023-04-07 14:30:15 +02:00",
-    "name": "07 april 13:25, Trafikolycka, Umeå",
-    "summary": "Olycka mellan buss och person i Umeå.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1325-trafikolycka-umea2/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 414051,
-    "datetime": "2023-04-07 14:00:28 +02:00",
-    "name": "07 april 13:27, Trafikbrott, Södertälje",
-    "summary": "Lastbilschaufför rapporterades på E4 vid trafikplats Järna.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1327-trafikbrott-sodertalje/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 414050,
-    "datetime": "2023-04-07 13:56:00 +02:00",
-    "name": "07 april 12:17, Fylleri/LOB, Stockholm",
-    "summary": "Berusad kvinna omhändertogs vid tunnelbanestationen T-centralen.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1217-fyllerilob-stockholm/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 414049,
-    "datetime": "2023-04-07 13:50:49 +02:00",
-    "name": "07 april 09:48, Brand, Stockholm",
-    "summary": "I Tensta är en okänd gärningsperson är misstänkt för att genom oaktsamhet orsakat en bilbrand.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-0948-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
