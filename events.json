@@ -1,5 +1,41 @@
 [
   {
+    "id": 420146,
+    "datetime": "2023-04-15 12:22:00 +02:00",
+    "name": "15 april 12:19, Trafikolycka, Ludvika",
+    "summary": "En olycka har inträffat i Ulriksberg",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-1219-trafikolycka-ludvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 420144,
+    "datetime": "2023-04-15 12:18:33 +02:00",
+    "name": "15 april 11:42, Trafikolycka, Mölndal",
+    "summary": "En trafikolycka med en personbil ska enligt SOS ha inträffat vid Korkslätt.",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-1142-trafikolycka-molndal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 420145,
+    "datetime": "2023-04-15 12:07:01 +02:00",
+    "name": "15 april 11:00, Stöld, Luleå",
+    "summary": "Luleå, stöld anmäls.",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-1100-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 420143,
     "datetime": "2023-04-15 11:25:16 +02:00",
     "name": "15 april 11:00, Trafikolycka, Hallsberg",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Hallsberg",
       "gps": "59.066532,15.10229"
+    }
+  },
+  {
+    "id": 420139,
+    "datetime": "2023-04-15 11:45:51 +02:00",
+    "name": "15 april 10:56, Arbetsplatsolycka, Varberg",
+    "summary": "Arbetsplatsolycka på ett företag vid Kvarnagården, allt enligt SOS.",
+    "url": "/aktuellt/handelser/2023/april/15/15-april-1056-arbetsplatsolycka-varberg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
     }
   },
   {
@@ -5945,54 +5993,6 @@
     "name": "07 april 22:43, Brand, Malmö",
     "summary": "Larm om ny bilbrand på Rosengård.",
     "url": "/aktuellt/handelser/2023/april/7/07-april-2243-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 414074,
-    "datetime": "2023-04-07 20:49:43 +02:00",
-    "name": "07 april 19:50, Brand, Lidingö",
-    "summary": "Brand i villa",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1950-brand-lidingo/",
-    "type": "Brand",
-    "location": {
-      "name": "Lidingö",
-      "gps": "59.36296,18.1468"
-    }
-  },
-  {
-    "id": 414077,
-    "datetime": "2023-04-07 22:01:22 +02:00",
-    "name": "07 april 18:58, Fjällräddning, Gällivare",
-    "summary": "Skoterolycka i Ritsem, Gällivare.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1858-fjallraddning-gallivare/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 414061,
-    "datetime": "2023-04-07 16:29:38 +02:00",
-    "name": "07 april 16:29, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-1629-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 414076,
-    "datetime": "2023-04-07 21:13:57 +02:00",
-    "name": "07 april 20:42, Brand, Malmö",
-    "summary": "En bil brinner på Rosengård.",
-    "url": "/aktuellt/handelser/2023/april/7/07-april-2042-brand-malmo/",
     "type": "Brand",
     "location": {
       "name": "Malmö",
