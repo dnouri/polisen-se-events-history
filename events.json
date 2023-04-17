@@ -1,5 +1,53 @@
 [
   {
+    "id": 420346,
+    "datetime": "2023-04-17 19:04:11 +02:00",
+    "name": "17 april 18:04, Trafikolycka, Strömsund",
+    "summary": "Larm om trafikolycka på Ramselevägen, Strömsund.",
+    "url": "/aktuellt/handelser/2023/april/17/17-april-1804-trafikolycka-stromsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 420273,
+    "datetime": "2023-04-17 11:22:16 +02:00",
+    "name": "17 april 11:19, Trafikolycka, Ljungby",
+    "summary": "Olycka mellan personbil och lastbil, Kånna.",
+    "url": "/aktuellt/handelser/2023/april/17/17-april-1119-trafikolycka-ljungby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 420358,
+    "datetime": "2023-04-17 19:32:48 +02:00",
+    "name": "17 april 19:01, Vapenlagen, Solna",
+    "summary": "Polisen har stoppat tvärbanan i Hagalund för att kontrollera vad som ligger på spårområdet.",
+    "url": "/aktuellt/handelser/2023/april/17/17-april-1901-vapenlagen-solna/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 420339,
+    "datetime": "2023-04-17 19:24:10 +02:00",
+    "name": "17 april 16:08, Stöld, Östersund",
+    "summary": "Misstänkt ringa stöld i matbutik i Östersund.",
+    "url": "/aktuellt/handelser/2023/april/17/17-april-1608-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 420357,
     "datetime": "2023-04-17 19:17:41 +02:00",
     "name": "17 april 17:44, Rattfylleri, Örebro",
@@ -33,18 +81,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 420346,
-    "datetime": "2023-04-17 19:04:11 +02:00",
-    "name": "17 april 18:04, Trafikolycka, Strömsund",
-    "summary": "Larm om trafikolycka på Ramselevägen, Strömsund.",
-    "url": "/aktuellt/handelser/2023/april/17/17-april-1804-trafikolycka-stromsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
     }
   },
   {
@@ -597,18 +633,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 420273,
-    "datetime": "2023-04-17 11:22:16 +02:00",
-    "name": "17 april 11:19, Trafikolycka, Ljungby",
-    "summary": "Olycka mellan personbil och lastbil, Kånna.",
-    "url": "/aktuellt/handelser/2023/april/17/17-april-1119-trafikolycka-ljungby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 419342,
-    "datetime": "2023-04-11 3:24:01 +02:00",
-    "name": "11 april 00:37, Brand, Kungsör",
-    "summary": "Ung man gripen för mordbrand på HVB-hem.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-0037-brand-kungsor/",
-    "type": "Brand",
-    "location": {
-      "name": "Kungsör",
-      "gps": "59.422397,16.097786"
-    }
-  },
-  {
-    "id": 419334,
-    "datetime": "2023-04-11 0:11:54 +02:00",
-    "name": "11 april 00:07, Trafikolycka, personskada, Vaggeryd",
-    "summary": "Trafikolycka mellan personbil och lastbil på RV 30 vid Svenarum.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-0007-trafikolycka-personskada-vaggeryd/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Vaggeryd",
-      "gps": "57.498962,14.14863"
     }
   }
 ]
