@@ -1,11 +1,71 @@
 [
   {
-    "id": 420468,
-    "datetime": "2023-04-18 17:00:47 +02:00",
-    "name": "18 april 14:31, Farligt föremål, misstänkt, Södertälje",
-    "summary": "Polisen ska undersöka det föremål som kom upp vid magnetfiske i Maren.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1431-farligt-foremal-misstankt-sodertalje/",
-    "type": "Farligt föremål, misstänkt",
+    "id": 420475,
+    "datetime": "2023-04-18 18:22:24 +02:00",
+    "name": "18 april 16:44, Trafikolycka, Stockholm",
+    "summary": "I Fruängen kör en föraren in i ett fordon, det fordonet knuffas då in i ett annat fordon.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1644-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 420474,
+    "datetime": "2023-04-18 18:13:15 +02:00",
+    "name": "18 april 15:44, Narkotikabrott, Norrtälje",
+    "summary": "Misstänkt påverkad person kontrollerade i Hallstavik.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1544-narkotikabrott-norrtalje/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 420473,
+    "datetime": "2023-04-18 18:11:20 +02:00",
+    "name": "18 april 15:38, Anträffat gods, Nacka",
+    "summary": "I Nyckelviken har sjöpolisen kontrollerat två båtar.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1538-antraffat-gods-nacka/",
+    "type": "Anträffat gods",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 420469,
+    "datetime": "2023-04-18 17:05:49 +02:00",
+    "name": "18 april 16:40, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka, Ålidbacken.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1640-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 420472,
+    "datetime": "2023-04-18 18:08:51 +02:00",
+    "name": "18 april 15:31, Trafikolycka, singel, Nacka",
+    "summary": "Polisen ska utreda singelolyckan i Orminge.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1531-trafikolycka-singel-nacka/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 420471,
+    "datetime": "2023-04-18 18:04:30 +02:00",
+    "name": "18 april 16:52, Vapenlagen, Södertälje",
+    "summary": "Polisen fick samtal om en beväpnad man i närheten av Storgatan.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1652-vapenlagen-sodertalje/",
+    "type": "Vapenlagen",
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
@@ -24,15 +84,39 @@
     }
   },
   {
-    "id": 420469,
-    "datetime": "2023-04-18 17:05:49 +02:00",
-    "name": "18 april 16:40, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka, Ålidbacken.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1640-trafikolycka-umea/",
+    "id": 420461,
+    "datetime": "2023-04-18 15:26:42 +02:00",
+    "name": "18 april 15:15, Brand, Torsby",
+    "summary": "Flera uthus brinner på en adress i Fryksände",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1515-brand-torsby/",
+    "type": "Brand",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 420462,
+    "datetime": "2023-04-18 15:45:25 +02:00",
+    "name": "18 april 15:40, Trafikolycka, Karlskoga",
+    "summary": "Två bilister har kolliderat vid länsväg 708 och Filipstadsvägen",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1540-trafikolycka-karlskoga/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 420468,
+    "datetime": "2023-04-18 17:00:47 +02:00",
+    "name": "18 april 14:31, Farligt föremål, misstänkt, Södertälje",
+    "summary": "Polisen ska undersöka det föremål som kom upp vid magnetfiske i Maren.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1431-farligt-foremal-misstankt-sodertalje/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -45,18 +129,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 420461,
-    "datetime": "2023-04-18 15:26:42 +02:00",
-    "name": "18 april 15:15, Brand, Torsby",
-    "summary": "Flera uthus brinner på en adress i Fryksände",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1515-brand-torsby/",
-    "type": "Brand",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   },
   {
@@ -93,18 +165,6 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 420462,
-    "datetime": "2023-04-18 15:45:25 +02:00",
-    "name": "18 april 15:40, Trafikolycka, Karlskoga",
-    "summary": "Två bilister har kolliderat vid länsväg 708 och Filipstadsvägen",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1540-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 419690,
-    "datetime": "2023-04-12 6:15:16 +02:00",
-    "name": "12 april 05:58, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Ett urval ur kvällen/nattens händelser i länet.",
-    "url": "/aktuellt/handelser/2023/april/12/12-april-0558-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 419587,
-    "datetime": "2023-04-12 0:29:10 +02:00",
-    "name": "12 april 00:18, Försvunnen person, Enköping",
-    "summary": "Polisen söker två barn som senast sågs i Fjärdhundra, Enköpings kommun.",
-    "url": "/aktuellt/handelser/2023/april/12/12-april-0018-forsvunnen-person-enkoping/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 419564,
-    "datetime": "2023-04-11 22:00:17 +02:00",
-    "name": "11 april 17:29, Trafikkontroll, Boden",
-    "summary": "Resultat efter trafikkontroll på riksväg 97, Vittjärv.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1729-trafikkontroll-boden/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 419562,
-    "datetime": "2023-04-11 21:49:41 +02:00",
-    "name": "11 april 14:12, Trafikkontroll, Härjedalen",
-    "summary": "Resultat efter en trafikkontroll på Gränsgatan i Sveg.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1412-trafikkontroll-harjedalen/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 419561,
-    "datetime": "2023-04-11 21:47:13 +02:00",
-    "name": "11 april 16:15, Motorfordon, anträffat stulet, Järfälla",
-    "summary": "En bilägare hittar sin stulna bil med främmande personer i.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1615-motorfordon-antraffat-stulet-jarfalla/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
     }
   }
 ]
