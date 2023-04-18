@@ -1,14 +1,62 @@
 [
   {
-    "id": 420397,
-    "datetime": "2023-04-18 7:22:05 +02:00",
-    "name": "18 april 06:36, Brand, Umeå",
-    "summary": "Kronoparken, brand i industrilokal",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-0636-brand-umea/",
-    "type": "Brand",
+    "id": 420359,
+    "datetime": "2023-04-17 19:48:36 +02:00",
+    "name": "17 april 18:59, Mord/dråp, försök, Umeå",
+    "summary": "Polisen kontaktas angående en skadad person Öst på stan.",
+    "url": "/aktuellt/handelser/2023/april/17/17-april-1859-morddrap-forsok-umea/",
+    "type": "Mord/dråp, försök",
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 420424,
+    "datetime": "2023-04-18 10:04:23 +02:00",
+    "name": "18 april 08:59, Trafikolycka, singel, Södertälje",
+    "summary": "E4 helt blockerad i norrgående riktning mellan Järna och Södertälje efter en trafikolycka.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-0859-trafikolycka-singel-sodertalje/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 420434,
+    "datetime": "2023-04-18 11:15:16 +02:00",
+    "name": "18 april 09:04, Trafikolycka, Sigtuna",
+    "summary": "Personer som sprungit i väg från en krockad bil grips.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-0904-trafikolycka-sigtuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 420432,
+    "datetime": "2023-04-18 11:05:32 +02:00",
+    "name": "18 april 07:07, Anträffad död, Trollhättan",
+    "summary": "Polis larmas till en lägenhet i Trollhättan med anledning av att ambulanspersonal har anträffat en avliden kvi",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-0707-antraffad-dod-trollhattan/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Trollhättan",
+      "gps": "58.283489,12.285821"
+    }
+  },
+  {
+    "id": 420430,
+    "datetime": "2023-04-18 11:02:00 +02:00",
+    "name": "18 april 11:00, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken under morgon och förmiddag",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1100-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -24,15 +72,39 @@
     }
   },
   {
-    "id": 420424,
-    "datetime": "2023-04-18 10:04:23 +02:00",
-    "name": "18 april 08:59, Trafikolycka, singel, Södertälje",
-    "summary": "E4 helt blockerad i norrgående riktning mellan Järna och Södertälje efter en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-0859-trafikolycka-singel-sodertalje/",
-    "type": "Trafikolycka, singel",
+    "id": 420426,
+    "datetime": "2023-04-18 10:50:49 +02:00",
+    "name": "18 april 08:39, Stöld, Piteå",
+    "summary": "Backens industriområde, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-0839-stold-pitea/",
+    "type": "Stöld",
     "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 420425,
+    "datetime": "2023-04-18 10:47:51 +02:00",
+    "name": "18 april 10:06, Brand, Luleå",
+    "summary": "Notviken, larm om brand i flerfamiljshus",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1006-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 420397,
+    "datetime": "2023-04-18 7:22:05 +02:00",
+    "name": "18 april 06:36, Brand, Umeå",
+    "summary": "Kronoparken, brand i industrilokal",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-0636-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -405,18 +477,6 @@
     "location": {
       "name": "Ystad",
       "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 420359,
-    "datetime": "2023-04-17 19:48:36 +02:00",
-    "name": "17 april 18:59, Mord/dråp, försök, Umeå",
-    "summary": "Polisen kontaktas angående en skadad person Öst på stan.",
-    "url": "/aktuellt/handelser/2023/april/17/17-april-1859-morddrap-forsok-umea/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 419540,
-    "datetime": "2023-04-11 18:43:35 +02:00",
-    "name": "11 april 17:42, Trafikolycka, personskada, Vårgårda",
-    "summary": "Cyklist och bilist i olycka i korsningen Kungsgatan - Parkgatan.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1742-trafikolycka-personskada-vargarda/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Vårgårda",
-      "gps": "58.032304,12.808976"
-    }
-  },
-  {
-    "id": 419539,
-    "datetime": "2023-04-11 18:40:11 +02:00",
-    "name": "11 april 18:40, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken under eftermddagen.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1840-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 419532,
-    "datetime": "2023-04-11 16:41:09 +02:00",
-    "name": "11 april 16:40, Trafikolycka, Finspång",
-    "summary": "Trafikolycka på riksväg 51 Ljusfallshammar.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1640-trafikolycka-finspang/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Finspång",
-      "gps": "58.707488,15.773595"
-    }
-  },
-  {
-    "id": 419536,
-    "datetime": "2023-04-11 17:56:29 +02:00",
-    "name": "11 april 16:28, Rattfylleri, Krokom",
-    "summary": "Bilförare misstänks för flera brott.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1628-rattfylleri-krokom/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 419526,
-    "datetime": "2023-04-11 15:56:30 +02:00",
-    "name": "11 april 15:56, Brand, Strängnäs",
-    "summary": "Larm om brand i radhus i Mariefred.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-1556-brand-strangnas/",
-    "type": "Brand",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
     }
   }
 ]
