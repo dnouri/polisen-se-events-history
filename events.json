@@ -1,5 +1,29 @@
 [
   {
+    "id": 420461,
+    "datetime": "2023-04-18 15:26:42 +02:00",
+    "name": "18 april 15:15, Brand, Torsby",
+    "summary": "Flera uthus brinner på en adress i Fryksände",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1515-brand-torsby/",
+    "type": "Brand",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 420464,
+    "datetime": "2023-04-18 16:41:10 +02:00",
+    "name": "18 april 14:57, Stöld, Skellefteå",
+    "summary": "Misstänkt ringa stöld i butik i centrala Skellefteå.",
+    "url": "/aktuellt/handelser/2023/april/18/18-april-1457-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 420465,
     "datetime": "2023-04-18 16:25:25 +02:00",
     "name": "18 april 15:36, Trafikolycka, vilt, Krokom",
@@ -33,18 +57,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 420461,
-    "datetime": "2023-04-18 15:26:42 +02:00",
-    "name": "18 april 15:15, Brand, Torsby",
-    "summary": "Flera uthus brinner på en adress i Fryksände",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1515-brand-torsby/",
-    "type": "Brand",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   },
   {
@@ -123,7 +135,7 @@
     "id": 420453,
     "datetime": "2023-04-18 14:03:39 +02:00",
     "name": "18 april 12:40, Skottlossning, Alingsås",
-    "summary": "Polisen larmas till Kungälvsvägen, Kvarnabacken med anledning av en beväpnad man.",
+    "summary": "Polisen larmas till Kungälvsvägen, Kvarnabacken med anledning av en beväpnad man. Gärningsmannen grips ca kl 1",
     "url": "/aktuellt/handelser/2023/april/18/18-april-1240-skottlossning-alingsas/",
     "type": "Skottlossning",
     "location": {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 419558,
-    "datetime": "2023-04-11 21:31:42 +02:00",
-    "name": "11 april 21:30, Övrigt, Östergötlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/april/11/11-april-2130-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
