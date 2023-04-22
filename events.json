@@ -1,5 +1,53 @@
 [
   {
+    "id": 420958,
+    "datetime": "2023-04-22 12:20:25 +02:00",
+    "name": "22 april 12:00, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat efter trafikkontroller under förmiddagen",
+    "url": "/aktuellt/handelser/2023/april/22/22-april-1200-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 420961,
+    "datetime": "2023-04-22 12:20:17 +02:00",
+    "name": "22 april 12:16, Trafikkontroll, Karlstad",
+    "summary": "Polispatrull har övervakat trafiken med laser på Örstaholmsleden i Karlstad under förmiddagen.",
+    "url": "/aktuellt/handelser/2023/april/22/22-april-1216-trafikkontroll-karlstad/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 420952,
+    "datetime": "2023-04-22 9:48:43 +02:00",
+    "name": "22 april 09:38, Trafikolycka, Mörbylånga",
+    "summary": "En personbil och en traktor kolliderar på Storgatan i Färjestaden. Traktorn ska ha vält i samband med olyckan.",
+    "url": "/aktuellt/handelser/2023/april/22/22-april-0938-trafikolycka-morbylanga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mörbylånga",
+      "gps": "56.523757,16.386916"
+    }
+  },
+  {
+    "id": 420960,
+    "datetime": "2023-04-22 12:01:08 +02:00",
+    "name": "22 april 11:04, Rattfylleri, Täby",
+    "summary": "En bilist i Näsbypark medtogs för vidare utredning efter misstanke om rattfylleri.",
+    "url": "/aktuellt/handelser/2023/april/22/22-april-1104-rattfylleri-taby/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
     "id": 420959,
     "datetime": "2023-04-22 11:34:23 +02:00",
     "name": "22 april 10:17, Brand, Ånge",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Orsa",
       "gps": "61.116937,14.628071"
-    }
-  },
-  {
-    "id": 420952,
-    "datetime": "2023-04-22 9:48:43 +02:00",
-    "name": "22 april 09:38, Trafikolycka, Mörbylånga",
-    "summary": "En personbil och en traktor kolliderar på Storgatan i Färjestaden.",
-    "url": "/aktuellt/handelser/2023/april/22/22-april-0938-trafikolycka-morbylanga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mörbylånga",
-      "gps": "56.523757,16.386916"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 420181,
-    "datetime": "2023-04-16 8:09:11 +02:00",
-    "name": "16 april 07:58, Brand, Borås",
-    "summary": "Möjlig brand på bensinstation vid Hulta.",
-    "url": "/aktuellt/handelser/2023/april/16/16-april-0758-brand-boras/",
-    "type": "Brand",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 420174,
-    "datetime": "2023-04-16 7:24:08 +02:00",
-    "name": "16 april 07:16, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en normal lördagsnatt i länet. Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/april/16/16-april-0716-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 420180,
-    "datetime": "2023-04-16 7:47:26 +02:00",
-    "name": "16 april 07:47, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/april/16/16-april-0747-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
