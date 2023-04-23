@@ -1,17 +1,5 @@
 [
   {
-    "id": 421031,
-    "datetime": "2023-04-23 13:04:09 +02:00",
-    "name": "23 april 10:44, Fylleri/LOB, Östersund",
-    "summary": "Centrum, man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2023/april/23/23-april-1044-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
     "id": 421029,
     "datetime": "2023-04-23 12:54:03 +02:00",
     "name": "23 april 12:10, Trafikolycka, Malung-Sälen",
@@ -21,6 +9,42 @@
     "location": {
       "name": "Malung-Sälen",
       "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 421033,
+    "datetime": "2023-04-23 13:28:28 +02:00",
+    "name": "23 april 12:12, Skadegörelse, Karlskrona",
+    "summary": "Polis larmas till Trossö med anledning av en skadegörelse.",
+    "url": "/aktuellt/handelser/2023/april/23/23-april-1212-skadegorelse-karlskrona/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 421032,
+    "datetime": "2023-04-23 13:23:09 +02:00",
+    "name": "23 april 13:07, Misshandel, Borlänge",
+    "summary": "Man utsatt för våld i hemmet, anhörig misstänkt för brott.",
+    "url": "/aktuellt/handelser/2023/april/23/23-april-1307-misshandel-borlange/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 421031,
+    "datetime": "2023-04-23 13:04:09 +02:00",
+    "name": "23 april 10:44, Fylleri/LOB, Östersund",
+    "summary": "Centrum, man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2023/april/23/23-april-1044-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 420301,
-    "datetime": "2023-04-17 13:27:44 +02:00",
-    "name": "17 april 11:55, Stöld, Kiruna",
-    "summary": "Kiruna, kvinna stoppad efter misstänkt stöld i butik",
-    "url": "/aktuellt/handelser/2023/april/17/17-april-1155-stold-kiruna/",
-    "type": "Stöld",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 420300,
-    "datetime": "2023-04-17 13:25:07 +02:00",
-    "name": "17 april 11:42, Narkotikabrott, Kalix",
-    "summary": "Kalix, påverkad man kontrollerad av polis",
-    "url": "/aktuellt/handelser/2023/april/17/17-april-1142-narkotikabrott-kalix/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   }
 ]
