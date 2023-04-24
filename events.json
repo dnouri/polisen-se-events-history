@@ -1,5 +1,101 @@
 [
   {
+    "id": 421140,
+    "datetime": "2023-04-24 14:33:12 +02:00",
+    "name": "24 april 11:23, Fylleri/LOB, Sigtuna",
+    "summary": "Berusad man omhändertogs på terminal 5.",
+    "url": "/aktuellt/handelser/2023/april/24/24-april-1123-fyllerilob-sigtuna/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 421138,
+    "datetime": "2023-04-24 14:09:46 +02:00",
+    "name": "23 april 14:24, Trafikbrott, Karlstad",
+    "summary": "Anmälare blir omkörd av A-traktor, hastighet över 70 km/h.",
+    "url": "/aktuellt/handelser/2023/april/2/23-april-1424-trafikbrott-karlstad/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 421118,
+    "datetime": "2023-04-24 11:41:57 +02:00",
+    "name": "24 april 11:20, Motorfordon, stöld, Örebro",
+    "summary": "Två personer gripna för tillgrepp av fortskaffningsmedel under förmiddagen i Örebro.",
+    "url": "/aktuellt/handelser/2023/april/24/24-april-1120-motorfordon-stold-orebro/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 421139,
+    "datetime": "2023-04-24 14:15:06 +02:00",
+    "name": "24 april 12:19, Brand, Järfälla",
+    "summary": "Ingen misstanke om brott angående villabrand i Jakobsberg.",
+    "url": "/aktuellt/handelser/2023/april/24/24-april-1219-brand-jarfalla/",
+    "type": "Brand",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 421123,
+    "datetime": "2023-04-24 12:36:26 +02:00",
+    "name": "24 april 00:00, Trafikolycka, Karlstad",
+    "summary": "Singelolycka på Rv 61, TPL Stenåsenmotet Kil.",
+    "url": "/aktuellt/handelser/2023/april/24/24-april-0000-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 421133,
+    "datetime": "2023-04-24 14:10:29 +02:00",
+    "name": "24 april 14:05, Trafikbrott, Stockholms län",
+    "summary": "Under förmiddagen har polisens trafikarbete fortsatt.",
+    "url": "/aktuellt/handelser/2023/april/24/24-april-1405-trafikbrott-stockholms-lan/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 421121,
+    "datetime": "2023-04-24 12:17:31 +02:00",
+    "name": "24 april 12:17, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/24/24-april-1217-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 421137,
+    "datetime": "2023-04-24 14:04:09 +02:00",
+    "name": "24 april 12:04, Vapenlagen, Västerås",
+    "summary": "Pistolliknande föremål.",
+    "url": "/aktuellt/handelser/2023/april/24/24-april-1204-vapenlagen-vasteras/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 421132,
     "datetime": "2023-04-24 13:31:38 +02:00",
     "name": "24 april 12:40, Fylleri/LOB, Stockholm",
@@ -108,18 +204,6 @@
     }
   },
   {
-    "id": 421123,
-    "datetime": "2023-04-24 12:36:26 +02:00",
-    "name": "24 april 00:00, Trafikolycka, Karlstad",
-    "summary": "Singelolycka på Rv 61, TPL Stenåsenmotet Kil.",
-    "url": "/aktuellt/handelser/2023/april/24/24-april-0000-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
     "id": 421122,
     "datetime": "2023-04-24 12:18:52 +02:00",
     "name": "24 april 12:18, Trafikkontroll, Västernorrlands län",
@@ -129,18 +213,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 421121,
-    "datetime": "2023-04-24 12:17:31 +02:00",
-    "name": "24 april 12:17, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/april/24/24-april-1217-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -189,18 +261,6 @@
     "location": {
       "name": "Mariestad",
       "gps": "58.710112,13.821333"
-    }
-  },
-  {
-    "id": 421118,
-    "datetime": "2023-04-24 11:41:57 +02:00",
-    "name": "24 april 11:20, Motorfordon, stöld, Örebro",
-    "summary": "Två personer gripna för tillgrepp av fortskaffningsmedel under förmiddagen i Örebro.",
-    "url": "/aktuellt/handelser/2023/april/24/24-april-1120-motorfordon-stold-orebro/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 420400,
-    "datetime": "2023-04-18 7:36:28 +02:00",
-    "name": "17 april 22:50, Stöld, Stockholm",
-    "summary": "Två personer grips för bilinbrott.",
-    "url": "/aktuellt/handelser/2023/april/17/17-april-2250-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 420399,
-    "datetime": "2023-04-18 7:29:50 +02:00",
-    "name": "17 april 21:36, Rån, Stockholm",
-    "summary": "Personrån på Östermalm.",
-    "url": "/aktuellt/handelser/2023/april/17/17-april-2136-ran-stockholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 420396,
-    "datetime": "2023-04-18 7:19:09 +02:00",
-    "name": "18 april 07:10, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-0710-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 420395,
-    "datetime": "2023-04-18 7:15:44 +02:00",
-    "name": "18 april 05:34, Brand, Helsingborg",
-    "summary": "Brand i kolonistuga, Råå.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-0534-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 420394,
-    "datetime": "2023-04-18 7:13:53 +02:00",
-    "name": "18 april 02:31, Stöld, försök, Malmö",
-    "summary": "Patrull avbryter katalysatorstöld, Husie.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-0231-stold-forsok-malmo/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
