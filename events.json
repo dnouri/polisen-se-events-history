@@ -1,5 +1,17 @@
 [
   {
+    "id": 421191,
+    "datetime": "2023-04-25 7:19:38 +02:00",
+    "name": "25 april 07:19, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-0719-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 421225,
     "datetime": "2023-04-25 10:58:21 +02:00",
     "name": "25 april 10:20, Trafikolycka, Umeå",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 421236,
+    "datetime": "2023-04-25 12:12:51 +02:00",
+    "name": "25 april 11:37, Trafikolycka, Härjedalen",
+    "summary": "Larm om trafikolycka i centrala Sveg.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1137-trafikolycka-harjedalen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 421235,
+    "datetime": "2023-04-25 12:05:55 +02:00",
+    "name": "25 april 10:28, Stöld, Luleå",
+    "summary": "Misstänkt ringa stöld i butik, Storheden.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1028-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 421229,
+    "datetime": "2023-04-25 10:32:34 +02:00",
+    "name": "25 april 10:30, Trafikolycka, Ludvika",
+    "summary": "En singelolycka har inträffat på riksväg 66 strax norr om Nyhammar.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1030-trafikolycka-ludvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
     }
   },
   {
@@ -33,18 +81,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 421229,
-    "datetime": "2023-04-25 10:32:34 +02:00",
-    "name": "25 april 10:30, Trafikolycka, Ludvika",
-    "summary": "En singelolycka har inträffat på riksväg 66 strax norr om Nyhammar.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-1030-trafikolycka-ludvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
     }
   },
   {
@@ -117,18 +153,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 421191,
-    "datetime": "2023-04-25 7:19:38 +02:00",
-    "name": "25 april 07:19, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-0719-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 420477,
-    "datetime": "2023-04-18 18:25:15 +02:00",
-    "name": "18 april 16:08, Bråk, Ystad",
-    "summary": "Bråk utanför tvättstuga",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1608-brak-ystad/",
-    "type": "Bråk",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 420476,
-    "datetime": "2023-04-18 18:25:01 +02:00",
-    "name": "18 april 17:04, Stöld, Luleå",
-    "summary": "Misstänkt ringa stöld i butik, Innerstaden.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1704-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
