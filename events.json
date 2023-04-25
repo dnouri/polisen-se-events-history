@@ -1,5 +1,41 @@
 [
   {
+    "id": 421223,
+    "datetime": "2023-04-25 10:17:59 +02:00",
+    "name": "25 april 10:13, Trafikolycka, Stockholm",
+    "summary": "Polis och ambulans kallas till Huddingevägen/Rågsvedsvägen med anledning av en trafikolycka. En personbil och ",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1013-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 421209,
+    "datetime": "2023-04-25 8:45:15 +02:00",
+    "name": "25 april 08:30, Trafikolycka, singel, Haninge",
+    "summary": "Polis ocvh ambulans kallas till länsväg 257/Vedanvägen i höjd med Ektorp med anledning av en trafikolycka.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-0830-trafikolycka-singel-haninge/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 421217,
+    "datetime": "2023-04-25 9:50:41 +02:00",
+    "name": "25 april 09:30, Arbetsplatsolycka, Helsingborg",
+    "summary": "Larm om arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-0930-arbetsplatsolycka-helsingborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 421215,
     "datetime": "2023-04-25 9:36:58 +02:00",
     "name": "25 april 07:29, Försvunnen person, Uppsala län",
@@ -57,18 +93,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 421209,
-    "datetime": "2023-04-25 8:45:15 +02:00",
-    "name": "25 april 08:30, Trafikolycka, singel, Haninge",
-    "summary": "Polis ocvh ambulans kallas till länsväg 257/Vedanvägen i höjd med Ektorp med anledning av en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-0830-trafikolycka-singel-haninge/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrtälje",
       "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 420473,
-    "datetime": "2023-04-18 18:11:20 +02:00",
-    "name": "18 april 15:38, Anträffat gods, Nacka",
-    "summary": "I Nyckelviken har sjöpolisen kontrollerat två båtar.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1538-antraffat-gods-nacka/",
-    "type": "Anträffat gods",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 420469,
-    "datetime": "2023-04-18 17:05:49 +02:00",
-    "name": "18 april 16:40, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka, Ålidbacken.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1640-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
