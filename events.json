@@ -1,5 +1,65 @@
 [
   {
+    "id": 421299,
+    "datetime": "2023-04-25 18:19:56 +02:00",
+    "name": "25 april 16:08, Stöld, Umeå",
+    "summary": "Kvinna misstänks för ringa stöld i matbutik.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1608-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 421298,
+    "datetime": "2023-04-25 18:17:18 +02:00",
+    "name": "25 april 17:16, Brand, Hudiksvall",
+    "summary": "Man skadad vid bostadsbrand.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1716-brand-hudiksvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 421290,
+    "datetime": "2023-04-25 16:56:21 +02:00",
+    "name": "25 april 16:30, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på E4 norr om Sörmjöle, Umeå.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1630-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 421297,
+    "datetime": "2023-04-25 18:04:17 +02:00",
+    "name": "25 april 18:04, Övrigt, Jönköping",
+    "summary": "Mycket allvarlig händelse i Skärstad - person fick släpvagn över sig.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1804-ovrigt-jonkoping/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 421296,
+    "datetime": "2023-04-25 17:52:56 +02:00",
+    "name": "25 april 15:41, Arbetsplatsolycka, Hudiksvall",
+    "summary": "Chaufför skadad vid avlastning.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1541-arbetsplatsolycka-hudiksvall/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
     "id": 421295,
     "datetime": "2023-04-25 17:37:02 +02:00",
     "name": "25 april 17:36, Rån övrigt, Linköping",
@@ -81,18 +141,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 421290,
-    "datetime": "2023-04-25 16:56:21 +02:00",
-    "name": "25 april 16:30, Trafikolycka, Umeå",
-    "summary": "Trafikolycka på E4 norr om Sörmjöle, Umeå.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-1630-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 420508,
-    "datetime": "2023-04-18 21:16:09 +02:00",
-    "name": "18 april 19:37, Brand, Tingsryd",
-    "summary": "Brand, Rydsbrunn",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1937-brand-tingsryd/",
-    "type": "Brand",
-    "location": {
-      "name": "Tingsryd",
-      "gps": "56.524745,14.978534"
-    }
-  },
-  {
-    "id": 420504,
-    "datetime": "2023-04-18 21:13:03 +02:00",
-    "name": "18 april 20:46, Fylleri/LOB, Stockholm",
-    "summary": "Polisen har under kvällen varit i Tantolunden vid flera tillfällen, vid några av dem omhändertogs fyra persone",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-2046-fyllerilob-stockholm/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 420507,
-    "datetime": "2023-04-18 21:04:08 +02:00",
-    "name": "18 april 20:21, Brand, Alvesta",
-    "summary": "Brand i garage, Moheda",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-2021-brand-alvesta/",
-    "type": "Brand",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
-    }
-  },
-  {
-    "id": 420506,
-    "datetime": "2023-04-18 20:55:57 +02:00",
-    "name": "18 april 18:41, Häleri, Östersund",
-    "summary": "Polispatrull i Odenslund påträffar en man med en moped som misstänks vara stulen.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1841-haleri-ostersund/",
-    "type": "Häleri",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
