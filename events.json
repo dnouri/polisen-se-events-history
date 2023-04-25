@@ -1,29 +1,5 @@
 [
   {
-    "id": 421208,
-    "datetime": "2023-04-25 8:42:25 +02:00",
-    "name": "25 april 08:42, Trafikolycka, Vetlanda",
-    "summary": "SOS-larm om trafikolycka i korsningen Missionsgatan/Odengatan.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-0842-trafikolycka-vetlanda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
-    }
-  },
-  {
-    "id": 421206,
-    "datetime": "2023-04-25 8:16:37 +02:00",
-    "name": "25 april 08:16, Trafikolycka, Gnesta",
-    "summary": "SOS-larm om olycka vid centralstationen i Gnesta.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-0816-trafikolycka-gnesta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gnesta",
-      "gps": "59.048348,17.307228"
-    }
-  },
-  {
     "id": 421207,
     "datetime": "2023-04-25 8:27:29 +02:00",
     "name": "25 april 08:10, Trafikolycka, Mora",
@@ -45,6 +21,66 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 421210,
+    "datetime": "2023-04-25 8:55:08 +02:00",
+    "name": "25 april 08:08, Trafikolycka, vilt, Umeå",
+    "summary": "Polisen får in en anmälan om en viltolycka på Strombergs Väg.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-0808-trafikolycka-vilt-umea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 421191,
+    "datetime": "2023-04-25 7:19:38 +02:00",
+    "name": "25 april 07:19, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-0719-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 421209,
+    "datetime": "2023-04-25 8:45:15 +02:00",
+    "name": "25 april 08:30, Trafikolycka, singel, Haninge",
+    "summary": "Polis ocvh ambulans kallas till länsväg 257/Vedanvägen i höjd med Ektorp med anledning av en trafikolycka.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-0830-trafikolycka-singel-haninge/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 421208,
+    "datetime": "2023-04-25 8:42:25 +02:00",
+    "name": "25 april 08:42, Trafikolycka, Vetlanda",
+    "summary": "SOS-larm om trafikolycka i korsningen Missionsgatan/Odengatan.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-0842-trafikolycka-vetlanda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
+    "id": 421206,
+    "datetime": "2023-04-25 8:16:37 +02:00",
+    "name": "25 april 08:16, Trafikolycka, Gnesta",
+    "summary": "SOS-larm om olycka vid centralstationen i Gnesta.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-0816-trafikolycka-gnesta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gnesta",
+      "gps": "59.048348,17.307228"
     }
   },
   {
@@ -153,18 +189,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 421191,
-    "datetime": "2023-04-25 7:19:38 +02:00",
-    "name": "25 april 07:19, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-0719-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 420466,
-    "datetime": "2023-04-18 16:54:44 +02:00",
-    "name": "18 april 16:46, Brand, Örebro",
-    "summary": "Polis är på väg till en fullt utvecklad brand i Axbergshammar",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1646-brand-orebro/",
-    "type": "Brand",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 420461,
-    "datetime": "2023-04-18 15:26:42 +02:00",
-    "name": "18 april 15:15, Brand, Torsby",
-    "summary": "Flera uthus brinner på en adress i Fryksände",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1515-brand-torsby/",
-    "type": "Brand",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   }
 ]
