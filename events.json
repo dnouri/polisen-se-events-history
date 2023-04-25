@@ -1,5 +1,65 @@
 [
   {
+    "id": 421251,
+    "datetime": "2023-04-25 14:28:39 +02:00",
+    "name": "25 april 13:24, Stöld, Örebro",
+    "summary": "Tre personer är misstänkta för ringa stöld från en butik på Aspholmen.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1324-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 421224,
+    "datetime": "2023-04-25 10:30:02 +02:00",
+    "name": "25 april 10:13, Trafikolycka, Sunne",
+    "summary": "En trafikolycka har inträffat på E45 i Sunne.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1013-trafikolycka-sunne/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 421250,
+    "datetime": "2023-04-25 13:59:51 +02:00",
+    "name": "25 april 12:59, Brand, Eslöv",
+    "summary": "Brand i villa, Ekenäsvägen.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1259-brand-eslov/",
+    "type": "Brand",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 421245,
+    "datetime": "2023-04-25 13:59:33 +02:00",
+    "name": "25 april 10:05, Inbrott, försök, Skellefteå",
+    "summary": "Misstänkt inbrottförsök i villa väster om Skellefteå tätort.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1005-inbrott-forsok-skelleftea/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 421249,
+    "datetime": "2023-04-25 13:46:14 +02:00",
+    "name": "25 april 12:21, Vållande till kroppsskada, Falköping",
+    "summary": "Två personer har förts till sjukhus efter att en balkong har rasat på en byggnad vid en gård i Broddetorp.",
+    "url": "/aktuellt/handelser/2023/april/25/25-april-1221-vallande-till-kroppsskada-falkoping/",
+    "type": "Vållande till kroppsskada",
+    "location": {
+      "name": "Falköping",
+      "gps": "58.175029,13.553217"
+    }
+  },
+  {
     "id": 421248,
     "datetime": "2023-04-25 13:41:01 +02:00",
     "name": "25 april 12:09, Stöld, Kramfors",
@@ -153,18 +213,6 @@
     "location": {
       "name": "Ludvika",
       "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 421224,
-    "datetime": "2023-04-25 10:30:02 +02:00",
-    "name": "25 april 10:13, Trafikolycka, Sunne",
-    "summary": "En trafikolycka har inträffat på E45 i Sunne.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-1013-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Simrishamn",
       "gps": "55.557396,14.348965"
-    }
-  },
-  {
-    "id": 420493,
-    "datetime": "2023-04-18 20:07:56 +02:00",
-    "name": "18 april 20:07, Trafikkontroll, Jämtlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-2007-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 420492,
-    "datetime": "2023-04-18 20:02:30 +02:00",
-    "name": "18 april 20:02, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-2002-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 420491,
-    "datetime": "2023-04-18 19:58:39 +02:00",
-    "name": "18 april 19:58, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1958-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 420489,
-    "datetime": "2023-04-18 19:56:04 +02:00",
-    "name": "18 april 19:47, Brand, Hedemora",
-    "summary": "En gräsbrand har spridit sig till en mindre byggnad",
-    "url": "/aktuellt/handelser/2023/april/18/18-april-1947-brand-hedemora/",
-    "type": "Brand",
-    "location": {
-      "name": "Hedemora",
-      "gps": "60.277545,15.985892"
     }
   }
 ]
