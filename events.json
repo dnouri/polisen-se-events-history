@@ -1,5 +1,29 @@
 [
   {
+    "id": 421508,
+    "datetime": "2023-04-27 19:11:34 +02:00",
+    "name": "27 april 17:23, Trafikolycka, Göteborg",
+    "summary": "Två personbilar har kolliderat i Säve.",
+    "url": "/aktuellt/handelser/2023/april/27/27-april-1723-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 421507,
+    "datetime": "2023-04-27 19:07:43 +02:00",
+    "name": "27 april 17:19, Fylleri/LOB, Umeå",
+    "summary": "Centrala stan, polis kontaktas gällande berusad kvinna utomhus",
+    "url": "/aktuellt/handelser/2023/april/27/27-april-1719-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 421504,
     "datetime": "2023-04-27 18:40:40 +02:00",
     "name": "27 april 18:40, Mord/dråp, försök, Göteborg",
@@ -9,6 +33,30 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 421506,
+    "datetime": "2023-04-27 18:54:51 +02:00",
+    "name": "27 april 17:36, Försvunnen person, Västervik",
+    "summary": "Polisen söker efter en kvinna som anmälts försvunnen i Västerviks kommun.",
+    "url": "/aktuellt/handelser/2023/april/27/27-april-1736-forsvunnen-person-vastervik/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 421505,
+    "datetime": "2023-04-27 18:52:54 +02:00",
+    "name": "27 april 15:18, Misshandel, Kil",
+    "summary": "Polisen har gripit en kvinna som misstänks ha misshandlat en närstående man i deras gemensamma bostad.",
+    "url": "/aktuellt/handelser/2023/april/27/27-april-1518-misshandel-kil/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Motala",
       "gps": "58.538034,15.047094"
-    }
-  },
-  {
-    "id": 420737,
-    "datetime": "2023-04-20 17:57:55 +02:00",
-    "name": "20 april 17:35, Skottlossning, Växjö",
-    "summary": "Araby. Skjutvapen har avlossats.",
-    "url": "/aktuellt/handelser/2023/april/20/20-april-1735-skottlossning-vaxjo/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 420752,
-    "datetime": "2023-04-20 20:12:48 +02:00",
-    "name": "20 april 17:23, Brand, Östersund",
-    "summary": "Anmälan upprättas efter brand utomhus.",
-    "url": "/aktuellt/handelser/2023/april/20/20-april-1723-brand-ostersund/",
-    "type": "Brand",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 420751,
-    "datetime": "2023-04-20 20:09:11 +02:00",
-    "name": "20 april 18:15, Stöld, Luleå",
-    "summary": "Kvinna misstänks för ringa stöld i matbutik i Luleå.",
-    "url": "/aktuellt/handelser/2023/april/20/20-april-1815-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 420750,
-    "datetime": "2023-04-20 20:04:54 +02:00",
-    "name": "20 april 20:04, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/april/20/20-april-2004-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
