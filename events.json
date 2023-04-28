@@ -1,14 +1,38 @@
 [
   {
-    "id": 421656,
-    "datetime": "2023-04-28 15:42:26 +02:00",
-    "name": "28 april 15:35, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat på Rud",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-1535-trafikolycka-karlstad/",
+    "id": 421666,
+    "datetime": "2023-04-28 16:20:31 +02:00",
+    "name": "28 april 14:59, Trafikkontroll, Skellefteå",
+    "summary": "Lund, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1459-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 421665,
+    "datetime": "2023-04-28 16:19:23 +02:00",
+    "name": "28 april 14:34, Trafikolycka, Umeå",
+    "summary": "Stöcksjö, larm inkommer om att två bilister kolliderat",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1434-trafikolycka-umea/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 421664,
+    "datetime": "2023-04-28 16:19:17 +02:00",
+    "name": "28 april 15:39, Brand, Tierp",
+    "summary": "Misstänkt brand i företagslokal i Söderfors.",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1539-brand-tierp/",
+    "type": "Brand",
+    "location": {
+      "name": "Tierp",
+      "gps": "60.347587,17.520509"
     }
   },
   {
@@ -24,6 +48,18 @@
     }
   },
   {
+    "id": 421662,
+    "datetime": "2023-04-28 16:07:57 +02:00",
+    "name": "28 april 10:43, Rattfylleri, Skellefteå",
+    "summary": "Skellefteå, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1043-rattfylleri-skelleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 421652,
     "datetime": "2023-04-28 15:16:50 +02:00",
     "name": "28 april 13:57, Bombhot, Göteborg",
@@ -33,6 +69,54 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 421659,
+    "datetime": "2023-04-28 15:49:03 +02:00",
+    "name": "28 april 14:05, Fylleri/LOB, Gällivare",
+    "summary": "Gällivare, polis kontaktas gällande berusad man",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1405-fyllerilob-gallivare/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 421657,
+    "datetime": "2023-04-28 15:47:59 +02:00",
+    "name": "28 april 15:18, Rattfylleri, Mora",
+    "summary": "En bilist är misstänkt för brott i Täppan",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1518-rattfylleri-mora/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 421658,
+    "datetime": "2023-04-28 15:47:49 +02:00",
+    "name": "28 april 14:14, Stöld, Haparanda",
+    "summary": "Centrum, man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1414-stold-haparanda/",
+    "type": "Stöld",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 421656,
+    "datetime": "2023-04-28 15:42:26 +02:00",
+    "name": "28 april 15:35, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat på Rud",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1535-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 420884,
-    "datetime": "2023-04-21 16:47:09 +02:00",
-    "name": "21 april 14:14, Stöld, Umeå",
-    "summary": "Umeå, stulen cykel återlämnas till sin ägare.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1414-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 420876,
-    "datetime": "2023-04-21 15:40:40 +02:00",
-    "name": "21 april 15:21, Brand, Storfors",
-    "summary": "En gräsbrand har blossat upp i Forsbron",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1521-brand-storfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Storfors",
-      "gps": "59.533208,14.272209"
-    }
-  },
-  {
-    "id": 420874,
-    "datetime": "2023-04-21 15:39:00 +02:00",
-    "name": "21 april 14:20, Stöld, Sundsvall",
-    "summary": "Birsta, ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1420-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 420840,
-    "datetime": "2023-04-21 14:03:56 +02:00",
-    "name": "21 april 14:03, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1403-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 420822,
-    "datetime": "2023-04-21 12:01:36 +02:00",
-    "name": "21 april 11:27, Trafikolycka, Karlstad",
-    "summary": "Bilist och motorcyklist har kolliderat i Karlstad.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1127-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 420848,
-    "datetime": "2023-04-21 13:56:18 +02:00",
-    "name": "21 april 12:43, Arbetsplatsolycka, Hedemora",
-    "summary": "Polispatrull är kallade till Garpenberg med anledning av en misstänkt arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1243-arbetsplatsolycka-hedemora/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Hedemora",
-      "gps": "60.277545,15.985892"
-    }
-  },
-  {
-    "id": 420842,
-    "datetime": "2023-04-21 14:03:37 +02:00",
-    "name": "21 april 14:03, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1403-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
