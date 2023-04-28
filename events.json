@@ -1,5 +1,53 @@
 [
   {
+    "id": 421633,
+    "datetime": "2023-04-28 12:33:12 +02:00",
+    "name": "28 april 12:14, Trafikolycka, Markaryd",
+    "summary": "Larm om trafikolycka, LV117.",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1214-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 421632,
+    "datetime": "2023-04-28 12:30:53 +02:00",
+    "name": "28 april 12:18, Trafikolycka, Tingsryd",
+    "summary": "Trafikolycka på Lokgatan.",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1218-trafikolycka-tingsryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tingsryd",
+      "gps": "56.524745,14.978534"
+    }
+  },
+  {
+    "id": 421506,
+    "datetime": "2023-04-27 18:54:51 +02:00",
+    "name": "27 april 17:36, Försvunnen person, Västervik",
+    "summary": "Polisen söker efter en kvinna som anmälts försvunnen i Västerviks kommun.",
+    "url": "/aktuellt/handelser/2023/april/27/27-april-1736-forsvunnen-person-vastervik/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 421631,
+    "datetime": "2023-04-28 12:25:08 +02:00",
+    "name": "28 april 12:23, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/april/28/28-april-1223-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 421625,
     "datetime": "2023-04-28 11:03:52 +02:00",
     "name": "28 april 10:14, Fjällräddning, Åre",
@@ -345,18 +393,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 421506,
-    "datetime": "2023-04-27 18:54:51 +02:00",
-    "name": "27 april 17:36, Försvunnen person, Västervik",
-    "summary": "Polisen söker efter en kvinna som anmälts försvunnen i Västerviks kommun.",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1736-forsvunnen-person-vastervik/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Orsa",
       "gps": "61.116937,14.628071"
-    }
-  },
-  {
-    "id": 420833,
-    "datetime": "2023-04-21 12:55:29 +02:00",
-    "name": "21 april 12:45, Trafikkontroll, Falun",
-    "summary": "Polispatrull har övervakat hastighetsbegränsning på Lv 270 Svinöhed under förmiddagen.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1245-trafikkontroll-falun/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 420831,
-    "datetime": "2023-04-21 12:51:50 +02:00",
-    "name": "21 april 12:47, Misshandel, Vadstena",
-    "summary": "Misshandel av två personer.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1247-misshandel-vadstena/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Vadstena",
-      "gps": "58.447602,14.890234"
-    }
-  },
-  {
-    "id": 420829,
-    "datetime": "2023-04-21 12:45:20 +02:00",
-    "name": "21 april 12:35, Trafikkontroll, Örebro",
-    "summary": "Polispatrull har genomfört trafikövervakning på E20 under morgonen.",
-    "url": "/aktuellt/handelser/2023/april/21/21-april-1235-trafikkontroll-orebro/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
