@@ -1,14 +1,62 @@
 [
   {
+    "id": 421752,
+    "datetime": "2023-04-29 9:40:07 +02:00",
+    "name": "29 april 09:35, Trafikolycka, Simrishamn",
+    "summary": "Två personbilar i olycka, Sant Olof.",
+    "url": "/aktuellt/handelser/2023/april/29/29-april-0935-trafikolycka-simrishamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Simrishamn",
+      "gps": "55.557396,14.348965"
+    }
+  },
+  {
+    "id": 421751,
+    "datetime": "2023-04-29 9:34:01 +02:00",
+    "name": "29 april 08:25, Trafikkontroll, Gotland",
+    "summary": "15-talet fordonsförare kontrollerades vid trafikkontrollen i Furulund.",
+    "url": "/aktuellt/handelser/2023/april/29/29-april-0825-trafikkontroll-gotland/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Gotland",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 421750,
+    "datetime": "2023-04-29 9:32:00 +02:00",
+    "name": "29 april 08:04, Rattfylleri, Hylte",
+    "summary": "På riksväg 26 i Västra Hylte stoppas en bilist för kontroll.",
+    "url": "/aktuellt/handelser/2023/april/29/29-april-0804-rattfylleri-hylte/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Hylte",
+      "gps": "56.977313,13.338766"
+    }
+  },
+  {
+    "id": 421749,
+    "datetime": "2023-04-29 9:21:14 +02:00",
+    "name": "29 april 07:54, Brand, Skellefteå",
+    "summary": "Larm om rökutveckling i en lägenhet, Sjungande dalen.",
+    "url": "/aktuellt/handelser/2023/april/29/29-april-0754-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 421748,
     "datetime": "2023-04-29 9:04:15 +02:00",
-    "name": "29 april 06:55, Stöld/inbrott, Västerås",
+    "name": "29 april 06:55, Stöld/inbrott, Västervik",
     "summary": "Boende vaknar av inbrott i villan, Gamleby.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0655-stoldinbrott-vasteras/",
+    "url": "/aktuellt/handelser/2023/april/29/29-april-0655-stoldinbrott-vastervik/",
     "type": "Stöld/inbrott",
     "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 420980,
-    "datetime": "2023-04-22 15:55:16 +02:00",
-    "name": "22 april 15:55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 16:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2023/april/22/22-april-1555-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 420979,
-    "datetime": "2023-04-22 14:57:38 +02:00",
-    "name": "22 april 14:57, Övrigt, Jönköpings län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/april/22/22-april-1457-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 420978,
-    "datetime": "2023-04-22 14:57:23 +02:00",
-    "name": "22 april 14:57, Övrigt, Östergötlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/april/22/22-april-1457-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 420977,
-    "datetime": "2023-04-22 14:57:02 +02:00",
-    "name": "22 april 14:56, Övrigt, Södermanlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/april/22/22-april-1456-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
