@@ -1,5 +1,65 @@
 [
   {
+    "id": 421981,
+    "datetime": "2023-05-01 15:57:50 +02:00",
+    "name": "01 maj 15:33, Trafikolycka, Sundsvall",
+    "summary": "Sundsvall, singelolycka i trakten av Gudmundsbyn.",
+    "url": "/aktuellt/handelser/2023/maj/1/01-maj-1533-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 421984,
+    "datetime": "2023-05-01 16:11:01 +02:00",
+    "name": "01 maj 16:00, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/maj/1/01-maj-1600-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 421983,
+    "datetime": "2023-05-01 16:10:43 +02:00",
+    "name": "01 maj 16:00, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/maj/1/01-maj-1600-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 421982,
+    "datetime": "2023-05-01 16:05:03 +02:00",
+    "name": "01 maj 14:33, Misshandel, grov, Tibro",
+    "summary": "En man i 40-årsåldern har gripits för grov misshandel av en jämnårig kvinna.",
+    "url": "/aktuellt/handelser/2023/maj/1/01-maj-1433-misshandel-grov-tibro/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Tibro",
+      "gps": "58.424323,14.161642"
+    }
+  },
+  {
+    "id": 421980,
+    "datetime": "2023-05-01 15:47:55 +02:00",
+    "name": "01 maj 12:50, Stöld/inbrott, Umeå",
+    "summary": "Umeå, inbrott och skadegörelse i stuga.",
+    "url": "/aktuellt/handelser/2023/maj/1/01-maj-1250-stoldinbrott-umea/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 421979,
     "datetime": "2023-05-01 15:31:06 +02:00",
     "name": "01 maj 15:26, Brand, Tomelilla",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 421225,
-    "datetime": "2023-04-25 10:58:21 +02:00",
-    "name": "25 april 10:20, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka på E4, Stöcksjö.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-1020-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 421235,
-    "datetime": "2023-04-25 12:05:55 +02:00",
-    "name": "25 april 10:28, Stöld, Luleå",
-    "summary": "Misstänkt ringa stöld i butik, Storheden.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-1028-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 421229,
-    "datetime": "2023-04-25 10:32:34 +02:00",
-    "name": "25 april 10:30, Trafikolycka, Ludvika",
-    "summary": "En singelolycka har inträffat på riksväg 66 strax norr om Nyhammar.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-1030-trafikolycka-ludvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 421217,
-    "datetime": "2023-04-25 9:50:41 +02:00",
-    "name": "25 april 09:30, Arbetsplatsolycka, Helsingborg",
-    "summary": "Larm om arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-0930-arbetsplatsolycka-helsingborg/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 421215,
-    "datetime": "2023-04-25 9:36:58 +02:00",
-    "name": "25 april 07:29, Försvunnen person, Uppsala län",
-    "summary": "Polis söker med stor resurs efter en försvunnen man.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-0729-forsvunnen-person-uppsala-lan/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
     }
   }
 ]
