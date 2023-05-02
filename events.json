@@ -1,5 +1,41 @@
 [
   {
+    "id": 423107,
+    "datetime": "2023-05-02 12:58:55 +02:00",
+    "name": "02 maj 12:38, Trafikolycka, Hörby",
+    "summary": "En personbil och en A-traktor kolliderar i Hörby.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1238-trafikolycka-horby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hörby",
+      "gps": "55.851716,13.661926"
+    }
+  },
+  {
+    "id": 423103,
+    "datetime": "2023-05-02 12:53:10 +02:00",
+    "name": "02 maj 11:13, Mord/dråp, Sandviken",
+    "summary": "Polisen inleder förundersökning om mord.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1113-morddrap-sandviken/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 423101,
+    "datetime": "2023-05-02 12:50:02 +02:00",
+    "name": "02 maj 09:16, Narkotikabrott, Boden",
+    "summary": "Två män misstänks för narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-0916-narkotikabrott-boden/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 423048,
     "datetime": "2023-05-02 1:53:04 +02:00",
     "name": "02 maj 01:40, Farligt föremål, misstänkt, Stenungsund",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Stenungsund",
       "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 423100,
+    "datetime": "2023-05-02 12:43:46 +02:00",
+    "name": "02 maj 10:15, Olovlig körning, Sollefteå",
+    "summary": "Bilförare misstänks för grov olovlig körning mm.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1015-olovlig-korning-solleftea/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 421279,
-    "datetime": "2023-04-25 21:41:19 +02:00",
-    "name": "25 april 21:40, Övrigt, Östergötlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-2140-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 421278,
-    "datetime": "2023-04-25 21:41:14 +02:00",
-    "name": "25 april 21:40, Övrigt, Södermanlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-2140-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 421319,
-    "datetime": "2023-04-25 21:40:55 +02:00",
-    "name": "25 april 16:46, Rattfylleri, Härjedalen",
-    "summary": "Man misstänks för drograttfylleri och grov olovlig körning.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-1646-rattfylleri-harjedalen/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 421318,
-    "datetime": "2023-04-25 21:24:47 +02:00",
-    "name": "25 april 19:31, Fylleri/LOB, Sundsvall",
-    "summary": "Omhändertagen man misstänks för brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-1931-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
