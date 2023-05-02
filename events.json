@@ -1,5 +1,101 @@
 [
   {
+    "id": 423183,
+    "datetime": "2023-05-02 17:33:19 +02:00",
+    "name": "02 maj 16:41, Trafikolycka, singel, Kungsbacka",
+    "summary": "Singelolycka med mc i Kungsbacka.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1641-trafikolycka-singel-kungsbacka/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 423182,
+    "datetime": "2023-05-02 17:27:27 +02:00",
+    "name": "02 maj 17:04, Försvunnen person, Borlänge",
+    "summary": "Polisen eftersökte en man under tisdagseftermiddagen som senare kunde anträffas.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1704-forsvunnen-person-borlange/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 423181,
+    "datetime": "2023-05-02 17:26:44 +02:00",
+    "name": "02 maj 17:09, Polisinsats/kommendering, Helsingborg",
+    "summary": "Fotbollsmatch mellan HIF och GAIS",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1709-polisinsatskommendering-helsingborg/",
+    "type": "Polisinsats/kommendering",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 423180,
+    "datetime": "2023-05-02 17:18:25 +02:00",
+    "name": "02 maj 17:01, Trafikolycka, Luleå",
+    "summary": "Singelolycka på E4 söder om Råneå.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1701-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 423179,
+    "datetime": "2023-05-02 17:09:25 +02:00",
+    "name": "02 maj 16:45, Trafikolycka, Alvesta",
+    "summary": "Lastbil i olycka, Alvesta.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1645-trafikolycka-alvesta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Alvesta",
+      "gps": "56.89921,14.556001"
+    }
+  },
+  {
+    "id": 423178,
+    "datetime": "2023-05-02 17:05:16 +02:00",
+    "name": "02 maj 15:33, Trafikolycka, Oskarshamn",
+    "summary": "Pojke till sjukhus efter olycka, Döderhult.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1533-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 423176,
+    "datetime": "2023-05-02 17:00:17 +02:00",
+    "name": "02 maj 16:36, Rån, Kalmar",
+    "summary": "Barn rånade, Kalmar.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1636-ran-kalmar/",
+    "type": "Rån",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 423175,
+    "datetime": "2023-05-02 16:54:02 +02:00",
+    "name": "02 maj 16:03, Rattfylleri, Västmanlands län",
+    "summary": "Misstänkt drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1603-rattfylleri-vastmanlands-lan/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
     "id": 423165,
     "datetime": "2023-05-02 16:18:38 +02:00",
     "name": "02 maj 15:58, Trafikolycka, Kristianstad",
@@ -9,6 +105,30 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 423173,
+    "datetime": "2023-05-02 16:39:58 +02:00",
+    "name": "02 maj 14:39, Stöld, Umeå",
+    "summary": "Umeå, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1439-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 423171,
+    "datetime": "2023-05-02 16:23:10 +02:00",
+    "name": "02 maj 13:48, Stöld, Östersund",
+    "summary": "Östersund, ringa stölder i matbutik.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1348-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 421339,
-    "datetime": "2023-04-26 7:50:21 +02:00",
-    "name": "26 april 07:46, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0746-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 421341,
-    "datetime": "2023-04-26 7:49:47 +02:00",
-    "name": "26 april 07:49, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0749-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 421337,
-    "datetime": "2023-04-26 7:41:07 +02:00",
-    "name": "26 april 07:40, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammafattning av natten.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0740-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 421336,
-    "datetime": "2023-04-26 7:40:39 +02:00",
-    "name": "26 april 07:40, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0740-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 421335,
-    "datetime": "2023-04-26 7:40:24 +02:00",
-    "name": "26 april 07:39, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0739-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 421333,
-    "datetime": "2023-04-26 7:38:08 +02:00",
-    "name": "26 april 07:30, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0730-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 421334,
-    "datetime": "2023-04-26 7:35:43 +02:00",
-    "name": "26 april 07:32, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0732-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 421332,
-    "datetime": "2023-04-26 7:28:55 +02:00",
-    "name": "26 april 01:48, Rattfylleri, Norrtälje",
-    "summary": "I samband med att en polispatrull stoppade en bil för kontroll av föraren i Hallstavik fattade patrullen misst",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0148-rattfylleri-norrtalje/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 421331,
-    "datetime": "2023-04-26 7:18:53 +02:00",
-    "name": "26 april 02:11, Stöld/inbrott, Gävle",
-    "summary": "Inbrott i företagslokaler.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0211-stoldinbrott-gavle/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 421330,
-    "datetime": "2023-04-26 7:17:49 +02:00",
-    "name": "26 april 07:12, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0712-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
