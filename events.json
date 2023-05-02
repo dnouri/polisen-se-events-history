@@ -1,5 +1,89 @@
 [
   {
+    "id": 423196,
+    "datetime": "2023-05-02 19:20:16 +02:00",
+    "name": "02 maj 19:20, Trafikolycka, Eskilstuna",
+    "summary": "Trafikolycka på E20, Svista.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1920-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 423195,
+    "datetime": "2023-05-02 19:09:05 +02:00",
+    "name": "02 maj 18:03, Fylleri/LOB, Östersund",
+    "summary": "Östersund, person omhändertagen.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1803-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 423194,
+    "datetime": "2023-05-02 19:04:55 +02:00",
+    "name": "02 maj 17:48, Övrigt, Sundsvall",
+    "summary": "Sundsvall, skrikande person avvisas.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1748-ovrigt-sundsvall/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 423193,
+    "datetime": "2023-05-02 18:59:55 +02:00",
+    "name": "02 maj 18:47, Brand, Burlöv",
+    "summary": "Brand i lägenhet, Burlöv.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1847-brand-burlov/",
+    "type": "Brand",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 423192,
+    "datetime": "2023-05-02 18:58:40 +02:00",
+    "name": "02 maj 17:08, Fylleri/LOB, Luleå",
+    "summary": "Luleå, person omhändertagen.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1708-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 423180,
+    "datetime": "2023-05-02 17:18:25 +02:00",
+    "name": "02 maj 17:01, Trafikolycka, Luleå",
+    "summary": "Singelolycka på E4 söder om Råneå.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1701-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 423160,
+    "datetime": "2023-05-02 15:53:37 +02:00",
+    "name": "02 maj 15:48, Brand, Ljungby",
+    "summary": "Brand i ladugård, Annerstad.",
+    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1548-brand-ljungby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
     "id": 423179,
     "datetime": "2023-05-02 17:09:25 +02:00",
     "name": "02 maj 16:45, Trafikolycka, Alvesta",
@@ -69,18 +153,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 423180,
-    "datetime": "2023-05-02 17:18:25 +02:00",
-    "name": "02 maj 17:01, Trafikolycka, Luleå",
-    "summary": "Singelolycka på E4 söder om Råneå.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1701-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -165,18 +237,6 @@
     "location": {
       "name": "Nybro",
       "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 423160,
-    "datetime": "2023-05-02 15:53:37 +02:00",
-    "name": "02 maj 15:48, Brand, Ljungby",
-    "summary": "Brand i ladugård, Annerstad.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1548-brand-ljungby/",
-    "type": "Brand",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 421310,
-    "datetime": "2023-04-25 20:27:03 +02:00",
-    "name": "25 april 20:25, Polisinsats/kommendering, Jönköping",
-    "summary": "Flera polispatruller arbetar i ett ärende i Jönköping.",
-    "url": "/aktuellt/handelser/2023/april/25/25-april-2025-polisinsatskommendering-jonkoping/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 421338,
-    "datetime": "2023-04-26 7:46:33 +02:00",
-    "name": "26 april 07:22, Trafikolycka, Göteborg",
-    "summary": "Två cyklister är involverade i en olycka på Skälltorpsvägen.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0722-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 421323,
-    "datetime": "2023-04-26 4:30:54 +02:00",
-    "name": "26 april 03:10, Skottlossning, Stockholm",
-    "summary": "Gärningsmän har avlossat flera skott in i en lägenhet i Sätra. Ingen person har skadats. En insats och en utre",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0310-skottlossning-stockholm/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 421347,
-    "datetime": "2023-04-26 8:35:26 +02:00",
-    "name": "26 april 08:02, Trafikkontroll, Skellefteå",
-    "summary": "Morön, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0802-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 421343,
-    "datetime": "2023-04-26 8:05:23 +02:00",
-    "name": "26 april 07:11, Trafikolycka, Laxå",
-    "summary": "Patrull är på plats vid en trafikolycka på länsväg 205 strax norr om Laxå.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-0711-trafikolycka-laxa/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Laxå",
-      "gps": "58.98269,14.62289"
     }
   }
 ]
