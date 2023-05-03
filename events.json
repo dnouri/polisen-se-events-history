@@ -1,5 +1,65 @@
 [
   {
+    "id": 423258,
+    "datetime": "2023-05-03 10:22:25 +02:00",
+    "name": "03 maj 09:57, Trafikbrott, Karlstad",
+    "summary": "En bilist är misstänkt för brott i Välsviken",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0957-trafikbrott-karlstad/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 423254,
+    "datetime": "2023-05-03 10:11:09 +02:00",
+    "name": "03 maj 09:59, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat i Tormestad",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0959-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 423255,
+    "datetime": "2023-05-03 10:15:50 +02:00",
+    "name": "03 maj 09:50, Rattfylleri, Hedemora",
+    "summary": "En bilist är misstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0950-rattfylleri-hedemora/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Hedemora",
+      "gps": "60.277545,15.985892"
+    }
+  },
+  {
+    "id": 423249,
+    "datetime": "2023-05-03 10:01:06 +02:00",
+    "name": "03 maj 09:46, Trafikolycka, personskada, Västerås",
+    "summary": "Person påbackad av fordon.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0946-trafikolycka-personskada-vasteras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 423250,
+    "datetime": "2023-05-03 9:56:28 +02:00",
+    "name": "03 maj 09:45, Brand, Ronneby",
+    "summary": "Larm om brand i villa, Eringsboda",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0945-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
     "id": 423244,
     "datetime": "2023-05-03 9:28:27 +02:00",
     "name": "03 maj 09:13, Brand, Smedjebacken",
@@ -9,6 +69,42 @@
     "location": {
       "name": "Smedjebacken",
       "gps": "60.143193,15.415992"
+    }
+  },
+  {
+    "id": 423230,
+    "datetime": "2023-05-03 9:52:35 +02:00",
+    "name": "03 maj 08:18, Skadegörelse, Kristianstad",
+    "summary": "Larm om skadegörelse på bilar, Norra Kaserngatan",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0818-skadegorelse-kristianstad/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 423221,
+    "datetime": "2023-05-03 7:30:03 +02:00",
+    "name": "03 maj 07:23, Brand, Torsås",
+    "summary": "Larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0723-brand-torsas/",
+    "type": "Brand",
+    "location": {
+      "name": "Torsås",
+      "gps": "56.412638,15.998275"
+    }
+  },
+  {
+    "id": 423223,
+    "datetime": "2023-05-03 7:52:14 +02:00",
+    "name": "03 maj 07:15, Bombhot, Surahammar",
+    "summary": "Bombhot mot en skola i Surahammar.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0715-bombhot-surahammar/",
+    "type": "Bombhot",
+    "location": {
+      "name": "Surahammar",
+      "gps": "59.707226,16.226841"
     }
   },
   {
@@ -120,18 +216,6 @@
     }
   },
   {
-    "id": 423223,
-    "datetime": "2023-05-03 7:52:14 +02:00",
-    "name": "03 maj 07:15, Bombhot, Surahammar",
-    "summary": "Bombhot mot en skola i Surahammar.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0715-bombhot-surahammar/",
-    "type": "Bombhot",
-    "location": {
-      "name": "Surahammar",
-      "gps": "59.707226,16.226841"
-    }
-  },
-  {
     "id": 423213,
     "datetime": "2023-05-03 7:41:40 +02:00",
     "name": "03 maj 07:41, Sammanfattning natt, Västernorrlands län",
@@ -153,18 +237,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 423221,
-    "datetime": "2023-05-03 7:30:03 +02:00",
-    "name": "03 maj 07:23, Brand, Torsås",
-    "summary": "Larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0723-brand-torsas/",
-    "type": "Brand",
-    "location": {
-      "name": "Torsås",
-      "gps": "56.412638,15.998275"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 421406,
-    "datetime": "2023-04-26 23:38:11 +02:00",
-    "name": "26 april 22:56, Rån, Mörbylånga",
-    "summary": "Polis larmas till Mörbylånga kommun med anledning av ett misstänkt personrån.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-2256-ran-morbylanga/",
-    "type": "Rån",
-    "location": {
-      "name": "Mörbylånga",
-      "gps": "56.523757,16.386916"
-    }
-  },
-  {
-    "id": 421405,
-    "datetime": "2023-04-26 22:56:02 +02:00",
-    "name": "26 april 22:51, Brand, Malmö",
-    "summary": "Polis larmas till Rosengård med anledning av en bildbrand.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-2251-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 421399,
-    "datetime": "2023-04-26 20:48:11 +02:00",
-    "name": "26 april 19:20, Mord/dråp, Borlänge",
-    "summary": "Polisen utreder ett mord som inträffat i Borlänge under kvällen.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-1920-morddrap-borlange/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 421397,
-    "datetime": "2023-04-26 20:13:50 +02:00",
-    "name": "26 april 19:04, Trafikolycka, personskada, Gotlands län",
-    "summary": "Frontalkrock mellan personbil och lastbil i höjd med Fidenäs.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-1904-trafikolycka-personskada-gotlands-lan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 421404,
-    "datetime": "2023-04-26 21:53:45 +02:00",
-    "name": "26 april 19:21, Narkotikabrott, Hässleholm",
-    "summary": "Man i 20-årsåldern misstänks för narkotikabrott innehav och brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-1921-narkotikabrott-hassleholm/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 421383,
-    "datetime": "2023-04-26 21:45:41 +02:00",
-    "name": "26 april 21:45, Övrigt, Hallands län",
-    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
-    "url": "/aktuellt/handelser/2023/april/26/26-april-2145-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
