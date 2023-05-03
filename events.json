@@ -1,5 +1,77 @@
 [
   {
+    "id": 423349,
+    "datetime": "2023-05-03 19:17:15 +02:00",
+    "name": "03 maj 14:39, Mord/dråp, försök, Västervik",
+    "summary": "I Västerviks kommun har en man i 75-årsåldern gripits misstänkt för försök till mord.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1439-morddrap-forsok-vastervik/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 423353,
+    "datetime": "2023-05-03 19:15:38 +02:00",
+    "name": "03 maj 17:46, Rattfylleri, Karlstad",
+    "summary": "Man i trettiofemårsåldern misstänks för rattfylleri efter kontroll i västra delarna av Karlstad.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1746-rattfylleri-karlstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 423294,
+    "datetime": "2023-05-03 13:07:27 +02:00",
+    "name": "03 maj 13:02, Brand, Vänersborg",
+    "summary": "Det brinner i en ladugård utanför Vänersborg.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1302-brand-vanersborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Vänersborg",
+      "gps": "58.379728,12.324803"
+    }
+  },
+  {
+    "id": 423350,
+    "datetime": "2023-05-03 19:00:30 +02:00",
+    "name": "03 maj 15:13, Olaga intrång, Stockholm",
+    "summary": "Någon har tagit sig in i en lägenhet som ska vara obebodd.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1513-olaga-intrang-stockholm/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 423351,
+    "datetime": "2023-05-03 19:00:26 +02:00",
+    "name": "03 maj 15:18, Misshandel, Nynäshamn",
+    "summary": "En man förs till sjukhus efter att ha blivit misshandlad.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1518-misshandel-nynashamn/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Nynäshamn",
+      "gps": "58.902926,17.946529"
+    }
+  },
+  {
+    "id": 423352,
+    "datetime": "2023-05-03 19:00:22 +02:00",
+    "name": "03 maj 17:10, Knivlagen, Stockholm",
+    "summary": "En man med kniv brottas ner på Gullmarsplan.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1710-knivlagen-stockholm/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 423348,
     "datetime": "2023-05-03 17:59:47 +02:00",
     "name": "03 maj 17:00, Trafikkontroll, Härnösand",
@@ -273,18 +345,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 423294,
-    "datetime": "2023-05-03 13:07:27 +02:00",
-    "name": "03 maj 13:02, Brand, Vänersborg",
-    "summary": "Det brinner i en ladugård utanför Vänersborg.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1302-brand-vanersborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 421489,
-    "datetime": "2023-04-27 16:14:29 +02:00",
-    "name": "27 april 13:54, Fylleri/LOB, Kramfors",
-    "summary": "Centrum, polis kontaktas gällande högljudd man utomhus",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1354-fyllerilob-kramfors/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 421488,
-    "datetime": "2023-04-27 16:10:12 +02:00",
-    "name": "27 april 16:00, Stöld, Umeå",
-    "summary": "Norrlands universitetssjukhus, en datorstöld inträffade igår kväll (onsdag)",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1600-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 421487,
-    "datetime": "2023-04-27 15:44:33 +02:00",
-    "name": "27 april 14:24, Trafikolycka, Västerås",
-    "summary": "Kollision mellan två personbilar.",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1424-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 421485,
-    "datetime": "2023-04-27 15:32:54 +02:00",
-    "name": "27 april 15:23, Trafikolycka, Helsingborg",
-    "summary": "Två personbilar i olycka, Malmöleden.",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1523-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 421482,
-    "datetime": "2023-04-27 14:34:37 +02:00",
-    "name": "27 april 13:09, Olaga hot, Kungälv",
-    "summary": "En man uppträder hotfullt mot en busschaufför vid hållplatsen Eriksdal.",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1309-olaga-hot-kungalv/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
     }
   }
 ]
