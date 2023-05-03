@@ -1,5 +1,65 @@
 [
   {
+    "id": 423362,
+    "datetime": "2023-05-03 20:22:43 +02:00",
+    "name": "03 maj 19:34, Brand, Ängelholm",
+    "summary": "På E6 strax söder om Ängelholm har en bil börjat brinna under färd.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1934-brand-angelholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 423360,
+    "datetime": "2023-05-03 20:20:50 +02:00",
+    "name": "03 maj 19:32, Övrigt, Västerås",
+    "summary": "Larm om smällare.",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1932-ovrigt-vasteras/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 423358,
+    "datetime": "2023-05-03 20:11:55 +02:00",
+    "name": "03 maj 17:30, Narkotikabrott, Skellefteå",
+    "summary": "Centrum, kvinna stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1730-narkotikabrott-skelleftea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 423357,
+    "datetime": "2023-05-03 20:06:14 +02:00",
+    "name": "03 maj 17:08, Fjällräddning, Vilhelmina",
+    "summary": "Stekenjokk, larm inkommer om kvinna som ramlat och gjort sig illa",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1708-fjallraddning-vilhelmina/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
+    }
+  },
+  {
+    "id": 423356,
+    "datetime": "2023-05-03 19:55:03 +02:00",
+    "name": "03 maj 16:21, Stöld, Umeå",
+    "summary": "Haga, polis kontaktas gällande misstänkt försök till stöld vid ett förråd",
+    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1621-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 423355,
     "datetime": "2023-05-03 19:28:50 +02:00",
     "name": "03 maj 17:28, Trafikolycka, Luleå",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Mölndal",
       "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 421498,
-    "datetime": "2023-04-27 17:08:10 +02:00",
-    "name": "27 april 16:02, Trafikkontroll, Umeå",
-    "summary": "Degernäs, resultat efter trafikkontroll vid Södra Obbolavägen",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1602-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 421497,
-    "datetime": "2023-04-27 17:06:48 +02:00",
-    "name": "27 april 13:50, Stöld, Skellefteå",
-    "summary": "Centrum, kvinna stoppad efter misstänkt stöld i butik",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1350-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 421496,
-    "datetime": "2023-04-27 17:02:03 +02:00",
-    "name": "27 april 16:57, Trafikolycka, Nyköping",
-    "summary": "Trafikolycka i Brandkärr, Nyköping",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1657-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 421495,
-    "datetime": "2023-04-27 16:58:41 +02:00",
-    "name": "27 april 15:59, Stöld, Gällivare",
-    "summary": "Centrum, polis kontaktas gällande stöld i butik",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1559-stold-gallivare/",
-    "type": "Stöld",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 421473,
-    "datetime": "2023-04-27 13:37:36 +02:00",
-    "name": "27 april 13:37, Kontroll person/fordon, Linköping",
-    "summary": "Polisinsats vid gymnasieskola.",
-    "url": "/aktuellt/handelser/2023/april/27/27-april-1337-kontroll-personfordon-linkoping/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   }
 ]
