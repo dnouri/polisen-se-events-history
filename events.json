@@ -1,17 +1,5 @@
 [
   {
-    "id": 423449,
-    "datetime": "2023-05-04 12:34:19 +02:00",
-    "name": "04 maj 12:34, Misshandel, Västerbottens län",
-    "summary": "Polisen kontaktas under torsdagsmorgonen om en misshandel.",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1234-misshandel-vasterbottens-lan/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
     "id": 423448,
     "datetime": "2023-05-04 12:29:21 +02:00",
     "name": "04 maj 12:18, Trafikolycka, Ludvika",
@@ -21,6 +9,54 @@
     "location": {
       "name": "Ludvika",
       "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 423453,
+    "datetime": "2023-05-04 12:57:29 +02:00",
+    "name": "04 maj 11:57, Brand, Hudiksvall",
+    "summary": "Gräsbrand som har spridit sig till byggnader.",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1157-brand-hudiksvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 423452,
+    "datetime": "2023-05-04 12:53:50 +02:00",
+    "name": "04 maj 12:42, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Tegnerlunden",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1242-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 423451,
+    "datetime": "2023-05-04 12:53:00 +02:00",
+    "name": "04 maj 12:10, Mord/dråp, försök, Haninge",
+    "summary": "En man skottskadas i Jordbro.",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1210-morddrap-forsok-haninge/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 423449,
+    "datetime": "2023-05-04 12:34:19 +02:00",
+    "name": "04 maj 12:34, Misshandel, Västerbottens län",
+    "summary": "Polisen kontaktas under torsdagsmorgonen om en misshandel.",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1234-misshandel-vasterbottens-lan/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 421636,
-    "datetime": "2023-04-28 13:26:55 +02:00",
-    "name": "28 april 12:25, Brand, Malmö",
-    "summary": "Brand i gräs",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-1225-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 421635,
-    "datetime": "2023-04-28 13:20:14 +02:00",
-    "name": "28 april 12:14, Trafikolycka, Timrå",
-    "summary": "Trafikolycka på Järnvägsgatan i Vivsta, Timrå.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-1214-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 421625,
-    "datetime": "2023-04-28 11:03:52 +02:00",
-    "name": "28 april 10:14, Fjällräddning, Åre",
-    "summary": "Lavin har gått i Östra ravinen, Åre.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-1014-fjallraddning-are/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
     }
   }
 ]
