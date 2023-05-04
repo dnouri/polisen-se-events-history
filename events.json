@@ -1,5 +1,77 @@
 [
   {
+    "id": 423433,
+    "datetime": "2023-05-04 11:08:14 +02:00",
+    "name": "04 maj 09:00, Brand, Olofström",
+    "summary": "Larm om brand i uthus utanför Ryd",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-0900-brand-olofstrom/",
+    "type": "Brand",
+    "location": {
+      "name": "Olofström",
+      "gps": "56.277708,14.530938"
+    }
+  },
+  {
+    "id": 423436,
+    "datetime": "2023-05-04 10:56:48 +02:00",
+    "name": "04 maj 09:51, Stöld, Karlstad",
+    "summary": "En man är misstänkt för brott i Tingvallastaden",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-0951-stold-karlstad/",
+    "type": "Stöld",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 423429,
+    "datetime": "2023-05-04 10:54:37 +02:00",
+    "name": "04 maj 10:28, Trafikolycka, Gällivare",
+    "summary": "Larm om trafikolycka på Kulleportens industriområde.",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1028-trafikolycka-gallivare/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 423435,
+    "datetime": "2023-05-04 10:53:37 +02:00",
+    "name": "04 maj 08:28, Trafikolycka, personskada, Sala",
+    "summary": "Kollision mellan två fordon.",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-0828-trafikolycka-personskada-sala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
+    }
+  },
+  {
+    "id": 423434,
+    "datetime": "2023-05-04 10:52:15 +02:00",
+    "name": "04 maj 10:02, Trafikolycka, vilt, Piteå",
+    "summary": "Polisen får in en anmälan om en viltolycka på Munksundsvägen, Mossen.",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1002-trafikolycka-vilt-pitea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 423432,
+    "datetime": "2023-05-04 10:47:47 +02:00",
+    "name": "04 maj 06:07, Misshandel, Stockholm",
+    "summary": "Slagsmål på socialt boende.",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-0607-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 423430,
     "datetime": "2023-05-04 10:43:15 +02:00",
     "name": "04 maj 07:41, Olaga intrång, Stockholm",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Salem",
       "gps": "59.20768,17.774222"
-    }
-  },
-  {
-    "id": 421623,
-    "datetime": "2023-04-28 10:56:31 +02:00",
-    "name": "28 april 07:07, Trafikolycka, Växjö",
-    "summary": "Allmänhet observerar en krockskadad bil",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-0707-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 421622,
-    "datetime": "2023-04-28 10:53:44 +02:00",
-    "name": "28 april 09:06, Misshandel, Sundsvall",
-    "summary": "Anmälan och motanmälan om misshandel upprättas efter bråk.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-0906-misshandel-sundsvall/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 421621,
-    "datetime": "2023-04-28 10:51:21 +02:00",
-    "name": "28 april 10:06, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka, Rosengård.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-1006-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 421619,
-    "datetime": "2023-04-28 10:49:24 +02:00",
-    "name": "28 april 08:57, Brand, Uddevalla",
-    "summary": "SOS larmas om en lägenhetsbrand i ett flerfamiljshus på Lillbräckegatan.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-0857-brand-uddevalla/",
-    "type": "Brand",
-    "location": {
-      "name": "Uddevalla",
-      "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 421615,
-    "datetime": "2023-04-28 9:50:37 +02:00",
-    "name": "28 april 09:24, Brand, Växjö",
-    "summary": "Brand på skola",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-0924-brand-vaxjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 421547,
-    "datetime": "2023-04-28 8:10:48 +02:00",
-    "name": "28 april 07:46, Trafikolycka, Boden",
-    "summary": "Trafikolycka i Svalget, Boden.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-0746-trafikolycka-boden/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
     }
   }
 ]
