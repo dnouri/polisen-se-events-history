@@ -1,5 +1,77 @@
 [
   {
+    "id": 423627,
+    "datetime": "2023-05-05 16:43:35 +02:00",
+    "name": "05 maj 14:52, Brand, Avesta",
+    "summary": "Polisen har inlett förundersökning avseende mordbrand efter en villabrand i Avesta under eftermiddagen.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1452-brand-avesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 423629,
+    "datetime": "2023-05-05 16:43:04 +02:00",
+    "name": "05 maj 15:25, Trafikolycka, Burlöv",
+    "summary": "Frontalkrock, Dalbyvägen",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1525-trafikolycka-burlov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 423626,
+    "datetime": "2023-05-05 16:29:29 +02:00",
+    "name": "05 maj 16:27, Trafikolycka, Gislaved",
+    "summary": "Smålandsstenar: Flera bilar i kollision",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1627-trafikolycka-gislaved/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gislaved",
+      "gps": "57.2985,13.54326"
+    }
+  },
+  {
+    "id": 423623,
+    "datetime": "2023-05-05 16:25:27 +02:00",
+    "name": "05 maj 16:11, Trafikolycka, Botkyrka",
+    "summary": "E4 (Södertäljevägen), mellan Fittja och Hallunda. Kollision mellan två fordon.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1611-trafikolycka-botkyrka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 423625,
+    "datetime": "2023-05-05 16:28:29 +02:00",
+    "name": "05 maj 15:48, Trafikolycka, Lund",
+    "summary": "Frontalkrock, Sjöbovägen Veberöd",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1548-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 423624,
+    "datetime": "2023-05-05 16:26:55 +02:00",
+    "name": "05 maj 13:56, Mord/dråp, Arvika",
+    "summary": "Polisen har inlett förundersökning gällande mord.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1356-morddrap-arvika/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
     "id": 423622,
     "datetime": "2023-05-05 16:18:18 +02:00",
     "name": "05 maj 14:11, Brand, Köping",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 421727,
-    "datetime": "2023-04-29 7:22:57 +02:00",
-    "name": "29 april 07:22, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0722-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 421760,
-    "datetime": "2023-04-29 11:00:16 +02:00",
-    "name": "29 april 03:17, Misshandel, Stockholm",
-    "summary": "Ordningsvakter grep den man som misshandlat en entrévärd för en nattklubb på Östermalm.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0317-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 421758,
-    "datetime": "2023-04-29 10:42:28 +02:00",
-    "name": "29 april 02:04, Våld/hot mot tjänsteman, Stockholm",
-    "summary": "Den man som skulle avlägsnas från tunnelbanestationen Ropsten satte sig till motvärn.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0204-valdhot-mot-tjansteman-stockholm/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 421757,
-    "datetime": "2023-04-29 10:35:35 +02:00",
-    "name": "29 april 09:32, Trafikolycka, personskada, Alingsås",
-    "summary": "På länsväg 180 vid Ängabo har en bilist kört av vägen.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0932-trafikolycka-personskada-alingsas/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
-    }
-  },
-  {
-    "id": 421756,
-    "datetime": "2023-04-29 10:32:32 +02:00",
-    "name": "29 april 09:13, Trafikkontroll, Storuman",
-    "summary": "Resultat efter trafikkontroll på E12/E45, Storuman tätort.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0913-trafikkontroll-storuman/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 421755,
-    "datetime": "2023-04-29 10:27:36 +02:00",
-    "name": "29 april 10:23, Vapenlagen, Eskilstuna",
-    "summary": "Tre gripna och anhållna.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-1023-vapenlagen-eskilstuna/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   }
 ]
