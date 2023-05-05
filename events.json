@@ -1,5 +1,17 @@
 [
   {
+    "id": 423532,
+    "datetime": "2023-05-05 7:12:16 +02:00",
+    "name": "05 maj 01:42, Inbrott, Håbo",
+    "summary": "Inbrott i villa.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0142-inbrott-habo/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
     "id": 423524,
     "datetime": "2023-05-05 6:42:40 +02:00",
     "name": "05 maj 05:17, Trafikolycka, Uppvidinge",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Uppvidinge",
       "gps": "57.014575,15.381174"
+    }
+  },
+  {
+    "id": 423530,
+    "datetime": "2023-05-05 7:02:33 +02:00",
+    "name": "05 maj 07:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0700-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 423525,
+    "datetime": "2023-05-05 6:59:51 +02:00",
+    "name": "05 maj 07:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av kvällens och nattens händelser.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 423526,
+    "datetime": "2023-05-05 6:58:25 +02:00",
+    "name": "05 maj 02:39, Brand, Ronneby",
+    "summary": "Skadegörelse på skola i Kallinge.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0239-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 421700,
-    "datetime": "2023-04-28 21:47:44 +02:00",
-    "name": "28 april 21:45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-2145-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 421714,
-    "datetime": "2023-04-28 21:44:54 +02:00",
-    "name": "28 april 21:44, Övrigt, Kalmar län",
-    "summary": "Tillfäligt obemannat mediecenter.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-2144-ovrigt-kalmar-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 421713,
-    "datetime": "2023-04-28 21:44:07 +02:00",
-    "name": "28 april 21:43, Övrigt, Kronobergs län",
-    "summary": "Tillfälligt obemannat mediecenter.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-2143-ovrigt-kronobergs-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 421712,
-    "datetime": "2023-04-28 21:43:19 +02:00",
-    "name": "28 april 21:42, Övrigt, Blekinge län",
-    "summary": "Tillfälligt obemannat mediecenter.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-2142-ovrigt-blekinge-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
     }
   }
 ]
