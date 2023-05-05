@@ -1,5 +1,41 @@
 [
   {
+    "id": 423584,
+    "datetime": "2023-05-05 11:46:55 +02:00",
+    "name": "05 maj 11:46, Arbetsplatsolycka, Östersund",
+    "summary": "Östersund, förundersökning inledd efter arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1146-arbetsplatsolycka-ostersund/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 423573,
+    "datetime": "2023-05-05 10:46:03 +02:00",
+    "name": "05 maj 10:43, Brand, Sundsvall",
+    "summary": "Sundsvall, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1043-brand-sundsvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 423583,
+    "datetime": "2023-05-05 11:46:34 +02:00",
+    "name": "05 maj 07:08, Mord/dråp, Strömstad",
+    "summary": "Allmänheten påträffar en avliden person på Sydkoster och larmar polis.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0708-morddrap-stromstad/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
     "id": 423582,
     "datetime": "2023-05-05 11:37:13 +02:00",
     "name": "05 maj 10:24, Narkotikabrott, Partille",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 423573,
-    "datetime": "2023-05-05 10:46:03 +02:00",
-    "name": "05 maj 10:43, Brand, Sundsvall",
-    "summary": "Sundsvall, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1043-brand-sundsvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 421740,
-    "datetime": "2023-04-29 7:59:29 +02:00",
-    "name": "29 april 07:58, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer ett urval av nattens händelser i länet",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0758-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 421739,
-    "datetime": "2023-04-29 7:58:44 +02:00",
-    "name": "29 april 07:57, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer ett urval av nattens händelser i länet",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0757-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
