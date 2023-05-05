@@ -1,5 +1,89 @@
 [
   {
+    "id": 423544,
+    "datetime": "2023-05-05 8:12:36 +02:00",
+    "name": "05 maj 07:58, Brand, Haninge",
+    "summary": "En brand har utbrutit på värmeverket i Jordbro.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0758-brand-haninge/",
+    "type": "Brand",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 423528,
+    "datetime": "2023-05-05 8:01:24 +02:00",
+    "name": "05 maj 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en sammanfattning från natten och kl. 22.00 igår.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 423545,
+    "datetime": "2023-05-05 8:19:06 +02:00",
+    "name": "04 maj 21:17, Arbetsplatsolycka, Växjö",
+    "summary": "Anträffad avliden på en lantgård, Ingelstad.",
+    "url": "/aktuellt/handelser/2023/maj/4/04-maj-2117-arbetsplatsolycka-vaxjo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 423538,
+    "datetime": "2023-05-05 8:03:38 +02:00",
+    "name": "05 maj 08:01, Sammanfattning natt, Södermanlands län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0801-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 423543,
+    "datetime": "2023-05-05 8:02:08 +02:00",
+    "name": "05 maj 08:01, Sammanfattning natt, Östergötlands län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0801-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 423542,
+    "datetime": "2023-05-05 7:57:11 +02:00",
+    "name": "05 maj 07:44, Trafikolycka, personskada, Järfälla",
+    "summary": "En cyklist och en bilist har kolliderat i Kallhäll.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0744-trafikolycka-personskada-jarfalla/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 423541,
+    "datetime": "2023-05-05 7:52:25 +02:00",
+    "name": "05 maj 06:50, Trafikolycka, personskada, Falkenberg",
+    "summary": "SOS larmas om en olycka på Gamla E6 i Slöinge, där en personbil uppges ha kört på en cyklist.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0650-trafikolycka-personskada-falkenberg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
     "id": 423533,
     "datetime": "2023-05-05 7:39:04 +02:00",
     "name": "05 maj 07:39, Sammanfattning natt, Norrbottens län",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 421733,
-    "datetime": "2023-04-29 7:28:59 +02:00",
-    "name": "29 april 05:05, Trafikbrott, Stockholm",
-    "summary": "I Vasastaden rapporterades föraren för trafikbrott.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0505-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 421732,
-    "datetime": "2023-04-29 7:28:14 +02:00",
-    "name": "29 april 02:40, Rattfylleri, Osby",
-    "summary": "Misstänkt påverkad förare, Osby.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0240-rattfylleri-osby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
-    }
-  },
-  {
-    "id": 421728,
-    "datetime": "2023-04-29 7:24:06 +02:00",
-    "name": "29 april 02:24, Misshandel, Västervik",
-    "summary": "Misshandel på uteställe, Västervik.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0224-misshandel-vastervik/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 421726,
-    "datetime": "2023-04-29 7:16:59 +02:00",
-    "name": "29 april 07:14, Misshandel, Oskarshamn",
-    "summary": "Man gripen, Oskarshamn.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0714-misshandel-oskarshamn/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 421723,
-    "datetime": "2023-04-29 7:04:57 +02:00",
-    "name": "29 april 01:59, Brand, Perstorp",
-    "summary": "Brinnande motorcykel och stöld, Perstorp.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0159-brand-perstorp/",
-    "type": "Brand",
-    "location": {
-      "name": "Perstorp",
-      "gps": "56.137972,13.394986"
-    }
-  },
-  {
-    "id": 421722,
-    "datetime": "2023-04-29 6:59:04 +02:00",
-    "name": "29 april 01:19, Misshandel, grov, Landskrona",
-    "summary": "Misshandel utomhus, Landskrona.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0119-misshandel-grov-landskrona/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 421689,
-    "datetime": "2023-04-29 6:55:53 +02:00",
-    "name": "28 april 18:04, Stöld, Fagersta",
-    "summary": "Två personer kunde gripas efter stöld.",
-    "url": "/aktuellt/handelser/2023/april/28/28-april-1804-stold-fagersta/",
-    "type": "Stöld",
-    "location": {
-      "name": "Fagersta",
-      "gps": "59.989144,15.816642"
     }
   }
 ]
