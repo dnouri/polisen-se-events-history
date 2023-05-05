@@ -1,5 +1,41 @@
 [
   {
+    "id": 423640,
+    "datetime": "2023-05-05 20:18:52 +02:00",
+    "name": "05 maj 19:06, Skadegörelse, Kalix",
+    "summary": "Polispatrull beordras till Risögrund med anledning av en skadegörelse.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1906-skadegorelse-kalix/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 423639,
+    "datetime": "2023-05-05 20:14:49 +02:00",
+    "name": "05 maj 20:14, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-2014-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 423638,
+    "datetime": "2023-05-05 20:14:11 +02:00",
+    "name": "05 maj 20:14, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-2014-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 423636,
     "datetime": "2023-05-05 19:25:23 +02:00",
     "name": "05 maj 19:21, Bråk, Norrköping",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 423637,
+    "datetime": "2023-05-05 19:46:26 +02:00",
+    "name": "05 maj 17:10, Vapenlagen, Stockholm",
+    "summary": "Huddingevägen, Rågsved. Kontroll av fordon och person leder till anträffande av vapen.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-1710-vapenlagen-stockholm/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Nybro",
       "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 421747,
-    "datetime": "2023-04-29 8:54:58 +02:00",
-    "name": "29 april 08:37, Trafikolycka, personskada, Stockholm",
-    "summary": "Olycka på riksväg 75 vid Nybodakopplet.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-0837-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 421771,
-    "datetime": "2023-04-29 13:04:48 +02:00",
-    "name": "29 april 10:45, Rattfylleri, Gällivare",
-    "summary": "Misstänkt rattfylleri i centrala Gällivare.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-1045-rattfylleri-gallivare/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 421770,
-    "datetime": "2023-04-29 13:04:28 +02:00",
-    "name": "29 april 10:22, Rattfylleri, Kiruna",
-    "summary": "Misstänkt rattfylleri i centrala Kiruna.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-1022-rattfylleri-kiruna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 421764,
-    "datetime": "2023-04-29 11:40:21 +02:00",
-    "name": "29 april 11:31, Trafikolycka, Landskrona",
-    "summary": "Personbil och cyklist i olycka, Landskrona.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-1131-trafikolycka-landskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
     }
   }
 ]
