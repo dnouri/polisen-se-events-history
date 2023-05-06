@@ -1,5 +1,89 @@
 [
   {
+    "id": 423674,
+    "datetime": "2023-05-06 7:41:16 +02:00",
+    "name": "06 maj 01:59, Häleri, Uppsala",
+    "summary": "Man misstänks för häleri och narkotikabrott innehav.",
+    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0159-haleri-uppsala/",
+    "type": "Häleri",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 423673,
+    "datetime": "2023-05-06 7:41:11 +02:00",
+    "name": "06 maj 03:27, Stöld, försök, Stockholm",
+    "summary": "En inringare på Kungsholmen hör av sig om oljud där någon misstänks för inbrott i cykelkällare.",
+    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0327-stold-forsok-stockholm/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 423672,
+    "datetime": "2023-05-06 7:39:42 +02:00",
+    "name": "05 maj 23:00, Trafikbrott, Sunne",
+    "summary": "Böter för högt spelande musik från fordon.",
+    "url": "/aktuellt/handelser/2023/maj/5/05-maj-2300-trafikbrott-sunne/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 423671,
+    "datetime": "2023-05-06 7:36:14 +02:00",
+    "name": "06 maj 01:44, Skadegörelse, Stockholm",
+    "summary": "En anmälare ringer in angående att ett par personer på Östermalm ägnar sig åt skadegörelse på en bil.",
+    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0144-skadegorelse-stockholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 423670,
+    "datetime": "2023-05-06 7:35:31 +02:00",
+    "name": "06 maj 07:35, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
+    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0735-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 423669,
+    "datetime": "2023-05-06 7:33:15 +02:00",
+    "name": "06 maj 01:18, Bedrägeri, Uppsala",
+    "summary": "Man misstänks för ringa bedrägeri.",
+    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0118-bedrageri-uppsala/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 423668,
+    "datetime": "2023-05-06 7:25:43 +02:00",
+    "name": "06 maj 04:37, Stöld, Gävle",
+    "summary": "Man misstänks för stöld alternativt häleri.",
+    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0437-stold-gavle/",
+    "type": "Stöld",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 423667,
     "datetime": "2023-05-06 7:20:01 +02:00",
     "name": "06 maj 07:19, Sammanfattning natt, Västernorrlands län",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Staffanstorp",
       "gps": "55.641065,13.212229"
-    }
-  },
-  {
-    "id": 421812,
-    "datetime": "2023-04-30 3:41:13 +02:00",
-    "name": "30 april 01:10, Kontroll person/fordon, Solna",
-    "summary": "I samband med att en polispatrull skulle kontrollera två män i Råsunda uppstod en hotfull situation.",
-    "url": "/aktuellt/handelser/2023/april/30/30-april-0110-kontroll-personfordon-solna/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 421810,
-    "datetime": "2023-04-29 23:10:00 +02:00",
-    "name": "29 april 22:15, Trafikolycka, personskada, Sigtuna",
-    "summary": "En person skadades allvarligt i en bilolycka i Rosersberg.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-2215-trafikolycka-personskada-sigtuna/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 421809,
-    "datetime": "2023-04-29 20:50:35 +02:00",
-    "name": "29 april 20:17, Skottlossning, misstänkt, Södertälje",
-    "summary": "Samtal kom in om smällar i Blombacka.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-2017-skottlossning-misstankt-sodertalje/",
-    "type": "Skottlossning, misstänkt",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 421805,
-    "datetime": "2023-04-29 18:56:23 +02:00",
-    "name": "29 april 18:04, Trafikolycka, Ronneby",
-    "summary": "Lv638, Bräkne-Hoby. Kollision mellan två personbilar.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-1804-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 421807,
-    "datetime": "2023-04-29 19:24:51 +02:00",
-    "name": "29 april 19:09, Övrigt, Karlstad",
-    "summary": "En byggnad är rökfylld enligt SOS-alarm, polis är kallad till platsen.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-1909-ovrigt-karlstad/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 421808,
-    "datetime": "2023-04-29 19:34:33 +02:00",
-    "name": "29 april 18:44, Misshandel, grov, Haninge",
-    "summary": "Samtal kom in om en pågående misshandel utomhus i Handen.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-1844-misshandel-grov-haninge/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 421806,
-    "datetime": "2023-04-29 18:57:27 +02:00",
-    "name": "29 april 17:55, Mord/dråp, Örebro",
-    "summary": "Polisen har inlett förundersökning gällande ett misstänkt mord i Örebro.",
-    "url": "/aktuellt/handelser/2023/april/29/29-april-1755-morddrap-orebro/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
