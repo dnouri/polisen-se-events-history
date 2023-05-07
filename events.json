@@ -1,5 +1,53 @@
 [
   {
+    "id": 423776,
+    "datetime": "2023-05-07 13:15:16 +02:00",
+    "name": "07 maj 13:14, Rån, Sundsvall",
+    "summary": "Sundsvall, man ska ha utsatts för rån på Västermalm.",
+    "url": "/aktuellt/handelser/2023/maj/7/07-maj-1314-ran-sundsvall/",
+    "type": "Rån",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 423770,
+    "datetime": "2023-05-07 12:57:13 +02:00",
+    "name": "07 maj 12:00, Mord/dråp, Växjö",
+    "summary": "Två personer har gripits på söndagen misstänkta för mord i Lammhult fredagen den 5 maj.",
+    "url": "/aktuellt/handelser/2023/maj/7/07-maj-1200-morddrap-vaxjo/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 423769,
+    "datetime": "2023-05-07 12:55:21 +02:00",
+    "name": "07 maj 12:53, Sjukdom/olycksfall, Eskilstuna",
+    "summary": "Misstänkt allvarlig olycka i Fröslunda",
+    "url": "/aktuellt/handelser/2023/maj/7/07-maj-1253-sjukdomolycksfall-eskilstuna/",
+    "type": "Sjukdom/olycksfall",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 423768,
+    "datetime": "2023-05-07 12:54:17 +02:00",
+    "name": "07 maj 12:52, Mord/dråp, försök, Härnösand",
+    "summary": "Man anhållen misstänkt för brott mot närstående.",
+    "url": "/aktuellt/handelser/2023/maj/7/07-maj-1252-morddrap-forsok-harnosand/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
     "id": 423759,
     "datetime": "2023-05-07 10:32:45 +02:00",
     "name": "07 maj 09:35, Trafikolycka, personskada, Mellerud",
@@ -753,18 +801,6 @@
     "location": {
       "name": "Skurup",
       "gps": "55.48045,13.502349"
-    }
-  },
-  {
-    "id": 423701,
-    "datetime": "2023-05-06 12:38:45 +02:00",
-    "name": "06 maj 12:30, Övrigt, Växjö",
-    "summary": "Polisen söker tips efter det misstänkta mordet i Lammhult på fredagsnatten.",
-    "url": "/aktuellt/handelser/2023/maj/6/06-maj-1230-ovrigt-vaxjo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 421953,
-    "datetime": "2023-05-01 8:01:27 +02:00",
-    "name": "01 maj 08:01, Sammanfattning natt, Jönköpings län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/1/01-maj-0801-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 421952,
-    "datetime": "2023-05-01 8:00:56 +02:00",
-    "name": "01 maj 07:58, Sammanfattning natt, Kalmar län",
-    "summary": "Sammanfattning Valborg",
-    "url": "/aktuellt/handelser/2023/maj/1/01-maj-0758-sammanfattning-natt-kalmar-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 421951,
-    "datetime": "2023-05-01 7:50:26 +02:00",
-    "name": "01 maj 07:50, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2023/maj/1/01-maj-0750-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
