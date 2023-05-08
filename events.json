@@ -1,5 +1,65 @@
 [
   {
+    "id": 424987,
+    "datetime": "2023-05-08 22:07:13 +02:00",
+    "name": "08 maj 21:23, Brand, Hässleholm",
+    "summary": "Brand i fabriksbyggnad, Hässleholm.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-2123-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 424986,
+    "datetime": "2023-05-08 22:03:01 +02:00",
+    "name": "08 maj 18:01, Misshandel, Umeå",
+    "summary": "Mariedal, man gripen misstänkt för att ha misshandlat en kvinna han har en relation med",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1801-misshandel-umea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 424985,
+    "datetime": "2023-05-08 22:00:08 +02:00",
+    "name": "08 maj 22:00, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-2200-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 424984,
+    "datetime": "2023-05-08 22:00:03 +02:00",
+    "name": "08 maj 22:00, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-2200-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 424971,
+    "datetime": "2023-05-08 19:46:51 +02:00",
+    "name": "08 maj 19:38, Trafikbrott, Malmö",
+    "summary": "Påkörd hund, centrum.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1938-trafikbrott-malmo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 424976,
     "datetime": "2023-05-08 21:43:08 +02:00",
     "name": "08 maj 16:32, Misshandel, Göteborg",
@@ -153,18 +213,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 424971,
-    "datetime": "2023-05-08 19:46:51 +02:00",
-    "name": "08 maj 19:38, Trafikbrott, Malmö",
-    "summary": "Påkörd hund, centrum.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1938-trafikbrott-malmo/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 423132,
-    "datetime": "2023-05-02 14:17:43 +02:00",
-    "name": "02 maj 14:08, Trafikolycka, personskada, Örebro",
-    "summary": "En personbil har voltat på väg 623 norr om Kilsmo.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1408-trafikolycka-personskada-orebro/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 423131,
-    "datetime": "2023-05-02 14:17:17 +02:00",
-    "name": "02 maj 13:51, Rån, Stockholm",
-    "summary": "Polis fångar en man som hotat personal i en matbutik.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1351-ran-stockholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 423118,
-    "datetime": "2023-05-02 13:22:58 +02:00",
-    "name": "02 maj 13:02, Brand, Kumla",
-    "summary": "Polisen biträder räddningstjänsten vid en brand i hus i Kumla.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1302-brand-kumla/",
-    "type": "Brand",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 423126,
-    "datetime": "2023-05-02 13:53:13 +02:00",
-    "name": "02 maj 13:24, Trafikolycka, Växjö",
-    "summary": "En trafikolycka sker på Markenteterivägen.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1324-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
