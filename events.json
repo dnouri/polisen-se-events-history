@@ -1,5 +1,53 @@
 [
   {
+    "id": 424976,
+    "datetime": "2023-05-08 21:43:08 +02:00",
+    "name": "08 maj 16:32, Misshandel, Göteborg",
+    "summary": "En man som uppger att han blivit misshandlad får hjälp av en förbipasserande att ringa polisen.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1632-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 424983,
+    "datetime": "2023-05-08 21:42:18 +02:00",
+    "name": "08 maj 21:11, Fylleri/LOB, Östersund",
+    "summary": "Karlslund, polis kontaktas gällande berusad man utomhus",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-2111-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 424982,
+    "datetime": "2023-05-08 21:36:58 +02:00",
+    "name": "08 maj 17:50, Stöld, Örnsköldsvik",
+    "summary": "Örnsköldsvik, ung person stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1750-stold-ornskoldsvik/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 424964,
+    "datetime": "2023-05-08 19:16:32 +02:00",
+    "name": "08 maj 18:42, Mord/dråp, försök, Stockholm",
+    "summary": "Samtal om höga smällar i Jacobsberg, polis är beordrad till platsen.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1842-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 424981,
     "datetime": "2023-05-08 21:16:32 +02:00",
     "name": "08 maj 20:17, Misshandel, Göteborg",
@@ -177,18 +225,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 424964,
-    "datetime": "2023-05-08 19:16:32 +02:00",
-    "name": "08 maj 18:42, Mord/dråp, försök, Stockholm",
-    "summary": "Samtal om höga smällar i Jacobsberg, polis är beordrad till platsen.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1842-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 423124,
-    "datetime": "2023-05-02 13:48:29 +02:00",
-    "name": "02 maj 13:48, Trafikkontroll, Timrå",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1348-trafikkontroll-timra/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 423048,
-    "datetime": "2023-05-02 1:53:04 +02:00",
-    "name": "02 maj 01:40, Farligt föremål, misstänkt, Stenungsund",
-    "summary": "Bilfirma beskjuten/ misstänkt farligt föremål i Stora Höga i Stenungsund.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-0140-farligt-foremal-misstankt-stenungsund/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 423119,
-    "datetime": "2023-05-02 13:25:00 +02:00",
-    "name": "02 maj 12:39, Trafikkontroll, Strömsund",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1239-trafikkontroll-stromsund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
     }
   }
 ]
