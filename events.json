@@ -1,5 +1,65 @@
 [
   {
+    "id": 424961,
+    "datetime": "2023-05-08 18:00:10 +02:00",
+    "name": "08 maj 17:12, Brand, Varberg",
+    "summary": "Larm om brand i ett garage Sibbarp.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1712-brand-varberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 424960,
+    "datetime": "2023-05-08 17:57:39 +02:00",
+    "name": "08 maj 17:38, Rån, Malmö",
+    "summary": "Man rånad, centrum.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1738-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 424954,
+    "datetime": "2023-05-08 17:57:10 +02:00",
+    "name": "08 maj 17:03, Försvunnen person, Linköping",
+    "summary": "Försvunnen person i Ljungsbro",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1703-forsvunnen-person-linkoping/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 424959,
+    "datetime": "2023-05-08 17:55:08 +02:00",
+    "name": "08 maj 14:29, Trafikolycka, Sundsvall",
+    "summary": "Granloholm, polis informeras om att det skett en trafikolycka",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1429-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 424952,
+    "datetime": "2023-05-08 17:02:07 +02:00",
+    "name": "08 maj 16:51, Brand, Stockholm",
+    "summary": "Det brinner i en lägenhet i Akalla.",
+    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1651-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 424958,
     "datetime": "2023-05-08 17:37:19 +02:00",
     "name": "08 maj 14:33, Knivlagen, Umeå",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 424952,
-    "datetime": "2023-05-08 17:02:07 +02:00",
-    "name": "08 maj 16:51, Brand, Stockholm",
-    "summary": "Det brinner i en lägenhet i Akalla.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1651-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 423066,
-    "datetime": "2023-05-02 7:58:04 +02:00",
-    "name": "01 maj 23:32, Stöld/inbrott, Nacka",
-    "summary": "Inbrott på byggarbetsplats.",
-    "url": "/aktuellt/handelser/2023/maj/1/01-maj-2332-stoldinbrott-nacka/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 423065,
-    "datetime": "2023-05-02 7:51:43 +02:00",
-    "name": "01 maj 22:18, Olaga intrång, Huddinge",
-    "summary": "Personer har tagit sig in på inhägnat område.",
-    "url": "/aktuellt/handelser/2023/maj/2/01-maj-2218-olaga-intrang-huddinge/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 423064,
-    "datetime": "2023-05-02 7:46:39 +02:00",
-    "name": "02 maj 07:36, Trafikolycka, personskada, Grums",
-    "summary": "Två minibussar har kolliderat i Grums.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-0736-trafikolycka-personskada-grums/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
-    }
-  },
-  {
-    "id": 423063,
-    "datetime": "2023-05-02 7:39:36 +02:00",
-    "name": "02 maj 02:30, Farligt föremål, misstänkt, Södertälje",
-    "summary": "Polisen hanterar ett misstänkt farligt föremål som hittats utanför en bostad.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-0230-farligt-foremal-misstankt-sodertalje/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
