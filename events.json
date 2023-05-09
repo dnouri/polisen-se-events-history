@@ -1,5 +1,89 @@
 [
   {
+    "id": 425107,
+    "datetime": "2023-05-09 17:20:11 +02:00",
+    "name": "09 maj 14:44, Arbetsplatsolycka, Hudiksvall",
+    "summary": "Man allvarligt skadad i arbetsplatsolycka i Iggesund.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1444-arbetsplatsolycka-hudiksvall/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 425108,
+    "datetime": "2023-05-09 17:17:06 +02:00",
+    "name": "09 maj 15:40, Rån, Haninge",
+    "summary": "Polisen har inlett förundersökning avseende rån.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1540-ran-haninge/",
+    "type": "Rån",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 425105,
+    "datetime": "2023-05-09 17:09:47 +02:00",
+    "name": "09 maj 16:44, Misshandel, grov, Malmö",
+    "summary": "Augustenborg. Person anträffad med stick- eller skärskada inomhus.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1644-misshandel-grov-malmo/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 425106,
+    "datetime": "2023-05-09 17:12:49 +02:00",
+    "name": "09 maj 16:44, Trafikolycka, Göteborg",
+    "summary": "Larm om trafikolycka mellan buss och elsparkcykel vid Frölunda Torg.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1644-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 425104,
+    "datetime": "2023-05-09 17:03:12 +02:00",
+    "name": "09 maj 16:51, Brand, Sigtuna",
+    "summary": "Det brinner i en kolonistuga i Märsta, Sigtuna kommun.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1651-brand-sigtuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 425102,
+    "datetime": "2023-05-09 16:59:27 +02:00",
+    "name": "09 maj 16:41, Brand, Järfälla",
+    "summary": "Polisen biträder räddningstjänsten vid en brand i Viksjö, Järfälla.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1641-brand-jarfalla/",
+    "type": "Brand",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 425095,
+    "datetime": "2023-05-09 16:04:23 +02:00",
+    "name": "09 maj 15:55, Trafikolycka, Smedjebacken",
+    "summary": "En singelolycka har inträffat på Rv 66, sydöst om Smedjebacken.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1555-trafikolycka-smedjebacken/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
     "id": 425099,
     "datetime": "2023-05-09 16:40:11 +02:00",
     "name": "09 maj 16:26, Trafikolycka, Örebro",
@@ -33,18 +117,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 425095,
-    "datetime": "2023-05-09 16:04:23 +02:00",
-    "name": "09 maj 15:55, Trafikolycka, Smedjebacken",
-    "summary": "En singelolycka har inträffat på Rv 66, sydöst om Smedjebacken.",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1555-trafikolycka-smedjebacken/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Smedjebacken",
-      "gps": "60.143193,15.415992"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Surahammar",
       "gps": "59.707226,16.226841"
-    }
-  },
-  {
-    "id": 423234,
-    "datetime": "2023-05-03 9:19:24 +02:00",
-    "name": "03 maj 09:19, Stöld, Jönköpings län",
-    "summary": "Flertalet katalysatorstölder i Jönköping under två nätter i rad.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0919-stold-jonkopings-lan/",
-    "type": "Stöld",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 423241,
-    "datetime": "2023-05-03 9:16:12 +02:00",
-    "name": "03 maj 09:06, Trafikolycka, Stockholm",
-    "summary": "Flera bilister har krockat i Albanotunneln",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0906-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 423240,
-    "datetime": "2023-05-03 9:12:10 +02:00",
-    "name": "03 maj 07:15, Arbetsplatsolycka, Upplands-bro",
-    "summary": "En arbetsplatsolycka har inträffat på en golfklubb",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0715-arbetsplatsolycka-upplands-bro/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Upplands-bro",
-      "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 423226,
-    "datetime": "2023-05-03 7:50:00 +02:00",
-    "name": "03 maj 06:39, Brand, Örnsköldsvik",
-    "summary": "Larm om brand i en byggnad i Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0639-brand-ornskoldsvik/",
-    "type": "Brand",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 423229,
-    "datetime": "2023-05-03 8:30:42 +02:00",
-    "name": "03 maj 08:14, Trafikolycka, Malmö",
-    "summary": "Larm om kollision mellan bilist och cyklist, Katrinelund",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0814-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 423228,
-    "datetime": "2023-05-03 8:29:47 +02:00",
-    "name": "03 maj 06:51, Trafikolycka, smitning från, Uppsala",
-    "summary": "Person påkörd av fordon.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0651-trafikolycka-smitning-fran-uppsala/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
