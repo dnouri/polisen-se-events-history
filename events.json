@@ -1,5 +1,89 @@
 [
   {
+    "id": 425116,
+    "datetime": "2023-05-09 19:14:48 +02:00",
+    "name": "09 maj 18:27, Skadegörelse, Uppsala",
+    "summary": "En man slår sönder fönsterrutor.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1827-skadegorelse-uppsala/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 425115,
+    "datetime": "2023-05-09 19:13:39 +02:00",
+    "name": "09 maj 18:07, Brand, Örebro",
+    "summary": "Det brinner i skog och mark i närheten av Storstenshöjden.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1807-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 425114,
+    "datetime": "2023-05-09 19:10:29 +02:00",
+    "name": "09 maj 18:21, Rattfylleri, Oskarshamn",
+    "summary": "Lv724, Kulltorp. Trafikolycka med moped leder till misstanke om rattfylleri.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1821-rattfylleri-oskarshamn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 425067,
+    "datetime": "2023-05-09 13:07:27 +02:00",
+    "name": "09 maj 12:30, Trafikolycka, Askersund",
+    "summary": "En olycka har inträffat i höjd med Tallhagen",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1230-trafikolycka-askersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 425112,
+    "datetime": "2023-05-09 19:02:13 +02:00",
+    "name": "09 maj 17:33, Trafikolycka, smitning från, Uppsala",
+    "summary": "Smitningsolycka i centrala Uppsala.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1733-trafikolycka-smitning-fran-uppsala/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 425094,
+    "datetime": "2023-05-09 15:59:55 +02:00",
+    "name": "09 maj 15:58, Stöld, Jönköping",
+    "summary": "Kiosk blev av med pengar",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1558-stold-jonkoping/",
+    "type": "Stöld",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 425113,
+    "datetime": "2023-05-09 18:45:38 +02:00",
+    "name": "09 maj 18:18, Brand, Malmö",
+    "summary": "Nyhamnen. Brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1818-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 425111,
     "datetime": "2023-05-09 18:16:10 +02:00",
     "name": "09 maj 18:14, Stöld, Norrköping",
@@ -168,18 +252,6 @@
     }
   },
   {
-    "id": 425094,
-    "datetime": "2023-05-09 15:59:55 +02:00",
-    "name": "09 maj 15:58, Stöld, Jönköping",
-    "summary": "Kiosk blev av med pengar",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1558-stold-jonkoping/",
-    "type": "Stöld",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
     "id": 425089,
     "datetime": "2023-05-09 15:13:46 +02:00",
     "name": "09 maj 13:28, Arbetsplatsolycka, Överkalix",
@@ -285,18 +357,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 425067,
-    "datetime": "2023-05-09 13:07:27 +02:00",
-    "name": "09 maj 12:30, Trafikolycka, Askersund",
-    "summary": "En olycka har inträffat i höjd med Tallhagen",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1230-trafikolycka-askersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norsjö",
       "gps": "64.913509,19.482641"
-    }
-  },
-  {
-    "id": 423262,
-    "datetime": "2023-05-03 10:50:46 +02:00",
-    "name": "03 maj 09:54, Trafikolycka, Mölndal",
-    "summary": "En personbil har kört in i ett räcke vid Lackarebäcksbron.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0954-trafikolycka-molndal/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 423254,
-    "datetime": "2023-05-03 10:11:09 +02:00",
-    "name": "03 maj 09:59, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat i Tormestad",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0959-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 423258,
-    "datetime": "2023-05-03 10:22:25 +02:00",
-    "name": "03 maj 09:57, Trafikbrott, Karlstad",
-    "summary": "En bilist är misstänkt för brott i Välsviken",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0957-trafikbrott-karlstad/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 423249,
-    "datetime": "2023-05-03 10:01:06 +02:00",
-    "name": "03 maj 09:46, Trafikolycka, personskada, Västerås",
-    "summary": "Person påbackad av fordon.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0946-trafikolycka-personskada-vasteras/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 423244,
-    "datetime": "2023-05-03 9:28:27 +02:00",
-    "name": "03 maj 09:13, Brand, Smedjebacken",
-    "summary": "Det brinner i en parkerad bil i Vad",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-0913-brand-smedjebacken/",
-    "type": "Brand",
-    "location": {
-      "name": "Smedjebacken",
-      "gps": "60.143193,15.415992"
     }
   }
 ]
