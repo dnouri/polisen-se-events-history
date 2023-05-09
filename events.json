@@ -1,14 +1,26 @@
 [
   {
-    "id": 425047,
-    "datetime": "2023-05-09 10:12:20 +02:00",
-    "name": "09 maj 10:01, Brand, Avesta",
-    "summary": "Det är rökutveckling från en lägenhet i centrum",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1001-brand-avesta/",
+    "id": 425052,
+    "datetime": "2023-05-09 10:40:42 +02:00",
+    "name": "09 maj 09:48, Rattfylleri, Skellefteå",
+    "summary": "En bilförare i Byske blåste positivt i polisens sållningsinstrument.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0948-rattfylleri-skelleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 425039,
+    "datetime": "2023-05-09 9:13:13 +02:00",
+    "name": "09 maj 08:54, Brand, Markaryd",
+    "summary": "Larm om brand i byggnader, utanför Strömsnäsbruk.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0854-brand-markaryd/",
     "type": "Brand",
     "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
     }
   },
   {
@@ -24,15 +36,15 @@
     }
   },
   {
-    "id": 425039,
-    "datetime": "2023-05-09 9:13:13 +02:00",
-    "name": "09 maj 08:54, Brand, Markaryd",
-    "summary": "Larm om brand i byggnader, utanför Strömsnäsbruk.",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0854-brand-markaryd/",
+    "id": 425047,
+    "datetime": "2023-05-09 10:12:20 +02:00",
+    "name": "09 maj 10:01, Brand, Avesta",
+    "summary": "Det är rökutveckling från en lägenhet i centrum",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1001-brand-avesta/",
     "type": "Brand",
     "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 423202,
-    "datetime": "2023-05-02 21:29:40 +02:00",
-    "name": "02 maj 19:14, Rattfylleri, Sunne",
-    "summary": "En person stoppas och blir misstänkt för drograttfylleri.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1914-rattfylleri-sunne/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
     }
   }
 ]
