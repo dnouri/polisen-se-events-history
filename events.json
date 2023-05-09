@@ -1,5 +1,65 @@
 [
   {
+    "id": 425012,
+    "datetime": "2023-05-09 8:16:14 +02:00",
+    "name": "09 maj 06:52, Trafikolycka, personskada, Halmstad",
+    "summary": "På riksväg 15 i Kistinge har två bilister kolliderat.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0652-trafikolycka-personskada-halmstad/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 425004,
+    "datetime": "2023-05-09 7:09:50 +02:00",
+    "name": "09 maj 06:50, Trafikolycka, Falun",
+    "summary": "En olycka har inträffat i centrum",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0650-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 425010,
+    "datetime": "2023-05-09 7:47:57 +02:00",
+    "name": "09 maj 07:47, Sammanfattning natt, Jönköpings län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0747-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 425007,
+    "datetime": "2023-05-09 7:47:51 +02:00",
+    "name": "09 maj 07:47, Sammanfattning natt, Södermanlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0747-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 425006,
+    "datetime": "2023-05-09 7:47:42 +02:00",
+    "name": "09 maj 07:47, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0747-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 425011,
     "datetime": "2023-05-09 7:41:57 +02:00",
     "name": "09 maj 07:41, Sammanfattning natt, Västerbottens län",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 425004,
-    "datetime": "2023-05-09 7:09:50 +02:00",
-    "name": "09 maj 06:50, Trafikolycka, Falun",
-    "summary": "En olycka har inträffat i centrum",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0650-trafikolycka-falun/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 423193,
-    "datetime": "2023-05-02 18:59:55 +02:00",
-    "name": "02 maj 18:47, Brand, Burlöv",
-    "summary": "Brand i lägenhet, Burlöv.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1847-brand-burlov/",
-    "type": "Brand",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 423199,
-    "datetime": "2023-05-02 20:50:28 +02:00",
-    "name": "02 maj 18:19, Rattfylleri, Piteå",
-    "summary": "Piteå, misstänkt drograttfylleri.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1819-rattfylleri-pitea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 423197,
-    "datetime": "2023-05-02 19:40:00 +02:00",
-    "name": "02 maj 18:07, Djur, Kristianstad",
-    "summary": "Misstänkt djurplågeri, Fjälkinge.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1807-djur-kristianstad/",
-    "type": "Djur",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 423196,
-    "datetime": "2023-05-02 19:20:16 +02:00",
-    "name": "02 maj 19:20, Trafikolycka, Eskilstuna",
-    "summary": "Trafikolycka på E20, Svista.",
-    "url": "/aktuellt/handelser/2023/maj/2/02-maj-1920-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   }
 ]
