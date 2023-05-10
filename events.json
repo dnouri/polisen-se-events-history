@@ -1,14 +1,38 @@
 [
   {
-    "id": 425170,
-    "datetime": "2023-05-10 11:31:04 +02:00",
-    "name": "10 maj 11:30, Trafikkontroll, Jämtlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1130-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
+    "id": 425217,
+    "datetime": "2023-05-10 15:24:44 +02:00",
+    "name": "10 maj 14:53, Brand, Köping",
+    "summary": "Larm inkommer om brand i ett flerfamiljshus i Köping.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1453-brand-koping/",
+    "type": "Brand",
     "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 425214,
+    "datetime": "2023-05-10 15:14:14 +02:00",
+    "name": "10 maj 14:08, Bråk, Göteborg",
+    "summary": "Bråk mellan ett 40-tal ungdomar på Lindholmen enligt vittnen.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1408-brak-goteborg/",
+    "type": "Bråk",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 425147,
+    "datetime": "2023-05-10 8:34:49 +02:00",
+    "name": "10 maj 07:58, Brand, Hultsfred",
+    "summary": "Larm om brand söder om Hultsfred",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0758-brand-hultsfred/",
+    "type": "Brand",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
     }
   },
   {
@@ -21,6 +45,42 @@
     "location": {
       "name": "Karlsborg",
       "gps": "58.530085,14.510566"
+    }
+  },
+  {
+    "id": 425185,
+    "datetime": "2023-05-10 12:57:48 +02:00",
+    "name": "10 maj 12:58, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1258-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 425189,
+    "datetime": "2023-05-10 13:31:57 +02:00",
+    "name": "10 maj 13:31, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1331-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 425170,
+    "datetime": "2023-05-10 11:31:04 +02:00",
+    "name": "10 maj 11:30, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1130-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -120,18 +180,6 @@
     }
   },
   {
-    "id": 425189,
-    "datetime": "2023-05-10 13:31:57 +02:00",
-    "name": "10 maj 13:31, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1331-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
     "id": 425188,
     "datetime": "2023-05-10 13:20:15 +02:00",
     "name": "10 maj 13:18, Fylleri/LOB, Sundsvall",
@@ -141,18 +189,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 425185,
-    "datetime": "2023-05-10 12:57:48 +02:00",
-    "name": "10 maj 12:58, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1258-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -369,18 +405,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 425147,
-    "datetime": "2023-05-10 8:34:49 +02:00",
-    "name": "10 maj 07:58, Brand, Hultsfred",
-    "summary": "Larm om brand söder om Hultsfred",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0758-brand-hultsfred/",
-    "type": "Brand",
-    "location": {
-      "name": "Hultsfred",
-      "gps": "57.49484,15.841651"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Nordanstig",
       "gps": "62.036668,17.205249"
-    }
-  },
-  {
-    "id": 423393,
-    "datetime": "2023-05-04 7:27:45 +02:00",
-    "name": "04 maj 07:27, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-0727-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 423387,
-    "datetime": "2023-05-04 7:23:54 +02:00",
-    "name": "04 maj 07:23, Sammanfattning natt, Jönköpings län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-0723-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
