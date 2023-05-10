@@ -1,5 +1,113 @@
 [
   {
+    "id": 425145,
+    "datetime": "2023-05-10 7:39:52 +02:00",
+    "name": "10 maj 07:38, Brand, Växjö",
+    "summary": "Det brinner i en restaurang i Braås och polis larmas till platsen för kontroll.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0738-brand-vaxjo/",
+    "type": "Brand",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 425144,
+    "datetime": "2023-05-10 7:39:23 +02:00",
+    "name": "10 maj 07:38, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0738-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 425143,
+    "datetime": "2023-05-10 7:31:10 +02:00",
+    "name": "10 maj 00:49, Brand, Västervik",
+    "summary": "Polis, räddningstjänst och ambulans larmas till Ankarsrum med anledning av en brand i ett flerfamiljshus.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0049-brand-vastervik/",
+    "type": "Brand",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 425142,
+    "datetime": "2023-05-10 7:29:54 +02:00",
+    "name": "10 maj 07:29, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0729-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 425136,
+    "datetime": "2023-05-10 7:28:28 +02:00",
+    "name": "10 maj 07:28, Sammanfattning natt, Södermanlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0728-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 425139,
+    "datetime": "2023-05-10 7:28:24 +02:00",
+    "name": "10 maj 07:28, Sammanfattning natt, Jönköpings län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0728-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 425130,
+    "datetime": "2023-05-10 7:28:20 +02:00",
+    "name": "10 maj 07:28, Sammanfattning natt, Östergötlands län",
+    "summary": "Inga ärenden som sticker ut polisiärt i polisområdet.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0728-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 425141,
+    "datetime": "2023-05-10 7:27:28 +02:00",
+    "name": "10 maj 03:09, Mord/dråp, försök, Göteborg",
+    "summary": "Skadad man i lägenhet",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0309-morddrap-forsok-goteborg/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 425140,
+    "datetime": "2023-05-10 7:25:42 +02:00",
+    "name": "10 maj 02:19, Inbrott, försök, Stockholm",
+    "summary": "En inringare i Hägesten hörde av sig angående att han hört skrammel och sedan sett en person springa iväg.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0219-inbrott-forsok-stockholm/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 425138,
     "datetime": "2023-05-10 7:20:06 +02:00",
     "name": "10 maj 05:36, Olaga intrång, Stockholm",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 423329,
-    "datetime": "2023-05-03 17:18:12 +02:00",
-    "name": "03 maj 15:32, Arbetsplatsolycka, Örebro",
-    "summary": "En man i trettiofemårsåldern föll ur en truck vid en postterminal i Örebro vid halv fyra-tiden idag.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1532-arbetsplatsolycka-orebro/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 423334,
-    "datetime": "2023-05-03 16:58:41 +02:00",
-    "name": "03 maj 14:15, Trafikolycka, Halmstad",
-    "summary": "I Simlångsdalen har en lastbil kört av vägen.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1415-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 423331,
-    "datetime": "2023-05-03 16:29:27 +02:00",
-    "name": "03 maj 15:06, Misshandel, Hörby",
-    "summary": "På Storgatan har en man i 30-årsåldern blivit misshandlad.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1506-misshandel-horby/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
-    }
-  },
-  {
-    "id": 423327,
-    "datetime": "2023-05-03 16:15:53 +02:00",
-    "name": "03 maj 15:35, Trafikolycka, personskada, Orsa",
-    "summary": "En person har förts till sjukhus med oklara skador efter en trafikolycka på riksväg 296 vid Skattungbyn.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1535-trafikolycka-personskada-orsa/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
-    }
-  },
-  {
-    "id": 423326,
-    "datetime": "2023-05-03 16:12:35 +02:00",
-    "name": "03 maj 14:51, Trafikolycka, personskada, Borlänge",
-    "summary": "En man i 85-årsåldern har förts till sjukhus efter en trafikolycka i centrala Borlänge.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1451-trafikolycka-personskada-borlange/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 423313,
-    "datetime": "2023-05-03 14:59:28 +02:00",
-    "name": "03 maj 12:23, Stöld, Umeå",
-    "summary": "Misstänkt stöld i butik i centrala Umeå.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1223-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 423310,
-    "datetime": "2023-05-03 14:45:52 +02:00",
-    "name": "03 maj 14:32, Övrigt, Markaryd",
-    "summary": "Uppdatering gällande branden i Markaryd natten till den 1 maj.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1432-ovrigt-markaryd/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 423309,
-    "datetime": "2023-05-03 14:41:59 +02:00",
-    "name": "03 maj 11:54, Stöld, Östersund",
-    "summary": "Misstänkt stöld i butik i centrala Östersund.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1154-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 423292,
-    "datetime": "2023-05-03 12:59:27 +02:00",
-    "name": "03 maj 12:59, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1259-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
