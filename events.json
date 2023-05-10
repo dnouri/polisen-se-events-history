@@ -1,5 +1,65 @@
 [
   {
+    "id": 425173,
+    "datetime": "2023-05-10 11:36:34 +02:00",
+    "name": "10 maj 11:15, Rattfylleri, Hjo",
+    "summary": "Positivt blås, trafikkontroll",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1115-rattfylleri-hjo/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Hjo",
+      "gps": "58.30707,14.287466"
+    }
+  },
+  {
+    "id": 425161,
+    "datetime": "2023-05-10 10:32:48 +02:00",
+    "name": "10 maj 10:13, Trafikhinder, Timrå",
+    "summary": "Trafikhinder på E4 Vivsta, Timrå.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1013-trafikhinder-timra/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 425157,
+    "datetime": "2023-05-10 10:07:49 +02:00",
+    "name": "10 maj 08:51, Trafikolycka, smitning från, Örebro",
+    "summary": "En olycka har inträffat i Runnaby",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0851-trafikolycka-smitning-fran-orebro/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 425171,
+    "datetime": "2023-05-10 11:32:44 +02:00",
+    "name": "10 maj 09:46, Motorfordon, anträffat stulet, Örnsköldsvik",
+    "summary": "Stulen bil anträffad utanför Örnsköldsvik.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0946-motorfordon-antraffat-stulet-ornskoldsvik/",
+    "type": "Motorfordon, anträffat stulet",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 425170,
+    "datetime": "2023-05-10 11:31:04 +02:00",
+    "name": "10 maj 11:30, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1130-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 425141,
     "datetime": "2023-05-10 7:27:28 +02:00",
     "name": "10 maj 03:09, Mord/dråp, försök, Göteborg",
@@ -60,18 +120,6 @@
     }
   },
   {
-    "id": 425161,
-    "datetime": "2023-05-10 10:32:48 +02:00",
-    "name": "10 maj 10:13, Trafikhinder, Timrå",
-    "summary": "Trafikhinder på E4 Vivsta, Timrå.",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1013-trafikhinder-timra/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
     "id": 425160,
     "datetime": "2023-05-10 10:56:27 +02:00",
     "name": "10 maj 09:58, Trafikbrott, Köping",
@@ -93,18 +141,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 425157,
-    "datetime": "2023-05-10 10:07:49 +02:00",
-    "name": "10 maj 08:51, Trafikolycka, smitning från, Örebro",
-    "summary": "En olycka har inträffat i Runnaby",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0851-trafikolycka-smitning-fran-orebro/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 423367,
-    "datetime": "2023-05-03 21:43:16 +02:00",
-    "name": "03 maj 21:17, Brand, Falun",
-    "summary": "Polisen biträder räddningstjänsten vid en brand i byggnad i Falun.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-2117-brand-falun/",
-    "type": "Brand",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 423361,
-    "datetime": "2023-05-03 21:13:14 +02:00",
-    "name": "03 maj 14:31, Rattfylleri, Sollefteå",
-    "summary": "Sollefteå, bilist stoppas för kontroll",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1431-rattfylleri-solleftea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 423363,
-    "datetime": "2023-05-03 21:05:18 +02:00",
-    "name": "03 maj 18:20, Trafikolycka, personskada, Östergötlands län",
-    "summary": "Två bilar i krock.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1820-trafikolycka-personskada-ostergotlands-lan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
