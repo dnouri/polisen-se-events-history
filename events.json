@@ -1,5 +1,65 @@
 [
   {
+    "id": 425159,
+    "datetime": "2023-05-10 10:08:30 +02:00",
+    "name": "10 maj 08:01, Trafikkontroll, Kiruna",
+    "summary": "Flygande besiktning av A-traktor i Kiruna.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0801-trafikkontroll-kiruna/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 425158,
+    "datetime": "2023-05-10 10:08:13 +02:00",
+    "name": "10 maj 09:07, Trafikolycka, Växjö",
+    "summary": "Larm om trafikolycka, LV719 Öjaby",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0907-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 425157,
+    "datetime": "2023-05-10 10:07:49 +02:00",
+    "name": "10 maj 08:51, Trafikolycka, smitning från, Örebro",
+    "summary": "En olycka har inträffat i Runnaby",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0851-trafikolycka-smitning-fran-orebro/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 425156,
+    "datetime": "2023-05-10 10:03:33 +02:00",
+    "name": "10 maj 08:31, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Stora Mellösa",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0831-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 425154,
+    "datetime": "2023-05-10 9:44:19 +02:00",
+    "name": "10 maj 08:39, Motorfordon, stöld, Gävle",
+    "summary": "Motorcykel stulen vid inbrott.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0839-motorfordon-stold-gavle/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 425153,
     "datetime": "2023-05-10 9:40:02 +02:00",
     "name": "10 maj 05:19, Stöld/inbrott, Söderhamn",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 423353,
-    "datetime": "2023-05-03 19:15:38 +02:00",
-    "name": "03 maj 17:46, Rattfylleri, Karlstad",
-    "summary": "Man i trettiofemårsåldern misstänks för rattfylleri efter kontroll i västra delarna av Karlstad.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1746-rattfylleri-karlstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 423294,
-    "datetime": "2023-05-03 13:07:27 +02:00",
-    "name": "03 maj 13:02, Brand, Vänersborg",
-    "summary": "Det brinner i en ladugård utanför Vänersborg.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1302-brand-vanersborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 423350,
-    "datetime": "2023-05-03 19:00:30 +02:00",
-    "name": "03 maj 15:13, Olaga intrång, Stockholm",
-    "summary": "Någon har tagit sig in i en lägenhet som ska vara obebodd.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1513-olaga-intrang-stockholm/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 423351,
-    "datetime": "2023-05-03 19:00:26 +02:00",
-    "name": "03 maj 15:18, Misshandel, Nynäshamn",
-    "summary": "En man förs till sjukhus efter att ha blivit misshandlad.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1518-misshandel-nynashamn/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 423352,
-    "datetime": "2023-05-03 19:00:22 +02:00",
-    "name": "03 maj 17:10, Knivlagen, Stockholm",
-    "summary": "En man med kniv brottas ner på Gullmarsplan.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1710-knivlagen-stockholm/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
