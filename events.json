@@ -1,5 +1,53 @@
 [
   {
+    "id": 425141,
+    "datetime": "2023-05-10 7:27:28 +02:00",
+    "name": "10 maj 03:09, Mord/dråp, försök, Göteborg",
+    "summary": "Skadad man i lägenhet",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0309-morddrap-forsok-goteborg/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 425168,
+    "datetime": "2023-05-10 11:14:57 +02:00",
+    "name": "10 maj 11:09, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1109-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 425167,
+    "datetime": "2023-05-10 11:09:49 +02:00",
+    "name": "10 maj 11:09, Trafikkontroll, Umeå",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1109-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 425165,
+    "datetime": "2023-05-10 11:04:45 +02:00",
+    "name": "10 maj 10:57, Uppdatering, Karlstad",
+    "summary": "Ytterligare en man är frihetsberövad med anledning av mordet på Drottninggatan i helgen",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1057-uppdatering-karlstad/",
+    "type": "Uppdatering",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 425163,
     "datetime": "2023-05-10 10:41:46 +02:00",
     "name": "10 maj 10:41, Trafikolycka, Nässjö",
@@ -12,18 +60,6 @@
     }
   },
   {
-    "id": 425162,
-    "datetime": "2023-05-10 10:38:04 +02:00",
-    "name": "10 maj 10:31, Trafikolycka, Falun",
-    "summary": "En olycka har inträffat i Aspeboda",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1031-trafikolycka-falun/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
     "id": 425161,
     "datetime": "2023-05-10 10:32:48 +02:00",
     "name": "10 maj 10:13, Trafikhinder, Timrå",
@@ -33,6 +69,90 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 425160,
+    "datetime": "2023-05-10 10:56:27 +02:00",
+    "name": "10 maj 09:58, Trafikbrott, Köping",
+    "summary": "Man utan körkort stoppades av polispatrull.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0958-trafikbrott-koping/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 425148,
+    "datetime": "2023-05-10 8:37:27 +02:00",
+    "name": "10 maj 08:19, Trafikolycka, Växjö",
+    "summary": "Larm om trafikolycka, Araby",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0819-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 425157,
+    "datetime": "2023-05-10 10:07:49 +02:00",
+    "name": "10 maj 08:51, Trafikolycka, smitning från, Örebro",
+    "summary": "En olycka har inträffat i Runnaby",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0851-trafikolycka-smitning-fran-orebro/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 425158,
+    "datetime": "2023-05-10 10:08:13 +02:00",
+    "name": "10 maj 09:07, Trafikolycka, Växjö",
+    "summary": "Larm om trafikolycka, LV719 Öjaby",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0907-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 425147,
+    "datetime": "2023-05-10 8:34:49 +02:00",
+    "name": "10 maj 07:58, Brand, Hultsfred",
+    "summary": "Larm om brand söder om Hultsfred",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0758-brand-hultsfred/",
+    "type": "Brand",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
+    }
+  },
+  {
+    "id": 425164,
+    "datetime": "2023-05-10 10:49:08 +02:00",
+    "name": "10 maj 09:27, Skadegörelse, Kristinehamn",
+    "summary": "Någon har eldat i en papperskorg i Djurgården",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0927-skadegorelse-kristinehamn/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 425162,
+    "datetime": "2023-05-10 10:38:04 +02:00",
+    "name": "10 maj 10:31, Trafikolycka, Falun",
+    "summary": "En olycka har inträffat i Aspeboda",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1031-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -57,30 +177,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 425158,
-    "datetime": "2023-05-10 10:08:13 +02:00",
-    "name": "10 maj 09:07, Trafikolycka, Växjö",
-    "summary": "Larm om trafikolycka, LV719 Öjaby",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0907-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 425157,
-    "datetime": "2023-05-10 10:07:49 +02:00",
-    "name": "10 maj 08:51, Trafikolycka, smitning från, Örebro",
-    "summary": "En olycka har inträffat i Runnaby",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0851-trafikolycka-smitning-fran-orebro/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -129,30 +225,6 @@
     "location": {
       "name": "Avesta",
       "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 425148,
-    "datetime": "2023-05-10 8:37:27 +02:00",
-    "name": "10 maj 08:19, Trafikolycka, Växjö",
-    "summary": "Larm om trafikolycka, Araby",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0819-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 425147,
-    "datetime": "2023-05-10 8:34:49 +02:00",
-    "name": "10 maj 07:58, Brand, Hultsfred",
-    "summary": "Larm om brand söder om Hultsfred",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0758-brand-hultsfred/",
-    "type": "Brand",
-    "location": {
-      "name": "Hultsfred",
-      "gps": "57.49484,15.841651"
     }
   },
   {
@@ -249,18 +321,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 425141,
-    "datetime": "2023-05-10 7:27:28 +02:00",
-    "name": "10 maj 03:09, Mord/dråp, försök, Göteborg",
-    "summary": "Skadad man i lägenhet",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-0309-morddrap-forsok-goteborg/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 423362,
-    "datetime": "2023-05-03 20:22:43 +02:00",
-    "name": "03 maj 19:34, Brand, Ängelholm",
-    "summary": "På E6 strax söder om Ängelholm har en bil börjat brinna under färd.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1934-brand-angelholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 423360,
-    "datetime": "2023-05-03 20:20:50 +02:00",
-    "name": "03 maj 19:32, Övrigt, Västerås",
-    "summary": "Larm om smällare.",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1932-ovrigt-vasteras/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 423358,
-    "datetime": "2023-05-03 20:11:55 +02:00",
-    "name": "03 maj 17:30, Narkotikabrott, Skellefteå",
-    "summary": "Centrum, kvinna stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1730-narkotikabrott-skelleftea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 423357,
-    "datetime": "2023-05-03 20:06:14 +02:00",
-    "name": "03 maj 17:08, Fjällräddning, Vilhelmina",
-    "summary": "Stekenjokk, larm inkommer om kvinna som ramlat och gjort sig illa",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1708-fjallraddning-vilhelmina/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 423356,
-    "datetime": "2023-05-03 19:55:03 +02:00",
-    "name": "03 maj 16:21, Stöld, Umeå",
-    "summary": "Haga, polis kontaktas gällande misstänkt försök till stöld vid ett förråd",
-    "url": "/aktuellt/handelser/2023/maj/3/03-maj-1621-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
