@@ -1,5 +1,41 @@
 [
   {
+    "id": 425413,
+    "datetime": "2023-05-11 9:16:40 +02:00",
+    "name": "11 maj 08:34, Övrigt, Köping",
+    "summary": "Skadad person anträffad i Köping.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-0834-ovrigt-koping/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 425415,
+    "datetime": "2023-05-11 9:09:13 +02:00",
+    "name": "11 maj 08:33, Trafikolycka, singel, Stockholm",
+    "summary": "Polis och ambulans kallas till Örbyleden i södergående riktning med anledning av en singelolycka.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-0833-trafikolycka-singel-stockholm/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 425412,
+    "datetime": "2023-05-11 9:03:29 +02:00",
+    "name": "11 maj 07:34, Trafikolycka, Kristinehamn",
+    "summary": "En singelolycka med motorcykel har inträffat i Krisinehamn.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-0734-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
     "id": 425409,
     "datetime": "2023-05-11 8:35:46 +02:00",
     "name": "11 maj 08:28, Brand, Borås",
@@ -134,13 +170,13 @@
   {
     "id": 425401,
     "datetime": "2023-05-11 7:22:33 +02:00",
-    "name": "11 maj 07:22, Sammanfattning natt, Norrbottens län",
+    "name": "11 maj 07:22, Sammanfattning natt, Västerbottens län",
     "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2023/maj/11/11-maj-0722-sammanfattning-natt-norrbottens-lan/",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-0722-sammanfattning-natt-vasterbottens-lan/",
     "type": "Sammanfattning natt",
     "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Lomma",
       "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 423488,
-    "datetime": "2023-05-04 16:48:38 +02:00",
-    "name": "04 maj 15:25, Fylleri/LOB, Umeå",
-    "summary": "Tomtebo, polis kontaktas gällande berusad man utomhus",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1525-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 423487,
-    "datetime": "2023-05-04 16:44:22 +02:00",
-    "name": "04 maj 16:31, Trafikkontroll, Örnsköldsvik",
-    "summary": "Hästmarksvägen, resultat efter nykterhetskontroll i trafiken",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1631-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 423480,
-    "datetime": "2023-05-04 16:01:40 +02:00",
-    "name": "04 maj 15:18, Trafikolycka, singel, Göteborg",
-    "summary": "På Klimatgatan har en personbil kört in i en bergvägg. Skador oklart. Polis på väg.",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1518-trafikolycka-singel-goteborg/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
