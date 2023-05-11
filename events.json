@@ -1,5 +1,65 @@
 [
   {
+    "id": 425459,
+    "datetime": "2023-05-11 12:30:15 +02:00",
+    "name": "11 maj 11:55, Mord/dråp, försök, Helsingborg",
+    "summary": "Två personer förs till sjukhus efter misstänkt skottlossning.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-1155-morddrap-forsok-helsingborg/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 425085,
+    "datetime": "2023-05-09 15:01:04 +02:00",
+    "name": "09 maj 15:00, Försvunnen person, Boden",
+    "summary": "Boden, polisen behöver allmänhetens hjälp med att hitta försvunnen kvinna.",
+    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1500-forsvunnen-person-boden/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 425487,
+    "datetime": "2023-05-11 15:02:45 +02:00",
+    "name": "11 maj 12:39, Rattfylleri, Kristinehamn",
+    "summary": "Polispatrull har stoppat en misstänkt påverkad bilist på Rv 26, Kristinehamn.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-1239-rattfylleri-kristinehamn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 425480,
+    "datetime": "2023-05-11 14:57:04 +02:00",
+    "name": "11 maj 14:10, Misshandel, grov, Göteborg",
+    "summary": "På Färgfabriksgatan har en kvinna i 60-årsåldern blivit knivskuren i ena armen.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-1410-misshandel-grov-goteborg/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 425484,
+    "datetime": "2023-05-11 14:46:05 +02:00",
+    "name": "11 maj 14:05, Trafikkontroll, Gällivare",
+    "summary": "Resultat efter trafikkontroll på länsväg 828, Apelqvistheden.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-1405-trafikkontroll-gallivare/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
     "id": 425476,
     "datetime": "2023-05-11 13:43:40 +02:00",
     "name": "11 maj 13:27, Trafikolycka, singel, Karlstad",
@@ -129,18 +189,6 @@
     "location": {
       "name": "Enköping",
       "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 425459,
-    "datetime": "2023-05-11 12:30:15 +02:00",
-    "name": "11 maj 11:55, Skottlossning, Helsingborg",
-    "summary": "Två personer förs till sjukhus efter misstänkt skottlossning.",
-    "url": "/aktuellt/handelser/2023/maj/11/11-maj-1155-skottlossning-helsingborg/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -2121,18 +2169,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425085,
-    "datetime": "2023-05-09 15:01:04 +02:00",
-    "name": "09 maj 15:00, Försvunnen person, Boden",
-    "summary": "Boden, polisen behöver allmänhetens hjälp med att hitta försvunnen kvinna.",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-1500-forsvunnen-person-boden/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 423525,
-    "datetime": "2023-05-05 6:59:51 +02:00",
-    "name": "05 maj 07:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av kvällens och nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 423526,
-    "datetime": "2023-05-05 6:58:25 +02:00",
-    "name": "05 maj 02:39, Brand, Ronneby",
-    "summary": "Skadegörelse på skola i Kallinge.",
-    "url": "/aktuellt/handelser/2023/maj/5/05-maj-0239-brand-ronneby/",
-    "type": "Brand",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 423516,
-    "datetime": "2023-05-04 21:32:31 +02:00",
-    "name": "04 maj 20:30, Försvunnen person, Linköping",
-    "summary": "Försvunnen person i Ljungsbro. ANTRÄFFAD VID LIV.",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-2030-forsvunnen-person-linkoping/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   }
 ]
