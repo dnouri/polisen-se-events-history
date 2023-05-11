@@ -1,5 +1,17 @@
 [
   {
+    "id": 425450,
+    "datetime": "2023-05-11 11:08:38 +02:00",
+    "name": "11 maj 10:45, Trafikolycka, Borlänge",
+    "summary": "En trafikolycka mellan buss och cyklist har inträffat i Borlänge.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-1045-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 425438,
     "datetime": "2023-05-11 10:43:08 +02:00",
     "name": "11 maj 10:26, Brand, Stockholm",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 425449,
+    "datetime": "2023-05-11 10:58:58 +02:00",
+    "name": "11 maj 10:52, Övrigt, Kristianstad",
+    "summary": "Polisen har under gårdagen inlett en förundersökning om förberedelse till mord",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-1052-ovrigt-kristianstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 425448,
+    "datetime": "2023-05-11 10:55:29 +02:00",
+    "name": "11 maj 10:27, Trafikolycka, vilt, Umeå",
+    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 534, Hössjö.",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-1027-trafikolycka-vilt-umea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 425401,
+    "datetime": "2023-05-11 7:22:33 +02:00",
+    "name": "11 maj 07:22, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
+    "url": "/aktuellt/handelser/2023/maj/11/11-maj-0722-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -69,18 +117,6 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 425401,
-    "datetime": "2023-05-11 7:22:33 +02:00",
-    "name": "11 maj 07:22, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2023/maj/11/11-maj-0722-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Degerfors",
       "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 423501,
-    "datetime": "2023-05-04 18:56:24 +02:00",
-    "name": "04 maj 18:18, Rån, Tingsryd",
-    "summary": "På Storgatan i Almundsryd har en man i 65-årsåldern blivit utsatt för ett rånförsök.",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1818-ran-tingsryd/",
-    "type": "Rån",
-    "location": {
-      "name": "Tingsryd",
-      "gps": "56.524745,14.978534"
-    }
-  },
-  {
-    "id": 423502,
-    "datetime": "2023-05-04 18:55:19 +02:00",
-    "name": "04 maj 16:32, Farligt föremål, misstänkt, Karlstad",
-    "summary": "Polis och räddningstjänst hanterar ett misstänkt farligt föremål i centrala Karlstad.",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1632-farligt-foremal-misstankt-karlstad/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 423495,
-    "datetime": "2023-05-04 18:33:12 +02:00",
-    "name": "04 maj 14:57, Trafikolycka, Bjurholm",
-    "summary": "Bjurholm, en olycka har inträffat på en gård tidigare i dag",
-    "url": "/aktuellt/handelser/2023/maj/4/04-maj-1457-trafikolycka-bjurholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bjurholm",
-      "gps": "63.930406,19.219213"
     }
   }
 ]
