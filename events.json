@@ -1,5 +1,41 @@
 [
   {
+    "id": 425252,
+    "datetime": "2023-05-10 20:12:54 +02:00",
+    "name": "10 maj 16:34, Rån, Tranås",
+    "summary": "Rånförsök i Tranås.",
+    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1634-ran-tranas/",
+    "type": "Rån",
+    "location": {
+      "name": "Tranås",
+      "gps": "58.035518,14.975696"
+    }
+  },
+  {
+    "id": 425628,
+    "datetime": "2023-05-12 16:03:22 +02:00",
+    "name": "12 maj 15:14, Vapenlagen, Kalmar",
+    "summary": "Man med vapenliknande föremål i Oxhagen.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1514-vapenlagen-kalmar/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 425627,
+    "datetime": "2023-05-12 16:02:29 +02:00",
+    "name": "12 maj 16:02, Trafikolycka, Värnamo",
+    "summary": "Bilist i olycka på länsväg 619 utanför Herrestad.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1602-trafikolycka-varnamo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
     "id": 425625,
     "datetime": "2023-05-12 15:30:11 +02:00",
     "name": "12 maj 14:18, Våld/hot mot tjänsteman, Stockholm",
@@ -1821,18 +1857,6 @@
     "location": {
       "name": "Finspång",
       "gps": "58.707488,15.773595"
-    }
-  },
-  {
-    "id": 425252,
-    "datetime": "2023-05-10 20:12:54 +02:00",
-    "name": "10 maj 16:34, Rån, Tranås",
-    "summary": "Rånförsök i Tranås",
-    "url": "/aktuellt/handelser/2023/maj/10/10-maj-1634-ran-tranas/",
-    "type": "Rån",
-    "location": {
-      "name": "Tranås",
-      "gps": "58.035518,14.975696"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 423664,
-    "datetime": "2023-05-06 7:08:33 +02:00",
-    "name": "06 maj 00:10, Brand, Enköping",
-    "summary": "Brand i villa.",
-    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0010-brand-enkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 423663,
-    "datetime": "2023-05-06 7:07:58 +02:00",
-    "name": "06 maj 01:08, Mord/dråp, försök, Malmö",
-    "summary": "En man i 18-årsåldern skadas med vasst föremål på Augustenborg.",
-    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0108-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
