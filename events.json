@@ -1,5 +1,41 @@
 [
   {
+    "id": 425646,
+    "datetime": "2023-05-12 20:29:00 +02:00",
+    "name": "12 maj 20:18, Brand, Malmö",
+    "summary": "Brand på Sallerupsvägen.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-2018-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 425642,
+    "datetime": "2023-05-12 19:27:51 +02:00",
+    "name": "12 maj 14:14, Stöld, Nacka",
+    "summary": "Ordningsvakter omhändertog en man som störde ordningen i centrumanläggningen.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1414-stold-nacka/",
+    "type": "Stöld",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 425640,
+    "datetime": "2023-05-12 20:24:50 +02:00",
+    "name": "12 maj 18:53, Brand, Nacka",
+    "summary": "Polisen misstänker att villabranden är anlagd.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1853-brand-nacka/",
+    "type": "Brand",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
     "id": 425645,
     "datetime": "2023-05-12 20:09:32 +02:00",
     "name": "12 maj 19:04, Brand, Lilla edet",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Skövde",
       "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 425642,
-    "datetime": "2023-05-12 19:27:51 +02:00",
-    "name": "12 maj 14:14, Stöld, Nacka",
-    "summary": "Ordningsvakter omhändertog en man som störde ordningen i centrumanläggningen.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1414-stold-nacka/",
-    "type": "Stöld",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 423679,
-    "datetime": "2023-05-06 7:50:33 +02:00",
-    "name": "06 maj 00:22, Skadegörelse, Haninge",
-    "summary": "En kvinna i Brandbergen ringde in om att denne hört en smäll och därefter upptäckt att en ruta i portuppgången",
-    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0022-skadegorelse-haninge/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 423678,
-    "datetime": "2023-05-06 7:47:42 +02:00",
-    "name": "06 maj 01:41, Brand, Hammarö",
-    "summary": "Gräsbrand.",
-    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0141-brand-hammaro/",
-    "type": "Brand",
-    "location": {
-      "name": "Hammarö",
-      "gps": "59.311466,13.529854"
     }
   }
 ]
