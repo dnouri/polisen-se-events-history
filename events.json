@@ -1,5 +1,53 @@
 [
   {
+    "id": 425645,
+    "datetime": "2023-05-12 20:09:32 +02:00",
+    "name": "12 maj 19:04, Brand, Lilla edet",
+    "summary": "Det brinner i terrängen i kommundelen Ström.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1904-brand-lilla-edet/",
+    "type": "Brand",
+    "location": {
+      "name": "Lilla edet",
+      "gps": "58.132158,12.124134"
+    }
+  },
+  {
+    "id": 425644,
+    "datetime": "2023-05-12 19:56:31 +02:00",
+    "name": "12 maj 16:16, Kontroll person/fordon, Salem",
+    "summary": "Polisen fick ut den man som blivit inlåst på en återvinningscentral.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1616-kontroll-personfordon-salem/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Salem",
+      "gps": "59.20768,17.774222"
+    }
+  },
+  {
+    "id": 425643,
+    "datetime": "2023-05-12 19:52:47 +02:00",
+    "name": "12 maj 19:27, Kontroll person/fordon, Stockholms län",
+    "summary": "Socialtjänstens personal kom till det köpcentrum som polisen var i tillsammans med en förälder och två barn.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1927-kontroll-personfordon-stockholms-lan/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 425633,
+    "datetime": "2023-05-12 18:01:12 +02:00",
+    "name": "12 maj 17:43, Trafikolycka, Skövde",
+    "summary": "En lastbil och en personbil har kolliderat på länsväg 49, utanför Tibro.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1743-trafikolycka-skovde/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
     "id": 425642,
     "datetime": "2023-05-12 19:27:51 +02:00",
     "name": "12 maj 14:14, Stöld, Nacka",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425633,
-    "datetime": "2023-05-12 18:01:12 +02:00",
-    "name": "12 maj 17:43, Trafikolycka, Skövde",
-    "summary": "En lastbil och en personbil har kolliderat på länsväg 49, utanför Tibro.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1743-trafikolycka-skovde/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skövde",
-      "gps": "58.390278,13.846121"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Hammarö",
       "gps": "59.311466,13.529854"
-    }
-  },
-  {
-    "id": 423677,
-    "datetime": "2023-05-06 7:47:28 +02:00",
-    "name": "06 maj 07:47, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0747-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 423676,
-    "datetime": "2023-05-06 7:47:12 +02:00",
-    "name": "06 maj 00:03, Misshandel, Gotland",
-    "summary": "En man i Länna ringde in om att denne blivit misshandlad av ett antal personer. Mannen avböjde ambulans.",
-    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0003-misshandel-gotland/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Gotland",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 423675,
-    "datetime": "2023-05-06 7:44:36 +02:00",
-    "name": "06 maj 00:54, Rattfylleri, Huddinge",
-    "summary": "En bilist i Huddinge kontrollerades misstänkt för rattfylleri. Personen blåste positivt i sållningsinstrumente",
-    "url": "/aktuellt/handelser/2023/maj/6/06-maj-0054-rattfylleri-huddinge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
     }
   }
 ]
