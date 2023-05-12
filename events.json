@@ -1,5 +1,53 @@
 [
   {
+    "id": 425610,
+    "datetime": "2023-05-12 13:41:11 +02:00",
+    "name": "12 maj 10:29, Narkotikabrott, Åre",
+    "summary": "Åre kommun, misstänkt narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1029-narkotikabrott-are/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 425601,
+    "datetime": "2023-05-12 12:59:58 +02:00",
+    "name": "12 maj 12:45, Trafikolycka, Sundsvall",
+    "summary": "Sundsvall, trafikolycka i Stenstan.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1245-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 425593,
+    "datetime": "2023-05-12 13:23:11 +02:00",
+    "name": "12 maj 11:47, Trafikolycka, Öckerö",
+    "summary": "Trafikolycka med mopedist/personbil på Öckerö.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1147-trafikolycka-ockero/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Öckerö",
+      "gps": "57.711741,11.648789"
+    }
+  },
+  {
+    "id": 425606,
+    "datetime": "2023-05-12 13:20:28 +02:00",
+    "name": "12 maj 13:08, Trafikolycka, singel, Gagnef",
+    "summary": "En presonbil har körts i diket utefter E16 i höjd med långsjön, strax väster om Mockfjärd.",
+    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1308-trafikolycka-singel-gagnef/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Gagnef",
+      "gps": "60.590983,15.070049"
+    }
+  },
+  {
     "id": 425587,
     "datetime": "2023-05-12 13:07:04 +02:00",
     "name": "12 maj 13:07, Trafikkontroll, Norrbottens län",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 425601,
-    "datetime": "2023-05-12 12:59:58 +02:00",
-    "name": "12 maj 12:45, Trafikolycka, Sundsvall",
-    "summary": "Sundsvall, trafikolycka i Stenstan.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1245-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 423655,
-    "datetime": "2023-05-05 22:46:37 +02:00",
-    "name": "05 maj 22:00, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/maj/5/05-maj-2200-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 423654,
-    "datetime": "2023-05-05 22:37:38 +02:00",
-    "name": "05 maj 22:35, Rån väpnat, Jönköpings län",
-    "summary": "Man knivrånad på bil",
-    "url": "/aktuellt/handelser/2023/maj/5/05-maj-2235-ran-vapnat-jonkopings-lan/",
-    "type": "Rån väpnat",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 423651,
-    "datetime": "2023-05-05 21:55:50 +02:00",
-    "name": "05 maj 21:26, Brand, Stockholm",
-    "summary": "Hammarby Slussväg. Brand i båt.",
-    "url": "/aktuellt/handelser/2023/maj/5/05-maj-2126-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
