@@ -1,5 +1,101 @@
 [
   {
+    "id": 425758,
+    "datetime": "2023-05-14 14:31:29 +02:00",
+    "name": "14 maj 14:30, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1430-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 425757,
+    "datetime": "2023-05-14 14:31:25 +02:00",
+    "name": "14 maj 14:30, Övrigt, Östergötlands län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1430-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 425756,
+    "datetime": "2023-05-14 14:31:21 +02:00",
+    "name": "14 maj 14:30, Övrigt, Södermanlands län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1430-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 425780,
+    "datetime": "2023-05-14 14:16:52 +02:00",
+    "name": "14 maj 14:13, Trafikolycka, Höör",
+    "summary": "Två personbilar i olycka, Löberöd.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1413-trafikolycka-hoor/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Höör",
+      "gps": "55.934859,13.53959"
+    }
+  },
+  {
+    "id": 425776,
+    "datetime": "2023-05-14 13:26:27 +02:00",
+    "name": "14 maj 13:00, Brand, Kiruna",
+    "summary": "Larm om brand utanför Jukkasjärvi.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1300-brand-kiruna/",
+    "type": "Brand",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 425779,
+    "datetime": "2023-05-14 13:52:39 +02:00",
+    "name": "14 maj 13:52, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1352-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 425778,
+    "datetime": "2023-05-14 13:50:22 +02:00",
+    "name": "14 maj 13:50, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1350-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 425764,
+    "datetime": "2023-05-14 12:18:06 +02:00",
+    "name": "14 maj 11:24, Brand, Skellefteå",
+    "summary": "Larm om brand i byggnad i trakten av Storkågeträsk.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1124-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 425759,
     "datetime": "2023-05-14 11:16:24 +02:00",
     "name": "14 maj 10:11, Trafikolycka, singel, Kil",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 425776,
-    "datetime": "2023-05-14 13:26:27 +02:00",
-    "name": "14 maj 13:00, Brand, Kiruna",
-    "summary": "Larm om brand utanför Jukkasjärvi.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1300-brand-kiruna/",
-    "type": "Brand",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
     }
   },
   {
@@ -105,18 +189,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 425764,
-    "datetime": "2023-05-14 12:18:06 +02:00",
-    "name": "14 maj 11:24, Brand, Skellefteå",
-    "summary": "Larm om brand i byggnad i trakten av Storkågeträsk.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1124-brand-skelleftea/",
-    "type": "Brand",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 424845,
-    "datetime": "2023-05-08 8:40:20 +02:00",
-    "name": "08 maj 08:33, Trafikolycka, Kristianstad",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0833-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 424846,
-    "datetime": "2023-05-08 8:42:45 +02:00",
-    "name": "08 maj 08:34, Trafikolycka, Hässleholm",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0834-trafikolycka-hassleholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 424832,
-    "datetime": "2023-05-08 8:24:46 +02:00",
-    "name": "08 maj 00:40, Rattfylleri, Uppsala",
-    "summary": "Under natten stoppar och kontrollerar polis en bil i Fyrislund.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0040-rattfylleri-uppsala/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 424831,
-    "datetime": "2023-05-08 8:18:25 +02:00",
-    "name": "08 maj 08:04, Trafikolycka, Växjö",
-    "summary": "Österleden, kollision mellan två bilar.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0804-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 424815,
-    "datetime": "2023-05-08 8:00:37 +02:00",
-    "name": "08 maj 08:00, Sammanfattning kväll och natt, Jönköpings län",
-    "summary": "Från natten finns ingen händelse att rapportera som stcker ut. En lugn natt för polisområdets ingripandepolise",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0800-sammanfattning-kvall-och-natt-jonkopings-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 424820,
-    "datetime": "2023-05-08 8:00:29 +02:00",
-    "name": "08 maj 08:00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort nattsammanfattning från kl. 22.00 igår kväll.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0800-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
