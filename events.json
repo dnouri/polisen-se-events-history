@@ -1,5 +1,41 @@
 [
   {
+    "id": 425749,
+    "datetime": "2023-05-14 8:10:38 +02:00",
+    "name": "14 maj 07:26, Anträffad död, Oskarshamn",
+    "summary": "Larm om person i vattnet, centrum.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-0726-antraffad-dod-oskarshamn/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 425782,
+    "datetime": "2023-05-14 14:43:32 +02:00",
+    "name": "14 maj 14:37, Trafikolycka, Burlöv",
+    "summary": "Lastbil och personbil i olycka, E6.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1437-trafikolycka-burlov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 425781,
+    "datetime": "2023-05-14 14:41:28 +02:00",
+    "name": "14 maj 14:07, Trafikolycka, Karlshamn",
+    "summary": "Två personbilar i olycka, Åryd.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1407-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
     "id": 425758,
     "datetime": "2023-05-14 14:31:29 +02:00",
     "name": "14 maj 14:30, Övrigt, Jönköpings län",
@@ -417,18 +453,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 425749,
-    "datetime": "2023-05-14 8:10:38 +02:00",
-    "name": "14 maj 07:26, Räddningsinsats, Oskarshamn",
-    "summary": "Larm om person i vattnet, centrum.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-0726-raddningsinsats-oskarshamn/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 424869,
-    "datetime": "2023-05-08 9:40:49 +02:00",
-    "name": "08 maj 09:30, Brand, Piteå",
-    "summary": "Piteå, larm om brand.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0930-brand-pitea/",
-    "type": "Brand",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 424875,
-    "datetime": "2023-05-08 10:01:36 +02:00",
-    "name": "08 maj 09:47, Brand, Sundsvall",
-    "summary": "Sundsvall, larm om brand.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0947-brand-sundsvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
