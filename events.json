@@ -1,5 +1,53 @@
 [
   {
+    "id": 425774,
+    "datetime": "2023-05-14 13:02:16 +02:00",
+    "name": "14 maj 12:20, Brand, Södertälje",
+    "summary": "Polisen bistår räddningstjänsten vid en markbrand i Igelsta.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1220-brand-sodertalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 425773,
+    "datetime": "2023-05-14 12:58:31 +02:00",
+    "name": "14 maj 08:54, Rattfylleri, Strömsund",
+    "summary": "Misstänkt rattfylleri i trakten av Backe.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-0854-rattfylleri-stromsund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 425772,
+    "datetime": "2023-05-14 12:54:29 +02:00",
+    "name": "14 maj 09:05, Misshandel, Borlänge",
+    "summary": "Polisen har gripit en man misstänkt för att ha misshandlat en närstående kvinna inomhus i Borlänge.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-0905-misshandel-borlange/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 425771,
+    "datetime": "2023-05-14 12:52:59 +02:00",
+    "name": "14 maj 12:52, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1252-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 425769,
     "datetime": "2023-05-14 12:36:48 +02:00",
     "name": "14 maj 12:36, Trafikolycka, Nässjö",
@@ -9,6 +57,30 @@
     "location": {
       "name": "Nässjö",
       "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 425764,
+    "datetime": "2023-05-14 12:18:06 +02:00",
+    "name": "14 maj 11:24, Brand, Skellefteå",
+    "summary": "Larm om brand i byggnad i trakten av Storkågeträsk.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1124-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 425770,
+    "datetime": "2023-05-14 12:48:30 +02:00",
+    "name": "14 maj 12:32, Misshandel, Lund",
+    "summary": "Man misshandlad, Lund.",
+    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1232-misshandel-lund/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -57,18 +129,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 425764,
-    "datetime": "2023-05-14 12:18:06 +02:00",
-    "name": "14 maj 11:24, Brand, Skellefteå",
-    "summary": "Larm om brand i byggnad i trakten av Storkågeträsk.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1124-brand-skelleftea/",
-    "type": "Brand",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 424823,
-    "datetime": "2023-05-08 7:30:27 +02:00",
-    "name": "08 maj 00:38, Rattfylleri, Örebro",
-    "summary": "Man i 35-årsåldern misstänkt för drograttfylleri centralt på väster i örebro.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0038-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 424821,
-    "datetime": "2023-05-08 7:19:57 +02:00",
-    "name": "08 maj 07:19, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0719-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 424819,
-    "datetime": "2023-05-08 7:18:00 +02:00",
-    "name": "08 maj 07:17, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0717-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 424818,
-    "datetime": "2023-05-08 7:16:56 +02:00",
-    "name": "08 maj 07:16, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0716-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 424817,
-    "datetime": "2023-05-08 7:08:41 +02:00",
-    "name": "08 maj 06:28, Trafikolycka, Rättvik",
-    "summary": "Två personbilar har kolliderat på Lv301 vid Dalbyn, söder om Furudal",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-0628-trafikolycka-rattvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Rättvik",
-      "gps": "60.889025,15.123373"
     }
   }
 ]
