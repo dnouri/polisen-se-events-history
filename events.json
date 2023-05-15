@@ -1,5 +1,65 @@
 [
   {
+    "id": 425906,
+    "datetime": "2023-05-15 17:11:24 +02:00",
+    "name": "15 maj 16:09, Fylleri/LOB, Luleå",
+    "summary": "Berusad man omhändertagen vid Luleå busstation.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1609-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 425905,
+    "datetime": "2023-05-15 17:05:43 +02:00",
+    "name": "15 maj 16:03, Trafikbrott, Umeå",
+    "summary": "Förare fick ordningsbot för obältade barn i bil.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1603-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 425901,
+    "datetime": "2023-05-15 17:02:59 +02:00",
+    "name": "15 maj 15:26, Arbetsplatsolycka, Stenungsund",
+    "summary": "En lastbil, som är någon form av arbetsfordon, har kört i diket.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1526-arbetsplatsolycka-stenungsund/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 425753,
+    "datetime": "2023-05-14 8:42:06 +02:00",
+    "name": "13 maj 22:55, Mord/dråp, försök, Stockholm",
+    "summary": "En person hittades med allvarliga skador i en bostad i Södra Ängby.",
+    "url": "/aktuellt/handelser/2023/maj/14/13-maj-2255-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 425904,
+    "datetime": "2023-05-15 16:54:32 +02:00",
+    "name": "15 maj 16:53, Trafikolycka, Jönköping",
+    "summary": "Larm om trafikolycka på E4, Asecs.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1653-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
     "id": 425903,
     "datetime": "2023-05-15 16:35:21 +02:00",
     "name": "15 maj 16:34, Arbetsplatsolycka, Gislaved",
@@ -213,18 +273,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425846,
-    "datetime": "2023-05-15 11:27:35 +02:00",
-    "name": "15 maj 10:37, Trafikolycka, Ulricehamn",
-    "summary": "På länsväg 157 i Gällstad har en lastbil och personbil kolliderat.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1037-trafikolycka-ulricehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ulricehamn",
-      "gps": "57.794789,13.420516"
     }
   },
   {
@@ -1089,18 +1137,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 425753,
-    "datetime": "2023-05-14 8:42:06 +02:00",
-    "name": "14 maj 22:55, Mord/dråp, försök, Stockholm",
-    "summary": "En person hittades med allvarliga skador i en bostad i Södra Ängby.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-2255-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 425000,
-    "datetime": "2023-05-09 7:04:39 +02:00",
-    "name": "09 maj 02:04, Stöld/inbrott, Gävleborgs län",
-    "summary": "Larm inkommer om ett pågående inbrott.",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0204-stoldinbrott-gavleborgs-lan/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 424998,
-    "datetime": "2023-05-09 7:00:18 +02:00",
-    "name": "09 maj 07:00, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0700-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 424997,
-    "datetime": "2023-05-09 6:55:34 +02:00",
-    "name": "09 maj 00:44, Rån, Malmö",
-    "summary": "Rån på Ystadgatan.",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0044-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
