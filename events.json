@@ -1,5 +1,53 @@
 [
   {
+    "id": 425882,
+    "datetime": "2023-05-15 14:37:02 +02:00",
+    "name": "15 maj 14:15, Trafikolycka, Göteborg",
+    "summary": "En kvinna har kört av vägen i Bäckebol.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1415-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 425881,
+    "datetime": "2023-05-15 14:33:41 +02:00",
+    "name": "15 maj 14:11, Trafikolycka, Falkenberg",
+    "summary": "En mopedbil och en personbil har kolliderat på Blackebergsvägen.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1411-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 425861,
+    "datetime": "2023-05-15 14:31:34 +02:00",
+    "name": "15 maj 08:51, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-0851-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 425880,
+    "datetime": "2023-05-15 14:26:03 +02:00",
+    "name": "15 maj 13:27, Mord/dråp, försök, Gävle",
+    "summary": "Skärskadad man anträffas i parkeringshus.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1327-morddrap-forsok-gavle/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 425867,
     "datetime": "2023-05-15 13:26:16 +02:00",
     "name": "15 maj 13:10, Trafikolycka, Stockholm",
@@ -12,15 +60,15 @@
     }
   },
   {
-    "id": 425866,
-    "datetime": "2023-05-15 13:25:02 +02:00",
-    "name": "15 maj 13:10, Trafikolycka, Stockholm",
-    "summary": "Polis och ambulans kallas till Klarastrandsleden i södergående riktning med anledning av att en lastbil vält.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1310-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
+    "id": 425879,
+    "datetime": "2023-05-15 14:20:49 +02:00",
+    "name": "15 maj 12:56, Trafikolycka, singel, Umeå",
+    "summary": "Backen, en bilist har kört av vägen",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1256-trafikolycka-singel-umea/",
+    "type": "Trafikolycka, singel",
     "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -33,6 +81,30 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 425873,
+    "datetime": "2023-05-15 13:44:37 +02:00",
+    "name": "15 maj 12:58, Rån, försök, Göteborg",
+    "summary": "På Omvägen i Kallebäck har en man i 40-årsåldern blivit utsatt för ett rånförsök.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1258-ran-forsok-goteborg/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 425866,
+    "datetime": "2023-05-15 13:25:02 +02:00",
+    "name": "15 maj 13:10, Trafikolycka, Stockholm",
+    "summary": "Polis och ambulans kallas till Klarastrandsleden i södergående riktning med anledning av att en lastbil vält.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1310-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 424986,
-    "datetime": "2023-05-08 22:03:01 +02:00",
-    "name": "08 maj 18:01, Misshandel, Umeå",
-    "summary": "Mariedal, man gripen misstänkt för att ha misshandlat en kvinna han har en relation med",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1801-misshandel-umea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 424985,
-    "datetime": "2023-05-08 22:00:08 +02:00",
-    "name": "08 maj 22:00, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-2200-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 424984,
-    "datetime": "2023-05-08 22:00:03 +02:00",
-    "name": "08 maj 22:00, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-2200-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 424971,
-    "datetime": "2023-05-08 19:46:51 +02:00",
-    "name": "08 maj 19:38, Trafikbrott, Malmö",
-    "summary": "Påkörd hund, centrum.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1938-trafikbrott-malmo/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 424976,
-    "datetime": "2023-05-08 21:43:08 +02:00",
-    "name": "08 maj 16:32, Misshandel, Göteborg",
-    "summary": "En man som uppger att han blivit misshandlad får hjälp av en förbipasserande att ringa polisen.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-1632-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 424983,
-    "datetime": "2023-05-08 21:42:18 +02:00",
-    "name": "08 maj 21:11, Fylleri/LOB, Östersund",
-    "summary": "Karlslund, polis kontaktas gällande berusad man utomhus",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-2111-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
