@@ -1,5 +1,65 @@
 [
   {
+    "id": 425900,
+    "datetime": "2023-05-15 16:20:10 +02:00",
+    "name": "15 maj 13:43, Olovlig körning, Timrå",
+    "summary": "Man misstänkt för grov olovlig körning.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1343-olovlig-korning-timra/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 425881,
+    "datetime": "2023-05-15 14:33:41 +02:00",
+    "name": "15 maj 14:11, Trafikolycka, Falkenberg",
+    "summary": "En mopedbil och en personbil har kolliderat på Blackebergsvägen.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1411-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 425887,
+    "datetime": "2023-05-15 14:52:56 +02:00",
+    "name": "15 maj 14:39, Trafikolycka, Falkenberg",
+    "summary": "Två personbilar har kolliderat på E6 utanför Falkenberg.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1439-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 425899,
+    "datetime": "2023-05-15 16:06:20 +02:00",
+    "name": "15 maj 15:53, Trafikolycka, Kalmar",
+    "summary": "Två personbilar kolliderar på väg 565 mellan Ljungbyholm och Trekanten.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1553-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 425897,
+    "datetime": "2023-05-15 15:48:35 +02:00",
+    "name": "15 maj 15:48, Rattfylleri, Östersund",
+    "summary": "Misstänkt drograttfylleri på Söder i Östersund.",
+    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1548-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 425896,
     "datetime": "2023-05-15 15:38:37 +02:00",
     "name": "15 maj 15:37, Stöld/inbrott, Mjölby",
@@ -36,18 +96,6 @@
     }
   },
   {
-    "id": 425887,
-    "datetime": "2023-05-15 14:52:56 +02:00",
-    "name": "15 maj 14:39, Trafikolycka, Falkenberg",
-    "summary": "Två personbilar har kolliderat på E6 utanför Falkenberg.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1439-trafikolycka-falkenberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
-    }
-  },
-  {
     "id": 425882,
     "datetime": "2023-05-15 14:37:02 +02:00",
     "name": "15 maj 14:15, Trafikolycka, Göteborg",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 425881,
-    "datetime": "2023-05-15 14:33:41 +02:00",
-    "name": "15 maj 14:11, Trafikolycka, Falkenberg",
-    "summary": "En mopedbil och en personbil har kolliderat på Blackebergsvägen.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1411-trafikolycka-falkenberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
     }
   },
   {
@@ -5957,42 +5993,6 @@
     "name": "09 maj 04:00, Brand, Malmö",
     "summary": "Bilbrand på Gymnasistgatan.",
     "url": "/aktuellt/handelser/2023/maj/9/09-maj-0400-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 424993,
-    "datetime": "2023-05-09 6:31:33 +02:00",
-    "name": "09 maj 06:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0600-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 424994,
-    "datetime": "2023-05-09 6:31:21 +02:00",
-    "name": "09 maj 06:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/9/09-maj-0600-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 424991,
-    "datetime": "2023-05-08 23:54:12 +02:00",
-    "name": "08 maj 23:49, Brand, Malmö",
-    "summary": "Larm om brand på balkong, Fågelbacken.",
-    "url": "/aktuellt/handelser/2023/maj/8/08-maj-2349-brand-malmo/",
     "type": "Brand",
     "location": {
       "name": "Malmö",
