@@ -1,5 +1,65 @@
 [
   {
+    "id": 426376,
+    "datetime": "2023-05-18 21:38:31 +02:00",
+    "name": "18 maj 21:17, Trafikolycka, Skellefteå",
+    "summary": "Larm om trafikolycka på Lasarettsvägen/Morellstigen, Norrböle.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-2117-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 426377,
+    "datetime": "2023-05-18 21:37:50 +02:00",
+    "name": "18 maj 19:59, Trafikolycka, Vännäs",
+    "summary": "Larm om trafikolycka i Vännäs tätort.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1959-trafikolycka-vannas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vännäs",
+      "gps": "63.908007,19.752965"
+    }
+  },
+  {
+    "id": 426375,
+    "datetime": "2023-05-18 21:25:06 +02:00",
+    "name": "18 maj 16:35, Åldringsbrott, Stockholm",
+    "summary": "Polisen larmas om ett pågående åldringsbrott på Östermalm och griper en misstänkt gärningsman.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1635-aldringsbrott-stockholm/",
+    "type": "Åldringsbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 426374,
+    "datetime": "2023-05-18 21:19:40 +02:00",
+    "name": "18 maj 20:27, Trafikolycka, vilt, Kramfors",
+    "summary": "Polisen får in en anmälan om en viltolycka på E4, söder om Ullånger.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-2027-trafikolycka-vilt-kramfors/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 426339,
+    "datetime": "2023-05-18 15:36:52 +02:00",
+    "name": "18 maj 15:11, Trafikolycka, Bromölla",
+    "summary": "Lv116, mellan Råby och Näsum. Kollision mellan två fordon.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1511-trafikolycka-bromolla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Bromölla",
+      "gps": "56.074362,14.477659"
+    }
+  },
+  {
     "id": 426372,
     "datetime": "2023-05-18 21:13:18 +02:00",
     "name": "18 maj 20:46, Brand, Skellefteå",
@@ -381,18 +441,6 @@
     "location": {
       "name": "Lysekil",
       "gps": "58.275573,11.435558"
-    }
-  },
-  {
-    "id": 426339,
-    "datetime": "2023-05-18 15:36:52 +02:00",
-    "name": "18 maj 15:11, Trafikolycka, Bromölla",
-    "summary": "Lv116, mellan Råby och Näsum. Kollision mellan två fordon.",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1511-trafikolycka-bromolla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bromölla",
-      "gps": "56.074362,14.477659"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrtälje",
       "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 425638,
-    "datetime": "2023-05-12 18:57:02 +02:00",
-    "name": "12 maj 18:56, Misshandel, Vingåker",
-    "summary": "Man misshandlad i matbutik.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1856-misshandel-vingaker/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Vingåker",
-      "gps": "59.043375,15.870939"
-    }
-  },
-  {
-    "id": 425637,
-    "datetime": "2023-05-12 18:18:57 +02:00",
-    "name": "12 maj 17:30, Misshandel, Helsingborg",
-    "summary": "Bråk på Sundstorget.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1730-misshandel-helsingborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 425634,
-    "datetime": "2023-05-12 18:04:13 +02:00",
-    "name": "12 maj 17:03, Brand, Stockholm",
-    "summary": "Polisen ska utreda branden som uppstod på en toalett på Djurgården.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1703-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425614,
-    "datetime": "2023-05-12 14:13:19 +02:00",
-    "name": "12 maj 10:11, Rån, Kumla",
-    "summary": "Kvinna i 85-årsåldern frånryckt halskedja inomhus i centrala kumla.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-1011-ran-kumla/",
-    "type": "Rån",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
     }
   }
 ]
