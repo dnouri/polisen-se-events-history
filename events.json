@@ -1,5 +1,89 @@
 [
   {
+    "id": 426334,
+    "datetime": "2023-05-18 13:15:56 +02:00",
+    "name": "18 maj 10:54, Stöld/inbrott, Söderhamn",
+    "summary": "Inbrott i garage.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1054-stoldinbrott-soderhamn/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
+    "id": 426333,
+    "datetime": "2023-05-18 13:13:53 +02:00",
+    "name": "18 maj 13:12, Brand, Vetlanda",
+    "summary": "Rökutveckling i Vetlanda",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1312-brand-vetlanda/",
+    "type": "Brand",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
+    "id": 426332,
+    "datetime": "2023-05-18 12:56:45 +02:00",
+    "name": "18 maj 11:40, Fylleri/LOB, Sundsvall",
+    "summary": "Sundsvall, person omhändertagen.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1140-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 426326,
+    "datetime": "2023-05-18 11:58:48 +02:00",
+    "name": "18 maj 11:32, Trafikolycka, Nyköping",
+    "summary": "Voltad bil väster om Nyköping",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1132-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 426327,
+    "datetime": "2023-05-18 11:59:08 +02:00",
+    "name": "18 maj 11:47, Trafikolycka, Klippan",
+    "summary": "Lastbil i olycka, Bonnarp.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1147-trafikolycka-klippan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Klippan",
+      "gps": "56.1349,13.129041"
+    }
+  },
+  {
+    "id": 426330,
+    "datetime": "2023-05-18 12:51:34 +02:00",
+    "name": "18 maj 12:51, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1251-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 426331,
+    "datetime": "2023-05-18 12:46:50 +02:00",
+    "name": "18 maj 11:13, Trafikbrott, Umeå",
+    "summary": "Umeå, motorcyklist misstänks för trafikbrott.",
+    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1113-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 426329,
     "datetime": "2023-05-18 12:37:41 +02:00",
     "name": "18 maj 12:37, Trafikkontroll, Norrbottens län",
@@ -24,18 +108,6 @@
     }
   },
   {
-    "id": 426327,
-    "datetime": "2023-05-18 11:59:08 +02:00",
-    "name": "18 maj 11:47, Trafikolycka, Klippan",
-    "summary": "Lastbil i olycka, Bonnarp.",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1147-trafikolycka-klippan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Klippan",
-      "gps": "56.1349,13.129041"
-    }
-  },
-  {
     "id": 426320,
     "datetime": "2023-05-18 9:18:02 +02:00",
     "name": "18 maj 07:42, Djur, Sotenäs",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Sotenäs",
       "gps": "58.440139,11.361439"
-    }
-  },
-  {
-    "id": 426326,
-    "datetime": "2023-05-18 11:58:48 +02:00",
-    "name": "18 maj 11:32, Trafikolycka, Nyköping",
-    "summary": "Voltad bil väster om Nyköping",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1132-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 425563,
-    "datetime": "2023-05-12 7:20:40 +02:00",
-    "name": "12 maj 07:20, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-0720-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 425559,
-    "datetime": "2023-05-12 6:54:44 +02:00",
-    "name": "12 maj 05:29, Trafikolycka, Markaryd",
-    "summary": "Personbil i olycka, Brånhult.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-0529-trafikolycka-markaryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 425558,
-    "datetime": "2023-05-12 6:52:20 +02:00",
-    "name": "12 maj 05:17, Skadegörelse, Kalmar",
-    "summary": "Skadegörelse mot polisstation, Oxhagen.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-0517-skadegorelse-kalmar/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 425557,
-    "datetime": "2023-05-12 6:48:47 +02:00",
-    "name": "12 maj 03:24, Rattfylleri, Växjö",
-    "summary": "Påverkad förare, centrum.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-0324-rattfylleri-vaxjo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 425556,
-    "datetime": "2023-05-12 6:44:38 +02:00",
-    "name": "12 maj 00:48, Brand, Ängelholm",
-    "summary": "Flera bilar skadade i brand, Ängelholm.",
-    "url": "/aktuellt/handelser/2023/maj/12/12-maj-0048-brand-angelholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   }
 ]
