@@ -1,5 +1,53 @@
 [
   {
+    "id": 426473,
+    "datetime": "2023-05-19 15:03:47 +02:00",
+    "name": "19 maj 14:38, Trafikolycka, Lessebo",
+    "summary": "Trafikolycka på Rv28 vid Kosta.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1438-trafikolycka-lessebo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lessebo",
+      "gps": "56.751264,15.270001"
+    }
+  },
+  {
+    "id": 426456,
+    "datetime": "2023-05-19 13:47:48 +02:00",
+    "name": "19 maj 13:47, Trafikolycka, Eskilstuna",
+    "summary": "Barn på sparkcykel kolliderade med bilist.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1347-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 426466,
+    "datetime": "2023-05-19 14:54:04 +02:00",
+    "name": "19 maj 14:26, Trafikolycka, Örnsköldsvik",
+    "summary": "Örnsköldsvik, trafikolycka på E4.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1426-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 426465,
+    "datetime": "2023-05-19 14:43:35 +02:00",
+    "name": "19 maj 13:13, Stöld, Umeå",
+    "summary": "Umeå, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1313-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 426464,
     "datetime": "2023-05-19 14:29:54 +02:00",
     "name": "19 maj 14:03, Trafikolycka, Luleå",
@@ -33,18 +81,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 426456,
-    "datetime": "2023-05-19 13:47:48 +02:00",
-    "name": "19 maj 13:47, Trafikolycka, Eskilstuna",
-    "summary": "Barn på sparkcykel kolliderade med bilist.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1347-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Gotland",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 425717,
-    "datetime": "2023-05-13 15:25:46 +02:00",
-    "name": "13 maj 14:56, Trafikolycka, personskada, Kungsbacka",
-    "summary": "På Onsalavägen vid Oskarsberg inträffar en olycka mellan en mc-förare och en bilist.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1456-trafikolycka-personskada-kungsbacka/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 425716,
-    "datetime": "2023-05-13 14:41:20 +02:00",
-    "name": "13 maj 14:26, Djur, Örebro",
-    "summary": "Hundar lider i bilar som parkerar i solgass.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1426-djur-orebro/",
-    "type": "Djur",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 425697,
-    "datetime": "2023-05-13 14:37:12 +02:00",
-    "name": "13 maj 14:36, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1436-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
