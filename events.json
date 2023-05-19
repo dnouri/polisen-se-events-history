@@ -1,5 +1,89 @@
 [
   {
+    "id": 426464,
+    "datetime": "2023-05-19 14:29:54 +02:00",
+    "name": "19 maj 14:03, Trafikolycka, Luleå",
+    "summary": "Luleå, singelolycka i Notviken.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1403-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 426458,
+    "datetime": "2023-05-19 13:59:04 +02:00",
+    "name": "19 maj 13:46, Trafikolycka, vilt, Storuman",
+    "summary": "Polisen får in en anmälan om en viltolycka på E12, Gunnarn.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1346-trafikolycka-vilt-storuman/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 426457,
+    "datetime": "2023-05-19 13:48:27 +02:00",
+    "name": "19 maj 12:51, Trafikkontroll, Skellefteå",
+    "summary": "Resultat efter trafikkontroll på Rosgatan, Morön.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1251-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 426456,
+    "datetime": "2023-05-19 13:47:48 +02:00",
+    "name": "19 maj 13:47, Trafikolycka, Eskilstuna",
+    "summary": "Barn på sparkcykel kolliderade med bilist.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1347-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 426454,
+    "datetime": "2023-05-19 13:46:43 +02:00",
+    "name": "19 maj 11:00, Rattfylleri, Karlskoga",
+    "summary": "Polispatrull har stoppat en misstänkt drograttfyllerist i Karlskoga under förmiddagen.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1100-rattfylleri-karlskoga/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 426437,
+    "datetime": "2023-05-19 12:47:10 +02:00",
+    "name": "19 maj 12:11, Trafikolycka, Krokom",
+    "summary": "Larm om trafikolycka öster om Krokom.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1211-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 426453,
+    "datetime": "2023-05-19 13:45:19 +02:00",
+    "name": "19 maj 13:41, Trafikhinder, Nynäshamn",
+    "summary": "Flera personer har ringt till polisen ang observationer från en person som cyklar på motorvägen riksväg 73 inv",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1341-trafikhinder-nynashamn/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Nynäshamn",
+      "gps": "58.902926,17.946529"
+    }
+  },
+  {
     "id": 426441,
     "datetime": "2023-05-19 12:55:49 +02:00",
     "name": "19 maj 12:11, Misshandel, Malmö",
@@ -27,7 +111,7 @@
     "id": 426452,
     "datetime": "2023-05-19 13:39:27 +02:00",
     "name": "19 maj 12:26, Ofredande/förargelse, Göteborg",
-    "summary": "Bråk uppstår vid Vasaparken efter att en man uppges ha filmat en solande kvinna i 25-årsåldern.",
+    "summary": "Bråk uppstår vid Vasaparken efter att en man i 40-årsåldern uppges ha filmat en solande kvinna i 25-årsåldern.",
     "url": "/aktuellt/handelser/2023/maj/19/19-maj-1226-ofredandeforargelse-goteborg/",
     "type": "Ofredande/förargelse",
     "location": {
@@ -105,18 +189,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 426437,
-    "datetime": "2023-05-19 12:47:10 +02:00",
-    "name": "19 maj 12:11, Trafikolycka, Krokom",
-    "summary": "Larm om trafikolycka öster om Krokom.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1211-trafikolycka-krokom/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 425696,
-    "datetime": "2023-05-13 14:37:07 +02:00",
-    "name": "13 maj 14:36, Övrigt, Östergötlands län",
-    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1436-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 425695,
-    "datetime": "2023-05-13 14:37:01 +02:00",
-    "name": "13 maj 14:36, Övrigt, Södermanlands län",
-    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1436-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 425715,
-    "datetime": "2023-05-13 14:26:09 +02:00",
-    "name": "13 maj 14:25, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1425-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 425714,
-    "datetime": "2023-05-13 14:14:43 +02:00",
-    "name": "13 maj 08:37, Narkotikabrott, Krokom",
-    "summary": "Krokom, misstänkt narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-0837-narkotikabrott-krokom/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 425704,
-    "datetime": "2023-05-13 14:06:58 +02:00",
-    "name": "13 maj 08:59, Rattfylleri, Umeå",
-    "summary": "Tavelsjö, misstänkt rattfylleri.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-0859-rattfylleri-umea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 425712,
-    "datetime": "2023-05-13 13:59:21 +02:00",
-    "name": "13 maj 13:22, Trafikolycka, Fagersta",
-    "summary": "Man till sjukhus efter singelolycka.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1322-trafikolycka-fagersta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Fagersta",
-      "gps": "59.989144,15.816642"
     }
   }
 ]
