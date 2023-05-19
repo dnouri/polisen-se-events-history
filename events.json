@@ -1,5 +1,89 @@
 [
   {
+    "id": 426447,
+    "datetime": "2023-05-19 13:12:40 +02:00",
+    "name": "19 maj 12:38, Trafikolycka, Staffanstorp",
+    "summary": "Krock på E22 vid Bergströmshusen.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1238-trafikolycka-staffanstorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 426444,
+    "datetime": "2023-05-19 12:46:52 +02:00",
+    "name": "19 maj 12:20, Larm Överfall, Stockholm",
+    "summary": "Personal på en restaurang invid Sergels torg har utlöst överfallslarmet.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1220-larm-overfall-stockholm/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 426441,
+    "datetime": "2023-05-19 12:55:49 +02:00",
+    "name": "19 maj 12:11, Misshandel, Malmö",
+    "summary": "Misshandel på Påskliljegatan.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1211-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 426437,
+    "datetime": "2023-05-19 12:47:10 +02:00",
+    "name": "19 maj 12:11, Trafikolycka, Krokom",
+    "summary": "Larm om trafikolycka öster om Krokom.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1211-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 426446,
+    "datetime": "2023-05-19 12:53:57 +02:00",
+    "name": "19 maj 12:41, Trafikolycka, vilt, Åsele",
+    "summary": "Polisen får in en anmälan om en viltolycka på riksväg 92, Västerled.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1241-trafikolycka-vilt-asele/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Åsele",
+      "gps": "64.160234,17.353615"
+    }
+  },
+  {
+    "id": 426440,
+    "datetime": "2023-05-19 12:49:42 +02:00",
+    "name": "19 maj 12:24, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på E4, Råneå.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1224-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 426443,
+    "datetime": "2023-05-19 12:45:09 +02:00",
+    "name": "19 maj 12:41, Övrigt, Värmlands län",
+    "summary": "Polisen i lokalpolisområde Torsby kan nu meddela att ärendet där en förundersökning inleddes gällande vållande",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1241-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 426442,
     "datetime": "2023-05-19 12:42:07 +02:00",
     "name": "19 maj 02:27, Motorfordon, stöld, Söderhamn",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Vimmerby",
       "gps": "57.669034,15.858857"
-    }
-  },
-  {
-    "id": 425707,
-    "datetime": "2023-05-13 12:36:09 +02:00",
-    "name": "13 maj 07:08, Trafikolycka, Älvsbyn",
-    "summary": "Singelolycka utanför Älvsbyn.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-0708-trafikolycka-alvsbyn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Älvsbyn",
-      "gps": "65.677136,20.992866"
-    }
-  },
-  {
-    "id": 425706,
-    "datetime": "2023-05-13 12:35:29 +02:00",
-    "name": "13 maj 03:35, Trafikolycka, Piteå",
-    "summary": "Piteå, singelolycka i Hortlax.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-0335-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 425698,
-    "datetime": "2023-05-13 12:19:51 +02:00",
-    "name": "13 maj 12:19, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1219-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 425703,
-    "datetime": "2023-05-13 11:21:20 +02:00",
-    "name": "13 maj 11:20, Rattfylleri, Katrineholm",
-    "summary": "Bilist visade tecken på narkotikapåverkan - Grevegatan.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1120-rattfylleri-katrineholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 425702,
-    "datetime": "2023-05-13 11:21:02 +02:00",
-    "name": "13 maj 08:49, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, person misstänkt för narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-0849-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 425681,
-    "datetime": "2023-05-13 8:14:12 +02:00",
-    "name": "13 maj 07:44, Brand, Kramfors",
-    "summary": "Kramfors, larm om brand.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-0744-brand-kramfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 425700,
-    "datetime": "2023-05-13 10:41:53 +02:00",
-    "name": "13 maj 10:41, Rattfylleri, Nyköping",
-    "summary": "Man misstänks för rattfylleri - Lennings väg.",
-    "url": "/aktuellt/handelser/2023/maj/13/13-maj-1041-rattfylleri-nykoping/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
     }
   }
 ]
