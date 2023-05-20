@@ -1,5 +1,53 @@
 [
   {
+    "id": 426554,
+    "datetime": "2023-05-20 10:57:51 +02:00",
+    "name": "20 maj 10:45, Trafikolycka, Hylte",
+    "summary": "Personbil i olycka, Hyltebruk.",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1045-trafikolycka-hylte/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hylte",
+      "gps": "56.977313,13.338766"
+    }
+  },
+  {
+    "id": 426565,
+    "datetime": "2023-05-20 12:56:41 +02:00",
+    "name": "20 maj 12:33, Trafikolycka, Kristianstad",
+    "summary": "Två personbilar kolliderar på E22 i höjd med Tollarp.",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1233-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 426564,
+    "datetime": "2023-05-20 12:52:27 +02:00",
+    "name": "20 maj 12:30, Brand, Borlänge",
+    "summary": "Det brinner i en lägenhet i Borlänge.",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1230-brand-borlange/",
+    "type": "Brand",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 426563,
+    "datetime": "2023-05-20 12:50:02 +02:00",
+    "name": "20 maj 12:19, Trafikolycka, Kungälv",
+    "summary": "Olycka mellan motorcykel och lastbil, LV625.",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1219-trafikolycka-kungalv/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
     "id": 426560,
     "datetime": "2023-05-20 12:15:44 +02:00",
     "name": "20 maj 12:15, Trafikolycka, singel, Nyköping",
@@ -117,18 +165,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 426554,
-    "datetime": "2023-05-20 10:57:51 +02:00",
-    "name": "20 maj 10:45, Trafikolycka, Hylte",
-    "summary": "Personbil i olycka, Hyltebruk.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1045-trafikolycka-hylte/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hylte",
-      "gps": "56.977313,13.338766"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 425798,
-    "datetime": "2023-05-15 6:45:04 +02:00",
-    "name": "15 maj 06:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-0600-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 425797,
-    "datetime": "2023-05-15 6:44:56 +02:00",
-    "name": "15 maj 06:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-0600-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 425796,
-    "datetime": "2023-05-15 3:04:10 +02:00",
-    "name": "15 maj 00:20, Detonation, Stockholm",
-    "summary": "En detonation har skett på ett företag i Hagsätra.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-0020-detonation-stockholm/",
-    "type": "Detonation",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
