@@ -1,5 +1,89 @@
 [
   {
+    "id": 426562,
+    "datetime": "2023-05-20 12:20:20 +02:00",
+    "name": "20 maj 11:23, Trafikbrott, Luleå",
+    "summary": "Riksväg 94, blist stoppad efter hastighetsöverträdelse",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1123-trafikbrott-lulea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 426561,
+    "datetime": "2023-05-20 12:17:20 +02:00",
+    "name": "20 maj 12:09, Olaga intrång, Stockholm",
+    "summary": "En person som bor i en lägenhet i Stockholm har haft två gäster över natten. Nu vägrar de båda lämna anmälaren",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1209-olaga-intrang-stockholm/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 426560,
+    "datetime": "2023-05-20 12:15:44 +02:00",
+    "name": "20 maj 12:15, Trafikolycka, singel, Nyköping",
+    "summary": "Motorcyklist inblandad i olycka på Åtorpsvägen.",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1215-trafikolycka-singel-nykoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 426559,
+    "datetime": "2023-05-20 12:14:23 +02:00",
+    "name": "20 maj 11:48, Trafikolycka, Örnsköldsvik",
+    "summary": "Viktoriaesplanaden, larm om singelolycka med motorcykel",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1148-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 426558,
+    "datetime": "2023-05-20 12:12:13 +02:00",
+    "name": "20 maj 11:48, Trafikolycka, Strömsund",
+    "summary": "Hammerdal, larm om trafikolycka med lastbil och personbil",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1148-trafikolycka-stromsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 426549,
+    "datetime": "2023-05-20 9:56:17 +02:00",
+    "name": "20 maj 09:51, Försvunnen person, Dorotea",
+    "summary": "Dorotea, sökinsats efter försvunnen man i 75-årsåldern",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-0951-forsvunnen-person-dorotea/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Dorotea",
+      "gps": "64.261794,16.415234"
+    }
+  },
+  {
+    "id": 426557,
+    "datetime": "2023-05-20 11:47:00 +02:00",
+    "name": "20 maj 11:28, Trafikolycka, Ronneby",
+    "summary": "En personbil kör av okänd anledning in i mitträcket på E22.",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1128-trafikolycka-ronneby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
     "id": 426550,
     "datetime": "2023-05-20 10:15:57 +02:00",
     "name": "20 maj 10:08, Trafikolycka, Örebro",
@@ -105,18 +189,6 @@
     "location": {
       "name": "Mora",
       "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 426549,
-    "datetime": "2023-05-20 9:56:17 +02:00",
-    "name": "20 maj 09:51, Försvunnen person, Dorotea",
-    "summary": "Dorotea, sökinsats efter försvunnen man i 75-årsåldern",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-0951-forsvunnen-person-dorotea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Dorotea",
-      "gps": "64.261794,16.415234"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425791,
-    "datetime": "2023-05-14 18:26:25 +02:00",
-    "name": "14 maj 16:25, Brand, Lessebo",
-    "summary": "Skogsbrand i Kosta.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1625-brand-lessebo/",
-    "type": "Brand",
-    "location": {
-      "name": "Lessebo",
-      "gps": "56.751264,15.270001"
-    }
-  },
-  {
-    "id": 425790,
-    "datetime": "2023-05-14 17:37:52 +02:00",
-    "name": "14 maj 16:50, Trafikolycka, Karlskrona",
-    "summary": "Singelolycka på Lv754 vid Jämjö.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1650-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 425789,
-    "datetime": "2023-05-14 17:10:50 +02:00",
-    "name": "14 maj 14:10, Övrigt, Stockholm",
-    "summary": "Ett 20-tal personer gick till attack mot poliser vid en av ingångarna på Tele 2 arena.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1410-ovrigt-stockholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425788,
-    "datetime": "2023-05-14 17:09:39 +02:00",
-    "name": "14 maj 13:53, Misshandel, Stockholm",
-    "summary": "En man som misstänks för misshandel i Johanneshov visade sig vara efterlyst och togs med till förhör.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1353-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425787,
-    "datetime": "2023-05-14 17:03:43 +02:00",
-    "name": "14 maj 13:29, Våld/hot mot tjänsteman, Stockholm",
-    "summary": "En polis skadades när han fick en ölburk kastad i huvudet vid Slussen.",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1329-valdhot-mot-tjansteman-stockholm/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425786,
-    "datetime": "2023-05-14 16:49:43 +02:00",
-    "name": "14 maj 14:50, Misshandel, Örnsköldsvik",
-    "summary": "Misshandel i ett samhälle utanför Örnsköldsvik",
-    "url": "/aktuellt/handelser/2023/maj/14/14-maj-1450-misshandel-ornskoldsvik/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
