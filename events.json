@@ -1,5 +1,65 @@
 [
   {
+    "id": 426597,
+    "datetime": "2023-05-21 7:16:35 +02:00",
+    "name": "21 maj 04:12, Trafikolycka, Karlshamn",
+    "summary": "En trafikolycka inträffar i östergående riktning på E22 i höjd med Åryd.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0412-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 426596,
+    "datetime": "2023-05-21 7:13:43 +02:00",
+    "name": "21 maj 02:24, Skottlossning, Västerås",
+    "summary": "Skottlossning mot bostadsfastighet.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0224-skottlossning-vasteras/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 426595,
+    "datetime": "2023-05-21 7:08:09 +02:00",
+    "name": "21 maj 04:10, Skadegörelse, Bjuv",
+    "summary": "Polis larmas till centrala bjud där två skåpbilar börjat brinna.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0410-skadegorelse-bjuv/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Bjuv",
+      "gps": "56.087102,12.912505"
+    }
+  },
+  {
+    "id": 426594,
+    "datetime": "2023-05-21 7:01:10 +02:00",
+    "name": "21 maj 02:53, Brand, Helsingborg",
+    "summary": "Det brinner i en villa i Ramlösa. Polis skickas tillsammans med räddningstjänst till platsen.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0253-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 426592,
+    "datetime": "2023-05-21 6:51:50 +02:00",
+    "name": "20 maj 23:42, Detonation, Hässleholm",
+    "summary": "Polisen får in flera samtal om en hög smäll i centrala Hässleholm",
+    "url": "/aktuellt/handelser/2023/maj/20/20-maj-2342-detonation-hassleholm/",
+    "type": "Detonation",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 426588,
     "datetime": "2023-05-20 21:34:34 +02:00",
     "name": "20 maj 20:45, Misshandel, grov, Stockholm",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425879,
-    "datetime": "2023-05-15 14:20:49 +02:00",
-    "name": "15 maj 12:56, Trafikolycka, singel, Umeå",
-    "summary": "Backen, en bilist har kört av vägen",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1256-trafikolycka-singel-umea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 425862,
-    "datetime": "2023-05-15 12:55:29 +02:00",
-    "name": "15 maj 12:47, Trafikolycka, Burlöv",
-    "summary": "Två personbilar i olycka, Burlöv.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1247-trafikolycka-burlov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 425873,
-    "datetime": "2023-05-15 13:44:37 +02:00",
-    "name": "15 maj 12:58, Rån, försök, Göteborg",
-    "summary": "På Omvägen i Kallebäck har en man i 40-årsåldern blivit utsatt för ett rånförsök.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1258-ran-forsok-goteborg/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 425860,
-    "datetime": "2023-05-15 12:43:10 +02:00",
-    "name": "15 maj 12:18, Trafikolycka, Falun",
-    "summary": "Kollision mellan personbil och sparkcykel i centrala Falun",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1218-trafikolycka-falun/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 425859,
-    "datetime": "2023-05-15 12:40:45 +02:00",
-    "name": "15 maj 10:50, Stöld, Strömsund",
-    "summary": "Strömsund, kvinna misstänks för ringa stöld i butik",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1050-stold-stromsund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
     }
   }
 ]
