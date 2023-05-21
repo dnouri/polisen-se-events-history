@@ -1,14 +1,26 @@
 [
   {
-    "id": 426635,
-    "datetime": "2023-05-21 12:15:01 +02:00",
-    "name": "21 maj 12:01, Trafikolycka, Orsa",
-    "summary": "En trafikolycka har inträffat på E45, ca 3 mil norr om Orsa.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1201-trafikolycka-orsa/",
+    "id": 426634,
+    "datetime": "2023-05-21 12:13:51 +02:00",
+    "name": "21 maj 12:02, Trafikolycka, Kristianstad",
+    "summary": "En trafikolycka inträffar på väg 21 vid Önnestad.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1202-trafikolycka-kristianstad/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 426633,
+    "datetime": "2023-05-21 11:58:35 +02:00",
+    "name": "21 maj 11:58, Trafikolycka, singel, Nässjö",
+    "summary": "Bilist körde av vägen mellan Bodafors och Grimstorp.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1158-trafikolycka-singel-nassjo/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
     }
   },
   {
@@ -21,6 +33,30 @@
     "location": {
       "name": "Ludvika",
       "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 426639,
+    "datetime": "2023-05-21 12:51:40 +02:00",
+    "name": "21 maj 06:51, Trafikolycka, smitning från, Östhammar",
+    "summary": "Misstänks för drograttfylleri efter att ha smitit från trafikolycka.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0651-trafikolycka-smitning-fran-osthammar/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Östhammar",
+      "gps": "60.259302,18.365341"
+    }
+  },
+  {
+    "id": 426635,
+    "datetime": "2023-05-21 12:15:01 +02:00",
+    "name": "21 maj 12:01, Trafikolycka, Orsa",
+    "summary": "En trafikolycka har inträffat på E45, ca 3 mil norr om Orsa.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1201-trafikolycka-orsa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Orsa",
+      "gps": "61.116937,14.628071"
     }
   },
   {
@@ -48,18 +84,6 @@
     }
   },
   {
-    "id": 426634,
-    "datetime": "2023-05-21 12:13:51 +02:00",
-    "name": "21 maj 12:02, Trafikolycka, Kristianstad",
-    "summary": "En trafikolycka inträffar på väg 21 vid Önnestad.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1202-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
     "id": 426622,
     "datetime": "2023-05-21 9:27:01 +02:00",
     "name": "21 maj 03:13, Mord/dråp, försök, Gotland",
@@ -69,18 +93,6 @@
     "location": {
       "name": "Gotland",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 426633,
-    "datetime": "2023-05-21 11:58:35 +02:00",
-    "name": "21 maj 11:58, Trafikolycka, singel, Nässjö",
-    "summary": "Bilist körde av vägen mellan Bodafors och Grimstorp.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1158-trafikolycka-singel-nassjo/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 425921,
-    "datetime": "2023-05-15 21:45:33 +02:00",
-    "name": "15 maj 21:45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Vakthavande befäl besvarar samtal från media i mån av tid.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-2145-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
