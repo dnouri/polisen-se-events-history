@@ -1,5 +1,41 @@
 [
   {
+    "id": 426643,
+    "datetime": "2023-05-21 14:22:48 +02:00",
+    "name": "21 maj 12:30, Brand, Timrå",
+    "summary": "Söråker, larm om brand i byggnad",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1230-brand-timra/",
+    "type": "Brand",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 426642,
+    "datetime": "2023-05-21 13:49:18 +02:00",
+    "name": "21 maj 13:15, Trafikolycka, Halmstad",
+    "summary": "Två personbilar och en husbil har krockat på E4 i norrgående riktning i höjd med Falkenberg södra.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1315-trafikolycka-halmstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 426641,
+    "datetime": "2023-05-21 13:46:11 +02:00",
+    "name": "21 maj 13:26, Trafikolycka, Göteborg",
+    "summary": "Tre bilar är inblandade i en krock på E6 i norrgående körfält strax före Ullevimotet.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1326-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 426640,
     "datetime": "2023-05-21 13:20:17 +02:00",
     "name": "21 maj 13:20, Trafikolycka, Jönköping",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 425928,
-    "datetime": "2023-05-15 21:53:35 +02:00",
-    "name": "15 maj 21:53, Övrigt, Östergötlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-2153-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 425929,
-    "datetime": "2023-05-15 21:53:30 +02:00",
-    "name": "15 maj 21:53, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-2153-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 425927,
-    "datetime": "2023-05-15 21:53:26 +02:00",
-    "name": "15 maj 21:53, Övrigt, Södermanlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-2153-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
