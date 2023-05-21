@@ -1,5 +1,65 @@
 [
   {
+    "id": 426635,
+    "datetime": "2023-05-21 12:15:01 +02:00",
+    "name": "21 maj 12:01, Trafikolycka, Orsa",
+    "summary": "En trafikolycka har inträffat på E45, ca 3 mil norr om Orsa.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1201-trafikolycka-orsa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Orsa",
+      "gps": "61.116937,14.628071"
+    }
+  },
+  {
+    "id": 426634,
+    "datetime": "2023-05-21 12:13:51 +02:00",
+    "name": "21 maj 12:02, Trafikolycka, Kristianstad",
+    "summary": "En trafikolycka inträffar på väg 21 vid Önnestad.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1202-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 426622,
+    "datetime": "2023-05-21 9:27:01 +02:00",
+    "name": "21 maj 03:13, Mord/dråp, försök, Gotland",
+    "summary": "En man i 45-årsåldern har gripits av polis efter det att han har huggit en man med ett tillhygge i anslutning ",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0313-morddrap-forsok-gotland/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Gotland",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 426633,
+    "datetime": "2023-05-21 11:58:35 +02:00",
+    "name": "21 maj 11:58, Trafikolycka, singel, Nässjö",
+    "summary": "Bilist körde av vägen mellan Bodafors och Grimstorp.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1158-trafikolycka-singel-nassjo/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 426632,
+    "datetime": "2023-05-21 11:44:49 +02:00",
+    "name": "21 maj 09:15, Rattfylleri, Mörbylånga",
+    "summary": "Man i 50-årsåldern misstänks för rattfylleri efter kontroll.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0915-rattfylleri-morbylanga/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Mörbylånga",
+      "gps": "56.523757,16.386916"
+    }
+  },
+  {
     "id": 426631,
     "datetime": "2023-05-21 11:31:25 +02:00",
     "name": "21 maj 08:51, Trafikbrott, Örnsköldsvik",
@@ -117,18 +177,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 426622,
-    "datetime": "2023-05-21 9:27:01 +02:00",
-    "name": "21 maj 03:13, Mord/dråp, försök, Gotland",
-    "summary": "En man i 45-årsåldern har gripits av polis efter det att han har huggit en man med ett tillhygge i anslutning ",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0313-morddrap-forsok-gotland/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Gotland",
-      "gps": "57.468412,18.486745"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 425935,
-    "datetime": "2023-05-15 21:24:55 +02:00",
-    "name": "15 maj 20:41, Rattfylleri, Burlöv",
-    "summary": "Man i 20-årsåldern misstänks för drograttfylleri efter kontroll.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-2041-rattfylleri-burlov/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 425930,
-    "datetime": "2023-05-15 20:55:59 +02:00",
-    "name": "15 maj 19:21, Övrigt, Bromölla",
-    "summary": "Man i 20-årsåldern blev biten av av en hund.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1921-ovrigt-bromolla/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Bromölla",
-      "gps": "56.074362,14.477659"
-    }
-  },
-  {
-    "id": 425925,
-    "datetime": "2023-05-15 20:38:25 +02:00",
-    "name": "15 maj 14:36, Stöld, Stockholm",
-    "summary": "En man stjält en mobil från en bil.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1436-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 425923,
-    "datetime": "2023-05-15 20:32:23 +02:00",
-    "name": "15 maj 19:48, Rån, Sigtuna",
-    "summary": "Tre personer rånar en man på hans elsparkcykel.",
-    "url": "/aktuellt/handelser/2023/maj/15/15-maj-1948-ran-sigtuna/",
-    "type": "Rån",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
     }
   }
 ]
