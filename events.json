@@ -1,5 +1,113 @@
 [
   {
+    "id": 426687,
+    "datetime": "2023-05-22 8:23:32 +02:00",
+    "name": "21 maj 17:57, Brand, Botkyrka",
+    "summary": "Polisen misstänker att branden i skogsområdet i Tumba är anlagd.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1757-brand-botkyrka/",
+    "type": "Brand",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 426686,
+    "datetime": "2023-05-22 8:21:43 +02:00",
+    "name": "22 maj 07:10, Arbetsplatsolycka, Växjö",
+    "summary": "Larm om arbetsplatsolycka på Västra industriområde",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0710-arbetsplatsolycka-vaxjo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 426685,
+    "datetime": "2023-05-22 8:12:54 +02:00",
+    "name": "21 maj 21:04, Trafikbrott, Gotlands län",
+    "summary": "På Skeppsbron stoppade polisen en personbil och dess förare.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-2104-trafikbrott-gotlands-lan/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 426675,
+    "datetime": "2023-05-22 7:21:39 +02:00",
+    "name": "22 maj 07:01, Trafikolycka, Luleå",
+    "summary": "Polispatrull på E4, Börjelslandet, uppmärksammar en personbil som kört in i mitträcket.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0701-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 426671,
+    "datetime": "2023-05-22 8:00:22 +02:00",
+    "name": "22 maj 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "En lugn natt efter kl. 22.00 igår kväll.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 426677,
+    "datetime": "2023-05-22 8:00:16 +02:00",
+    "name": "22 maj 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "En lugn natt i länet efter kl. 22.00 igår kväll. Ca 65 st händelserapporter upprättade men ingen större händel",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 426678,
+    "datetime": "2023-05-22 8:00:08 +02:00",
+    "name": "22 maj 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "En lugn natt utan större händelser. Ca 45 st händelserapporter upprättade.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 426684,
+    "datetime": "2023-05-22 7:57:10 +02:00",
+    "name": "21 maj 18:02, Olaga hot, Sigtuna",
+    "summary": "Brottsoffret tog sig ur lägenheten för att ringa till polisen och berätta att hans flickvän hotat honom.",
+    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1802-olaga-hot-sigtuna/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 426683,
+    "datetime": "2023-05-22 7:50:15 +02:00",
+    "name": "22 maj 07:16, Trafikolycka, vilt, Sundsvall",
+    "summary": "Polisen får in en anmäöan om en viltolycka på E4, söder om Birsta.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0716-trafikolycka-vilt-sundsvall/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 426682,
     "datetime": "2023-05-22 7:40:13 +02:00",
     "name": "22 maj 07:40, Sammanfattning natt, Örebro län",
@@ -57,18 +165,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 426675,
-    "datetime": "2023-05-22 7:21:39 +02:00",
-    "name": "22 maj 07:01, Trafikolycka, Luleå",
-    "summary": "Polispatrull på E4, Börjelslandet, uppmärksammar en personbil som kört in i mitträcket.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0701-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Hedemora",
       "gps": "60.277545,15.985892"
-    }
-  },
-  {
-    "id": 425993,
-    "datetime": "2023-05-16 12:09:46 +02:00",
-    "name": "16 maj 11:11, Trafikkontroll, Sundsvall",
-    "summary": "Njurunda, resultat efter trafikkontroll vid Mjösundsvägen",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1111-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 425992,
-    "datetime": "2023-05-16 11:28:59 +02:00",
-    "name": "16 maj 10:02, Arbetsplatsolycka, Alingsås",
-    "summary": "Polis, räddningstjänst och ambulans larmas till Gendalen Stora Mellby med anledning av en sprängolycka.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1002-arbetsplatsolycka-alingsas/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
-    }
-  },
-  {
-    "id": 425990,
-    "datetime": "2023-05-16 11:17:28 +02:00",
-    "name": "16 maj 07:06, Trafikolycka, smitning från, Västerås",
-    "summary": "Lastbilsförare körde ned elskåp och lyktstolpar.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-0706-trafikolycka-smitning-fran-vasteras/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 425987,
-    "datetime": "2023-05-16 11:04:13 +02:00",
-    "name": "16 maj 10:54, Brand, Sundbyberg",
-    "summary": "Polis och räddningstjänst är på väg till ett parkeringsgarage i Rissne med anledning av en befarad brand.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1054-brand-sundbyberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 425986,
-    "datetime": "2023-05-16 10:44:20 +02:00",
-    "name": "16 maj 10:29, Trafikkontroll, Skellefteå",
-    "summary": "Morö Backe, resultat efter trafikkontroll vid Höjdgatan",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1029-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 425985,
-    "datetime": "2023-05-16 10:42:52 +02:00",
-    "name": "16 maj 10:28, Trafikkontroll, Piteå",
-    "summary": "Zonområdet, resultat efter trafikkontroll vid Hamngatan/Lillbrogatan",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1028-trafikkontroll-pitea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 425982,
-    "datetime": "2023-05-16 10:07:10 +02:00",
-    "name": "16 maj 10:00, Trafikolycka, Södertälje",
-    "summary": "Polis och ambulans kallas till Karlundsgatan/Täppgatan i Södertälje med anledning av att två personbilar har k",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1000-trafikolycka-sodertalje/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 425977,
-    "datetime": "2023-05-16 9:54:37 +02:00",
-    "name": "16 maj 07:35, Trafikolycka, Kiruna",
-    "summary": "Kiruna, larm inkommer gällande påbackad person",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-0735-trafikolycka-kiruna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
     }
   }
 ]
