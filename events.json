@@ -1,5 +1,101 @@
 [
   {
+    "id": 426740,
+    "datetime": "2023-05-22 14:36:25 +02:00",
+    "name": "22 maj 06:46, Motorfordon, anträffat stulet, Norrtälje",
+    "summary": "Enligt uppgift skulle en stulen lastbil finnas i Herräng.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0646-motorfordon-antraffat-stulet-norrtalje/",
+    "type": "Motorfordon, anträffat stulet",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 426739,
+    "datetime": "2023-05-22 14:30:27 +02:00",
+    "name": "22 maj 14:28, Trafikolycka, Trosa",
+    "summary": "Förare körde in i räcke",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1428-trafikolycka-trosa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trosa",
+      "gps": "58.902655,17.549464"
+    }
+  },
+  {
+    "id": 426737,
+    "datetime": "2023-05-22 14:28:36 +02:00",
+    "name": "22 maj 12:51, Larm Inbrott, Stockholm",
+    "summary": "Den man som greps på Södermalm är misstänkt för rån.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1251-larm-inbrott-stockholm/",
+    "type": "Larm Inbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 426721,
+    "datetime": "2023-05-22 13:19:39 +02:00",
+    "name": "22 maj 12:38, Rån, Kristianstad",
+    "summary": "Personrån på Östra Boulevarden.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1238-ran-kristianstad/",
+    "type": "Rån",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 426723,
+    "datetime": "2023-05-22 13:04:51 +02:00",
+    "name": "22 maj 12:28, Trafikolycka, Värmdö",
+    "summary": "I Fruvik skedde en olycka mellan två fordonsförare.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1228-trafikolycka-varmdo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 426736,
+    "datetime": "2023-05-22 14:09:28 +02:00",
+    "name": "22 maj 12:13, Skadegörelse, Stockholm",
+    "summary": "I Farsta centrum grep två personer den man som gjort skadegörelse på ett fordon.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1213-skadegorelse-stockholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 426734,
+    "datetime": "2023-05-22 13:59:49 +02:00",
+    "name": "22 maj 12:10, Arbetsplatsolycka, Ludvika",
+    "summary": "En arbetsplatsolycka har inträffat i Ludvika.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1210-arbetsplatsolycka-ludvika/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 426732,
+    "datetime": "2023-05-22 13:46:37 +02:00",
+    "name": "22 maj 13:17, Brand, Karlstad",
+    "summary": "Det har brunnit i en lägenhet i Karlstad.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1317-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 426729,
     "datetime": "2023-05-22 13:27:36 +02:00",
     "name": "22 maj 13:20, Brand, Linköping",
@@ -60,18 +156,6 @@
     }
   },
   {
-    "id": 426721,
-    "datetime": "2023-05-22 13:19:39 +02:00",
-    "name": "22 maj 12:38, Rån, Kristianstad",
-    "summary": "Personrån på Östra Boulevarden.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1238-ran-kristianstad/",
-    "type": "Rån",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
     "id": 426726,
     "datetime": "2023-05-22 13:18:08 +02:00",
     "name": "22 maj 12:06, Stöld, Lindesberg",
@@ -105,18 +189,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 426723,
-    "datetime": "2023-05-22 13:04:51 +02:00",
-    "name": "22 maj 12:28, Trafikolycka, Värmdö",
-    "summary": "I Fruvik skedde en olycka mellan två fordonsförare.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1228-trafikolycka-varmdo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 426056,
-    "datetime": "2023-05-16 20:59:36 +02:00",
-    "name": "16 maj 16:03, Trafikbrott, Solna",
-    "summary": "I Hagalund omhändertog polisen en personbil för Kronofogdemyndighetens räkning.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1603-trafikbrott-solna/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 426055,
-    "datetime": "2023-05-16 20:27:30 +02:00",
-    "name": "16 maj 14:55, Våld/hot mot tjänsteman, Luleå",
-    "summary": "Man gripen misstänkt för våld mot tjänsteman pch våldsamt motstånd.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1455-valdhot-mot-tjansteman-lulea/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 426054,
-    "datetime": "2023-05-16 20:26:27 +02:00",
-    "name": "16 maj 19:40, Trafikbrott, Stockholm",
-    "summary": "Personbilsförare på Södermalm rapporterades för trafikbrott.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1940-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 426053,
-    "datetime": "2023-05-16 20:22:48 +02:00",
-    "name": "16 maj 18:50, Narkotikabrott, Sigtuna",
-    "summary": "Uppgifter att personer på/vid Malmbryggan hade med sig ett vapenliknande föremål.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1850-narkotikabrott-sigtuna/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 426052,
-    "datetime": "2023-05-16 20:03:01 +02:00",
-    "name": "16 maj 18:38, Olovlig körning, Gällivare",
-    "summary": "Man i Gällivare misstänks för grov olovlig körning.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1838-olovlig-korning-gallivare/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 426051,
-    "datetime": "2023-05-16 19:49:28 +02:00",
-    "name": "16 maj 19:49, Övrigt, Örnsköldsvik",
-    "summary": "Man anhållen misstänkt för penningtvättsbrott.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1949-ovrigt-ornskoldsvik/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
