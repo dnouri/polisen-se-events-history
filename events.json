@@ -1,5 +1,53 @@
 [
   {
+    "id": 426701,
+    "datetime": "2023-05-22 10:15:49 +02:00",
+    "name": "22 maj 00:08, Skadegörelse, Huddinge",
+    "summary": "Två fordon skadades av branden som startade på en parkering i Skogås.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0008-skadegorelse-huddinge/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 426700,
+    "datetime": "2023-05-22 10:08:44 +02:00",
+    "name": "22 maj 09:14, Rattfylleri, Kristinehamn",
+    "summary": "Polispatrull stoppar en misstänkt påverkad bilist i Kristinehamn.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0914-rattfylleri-kristinehamn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 426699,
+    "datetime": "2023-05-22 10:07:35 +02:00",
+    "name": "22 maj 07:49, Rattfylleri, Avesta",
+    "summary": "Polispatrull stoppar en misstänkt påverkad bilist i Avesta.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0749-rattfylleri-avesta/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 426698,
+    "datetime": "2023-05-22 10:06:44 +02:00",
+    "name": "22 maj 06:51, Rattfylleri, Årjäng",
+    "summary": "Polispatrull stoppar en misstänkt påverkad bilist på E18 utanför Årjäng.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0651-rattfylleri-arjang/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Årjäng",
+      "gps": "59.389159,12.132717"
+    }
+  },
+  {
     "id": 426696,
     "datetime": "2023-05-22 9:38:25 +02:00",
     "name": "22 maj 09:29, Brand, Högsby",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Högsby",
       "gps": "57.172604,16.020619"
+    }
+  },
+  {
+    "id": 426502,
+    "datetime": "2023-05-19 21:43:34 +02:00",
+    "name": "19 maj 07:08, Försvunnen person, Krokom",
+    "summary": "Försvunnen person i Föllingebygden.",
+    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0708-forsvunnen-person-krokom/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
     }
   },
   {
@@ -1629,18 +1689,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 426502,
-    "datetime": "2023-05-19 21:43:34 +02:00",
-    "name": "19 maj 07:08, Försvunnen person, Krokom",
-    "summary": "Försvunnen person i Föllingebygden.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0708-forsvunnen-person-krokom/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 426001,
-    "datetime": "2023-05-16 13:14:34 +02:00",
-    "name": "16 maj 13:09, Arbetsplatsolycka, Helsingborg",
-    "summary": "Larm om arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1309-arbetsplatsolycka-helsingborg/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 425995,
-    "datetime": "2023-05-16 12:14:51 +02:00",
-    "name": "16 maj 10:47, Ofredande/förargelse, Kristianstad",
-    "summary": "Man gripen, Nosaby.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1047-ofredandeforargelse-kristianstad/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 426002,
-    "datetime": "2023-05-16 13:20:17 +02:00",
-    "name": "16 maj 12:28, Trafikolycka, personskada, Halmstad",
-    "summary": "Vid Källegatan är det en manlig bilist som kör på en kvinnlig fotgängare.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1228-trafikolycka-personskada-halmstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 426000,
-    "datetime": "2023-05-16 13:02:44 +02:00",
-    "name": "16 maj 12:42, Trafikolycka, Haninge",
-    "summary": "Polis och ambulans kallas till Österhaningevägen vid avfarten från Nynäsvägen i södergående riktning med anled",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1242-trafikolycka-haninge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   }
 ]
