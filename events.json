@@ -1,5 +1,41 @@
 [
   {
+    "id": 426707,
+    "datetime": "2023-05-22 11:21:41 +02:00",
+    "name": "22 maj 10:27, Brand, Bjurholm",
+    "summary": "Larm om brand i en villa i Bjurholm.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1027-brand-bjurholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Bjurholm",
+      "gps": "63.930406,19.219213"
+    }
+  },
+  {
+    "id": 426672,
+    "datetime": "2023-05-22 7:12:53 +02:00",
+    "name": "22 maj 03:04, Mord/dråp, försök, Stockholm",
+    "summary": "Den man som är misstänkt för försök till mord i en lägenhet i Grimsta greps av polis.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0304-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 426674,
+    "datetime": "2023-05-22 7:17:21 +02:00",
+    "name": "22 maj 02:33, Stöld, Stockholm",
+    "summary": "På Södermalm grep väktare den man som hittades i ett cykelrum.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0233-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 426706,
     "datetime": "2023-05-22 11:11:33 +02:00",
     "name": "21 maj 22:34, Stöld/inbrott, Vallentuna",
@@ -324,18 +360,6 @@
     }
   },
   {
-    "id": 426674,
-    "datetime": "2023-05-22 7:17:21 +02:00",
-    "name": "22 maj 02:33, Stöld, Stockholm",
-    "summary": "På Södermalm grep väktare den man som hittades i ett cykelrum.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0233-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 426667,
     "datetime": "2023-05-22 7:14:21 +02:00",
     "name": "22 maj 07:14, Sammanfattning natt, Norrbottens län",
@@ -393,18 +417,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 426672,
-    "datetime": "2023-05-22 7:12:53 +02:00",
-    "name": "22 maj 03:04, Mord/dråp, försök, Stockholm",
-    "summary": "Den man som är misstänkt för försök till mord i en lägenhet i Grimsta greps av polis.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0304-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Vimmerby",
       "gps": "57.669034,15.858857"
-    }
-  },
-  {
-    "id": 426018,
-    "datetime": "2023-05-16 14:46:03 +02:00",
-    "name": "16 maj 13:34, Trafikolycka, Ludvika",
-    "summary": "Ett lastbilekipage har fororsakat en trafikolycka på Vallhallavägen i Ludvika.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1334-trafikolycka-ludvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
     }
   }
 ]
