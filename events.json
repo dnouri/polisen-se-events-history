@@ -1,5 +1,101 @@
 [
   {
+    "id": 426725,
+    "datetime": "2023-05-22 13:06:09 +02:00",
+    "name": "22 maj 13:05, Övrigt, Örebro län",
+    "summary": "Varning för båtmotortjuvar!",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1305-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 426724,
+    "datetime": "2023-05-22 13:05:39 +02:00",
+    "name": "22 maj 13:04, Övrigt, Dalarnas län",
+    "summary": "Varning för båtmotortjuvar!",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1304-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 426723,
+    "datetime": "2023-05-22 13:04:51 +02:00",
+    "name": "22 maj 12:28, Trafikolycka, Värmdö",
+    "summary": "I Fruvik skedde en olycka mellan två fordonsförare.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1228-trafikolycka-varmdo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 426722,
+    "datetime": "2023-05-22 13:04:48 +02:00",
+    "name": "22 maj 13:04, Övrigt, Värmlands län",
+    "summary": "Varning för båtmotortjuvar!",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1304-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 426720,
+    "datetime": "2023-05-22 13:01:59 +02:00",
+    "name": "22 maj 13:00, Trafikkontroll, Örebro",
+    "summary": "I onsdags förra veckan genomfördes en trafikinsats vid rastplats Björnfallet utanför Örebro där polisen samver",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1300-trafikkontroll-orebro/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 426709,
+    "datetime": "2023-05-22 12:55:52 +02:00",
+    "name": "22 maj 12:55, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat efter trafikkontroller under förmiddagen.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1255-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 426707,
+    "datetime": "2023-05-22 11:21:41 +02:00",
+    "name": "22 maj 10:27, Brand, Bjurholm",
+    "summary": "Larm om brand i en villa i Bjurholm.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1027-brand-bjurholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Bjurholm",
+      "gps": "63.930406,19.219213"
+    }
+  },
+  {
+    "id": 426718,
+    "datetime": "2023-05-22 12:48:13 +02:00",
+    "name": "22 maj 12:36, Trafikolycka, Borås",
+    "summary": "På Norrby Långgata har en lastbil kört på en personbil bakifrån enligt SOS.",
+    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1236-trafikolycka-boras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
     "id": 426649,
     "datetime": "2023-05-21 14:57:28 +02:00",
     "name": "21 maj 13:26, Anträffad död, Gävleborgs län",
@@ -105,18 +201,6 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 426707,
-    "datetime": "2023-05-22 11:21:41 +02:00",
-    "name": "22 maj 10:27, Brand, Bjurholm",
-    "summary": "Larm om brand i en villa i Bjurholm.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1027-brand-bjurholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Bjurholm",
-      "gps": "63.930406,19.219213"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Herrljunga",
       "gps": "58.078029,13.018839"
-    }
-  },
-  {
-    "id": 426038,
-    "datetime": "2023-05-16 17:24:52 +02:00",
-    "name": "16 maj 17:22, Misshandel, Värnamo",
-    "summary": "Misshandlad person till sjukhus",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1722-misshandel-varnamo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 426037,
-    "datetime": "2023-05-16 17:12:31 +02:00",
-    "name": "16 maj 16:28, Trafikolycka, Östersund",
-    "summary": "Trafikolycka på Trondheimsvägen, Lugnvik.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1628-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 426036,
-    "datetime": "2023-05-16 16:57:07 +02:00",
-    "name": "16 maj 15:52, Rattfylleri, Nynäshamn",
-    "summary": "Misstänkt berusad förare stoppades i Sorunda.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1552-rattfylleri-nynashamn/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 426035,
-    "datetime": "2023-05-16 16:54:43 +02:00",
-    "name": "16 maj 15:15, Fylleri/LOB, Luleå",
-    "summary": "Bersad man omhändertagen på Storgatan i Luleå.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1515-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 426019,
-    "datetime": "2023-05-16 16:34:58 +02:00",
-    "name": "16 maj 12:11, Skadegörelse, Umeå",
-    "summary": "Skadegörelse på bil på Tomtebo i Umeå.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1211-skadegorelse-umea/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 426034,
-    "datetime": "2023-05-16 16:27:11 +02:00",
-    "name": "16 maj 14:52, Trafikolycka, personskada, Kungälv",
-    "summary": "På länsväg 570 i Torsby har en 11-årig pojke blivit påkörd av en bilist.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1452-trafikolycka-personskada-kungalv/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 426033,
-    "datetime": "2023-05-16 16:14:55 +02:00",
-    "name": "16 maj 16:14, Trafikkontroll, Sundsvall",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/maj/16/16-maj-1614-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
