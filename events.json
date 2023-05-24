@@ -1,14 +1,26 @@
 [
   {
-    "id": 426960,
-    "datetime": "2023-05-24 13:01:30 +02:00",
-    "name": "24 maj 13:00, Larm Överfall, Eskilstuna",
-    "summary": "Flera polispatruller arbetar i centrala Eskilstuna i efterspelet av ett brott.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1300-larm-overfall-eskilstuna/",
-    "type": "Larm Överfall",
+    "id": 426983,
+    "datetime": "2023-05-24 15:17:04 +02:00",
+    "name": "24 maj 15:13, Brand, Sävsjö",
+    "summary": "Brand i bostad",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1513-brand-savsjo/",
+    "type": "Brand",
     "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
+      "name": "Sävsjö",
+      "gps": "57.398996,14.665814"
+    }
+  },
+  {
+    "id": 426959,
+    "datetime": "2023-05-24 12:45:36 +02:00",
+    "name": "24 maj 12:24, Brand, Falkenberg",
+    "summary": "Det brinner i en ladugård i Slöinge.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1224-brand-falkenberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 426960,
+    "datetime": "2023-05-24 13:01:30 +02:00",
+    "name": "24 maj 13:00, Larm Överfall, Eskilstuna",
+    "summary": "Flera polispatruller arbetar i centrala Eskilstuna i efterspelet av ett brott.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1300-larm-overfall-eskilstuna/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -45,18 +69,6 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 426959,
-    "datetime": "2023-05-24 12:45:36 +02:00",
-    "name": "24 maj 12:24, Brand, Falkenberg",
-    "summary": "Det brinner i en ladugård i Slöinge.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1224-brand-falkenberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 426268,
-    "datetime": "2023-05-18 0:50:24 +02:00",
-    "name": "17 maj 23:52, Mord/dråp, försök, Stockholms län",
-    "summary": "Skottlossning i Rågsved, tre personer är skottskadade.",
-    "url": "/aktuellt/handelser/2023/maj/17/17-maj-2352-morddrap-forsok-stockholms-lan/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
