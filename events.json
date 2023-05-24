@@ -1,5 +1,113 @@
 [
   {
+    "id": 426995,
+    "datetime": "2023-05-24 16:14:36 +02:00",
+    "name": "24 maj 15:42, Trafikolycka, Sundsvall",
+    "summary": "Sundsvall, singelolycka i Kvissleby.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1542-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 426994,
+    "datetime": "2023-05-24 16:13:32 +02:00",
+    "name": "24 maj 10:42, Olaga hot, Avesta",
+    "summary": "En man misstänks för misshandel och senare även Grovt vapenbrott misshandel och Grovt olaga hot",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1042-olaga-hot-avesta/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 426993,
+    "datetime": "2023-05-24 16:13:00 +02:00",
+    "name": "24 maj 15:46, Trafikolycka, Boden",
+    "summary": "Boden, trafikolycka i Svartbjörnsbyn.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1546-trafikolycka-boden/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 426991,
+    "datetime": "2023-05-24 16:07:38 +02:00",
+    "name": "24 maj 13:27, Trafikolycka, Kalix",
+    "summary": "Kalix, trafikolycka vid korsningen Nyborgsvägen/Stabsvägen.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1327-trafikolycka-kalix/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 426989,
+    "datetime": "2023-05-24 16:05:49 +02:00",
+    "name": "24 maj 14:26, Rån övrigt, Malmö",
+    "summary": "Lugnet. En kvinna blir bestulen på en halskedja utomhus.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1426-ran-ovrigt-malmo/",
+    "type": "Rån övrigt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 426988,
+    "datetime": "2023-05-24 16:05:04 +02:00",
+    "name": "24 maj 14:55, Trafikolycka, personskada, Uppsala",
+    "summary": "Cyklist påkörd i Uppsala.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1455-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 426987,
+    "datetime": "2023-05-24 16:01:22 +02:00",
+    "name": "24 maj 12:43, Trafikolycka, smitning från, Mora",
+    "summary": "En äldre man har kört på en cyklist som åkte i samma riktning.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1243-trafikolycka-smitning-fran-mora/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 426892,
+    "datetime": "2023-05-24 3:37:20 +02:00",
+    "name": "24 maj 01:59, Detonation, Täby",
+    "summary": "Någonting detonerar i ett garage i Täby.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-0159-detonation-taby/",
+    "type": "Detonation",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
+    "id": 426960,
+    "datetime": "2023-05-24 13:01:30 +02:00",
+    "name": "24 maj 13:00, Larm Överfall, Eskilstuna",
+    "summary": "Flera polispatruller arbetar i centrala Eskilstuna i efterspelet av ett brott.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1300-larm-overfall-eskilstuna/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 426986,
     "datetime": "2023-05-24 15:38:10 +02:00",
     "name": "24 maj 12:53, Narkotikabrott, Luleå",
@@ -57,18 +165,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 426960,
-    "datetime": "2023-05-24 13:01:30 +02:00",
-    "name": "24 maj 13:00, Larm Överfall, Eskilstuna",
-    "summary": "Flera polispatruller arbetar i centrala Eskilstuna i efterspelet av ett brott.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1300-larm-overfall-eskilstuna/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -585,18 +681,6 @@
     "location": {
       "name": "Sundbyberg",
       "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 426892,
-    "datetime": "2023-05-24 3:37:20 +02:00",
-    "name": "24 maj 01:59, Detonation, Täby",
-    "summary": "Någonting detonerar i ett garage i Täby.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-0159-detonation-taby/",
-    "type": "Detonation",
-    "location": {
-      "name": "Täby",
-      "gps": "59.4419,18.07033"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 426326,
-    "datetime": "2023-05-18 11:58:48 +02:00",
-    "name": "18 maj 11:32, Trafikolycka, Nyköping",
-    "summary": "Voltad bil väster om Nyköping",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1132-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 426327,
-    "datetime": "2023-05-18 11:59:08 +02:00",
-    "name": "18 maj 11:47, Trafikolycka, Klippan",
-    "summary": "Lastbil i olycka, Bonnarp.",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1147-trafikolycka-klippan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Klippan",
-      "gps": "56.1349,13.129041"
-    }
-  },
-  {
-    "id": 426330,
-    "datetime": "2023-05-18 12:51:34 +02:00",
-    "name": "18 maj 12:51, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1251-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 426331,
-    "datetime": "2023-05-18 12:46:50 +02:00",
-    "name": "18 maj 11:13, Trafikbrott, Umeå",
-    "summary": "Umeå, motorcyklist misstänks för trafikbrott.",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1113-trafikbrott-umea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 426329,
-    "datetime": "2023-05-18 12:37:41 +02:00",
-    "name": "18 maj 12:37, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-1237-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 426328,
-    "datetime": "2023-05-18 12:34:08 +02:00",
-    "name": "18 maj 09:23, Trafikkontroll, Härjedalen",
-    "summary": "Norr-Hede, resultat från en trafikkontroll.",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-0923-trafikkontroll-harjedalen/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 426320,
-    "datetime": "2023-05-18 9:18:02 +02:00",
-    "name": "18 maj 07:42, Djur, Sotenäs",
-    "summary": "En död späckhuggare har hittats vid Hunnebostrand.",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-0742-djur-sotenas/",
-    "type": "Djur",
-    "location": {
-      "name": "Sotenäs",
-      "gps": "58.440139,11.361439"
     }
   }
 ]
