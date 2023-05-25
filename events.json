@@ -1,5 +1,41 @@
 [
   {
+    "id": 427132,
+    "datetime": "2023-05-25 15:42:13 +02:00",
+    "name": "25 maj 15:41, Brand, Vaggeryd",
+    "summary": "SOS-larm gällande rökutveckling från industrilokal i Skillingaryd.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1541-brand-vaggeryd/",
+    "type": "Brand",
+    "location": {
+      "name": "Vaggeryd",
+      "gps": "57.498962,14.14863"
+    }
+  },
+  {
+    "id": 427126,
+    "datetime": "2023-05-25 15:38:10 +02:00",
+    "name": "25 maj 15:37, Stöld, Nyköping",
+    "summary": "Man misstänks för att ha stulit varor i klädbutik.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1537-stold-nykoping/",
+    "type": "Stöld",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 427125,
+    "datetime": "2023-05-25 15:34:42 +02:00",
+    "name": "25 maj 12:13, Rattfylleri, Sollefteå",
+    "summary": "Misstänkt rattfylleri i trakten av Näsåker.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1213-rattfylleri-solleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
     "id": 427110,
     "datetime": "2023-05-25 13:40:56 +02:00",
     "name": "25 maj 12:34, Trafikkontroll, Umeå",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Nynäshamn",
       "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 426399,
-    "datetime": "2023-05-19 7:55:50 +02:00",
-    "name": "19 maj 07:55, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0755-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 426405,
-    "datetime": "2023-05-19 7:55:45 +02:00",
-    "name": "19 maj 07:55, Sammanfattning natt, Södermanlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0755-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 426406,
-    "datetime": "2023-05-19 7:55:41 +02:00",
-    "name": "19 maj 07:55, Sammanfattning natt, Jönköpings län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0755-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
