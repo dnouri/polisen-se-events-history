@@ -1,17 +1,5 @@
 [
   {
-    "id": 427015,
-    "datetime": "2023-05-24 19:00:08 +02:00",
-    "name": "24 maj 17:49, Mord/dråp, försök, Uppsala",
-    "summary": "Skärskadad man förs med ambulans till sjukhus.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1749-morddrap-forsok-uppsala/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
     "id": 427059,
     "datetime": "2023-05-25 7:59:38 +02:00",
     "name": "25 maj 08:00, Sammanfattning natt, Östergötlands län",
@@ -27,24 +15,12 @@
     "id": 427081,
     "datetime": "2023-05-25 8:59:53 +02:00",
     "name": "25 maj 07:32, Rån, Göteborg",
-    "summary": "En man hotar en kvinna med en trasig glasflaska och rånar henne på en bärbar dator.",
+    "summary": "En man hotar en kvinna med en trasig glasflaska och rånar henne på en bärbar dator vid De Geersgatan i Lunden.",
     "url": "/aktuellt/handelser/2023/maj/25/25-maj-0732-ran-goteborg/",
     "type": "Rån",
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 427077,
-    "datetime": "2023-05-25 8:53:05 +02:00",
-    "name": "25 maj 08:46, Djur, Vilhelmina",
-    "summary": "Vilhelmina, upphittad hund finns på polisstationen",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-0846-djur-vilhelmina/",
-    "type": "Djur",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
     }
   },
   {
@@ -57,6 +33,78 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 427085,
+    "datetime": "2023-05-25 10:09:57 +02:00",
+    "name": "25 maj 09:50, Arbetsplatsolycka, Bjuv",
+    "summary": "Larm om arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-0950-arbetsplatsolycka-bjuv/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Bjuv",
+      "gps": "56.087102,12.912505"
+    }
+  },
+  {
+    "id": 427084,
+    "datetime": "2023-05-25 10:08:08 +02:00",
+    "name": "25 maj 09:52, Trafikolycka, Ängelholm",
+    "summary": "Larm om cykelolycka",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-0952-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 427083,
+    "datetime": "2023-05-25 10:06:50 +02:00",
+    "name": "25 maj 10:06, Övrigt, Sollefteå",
+    "summary": "Man anhållen misstänkt för förberedelse till mord mm.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1006-ovrigt-solleftea/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 427082,
+    "datetime": "2023-05-25 9:43:46 +02:00",
+    "name": "25 maj 09:34, Arbetsplatsolycka, Helsingborg",
+    "summary": "Larm om arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-0934-arbetsplatsolycka-helsingborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 427015,
+    "datetime": "2023-05-24 19:00:08 +02:00",
+    "name": "24 maj 17:49, Mord/dråp, försök, Uppsala",
+    "summary": "Skärskadad man förs med ambulans till sjukhus.",
+    "url": "/aktuellt/handelser/2023/maj/24/24-maj-1749-morddrap-forsok-uppsala/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 427077,
+    "datetime": "2023-05-25 8:53:05 +02:00",
+    "name": "25 maj 08:46, Djur, Vilhelmina",
+    "summary": "Vilhelmina, upphittad hund finns på polisstationen",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-0846-djur-vilhelmina/",
+    "type": "Djur",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 426392,
-    "datetime": "2023-05-19 7:03:30 +02:00",
-    "name": "19 maj 07:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0700-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 426394,
-    "datetime": "2023-05-19 7:01:34 +02:00",
-    "name": "19 maj 01:35, Brand, Kristianstad",
-    "summary": "Brand i container på Magasingatan.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0135-brand-kristianstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 426393,
-    "datetime": "2023-05-19 6:58:24 +02:00",
-    "name": "19 maj 01:49, Stöld, försök, Karlshamn",
-    "summary": "Inbrottsförsök på Tostarpsvägen i Asarum.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0149-stold-forsok-karlshamn/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 426391,
-    "datetime": "2023-05-19 6:07:41 +02:00",
-    "name": "18 maj 23:15, Mord/dråp, Nacka",
-    "summary": "En kvinna har anträffats avliden i en bostad i Nacka centrum. Polisen har gripit en man och han är misstänkt f",
-    "url": "/aktuellt/handelser/2023/maj/18/18-maj-2315-morddrap-nacka/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
     }
   }
 ]
