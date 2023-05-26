@@ -1,5 +1,65 @@
 [
   {
+    "id": 427337,
+    "datetime": "2023-05-26 20:43:01 +02:00",
+    "name": "26 maj 18:06, Trafikkontroll, Sundsvall",
+    "summary": "Granlo, resultat efter hastighetskontroll vid Västra vägen",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1806-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427336,
+    "datetime": "2023-05-26 20:39:21 +02:00",
+    "name": "26 maj 20:25, Trafikolycka, Växjö",
+    "summary": "Personbil i olycka, Väster.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2025-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 427335,
+    "datetime": "2023-05-26 20:38:01 +02:00",
+    "name": "26 maj 16:56, Fylleri/LOB, Umeå",
+    "summary": "Centrala stan, polis omhändertar en man",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1656-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 427334,
+    "datetime": "2023-05-26 20:36:29 +02:00",
+    "name": "26 maj 15:46, Misshandel, Skellefteå",
+    "summary": "Anderstorp, polis kontaktas gällande misshandel vid en adress",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1546-misshandel-skelleftea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 427332,
+    "datetime": "2023-05-26 20:26:18 +02:00",
+    "name": "26 maj 18:50, Fylleri/LOB, Luleå",
+    "summary": "Innerstaden, polis kontaktas gällande berusad kvinna utomhus",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1850-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 427329,
     "datetime": "2023-05-26 20:10:22 +02:00",
     "name": "26 maj 18:08, Misshandel, Stockholm",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 426574,
-    "datetime": "2023-05-20 14:52:42 +02:00",
-    "name": "20 maj 14:52, Övrigt, Södermanlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1452-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 426572,
-    "datetime": "2023-05-20 14:15:26 +02:00",
-    "name": "20 maj 14:15, Trafikolycka, Katrineholm",
-    "summary": "Kollision mellan två bilar på Mejerigatan.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1415-trafikolycka-katrineholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 426570,
-    "datetime": "2023-05-20 13:41:43 +02:00",
-    "name": "20 maj 13:36, Brand, Solna",
-    "summary": "Det brinner i en tvättmaskin i en tvättstuga i ett flerlägenhetshus i Solna. Såväl polis som räddningstjänst ä",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1336-brand-solna/",
-    "type": "Brand",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 426573,
-    "datetime": "2023-05-20 14:16:04 +02:00",
-    "name": "20 maj 11:21, Trafikkontroll, Umeå",
-    "summary": "E4 Sörmjöle, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1121-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 426558,
-    "datetime": "2023-05-20 12:12:13 +02:00",
-    "name": "20 maj 11:48, Trafikolycka, Strömsund",
-    "summary": "Hammerdal, larm om trafikolycka med lastbil och personbil",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1148-trafikolycka-stromsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
     }
   }
 ]
