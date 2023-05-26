@@ -1,5 +1,65 @@
 [
   {
+    "id": 427194,
+    "datetime": "2023-05-26 8:02:55 +02:00",
+    "name": "26 maj 05:05, Stöld, Partille",
+    "summary": "Vi får samtal om ett pågående inbrott på Brodalsvägen i Partille.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-0505-stold-partille/",
+    "type": "Stöld",
+    "location": {
+      "name": "Partille",
+      "gps": "57.73665,12.125197"
+    }
+  },
+  {
+    "id": 427191,
+    "datetime": "2023-05-26 8:02:19 +02:00",
+    "name": "26 maj 08:02, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-0802-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 427192,
+    "datetime": "2023-05-26 8:02:15 +02:00",
+    "name": "26 maj 08:02, Sammanfattning natt, Södermanlands län",
+    "summary": "Inga ärenden som sticker ut ur polisiär synvinkel.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-0802-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 427189,
+    "datetime": "2023-05-26 8:02:11 +02:00",
+    "name": "26 maj 08:02, Sammanfattning natt, Jönköpings län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-0802-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427193,
+    "datetime": "2023-05-26 7:43:31 +02:00",
+    "name": "26 maj 07:43, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-0743-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 427190,
     "datetime": "2023-05-26 7:31:22 +02:00",
     "name": "26 maj 07:31, Sammanfattning natt, Jämtlands län",
@@ -156,18 +216,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -177,6 +225,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 426491,
-    "datetime": "2023-05-19 19:35:12 +02:00",
-    "name": "19 maj 17:39, Åldringsbrott, Lidköping",
-    "summary": "En kvinna i 85-årsåldern blir bestulen på sin mobiltelefon.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1739-aldringsbrott-lidkoping/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Lidköping",
-      "gps": "58.503505,13.157077"
-    }
-  },
-  {
-    "id": 426490,
-    "datetime": "2023-05-19 19:27:56 +02:00",
-    "name": "19 maj 17:30, Stöld, försök, Göteborg",
-    "summary": "En man i 45-årsåldern grips när han är i färd med att stjäla en cykel vid Sahlgrenska sjukhuset.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1730-stold-forsok-goteborg/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 426395,
-    "datetime": "2023-05-19 7:03:17 +02:00",
-    "name": "19 maj 07:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer en sammanfattning av kvällens och nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 426489,
-    "datetime": "2023-05-19 18:26:49 +02:00",
-    "name": "19 maj 16:59, Trafikolycka, personskada, Göteborg",
-    "summary": "En mc-förare förs till sjukhus efter att ha kört in i en bil på Grusvägen i Gråbo.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1659-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 426487,
-    "datetime": "2023-05-19 17:59:48 +02:00",
-    "name": "19 maj 17:31, Brand, Södertälje",
-    "summary": "Det brinner i en bostad i ett flerfamiljshus och polisen bistår räddningstjänsten som leder släckningsarbetet.",
-    "url": "/aktuellt/handelser/2023/maj/19/19-maj-1731-brand-sodertalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
