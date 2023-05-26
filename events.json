@@ -1,5 +1,77 @@
 [
   {
+    "id": 427349,
+    "datetime": "2023-05-26 22:04:34 +02:00",
+    "name": "26 maj 21:44, Brand, Stockholm",
+    "summary": "Det larmas om rökutveckling från ett hotell/restaurang vid Ladugårdsgärdet.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2144-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 427348,
+    "datetime": "2023-05-26 22:03:11 +02:00",
+    "name": "26 maj 21:15, Trafikbrott, Ragunda",
+    "summary": "Ragunda, ett urval av polisens arbete i trafiken under kvällen",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2115-trafikbrott-ragunda/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Ragunda",
+      "gps": "63.061337,16.396683"
+    }
+  },
+  {
+    "id": 427347,
+    "datetime": "2023-05-26 21:53:27 +02:00",
+    "name": "26 maj 21:23, Stöld/inbrott, Sjöbo",
+    "summary": "Pågående inbrott, Vanstad.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2123-stoldinbrott-sjobo/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 427346,
+    "datetime": "2023-05-26 21:47:47 +02:00",
+    "name": "26 maj 20:59, Skadegörelse, Uppsala",
+    "summary": "Kastar sten genom fönster.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2059-skadegorelse-uppsala/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 427344,
+    "datetime": "2023-05-26 21:45:56 +02:00",
+    "name": "26 maj 21:45, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 427342,
+    "datetime": "2023-05-26 21:45:51 +02:00",
+    "name": "26 maj 21:45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 427345,
     "datetime": "2023-05-26 21:37:35 +02:00",
     "name": "26 maj 17:19, Stöld, Haparanda",
@@ -1128,18 +1200,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -1149,6 +1209,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 426586,
-    "datetime": "2023-05-20 20:29:35 +02:00",
-    "name": "20 maj 20:24, Trafikolycka, singel, Åstorp",
-    "summary": "Kvidinge. En motorcyklist har kört omkull.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-2024-trafikolycka-singel-astorp/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 426584,
-    "datetime": "2023-05-20 20:33:30 +02:00",
-    "name": "20 maj 20:00, Knivlagen, Göteborg",
-    "summary": "På Bovallstrandsgatan i Björekärr har en taxichaufför blivit hotad av en kund.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-2000-knivlagen-goteborg/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 426585,
-    "datetime": "2023-05-20 20:27:43 +02:00",
-    "name": "20 maj 19:27, Skadegörelse, Sundbyberg",
-    "summary": "Ett gäng ungdomar misstänks för skadegörelse i Lillla Ursvik.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1927-skadegorelse-sundbyberg/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 426583,
-    "datetime": "2023-05-20 19:33:45 +02:00",
-    "name": "20 maj 17:56, Brand, Upplands-bro",
-    "summary": "En bil började brinna under färd i Kungsängen.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1756-brand-upplands-bro/",
-    "type": "Brand",
-    "location": {
-      "name": "Upplands-bro",
-      "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 426582,
-    "datetime": "2023-05-20 19:31:36 +02:00",
-    "name": "20 maj 19:00, Trafikolycka, Södertälje",
-    "summary": "En mc-förare körde omkull i Saltskog.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1900-trafikolycka-sodertalje/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 426581,
-    "datetime": "2023-05-20 18:58:14 +02:00",
-    "name": "20 maj 16:36, Trafikolycka, smitning från, Göteborg",
-    "summary": "En personbil och en moped kolliderar vid Tuve Torg.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1636-trafikolycka-smitning-fran-goteborg/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
