@@ -1,5 +1,53 @@
 [
   {
+    "id": 427329,
+    "datetime": "2023-05-26 20:10:22 +02:00",
+    "name": "26 maj 18:08, Misshandel, Stockholm",
+    "summary": "Ett antal ungdomar har slagits vid sjön Trekanten i Liljeholmen och en är skadad och får åka ambulans till sju",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1808-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 427328,
+    "datetime": "2023-05-26 19:48:54 +02:00",
+    "name": "26 maj 19:01, Rån, Stockholm",
+    "summary": "En butik i Skarpnäck har blivit rånad av en gärningsman som haft ett pistlliknande föremål.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1901-ran-stockholm/",
+    "type": "Rån",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 427327,
+    "datetime": "2023-05-26 19:48:27 +02:00",
+    "name": "26 maj 17:29, Mord/dråp, försök, Gävleborgs län",
+    "summary": "Polis utreder ett mordförsök.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1729-morddrap-forsok-gavleborgs-lan/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 427326,
+    "datetime": "2023-05-26 19:45:23 +02:00",
+    "name": "26 maj 17:54, Trafikolycka, Örebro",
+    "summary": "En bilist är misstänkt för brott i samband med en trafikolycka",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1754-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 427306,
     "datetime": "2023-05-26 17:06:48 +02:00",
     "name": "26 maj 16:48, Trafikolycka, Uddevalla",
@@ -960,18 +1008,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -981,6 +1017,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 426567,
-    "datetime": "2023-05-20 13:31:26 +02:00",
-    "name": "20 maj 13:05, Kontroll person/fordon, Stockholm",
-    "summary": "En person som bor i Vasastaden anträffar en man i ett garage. Den boende bedömer att den anträffade personen ä",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1305-kontroll-personfordon-stockholm/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 426571,
-    "datetime": "2023-05-20 13:53:59 +02:00",
-    "name": "20 maj 13:38, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1338-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 426559,
-    "datetime": "2023-05-20 12:14:23 +02:00",
-    "name": "20 maj 11:48, Trafikolycka, Örnsköldsvik",
-    "summary": "Viktoriaesplanaden, larm om singelolycka med motorcykel",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1148-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 426569,
-    "datetime": "2023-05-20 13:35:57 +02:00",
-    "name": "20 maj 13:22, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken under dagen",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1322-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
