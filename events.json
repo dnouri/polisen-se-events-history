@@ -1,5 +1,41 @@
 [
   {
+    "id": 427250,
+    "datetime": "2023-05-26 12:02:15 +02:00",
+    "name": "26 maj 11:10, Brand, Uppsala",
+    "summary": "Brand i bostadshus.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1110-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 427249,
+    "datetime": "2023-05-26 11:51:11 +02:00",
+    "name": "26 maj 10:11, Trafikolycka, Härnösand",
+    "summary": "Trafikolycka på Bondsjöleden/Kaptensgatan i Härnösand.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1011-trafikolycka-harnosand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 427247,
+    "datetime": "2023-05-26 11:47:57 +02:00",
+    "name": "26 maj 08:26, Narkotikabrott, Luleå",
+    "summary": "Man misstänks för ringa narkotikabrott genom innehav.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-0826-narkotikabrott-lulea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 427246,
     "datetime": "2023-05-26 11:34:53 +02:00",
     "name": "26 maj 11:34, Försvunnen person, Nordmaling",
@@ -456,18 +492,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -477,6 +501,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Karlshamn",
       "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 426525,
-    "datetime": "2023-05-20 7:22:04 +02:00",
-    "name": "20 maj 07:15, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-0715-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 426524,
-    "datetime": "2023-05-20 7:16:59 +02:00",
-    "name": "20 maj 00:52, Rattfylleri, Fagersta",
-    "summary": "Kör av vägen - misstänks för grovt rattfylleri.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-0052-rattfylleri-fagersta/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Fagersta",
-      "gps": "59.989144,15.816642"
-    }
-  },
-  {
-    "id": 426523,
-    "datetime": "2023-05-20 7:15:18 +02:00",
-    "name": "20 maj 03:16, Våld/hot mot tjänsteman, Enköping",
-    "summary": "Hotfull man på Enköpings lasarett.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-0316-valdhot-mot-tjansteman-enkoping/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
     }
   }
 ]
