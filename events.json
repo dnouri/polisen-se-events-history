@@ -1,5 +1,41 @@
 [
   {
+    "id": 427386,
+    "datetime": "2023-05-27 12:42:53 +02:00",
+    "name": "27 maj 12:34, Trafikolycka, Helsingborg",
+    "summary": "Påkörd person på Järnvägsgatan.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1234-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 427385,
+    "datetime": "2023-05-27 12:42:52 +02:00",
+    "name": "27 maj 07:53, Trafikkontroll, Skellefteå",
+    "summary": "Resultat efter en trafikkontroll på Järnvägsleden, Norra Bergsbyn.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0753-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 427384,
+    "datetime": "2023-05-27 12:41:27 +02:00",
+    "name": "27 maj 08:46, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter en trafikkontroll på Granmodalsgatan, Södermalm.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0846-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 427380,
     "datetime": "2023-05-27 11:57:22 +02:00",
     "name": "27 maj 11:16, Stöld, Umeå",
@@ -1560,18 +1596,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -1581,6 +1605,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 426621,
-    "datetime": "2023-05-21 9:25:02 +02:00",
-    "name": "21 maj 01:09, Rattfylleri, Söderhamn",
-    "summary": "Misstänks för rattfylleri efter olycka med fyrhjuling.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0109-rattfylleri-soderhamn/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 426578,
-    "datetime": "2023-05-20 17:40:36 +02:00",
-    "name": "20 maj 14:17, Mord/dråp, Halmstad",
-    "summary": "Allmänheten hittar en död person i vattnet och larmar polis.",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-1417-morddrap-halmstad/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 426620,
-    "datetime": "2023-05-21 9:11:34 +02:00",
-    "name": "21 maj 09:01, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0901-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
