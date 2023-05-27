@@ -1,5 +1,41 @@
 [
   {
+    "id": 427380,
+    "datetime": "2023-05-27 11:57:22 +02:00",
+    "name": "27 maj 11:16, Stöld, Umeå",
+    "summary": "Misstänkt ringa stöld i matbutik i centrala Umeå.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1116-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 427354,
+    "datetime": "2023-05-27 1:13:36 +02:00",
+    "name": "26 maj 23:04, Mord/dråp, Stockholm",
+    "summary": "En svårt skadad tonåring hittas i Södra Hammarbyhamnen.",
+    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2304-morddrap-stockholm/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 427379,
+    "datetime": "2023-05-27 11:54:20 +02:00",
+    "name": "27 maj 10:35, Våld/hot mot tjänsteman, Söderhamn",
+    "summary": "Våldsam man omhändertagen i park.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1035-valdhot-mot-tjansteman-soderhamn/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
     "id": 427378,
     "datetime": "2023-05-27 11:14:00 +02:00",
     "name": "27 maj 05:26, Rån, Umeå",
@@ -282,18 +318,6 @@
     "summary": "En man har avlidit i polisens arrest.",
     "url": "/aktuellt/handelser/2023/maj/26/26-maj-1916-antraffad-dod-stockholm/",
     "type": "Anträffad död",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 427354,
-    "datetime": "2023-05-27 1:13:36 +02:00",
-    "name": "26 maj 23:04, Mord/dråp, försök, Stockholm",
-    "summary": "En svårt skadad tonåring hittas i Södra Hammarbyhamnen.",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2304-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 426619,
-    "datetime": "2023-05-21 9:01:09 +02:00",
-    "name": "21 maj 08:34, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0834-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 426618,
-    "datetime": "2023-05-21 8:35:46 +02:00",
-    "name": "21 maj 08:24, Misshandel, Mora",
-    "summary": "En man gripen efter att han misshandlat en kvinn han har en relation med.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0824-misshandel-mora/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
     }
   }
 ]
