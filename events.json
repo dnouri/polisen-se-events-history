@@ -1,5 +1,113 @@
 [
   {
+    "id": 427375,
+    "datetime": "2023-05-27 7:43:51 +02:00",
+    "name": "27 maj 07:37, Trafikolycka, Trelleborg",
+    "summary": "Cykelolycka på Liljeborgsgatan.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0737-trafikolycka-trelleborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 427363,
+    "datetime": "2023-05-27 7:42:18 +02:00",
+    "name": "27 maj 06:58, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Ett urval ur kvällen/nattens händelser i länet.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0658-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 427374,
+    "datetime": "2023-05-27 7:39:06 +02:00",
+    "name": "27 maj 06:53, Rattfylleri, Västerås",
+    "summary": "Vinglig bilfärd på E18.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0653-rattfylleri-vasteras/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 427362,
+    "datetime": "2023-05-27 7:38:30 +02:00",
+    "name": "27 maj 06:57, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Ett urval ur kvällen/nattens händelser i länet.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0657-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 427373,
+    "datetime": "2023-05-27 7:34:45 +02:00",
+    "name": "27 maj 07:10, Trafikolycka, vilt, Jokkmokk",
+    "summary": "Polisen får in en anmälan om en viltolycka på riksväg 97 i höjd med Rennäs.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0710-trafikolycka-vilt-jokkmokk/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jokkmokk",
+      "gps": "66.606961,19.822921"
+    }
+  },
+  {
+    "id": 427372,
+    "datetime": "2023-05-27 7:32:22 +02:00",
+    "name": "27 maj 07:32, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0732-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 427368,
+    "datetime": "2023-05-27 7:30:26 +02:00",
+    "name": "27 maj 07:30, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0730-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 427361,
+    "datetime": "2023-05-27 7:29:27 +02:00",
+    "name": "27 maj 07:29, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0729-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 427360,
+    "datetime": "2023-05-27 7:28:21 +02:00",
+    "name": "27 maj 07:28, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0728-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 427369,
     "datetime": "2023-05-27 7:18:57 +02:00",
     "name": "27 maj 04:12, Skadegörelse, Hudiksvall",
@@ -1344,18 +1452,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -1365,6 +1461,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 426609,
-    "datetime": "2023-05-21 8:20:27 +02:00",
-    "name": "21 maj 00:44, Brand, Västerås",
-    "summary": "Brand på balkong i flerfamiljshus.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0044-brand-vasteras/",
-    "type": "Brand",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 426516,
-    "datetime": "2023-05-20 6:46:47 +02:00",
-    "name": "20 maj 04:17, Mord/dråp, försök, Haninge",
-    "summary": "En ung man i Brandbergen har tillfogats livshotande skador av en person som troligtvis har använt sig av en kn",
-    "url": "/aktuellt/handelser/2023/maj/20/20-maj-0417-morddrap-forsok-haninge/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 426607,
-    "datetime": "2023-05-21 8:10:30 +02:00",
-    "name": "21 maj 08:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0800-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 426600,
-    "datetime": "2023-05-21 8:09:17 +02:00",
-    "name": "21 maj 08:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0800-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 426603,
-    "datetime": "2023-05-21 8:09:03 +02:00",
-    "name": "21 maj 03:39, Sjukdom/olycksfall, Österåker",
-    "summary": "En man i 20-årsåldern har avlidit i en drunkningsolycka. Olyckan inträffade i samband med bad i Valsjön.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0339-sjukdomolycksfall-osteraker/",
-    "type": "Sjukdom/olycksfall",
-    "location": {
-      "name": "Österåker",
-      "gps": "59.500058,18.352485"
-    }
-  },
-  {
-    "id": 426606,
-    "datetime": "2023-05-21 8:08:51 +02:00",
-    "name": "21 maj 01:21, Mord/dråp, försök, Stockholm",
-    "summary": "En man i 25-årsåldern har gripits  av polis i Vällingby efter det att han har kört på personer med sin bil, me",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0121-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 426598,
-    "datetime": "2023-05-21 8:07:37 +02:00",
-    "name": "21 maj 08:06, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0806-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 426602,
-    "datetime": "2023-05-21 8:07:20 +02:00",
-    "name": "21 maj 08:06, Sammanfattning natt, Östergötlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0806-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 426605,
-    "datetime": "2023-05-21 8:06:53 +02:00",
-    "name": "21 maj 08:06, Sammanfattning natt, Jönköpings län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-0806-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
