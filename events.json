@@ -1,5 +1,65 @@
 [
   {
+    "id": 427417,
+    "datetime": "2023-05-28 7:38:18 +02:00",
+    "name": "28 maj 07:38, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0738-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 427416,
+    "datetime": "2023-05-28 7:37:39 +02:00",
+    "name": "28 maj 02:56, Brand, Trelleborg",
+    "summary": "Brand i garage på Hedvägen.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0256-brand-trelleborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 427415,
+    "datetime": "2023-05-28 7:37:28 +02:00",
+    "name": "28 maj 03:17, Trafikolycka, Gävle",
+    "summary": "Tidningsbil körde in i vägg.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0317-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 427414,
+    "datetime": "2023-05-28 7:33:48 +02:00",
+    "name": "28 maj 07:33, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0733-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 427413,
+    "datetime": "2023-05-28 7:31:00 +02:00",
+    "name": "28 maj 01:26, Brand, Helsingborg",
+    "summary": "Mordbrand och skadegörelse på Södra Hunnetorpsvägen.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0126-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 427412,
     "datetime": "2023-05-28 7:12:50 +02:00",
     "name": "28 maj 06:28, Trafikolycka, Västerås",
@@ -1872,18 +1932,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -1893,6 +1941,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sotenäs",
       "gps": "58.440139,11.361439"
-    }
-  },
-  {
-    "id": 426651,
-    "datetime": "2023-05-21 15:40:22 +02:00",
-    "name": "21 maj 15:18, Trafikbrott, Salem",
-    "summary": "Polisen söker efter två bilar på E4 i Salem. Passagerarna i dessa båda bilar har enligt vittnen skjutit rakete",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1518-trafikbrott-salem/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Salem",
-      "gps": "59.20768,17.774222"
-    }
-  },
-  {
-    "id": 426648,
-    "datetime": "2023-05-21 14:50:10 +02:00",
-    "name": "21 maj 13:15, Olaga hot, Göteborg",
-    "summary": "Vid en bil på Fjällgatan i Masthugget blir en man knivhotad av en annan man.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1315-olaga-hot-goteborg/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 426647,
-    "datetime": "2023-05-21 14:42:46 +02:00",
-    "name": "21 maj 14:41, Övrigt, Jönköpings län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1441-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 426646,
-    "datetime": "2023-05-21 14:42:18 +02:00",
-    "name": "21 maj 14:41, Övrigt, Östergötlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1441-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 426645,
-    "datetime": "2023-05-21 14:41:52 +02:00",
-    "name": "21 maj 14:41, Övrigt, Södermanlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1441-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
