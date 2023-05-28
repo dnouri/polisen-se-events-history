@@ -1,5 +1,41 @@
 [
   {
+    "id": 427510,
+    "datetime": "2023-05-28 14:23:37 +02:00",
+    "name": "28 maj 14:17, Trafikolycka, vilt, Malå",
+    "summary": "Polisen får in en anmälan om en olycka med en personbil och en ren på länsväg 1018, Tjärnberg.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-1417-trafikolycka-vilt-mala/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Malå",
+      "gps": "65.18512,18.74907"
+    }
+  },
+  {
+    "id": 427509,
+    "datetime": "2023-05-28 14:12:31 +02:00",
+    "name": "28 maj 13:20, Fylleri/LOB, Östersund",
+    "summary": "Polisen kontaktas angående en berusad man på ett hotell.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-1320-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 427501,
+    "datetime": "2023-05-28 13:55:37 +02:00",
+    "name": "28 maj 11:28, Trafikolycka, singel, Alingsås",
+    "summary": "Singelolycka med mc vid Bälinge.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-1128-trafikolycka-singel-alingsas/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
+    }
+  },
+  {
     "id": 427503,
     "datetime": "2023-05-28 12:53:04 +02:00",
     "name": "28 maj 12:52, Försvunnen person, Älvsbyn",
@@ -2196,18 +2232,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -2217,6 +2241,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 426678,
-    "datetime": "2023-05-22 8:00:08 +02:00",
-    "name": "22 maj 08:00, Sammanfattning natt, Södermanlands län",
-    "summary": "En lugn natt utan större händelser. Ca 45 st händelserapporter upprättade.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0800-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 426684,
-    "datetime": "2023-05-22 7:57:10 +02:00",
-    "name": "21 maj 18:02, Olaga hot, Sigtuna",
-    "summary": "Brottsoffret tog sig ur lägenheten för att ringa till polisen och berätta att hans flickvän hotat honom.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1802-olaga-hot-sigtuna/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 426683,
-    "datetime": "2023-05-22 7:50:15 +02:00",
-    "name": "22 maj 07:16, Trafikolycka, vilt, Sundsvall",
-    "summary": "Polisen får in en anmäöan om en viltolycka på E4, söder om Birsta.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0716-trafikolycka-vilt-sundsvall/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
