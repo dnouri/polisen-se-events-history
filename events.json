@@ -1,5 +1,53 @@
 [
   {
+    "id": 427412,
+    "datetime": "2023-05-28 7:12:50 +02:00",
+    "name": "28 maj 06:28, Trafikolycka, Västerås",
+    "summary": "Bil kör in i vägräcket på E18.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0628-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 427408,
+    "datetime": "2023-05-28 7:02:05 +02:00",
+    "name": "28 maj 01:32, Våld/hot mot tjänsteman, Växjö",
+    "summary": "Våldsamt motstånd mot ordningsvakt.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0132-valdhot-mot-tjansteman-vaxjo/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 427405,
+    "datetime": "2023-05-28 6:52:48 +02:00",
+    "name": "28 maj 00:56, Skadegörelse, Mörbylånga",
+    "summary": "Skadegörelse på Torget.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0056-skadegorelse-morbylanga/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Mörbylånga",
+      "gps": "56.523757,16.386916"
+    }
+  },
+  {
+    "id": 427402,
+    "datetime": "2023-05-27 21:18:46 +02:00",
+    "name": "27 maj 21:05, Rån, Kalmar",
+    "summary": "Rån mot matvarubutik, Lindsdal.",
+    "url": "/aktuellt/handelser/2023/maj/27/27-maj-2105-ran-kalmar/",
+    "type": "Rån",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
     "id": 427401,
     "datetime": "2023-05-27 20:57:17 +02:00",
     "name": "27 maj 20:01, Försvunnen person, Malmö",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 427402,
-    "datetime": "2023-05-27 21:18:46 +02:00",
-    "name": "27 maj 21:05, Rån, Kalmar",
-    "summary": "Rån mot matvarubutik, Lindsdal.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-2105-ran-kalmar/",
-    "type": "Rån",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -1836,18 +1872,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -1857,6 +1881,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 426644,
-    "datetime": "2023-05-21 14:36:49 +02:00",
-    "name": "21 maj 14:30, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken under söndagen",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1430-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 426643,
-    "datetime": "2023-05-21 14:22:48 +02:00",
-    "name": "21 maj 12:30, Brand, Timrå",
-    "summary": "Söråker, larm om brand i byggnad",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1230-brand-timra/",
-    "type": "Brand",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 426642,
-    "datetime": "2023-05-21 13:49:18 +02:00",
-    "name": "21 maj 13:15, Trafikolycka, Halmstad",
-    "summary": "Två personbilar och en husbil har krockat på E4 i norrgående riktning i höjd med Falkenberg södra.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-1315-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
     }
   }
 ]
