@@ -1,5 +1,65 @@
 [
   {
+    "id": 428623,
+    "datetime": "2023-05-29 21:34:55 +02:00",
+    "name": "29 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 428622,
+    "datetime": "2023-05-29 21:34:49 +02:00",
+    "name": "29 maj 21:34, Övrigt, Östergötlands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2134-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 428621,
+    "datetime": "2023-05-29 21:34:44 +02:00",
+    "name": "29 maj 21:34, Övrigt, Södermanlands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2134-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 428655,
+    "datetime": "2023-05-29 21:25:10 +02:00",
+    "name": "29 maj 21:25, Misshandel, Boden",
+    "summary": "Boden, misstänkt misshandel.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2125-misshandel-boden/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 428654,
+    "datetime": "2023-05-29 21:22:01 +02:00",
+    "name": "29 maj 17:28, Brand, Filipstad",
+    "summary": "Räddningstjänsten i Filipstad fick under kvällen hantera en brand med kraftig rökutveckling i centrala Filipst",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1728-brand-filipstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
     "id": 428653,
     "datetime": "2023-05-29 21:15:28 +02:00",
     "name": "29 maj 20:07, Fylleri/LOB, Piteå",
@@ -3300,18 +3360,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -3321,6 +3369,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 426812,
-    "datetime": "2023-05-23 8:10:18 +02:00",
-    "name": "23 maj 08:04, Trafikolycka, Malmö",
-    "summary": "Larm om cykelolycka",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-0804-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 426813,
-    "datetime": "2023-05-23 8:17:34 +02:00",
-    "name": "23 maj 08:07, Trafikolycka, Växjö",
-    "summary": "Kollision mellan cyklist och bilist",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-0807-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 426811,
-    "datetime": "2023-05-23 8:05:38 +02:00",
-    "name": "23 maj 08:05, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens händelser:",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-0805-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 426797,
-    "datetime": "2023-05-22 22:33:11 +02:00",
-    "name": "22 maj 21:06, Trafikolycka, Täby",
-    "summary": "En a-traktor och en personbil har krockat i Täby kyrkby och två personer har fått åka ambulans respektive ambu",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-2106-trafikolycka-taby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Täby",
-      "gps": "59.4419,18.07033"
-    }
-  },
-  {
-    "id": 426804,
-    "datetime": "2023-05-23 8:00:53 +02:00",
-    "name": "23 maj 08:00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en enstaka notis från nattens händelser. En lugn natt.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-0800-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
