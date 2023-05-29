@@ -1,14 +1,38 @@
 [
   {
+    "id": 428632,
+    "datetime": "2023-05-29 17:10:31 +02:00",
+    "name": "29 maj 17:10, Brand, Vetlanda",
+    "summary": "Polisen larmades om en gräsbrand, Kolvägen.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1710-brand-vetlanda/",
+    "type": "Brand",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
     "id": 428629,
     "datetime": "2023-05-29 16:41:57 +02:00",
-    "name": "29 maj 15:15, Kontroll person/fordon, Borås",
+    "name": "29 maj 15:15, Räddningsinsats, Borås",
     "summary": "Det pågår ett sökarbete vid Ramnasjön.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1515-kontroll-personfordon-boras/",
-    "type": "Kontroll person/fordon",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1515-raddningsinsats-boras/",
+    "type": "Räddningsinsats",
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 428631,
+    "datetime": "2023-05-29 17:07:07 +02:00",
+    "name": "29 maj 16:58, Trafikolycka, Helsingborg",
+    "summary": "Två olyckor, Österleden.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1658-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -3000,18 +3024,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -3021,6 +3033,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 426787,
-    "datetime": "2023-05-22 19:04:01 +02:00",
-    "name": "22 maj 12:31, Övrigt, Fagersta",
-    "summary": "Polis larmas till Sundbo ungdomshem.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1231-ovrigt-fagersta/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Fagersta",
-      "gps": "59.989144,15.816642"
-    }
-  },
-  {
-    "id": 426786,
-    "datetime": "2023-05-22 19:00:30 +02:00",
-    "name": "22 maj 18:57, Misshandel, Malmö",
-    "summary": "Man gripen, Malmö.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1857-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
