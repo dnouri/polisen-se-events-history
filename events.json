@@ -1,5 +1,41 @@
 [
   {
+    "id": 428651,
+    "datetime": "2023-05-29 21:01:24 +02:00",
+    "name": "29 maj 20:49, Rån, Göteborg",
+    "summary": "Vi får in ett larm om rån i en servicebutik vid Kungsportsplatsen.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2049-ran-goteborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 428657,
+    "datetime": "2023-05-29 21:45:18 +02:00",
+    "name": "29 maj 21:45, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 428656,
+    "datetime": "2023-05-29 21:45:13 +02:00",
+    "name": "29 maj 21:45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 428623,
     "datetime": "2023-05-29 21:34:55 +02:00",
     "name": "29 maj 21:34, Övrigt, Jönköpings län",
@@ -81,18 +117,6 @@
     "location": {
       "name": "Hammarö",
       "gps": "59.311466,13.529854"
-    }
-  },
-  {
-    "id": 428651,
-    "datetime": "2023-05-29 21:01:24 +02:00",
-    "name": "29 maj 20:49, Rån, Göteborg",
-    "summary": "Vi får in ett larm om rån i en servicebutik vid Kungsportsplatsen.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2049-ran-goteborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -3360,18 +3384,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -3381,6 +3393,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 426823,
-    "datetime": "2023-05-23 9:10:36 +02:00",
-    "name": "22 maj 22:13, Stöld/inbrott, Skellefteå",
-    "summary": "Misstänkt stöld, Skellefeå centrum",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-2213-stoldinbrott-skelleftea/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 426817,
-    "datetime": "2023-05-23 9:00:37 +02:00",
-    "name": "23 maj 06:44, Trafikolycka, personskada, Västerås",
-    "summary": "Bil och cykel i kollision.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-0644-trafikolycka-personskada-vasteras/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
