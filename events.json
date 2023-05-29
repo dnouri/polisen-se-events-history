@@ -1,5 +1,41 @@
 [
   {
+    "id": 428647,
+    "datetime": "2023-05-29 20:06:53 +02:00",
+    "name": "29 maj 20:06, Misshandel, Jönköping",
+    "summary": "Man gripen misstänkt för misshandel.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-2006-misshandel-jonkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 428643,
+    "datetime": "2023-05-29 18:54:47 +02:00",
+    "name": "29 maj 18:54, Sjukdom/olycksfall, Eskilstuna",
+    "summary": "Barn har på något sätt fallit från en lägenhet - Fröslunda.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1854-sjukdomolycksfall-eskilstuna/",
+    "type": "Sjukdom/olycksfall",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 428646,
+    "datetime": "2023-05-29 19:44:39 +02:00",
+    "name": "29 maj 19:24, Trafikolycka, singel, Stockholm",
+    "summary": "En personbil har voltat vid Ulvsundaplan.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1924-trafikolycka-singel-stockholm/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 428642,
     "datetime": "2023-05-29 18:40:54 +02:00",
     "name": "29 maj 18:15, Trafikolycka, Mölndal",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 428643,
-    "datetime": "2023-05-29 18:54:47 +02:00",
-    "name": "29 maj 18:54, Sjukdom/olycksfall, Eskilstuna",
-    "summary": "Barn har på något sätt fallit från en lägenhet - Fröslunda.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1854-sjukdomolycksfall-eskilstuna/",
-    "type": "Sjukdom/olycksfall",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -3204,18 +3228,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -3225,6 +3237,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 426799,
-    "datetime": "2023-05-23 6:45:10 +02:00",
-    "name": "23 maj 06:00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Godmorgon! Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-0600-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 426800,
-    "datetime": "2023-05-23 6:45:18 +02:00",
-    "name": "23 maj 06:00, Sammanfattning natt, Hallands län",
-    "summary": "Godmorgon! Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-0600-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
