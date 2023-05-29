@@ -1,5 +1,101 @@
 [
   {
+    "id": 428640,
+    "datetime": "2023-05-29 18:20:56 +02:00",
+    "name": "29 maj 17:03, Brand, Bollnäs",
+    "summary": "Brand i fastighet.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1703-brand-bollnas/",
+    "type": "Brand",
+    "location": {
+      "name": "Bollnäs",
+      "gps": "61.34838,16.394269"
+    }
+  },
+  {
+    "id": 428639,
+    "datetime": "2023-05-29 18:17:00 +02:00",
+    "name": "29 maj 18:16, Stöld/inbrott, Gnesta",
+    "summary": "Någon, eller några, ska ha gjort inbrott i en villa.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1816-stoldinbrott-gnesta/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Gnesta",
+      "gps": "59.048348,17.307228"
+    }
+  },
+  {
+    "id": 428627,
+    "datetime": "2023-05-29 16:30:40 +02:00",
+    "name": "29 maj 15:37, Brand, Malmö",
+    "summary": "Rökfylld källare, Fågelbacken.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1537-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 428638,
+    "datetime": "2023-05-29 18:11:03 +02:00",
+    "name": "29 maj 16:25, Brand, Stockholm",
+    "summary": "Brand i flerbostadshus i Bredäng.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1625-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 428637,
+    "datetime": "2023-05-29 17:59:31 +02:00",
+    "name": "29 maj 16:49, Trafikkontroll, Umeå",
+    "summary": "Innertavle, resultat från en trafikkontroll.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1649-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 428636,
+    "datetime": "2023-05-29 17:54:55 +02:00",
+    "name": "29 maj 13:37, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, misstänkt drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1337-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 428635,
+    "datetime": "2023-05-29 17:51:21 +02:00",
+    "name": "29 maj 16:39, Stöld, Sundsvall",
+    "summary": "Birsta, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1639-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 428626,
+    "datetime": "2023-05-29 17:48:07 +02:00",
+    "name": "29 maj 14:04, Arbetsplatsolycka, Solna",
+    "summary": "En person skadas allvarligt av fallande föremål.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1404-arbetsplatsolycka-solna/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
     "id": 428634,
     "datetime": "2023-05-29 17:39:44 +02:00",
     "name": "29 maj 17:39, Stöld, försök, Katrineholm",
@@ -69,18 +165,6 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 428627,
-    "datetime": "2023-05-29 16:30:40 +02:00",
-    "name": "29 maj 15:37, Brand, Malmö",
-    "summary": "Rökfylld källare, Fågelbacken.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1537-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Alvesta",
       "gps": "56.89921,14.556001"
-    }
-  },
-  {
-    "id": 426792,
-    "datetime": "2023-05-22 21:05:15 +02:00",
-    "name": "22 maj 21:03, Övrigt, Norrköping",
-    "summary": "Kontroll på Bergslagsgatan i Norrköping",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-2103-ovrigt-norrkoping/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 426793,
-    "datetime": "2023-05-22 21:12:11 +02:00",
-    "name": "22 maj 18:20, Försvunnen person, Malmö",
-    "summary": "Försvunnen kvinna, Rönneholm.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1820-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 426794,
-    "datetime": "2023-05-22 21:19:10 +02:00",
-    "name": "22 maj 20:10, Kontroll person/fordon, Upplands-bro",
-    "summary": "En bilförare på E18 i norrgående riktning har inte stannat på polismans tecken och kör i väg för att sedan svä",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-2010-kontroll-personfordon-upplands-bro/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Upplands-bro",
-      "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 426791,
-    "datetime": "2023-05-22 20:31:30 +02:00",
-    "name": "22 maj 19:08, Bedrägeri, Stockholm",
-    "summary": "En man i en bar på Östermalm vill inte betala för det han druckit. Anmälan om ringa bedrägeri skrivs.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1908-bedrageri-stockholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 426790,
-    "datetime": "2023-05-22 20:01:17 +02:00",
-    "name": "22 maj 17:53, Kontroll person/fordon, Stockholms län",
-    "summary": "En man uppges ha skickat nakenbilder på sig själv till en minderårig person. En husrannsakan görs hos mannen.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1753-kontroll-personfordon-stockholms-lan/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 426789,
-    "datetime": "2023-05-22 19:43:58 +02:00",
-    "name": "22 maj 19:30, Kontroll person/fordon, Botkyrka",
-    "summary": "En dopingkontroll har gjorts på ett gym i Botkyrka och en person är gripen och misstänkt för dopingbrott.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1930-kontroll-personfordon-botkyrka/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 426785,
-    "datetime": "2023-05-22 18:46:06 +02:00",
-    "name": "22 maj 16:43, Försvunnen person, Arvika",
-    "summary": "En dam i 80-årsåldern lämnade sjukhus efter besök på sjukhuset. Maken anmälde försvinnandet.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1643-forsvunnen-person-arvika/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   }
 ]
