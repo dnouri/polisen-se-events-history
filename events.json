@@ -1,14 +1,26 @@
 [
   {
-    "id": 427518,
-    "datetime": "2023-05-28 23:43:23 +02:00",
-    "name": "28 maj 23:39, Detonation, Hässleholm",
-    "summary": "Larm om hög smäll, Hässleholm.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-2339-detonation-hassleholm/",
-    "type": "Detonation",
+    "id": 428525,
+    "datetime": "2023-05-29 7:21:24 +02:00",
+    "name": "29 maj 03:01, Motorfordon, stöld, Rättvik",
+    "summary": "Två unga män misstänkta för stöld från motorfordon.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0301-motorfordon-stold-rattvik/",
+    "type": "Motorfordon, stöld",
     "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
+    "id": 427513,
+    "datetime": "2023-05-28 16:49:37 +02:00",
+    "name": "28 maj 14:27, Brand, Södertälje",
+    "summary": "Brand på gård utanför Järna.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-1427-brand-sodertalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -18,6 +30,90 @@
     "summary": "Larm om skottlossning, Hässleholm.",
     "url": "/aktuellt/handelser/2023/maj/28/28-maj-2149-skottlossning-hassleholm/",
     "type": "Skottlossning",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 428524,
+    "datetime": "2023-05-29 7:16:29 +02:00",
+    "name": "29 maj 07:16, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0716-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 428523,
+    "datetime": "2023-05-29 7:08:45 +02:00",
+    "name": "29 maj 04:41, Brand, Hultsfred",
+    "summary": "Brand i byggnad, Björkmossavägen.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0441-brand-hultsfred/",
+    "type": "Brand",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
+    }
+  },
+  {
+    "id": 428522,
+    "datetime": "2023-05-29 7:05:44 +02:00",
+    "name": "29 maj 07:05, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0705-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 428519,
+    "datetime": "2023-05-29 7:01:46 +02:00",
+    "name": "29 maj 07:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0700-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 428520,
+    "datetime": "2023-05-29 7:01:35 +02:00",
+    "name": "29 maj 07:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 428521,
+    "datetime": "2023-05-29 7:01:25 +02:00",
+    "name": "29 maj 04:19, Skadegörelse, Olofström",
+    "summary": "Anmälan om grov skadegörelse efter bilbrand, Hemsjö.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0419-skadegorelse-olofstrom/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Olofström",
+      "gps": "56.277708,14.530938"
+    }
+  },
+  {
+    "id": 427518,
+    "datetime": "2023-05-28 23:43:23 +02:00",
+    "name": "28 maj 23:39, Detonation, Hässleholm",
+    "summary": "Larm om hög smäll, Hässleholm.",
+    "url": "/aktuellt/handelser/2023/maj/28/28-maj-2339-detonation-hassleholm/",
+    "type": "Detonation",
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
@@ -57,18 +153,6 @@
     "location": {
       "name": "Dals-ed",
       "gps": "58.974388,11.865175"
-    }
-  },
-  {
-    "id": 427513,
-    "datetime": "2023-05-28 16:49:37 +02:00",
-    "name": "28 maj 14:27, Brand, Södertälje",
-    "summary": "Brand på gård utanför Järna.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-1427-brand-sodertalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -2364,18 +2448,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -2385,6 +2457,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Vallentuna",
       "gps": "59.5357,18.078017"
-    }
-  },
-  {
-    "id": 426705,
-    "datetime": "2023-05-22 11:01:56 +02:00",
-    "name": "22 maj 10:03, Trafikolycka, Katrineholm",
-    "summary": "Singelolycka. Lastbil och släp.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1003-trafikolycka-katrineholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 426704,
-    "datetime": "2023-05-22 10:48:47 +02:00",
-    "name": "21 maj 23:14, Trafikbrott, Norrtälje",
-    "summary": "Personbilsförare rapporterades på Vegagatan.",
-    "url": "/aktuellt/handelser/2023/maj/21/21-maj-2314-trafikbrott-norrtalje/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 426701,
-    "datetime": "2023-05-22 10:15:49 +02:00",
-    "name": "22 maj 00:08, Skadegörelse, Huddinge",
-    "summary": "Två fordon skadades av branden som startade på en parkering i Skogås.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0008-skadegorelse-huddinge/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 426700,
-    "datetime": "2023-05-22 10:08:44 +02:00",
-    "name": "22 maj 09:14, Rattfylleri, Kristinehamn",
-    "summary": "Polispatrull stoppar en misstänkt påverkad bilist i Kristinehamn.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0914-rattfylleri-kristinehamn/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 426699,
-    "datetime": "2023-05-22 10:07:35 +02:00",
-    "name": "22 maj 07:49, Rattfylleri, Avesta",
-    "summary": "Polispatrull stoppar en misstänkt påverkad bilist i Avesta.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0749-rattfylleri-avesta/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 426698,
-    "datetime": "2023-05-22 10:06:44 +02:00",
-    "name": "22 maj 06:51, Rattfylleri, Årjäng",
-    "summary": "Polispatrull stoppar en misstänkt påverkad bilist på E18 utanför Årjäng.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0651-rattfylleri-arjang/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Årjäng",
-      "gps": "59.389159,12.132717"
-    }
-  },
-  {
-    "id": 426696,
-    "datetime": "2023-05-22 9:38:25 +02:00",
-    "name": "22 maj 09:29, Brand, Högsby",
-    "summary": "Brand i villa, Ruda.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-0929-brand-hogsby/",
-    "type": "Brand",
-    "location": {
-      "name": "Högsby",
-      "gps": "57.172604,16.020619"
     }
   }
 ]
