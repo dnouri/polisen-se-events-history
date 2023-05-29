@@ -1,14 +1,38 @@
 [
   {
-    "id": 428625,
-    "datetime": "2023-05-29 16:16:46 +02:00",
-    "name": "29 maj 16:07, Trafikolycka, Markaryd",
-    "summary": "Lastbil och personbil i olycka, Strömsnäsbruk.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1607-trafikolycka-markaryd/",
-    "type": "Trafikolycka",
+    "id": 428629,
+    "datetime": "2023-05-29 16:41:57 +02:00",
+    "name": "29 maj 15:15, Kontroll person/fordon, Borås",
+    "summary": "Det pågår ett sökarbete vid Ramnasjön.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1515-kontroll-personfordon-boras/",
+    "type": "Kontroll person/fordon",
     "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 428628,
+    "datetime": "2023-05-29 16:35:18 +02:00",
+    "name": "29 maj 16:35, Stöld, försök, Linköping",
+    "summary": "Man gripen misstänkt för försök till stöld i butik - Tornby.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1635-stold-forsok-linkoping/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 428627,
+    "datetime": "2023-05-29 16:30:40 +02:00",
+    "name": "29 maj 15:37, Brand, Malmö",
+    "summary": "Rökfylld källare, Fågelbacken.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1537-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 428625,
+    "datetime": "2023-05-29 16:16:46 +02:00",
+    "name": "29 maj 16:07, Trafikolycka, Markaryd",
+    "summary": "Lastbil och personbil i olycka, Strömsnäsbruk.",
+    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1607-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
     }
   },
   {
@@ -2964,18 +3000,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -2985,6 +3009,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 426784,
-    "datetime": "2023-05-22 18:45:14 +02:00",
-    "name": "22 maj 18:18, Brand, Uddevalla",
-    "summary": "Brand på en gård i Synnebol.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1818-brand-uddevalla/",
-    "type": "Brand",
-    "location": {
-      "name": "Uddevalla",
-      "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 426782,
-    "datetime": "2023-05-22 18:34:23 +02:00",
-    "name": "22 maj 18:26, Trafikolycka, Skurup",
-    "summary": "Två personbilar i olycka, Rydsgård.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1826-trafikolycka-skurup/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skurup",
-      "gps": "55.48045,13.502349"
-    }
-  },
-  {
-    "id": 426778,
-    "datetime": "2023-05-22 17:30:05 +02:00",
-    "name": "22 maj 16:20, Brand, Värmdö",
-    "summary": "En segelbåt har brunnit i den norra skärgården och en person har fått åka ambulans till sjukhus.",
-    "url": "/aktuellt/handelser/2023/maj/22/22-maj-1620-brand-varmdo/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   }
 ]
