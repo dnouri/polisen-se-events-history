@@ -1,5 +1,29 @@
 [
   {
+    "id": 428691,
+    "datetime": "2023-05-30 9:56:53 +02:00",
+    "name": "30 maj 07:12, Trafikolycka, Köping",
+    "summary": "Flera trafikolyckor i Västmanland.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-0712-trafikolycka-koping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 428690,
+    "datetime": "2023-05-30 9:45:44 +02:00",
+    "name": "30 maj 07:47, Trafikbrott, Östersund",
+    "summary": "Ordningsbot utfärdas för trafikbrott på E45 Lit.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-0747-trafikbrott-ostersund/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 428684,
     "datetime": "2023-05-30 8:32:58 +02:00",
     "name": "30 maj 08:12, Brand, Örebro",
@@ -3672,18 +3696,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -3693,6 +3705,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 426863,
-    "datetime": "2023-05-23 16:09:33 +02:00",
-    "name": "23 maj 14:25, Rattfylleri, Enköping",
-    "summary": "Misstänkt drograttfylleri.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-1425-rattfylleri-enkoping/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 426862,
-    "datetime": "2023-05-23 16:06:11 +02:00",
-    "name": "23 maj 12:20, Stöld, Gävle",
-    "summary": "Kvinna grips för stöld och brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-1220-stold-gavle/",
-    "type": "Stöld",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
