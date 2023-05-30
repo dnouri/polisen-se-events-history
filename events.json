@@ -1,5 +1,125 @@
 [
   {
+    "id": 428901,
+    "datetime": "2023-05-30 17:18:40 +02:00",
+    "name": "30 maj 17:10, Skottlossning, Solna",
+    "summary": "Från Hagalund fick polisen samtal om att ljud som beskrevs som skottlossning.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1710-skottlossning-solna/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 428900,
+    "datetime": "2023-05-30 17:17:50 +02:00",
+    "name": "30 maj 16:26, Rån, Malmö",
+    "summary": "Personrån, Fersens väg",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1626-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 428899,
+    "datetime": "2023-05-30 17:15:54 +02:00",
+    "name": "30 maj 17:15, Stöld, Östersund",
+    "summary": "Östersund, ringa stölder i butiker.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1715-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 428894,
+    "datetime": "2023-05-30 16:49:41 +02:00",
+    "name": "30 maj 16:49, Trafikolycka, Vetlanda",
+    "summary": "Larm om kollision på Brogårdsgatan/ Götvägen.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1649-trafikolycka-vetlanda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
+    "id": 428898,
+    "datetime": "2023-05-30 17:07:26 +02:00",
+    "name": "30 maj 15:12, Stöld, Boden",
+    "summary": "Boden, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1512-stold-boden/",
+    "type": "Stöld",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 428897,
+    "datetime": "2023-05-30 16:59:41 +02:00",
+    "name": "30 maj 16:59, Trafikbrott, Norrköping",
+    "summary": "Man körde bil trots återkallat körkort.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1659-trafikbrott-norrkoping/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 428896,
+    "datetime": "2023-05-30 16:56:08 +02:00",
+    "name": "30 maj 16:09, Trafikolycka, personskada, Laholm",
+    "summary": "Vid trafikplats 41 på E6 vid Mellbystrand har föraren av en motorcykel kört av vägen.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1609-trafikolycka-personskada-laholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Laholm",
+      "gps": "56.505756,13.045605"
+    }
+  },
+  {
+    "id": 428895,
+    "datetime": "2023-05-30 16:51:33 +02:00",
+    "name": "30 maj 12:13, Trafikolycka, Kramfors",
+    "summary": "Docksta, singelolycka på E4.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1213-trafikolycka-kramfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 428893,
+    "datetime": "2023-05-30 16:46:33 +02:00",
+    "name": "30 maj 16:45, Trafikolycka, Jönköping",
+    "summary": "Larm om olycka på riksväg 26.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1645-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 428892,
+    "datetime": "2023-05-30 16:45:47 +02:00",
+    "name": "30 maj 16:05, Brand, Kiruna",
+    "summary": "Kiruna, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1605-brand-kiruna/",
+    "type": "Brand",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
     "id": 428891,
     "datetime": "2023-05-30 16:40:24 +02:00",
     "name": "30 maj 16:22, Försvunnen person, Örebro",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 426900,
-    "datetime": "2023-05-24 6:53:23 +02:00",
-    "name": "24 maj 06:49, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, inga händelser att rapportera om",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-0649-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 426899,
-    "datetime": "2023-05-24 6:49:37 +02:00",
-    "name": "24 maj 06:44, Brand, Malmö",
-    "summary": "Brand i soprum på Von Rosens väg.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-0644-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 426898,
-    "datetime": "2023-05-24 6:48:09 +02:00",
-    "name": "24 maj 04:42, Rån, Malmö",
-    "summary": "Rån av fordon på Friisgatan.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-0442-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 426894,
-    "datetime": "2023-05-24 4:47:12 +02:00",
-    "name": "24 maj 01:03, Trafikolycka, singel, Ekerö",
-    "summary": "Två pojkar i femtonårsåldern voltar med en bil på Färingsö.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-0103-trafikolycka-singel-ekero/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 426895,
-    "datetime": "2023-05-24 4:47:02 +02:00",
-    "name": "24 maj 00:55, Stöld/inbrott, Sigtuna",
-    "summary": "Inbrott i gatukök.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-0055-stoldinbrott-sigtuna/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 426896,
-    "datetime": "2023-05-24 4:46:58 +02:00",
-    "name": "23 maj 23:35, Larm Inbrott, Stockholm",
-    "summary": "Inbrott i elektronikbutik.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-2335-larm-inbrott-stockholm/",
-    "type": "Larm Inbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 426897,
-    "datetime": "2023-05-24 4:46:55 +02:00",
-    "name": "23 maj 23:49, Brand, Norrtälje",
-    "summary": "Polisen skriver en anmälan om allmänfarlig vårdslöshet efter brand på spis.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-2349-brand-norrtalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 426893,
-    "datetime": "2023-05-24 4:46:51 +02:00",
-    "name": "24 maj 01:30, Stöld, Sundbyberg",
-    "summary": "Ett billarm tjuter i ett parkeringsgarage.",
-    "url": "/aktuellt/handelser/2023/maj/24/24-maj-0130-stold-sundbyberg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 426886,
-    "datetime": "2023-05-24 1:25:14 +02:00",
-    "name": "23 maj 22:24, Försvunnen person, Orsa",
-    "summary": "Den försvunna kvinnan i Orsa är anträffad vid god vigör.",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-2224-forsvunnen-person-orsa/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
-    }
-  },
-  {
-    "id": 426879,
-    "datetime": "2023-05-23 21:41:07 +02:00",
-    "name": "23 maj 21:34, Försvunnen person, Umeå",
-    "summary": "Försvunnen kvinna centrala Umeå, återfunnen",
-    "url": "/aktuellt/handelser/2023/maj/23/23-maj-2134-forsvunnen-person-umea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
