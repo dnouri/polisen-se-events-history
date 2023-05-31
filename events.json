@@ -1,5 +1,65 @@
 [
   {
+    "id": 429121,
+    "datetime": "2023-05-31 21:55:46 +02:00",
+    "name": "31 maj 21:15, Brand, Boden",
+    "summary": "Centrum, det har brunnit i en sopkorg",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2115-brand-boden/",
+    "type": "Brand",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 429120,
+    "datetime": "2023-05-31 21:49:12 +02:00",
+    "name": "31 maj 21:35, Trafikolycka, singel, Hultsfred",
+    "summary": "Norra Kyrkogårdsgatan. En personbil har kolliderat med ett träd.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2135-trafikolycka-singel-hultsfred/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
+    }
+  },
+  {
+    "id": 429071,
+    "datetime": "2023-05-31 21:45:26 +02:00",
+    "name": "31 maj 21:45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 429093,
+    "datetime": "2023-05-31 17:47:54 +02:00",
+    "name": "31 maj 17:30, Mord/dråp, försök, Malmö",
+    "summary": "Gullviksborg. En person är skottskadad.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-1730-morddrap-forsok-malmo/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 429072,
+    "datetime": "2023-05-31 21:45:10 +02:00",
+    "name": "31 maj 21:45, Övrigt, Hallands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
     "id": 429119,
     "datetime": "2023-05-31 21:42:07 +02:00",
     "name": "31 maj 21:41, Övrigt, Jönköpings län",
@@ -321,18 +381,6 @@
     "location": {
       "name": "Kumla",
       "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 429093,
-    "datetime": "2023-05-31 17:47:54 +02:00",
-    "name": "31 maj 17:30, Mord/dråp, försök, Malmö",
-    "summary": "Gullviksborg. En person är skottskadad.",
-    "url": "/aktuellt/handelser/2023/maj/31/31-maj-1730-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrtälje",
       "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 427151,
-    "datetime": "2023-05-25 17:48:06 +02:00",
-    "name": "25 maj 15:16, Trafikbrott, Gotlands län",
-    "summary": "I Roma rapporterades en förare för att hon inte hade använt bilbälte under färden.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1516-trafikbrott-gotlands-lan/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 427149,
-    "datetime": "2023-05-25 17:44:13 +02:00",
-    "name": "25 maj 15:45, Rattfylleri, Stockholm",
-    "summary": "Misstänkt påverkad förare stoppades i Vasastaden.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1545-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 427150,
-    "datetime": "2023-05-25 17:42:39 +02:00",
-    "name": "25 maj 17:42, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat i urval från trafikkontroller i eftermiddag.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1742-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 427146,
-    "datetime": "2023-05-25 17:34:53 +02:00",
-    "name": "25 maj 14:05, Larm Överfall, Stockholm",
-    "summary": "Ambulanspersonalen aktiverade larmet när en person de skulle vårda tog upp ett vasst föremål och hotade dem.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1405-larm-overfall-stockholm/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
