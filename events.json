@@ -1,5 +1,53 @@
 [
   {
+    "id": 428844,
+    "datetime": "2023-05-30 11:11:15 +02:00",
+    "name": "30 maj 10:17, Räddningsinsats, Piteå",
+    "summary": "Larm om person i vattnet vid Bergviksbron, Hemlunda, Piteå.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1017-raddningsinsats-pitea/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 429049,
+    "datetime": "2023-05-31 13:02:09 +02:00",
+    "name": "31 maj 13:02, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-1302-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 429040,
+    "datetime": "2023-05-31 12:56:57 +02:00",
+    "name": "31 maj 12:22, Trafikolycka, smitning från, Göteborg",
+    "summary": "I Högsbo uppges en manlig cyklist i 60-årsåldern ha blivit påbackad av en buss i linjetrafik.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-1222-trafikolycka-smitning-fran-goteborg/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 429039,
+    "datetime": "2023-05-31 12:46:47 +02:00",
+    "name": "31 maj 09:58, Brand, Arboga",
+    "summary": "Brand i flerfamiljshus.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-0958-brand-arboga/",
+    "type": "Brand",
+    "location": {
+      "name": "Arboga",
+      "gps": "59.393688,15.838175"
+    }
+  },
+  {
     "id": 429036,
     "datetime": "2023-05-31 12:09:54 +02:00",
     "name": "31 maj 12:02, Trafikolycka, Borlänge",
@@ -1245,18 +1293,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 428844,
-    "datetime": "2023-05-30 11:11:15 +02:00",
-    "name": "30 maj 10:17, Räddningsinsats, Piteå",
-    "summary": "Larm om person i vattnet vid Bergviksbron, Hemlunda, Piteå.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1017-raddningsinsats-pitea/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 427050,
-    "datetime": "2023-05-25 7:15:59 +02:00",
-    "name": "25 maj 07:10, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-0710-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 427049,
-    "datetime": "2023-05-25 7:02:47 +02:00",
-    "name": "25 maj 07:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 427048,
-    "datetime": "2023-05-25 7:00:19 +02:00",
-    "name": "25 maj 00:00, Narkotikabrott, Kristianstad",
-    "summary": "Man i 25-årsåldern blir misstänkt för ringa narkotikabrott innehav.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-0000-narkotikabrott-kristianstad/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   }
 ]
