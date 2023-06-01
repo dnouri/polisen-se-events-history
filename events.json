@@ -1,5 +1,41 @@
 [
   {
+    "id": 429244,
+    "datetime": "2023-06-01 21:13:05 +02:00",
+    "name": "01 juni 18:32, Rån, Uppsala",
+    "summary": "Polis larmas till resecentrum.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-1832-ran-uppsala/",
+    "type": "Rån",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 429212,
+    "datetime": "2023-06-01 21:04:22 +02:00",
+    "name": "01 juni 21:04, Rån, Söderköping",
+    "summary": "Rån mot butik",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-2104-ran-soderkoping/",
+    "type": "Rån",
+    "location": {
+      "name": "Söderköping",
+      "gps": "58.475901,16.323431"
+    }
+  },
+  {
+    "id": 429243,
+    "datetime": "2023-06-01 21:00:37 +02:00",
+    "name": "01 juni 18:25, Trafikolycka, Sundsvall",
+    "summary": "E4 Skönviksbacken, två bilister har kolliderat",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-1825-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 429242,
     "datetime": "2023-06-01 20:43:17 +02:00",
     "name": "01 juni 19:29, Trafikolycka, Uppsala län",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 429201,
+    "datetime": "2023-06-01 15:31:58 +02:00",
+    "name": "01 juni 15:15, Trafikolycka, Karlstad",
+    "summary": "En singelolycka har inträffat strax öster om Spånga i Karlstad Kommun",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-1515-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -405,18 +453,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 429201,
-    "datetime": "2023-06-01 15:31:58 +02:00",
-    "name": "01 juni 15:15, Trafikolycka, Karlstad",
-    "summary": "En singelolycka har inträffat strax öster om Spånga i Karlstad Kommun",
-    "url": "/aktuellt/handelser/2023/juni/1/01-juni-1515-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 427252,
-    "datetime": "2023-05-26 12:37:51 +02:00",
-    "name": "26 maj 08:10, Brand, Vännäs",
-    "summary": "Brand i flerfamiljshus i Vännäs.",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-0810-brand-vannas/",
-    "type": "Brand",
-    "location": {
-      "name": "Vännäs",
-      "gps": "63.908007,19.752965"
-    }
-  },
-  {
-    "id": 427276,
-    "datetime": "2023-05-26 14:27:07 +02:00",
-    "name": "26 maj 14:06, Trafikolycka, Arvika",
-    "summary": "En personbil är dikeskörd utefter en mindre väg, mot Brokerud, nordost om Arvika.",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1406-trafikolycka-arvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 427277,
-    "datetime": "2023-05-26 14:28:17 +02:00",
-    "name": "26 maj 11:26, Bråk, Örnsköldsvik",
-    "summary": "Örnsköldsvik, polis beordrade till skola.",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1126-brak-ornskoldsvik/",
-    "type": "Bråk",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
