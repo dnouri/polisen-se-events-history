@@ -1,5 +1,29 @@
 [
   {
+    "id": 429129,
+    "datetime": "2023-06-01 6:42:43 +02:00",
+    "name": "01 juni 03:48, Brand, Karlskrona",
+    "summary": "Brand på Chapmansplan.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0348-brand-karlskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 429128,
+    "datetime": "2023-06-01 6:37:43 +02:00",
+    "name": "01 juni 00:47, Rån, Växjö",
+    "summary": "Personrån i Växjö.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0047-ran-vaxjo/",
+    "type": "Rån",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
     "id": 429126,
     "datetime": "2023-06-01 4:36:27 +02:00",
     "name": "01 juni 02:39, Mord/dråp, försök, Sundbyberg",
@@ -5736,18 +5760,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -5757,6 +5769,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hammarö",
       "gps": "59.311466,13.529854"
-    }
-  },
-  {
-    "id": 427157,
-    "datetime": "2023-05-25 18:06:05 +02:00",
-    "name": "25 maj 18:03, Kontroll person/fordon, Finspång",
-    "summary": "Flera polispatruller har arbetat med ett kontrollärende i Finspång.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1803-kontroll-personfordon-finspang/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Finspång",
-      "gps": "58.707488,15.773595"
-    }
-  },
-  {
-    "id": 427155,
-    "datetime": "2023-05-25 18:03:30 +02:00",
-    "name": "25 maj 13:15, Brand, Sigtuna",
-    "summary": "En person fördes till sjukhus med ambulanshelikopter efter en lägenhetsbrand i Märsta.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1315-brand-sigtuna/",
-    "type": "Brand",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
     }
   }
 ]
