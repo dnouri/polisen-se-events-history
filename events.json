@@ -1,14 +1,74 @@
 [
   {
+    "id": 429144,
+    "datetime": "2023-06-01 7:41:41 +02:00",
+    "name": "01 juni 06:45, Brand, Härnösand",
+    "summary": "Larm om brand i en villa, Specksta.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0645-brand-harnosand/",
+    "type": "Brand",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 429134,
+    "datetime": "2023-06-01 7:24:18 +02:00",
+    "name": "01 juni 07:24, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00–07:00.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0724-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 429135,
+    "datetime": "2023-06-01 7:24:09 +02:00",
+    "name": "01 juni 07:24, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00–07:00.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0724-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 429137,
+    "datetime": "2023-06-01 7:23:56 +02:00",
+    "name": "01 juni 07:23, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00–07:00.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0723-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 429141,
+    "datetime": "2023-06-01 7:23:39 +02:00",
+    "name": "01 juni 07:23, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00–07:00.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0723-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 429140,
     "datetime": "2023-06-01 7:18:38 +02:00",
-    "name": "01 juni 06:42, Trafikolycka, Hässleholm",
+    "name": "01 juni 06:42, Trafikolycka, Östra göinge",
     "summary": "Kollision mellan motorcykel och vilt på Ankelstorpsvägen.",
-    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0642-trafikolycka-hassleholm/",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0642-trafikolycka-ostra-goinge/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
+      "name": "Östra göinge",
+      "gps": "56.237877,14.216166"
     }
   },
   {
@@ -5856,18 +5916,6 @@
     }
   },
   {
-    "id": 427176,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
-    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
     "id": 427161,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 21:34, Övrigt, Jönköpings län",
@@ -5877,6 +5925,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 427176,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, misstänkt ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2000-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 427141,
-    "datetime": "2023-05-25 16:44:08 +02:00",
-    "name": "25 maj 11:49, Brand, Härjedalen",
-    "summary": "Överhogdal, larm om brand i fritidshus.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1149-brand-harjedalen/",
-    "type": "Brand",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 427163,
-    "datetime": "2023-05-25 18:22:39 +02:00",
-    "name": "25 maj 17:48, Trafikolycka, singel, Helsingborg",
-    "summary": "Lv110, Hyllinge. En personbil har kolliderat med en stolpe.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1748-trafikolycka-singel-helsingborg/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 427168,
-    "datetime": "2023-05-25 20:06:16 +02:00",
-    "name": "25 maj 20:06, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2006-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 427171,
-    "datetime": "2023-05-25 19:56:01 +02:00",
-    "name": "25 maj 19:55, Misshandel, Norrköping",
-    "summary": "Bråk i Vasaparken.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1955-misshandel-norrkoping/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 427170,
-    "datetime": "2023-05-25 19:48:27 +02:00",
-    "name": "25 maj 17:18, Brand, Värmdö",
-    "summary": "Garagebranden i Återvall släcktes av räddningstjänsten.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1718-brand-varmdo/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   }
 ]
