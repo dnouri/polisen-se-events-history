@@ -1,5 +1,101 @@
 [
   {
+    "id": 429140,
+    "datetime": "2023-06-01 7:18:38 +02:00",
+    "name": "01 juni 06:42, Trafikolycka, Hässleholm",
+    "summary": "Kollision mellan motorcykel och vilt på Ankelstorpsvägen.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0642-trafikolycka-hassleholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 429139,
+    "datetime": "2023-06-01 7:17:28 +02:00",
+    "name": "31 maj 23:33, Skadegörelse, Uppsala",
+    "summary": "Man misstänks för skadegörelse och brott mot knivlagen.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2333-skadegorelse-uppsala/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 429136,
+    "datetime": "2023-06-01 7:12:34 +02:00",
+    "name": "31 maj 23:53, Brand, Helsingborg",
+    "summary": "Brand på Charlotte Yhlens gata.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2353-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 429133,
+    "datetime": "2023-06-01 7:08:50 +02:00",
+    "name": "01 juni 06:46, Trafikolycka, Göteborg",
+    "summary": "En bil som fått stopp på E45 uppges ha blivit påkörd av en annan bil.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0646-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 429132,
+    "datetime": "2023-06-01 7:06:40 +02:00",
+    "name": "31 maj 21:13, Skadegörelse, Gävle",
+    "summary": "Skadegörelse på hembygdsgård.",
+    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2113-skadegorelse-gavle/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 429130,
+    "datetime": "2023-06-01 7:03:39 +02:00",
+    "name": "01 juni 07:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 429127,
+    "datetime": "2023-06-01 7:03:26 +02:00",
+    "name": "01 juni 07:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0700-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 429131,
+    "datetime": "2023-06-01 7:01:26 +02:00",
+    "name": "01 juni 00:56, Misshandel, Malmö",
+    "summary": "Misshandel på Hyllie.",
+    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0056-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 429129,
     "datetime": "2023-06-01 6:42:43 +02:00",
     "name": "01 juni 03:48, Brand, Karlskrona",
@@ -5760,18 +5856,6 @@
     }
   },
   {
-    "id": 427161,
-    "datetime": "2023-05-25 21:34:24 +02:00",
-    "name": "25 maj 21:34, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 427176,
     "datetime": "2023-05-25 21:34:24 +02:00",
     "name": "25 maj 20:00, Narkotikabrott, Sundsvall",
@@ -5781,6 +5865,18 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 427161,
+    "datetime": "2023-05-25 21:34:24 +02:00",
+    "name": "25 maj 21:34, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/maj/25/25-maj-2134-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Värmdö",
       "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 427169,
-    "datetime": "2023-05-25 19:41:14 +02:00",
-    "name": "25 maj 14:09, Våld/hot mot tjänsteman, Stockholm",
-    "summary": "I Liljeholmen blev en man misstänkt för förgripelse mot tjänsteman samt våldsamt motstånd.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1409-valdhot-mot-tjansteman-stockholm/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 427167,
-    "datetime": "2023-05-25 19:21:33 +02:00",
-    "name": "25 maj 18:10, Trafikbrott, Stockholm",
-    "summary": "På Östermalm rapporterades en cyklist.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1810-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 427140,
-    "datetime": "2023-05-25 16:14:04 +02:00",
-    "name": "25 maj 15:06, Räddningsinsats, Malmö",
-    "summary": "Ön. Drunkningstillbud.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1506-raddningsinsats-malmo/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 427166,
-    "datetime": "2023-05-25 19:12:02 +02:00",
-    "name": "25 maj 18:12, Fylleri/LOB, Sigtuna",
-    "summary": "Berusad kvinna omhändertogs utanför terminal 5.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1812-fyllerilob-sigtuna/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 427158,
-    "datetime": "2023-05-25 18:10:14 +02:00",
-    "name": "25 maj 17:27, Misshandel, Göteborg",
-    "summary": "En manlig busschaufför i 40-årsåldern kontaktar polis och uppger att han blivit misshandlad.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1727-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 427164,
-    "datetime": "2023-05-25 18:34:55 +02:00",
-    "name": "25 maj 18:20, Misshandel, Göteborg",
-    "summary": "Polisen får larm om ett våldsbrott i Nordstan.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1820-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 427156,
-    "datetime": "2023-05-25 18:04:06 +02:00",
-    "name": "25 maj 17:25, Rån övrigt, Sjöbo",
-    "summary": "Utanför Vollsjö. Grovt personrån i bostad.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1725-ran-ovrigt-sjobo/",
-    "type": "Rån övrigt",
-    "location": {
-      "name": "Sjöbo",
-      "gps": "55.634822,13.70337"
-    }
-  },
-  {
-    "id": 427162,
-    "datetime": "2023-05-25 18:17:58 +02:00",
-    "name": "25 maj 15:05, Trafikolycka, Hammarö",
-    "summary": "Vittne ser en mindre grävmaskin som kör in i en busskur och sedan lämnar platsen.",
-    "url": "/aktuellt/handelser/2023/maj/25/25-maj-1505-trafikolycka-hammaro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hammarö",
-      "gps": "59.311466,13.529854"
     }
   }
 ]
