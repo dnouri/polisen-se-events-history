@@ -1,5 +1,53 @@
 [
   {
+    "id": 429341,
+    "datetime": "2023-06-02 20:19:41 +02:00",
+    "name": "02 juni 18:38, Rattfylleri, Gällivare",
+    "summary": "Misstänkt drograttfylleri, Gällivare.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1838-rattfylleri-gallivare/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 429325,
+    "datetime": "2023-06-02 17:09:11 +02:00",
+    "name": "02 juni 16:24, Trafikolycka, singel, Höör",
+    "summary": "Lv1344, mellan Tjörnarp och Sösdala. En personbil har kolliderat med ett träd.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1624-trafikolycka-singel-hoor/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Höör",
+      "gps": "55.934859,13.53959"
+    }
+  },
+  {
+    "id": 429343,
+    "datetime": "2023-06-02 20:03:34 +02:00",
+    "name": "02 juni 20:03, Brand, Åtvidaberg",
+    "summary": "Larm om villabrand utanför Åtvidaberg.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-2003-brand-atvidaberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Åtvidaberg",
+      "gps": "58.20079,15.997699"
+    }
+  },
+  {
+    "id": 429337,
+    "datetime": "2023-06-02 18:59:08 +02:00",
+    "name": "02 juni 18:44, Brand, Ronneby",
+    "summary": "Kallinge. Brand i papperskorgar.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1844-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
     "id": 429342,
     "datetime": "2023-06-02 19:40:14 +02:00",
     "name": "02 juni 19:02, Misshandel, grov, Göteborg",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Munkfors",
       "gps": "59.835348,13.534415"
-    }
-  },
-  {
-    "id": 429337,
-    "datetime": "2023-06-02 18:59:08 +02:00",
-    "name": "02 juni 18:44, Brand, Ronneby",
-    "summary": "Kallinge. Brand i papperskorgar.",
-    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1844-brand-ronneby/",
-    "type": "Brand",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
     }
   },
   {
@@ -225,18 +261,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 429325,
-    "datetime": "2023-06-02 17:09:11 +02:00",
-    "name": "02 juni 16:24, Trafikolycka, singel, Höör",
-    "summary": "Lv1344, mellan Tjörnarp och Sösdala. En personbil har kolliderat med ett träd.",
-    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1624-trafikolycka-singel-hoor/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Höör",
-      "gps": "55.934859,13.53959"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Söderhamn",
       "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 427365,
-    "datetime": "2023-05-27 8:00:15 +02:00",
-    "name": "27 maj 08:00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer ett urval av nattens händelser. En lugn natt polisiärt.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0800-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 427366,
-    "datetime": "2023-05-27 8:00:10 +02:00",
-    "name": "27 maj 08:00, Sammanfattning natt, Östergötlands län",
-    "summary": "Trots en fredagkväll med bra väder har natten avlöpt utan större polisiära händelser.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0800-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
