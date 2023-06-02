@@ -1,5 +1,17 @@
 [
   {
+    "id": 429346,
+    "datetime": "2023-06-02 21:10:12 +02:00",
+    "name": "02 juni 17:54, Rattfylleri, Ekerö",
+    "summary": "Efterlyst man kör berusad på parkering.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1754-rattfylleri-ekero/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ekerö",
+      "gps": "59.279834,17.790225"
+    }
+  },
+  {
     "id": 429344,
     "datetime": "2023-06-02 20:32:35 +02:00",
     "name": "02 juni 20:24, Trafikolycka, Lidköping",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Lidköping",
       "gps": "58.503505,13.157077"
+    }
+  },
+  {
+    "id": 429335,
+    "datetime": "2023-06-02 19:08:59 +02:00",
+    "name": "02 juni 18:30, Brand, Umeå",
+    "summary": "Larm om rökutveckling i ett garage, Djäkneböle.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1830-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 429345,
+    "datetime": "2023-06-02 20:45:41 +02:00",
+    "name": "02 juni 20:45, Olaga hot, Eskilstuna",
+    "summary": "En man ska ha hotat en familjemedlem inomhus, Råbergstorp.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-2045-olaga-hot-eskilstuna/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -93,18 +129,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 429335,
-    "datetime": "2023-06-02 19:08:59 +02:00",
-    "name": "02 juni 18:30, Brand, Umeå",
-    "summary": "Larm om rökutveckling i ett garage, Djäkneböle.",
-    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1830-brand-umea/",
-    "type": "Brand",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Söderhamn",
       "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 427377,
-    "datetime": "2023-05-27 10:00:59 +02:00",
-    "name": "27 maj 09:48, Trafikolycka, vilt, Vindeln",
-    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 363, Nedre Mesele.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0948-trafikolycka-vilt-vindeln/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Vindeln",
-      "gps": "64.201953,19.71887"
-    }
-  },
-  {
-    "id": 427376,
-    "datetime": "2023-05-27 8:23:19 +02:00",
-    "name": "27 maj 08:04, Trafikolycka, vilt, Sundsvall",
-    "summary": "Polisen får in en anmälan om en viltolycka på Raholmsvägen, Ankarsvik.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-0804-trafikolycka-vilt-sundsvall/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
