@@ -1,5 +1,77 @@
 [
   {
+    "id": 429292,
+    "datetime": "2023-06-02 12:22:03 +02:00",
+    "name": "02 juni 08:29, Stöld, Hammarö",
+    "summary": "Under natten har teknisk utrustning till ett större värde stulits ur en anläggningsmaskin på Skoghall.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-0829-stold-hammaro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Hammarö",
+      "gps": "59.311466,13.529854"
+    }
+  },
+  {
+    "id": 429291,
+    "datetime": "2023-06-02 12:15:07 +02:00",
+    "name": "02 juni 07:43, Narkotikabrott, Umeå",
+    "summary": "Umeå, två personer misstänks för ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-0743-narkotikabrott-umea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 429290,
+    "datetime": "2023-06-02 12:06:58 +02:00",
+    "name": "02 juni 11:34, Trafikolycka, Mölndal",
+    "summary": "Flera bilar i trafikolycka vid Kållered.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1134-trafikolycka-molndal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 429289,
+    "datetime": "2023-06-02 12:06:40 +02:00",
+    "name": "02 juni 12:06, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval av dagens kontroller.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1206-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 429257,
+    "datetime": "2023-06-02 7:53:35 +02:00",
+    "name": "02 juni 07:53, Sammanfattning natt, Östergötlands län",
+    "summary": "En lugn natt i Östergötland. Ingen större händelse i Polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-0753-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 429288,
+    "datetime": "2023-06-02 11:57:51 +02:00",
+    "name": "02 juni 11:26, Trafikolycka, Örnsköldsvik",
+    "summary": "Örnsköldsvik, trafikolycka i Bjästa.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1126-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 429286,
     "datetime": "2023-06-02 11:06:29 +02:00",
     "name": "02 juni 08:08, Brand, Falun",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 429257,
-    "datetime": "2023-06-02 7:53:35 +02:00",
-    "name": "02 juni 07:53, Sammanfattning natt, Östergötlands län",
-    "summary": "En lugn natt i Östergötland. Ingen större händelse i Polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/2/02-juni-0753-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 427335,
-    "datetime": "2023-05-26 20:38:01 +02:00",
-    "name": "26 maj 16:56, Fylleri/LOB, Umeå",
-    "summary": "Centrala stan, polis omhändertar en man",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1656-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 427334,
-    "datetime": "2023-05-26 20:36:29 +02:00",
-    "name": "26 maj 15:46, Misshandel, Skellefteå",
-    "summary": "Anderstorp, polis kontaktas gällande misshandel vid en adress",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1546-misshandel-skelleftea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 427332,
-    "datetime": "2023-05-26 20:26:18 +02:00",
-    "name": "26 maj 18:50, Fylleri/LOB, Luleå",
-    "summary": "Innerstaden, polis kontaktas gällande berusad kvinna utomhus",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1850-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 427329,
-    "datetime": "2023-05-26 20:10:22 +02:00",
-    "name": "26 maj 18:08, Misshandel, Stockholm",
-    "summary": "Ett antal ungdomar har slagits vid sjön Trekanten i Liljeholmen och en är skadad och får åka ambulans till sju",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1808-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 427328,
-    "datetime": "2023-05-26 19:48:54 +02:00",
-    "name": "26 maj 19:01, Rån, Stockholm",
-    "summary": "En butik i Skarpnäck har blivit rånad av en gärningsman som haft ett pistolliknande föremål.",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-1901-ran-stockholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
