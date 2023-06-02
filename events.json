@@ -1,5 +1,65 @@
 [
   {
+    "id": 429349,
+    "datetime": "2023-06-02 21:59:23 +02:00",
+    "name": "02 juni 22:00, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-2200-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 429348,
+    "datetime": "2023-06-02 21:59:15 +02:00",
+    "name": "02 juni 22:00, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer i dag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-2200-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 429344,
+    "datetime": "2023-06-02 20:32:35 +02:00",
+    "name": "02 juni 20:24, Trafikolycka, Lidköping",
+    "summary": "En personbil har kört in i ett räcke och voltat på riksväg 44 sydöst om Lidköping.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-2024-trafikolycka-lidkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lidköping",
+      "gps": "58.503505,13.157077"
+    }
+  },
+  {
+    "id": 429356,
+    "datetime": "2023-06-02 21:51:40 +02:00",
+    "name": "02 juni 18:03, Stöld, Stockholm",
+    "summary": "Två män slåss i en villaträdgård om en mobiltelefon.",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1803-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 429355,
+    "datetime": "2023-06-02 21:50:27 +02:00",
+    "name": "02 juni 16:10, Olovlig körning, Skellefteå",
+    "summary": "Polis stoppar en A-traktor på riksväg 95 som misstänks kunna köras i högre hastighet än vad som är tillåtet fö",
+    "url": "/aktuellt/handelser/2023/juni/2/02-juni-1610-olovlig-korning-skelleftea/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 429308,
     "datetime": "2023-06-02 21:44:10 +02:00",
     "name": "02 juni 21:43, Övrigt, Jönköpings län",
@@ -117,18 +177,6 @@
     "location": {
       "name": "Ekerö",
       "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 429344,
-    "datetime": "2023-06-02 20:32:35 +02:00",
-    "name": "02 juni 20:24, Trafikolycka, Lidköping",
-    "summary": "En personbil har kört in i ett räcke och voltat på riksväg 44 sydöst om Lidköping.",
-    "url": "/aktuellt/handelser/2023/juni/2/02-juni-2024-trafikolycka-lidkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lidköping",
-      "gps": "58.503505,13.157077"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 427354,
-    "datetime": "2023-05-27 1:13:36 +02:00",
-    "name": "26 maj 23:04, Mord/dråp, Stockholm",
-    "summary": "En svårt skadad tonåring hittas i Södra Hammarbyhamnen.",
-    "url": "/aktuellt/handelser/2023/maj/26/26-maj-2304-morddrap-stockholm/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 427391,
-    "datetime": "2023-05-27 14:59:20 +02:00",
-    "name": "27 maj 14:48, Trafikolycka, vilt, Umeå",
-    "summary": "Polisen får in en anmälan om en viltolycka på E4, Hörnefors.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1448-trafikolycka-vilt-umea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 427390,
-    "datetime": "2023-05-27 14:37:21 +02:00",
-    "name": "27 maj 12:50, Rattfylleri, Krokom",
-    "summary": "Polisen kontaktas angående ett misstänkt rattfylleri vid Krokomsporten.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1250-rattfylleri-krokom/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 427389,
-    "datetime": "2023-05-27 14:13:30 +02:00",
-    "name": "27 maj 12:04, Rattfylleri, Storuman",
-    "summary": "Misstänkt rattfylleri på länsväg 988, öster om Storuman.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1204-rattfylleri-storuman/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
     }
   }
 ]
