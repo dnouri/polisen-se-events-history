@@ -1,5 +1,65 @@
 [
   {
+    "id": 429361,
+    "datetime": "2023-06-03 1:22:05 +02:00",
+    "name": "03 juni 00:31, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens händelserna i länet",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0031-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 429364,
+    "datetime": "2023-06-03 7:07:09 +02:00",
+    "name": "03 juni 07:06, Sammanfattning natt, Örebro län",
+    "summary": "Natt till lördag polisområde Örebro",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0706-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 429367,
+    "datetime": "2023-06-03 7:05:43 +02:00",
+    "name": "03 juni 00:07, Brand, Helsingborg",
+    "summary": "Brand i flerfamiljshus",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0007-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 429366,
+    "datetime": "2023-06-03 6:59:01 +02:00",
+    "name": "03 juni 01:03, Brand, Markaryd",
+    "summary": "Bilbrand, Lv 502",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0103-brand-markaryd/",
+    "type": "Brand",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 429365,
+    "datetime": "2023-06-03 6:47:56 +02:00",
+    "name": "03 juni 04:44, Stöld/inbrott, Helsingborg",
+    "summary": "Inbrott i butik",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0444-stoldinbrott-helsingborg/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 429363,
     "datetime": "2023-06-03 4:39:59 +02:00",
     "name": "03 juni 04:33, Mord/dråp, försök, Jönköping",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 429361,
-    "datetime": "2023-06-03 1:22:05 +02:00",
-    "name": "03 juni 00:31, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens händelserna i länet",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0031-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 427398,
-    "datetime": "2023-05-27 21:01:38 +02:00",
-    "name": "27 maj 19:55, Rån, Södertälje",
-    "summary": "En eller två gärningspersoner har rånat en man vid stationen Södertälje Syd.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1955-ran-sodertalje/",
-    "type": "Rån",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 427400,
-    "datetime": "2023-05-27 20:53:55 +02:00",
-    "name": "27 maj 19:41, Rattfylleri, Sollentuna",
-    "summary": "En bilförare som kontrolleras i Tureberg misstänks för drograttfylleri och tas med för provtagning.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1941-rattfylleri-sollentuna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 427399,
-    "datetime": "2023-05-27 20:10:09 +02:00",
-    "name": "27 maj 20:03, Trafikolycka, Malmö",
-    "summary": "Personbil kör in i vägg, centrum.",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-2003-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 427397,
-    "datetime": "2023-05-27 19:37:52 +02:00",
-    "name": "27 maj 16:33, Kontroll person/fordon, Sigtuna",
-    "summary": "Ett person i säkerhetskontrollen på Arlanda har en stor mängd pengar med sig. Då han har skulder hos Kronofogd",
-    "url": "/aktuellt/handelser/2023/maj/27/27-maj-1633-kontroll-personfordon-sigtuna/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
     }
   }
 ]
