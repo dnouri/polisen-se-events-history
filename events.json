@@ -1,5 +1,113 @@
 [
   {
+    "id": 429380,
+    "datetime": "2023-06-03 8:16:04 +02:00",
+    "name": "03 juni 06:16, Fylleri/LOB, Umeå",
+    "summary": "Berusad man omhändertagen på Carlshem i Umeå.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0616-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 429379,
+    "datetime": "2023-06-03 8:01:18 +02:00",
+    "name": "03 juni 08:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0800-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 429378,
+    "datetime": "2023-06-03 8:00:41 +02:00",
+    "name": "03 juni 08:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0800-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 429376,
+    "datetime": "2023-06-03 7:53:18 +02:00",
+    "name": "03 juni 07:53, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet samt sammanfattning av polisens arbete i samband med Brännbollsyran.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0753-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 429363,
+    "datetime": "2023-06-03 4:39:59 +02:00",
+    "name": "03 juni 04:33, Mord/dråp, försök, Jönköping",
+    "summary": "Försök till mord på Östra Storgatan.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0433-morddrap-forsok-jonkoping/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 429373,
+    "datetime": "2023-06-03 7:51:25 +02:00",
+    "name": "03 juni 07:50, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0750-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 429374,
+    "datetime": "2023-06-03 7:51:22 +02:00",
+    "name": "03 juni 07:50, Sammanfattning natt, Södermanlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0750-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 429370,
+    "datetime": "2023-06-03 7:51:17 +02:00",
+    "name": "03 juni 07:50, Sammanfattning natt, Jönköpings län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0750-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 429369,
+    "datetime": "2023-06-03 7:48:55 +02:00",
+    "name": "03 juni 07:48, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till lördag polisområde Värmland.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0748-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 429372,
     "datetime": "2023-06-03 7:35:06 +02:00",
     "name": "02 juni 23:30, Olaga intrång, Stockholm",
@@ -81,18 +189,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 429363,
-    "datetime": "2023-06-03 4:39:59 +02:00",
-    "name": "03 juni 04:33, Mord/dråp, försök, Jönköping",
-    "summary": "Försök till mord",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0433-morddrap-forsok-jonkoping/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 427418,
-    "datetime": "2023-05-28 7:44:31 +02:00",
-    "name": "28 maj 01:05, Brand, Hudiksvall",
-    "summary": "Fullt utvecklad brand i mindre byggnad.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0105-brand-hudiksvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 427416,
-    "datetime": "2023-05-28 7:37:39 +02:00",
-    "name": "28 maj 02:56, Brand, Trelleborg",
-    "summary": "Brand i garage på Hedvägen.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0256-brand-trelleborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Trelleborg",
-      "gps": "55.376243,13.157423"
-    }
-  },
-  {
-    "id": 427415,
-    "datetime": "2023-05-28 7:37:28 +02:00",
-    "name": "28 maj 03:17, Trafikolycka, Gävle",
-    "summary": "Tidningsbil körde in i vägg.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0317-trafikolycka-gavle/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 427414,
-    "datetime": "2023-05-28 7:33:48 +02:00",
-    "name": "28 maj 07:33, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0733-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 427413,
-    "datetime": "2023-05-28 7:31:00 +02:00",
-    "name": "28 maj 01:26, Brand, Helsingborg",
-    "summary": "Mordbrand och skadegörelse på Södra Hunnetorpsvägen.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0126-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 427412,
-    "datetime": "2023-05-28 7:12:50 +02:00",
-    "name": "28 maj 06:28, Trafikolycka, Västerås",
-    "summary": "Bil kör in i vägräcket på E18.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0628-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 427408,
-    "datetime": "2023-05-28 7:02:05 +02:00",
-    "name": "28 maj 01:32, Våld/hot mot tjänsteman, Växjö",
-    "summary": "Våldsamt motstånd mot ordningsvakt.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0132-valdhot-mot-tjansteman-vaxjo/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 427405,
-    "datetime": "2023-05-28 6:52:48 +02:00",
-    "name": "28 maj 00:56, Skadegörelse, Mörbylånga",
-    "summary": "Skadegörelse på Torget.",
-    "url": "/aktuellt/handelser/2023/maj/28/28-maj-0056-skadegorelse-morbylanga/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Mörbylånga",
-      "gps": "56.523757,16.386916"
     }
   }
 ]
