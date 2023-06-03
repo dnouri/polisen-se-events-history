@@ -1,5 +1,65 @@
 [
   {
+    "id": 429448,
+    "datetime": "2023-06-03 22:11:18 +02:00",
+    "name": "03 juni 20:03, Kontroll person/fordon, Stockholm",
+    "summary": "En man blir misstänkt för brott efter att ha eldat på Djurgården.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-2003-kontroll-personfordon-stockholm/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 429447,
+    "datetime": "2023-06-03 22:05:40 +02:00",
+    "name": "03 juni 19:29, Kontroll person/fordon, Nacka",
+    "summary": "Polis kontrollerar två personer som eldar trots eldningsförbud.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1929-kontroll-personfordon-nacka/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 429446,
+    "datetime": "2023-06-03 22:02:58 +02:00",
+    "name": "03 juni 19:14, Trafikbrott, Stockholm",
+    "summary": "Bilförare får körkortet omhändertaget efter att ha sicksackat sig fram i trafiken.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1914-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 429445,
+    "datetime": "2023-06-03 21:55:25 +02:00",
+    "name": "03 juni 17:29, Misshandel, Huddinge",
+    "summary": "En kvinna anmäler att hennes make misshandlat henne.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1729-misshandel-huddinge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 429437,
+    "datetime": "2023-06-03 20:19:15 +02:00",
+    "name": "03 juni 20:06, Trafikolycka, Bjuv",
+    "summary": "Lv110. Kollision mellan A-traktor och personbil.",
+    "url": "/aktuellt/handelser/2023/juni/3/03-juni-2006-trafikolycka-bjuv/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Bjuv",
+      "gps": "56.087102,12.912505"
+    }
+  },
+  {
     "id": 429444,
     "datetime": "2023-06-03 21:09:57 +02:00",
     "name": "03 juni 18:22, Stöld/inbrott, Botkyrka",
@@ -69,18 +129,6 @@
     "location": {
       "name": "Pajala",
       "gps": "67.212782,23.367392"
-    }
-  },
-  {
-    "id": 429437,
-    "datetime": "2023-06-03 20:19:15 +02:00",
-    "name": "03 juni 20:06, Trafikolycka, Bjuv",
-    "summary": "Lv110. Kollision mellan A-traktor och personbil.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-2006-trafikolycka-bjuv/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bjuv",
-      "gps": "56.087102,12.912505"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 428550,
-    "datetime": "2023-05-29 10:13:22 +02:00",
-    "name": "29 maj 10:13, Försvunnen person, Krokom",
-    "summary": "Polisen önskar hjälp av allmänheten gällande försvunnen man.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-1013-forsvunnen-person-krokom/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 428544,
-    "datetime": "2023-05-29 9:36:32 +02:00",
-    "name": "29 maj 08:50, Trafikolycka, Skellefteå",
-    "summary": "Larm om trafikolycka i Tuvan, Skellefteå.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0850-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 428541,
-    "datetime": "2023-05-29 8:58:57 +02:00",
-    "name": "29 maj 07:02, Motorfordon, anträffat stulet, Östersund",
-    "summary": "Stulen bil anträffad i Odenslund.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0702-motorfordon-antraffat-stulet-ostersund/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 428540,
-    "datetime": "2023-05-29 8:54:39 +02:00",
-    "name": "29 maj 08:00, Trafikolycka, Karlskrona",
-    "summary": "Två personbilar kolliderar på Österleden.",
-    "url": "/aktuellt/handelser/2023/maj/29/29-maj-0800-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   }
 ]
