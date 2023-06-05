@@ -1,5 +1,101 @@
 [
   {
+    "id": 429533,
+    "datetime": "2023-06-05 8:24:08 +02:00",
+    "name": "05 juni 08:23, Brand, Linköping",
+    "summary": "Larm om gräsbrand i Skäggetorp.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0823-brand-linkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 429531,
+    "datetime": "2023-06-05 8:12:05 +02:00",
+    "name": "05 juni 08:00, Brand, Ronneby",
+    "summary": "Brand i fastighet på Karlskronagatan.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0800-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 429532,
+    "datetime": "2023-06-05 8:07:41 +02:00",
+    "name": "05 juni 07:56, Brand, Järfälla",
+    "summary": "Polis och räddningstjänst kallas till Viksjö med anledning av en lägenhetsbrand.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0756-brand-jarfalla/",
+    "type": "Brand",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 429515,
+    "datetime": "2023-06-05 6:59:48 +02:00",
+    "name": "05 juni 06:21, Trafikolycka, singel, Tanum",
+    "summary": "En bilist har kört in i mitträcket på E6 vid Lurmotet.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0621-trafikolycka-singel-tanum/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 429528,
+    "datetime": "2023-06-05 7:31:11 +02:00",
+    "name": "05 juni 07:26, Brand, Stockholm",
+    "summary": "Polis och räddningstjänst är på väg till påfarten till Essingeleden i norrgående riktning med anledning av en ",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0726-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 429526,
+    "datetime": "2023-06-05 7:55:37 +02:00",
+    "name": "05 juni 07:55, Sammanfattning natt, Jönköpings län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0755-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 429530,
+    "datetime": "2023-06-05 7:55:33 +02:00",
+    "name": "05 juni 07:55, Sammanfattning natt, Södermanlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0755-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 429525,
+    "datetime": "2023-06-05 7:55:28 +02:00",
+    "name": "05 juni 07:55, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0755-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 429524,
     "datetime": "2023-06-05 7:43:34 +02:00",
     "name": "05 juni 07:43, Sammanfattning natt, Västerbottens län",
@@ -45,18 +141,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 429528,
-    "datetime": "2023-06-05 7:31:11 +02:00",
-    "name": "05 juni 07:26, Brand, Stockholm",
-    "summary": "Polis och räddningstjänst är på väg till påfarten till Essingeleden i norrgående riktning med anledning av en ",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0726-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -117,18 +201,6 @@
     "location": {
       "name": "Ronneby",
       "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 429515,
-    "datetime": "2023-06-05 6:59:48 +02:00",
-    "name": "05 juni 06:21, Trafikolycka, singel, Tanum",
-    "summary": "En bilist har kört in i mitträcket på E6 vid Lurmotet.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0621-trafikolycka-singel-tanum/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Tanum",
-      "gps": "58.732727,11.457819"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 428680,
-    "datetime": "2023-05-30 7:46:16 +02:00",
-    "name": "30 maj 07:45, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-0745-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 428679,
-    "datetime": "2023-05-30 7:45:34 +02:00",
-    "name": "30 maj 07:45, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-0745-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 428678,
-    "datetime": "2023-05-30 7:43:12 +02:00",
-    "name": "30 maj 07:42, Övrigt, Blekinge län",
-    "summary": "Obemannat mediecenter.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-0742-ovrigt-blekinge-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 428675,
-    "datetime": "2023-05-30 7:42:16 +02:00",
-    "name": "30 maj 07:41, Övrigt, Kronobergs län",
-    "summary": "Obemannat mediecenter.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-0741-ovrigt-kronobergs-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 428674,
-    "datetime": "2023-05-30 7:41:06 +02:00",
-    "name": "30 maj 07:40, Övrigt, Kalmar län",
-    "summary": "Obemannat mediecenter.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-0740-ovrigt-kalmar-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 428673,
-    "datetime": "2023-05-30 7:40:40 +02:00",
-    "name": "30 maj 07:31, Övrigt, Skåne län",
-    "summary": "Obemannat mediecenter.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-0731-ovrigt-skane-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
