@@ -1,5 +1,89 @@
 [
   {
+    "id": 429592,
+    "datetime": "2023-06-05 17:49:56 +02:00",
+    "name": "05 juni 17:26, Trafikolycka, Umeå",
+    "summary": "Länsväg 363, larm om singelolycka vid Forslunda",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1726-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 429596,
+    "datetime": "2023-06-05 19:18:34 +02:00",
+    "name": "05 juni 17:56, Trafikolycka, Stenungsund",
+    "summary": "En bilist och en mopedist i kollision i centrala Stenungsund.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1756-trafikolycka-stenungsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 429600,
+    "datetime": "2023-06-05 19:15:50 +02:00",
+    "name": "05 juni 18:08, Stöld, Skellefteå",
+    "summary": "Centrum, ung kvinna stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1808-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 429599,
+    "datetime": "2023-06-05 19:06:05 +02:00",
+    "name": "05 juni 17:50, Rån, Burlöv",
+    "summary": "Personrån vid Virvellvägen i Arlöv.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1750-ran-burlov/",
+    "type": "Rån",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 429598,
+    "datetime": "2023-06-05 19:04:21 +02:00",
+    "name": "05 juni 16:24, Rån, försök, Grums",
+    "summary": "En man i 25-årsåldern har gripits misstänkt för försök till rån i Grums.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1624-ran-forsok-grums/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Grums",
+      "gps": "59.353179,13.111732"
+    }
+  },
+  {
+    "id": 429597,
+    "datetime": "2023-06-05 18:57:55 +02:00",
+    "name": "05 juni 18:20, Trafikolycka, Ljungby",
+    "summary": "Singelolycka på Lv592, Södraljunga.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1820-trafikolycka-ljungby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 429584,
+    "datetime": "2023-06-05 16:46:27 +02:00",
+    "name": "05 juni 15:55, Brand, Stockholm",
+    "summary": "Polisen biträder räddningstjänsten vid en brand i Skärholmen.",
+    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1555-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 429595,
     "datetime": "2023-06-05 18:17:00 +02:00",
     "name": "05 juni 17:42, Trafikbrott, Bräcke",
@@ -33,18 +117,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 429592,
-    "datetime": "2023-06-05 17:49:56 +02:00",
-    "name": "05 juni 17:26, Trafikolycka, Umeå",
-    "summary": "Länsväg 363, larm om singelolycka vid Forslunda",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1726-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -141,18 +213,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 429584,
-    "datetime": "2023-06-05 16:46:27 +02:00",
-    "name": "05 juni 15:55, Brand, Stockholm",
-    "summary": "Polisen biträder räddningstjänsten vid en brand i Skärholmen.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1555-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sjöbo",
       "gps": "55.634822,13.70337"
-    }
-  },
-  {
-    "id": 428896,
-    "datetime": "2023-05-30 16:56:08 +02:00",
-    "name": "30 maj 16:09, Trafikolycka, personskada, Laholm",
-    "summary": "Vid trafikplats 41 på E6 vid Mellbystrand har föraren av en motorcykel kört av vägen.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1609-trafikolycka-personskada-laholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Laholm",
-      "gps": "56.505756,13.045605"
-    }
-  },
-  {
-    "id": 428911,
-    "datetime": "2023-05-30 18:19:39 +02:00",
-    "name": "30 maj 18:06, Trafikolycka, Lund",
-    "summary": "Personbil och cyklist i kollision",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1806-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 428910,
-    "datetime": "2023-05-30 18:18:49 +02:00",
-    "name": "30 maj 18:17, Bråk, Linköping",
-    "summary": "Samtal om bråk i Berga - inget brott har kunnat konstaterats av polis.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1817-brak-linkoping/",
-    "type": "Bråk",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 428909,
-    "datetime": "2023-05-30 18:18:27 +02:00",
-    "name": "30 maj 16:35, Trafikolycka, personskada, Dals-ed",
-    "summary": "På länsväg 164 vid Hökesäter har två bilister varit inblandade i en olycka.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1635-trafikolycka-personskada-dals-ed/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Dals-ed",
-      "gps": "58.974388,11.865175"
-    }
-  },
-  {
-    "id": 428908,
-    "datetime": "2023-05-30 18:16:51 +02:00",
-    "name": "30 maj 16:49, Inbrott, Malmö",
-    "summary": "Almåsa fritidsby",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1649-inbrott-malmo/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
