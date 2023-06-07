@@ -1,5 +1,17 @@
 [
   {
+    "id": 429773,
+    "datetime": "2023-06-07 15:24:50 +02:00",
+    "name": "07 juni 14:52, Brand, Luleå",
+    "summary": "Larm om brand i en lastbil på riksväg 97, Gammelstad.",
+    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1452-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 429763,
     "datetime": "2023-06-07 14:41:00 +02:00",
     "name": "07 juni 13:54, Trafikolycka, Sundsvall",
@@ -9,6 +21,54 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 429772,
+    "datetime": "2023-06-07 15:08:37 +02:00",
+    "name": "07 juni 07:57, Stöld/inbrott, Stockholm",
+    "summary": "Gods som försvunnit vid ett inbrott spåras till en bil.",
+    "url": "/aktuellt/handelser/2023/juni/7/07-juni-0757-stoldinbrott-stockholm/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 429769,
+    "datetime": "2023-06-07 15:07:41 +02:00",
+    "name": "07 juni 14:11, Försvunnen person, Västerås",
+    "summary": "Polisen söker försvunnen man.",
+    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1411-forsvunnen-person-vasteras/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 429740,
+    "datetime": "2023-06-07 12:27:35 +02:00",
+    "name": "07 juni 12:27, Räddningsinsats, Eskilstuna",
+    "summary": "Person anträffad i vattnet vid Smörparken.",
+    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1227-raddningsinsats-eskilstuna/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 429748,
+    "datetime": "2023-06-07 13:16:17 +02:00",
+    "name": "07 juni 13:12, Trafikolycka, Karlstad",
+    "summary": "En trafikolycka mellan bilist och cyklist har inträffat i Karlstad",
+    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1312-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -132,18 +192,6 @@
     }
   },
   {
-    "id": 429748,
-    "datetime": "2023-06-07 13:16:17 +02:00",
-    "name": "07 juni 13:12, Trafikolycka, Karlstad",
-    "summary": "En trafikolycka mellan bilist och cyklist har inträffat i Karlstad.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1312-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
     "id": 429747,
     "datetime": "2023-06-07 13:14:30 +02:00",
     "name": "07 juni 11:36, Rån, Västerås",
@@ -189,18 +237,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 429740,
-    "datetime": "2023-06-07 12:27:35 +02:00",
-    "name": "07 juni 12:27, Räddningsinsats, Eskilstuna",
-    "summary": "Person anträffad i vattnet vid Smörparken.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1227-raddningsinsats-eskilstuna/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 429136,
-    "datetime": "2023-06-01 7:12:34 +02:00",
-    "name": "31 maj 23:53, Brand, Helsingborg",
-    "summary": "Brand på Charlotte Yhlens gata.",
-    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2353-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 429132,
-    "datetime": "2023-06-01 7:06:40 +02:00",
-    "name": "31 maj 21:13, Skadegörelse, Gävle",
-    "summary": "Skadegörelse på hembygdsgård.",
-    "url": "/aktuellt/handelser/2023/maj/31/31-maj-2113-skadegorelse-gavle/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 429130,
-    "datetime": "2023-06-01 7:03:39 +02:00",
-    "name": "01 juni 07:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/juni/1/01-juni-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
