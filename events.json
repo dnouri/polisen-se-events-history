@@ -1,5 +1,77 @@
 [
   {
+    "id": 430108,
+    "datetime": "2023-06-09 21:40:04 +02:00",
+    "name": "09 juni 20:27, Stöld/inbrott, Nacka",
+    "summary": "I Nacka strand greps fyra personer misstänkta för stöld genom inbrott.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-2027-stoldinbrott-nacka/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 430111,
+    "datetime": "2023-06-09 21:31:42 +02:00",
+    "name": "09 juni 16:55, Olaga hot, Norrbottens län",
+    "summary": "Man gripen misstänkt för grovt olaga hot och misshandel.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1655-olaga-hot-norrbottens-lan/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 430110,
+    "datetime": "2023-06-09 21:31:34 +02:00",
+    "name": "09 juni 18:01, Rån, försök, Stockholm",
+    "summary": "I Fredhäll försökte fyra gärningspersoner hota till sig brottsoffrets väska.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1801-ran-forsok-stockholm/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 430109,
+    "datetime": "2023-06-09 21:30:51 +02:00",
+    "name": "09 juni 19:34, Försvunnen person, Burlöv",
+    "summary": "Försvunnen man i Arlöv.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1934-forsvunnen-person-burlov/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 430107,
+    "datetime": "2023-06-09 21:18:48 +02:00",
+    "name": "09 juni 20:42, Stöld, Lund",
+    "summary": "Grov stöld i Lund.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-2042-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 429989,
+    "datetime": "2023-06-09 13:37:15 +02:00",
+    "name": "09 juni 13:32, Brand, Borås",
+    "summary": "Det brinner i en lägenhet i centrala Borås.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1332-brand-boras/",
+    "type": "Brand",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
     "id": 430087,
     "datetime": "2023-06-09 16:42:11 +02:00",
     "name": "09 juni 12:41, Stöld, Norrtälje",
@@ -93,18 +165,6 @@
     "location": {
       "name": "Gotlands län",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 429989,
-    "datetime": "2023-06-09 13:37:15 +02:00",
-    "name": "09 juni 13:32, Brand, Borås",
-    "summary": "Det brinner i en lägenhet i centrala Borås.",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1332-brand-boras/",
-    "type": "Brand",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 429310,
-    "datetime": "2023-06-03 14:30:26 +02:00",
-    "name": "03 juni 14:30, Övrigt, Södermanlands län",
-    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1430-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 429312,
-    "datetime": "2023-06-03 14:30:22 +02:00",
-    "name": "03 juni 14:30, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1430-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 429413,
-    "datetime": "2023-06-03 14:22:18 +02:00",
-    "name": "03 juni 13:03, Skadegörelse, Luleå",
-    "summary": "Skadegörelse på bil parkerad på Mjölkudden.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1303-skadegorelse-lulea/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 429412,
-    "datetime": "2023-06-03 14:12:40 +02:00",
-    "name": "03 juni 14:12, Stöld, Norrköping",
-    "summary": "Man gripen misstänkt för stöld i butik.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1412-stold-norrkoping/",
-    "type": "Stöld",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 429411,
-    "datetime": "2023-06-03 14:05:09 +02:00",
-    "name": "03 juni 14:05, Olaga hot, Vetlanda",
-    "summary": "Man gripen efter att ha hotat familjemedlemmar.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1405-olaga-hot-vetlanda/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
     }
   }
 ]
