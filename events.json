@@ -1,5 +1,65 @@
 [
   {
+    "id": 430087,
+    "datetime": "2023-06-09 16:42:11 +02:00",
+    "name": "09 juni 12:41, Stöld, Norrtälje",
+    "summary": "Den man som väcktes av polis greps misstänkt för stöld.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1241-stold-norrtalje/",
+    "type": "Stöld",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 430071,
+    "datetime": "2023-06-09 15:47:36 +02:00",
+    "name": "09 juni 15:23, Brand, Härryda",
+    "summary": "Räddningstjänst och polis har larmats till Stenåkersgatan i Landvetter med anledning av brand i en lägenhet.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1523-brand-harryda/",
+    "type": "Brand",
+    "location": {
+      "name": "Härryda",
+      "gps": "57.691744,12.294416"
+    }
+  },
+  {
+    "id": 430086,
+    "datetime": "2023-06-09 16:37:57 +02:00",
+    "name": "09 juni 12:14, Alkohollagen, Östersund",
+    "summary": "Östersund, misstänkt langningsbrott.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1214-alkohollagen-ostersund/",
+    "type": "Alkohollagen",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 430078,
+    "datetime": "2023-06-09 16:34:46 +02:00",
+    "name": "09 juni 15:47, Misshandel, Åmål",
+    "summary": "På Vänersborgsvägen har två personer blivit misshandlade.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1547-misshandel-amal/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Åmål",
+      "gps": "59.051117,12.697732"
+    }
+  },
+  {
+    "id": 430084,
+    "datetime": "2023-06-09 16:25:38 +02:00",
+    "name": "09 juni 13:30, Motorfordon, stöld, Östersund",
+    "summary": "Man gripen misstänkt för försök till tillgrepp av fortskaffningsmedel.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1330-motorfordon-stold-ostersund/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 430083,
     "datetime": "2023-06-09 16:20:42 +02:00",
     "name": "09 juni 15:44, Fylleri/LOB, Norrtälje",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 430071,
-    "datetime": "2023-06-09 15:47:36 +02:00",
-    "name": "09 juni 15:23, Brand, Härryda",
-    "summary": "Räddningstjänst och polis har larmats till Stenåkersgatan i Landvetter med anledning av brand i en lägenhet.",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1523-brand-harryda/",
-    "type": "Brand",
-    "location": {
-      "name": "Härryda",
-      "gps": "57.691744,12.294416"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Enköping",
       "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 429392,
-    "datetime": "2023-06-03 11:11:45 +02:00",
-    "name": "03 juni 11:03, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1103-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 429390,
-    "datetime": "2023-06-03 11:03:47 +02:00",
-    "name": "03 juni 11:03, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1103-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 429386,
-    "datetime": "2023-06-03 10:46:05 +02:00",
-    "name": "03 juni 10:45, Brand, Söderköping",
-    "summary": "Brand vid Ramunderberget.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1045-brand-soderkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Söderköping",
-      "gps": "58.475901,16.323431"
-    }
-  },
-  {
-    "id": 429384,
-    "datetime": "2023-06-03 10:34:23 +02:00",
-    "name": "03 juni 09:57, Trafikkontroll, Avesta",
-    "summary": "Under förmiddagen har polisen genomfört en nykterhetskontroll i centrala Avesta.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-0957-trafikkontroll-avesta/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
     }
   }
 ]
