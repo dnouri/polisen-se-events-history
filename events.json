@@ -1,14 +1,50 @@
 [
   {
-    "id": 430100,
-    "datetime": "2023-06-09 19:43:06 +02:00",
-    "name": "09 juni 16:15, Narkotikabrott, Lycksele",
-    "summary": "Kvinna misstänks för narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1615-narkotikabrott-lycksele/",
-    "type": "Narkotikabrott",
+    "id": 430098,
+    "datetime": "2023-06-09 20:21:36 +02:00",
+    "name": "09 juni 15:58, Trafikolycka, Malmö",
+    "summary": "Påkörd person på Neptunigatan.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1558-trafikolycka-malmo/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 430103,
+    "datetime": "2023-06-09 20:12:34 +02:00",
+    "name": "09 juni 18:10, Rån, Oskarshamn",
+    "summary": "Personrån på Åsavägen.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1810-ran-oskarshamn/",
+    "type": "Rån",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 430102,
+    "datetime": "2023-06-09 20:09:23 +02:00",
+    "name": "09 juni 18:03, Misshandel, grov, Tanum",
+    "summary": "På Affärsvägen har en man i 30-årsåldern gripits misstänkt för grov misshandel.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1803-misshandel-grov-tanum/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 430101,
+    "datetime": "2023-06-09 20:02:09 +02:00",
+    "name": "09 juni 16:01, Motorfordon, anträffat stulet, Gotlands län",
+    "summary": "Det motorredskap som polisen hittade i Pilhagen hade stulits vid 15-tiden i dag.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1601-motorfordon-antraffat-stulet-gotlands-lan/",
+    "type": "Motorfordon, anträffat stulet",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
     }
   },
   {
@@ -21,6 +57,18 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 430100,
+    "datetime": "2023-06-09 19:43:06 +02:00",
+    "name": "09 juni 16:15, Narkotikabrott, Lycksele",
+    "summary": "Kvinna misstänks för narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1615-narkotikabrott-lycksele/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Gällivare",
       "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 429405,
-    "datetime": "2023-06-03 13:13:36 +02:00",
-    "name": "03 juni 10:17, Motorfordon, stöld, Nordanstig",
-    "summary": "Tre personer kunde gripas efter stöld av fordon.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1017-motorfordon-stold-nordanstig/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Nordanstig",
-      "gps": "62.036668,17.205249"
-    }
-  },
-  {
-    "id": 429404,
-    "datetime": "2023-06-03 13:13:26 +02:00",
-    "name": "03 juni 13:01, Trafikolycka, personskada, Stockholm",
-    "summary": "En motorcykel och en personbil har kolliderat i Skrubba.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1301-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 429403,
-    "datetime": "2023-06-03 12:57:45 +02:00",
-    "name": "03 juni 10:43, Rattfylleri, Härnösand",
-    "summary": "Misstänkt rattfylleri i Härnösand.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1043-rattfylleri-harnosand/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 429402,
-    "datetime": "2023-06-03 12:44:58 +02:00",
-    "name": "03 juni 12:44, Trafikkontroll, Umeå",
-    "summary": "Resultat av polisens arbete i trafiken under festivalhelgen.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1244-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
