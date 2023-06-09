@@ -1,5 +1,41 @@
 [
   {
+    "id": 430100,
+    "datetime": "2023-06-09 19:43:06 +02:00",
+    "name": "09 juni 16:15, Narkotikabrott, Lycksele",
+    "summary": "Kvinna misstänks för narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1615-narkotikabrott-lycksele/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 429989,
+    "datetime": "2023-06-09 13:37:15 +02:00",
+    "name": "09 juni 13:32, Brand, Borås",
+    "summary": "Det brinner i en lägenhet i centrala Borås.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1332-brand-boras/",
+    "type": "Brand",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 430071,
+    "datetime": "2023-06-09 15:47:36 +02:00",
+    "name": "09 juni 15:23, Brand, Härryda",
+    "summary": "Räddningstjänst och polis har larmats till Stenåkersgatan i Landvetter med anledning av brand i en lägenhet.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1523-brand-harryda/",
+    "type": "Brand",
+    "location": {
+      "name": "Härryda",
+      "gps": "57.691744,12.294416"
+    }
+  },
+  {
     "id": 430099,
     "datetime": "2023-06-09 19:05:54 +02:00",
     "name": "09 juni 19:05, Trafikkontroll, Jämtlands län",
@@ -144,18 +180,6 @@
     }
   },
   {
-    "id": 430071,
-    "datetime": "2023-06-09 15:47:36 +02:00",
-    "name": "09 juni 15:23, Brand, Härryda",
-    "summary": "Räddningstjänst och polis har larmats till Stenåkersgatan i Landvetter med anledning av brand i en lägenhet.",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1523-brand-harryda/",
-    "type": "Brand",
-    "location": {
-      "name": "Härryda",
-      "gps": "57.691744,12.294416"
-    }
-  },
-  {
     "id": 430090,
     "datetime": "2023-06-09 17:02:38 +02:00",
     "name": "09 juni 15:40, Häleri, Stockholm",
@@ -285,18 +309,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 429989,
-    "datetime": "2023-06-09 13:37:15 +02:00",
-    "name": "09 juni 13:32, Brand, Borås",
-    "summary": "Det brinner i en lägenhet i centrala Borås.",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1332-brand-boras/",
-    "type": "Brand",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 429401,
-    "datetime": "2023-06-03 12:35:51 +02:00",
-    "name": "03 juni 12:34, Trafikbrott, Motala",
-    "summary": "Man körde 119 km/h på 80-sträcka i Motala.",
-    "url": "/aktuellt/handelser/2023/juni/3/03-juni-1234-trafikbrott-motala/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Motala",
-      "gps": "58.538034,15.047094"
     }
   }
 ]
