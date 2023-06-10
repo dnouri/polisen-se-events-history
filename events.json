@@ -1,5 +1,65 @@
 [
   {
+    "id": 430172,
+    "datetime": "2023-06-10 16:17:33 +02:00",
+    "name": "10 juni 15:52, Trafikbrott, Stockholm",
+    "summary": "I Marieberg rapporterades en personbilsförare.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1552-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 430171,
+    "datetime": "2023-06-10 16:07:45 +02:00",
+    "name": "10 juni 16:07, Skottlossning, Eskilstuna",
+    "summary": "Skottlossning har inträffat i Nyfors - polisen har inte kommit i kontakt med någon som skadats fysiskt.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1607-skottlossning-eskilstuna/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 430170,
+    "datetime": "2023-06-10 15:56:00 +02:00",
+    "name": "10 juni 16:00, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer i dag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1600-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 430169,
+    "datetime": "2023-06-10 15:55:35 +02:00",
+    "name": "10 juni 16:00, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer i dag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1600-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 430164,
+    "datetime": "2023-06-10 14:33:39 +02:00",
+    "name": "10 juni 14:04, Brand, Göteborg",
+    "summary": "Det brinner i en vindtunnel i en verkstadslokal på Hisingen.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1404-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 430168,
     "datetime": "2023-06-10 15:39:29 +02:00",
     "name": "10 juni 15:08, Farligt föremål, misstänkt, Luleå",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Åtvidaberg",
       "gps": "58.20079,15.997699"
-    }
-  },
-  {
-    "id": 430164,
-    "datetime": "2023-06-10 14:33:39 +02:00",
-    "name": "10 juni 14:04, Brand, Göteborg",
-    "summary": "Det brinner i en vindtunnel i en verkstadslokal på Hisingen.",
-    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1404-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 429457,
-    "datetime": "2023-06-04 7:27:47 +02:00",
-    "name": "04 juni 04:53, Brand, Bollnäs",
-    "summary": "Flera personer till sjukhus efter brand i äldreboende.",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-0453-brand-bollnas/",
-    "type": "Brand",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
-    }
-  },
-  {
-    "id": 429481,
-    "datetime": "2023-06-04 12:15:30 +02:00",
-    "name": "04 juni 11:42, Trafikolycka, Borås",
-    "summary": "Föraren av en personbil har kört in i mitträcket på riksväg 27 i höjd med Gässlösa.",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-1142-trafikolycka-boras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 429480,
-    "datetime": "2023-06-04 11:43:05 +02:00",
-    "name": "04 juni 10:26, Trafikkontroll, Skellefteå",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-1026-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 429479,
-    "datetime": "2023-06-04 11:41:28 +02:00",
-    "name": "04 juni 09:38, Trafikkontroll, Lycksele",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-0938-trafikkontroll-lycksele/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
     }
   }
 ]
