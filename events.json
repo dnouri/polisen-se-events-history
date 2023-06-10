@@ -1,14 +1,38 @@
 [
   {
-    "id": 430142,
-    "datetime": "2023-06-10 10:05:27 +02:00",
-    "name": "10 juni 10:05, Mord/dråp, försök, Örnsköldsvik",
-    "summary": "Misstänkt mordförsök i Örnsköldsvik kommun.",
-    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1005-morddrap-forsok-ornskoldsvik/",
-    "type": "Mord/dråp, försök",
+    "id": 430164,
+    "datetime": "2023-06-10 14:33:39 +02:00",
+    "name": "10 juni 14:04, Brand, Göteborg",
+    "summary": "Det brinner i en vindtunnel i en verkstadslokal på Hisingen.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1404-brand-goteborg/",
+    "type": "Brand",
     "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 430156,
+    "datetime": "2023-06-10 12:15:24 +02:00",
+    "name": "10 juni 11:26, Trafikolycka, Storuman",
+    "summary": "Bredviken, singelolycka på E12.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1126-trafikolycka-storuman/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 430163,
+    "datetime": "2023-06-10 14:18:55 +02:00",
+    "name": "10 juni 14:10, Trafikolycka, Mora",
+    "summary": "En motorcyklist har kört av riksväg 70",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1410-trafikolycka-mora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
     }
   },
   {
@@ -21,6 +45,54 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 430162,
+    "datetime": "2023-06-10 14:06:35 +02:00",
+    "name": "10 juni 12:52, Rattfylleri, Karlskoga",
+    "summary": "En kvinna i 35-årsåldern är misstänkt för drograttfylleri",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1252-rattfylleri-karlskoga/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 430161,
+    "datetime": "2023-06-10 13:49:15 +02:00",
+    "name": "10 juni 13:14, Misshandel, Stockholms län",
+    "summary": "En kvinna som befinner sig i den södra länshalvan ringer till polisen och meddelar att hennes exman har försök",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1314-misshandel-stockholms-lan/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 430160,
+    "datetime": "2023-06-10 13:48:57 +02:00",
+    "name": "10 juni 13:48, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1348-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 430142,
+    "datetime": "2023-06-10 10:05:27 +02:00",
+    "name": "10 juni 10:05, Mord/dråp, försök, Örnsköldsvik",
+    "summary": "Misstänkt mordförsök i Örnsköldsvik kommun.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1005-morddrap-forsok-ornskoldsvik/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -69,18 +141,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 430156,
-    "datetime": "2023-06-10 12:15:24 +02:00",
-    "name": "10 juni 11:26, Trafikolycka, Storuman",
-    "summary": "Bredviken, singelolycka på E12.",
-    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1126-trafikolycka-storuman/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 429471,
-    "datetime": "2023-06-04 9:21:11 +02:00",
-    "name": "04 juni 01:02, Misshandel, grov, Västerås",
-    "summary": "Man i 20-årsåldern gripen efter bråk i centrala Västerås.",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-0102-misshandel-grov-vasteras/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 429470,
-    "datetime": "2023-06-04 9:13:28 +02:00",
-    "name": "04 juni 09:13, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Norrbotten.",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-0913-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 429469,
-    "datetime": "2023-06-04 8:36:10 +02:00",
-    "name": "04 juni 01:52, Rån, Helsingborg",
-    "summary": "Bil tillgripen",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-0152-ran-helsingborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 429468,
-    "datetime": "2023-06-04 8:29:32 +02:00",
-    "name": "04 juni 08:29, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet samt sammanfattning av polisens arbete i samband med Brännbollsyran i Ume",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-0829-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 429459,
-    "datetime": "2023-06-04 8:21:05 +02:00",
-    "name": "04 juni 08:20, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/4/04-juni-0820-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
