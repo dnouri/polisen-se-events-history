@@ -1,5 +1,65 @@
 [
   {
+    "id": 430234,
+    "datetime": "2023-06-11 15:21:28 +02:00",
+    "name": "11 juni 15:14, Trafikolycka, Malmö",
+    "summary": "Olycka på Hyllie Vattenparksgata.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1514-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 430120,
+    "datetime": "2023-06-09 22:10:31 +02:00",
+    "name": "09 juni 22:01, Skottlossning, misstänkt, Haninge",
+    "summary": "Polisen får in samtal om skottlossning i Jordbro.",
+    "url": "/aktuellt/handelser/2023/juni/9/09-juni-2201-skottlossning-misstankt-haninge/",
+    "type": "Skottlossning, misstänkt",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 430205,
+    "datetime": "2023-06-11 14:36:18 +02:00",
+    "name": "11 juni 14:30, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1430-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 430204,
+    "datetime": "2023-06-11 14:36:15 +02:00",
+    "name": "11 juni 14:30, Övrigt, Östergötlands län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1430-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 430203,
+    "datetime": "2023-06-11 14:36:11 +02:00",
+    "name": "11 juni 14:30, Övrigt, Södermanlands län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1430-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 430227,
     "datetime": "2023-06-11 13:51:39 +02:00",
     "name": "11 juni 13:20, Trafikolycka, Göteborg",
@@ -1185,18 +1245,6 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 430120,
-    "datetime": "2023-06-09 22:10:31 +02:00",
-    "name": "09 juni 22:01, Skottlossning, misstänkt, Haninge",
-    "summary": "Polisen får in samtal om skottlossning i Jordbro.",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-2201-skottlossning-misstankt-haninge/",
-    "type": "Skottlossning, misstänkt",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 429543,
-    "datetime": "2023-06-05 11:01:54 +02:00",
-    "name": "05 juni 09:07, Stöld/inbrott, Karlstad",
-    "summary": "Under helgen har en byggarbetsplats på Färjestad i Karlstad utsatts för inbrott.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0907-stoldinbrott-karlstad/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 429542,
-    "datetime": "2023-06-05 10:59:22 +02:00",
-    "name": "05 juni 10:20, Brand, Haninge",
-    "summary": "Polis och räddningstjänst kallas till Jordbro med anledning av en markbrand.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1020-brand-haninge/",
-    "type": "Brand",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 429541,
-    "datetime": "2023-06-05 10:55:22 +02:00",
-    "name": "05 juni 09:44, Fylleri/LOB, Luleå",
-    "summary": "Luleå, person omhändertagen.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0944-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 429539,
-    "datetime": "2023-06-05 10:30:15 +02:00",
-    "name": "05 juni 10:30, Uppdatering, Umeå",
-    "summary": "Uppdatering gällande misstänkt våldtäkt den 3 juni",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1030-uppdatering-umea/",
-    "type": "Uppdatering",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
