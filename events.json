@@ -1,5 +1,17 @@
 [
   {
+    "id": 430224,
+    "datetime": "2023-06-11 13:11:42 +02:00",
+    "name": "11 juni 12:49, Trafikolycka, vilt, Åre",
+    "summary": "Viltolycka på E14 öster om Järpen.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1249-trafikolycka-vilt-are/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
     "id": 430221,
     "datetime": "2023-06-11 12:38:33 +02:00",
     "name": "11 juni 12:24, Stöld/inbrott, Malmö",
@@ -9,6 +21,54 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 430223,
+    "datetime": "2023-06-11 12:54:39 +02:00",
+    "name": "11 juni 12:54, Brand, Trosa",
+    "summary": "Larm om brand utanför Västerljung.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1254-brand-trosa/",
+    "type": "Brand",
+    "location": {
+      "name": "Trosa",
+      "gps": "58.902655,17.549464"
+    }
+  },
+  {
+    "id": 430222,
+    "datetime": "2023-06-11 12:49:05 +02:00",
+    "name": "11 juni 12:48, Stöld/inbrott, Nyköping",
+    "summary": "Verktygsstöld norr om Nyköping.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1248-stoldinbrott-nykoping/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 430212,
+    "datetime": "2023-06-11 10:17:05 +02:00",
+    "name": "11 juni 08:14, Försvunnen person, Uppsala",
+    "summary": "Polisen söker försvunnen kvinna.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-0814-forsvunnen-person-uppsala/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 430216,
+    "datetime": "2023-06-11 11:12:26 +02:00",
+    "name": "11 juni 11:02, Trafikolycka, Falkenberg",
+    "summary": "En bilist har kört in i mitträcket på E6 strax norr om Slöinge.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1102-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
     }
   },
   {
@@ -72,18 +132,6 @@
     }
   },
   {
-    "id": 430216,
-    "datetime": "2023-06-11 11:12:26 +02:00",
-    "name": "11 juni 11:02, Trafikolycka, Falkenberg",
-    "summary": "En bilist har kört in i mitträcket på E6 strax norr om Slöinge.",
-    "url": "/aktuellt/handelser/2023/juni/11/11-juni-1102-trafikolycka-falkenberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
-    }
-  },
-  {
     "id": 430215,
     "datetime": "2023-06-11 10:23:35 +02:00",
     "name": "11 juni 09:22, Brand, Stockholm",
@@ -93,18 +141,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 430212,
-    "datetime": "2023-06-11 10:17:05 +02:00",
-    "name": "11 juni 08:14, Försvunnen person, Uppsala",
-    "summary": "Polisen söker försvunnen kvinna.",
-    "url": "/aktuellt/handelser/2023/juni/11/11-juni-0814-forsvunnen-person-uppsala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Tanum",
       "gps": "58.732727,11.457819"
-    }
-  },
-  {
-    "id": 429528,
-    "datetime": "2023-06-05 7:31:11 +02:00",
-    "name": "05 juni 07:26, Brand, Stockholm",
-    "summary": "Polis och räddningstjänst är på väg till påfarten till Essingeleden i norrgående riktning med anledning av en ",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0726-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 429526,
-    "datetime": "2023-06-05 7:55:37 +02:00",
-    "name": "05 juni 07:55, Sammanfattning natt, Jönköpings län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0755-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 429530,
-    "datetime": "2023-06-05 7:55:33 +02:00",
-    "name": "05 juni 07:55, Sammanfattning natt, Södermanlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-0755-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
