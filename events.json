@@ -1,5 +1,41 @@
 [
   {
+    "id": 430325,
+    "datetime": "2023-06-12 9:42:55 +02:00",
+    "name": "12 juni 04:47, Brand, Piteå",
+    "summary": "Brand i lada i Sikfors, Piteå.",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0447-brand-pitea/",
+    "type": "Brand",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 430324,
+    "datetime": "2023-06-12 9:32:10 +02:00",
+    "name": "11 juni 20:53, Ofredande/förargelse, Uppsala",
+    "summary": "Man grips misstänkt för sexuellt ofredande mot barn.",
+    "url": "/aktuellt/handelser/2023/juni/11/11-juni-2053-ofredandeforargelse-uppsala/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 430178,
+    "datetime": "2023-06-10 18:20:13 +02:00",
+    "name": "10 juni 18:13, Skottlossning, Stockholm",
+    "summary": "Polisen får flera samtal om att det har skett en skottlossning utomhus i närheten av Farsta centrum.",
+    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1813-skottlossning-stockholm/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 430323,
     "datetime": "2023-06-12 8:54:31 +02:00",
     "name": "12 juni 02:36, Farligt föremål, misstänkt, Stockholm",
@@ -621,18 +657,6 @@
     "location": {
       "name": "Falkenberg",
       "gps": "56.902733,12.488801"
-    }
-  },
-  {
-    "id": 430178,
-    "datetime": "2023-06-10 18:20:13 +02:00",
-    "name": "10 juni 18:13, Skottlossning, Stockholm",
-    "summary": "Polisen får flera samtal om att det har skett en skottlossning utomhus i närheten av Farsta centrum.",
-    "url": "/aktuellt/handelser/2023/juni/10/10-juni-1813-skottlossning-stockholm/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 429596,
-    "datetime": "2023-06-05 19:18:34 +02:00",
-    "name": "05 juni 17:56, Trafikolycka, Stenungsund",
-    "summary": "En bilist och en mopedist i kollision i centrala Stenungsund.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1756-trafikolycka-stenungsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 429600,
-    "datetime": "2023-06-05 19:15:50 +02:00",
-    "name": "05 juni 18:08, Stöld, Skellefteå",
-    "summary": "Centrum, ung kvinna stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-1808-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
