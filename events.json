@@ -1,5 +1,101 @@
 [
   {
+    "id": 430378,
+    "datetime": "2023-06-12 18:26:20 +02:00",
+    "name": "12 juni 17:05, Mord/dråp, försök, Malmö",
+    "summary": "Bråk i mataffär",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1705-morddrap-forsok-malmo/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 430377,
+    "datetime": "2023-06-12 18:23:40 +02:00",
+    "name": "12 juni 18:03, Brand, Göteborg",
+    "summary": "Larm om brand på en balkong på Östra Eriksbergsgatan.",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1803-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 430376,
+    "datetime": "2023-06-12 18:21:31 +02:00",
+    "name": "12 juni 15:24, Skadegörelse, Pajala",
+    "summary": "Polispatrull beordras till centrala Pajala med anledning av att en man uppges göra åverkan på en bil.",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1524-skadegorelse-pajala/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 430375,
+    "datetime": "2023-06-12 18:15:34 +02:00",
+    "name": "12 juni 17:08, Misshandel, Ängelholm",
+    "summary": "Skadat barn anträffat",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1708-misshandel-angelholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 430374,
+    "datetime": "2023-06-12 17:58:37 +02:00",
+    "name": "12 juni 16:48, Trafikolycka, Krokom",
+    "summary": "Larm om trafikolycka på länsväg 666, sydost om Nälden.",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1648-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 430370,
+    "datetime": "2023-06-12 17:23:02 +02:00",
+    "name": "12 juni 17:15, Trafikolycka, personskada, Karlstad",
+    "summary": "Det är totalstopp i trafiken på E18 genom centrala Karlstad i riktning mot Oslo efter en trafikolycka.",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1715-trafikolycka-personskada-karlstad/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 430373,
+    "datetime": "2023-06-12 17:49:44 +02:00",
+    "name": "12 juni 16:34, Knivlagen, Skellefteå",
+    "summary": "Misstänkt brott mot knivlagen i centrala Skellefteå.",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1634-knivlagen-skelleftea/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 430372,
+    "datetime": "2023-06-12 17:47:01 +02:00",
+    "name": "12 juni 17:15, Trafikolycka, vilt, Arjeplog",
+    "summary": "Polisen får in en anmälan om en olycka med en personbil och en ren.",
+    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1715-trafikolycka-vilt-arjeplog/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Arjeplog",
+      "gps": "66.051505,17.890054"
+    }
+  },
+  {
     "id": 430371,
     "datetime": "2023-06-12 17:42:33 +02:00",
     "name": "12 juni 16:50, Trafikolycka, vilt, Sundsvall",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Vallentuna",
       "gps": "59.5357,18.078017"
-    }
-  },
-  {
-    "id": 430370,
-    "datetime": "2023-06-12 17:23:02 +02:00",
-    "name": "12 juni 17:15, Trafikolycka, personskada, Karlstad",
-    "summary": "Det är totalstopp i trafiken på E18 genom centrala Karlstad i riktning mot Oslo efter en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1715-trafikolycka-personskada-karlstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Arjeplog",
       "gps": "66.051505,17.890054"
-    }
-  },
-  {
-    "id": 429628,
-    "datetime": "2023-06-06 8:16:57 +02:00",
-    "name": "06 juni 08:15, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/6/06-juni-0815-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 429637,
-    "datetime": "2023-06-06 8:15:37 +02:00",
-    "name": "06 juni 08:15, Sammanfattning natt, Jönköpings län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/6/06-juni-0815-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 429630,
-    "datetime": "2023-06-06 7:42:41 +02:00",
-    "name": "06 juni 06:47, Trafikolycka, Bräcke",
-    "summary": "Bräcke, singelolycka på E14/Åsenvägen.",
-    "url": "/aktuellt/handelser/2023/juni/6/06-juni-0647-trafikolycka-bracke/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bräcke",
-      "gps": "62.750741,15.422575"
-    }
-  },
-  {
-    "id": 429633,
-    "datetime": "2023-06-06 8:12:32 +02:00",
-    "name": "06 juni 02:49, Misshandel, grov, Huddinge",
-    "summary": "Man hittas med skärskador.",
-    "url": "/aktuellt/handelser/2023/juni/6/06-juni-0249-misshandel-grov-huddinge/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 429634,
-    "datetime": "2023-06-06 8:12:28 +02:00",
-    "name": "05 juni 22:06, Skadegörelse, Solna",
-    "summary": "Stenkastning på fönsterrutor.",
-    "url": "/aktuellt/handelser/2023/juni/6/05-juni-2206-skadegorelse-solna/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 429636,
-    "datetime": "2023-06-06 8:12:22 +02:00",
-    "name": "05 juni 22:09, Misshandel, Sigtuna",
-    "summary": "Misshandlad kvinna hittas av grannar.",
-    "url": "/aktuellt/handelser/2023/juni/5/05-juni-2209-misshandel-sigtuna/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 429632,
-    "datetime": "2023-06-06 8:01:02 +02:00",
-    "name": "06 juni 08:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/juni/6/06-juni-0800-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
