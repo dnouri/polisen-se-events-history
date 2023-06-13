@@ -1,5 +1,65 @@
 [
   {
+    "id": 430483,
+    "datetime": "2023-06-13 14:37:10 +02:00",
+    "name": "13 juni 09:38, Arbetsplatsolycka, Åre",
+    "summary": "Larm om misstänkt arbetsplatsolycka, Åre.",
+    "url": "/aktuellt/handelser/2023/juni/13/13-juni-0938-arbetsplatsolycka-are/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 430454,
+    "datetime": "2023-06-13 12:51:29 +02:00",
+    "name": "13 juni 12:51, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1251-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 430456,
+    "datetime": "2023-06-13 12:51:17 +02:00",
+    "name": "13 juni 12:51, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1251-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 430482,
+    "datetime": "2023-06-13 14:26:58 +02:00",
+    "name": "13 juni 13:12, Stöld, Umeå",
+    "summary": "Misstänkt ringa stöld i matbutik i centrala Umeå.",
+    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1312-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 430465,
+    "datetime": "2023-06-13 14:17:17 +02:00",
+    "name": "13 juni 10:49, Stöld, Åre",
+    "summary": "Misstänkt ringa stöld i matbutik.",
+    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1049-stold-are/",
+    "type": "Stöld",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
     "id": 430469,
     "datetime": "2023-06-13 13:36:02 +02:00",
     "name": "13 juni 12:10, Olovlig körning, Piteå",
@@ -57,30 +117,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 430454,
-    "datetime": "2023-06-13 12:51:29 +02:00",
-    "name": "13 juni 12:51, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1251-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 430456,
-    "datetime": "2023-06-13 12:51:17 +02:00",
-    "name": "13 juni 12:51, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1251-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 429715,
-    "datetime": "2023-06-07 7:50:16 +02:00",
-    "name": "07 juni 07:50, Sammanfattning natt, Jönköpings län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-0750-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 429712,
-    "datetime": "2023-06-07 7:43:19 +02:00",
-    "name": "07 juni 04:27, Skadegörelse, Gävle",
-    "summary": "Två bilar utsätts för skadegörelse.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-0427-skadegorelse-gavle/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 429711,
-    "datetime": "2023-06-07 7:41:25 +02:00",
-    "name": "07 juni 02:41, Stöld, Hudiksvall",
-    "summary": "Tre bilar utsätts för skadegörelse.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-0241-stold-hudiksvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
     }
   }
 ]
