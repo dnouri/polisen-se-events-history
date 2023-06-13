@@ -1,17 +1,5 @@
 [
   {
-    "id": 428844,
-    "datetime": "2023-05-30 11:11:15 +02:00",
-    "name": "30 maj 10:17, Räddningsinsats, Piteå",
-    "summary": "Larm om person i vattnet vid Bergviksbron, Hemlunda, Piteå.",
-    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1017-raddningsinsats-pitea/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
     "id": 430449,
     "datetime": "2023-06-13 11:17:14 +02:00",
     "name": "13 juni 10:54, Trafikolycka, Forshaga",
@@ -21,6 +9,42 @@
     "location": {
       "name": "Forshaga",
       "gps": "59.529761,13.486084"
+    }
+  },
+  {
+    "id": 430451,
+    "datetime": "2023-06-13 11:28:07 +02:00",
+    "name": "13 juni 11:01, Trafikolycka, Mönsterås",
+    "summary": "En person till sjukhus efter olycka, Mönsterås.",
+    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1101-trafikolycka-monsteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mönsterås",
+      "gps": "57.04158,16.44312"
+    }
+  },
+  {
+    "id": 430450,
+    "datetime": "2023-06-13 11:25:01 +02:00",
+    "name": "13 juni 11:19, Brand, Helsingborg",
+    "summary": "Brand i förråd, Helsingborg.",
+    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1119-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 428844,
+    "datetime": "2023-05-30 11:11:15 +02:00",
+    "name": "30 maj 10:17, Räddningsinsats, Piteå",
+    "summary": "Larm om person i vattnet vid Bergviksbron, Hemlunda, Piteå.",
+    "url": "/aktuellt/handelser/2023/maj/30/30-maj-1017-raddningsinsats-pitea/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 429690,
-    "datetime": "2023-06-06 21:19:34 +02:00",
-    "name": "06 juni 21:09, Brand, Malmö",
-    "summary": "Katrinelund. Brand i byggnad.",
-    "url": "/aktuellt/handelser/2023/juni/6/06-juni-2109-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 429692,
-    "datetime": "2023-06-06 21:45:07 +02:00",
-    "name": "06 juni 16:29, Stöld, Sundsvall",
-    "summary": "Misstänkt ringa stöld i butik, Birsta.",
-    "url": "/aktuellt/handelser/2023/juni/6/06-juni-1629-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
