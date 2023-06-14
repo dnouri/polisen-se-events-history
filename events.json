@@ -1,5 +1,53 @@
 [
   {
+    "id": 430559,
+    "datetime": "2023-06-14 10:40:20 +02:00",
+    "name": "14 juni 03:29, Brand, Luleå",
+    "summary": "Brinnande bil i dike",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0329-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 430558,
+    "datetime": "2023-06-14 10:39:19 +02:00",
+    "name": "14 juni 10:35, Trafikkontroll, Örebro",
+    "summary": "Polispatruller har genomfört en trafikkontroll under morgonen på Söder i Örebro.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1035-trafikkontroll-orebro/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 430539,
+    "datetime": "2023-06-14 8:15:39 +02:00",
+    "name": "14 juni 07:59, Trafikolycka, Helsingborg",
+    "summary": "Singelolycka på Fältarpsvägen.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0759-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 430557,
+    "datetime": "2023-06-14 10:33:24 +02:00",
+    "name": "14 juni 10:27, Trafikolycka, Kristianstad",
+    "summary": "Trafikolycka på Rv21 vid Önnestad.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1027-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
     "id": 430550,
     "datetime": "2023-06-14 10:06:36 +02:00",
     "name": "14 juni 09:30, Trafikkontroll, Luleå",
@@ -153,18 +201,6 @@
     "location": {
       "name": "Nybro",
       "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 430539,
-    "datetime": "2023-06-14 8:15:39 +02:00",
-    "name": "14 juni 07:59, Trafikolycka, Helsingborg",
-    "summary": "Singelolycka på Fältarpsvägen.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0759-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Upplands väsby",
       "gps": "59.51961,17.92834"
-    }
-  },
-  {
-    "id": 429803,
-    "datetime": "2023-06-07 18:25:04 +02:00",
-    "name": "07 juni 16:27, Farligt föremål, misstänkt, Klippan",
-    "summary": "Forsmöllevägen. Polisen hanterar ett misstänkt farligt föremål.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1627-farligt-foremal-misstankt-klippan/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Klippan",
-      "gps": "56.1349,13.129041"
-    }
-  },
-  {
-    "id": 429805,
-    "datetime": "2023-06-07 19:00:59 +02:00",
-    "name": "07 juni 19:00, Trafikbrott, Östergötlands län",
-    "summary": "Bil med släp noterades köra fort i Linköping och kontrollerades senare av polis i Norrköping. Bilisten blev av",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1900-trafikbrott-ostergotlands-lan/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 429804,
-    "datetime": "2023-06-07 18:25:32 +02:00",
-    "name": "07 juni 15:35, Trafikolycka, personskada, Örebro",
-    "summary": "En man i fyrtioårsåldern har förts till sjukhus efter en trafikolycka i centrala Örebro.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1535-trafikolycka-personskada-orebro/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
