@@ -1,5 +1,53 @@
 [
   {
+    "id": 430563,
+    "datetime": "2023-06-14 11:10:55 +02:00",
+    "name": "14 juni 11:09, Stöld, Sävsjö",
+    "summary": "Två gripna misstänkta för stöld.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1109-stold-savsjo/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sävsjö",
+      "gps": "57.398996,14.665814"
+    }
+  },
+  {
+    "id": 430562,
+    "datetime": "2023-06-14 11:08:51 +02:00",
+    "name": "14 juni 10:45, Brand, Kalmar",
+    "summary": "Brand i byggnad på Norra Långgatan.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1045-brand-kalmar/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 430552,
+    "datetime": "2023-06-14 9:53:44 +02:00",
+    "name": "14 juni 09:19, Brand, Tidaholm",
+    "summary": "En ladugård brinner i Tidaholm.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0919-brand-tidaholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Tidaholm",
+      "gps": "58.181769,13.959474"
+    }
+  },
+  {
+    "id": 430561,
+    "datetime": "2023-06-14 10:53:31 +02:00",
+    "name": "14 juni 10:53, Trafikolycka, Jönköping",
+    "summary": "Cyklist och bilist i olycka på Huskvarnavägen.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1053-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
     "id": 430559,
     "datetime": "2023-06-14 10:40:20 +02:00",
     "name": "14 juni 03:29, Brand, Luleå",
@@ -81,18 +129,6 @@
     "location": {
       "name": "Hagfors",
       "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 430552,
-    "datetime": "2023-06-14 9:53:44 +02:00",
-    "name": "14 juni 09:19, Brand, Tidaholm",
-    "summary": "En ladugård brinner i Tidaholm.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0919-brand-tidaholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Tidaholm",
-      "gps": "58.181769,13.959474"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 429809,
-    "datetime": "2023-06-07 19:21:02 +02:00",
-    "name": "07 juni 18:21, Trafikkontroll, Luleå",
-    "summary": "Resultat efter trafikkontroll på Gäddviksvägen, Gammelstad.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1821-trafikkontroll-lulea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 429808,
-    "datetime": "2023-06-07 19:16:13 +02:00",
-    "name": "07 juni 16:32, Trafikkontroll, Östersund",
-    "summary": "Resultat efter trafikkontroll på E45, Österåsen.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1632-trafikkontroll-ostersund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 429807,
-    "datetime": "2023-06-07 19:14:02 +02:00",
-    "name": "07 juni 18:17, Fylleri/LOB, Upplands väsby",
-    "summary": "Hon som ringde till polisen om en berusad kvinna stannade kvar tills polisen kom till platsen.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1817-fyllerilob-upplands-vasby/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Upplands väsby",
-      "gps": "59.51961,17.92834"
     }
   }
 ]
