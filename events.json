@@ -1,5 +1,53 @@
 [
   {
+    "id": 430597,
+    "datetime": "2023-06-14 16:03:53 +02:00",
+    "name": "14 juni 14:33, Skadegörelse, Stockholm",
+    "summary": "Skadegörelse av ett konstverk på ett museum.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1433-skadegorelse-stockholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 430630,
+    "datetime": "2023-06-14 21:34:23 +02:00",
+    "name": "14 juni 21:02, Trafikolycka, Karlstad",
+    "summary": "En mindre lastbil har kolliderat med en viadukt i centrala Karlstad.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2102-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 430629,
+    "datetime": "2023-06-14 21:28:35 +02:00",
+    "name": "14 juni 20:55, Trafikolycka, personskada, Säffle",
+    "summary": "En trafikolycka har inträffat på E45 söder om Säffle.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2055-trafikolycka-personskada-saffle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 430628,
+    "datetime": "2023-06-14 21:24:10 +02:00",
+    "name": "14 juni 21:22, Trafikolycka, personskada, Årjäng",
+    "summary": "En trafikolycka med en fyrhjuling har inträffat några kilometer norr om Årjäng.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2122-trafikolycka-personskada-arjang/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Årjäng",
+      "gps": "59.389159,12.132717"
+    }
+  },
+  {
     "id": 430627,
     "datetime": "2023-06-14 21:10:50 +02:00",
     "name": "14 juni 20:55, Rån, Malmö",
@@ -357,18 +405,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 430597,
-    "datetime": "2023-06-14 16:03:53 +02:00",
-    "name": "14 juni 14:33, Skadegörelse, Stockholm",
-    "summary": "Skadegörelse av ett konstverk på ett museum.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1433-skadegorelse-stockholm/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 429863,
-    "datetime": "2023-06-08 12:29:11 +02:00",
-    "name": "08 juni 12:29, Trafikkontroll, Jämtlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1229-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 429872,
-    "datetime": "2023-06-08 12:24:44 +02:00",
-    "name": "08 juni 12:24, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1224-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 429871,
-    "datetime": "2023-06-08 12:13:45 +02:00",
-    "name": "08 juni 11:09, Trafikhinder, Piteå",
-    "summary": "Trafikhinder på E4 söder om Jävre.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1109-trafikhinder-pitea/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
     }
   }
 ]
