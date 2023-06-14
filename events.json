@@ -1,5 +1,101 @@
 [
   {
+    "id": 430633,
+    "datetime": "2023-06-14 22:11:56 +02:00",
+    "name": "14 juni 19:36, Fylleri/LOB, Sundsvall",
+    "summary": "Berusad man omhändertagen i Birsta.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1936-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 430628,
+    "datetime": "2023-06-14 21:24:10 +02:00",
+    "name": "14 juni 21:22, Trafikolycka, personskada, Årjäng",
+    "summary": "En trafikolycka med en fyrhjuling har inträffat några kilometer norr om Årjäng.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2122-trafikolycka-personskada-arjang/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Årjäng",
+      "gps": "59.389159,12.132717"
+    }
+  },
+  {
+    "id": 430629,
+    "datetime": "2023-06-14 21:28:35 +02:00",
+    "name": "14 juni 20:55, Trafikolycka, personskada, Säffle",
+    "summary": "En trafikolycka har inträffat på E45 söder om Säffle.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2055-trafikolycka-personskada-saffle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 430632,
+    "datetime": "2023-06-14 21:56:21 +02:00",
+    "name": "14 juni 21:55, Trafikolycka, Kiruna",
+    "summary": "Trafikolycka på Malmvägen/Österleden i Kiruna.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2155-trafikolycka-kiruna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 430610,
+    "datetime": "2023-06-14 19:12:09 +02:00",
+    "name": "14 juni 16:55, Polisinsats/kommendering, Mark",
+    "summary": "Polisinsats efter rymning från SIS-hem.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1655-polisinsatskommendering-mark/",
+    "type": "Polisinsats/kommendering",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
+    "id": 430588,
+    "datetime": "2023-06-14 21:47:59 +02:00",
+    "name": "14 juni 21:45, Övrigt, Hallands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 430589,
+    "datetime": "2023-06-14 21:47:22 +02:00",
+    "name": "14 juni 21:45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 430631,
+    "datetime": "2023-06-14 21:47:04 +02:00",
+    "name": "14 juni 20:19, Brand, Södertälje",
+    "summary": "Bilbrand på Fornhöjden.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2019-brand-sodertalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 430597,
     "datetime": "2023-06-14 16:03:53 +02:00",
     "name": "14 juni 14:33, Skadegörelse, Stockholm",
@@ -21,30 +117,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 430629,
-    "datetime": "2023-06-14 21:28:35 +02:00",
-    "name": "14 juni 20:55, Trafikolycka, personskada, Säffle",
-    "summary": "En trafikolycka har inträffat på E45 söder om Säffle.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2055-trafikolycka-personskada-saffle/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
-    }
-  },
-  {
-    "id": 430628,
-    "datetime": "2023-06-14 21:24:10 +02:00",
-    "name": "14 juni 21:22, Trafikolycka, personskada, Årjäng",
-    "summary": "En trafikolycka med en fyrhjuling har inträffat några kilometer norr om Årjäng.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2122-trafikolycka-personskada-arjang/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Årjäng",
-      "gps": "59.389159,12.132717"
     }
   },
   {
@@ -249,18 +321,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 430610,
-    "datetime": "2023-06-14 19:12:09 +02:00",
-    "name": "14 juni 16:55, Polisinsats/kommendering, Mark",
-    "summary": "Polisinsats efter rymning från SIS-hem.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1655-polisinsatskommendering-mark/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sorsele",
       "gps": "65.534938,17.542175"
-    }
-  },
-  {
-    "id": 429880,
-    "datetime": "2023-06-08 13:13:08 +02:00",
-    "name": "08 juni 09:36, Rattfylleri, Gällivare",
-    "summary": "Man i Gällivare misstänks för drograttfylleri mm.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-0936-rattfylleri-gallivare/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 429876,
-    "datetime": "2023-06-08 13:05:12 +02:00",
-    "name": "08 juni 09:14, Olovlig körning, Sundsvall",
-    "summary": "Man misstänks för grov olovlig körning i Skönsmon.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-0914-olovlig-korning-sundsvall/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 429874,
-    "datetime": "2023-06-08 12:54:05 +02:00",
-    "name": "08 juni 12:50, Övrigt, Västra Götalands län",
-    "summary": "Är på möte och återkommer vid 15-tiden.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1250-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 429875,
-    "datetime": "2023-06-08 12:53:55 +02:00",
-    "name": "08 juni 12:50, Övrigt, Hallands län",
-    "summary": "Är på möte och återkommer vid 15-tiden.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1250-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 429873,
-    "datetime": "2023-06-08 12:31:23 +02:00",
-    "name": "08 juni 11:33, Trafikolycka, Gävle",
-    "summary": "Person påkörd av bilist.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1133-trafikolycka-gavle/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
