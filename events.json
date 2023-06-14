@@ -1,11 +1,83 @@
 [
   {
+    "id": 430529,
+    "datetime": "2023-06-14 7:14:35 +02:00",
+    "name": "14 juni 06:26, Brand, Stockholm",
+    "summary": "Polis och räddningstjänst kallas till Kronobergsparken på Kungsholmen med anledning av brand.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0626-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 430522,
+    "datetime": "2023-06-14 7:02:13 +02:00",
+    "name": "14 juni 07:00, Sammanfattning natt, Hallands län",
+    "summary": "Det finns inga händelser att rapportera.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0700-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 430526,
+    "datetime": "2023-06-14 7:02:10 +02:00",
+    "name": "14 juni 07:01, Trafikolycka, Malmö",
+    "summary": "Möllevångstorget.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0701-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 430521,
+    "datetime": "2023-06-14 7:02:04 +02:00",
+    "name": "14 juni 07:00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0700-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 430524,
+    "datetime": "2023-06-14 6:57:35 +02:00",
+    "name": "14 juni 05:52, Brand, Sollentuna",
+    "summary": "Polis och räddningstjänst kallas till Sollentuna med anledning av rökutveckling från en radhuslänga.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0552-brand-sollentuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 430523,
+    "datetime": "2023-06-14 6:54:22 +02:00",
+    "name": "14 juni 06:53, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens händelser i Jämtland",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0653-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 430519,
     "datetime": "2023-06-13 23:16:39 +02:00",
-    "name": "13 juni 23:01, Mord/dråp, försök, Malmö",
+    "name": "13 juni 23:01, Mord/dråp, Malmö",
     "summary": "Kroksbäck. En person är stick- eller skärskadad.",
-    "url": "/aktuellt/handelser/2023/juni/13/13-juni-2301-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
+    "url": "/aktuellt/handelser/2023/juni/13/13-juni-2301-morddrap-malmo/",
+    "type": "Mord/dråp",
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Lekeberg",
       "gps": "59.16539,14.743407"
-    }
-  },
-  {
-    "id": 429739,
-    "datetime": "2023-06-07 14:17:49 +02:00",
-    "name": "07 juni 14:17, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1417-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 429746,
-    "datetime": "2023-06-07 13:14:01 +02:00",
-    "name": "07 juni 12:38, Trafikolycka, Lindesberg",
-    "summary": "En singelolycka har inträffat i Siggebohyttan, Lv 773.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1238-trafikolycka-lindesberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
-    }
-  },
-  {
-    "id": 429753,
-    "datetime": "2023-06-07 13:51:58 +02:00",
-    "name": "07 juni 12:55, Stöld, Örebro",
-    "summary": "Ett vittne iakttar hur två gärningspersoner tillgriper en cykel i centrala Örebro.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1255-stold-orebro/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 429738,
-    "datetime": "2023-06-07 11:42:38 +02:00",
-    "name": "07 juni 11:10, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på Porsövägen/Professorsvägen i Luleå.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1110-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 429752,
-    "datetime": "2023-06-07 13:36:00 +02:00",
-    "name": "07 juni 13:35, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-1335-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 429729,
-    "datetime": "2023-06-07 9:19:49 +02:00",
-    "name": "07 juni 09:19, Trafikolycka, Åtvidaberg",
-    "summary": "Buss i diket på riksväg 35 i höjd med Grebo.",
-    "url": "/aktuellt/handelser/2023/juni/7/07-juni-0919-trafikolycka-atvidaberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åtvidaberg",
-      "gps": "58.20079,15.997699"
     }
   }
 ]
