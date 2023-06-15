@@ -1,5 +1,65 @@
 [
   {
+    "id": 430753,
+    "datetime": "2023-06-15 22:03:26 +02:00",
+    "name": "15 juni 18:07, Åldringsbrott, Karlskrona",
+    "summary": "Äldre kvinna utsatt för stöld.",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1807-aldringsbrott-karlskrona/",
+    "type": "Åldringsbrott",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 430752,
+    "datetime": "2023-06-15 22:01:03 +02:00",
+    "name": "15 juni 19:15, Rattfylleri, Sundsvall",
+    "summary": "Man misstänks för drograttfylleri på Västermalm.",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1915-rattfylleri-sundsvall/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 430722,
+    "datetime": "2023-06-15 16:35:31 +02:00",
+    "name": "15 juni 15:53, Mord/dråp, försök, Göteborg",
+    "summary": "Vi får in larm om ett antal smällar i Biskopsgården.",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1553-morddrap-forsok-goteborg/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 430751,
+    "datetime": "2023-06-15 21:47:34 +02:00",
+    "name": "15 juni 21:45, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 430750,
+    "datetime": "2023-06-15 21:47:20 +02:00",
+    "name": "15 juni 21:45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 430749,
     "datetime": "2023-06-15 21:36:37 +02:00",
     "name": "15 juni 18:48, Rattfylleri, Gällivare",
@@ -237,18 +297,6 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 430722,
-    "datetime": "2023-06-15 16:35:31 +02:00",
-    "name": "15 juni 15:53, Mord/dråp, försök, Göteborg",
-    "summary": "Vi får in larm om ett antal smällar i Biskopsgården.",
-    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1553-morddrap-forsok-goteborg/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Skurup",
       "gps": "55.48045,13.502349"
-    }
-  },
-  {
-    "id": 429993,
-    "datetime": "2023-06-09 13:52:41 +02:00",
-    "name": "09 juni 13:22, Trafikbrott, Östersund",
-    "summary": "Norr, bilist stoppad efter att ha kört mot rött ljus",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1322-trafikbrott-ostersund/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 429992,
-    "datetime": "2023-06-09 13:51:07 +02:00",
-    "name": "09 juni 09:33, Trafikkontroll, Strömsund",
-    "summary": "E45, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-0933-trafikkontroll-stromsund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 429987,
-    "datetime": "2023-06-09 13:16:29 +02:00",
-    "name": "09 juni 08:12, Arbetsplatsolycka, Stockholm",
-    "summary": "Personskada i samband med att en skylift tappar korgen.",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-0812-arbetsplatsolycka-stockholm/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 429985,
-    "datetime": "2023-06-09 13:12:16 +02:00",
-    "name": "09 juni 11:33, Djur, Skellefteå",
-    "summary": "Skellefteå, polis kontaktas gällande en man som sitter med kattungar utanför en matbutik",
-    "url": "/aktuellt/handelser/2023/juni/9/09-juni-1133-djur-skelleftea/",
-    "type": "Djur",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
