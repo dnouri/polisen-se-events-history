@@ -12,15 +12,87 @@
     }
   },
   {
+    "id": 430669,
+    "datetime": "2023-06-15 12:17:44 +02:00",
+    "name": "15 juni 10:57, Skadegörelse, Sundsvall",
+    "summary": "Sundsvall, skadegörelse på bil.",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1057-skadegorelse-sundsvall/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 430666,
+    "datetime": "2023-06-15 12:10:30 +02:00",
+    "name": "15 juni 11:34, Försvunnen person, Västerås",
+    "summary": "Polisen söker försvunnen pojke.",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1134-forsvunnen-person-vasteras/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 430655,
+    "datetime": "2023-06-15 12:14:32 +02:00",
+    "name": "15 juni 12:14, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1214-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 430661,
     "datetime": "2023-06-15 11:38:39 +02:00",
-    "name": "15 juni 11:25, Trafikkontroll, Luleå",
+    "name": "15 juni 11:25, Trafikolycka, Luleå",
     "summary": "Luleå, singelolycka på Nya Gäddviksbron.",
-    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1125-trafikkontroll-lulea/",
-    "type": "Trafikkontroll",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1125-trafikolycka-lulea/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 430665,
+    "datetime": "2023-06-15 12:02:35 +02:00",
+    "name": "15 juni 09:00, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-0900-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 430664,
+    "datetime": "2023-06-15 12:00:26 +02:00",
+    "name": "15 juni 12:00, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1200-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 430663,
+    "datetime": "2023-06-15 11:47:17 +02:00",
+    "name": "14 juni 23:52, Brand, Härjedalen",
+    "summary": "Ljusnedal, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/juni/14/14-juni-2352-brand-harjedalen/",
+    "type": "Brand",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 429908,
-    "datetime": "2023-06-08 19:42:50 +02:00",
-    "name": "08 juni 19:22, Trafikolycka, Timrå",
-    "summary": "Larm om trafikolycka på Järnvägsgatan, Vivsta.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1922-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 429915,
-    "datetime": "2023-06-08 20:14:15 +02:00",
-    "name": "08 juni 16:38, Narkotikabrott, Örnsköldsvik",
-    "summary": "Misstänkt ringa narkotikabrott i park i Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1638-narkotikabrott-ornskoldsvik/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 429884,
-    "datetime": "2023-06-08 14:05:59 +02:00",
-    "name": "08 juni 14:06, Kontroll person/fordon, Strängnäs",
-    "summary": "Tre gripna.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1406-kontroll-personfordon-strangnas/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 429914,
-    "datetime": "2023-06-08 20:11:18 +02:00",
-    "name": "08 juni 19:39, Trafikbrott, Vilhelmina",
-    "summary": "Motorcyklist i Vilhelmina bötfälls.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1939-trafikbrott-vilhelmina/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 429913,
-    "datetime": "2023-06-08 20:08:44 +02:00",
-    "name": "08 juni 18:50, Narkotikabrott, Umeå",
-    "summary": "Misstänkt ringa narkotikabrott, Teg.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1850-narkotikabrott-umea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 429912,
-    "datetime": "2023-06-08 19:55:38 +02:00",
-    "name": "08 juni 16:24, Knivlagen, Uppsala",
-    "summary": "Knivman i butik.",
-    "url": "/aktuellt/handelser/2023/juni/8/08-juni-1624-knivlagen-uppsala/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
