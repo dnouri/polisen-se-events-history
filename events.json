@@ -1,5 +1,53 @@
 [
   {
+    "id": 430905,
+    "datetime": "2023-06-17 13:05:11 +02:00",
+    "name": "17 juni 12:07, Brand, Stockholm",
+    "summary": "Polisen biträder räddningstjänsten vid en markbrand i Gröndal.",
+    "url": "/aktuellt/handelser/2023/juni/17/17-juni-1207-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 430900,
+    "datetime": "2023-06-17 13:01:44 +02:00",
+    "name": "17 juni 09:49, Rattfylleri, Skellefteå",
+    "summary": "Misstänkt rattfylleri, Anderstorp.",
+    "url": "/aktuellt/handelser/2023/juni/17/17-juni-0949-rattfylleri-skelleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 430901,
+    "datetime": "2023-06-17 12:57:15 +02:00",
+    "name": "17 juni 12:57, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/juni/17/17-juni-1257-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 430904,
+    "datetime": "2023-06-17 12:53:47 +02:00",
+    "name": "17 juni 11:39, Trafikolycka, Uppsala län",
+    "summary": "Trafikolycka på länsväg 717 utanför Tierp.",
+    "url": "/aktuellt/handelser/2023/juni/17/17-juni-1139-trafikolycka-uppsala-lan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
     "id": 430903,
     "datetime": "2023-06-17 12:42:26 +02:00",
     "name": "17 juni 08:18, Trafikkontroll, Strömsund",
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 430196,
-    "datetime": "2023-06-11 7:55:17 +02:00",
-    "name": "11 juni 07:54, Sammanfattning natt, Södermanlands län",
-    "summary": "Lugn natt polisiärt i länet.",
-    "url": "/aktuellt/handelser/2023/juni/11/11-juni-0754-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 430193,
-    "datetime": "2023-06-11 7:55:12 +02:00",
-    "name": "11 juni 07:54, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/11/11-juni-0754-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 430192,
-    "datetime": "2023-06-11 7:16:31 +02:00",
-    "name": "11 juni 07:14, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av natten i länet",
-    "url": "/aktuellt/handelser/2023/juni/11/11-juni-0714-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 430191,
-    "datetime": "2023-06-11 6:59:09 +02:00",
-    "name": "11 juni 02:06, Stöld, Kävlinge",
-    "summary": "Två gripna, Kävlinge.",
-    "url": "/aktuellt/handelser/2023/juni/11/11-juni-0206-stold-kavlinge/",
-    "type": "Stöld",
-    "location": {
-      "name": "Kävlinge",
-      "gps": "55.794,13.110429"
     }
   }
 ]
