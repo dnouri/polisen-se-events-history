@@ -1,5 +1,113 @@
 [
   {
+    "id": 430985,
+    "datetime": "2023-06-18 13:08:27 +02:00",
+    "name": "18 juni 11:31, Stöld, Sundsvall",
+    "summary": "Misstänkt ringa stöld i butik, Birsta.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1131-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 430923,
+    "datetime": "2023-06-17 15:49:55 +02:00",
+    "name": "17 juni 15:41, Djur, Stockholm",
+    "summary": "Flera inringare uppger att det springer lösa hästar vid Djurgårdsvägen på Djurgården. Polis och ambulans är på",
+    "url": "/aktuellt/handelser/2023/juni/17/17-juni-1541-djur-stockholm/",
+    "type": "Djur",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 430974,
+    "datetime": "2023-06-18 13:05:33 +02:00",
+    "name": "18 juni 11:27, Trafikolycka, Sorsele",
+    "summary": "Larm om trafikolycka sydväst om Gargnäs.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1127-trafikolycka-sorsele/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sorsele",
+      "gps": "65.534938,17.542175"
+    }
+  },
+  {
+    "id": 430984,
+    "datetime": "2023-06-18 12:52:47 +02:00",
+    "name": "18 juni 08:57, Trafikkontroll, Gällivare",
+    "summary": "Resultat efter trafikkontroll på Lasarettsgatan i Gällivare.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-0857-trafikkontroll-gallivare/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 430983,
+    "datetime": "2023-06-18 12:51:46 +02:00",
+    "name": "18 juni 07:37, Trafikkontroll, Krokom",
+    "summary": "Resultat efter nykterhetskontroll på E14, Ås.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-0737-trafikkontroll-krokom/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 430982,
+    "datetime": "2023-06-18 12:50:42 +02:00",
+    "name": "18 juni 12:50, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter två trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1250-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 430981,
+    "datetime": "2023-06-18 12:49:44 +02:00",
+    "name": "18 juni 12:49, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1249-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 430980,
+    "datetime": "2023-06-18 12:47:51 +02:00",
+    "name": "18 juni 11:05, Misshandel, Göteborg",
+    "summary": "En man i 35-årsåldern kontaktar polisen och uppger att hans granne, en man i 50-årsåldern, har slagit honom i ",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1105-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 430979,
+    "datetime": "2023-06-18 12:47:08 +02:00",
+    "name": "18 juni 10:51, Trafikolycka, Nacka",
+    "summary": "Ingen person skadades vid olycka på Ältavägen, Hästhagen.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1051-trafikolycka-nacka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
     "id": 430978,
     "datetime": "2023-06-18 12:03:21 +02:00",
     "name": "18 juni 05:24, Efterlyst person, Nykvarn",
@@ -129,18 +237,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 430923,
-    "datetime": "2023-06-17 15:49:55 +02:00",
-    "name": "17 juni 15:41, Djur, Stockholm",
-    "summary": "Flera inringare uppger att det springer lösa hästar vid Djurgårdsvägen på Djurgården. Polis och ambulans är på",
-    "url": "/aktuellt/handelser/2023/juni/17/17-juni-1541-djur-stockholm/",
-    "type": "Djur",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 430311,
-    "datetime": "2023-06-12 7:50:56 +02:00",
-    "name": "12 juni 07:49, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0749-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 430320,
-    "datetime": "2023-06-12 7:49:46 +02:00",
-    "name": "12 juni 07:49, Sammanfattning natt, Jönköpings län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0749-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 430318,
-    "datetime": "2023-06-12 7:48:38 +02:00",
-    "name": "12 juni 07:48, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0748-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 430319,
-    "datetime": "2023-06-12 7:48:38 +02:00",
-    "name": "12 juni 04:02, Stöld, Helsingborg",
-    "summary": "Inbrott samt brand i flera parkerade bilar, Sjögatan.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0402-stold-helsingborg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 430316,
-    "datetime": "2023-06-12 7:36:41 +02:00",
-    "name": "12 juni 00:02, Stöld/inbrott, Västerås",
-    "summary": "Inbrott i butik.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0002-stoldinbrott-vasteras/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 430315,
-    "datetime": "2023-06-12 7:35:17 +02:00",
-    "name": "12 juni 07:35, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0735-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 430314,
-    "datetime": "2023-06-12 7:29:14 +02:00",
-    "name": "12 juni 01:16, Skadegörelse, Gävle",
-    "summary": "Skadegörelse på busskur.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0116-skadegorelse-gavle/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 430312,
-    "datetime": "2023-06-12 7:27:56 +02:00",
-    "name": "12 juni 07:17, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av natten i länet",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0717-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
