@@ -1,5 +1,65 @@
 [
   {
+    "id": 431001,
+    "datetime": "2023-06-18 15:02:17 +02:00",
+    "name": "18 juni 10:30, Häleri, Stockholm",
+    "summary": "Samtal om att en på Sågargatan släpade på två cyklar.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1030-haleri-stockholm/",
+    "type": "Häleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 431000,
+    "datetime": "2023-06-18 14:57:12 +02:00",
+    "name": "18 juni 08:43, Trafikkontroll, Upplands väsby",
+    "summary": "Polisen hade nykterhetskontroll på Vallentunavägen i höjd med korsningen på Hästhagsvägen i Odenslunda.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-0843-trafikkontroll-upplands-vasby/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
+    "id": 430999,
+    "datetime": "2023-06-18 14:54:16 +02:00",
+    "name": "18 juni 13:55, Skadegörelse, Kungsbacka",
+    "summary": "Polisen larmas om en pågående skadegörelse i Onsala.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1355-skadegorelse-kungsbacka/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 430998,
+    "datetime": "2023-06-18 14:49:34 +02:00",
+    "name": "18 juni 13:58, Misshandel, Borås",
+    "summary": "En pojke i 15-årsåldern larmar polis och uppger att han blivit slagen och sparkad av en jämnårig pojke på ett ",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1358-misshandel-boras/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 430997,
+    "datetime": "2023-06-18 14:45:39 +02:00",
+    "name": "18 juni 13:31, Brand, Västerås",
+    "summary": "Polis larmas till brand i Västerås.",
+    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1331-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 430994,
     "datetime": "2023-06-18 14:30:40 +02:00",
     "name": "18 juni 09:15, Narkotikabrott, Österåker",
@@ -339,7 +399,7 @@
     "id": 430960,
     "datetime": "2023-06-18 9:58:04 +02:00",
     "name": "17 juni 17:19, Försvunnen person, Borås",
-    "summary": "En 84-årig kvinna anmäldes under lördagskvällen försvunnen från sitt hem i Kristineberg.",
+    "summary": "En 84-årig kvinna anmäldes under lördagskvällen försvunnen.",
     "url": "/aktuellt/handelser/2023/juni/17/17-juni-1719-forsvunnen-person-boras/",
     "type": "Försvunnen person",
     "location": {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Upplands väsby",
       "gps": "59.51961,17.92834"
-    }
-  },
-  {
-    "id": 430335,
-    "datetime": "2023-06-12 11:46:40 +02:00",
-    "name": "12 juni 08:10, Rån övrigt, Luleå",
-    "summary": "Man misstänks för rån i motvärnsfallet.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0810-ran-ovrigt-lulea/",
-    "type": "Rån övrigt",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 430332,
-    "datetime": "2023-06-12 11:12:23 +02:00",
-    "name": "12 juni 10:38, Trafikolycka, Östersund",
-    "summary": "Trafikolycka på Solidenvägen/Konditorivägen i Östersund.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1038-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 430331,
-    "datetime": "2023-06-12 11:20:43 +02:00",
-    "name": "12 juni 09:10, Trafikolycka, personskada, Österåker",
-    "summary": "Barn påkörda av buss.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0910-trafikolycka-personskada-osteraker/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Österåker",
-      "gps": "59.500058,18.352485"
-    }
-  },
-  {
-    "id": 430333,
-    "datetime": "2023-06-12 11:16:00 +02:00",
-    "name": "12 juni 08:10, Rattfylleri, Sollefteå",
-    "summary": "Misstänkt drograttfylleri i Sollefteå.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-0810-rattfylleri-solleftea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 430329,
-    "datetime": "2023-06-12 10:44:14 +02:00",
-    "name": "12 juni 10:43, Rattfylleri, Mjölby",
-    "summary": "Man misstänkt för drograttfylleri och grov olovlig körning utanför Mantorp.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1043-rattfylleri-mjolby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Mjölby",
-      "gps": "58.322691,15.133535"
     }
   }
 ]
