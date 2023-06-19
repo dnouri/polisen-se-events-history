@@ -1,5 +1,65 @@
 [
   {
+    "id": 431108,
+    "datetime": "2023-06-19 11:14:17 +02:00",
+    "name": "19 juni 10:38, Trafikolycka, Piteå",
+    "summary": "Backens industriområde, en cyklist och bilist inblande i olycka",
+    "url": "/aktuellt/handelser/2023/juni/19/19-juni-1038-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 431107,
+    "datetime": "2023-06-19 11:09:59 +02:00",
+    "name": "19 juni 08:47, Trafikkontroll, Örnsköldsvik",
+    "summary": "Modovägen, resultat efter trafikkontroll under morgonen",
+    "url": "/aktuellt/handelser/2023/juni/19/19-juni-0847-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 431104,
+    "datetime": "2023-06-19 11:05:33 +02:00",
+    "name": "19 juni 08:40, Trafikkontroll, Härnösand",
+    "summary": "Granudden, resultat efter nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2023/juni/19/19-juni-0840-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 431100,
+    "datetime": "2023-06-19 10:49:51 +02:00",
+    "name": "19 juni 09:58, Trafikbrott, Kiruna",
+    "summary": "Jukkasjärvi, bilist kontrollerad av polis",
+    "url": "/aktuellt/handelser/2023/juni/19/19-juni-0958-trafikbrott-kiruna/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 431099,
+    "datetime": "2023-06-19 10:47:57 +02:00",
+    "name": "19 juni 08:47, Trafikbrott, Kalix",
+    "summary": "E4 Töre, bilist stoppad efter att föraren inte stannat korrekt vid stopplikt",
+    "url": "/aktuellt/handelser/2023/juni/19/19-juni-0847-trafikbrott-kalix/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
     "id": 431097,
     "datetime": "2023-06-19 10:42:49 +02:00",
     "name": "19 juni 07:19, Fjällräddning, Kiruna",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 430378,
-    "datetime": "2023-06-12 18:26:20 +02:00",
-    "name": "12 juni 17:05, Mord/dråp, försök, Malmö",
-    "summary": "Bråk i mataffär",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1705-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 430393,
-    "datetime": "2023-06-12 21:17:10 +02:00",
-    "name": "12 juni 19:27, Trafikolycka, Stockholm",
-    "summary": "Olycka mellan moped- och personbilsförare i närheten av Slussplan.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1927-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 430396,
-    "datetime": "2023-06-12 22:06:10 +02:00",
-    "name": "12 juni 18:59, Misshandel, Norrtälje",
-    "summary": "Ordningsvakt avbröt ett bråk mellan två kvinnor på Bangårdsvägen.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1859-misshandel-norrtalje/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 430395,
-    "datetime": "2023-06-12 21:51:16 +02:00",
-    "name": "12 juni 19:31, Olaga hot, Örebro",
-    "summary": "En man i femtioårsåldern har gripits misstänkt för olaga hot mot en kvinna i nära relation.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-1931-olaga-hot-orebro/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 430389,
-    "datetime": "2023-06-12 21:46:55 +02:00",
-    "name": "12 juni 21:45, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juni/12/12-juni-2145-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
