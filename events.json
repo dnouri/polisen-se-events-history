@@ -1,5 +1,41 @@
 [
   {
+    "id": 431207,
+    "datetime": "2023-06-20 9:03:21 +02:00",
+    "name": "20 juni 08:31, Brand, Umeå",
+    "summary": "Alvik, larm om brand på en parkering vid köpcenter",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0831-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 431214,
+    "datetime": "2023-06-20 9:33:39 +02:00",
+    "name": "20 juni 08:04, Trafikkontroll, Härnösand",
+    "summary": "Bondsjöstaden, resultat efter nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0804-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 431203,
+    "datetime": "2023-06-20 8:39:00 +02:00",
+    "name": "20 juni 07:43, Misshandel, Stockholm",
+    "summary": "Polis kallas till Gärdet med anledning av att en man stickskadats i en lägenhet.",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0743-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 431212,
     "datetime": "2023-06-20 9:14:22 +02:00",
     "name": "20 juni 08:51, Trafikolycka, Örebro",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 431213,
+    "datetime": "2023-06-20 9:29:48 +02:00",
+    "name": "20 juni 07:47, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, bilist stoppad i samband med trafikkontroll under morgonen",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0747-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -48,18 +96,6 @@
     }
   },
   {
-    "id": 431207,
-    "datetime": "2023-06-20 9:03:21 +02:00",
-    "name": "20 juni 08:31, Brand, Umeå",
-    "summary": "Alvik, larm om brand på en parkering vid köpcenter",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0831-brand-umea/",
-    "type": "Brand",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
     "id": 431205,
     "datetime": "2023-06-20 8:58:50 +02:00",
     "name": "20 juni 09:00, Misshandel, Kristinehamn",
@@ -81,18 +117,6 @@
     "location": {
       "name": "Norberg",
       "gps": "60.065042,15.923796"
-    }
-  },
-  {
-    "id": 431203,
-    "datetime": "2023-06-20 8:39:00 +02:00",
-    "name": "20 juni 07:43, Misshandel, Stockholm",
-    "summary": "Polis kallas till Gärdet med anledning av att en man stickskadats i en lägenhet.",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0743-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 430516,
-    "datetime": "2023-06-13 22:13:52 +02:00",
-    "name": "13 juni 21:31, Narkotikabrott, Stockholm",
-    "summary": "Polisen misstänkte att den person som de kontrollerade på Långholmen var påverkad av droger.",
-    "url": "/aktuellt/handelser/2023/juni/13/13-juni-2131-narkotikabrott-stockholm/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 430515,
-    "datetime": "2023-06-13 21:54:58 +02:00",
-    "name": "13 juni 17:19, Vapenlagen, Haninge",
-    "summary": "Den pistol som tre pojkar i nedre tonåren lekt med på Blåkullavägen var en soft airgun.",
-    "url": "/aktuellt/handelser/2023/juni/13/13-juni-1719-vapenlagen-haninge/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   }
 ]
