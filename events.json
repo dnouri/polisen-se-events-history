@@ -1,5 +1,17 @@
 [
   {
+    "id": 431249,
+    "datetime": "2023-06-20 14:28:25 +02:00",
+    "name": "20 juni 14:15, Trafikolycka, Kalmar",
+    "summary": "Trafikolycka på E22 vid Svaneberg.",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1415-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
     "id": 431200,
     "datetime": "2023-06-20 8:24:57 +02:00",
     "name": "20 juni 07:20, Arbetsplatsolycka, Ängelholm",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Ängelholm",
       "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 431248,
+    "datetime": "2023-06-20 14:19:23 +02:00",
+    "name": "20 juni 13:32, Trafikolycka, Norrtälje",
+    "summary": "Polis och ambulans kallades till Fridstorpsvägen/Roslagsgatan i Norrtälje med anledning av en trafikolycka.",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1332-trafikolycka-norrtalje/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 431247,
+    "datetime": "2023-06-20 14:08:08 +02:00",
+    "name": "20 juni 13:43, Trafikkontroll, Boden",
+    "summary": "Sävast, resultat efter trafikkontroll vid riksväg 97",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1343-trafikkontroll-boden/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 431246,
+    "datetime": "2023-06-20 14:06:35 +02:00",
+    "name": "20 juni 12:01, Rattfylleri, Arjeplog",
+    "summary": "Arjeplog, bilist stoppas för kontroll",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1201-rattfylleri-arjeplog/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arjeplog",
+      "gps": "66.051505,17.890054"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Köping",
       "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 430528,
-    "datetime": "2023-06-14 7:39:36 +02:00",
-    "name": "14 juni 07:39, Sammanfattning natt, Jönköpings län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0739-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 430531,
-    "datetime": "2023-06-14 7:39:31 +02:00",
-    "name": "14 juni 07:39, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0739-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 430525,
-    "datetime": "2023-06-14 7:39:25 +02:00",
-    "name": "14 juni 07:39, Sammanfattning natt, Södermanlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0739-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 430530,
-    "datetime": "2023-06-14 7:27:00 +02:00",
-    "name": "13 juni 21:16, Trafikolycka, Uppsala",
-    "summary": "Trafikolycka på Tycho Hedéns väg.",
-    "url": "/aktuellt/handelser/2023/juni/13/13-juni-2116-trafikolycka-uppsala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
