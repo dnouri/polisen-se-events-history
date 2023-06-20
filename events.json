@@ -1,5 +1,53 @@
 [
   {
+    "id": 431267,
+    "datetime": "2023-06-20 16:08:40 +02:00",
+    "name": "20 juni 16:04, Larm Överfall, Jönköping",
+    "summary": "Överfallslarm aktiverat av annan statlig aktör.",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1604-larm-overfall-jonkoping/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 431200,
+    "datetime": "2023-06-20 8:24:57 +02:00",
+    "name": "20 juni 07:20, Arbetsplatsolycka, Ängelholm",
+    "summary": "Misstänkt arbetsplatsolycka på Nordalagatan.",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0720-arbetsplatsolycka-angelholm/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 431260,
+    "datetime": "2023-06-20 15:26:40 +02:00",
+    "name": "20 juni 14:22, Trafikolycka, personskada, Norrtälje",
+    "summary": "En person fördes till sjukhus med ambulanshelikopter och två andra med ambulanser efter olyckan södergående på",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1422-trafikolycka-personskada-norrtalje/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 431266,
+    "datetime": "2023-06-20 15:53:05 +02:00",
+    "name": "20 juni 15:44, Brand, Gislaved",
+    "summary": "Brand i bostad, Anderstorp",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1544-brand-gislaved/",
+    "type": "Brand",
+    "location": {
+      "name": "Gislaved",
+      "gps": "57.2985,13.54326"
+    }
+  },
+  {
     "id": 431264,
     "datetime": "2023-06-20 15:38:59 +02:00",
     "name": "20 juni 14:01, Trafikbrott, Stockholm",
@@ -24,18 +72,6 @@
     }
   },
   {
-    "id": 431260,
-    "datetime": "2023-06-20 15:26:40 +02:00",
-    "name": "20 juni 14:22, Trafikolycka, personskada, Norrtälje",
-    "summary": "En person fördes till sjukhus med ambulanshelikopter och två andra med ambulanser efter olyckan södergående på",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1422-trafikolycka-personskada-norrtalje/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
     "id": 431253,
     "datetime": "2023-06-20 14:56:55 +02:00",
     "name": "20 juni 14:08, Trafikbrott, Östersund",
@@ -57,18 +93,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 431200,
-    "datetime": "2023-06-20 8:24:57 +02:00",
-    "name": "20 juni 07:20, Arbetsplatsolycka, Ängelholm",
-    "summary": "Misstänkt arbetsplatsolycka på Nordalagatan.",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0720-arbetsplatsolycka-angelholm/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 430537,
-    "datetime": "2023-06-14 7:52:49 +02:00",
-    "name": "14 juni 07:52, Sammanfattning natt, Västernorrlands län",
-    "summary": "Här följer ett urval av nattens händelser I Västernorrland.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0752-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 430536,
-    "datetime": "2023-06-14 7:47:10 +02:00",
-    "name": "14 juni 07:45, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer ett urval av nattens händelser i Örebro län.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-0745-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
