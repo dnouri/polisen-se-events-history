@@ -1,5 +1,17 @@
 [
   {
+    "id": 431333,
+    "datetime": "2023-06-21 9:54:56 +02:00",
+    "name": "21 juni 08:39, Misshandel, Halmstad",
+    "summary": "Polisen får flera samtal om att en man misshandlat en lokförare och en tågvärd i Oskarsström.",
+    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0839-misshandel-halmstad/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
     "id": 431334,
     "datetime": "2023-06-21 9:41:07 +02:00",
     "name": "21 juni 08:50, Trafikolycka, Stockholm",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 431337,
+    "datetime": "2023-06-21 9:53:25 +02:00",
+    "name": "21 juni 08:38, Trafikolycka, vilt, Härjedalen",
+    "summary": "Polisen får in en anmälan om en viltolycka på riksväg 84, Hede.",
+    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0838-trafikolycka-vilt-harjedalen/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 431335,
+    "datetime": "2023-06-21 9:50:16 +02:00",
+    "name": "21 juni 09:03, Arbetsplatsolycka, Tjörn",
+    "summary": "SOS larmas om en arbetsplatsolycka, enligt uppgift ombord på en båt som ligger vid hamn.",
+    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0903-arbetsplatsolycka-tjorn/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Tjörn",
+      "gps": "58.04102,11.683671"
+    }
+  },
+  {
+    "id": 431195,
+    "datetime": "2023-06-20 7:45:28 +02:00",
+    "name": "20 juni 00:28, Rån, Uppsala",
+    "summary": "Grovt rån samt försök till dråp.",
+    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0028-ran-uppsala/",
+    "type": "Rån",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -981,18 +1029,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 431195,
-    "datetime": "2023-06-20 7:45:28 +02:00",
-    "name": "20 juni 00:28, Rån, Uppsala",
-    "summary": "Grovt rån samt försök till dråp.",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0028-ran-uppsala/",
-    "type": "Rån",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 430608,
-    "datetime": "2023-06-14 18:43:33 +02:00",
-    "name": "14 juni 18:43, Försvunnen person, Åre",
-    "summary": "ÅTERFUNNEN: Polisen söker försvunnen fyraårig pojke i Undersåker, Åre.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1843-forsvunnen-person-are/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 430607,
-    "datetime": "2023-06-14 18:36:20 +02:00",
-    "name": "14 juni 17:46, Trafikolycka, Malmö",
-    "summary": "Elsparkcykel och fotgängare i kollision, Rosengård.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1746-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 430602,
-    "datetime": "2023-06-14 17:46:44 +02:00",
-    "name": "14 juni 17:42, Trafikolycka, Höör",
-    "summary": "Två personbilar i kolli ison, E22.",
-    "url": "/aktuellt/handelser/2023/juni/14/14-juni-1742-trafikolycka-hoor/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Höör",
-      "gps": "55.934859,13.53959"
     }
   }
 ]
