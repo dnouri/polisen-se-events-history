@@ -1,5 +1,101 @@
 [
   {
+    "id": 431571,
+    "datetime": "2023-06-22 16:30:00 +02:00",
+    "name": "22 juni 16:11, Brand, Vallentuna",
+    "summary": "Fullt utvecklad brand i en byggnad",
+    "url": "/aktuellt/handelser/2023/juni/22/22-juni-1611-brand-vallentuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 431607,
+    "datetime": "2023-06-23 7:59:19 +02:00",
+    "name": "23 juni 00:41, Misshandel, Stockholm",
+    "summary": "En inringare hörde av sig angående ett bråk som uppstod inne på en restaurang på Södermalm.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0041-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 431593,
+    "datetime": "2023-06-23 7:58:59 +02:00",
+    "name": "23 juni 07:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0700-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 431592,
+    "datetime": "2023-06-23 7:58:53 +02:00",
+    "name": "23 juni 07:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 431606,
+    "datetime": "2023-06-23 7:58:02 +02:00",
+    "name": "23 juni 07:56, Trafikolycka, Norrköping",
+    "summary": "Mopedist och bilist i olycka.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0756-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 431605,
+    "datetime": "2023-06-23 7:50:56 +02:00",
+    "name": "23 juni 01:54, Skadegörelse, Stockholm",
+    "summary": "En inringare i Hägerstensåsen hörde hur en ruta krossades. En polispatrull kunde senare frihetsberöva en misst",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0154-skadegorelse-stockholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 431604,
+    "datetime": "2023-06-23 7:47:38 +02:00",
+    "name": "23 juni 02:28, Brand, Södertälje",
+    "summary": "Flera personer hörde smällar i samband med en bilbrand i ett garage i Södertälje.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0228-brand-sodertalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 431603,
+    "datetime": "2023-06-23 7:44:18 +02:00",
+    "name": "23 juni 02:44, Brand, Botkyrka",
+    "summary": "En bil påträffades brinnande i Norsborg. Även en bil parkerad intill fick brandskador.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0244-brand-botkyrka/",
+    "type": "Brand",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
     "id": 431602,
     "datetime": "2023-06-23 7:40:33 +02:00",
     "name": "23 juni 03:23, Rån, Stockholm",
@@ -261,18 +357,6 @@
     "location": {
       "name": "Värmdö",
       "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 431571,
-    "datetime": "2023-06-22 16:30:00 +02:00",
-    "name": "22 juni 16:11, Brand, Vallentuna",
-    "summary": "Fullt utvecklad brand i en byggnad",
-    "url": "/aktuellt/handelser/2023/juni/22/22-juni-1611-brand-vallentuna/",
-    "type": "Brand",
-    "location": {
-      "name": "Vallentuna",
-      "gps": "59.5357,18.078017"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Katrineholm",
       "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 430770,
-    "datetime": "2023-06-16 8:14:34 +02:00",
-    "name": "16 juni 07:34, Trafikolycka, vilt, Åsele",
-    "summary": "Polisen får in en anmälan om en olycka med en personbil och en ren.",
-    "url": "/aktuellt/handelser/2023/juni/16/16-juni-0734-trafikolycka-vilt-asele/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Åsele",
-      "gps": "64.160234,17.353615"
-    }
-  },
-  {
-    "id": 430766,
-    "datetime": "2023-06-16 8:13:32 +02:00",
-    "name": "16 juni 08:12, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområde Södermanland.",
-    "url": "/aktuellt/handelser/2023/juni/16/16-juni-0812-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 430767,
-    "datetime": "2023-06-16 8:13:04 +02:00",
-    "name": "16 juni 08:12, Sammanfattning natt, Östergötlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområde Östergötland.",
-    "url": "/aktuellt/handelser/2023/juni/16/16-juni-0812-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 430769,
-    "datetime": "2023-06-16 8:12:40 +02:00",
-    "name": "16 juni 08:12, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområde Jönköping.",
-    "url": "/aktuellt/handelser/2023/juni/16/16-juni-0812-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 430765,
-    "datetime": "2023-06-16 7:18:03 +02:00",
-    "name": "16 juni 07:02, Trafikolycka, vilt, Skellefteå",
-    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 370, norr om Boliden.",
-    "url": "/aktuellt/handelser/2023/juni/16/16-juni-0702-trafikolycka-vilt-skelleftea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 430760,
-    "datetime": "2023-06-16 7:08:45 +02:00",
-    "name": "16 juni 07:08, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/juni/16/16-juni-0708-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 430764,
-    "datetime": "2023-06-16 7:07:28 +02:00",
-    "name": "16 juni 07:07, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/juni/16/16-juni-0707-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
