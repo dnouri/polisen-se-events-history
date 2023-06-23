@@ -1,5 +1,65 @@
 [
   {
+    "id": 431599,
+    "datetime": "2023-06-23 7:16:26 +02:00",
+    "name": "23 juni 01:37, Brand, Sjöbo",
+    "summary": "Brand i byggställning",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0137-brand-sjobo/",
+    "type": "Brand",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 431597,
+    "datetime": "2023-06-23 7:01:02 +02:00",
+    "name": "23 juni 07:00, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0700-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 431596,
+    "datetime": "2023-06-23 6:59:57 +02:00",
+    "name": "23 juni 06:59, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0659-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 431595,
+    "datetime": "2023-06-23 6:57:28 +02:00",
+    "name": "23 juni 06:57, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0657-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 431594,
+    "datetime": "2023-06-23 6:55:27 +02:00",
+    "name": "23 juni 06:55, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0655-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 431591,
     "datetime": "2023-06-23 1:39:10 +02:00",
     "name": "23 juni 01:29, Övrigt, Uppsala",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 430757,
-    "datetime": "2023-06-16 2:03:49 +02:00",
-    "name": "16 juni 02:01, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens händelser",
-    "url": "/aktuellt/handelser/2023/juni/16/16-juni-0201-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 430754,
-    "datetime": "2023-06-15 22:27:27 +02:00",
-    "name": "15 juni 21:51, Bråk, Värmdö",
-    "summary": "Två polispatruller är på plats i en lägenhet i Munkmora där det bedöms som om en man och en kvinna har bråkat ",
-    "url": "/aktuellt/handelser/2023/juni/15/15-juni-2151-brak-varmdo/",
-    "type": "Bråk",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 430753,
-    "datetime": "2023-06-15 22:03:26 +02:00",
-    "name": "15 juni 18:07, Åldringsbrott, Karlskrona",
-    "summary": "Äldre kvinna utsatt för stöld.",
-    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1807-aldringsbrott-karlskrona/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 430752,
-    "datetime": "2023-06-15 22:01:03 +02:00",
-    "name": "15 juni 19:15, Rattfylleri, Sundsvall",
-    "summary": "Man misstänks för drograttfylleri på Västermalm.",
-    "url": "/aktuellt/handelser/2023/juni/15/15-juni-1915-rattfylleri-sundsvall/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 430751,
-    "datetime": "2023-06-15 21:47:34 +02:00",
-    "name": "15 juni 21:45, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2023/juni/15/15-juni-2145-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
