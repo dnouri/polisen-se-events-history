@@ -1,5 +1,125 @@
 [
   {
+    "id": 431844,
+    "datetime": "2023-06-27 2:22:19 +02:00",
+    "name": "27 juni 00:38, Mord/dråp, försök, Botkyrka",
+    "summary": "Larm kom in från flera personer om skottlossning i Tumba.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0038-morddrap-forsok-botkyrka/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 431875,
+    "datetime": "2023-06-27 8:12:25 +02:00",
+    "name": "27 juni 08:11, Sammanfattning natt, Jämtlands län",
+    "summary": "Jämtland, inga händelser att rapportera om",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0811-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 431852,
+    "datetime": "2023-06-27 8:11:58 +02:00",
+    "name": "27 juni 08:00, Sammanfattning natt, Norrbottens län",
+    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0800-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 431866,
+    "datetime": "2023-06-27 7:49:52 +02:00",
+    "name": "27 juni 07:37, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer en sammanfattning av natten i länet",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0737-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 431865,
+    "datetime": "2023-06-27 7:47:25 +02:00",
+    "name": "27 juni 00:59, Brand, Stockholm",
+    "summary": "En bil brann i Kista. En anmälan upprättas på skadegörelse genom brand.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0059-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 431864,
+    "datetime": "2023-06-27 7:47:12 +02:00",
+    "name": "27 juni 03:32, Inbrott, Olofström",
+    "summary": "Inbrott på Ripvägen, Skogsby.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0332-inbrott-olofstrom/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Olofström",
+      "gps": "56.277708,14.530938"
+    }
+  },
+  {
+    "id": 431853,
+    "datetime": "2023-06-27 7:45:08 +02:00",
+    "name": "27 juni 07:44, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0744-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 431854,
+    "datetime": "2023-06-27 7:45:03 +02:00",
+    "name": "27 juni 07:44, Sammanfattning natt, Södermanlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0744-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 431859,
+    "datetime": "2023-06-27 7:44:57 +02:00",
+    "name": "27 juni 07:44, Sammanfattning natt, Jönköpings län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0744-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 431863,
+    "datetime": "2023-06-27 7:44:21 +02:00",
+    "name": "27 juni 03:55, Inbrott, försök, Stockholm",
+    "summary": "En inringare på Norrmalm hörde ett glaskross och såg en man springa ned i en tunnelbanestation.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0355-inbrott-forsok-stockholm/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 431861,
     "datetime": "2023-06-27 7:40:39 +02:00",
     "name": "27 juni 04:33, Misshandel, Stockholm",
@@ -141,18 +261,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 431844,
-    "datetime": "2023-06-27 2:22:19 +02:00",
-    "name": "27 juni 00:38, Mord/dråp, försök, Botkyrka",
-    "summary": "Larm kom in från flera personer om skottlossning i Tumba.",
-    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0038-morddrap-forsok-botkyrka/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 431015,
-    "datetime": "2023-06-18 20:23:11 +02:00",
-    "name": "18 juni 20:21, Försvunnen person, Älvkarleby",
-    "summary": "Försvunnen person.",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-2021-forsvunnen-person-alvkarleby/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Älvkarleby",
-      "gps": "60.568607,17.448913"
-    }
-  },
-  {
-    "id": 431011,
-    "datetime": "2023-06-18 18:34:22 +02:00",
-    "name": "18 juni 18:15, Försvunnen person, Söderhamn",
-    "summary": "Polisen söker försvunnen kvinna i Söderhamn.",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1815-forsvunnen-person-soderhamn/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 431013,
-    "datetime": "2023-06-18 19:22:03 +02:00",
-    "name": "18 juni 18:20, Brand, Haparanda",
-    "summary": "Larm om brand i en container i centrala Haparanda.",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1820-brand-haparanda/",
-    "type": "Brand",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 431010,
-    "datetime": "2023-06-18 18:10:16 +02:00",
-    "name": "18 juni 13:59, Försvunnen person, Kramfors",
-    "summary": "Polisen kontaktas angående en äldre man som saknas efter en promenad i Docksta.",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1359-forsvunnen-person-kramfors/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 431009,
-    "datetime": "2023-06-18 17:53:56 +02:00",
-    "name": "18 juni 17:28, Trafikolycka, singel, Svalöv",
-    "summary": "Lv1223, i höjd med Halmstad by. En motorcyklist har kört omkull.",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1728-trafikolycka-singel-svalov/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Svalöv",
-      "gps": "55.91293,13.101817"
-    }
-  },
-  {
-    "id": 431008,
-    "datetime": "2023-06-18 17:29:05 +02:00",
-    "name": "18 juni 15:09, Trafikolycka, personskada, Uppsala",
-    "summary": "En personbil och en pojke i 10 års åldern på sparkcykel kolliderade vid Heidenstams Torg kl 15.09",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1509-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 431007,
-    "datetime": "2023-06-18 16:39:17 +02:00",
-    "name": "18 juni 15:52, Rattfylleri, Vallentuna",
-    "summary": "Personbilsförare misstänks för att ha kört bilen under påverkan av droger.",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1552-rattfylleri-vallentuna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Vallentuna",
-      "gps": "59.5357,18.078017"
-    }
-  },
-  {
-    "id": 430986,
-    "datetime": "2023-06-18 13:17:29 +02:00",
-    "name": "18 juni 10:39, Stöld, Sigtuna",
-    "summary": "En man är gripen misstänkt för stöld ur en butik på Arlanda flygplats.",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1039-stold-sigtuna/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 431006,
-    "datetime": "2023-06-18 16:12:24 +02:00",
-    "name": "18 juni 16:12, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juni/18/18-juni-1612-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
