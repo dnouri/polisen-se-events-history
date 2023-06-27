@@ -1,14 +1,38 @@
 [
   {
-    "id": 431919,
-    "datetime": "2023-06-27 13:18:45 +02:00",
-    "name": "27 juni 13:17, Bedrägeri, Motala",
-    "summary": "Kvinna utsatt för bedrägeriförsök.",
-    "url": "/aktuellt/handelser/2023/juni/27/27-juni-1317-bedrageri-motala/",
-    "type": "Bedrägeri",
+    "id": 431895,
+    "datetime": "2023-06-27 9:44:12 +02:00",
+    "name": "27 juni 08:57, Brand, Sundsvall",
+    "summary": "E4 Skönviksbacken, larm om brand i fordon",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0857-brand-sundsvall/",
+    "type": "Brand",
     "location": {
-      "name": "Motala",
-      "gps": "58.538034,15.047094"
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 431923,
+    "datetime": "2023-06-27 13:32:31 +02:00",
+    "name": "27 juni 12:34, Misshandel, Stockholm",
+    "summary": "En man på en tunnelbanestation i Bromma gick runt och puttade på folk samt uppträdde aggressivt.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-1234-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 431922,
+    "datetime": "2023-06-27 13:28:48 +02:00",
+    "name": "27 juni 12:00, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat efter trafikkontroller under morgon och förmiddag",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-1200-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Boxholm",
       "gps": "58.197099,15.053779"
+    }
+  },
+  {
+    "id": 431921,
+    "datetime": "2023-06-27 13:23:29 +02:00",
+    "name": "27 juni 13:22, Arbetsplatsolycka, Eskilstuna",
+    "summary": "Man ramlade från tak i samband med arbetsutövning.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-1322-arbetsplatsolycka-eskilstuna/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 431919,
+    "datetime": "2023-06-27 13:18:45 +02:00",
+    "name": "27 juni 13:17, Bedrägeri, Motala",
+    "summary": "Kvinna utsatt för bedrägeriförsök.",
+    "url": "/aktuellt/handelser/2023/juni/27/27-juni-1317-bedrageri-motala/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
     }
   },
   {
@@ -93,18 +141,6 @@
     "location": {
       "name": "Ragunda",
       "gps": "63.061337,16.396683"
-    }
-  },
-  {
-    "id": 431895,
-    "datetime": "2023-06-27 9:44:12 +02:00",
-    "name": "27 juni 08:57, Brand, Sundsvall",
-    "summary": "E4 Skönviksbacken, larm om brand i fordon",
-    "url": "/aktuellt/handelser/2023/juni/27/27-juni-0857-brand-sundsvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 431075,
-    "datetime": "2023-06-19 7:45:36 +02:00",
-    "name": "19 juni 07:45, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer ett urval av nattens händelser från Dalarnas län.",
-    "url": "/aktuellt/handelser/2023/juni/19/19-juni-0745-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 431076,
-    "datetime": "2023-06-19 7:45:39 +02:00",
-    "name": "19 juni 07:45, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer ett urval av nattens händelser från Örebro län.",
-    "url": "/aktuellt/handelser/2023/juni/19/19-juni-0745-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 431080,
-    "datetime": "2023-06-19 8:17:12 +02:00",
-    "name": "19 juni 07:51, Trafikolycka, Ljusnarsberg",
-    "summary": "En lastbil är dikeskörd på Rv 50 strax söder om Bångbro.",
-    "url": "/aktuellt/handelser/2023/juni/19/19-juni-0751-trafikolycka-ljusnarsberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljusnarsberg",
-      "gps": "59.877447,14.998849"
     }
   }
 ]
