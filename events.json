@@ -1,5 +1,29 @@
 [
   {
+    "id": 432090,
+    "datetime": "2023-06-28 21:17:05 +02:00",
+    "name": "28 juni 19:34, Misshandel, Göteborg",
+    "summary": "Vid Lilla Bommen har en man i 30-årsåldern blivit misshandlad.",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1934-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 432094,
+    "datetime": "2023-06-28 21:09:39 +02:00",
+    "name": "28 juni 20:19, Övrigt, Västerås",
+    "summary": "Polis larmas till Bäckby i Västerås.",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-2019-ovrigt-vasteras/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 432089,
     "datetime": "2023-06-28 20:40:01 +02:00",
     "name": "28 juni 20:23, Trafikolycka, Kumla",
@@ -12,18 +36,6 @@
     }
   },
   {
-    "id": 432088,
-    "datetime": "2023-06-28 20:36:39 +02:00",
-    "name": "28 juni 19:43, Brand, Ronneby",
-    "summary": "Brand i villa, Kallinge.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1943-brand-ronneby/",
-    "type": "Brand",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
     "id": 432086,
     "datetime": "2023-06-28 19:09:12 +02:00",
     "name": "28 juni 18:43, Skottlossning, Malmö",
@@ -33,6 +45,30 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 432093,
+    "datetime": "2023-06-28 20:48:58 +02:00",
+    "name": "28 juni 18:13, Rattfylleri, Borlänge",
+    "summary": "En man i 40-årsåldern stoppas och blir misstänkt för drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1813-rattfylleri-borlange/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 432088,
+    "datetime": "2023-06-28 20:36:39 +02:00",
+    "name": "28 juni 19:43, Brand, Ronneby",
+    "summary": "Brand i villa, Kallinge.",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1943-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 431275,
-    "datetime": "2023-06-20 18:43:45 +02:00",
-    "name": "20 juni 16:00, Trafikolycka, Gotlands län",
-    "summary": "I Buttle bärgades två personbilar efter en olycka.",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1600-trafikolycka-gotlands-lan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 431274,
-    "datetime": "2023-06-20 18:34:25 +02:00",
-    "name": "20 juni 17:11, Vapenlagen, Solna",
-    "summary": "Tre personer är gripna misstänkta för grovt vapenbrott efter att ett vapen anträffats i Frösunda.",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1711-vapenlagen-solna/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 431273,
-    "datetime": "2023-06-20 17:45:45 +02:00",
-    "name": "20 juni 17:12, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på Östra Bangatan i Örebro.",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1712-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
