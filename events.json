@@ -1,5 +1,29 @@
 [
   {
+    "id": 432076,
+    "datetime": "2023-06-28 17:20:47 +02:00",
+    "name": "28 juni 15:39, Stöld, Örebro",
+    "summary": "En man i 30-årsåldern blir misstänkt för stöld efter att en man blivit av med sin elsparkcykel.",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1539-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 432045,
+    "datetime": "2023-06-28 14:00:09 +02:00",
+    "name": "28 juni 11:39, Övrigt, Karlstad",
+    "summary": "Ett brott har inträffat på en adress i Karlstads kommun",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1139-ovrigt-karlstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 432072,
     "datetime": "2023-06-28 16:37:04 +02:00",
     "name": "28 juni 16:36, Räddningsinsats, Linköping",
@@ -9,6 +33,42 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 432075,
+    "datetime": "2023-06-28 16:57:57 +02:00",
+    "name": "28 juni 16:03, Trafikolycka, Uppsala",
+    "summary": "Trafikolycka mellan cyklist och bil.",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1603-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 432074,
+    "datetime": "2023-06-28 16:52:45 +02:00",
+    "name": "28 juni 16:29, Trafikolycka, singel, Hylte",
+    "summary": "På riksväg 26 i Hyltebruk har en bilist kört av vägen och voltat.",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1629-trafikolycka-singel-hylte/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Hylte",
+      "gps": "56.977313,13.338766"
+    }
+  },
+  {
+    "id": 432073,
+    "datetime": "2023-06-28 16:45:34 +02:00",
+    "name": "28 juni 12:36, Rån, försök, Gävle",
+    "summary": "Försök till rån på Söder i Gävle.",
+    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1236-ran-forsok-gavle/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -225,18 +285,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 432045,
-    "datetime": "2023-06-28 14:00:09 +02:00",
-    "name": "28 juni 11:39, Övrigt, Karlstad",
-    "summary": "Ett brott har inträffat på en adress i Karlstads kommun",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1139-ovrigt-karlstad/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Arjeplog",
       "gps": "66.051505,17.890054"
-    }
-  },
-  {
-    "id": 431237,
-    "datetime": "2023-06-20 12:08:57 +02:00",
-    "name": "20 juni 10:29, Trafikkontroll, Krokom",
-    "summary": "Apånäset, resultat efter trafikkontroll under förmiddagen",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1029-trafikkontroll-krokom/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 431236,
-    "datetime": "2023-06-20 12:08:12 +02:00",
-    "name": "20 juni 11:00, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken under morgon och förmiddag",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-1100-trafikkontroll-vasterbottens-lan2/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 431201,
-    "datetime": "2023-06-20 8:29:54 +02:00",
-    "name": "20 juni 08:22, Trafikolycka, Mark",
-    "summary": "En personbil uppges ha kolliderat med ett godståg.",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0822-trafikolycka-mark/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
-    }
-  },
-  {
-    "id": 431235,
-    "datetime": "2023-06-20 11:25:56 +02:00",
-    "name": "20 juni 09:56, Skadegörelse, Kungsbacka",
-    "summary": "Ett vittne kontaktar polis om observationer som gjorts i samband med en brand i en återvinningscontainer på Li",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-0956-skadegorelse-kungsbacka/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
     }
   }
 ]
