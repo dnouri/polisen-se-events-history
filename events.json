@@ -1,5 +1,65 @@
 [
   {
+    "id": 432160,
+    "datetime": "2023-06-29 15:31:23 +02:00",
+    "name": "29 juni 14:10, Trafikbrott, Botkyrka",
+    "summary": "En bilist i Fittja kontrollerades, vilket resulterade i en anmälan om grov olovlig körning samt brott mot kniv",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1410-trafikbrott-botkyrka/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 432159,
+    "datetime": "2023-06-29 15:03:38 +02:00",
+    "name": "29 juni 13:01, Brand, Västmanlands län",
+    "summary": "Bil började brinna på E18 mellan Köping och Hallstahammar.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1301-brand-vastmanlands-lan/",
+    "type": "Brand",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 432158,
+    "datetime": "2023-06-29 14:51:25 +02:00",
+    "name": "29 juni 13:57, Trafikolycka, Uppsala",
+    "summary": "Trafikolycka på Råbyvägen i Uppsala.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1357-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 432157,
+    "datetime": "2023-06-29 14:48:36 +02:00",
+    "name": "29 juni 14:47, Rattfylleri, Tranås",
+    "summary": "Bilist misstänks för rattfylleri - länsväg 133 Gripenberg.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1447-rattfylleri-tranas/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Tranås",
+      "gps": "58.035518,14.975696"
+    }
+  },
+  {
+    "id": 432155,
+    "datetime": "2023-06-29 14:44:30 +02:00",
+    "name": "29 juni 14:44, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1444-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 432154,
     "datetime": "2023-06-29 14:41:39 +02:00",
     "name": "29 juni 13:07, Trafikolycka, personskada, Vänersborg",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 431350,
-    "datetime": "2023-06-21 10:42:29 +02:00",
-    "name": "21 juni 10:40, Ofredande/förargelse, Falun",
-    "summary": "Polispatrull beordrades under förmiddagen till en livsmedelsbutik i Falun med anledning av en aggressiv person",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1040-ofredandeforargelse-falun/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 431347,
-    "datetime": "2023-06-21 10:32:32 +02:00",
-    "name": "21 juni 09:47, Trafikolycka, personskada, Uppsala",
-    "summary": "Buss i trafikolycka.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0947-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 431333,
-    "datetime": "2023-06-21 9:54:56 +02:00",
-    "name": "21 juni 08:39, Misshandel, Halmstad",
-    "summary": "Polisen får flera samtal om att en man misshandlat en lokförare och en tågvärd i Oskarsström.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0839-misshandel-halmstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 431334,
-    "datetime": "2023-06-21 9:41:07 +02:00",
-    "name": "21 juni 08:50, Trafikolycka, Stockholm",
-    "summary": "Polis och ambulans kallas till Skebokvarnsvägen/Örbyleden i Stureby med anledning av en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0850-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 431337,
-    "datetime": "2023-06-21 9:53:25 +02:00",
-    "name": "21 juni 08:38, Trafikolycka, vilt, Härjedalen",
-    "summary": "Polisen får in en anmälan om en viltolycka på riksväg 84, Hede.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0838-trafikolycka-vilt-harjedalen/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
     }
   }
 ]
