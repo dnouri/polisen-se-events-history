@@ -1,5 +1,65 @@
 [
   {
+    "id": 432171,
+    "datetime": "2023-06-29 17:19:49 +02:00",
+    "name": "29 juni 15:17, Trafikolycka, personskada, Västerås",
+    "summary": "Trafikolycka i centrala i Västerås.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1517-trafikolycka-personskada-vasteras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 432170,
+    "datetime": "2023-06-29 17:03:33 +02:00",
+    "name": "29 juni 15:39, Brand, Köping",
+    "summary": "Polis larmas till brand i Köping.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1539-brand-koping/",
+    "type": "Brand",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 432169,
+    "datetime": "2023-06-29 17:01:08 +02:00",
+    "name": "29 juni 15:21, Brand, Gävle",
+    "summary": "Polis larmas till brand i centrala Gävle.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1521-brand-gavle/",
+    "type": "Brand",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 432168,
+    "datetime": "2023-06-29 16:49:36 +02:00",
+    "name": "29 juni 15:35, Fylleri/LOB, Huddinge",
+    "summary": "En man i Sjödalen blev frihetsberövad enligt lagen om omhändertagande av berusade personer.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1535-fyllerilob-huddinge/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 432167,
+    "datetime": "2023-06-29 16:47:24 +02:00",
+    "name": "29 juni 16:46, Trafikolycka, Eskilstuna",
+    "summary": "Två bilar i olycka på Strängnäsvägen.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1646-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 432145,
     "datetime": "2023-06-29 13:31:07 +02:00",
     "name": "29 juni 13:30, Försvunnen person, Västervik",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 431411,
-    "datetime": "2023-06-21 12:24:30 +02:00",
-    "name": "21 juni 11:21, Rattfylleri, Örebro",
-    "summary": "Misstänkt rattfull bilist stoppad i Örebro.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1121-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 431382,
-    "datetime": "2023-06-21 11:14:17 +02:00",
-    "name": "21 juni 11:08, Trafikolycka, Mönsterås",
-    "summary": "Olycka på Drakenäsvägen.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1108-trafikolycka-monsteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mönsterås",
-      "gps": "57.04158,16.44312"
-    }
-  },
-  {
-    "id": 431409,
-    "datetime": "2023-06-21 11:35:58 +02:00",
-    "name": "21 juni 09:07, Ofredande/förargelse, Skellefteå",
-    "summary": "Polispatruller beordras till centrala Skellefteå där en man uppges ha varit utåtagerande mot personal på ett f",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0907-ofredandeforargelse-skelleftea/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 431335,
-    "datetime": "2023-06-21 9:50:16 +02:00",
-    "name": "21 juni 09:03, Arbetsplatsolycka, Tjörn",
-    "summary": "SOS larmas om en arbetsplatsolycka, enligt uppgift ombord på en båt som ligger vid hamn.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0903-arbetsplatsolycka-tjorn/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Tjörn",
-      "gps": "58.04102,11.683671"
-    }
-  },
-  {
-    "id": 431349,
-    "datetime": "2023-06-21 10:36:50 +02:00",
-    "name": "21 juni 09:17, Misshandel, Göteborg",
-    "summary": "Polisen larmas om att en man i 90-årsåldern misshandlats på Exportgatan, enligt uppgift med någon form av till",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0917-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
