@@ -1,5 +1,125 @@
 [
   {
+    "id": 432122,
+    "datetime": "2023-06-29 8:10:39 +02:00",
+    "name": "29 juni 08:10, Trafikolycka, Linköping",
+    "summary": "Bilist voltade på länsväg 699 utanför Brokind.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0810-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 432113,
+    "datetime": "2023-06-29 8:03:11 +02:00",
+    "name": "29 juni 08:02, Sammanfattning natt, Södermanlands län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0802-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 432118,
+    "datetime": "2023-06-29 8:02:41 +02:00",
+    "name": "29 juni 08:02, Sammanfattning natt, Östergötlands län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0802-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 432121,
+    "datetime": "2023-06-29 8:02:24 +02:00",
+    "name": "29 juni 08:02, Sammanfattning natt, Jönköpings län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0802-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 432120,
+    "datetime": "2023-06-29 7:52:20 +02:00",
+    "name": "29 juni 00:30, Stöld/inbrott, Uppsala",
+    "summary": "Inbrott i föreningslokal.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0030-stoldinbrott-uppsala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 432116,
+    "datetime": "2023-06-29 7:52:01 +02:00",
+    "name": "29 juni 07:51, Sammanfattning natt, Dalarnas län",
+    "summary": "Natt till torsdag polisområde Dalarna",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0751-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 432115,
+    "datetime": "2023-06-29 7:49:18 +02:00",
+    "name": "29 juni 07:49, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0749-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 432111,
+    "datetime": "2023-06-29 7:45:38 +02:00",
+    "name": "29 juni 07:45, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0745-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 432105,
+    "datetime": "2023-06-29 7:45:26 +02:00",
+    "name": "29 juni 07:45, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0745-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 432110,
+    "datetime": "2023-06-29 7:44:35 +02:00",
+    "name": "29 juni 07:44, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0744-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 432119,
     "datetime": "2023-06-29 7:42:52 +02:00",
     "name": "28 juni 20:57, Brand, Uppsala",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 431304,
-    "datetime": "2023-06-21 7:11:43 +02:00",
-    "name": "21 juni 01:49, Rattfylleri, Gävle",
-    "summary": "Misstänkt drograttfylleri i Brynäs.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0149-rattfylleri-gavle/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 431303,
-    "datetime": "2023-06-21 7:10:19 +02:00",
-    "name": "21 juni 07:09, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0709-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 431302,
-    "datetime": "2023-06-21 7:09:20 +02:00",
-    "name": "21 juni 07:09, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0709-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 431301,
-    "datetime": "2023-06-21 7:08:57 +02:00",
-    "name": "21 juni 01:02, Olaga hot, Gävle",
-    "summary": "Man hotas med kniv.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0102-olaga-hot-gavle/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 431300,
-    "datetime": "2023-06-21 7:03:34 +02:00",
-    "name": "21 juni 00:16, Rattfylleri, Bollnäs",
-    "summary": "Misstänkt drograttfylleri.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0016-rattfylleri-bollnas/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
-    }
-  },
-  {
-    "id": 431299,
-    "datetime": "2023-06-21 7:03:28 +02:00",
-    "name": "21 juni 02:08, Brand, Helsingborg",
-    "summary": "Brand i fordon på Luggudegatan.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0208-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 431298,
-    "datetime": "2023-06-21 7:03:05 +02:00",
-    "name": "21 juni 07:02, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0702-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 431297,
-    "datetime": "2023-06-21 6:58:51 +02:00",
-    "name": "21 juni 02:30, Stöld/inbrott, Karlskrona",
-    "summary": "Inbrott på Adonisvägen.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0230-stoldinbrott-karlskrona/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 431296,
-    "datetime": "2023-06-21 6:53:08 +02:00",
-    "name": "21 juni 00:44, Skadegörelse, Karlskrona",
-    "summary": "Skadegörelse på Rosenfeldtskolan.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-0044-skadegorelse-karlskrona/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 431293,
-    "datetime": "2023-06-20 23:01:56 +02:00",
-    "name": "20 juni 22:50, Skottlossning, Malmö",
-    "summary": "Cypressvägen. Flera samtal om skottlossning, en person är anträffad skottskadad.",
-    "url": "/aktuellt/handelser/2023/juni/20/20-juni-2250-skottlossning-malmo/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
