@@ -1,5 +1,53 @@
 [
   {
+    "id": 432273,
+    "datetime": "2023-06-30 15:10:40 +02:00",
+    "name": "30 juni 15:09, Trafikolycka, Jönköping",
+    "summary": "Mopedist i olycka på Junegatan.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1509-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 432274,
+    "datetime": "2023-06-30 15:13:36 +02:00",
+    "name": "30 juni 15:00, Trafikolycka, Skara",
+    "summary": "Två till tre bilar är inblandade i en kollision på E20 utanför Skara.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1500-trafikolycka-skara/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skara",
+      "gps": "58.386013,13.439328"
+    }
+  },
+  {
+    "id": 432219,
+    "datetime": "2023-06-30 10:15:27 +02:00",
+    "name": "30 juni 10:15, Trafikolycka, Flen",
+    "summary": "Kollision mellan två fordon på riksväg 55 utanför Malmköping.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1015-trafikolycka-flen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Flen",
+      "gps": "59.057938,16.587912"
+    }
+  },
+  {
+    "id": 432262,
+    "datetime": "2023-06-30 14:43:42 +02:00",
+    "name": "30 juni 13:10, Trafikbrott, Örnsköldsvik",
+    "summary": "E4, bilist stoppas för kontroll",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1310-trafikbrott-ornskoldsvik/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 432271,
     "datetime": "2023-06-30 14:41:47 +02:00",
     "name": "30 juni 11:04, Fjällräddning, Åre",
@@ -63,7 +111,7 @@
     "id": 432249,
     "datetime": "2023-06-30 13:46:52 +02:00",
     "name": "30 juni 13:30, Övrigt, Gotlands län",
-    "summary": "Två personer är anmälda för överträdelse av föreskrifter om restriktionsonmråde efter att ha flugit med drönar",
+    "summary": "Två personer är anmälda för överträdelse av föreskrifter om restriktionsområde efter att ha flugit med drönare",
     "url": "/aktuellt/handelser/2023/juni/30/30-juni-1330-ovrigt-gotlands-lan/",
     "type": "Övrigt",
     "location": {
@@ -165,18 +213,6 @@
     "location": {
       "name": "Lidköping",
       "gps": "58.503505,13.157077"
-    }
-  },
-  {
-    "id": 432219,
-    "datetime": "2023-06-30 10:15:27 +02:00",
-    "name": "30 juni 10:15, Trafikolycka, Flen",
-    "summary": "Kollision mellan två fordon på riksväg 55 utanför Malmköping.",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1015-trafikolycka-flen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Flen",
-      "gps": "59.057938,16.587912"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 431540,
-    "datetime": "2023-06-22 13:32:30 +02:00",
-    "name": "22 juni 12:56, Trafikolycka, vilt, Jokkmokk",
-    "summary": "Polisen får in en anmälan om en viltolycka vid Ligga kraftstation.",
-    "url": "/aktuellt/handelser/2023/juni/22/22-juni-1256-trafikolycka-vilt-jokkmokk/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 431538,
-    "datetime": "2023-06-22 12:50:21 +02:00",
-    "name": "22 juni 10:01, Rattfylleri, Falköping",
-    "summary": "Ett flertal personer slår larm om en lastbil som kör vingligt på riksväg 47 i riktning mot Falköping.",
-    "url": "/aktuellt/handelser/2023/juni/22/22-juni-1001-rattfylleri-falkoping/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Falköping",
-      "gps": "58.175029,13.553217"
-    }
-  },
-  {
-    "id": 431537,
-    "datetime": "2023-06-22 12:49:42 +02:00",
-    "name": "22 juni 10:50, Trafikbrott, Ånge",
-    "summary": "Bilförare på E14, Borgsjö, stoppad efter hastighetsöverträdelse.",
-    "url": "/aktuellt/handelser/2023/juni/22/22-juni-1050-trafikbrott-ange/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Ånge",
-      "gps": "62.522874,15.658942"
     }
   }
 ]
