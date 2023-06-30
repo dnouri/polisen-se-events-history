@@ -1,5 +1,17 @@
 [
   {
+    "id": 432194,
+    "datetime": "2023-06-30 7:23:42 +02:00",
+    "name": "30 juni 00:17, Trafikbrott, Södertälje",
+    "summary": "En cyklist i Södertälje blev påkörd av en annan cyklist som försvann från platsen.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0017-trafikbrott-sodertalje/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 432187,
     "datetime": "2023-06-29 20:15:29 +02:00",
     "name": "29 juni 19:53, Räddningsinsats, Karlskrona",
@@ -9,6 +21,78 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 432193,
+    "datetime": "2023-06-30 7:18:24 +02:00",
+    "name": "30 juni 04:38, Stöld, Stockholm",
+    "summary": "En anmälare på Norrmalm ringer in om att denne blivit bestulen på personliga tillhörigheter.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0438-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 432192,
+    "datetime": "2023-06-30 7:14:41 +02:00",
+    "name": "30 juni 03:41, Brand, Hofors",
+    "summary": "Två män grips misstänkta för flera brott.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0341-brand-hofors/",
+    "type": "Brand",
+    "location": {
+      "name": "Hofors",
+      "gps": "60.54595,16.2841"
+    }
+  },
+  {
+    "id": 432191,
+    "datetime": "2023-06-30 7:08:22 +02:00",
+    "name": "30 juni 07:00, Sammanfattning natt, Norrbottens län",
+    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0700-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 432190,
+    "datetime": "2023-06-30 6:53:53 +02:00",
+    "name": "30 juni 01:02, Rattfylleri, Helsingborg",
+    "summary": "Misstänkt drograttfylleri, Rusthållsgatan.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0102-rattfylleri-helsingborg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 432181,
+    "datetime": "2023-06-30 6:44:40 +02:00",
+    "name": "30 juni 06:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0600-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 432180,
+    "datetime": "2023-06-30 6:44:28 +02:00",
+    "name": "30 juni 06:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0600-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Stenungsund",
       "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 431463,
-    "datetime": "2023-06-21 18:35:11 +02:00",
-    "name": "21 juni 18:18, Brand, Solna",
-    "summary": "Fullt utvecklad brand i Järva",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1818-brand-solna/",
-    "type": "Brand",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 431455,
-    "datetime": "2023-06-21 16:29:53 +02:00",
-    "name": "21 juni 16:16, Övrigt, Jönköpings län",
-    "summary": "Polisen utreder dödsfall",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1616-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 431458,
-    "datetime": "2023-06-21 17:19:13 +02:00",
-    "name": "21 juni 16:29, Trafikolycka, Göteborg",
-    "summary": "En kvinna har blivit påkörd av en personbil i Brunnsparken.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1629-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 431462,
-    "datetime": "2023-06-21 18:15:12 +02:00",
-    "name": "21 juni 17:48, Bråk, Lund",
-    "summary": "Norra Fäladen. Bråk utomhus mellan ett större antal personer.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1748-brak-lund/",
-    "type": "Bråk",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 431461,
-    "datetime": "2023-06-21 18:08:18 +02:00",
-    "name": "21 juni 14:27, Våld/hot mot tjänsteman, Norberg",
-    "summary": "Medelålders man frihetsberövad.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1427-valdhot-mot-tjansteman-norberg/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Norberg",
-      "gps": "60.065042,15.923796"
-    }
-  },
-  {
-    "id": 431460,
-    "datetime": "2023-06-21 17:29:19 +02:00",
-    "name": "21 juni 16:33, Olaga hot, Malmö",
-    "summary": "Bunkeflo. En man hotar en kvinna med kniv.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1633-olaga-hot-malmo/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 431456,
-    "datetime": "2023-06-21 16:39:27 +02:00",
-    "name": "21 juni 15:15, Trafikolycka, Malmö",
-    "summary": "Nydala. Kolliison mellan mopedist och fotgängare.",
-    "url": "/aktuellt/handelser/2023/juni/21/21-juni-1515-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
