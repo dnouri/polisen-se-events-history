@@ -1,5 +1,53 @@
 [
   {
+    "id": 432326,
+    "datetime": "2023-07-01 14:26:47 +02:00",
+    "name": "01 juli 12:16, Brand, Norberg",
+    "summary": "Brand i bostad.",
+    "url": "/aktuellt/handelser/2023/juli/1/01-juli-1216-brand-norberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Norberg",
+      "gps": "60.065042,15.923796"
+    }
+  },
+  {
+    "id": 432325,
+    "datetime": "2023-07-01 14:18:54 +02:00",
+    "name": "01 juli 14:18, Trafikkontroll, Östersund",
+    "summary": "Östersund, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juli/1/01-juli-1418-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 432324,
+    "datetime": "2023-07-01 14:17:10 +02:00",
+    "name": "01 juli 14:17, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juli/1/01-juli-1417-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 432323,
+    "datetime": "2023-07-01 14:13:38 +02:00",
+    "name": "01 juli 12:55, Fylleri/LOB, Örnsköldsvik",
+    "summary": "Örnsköldsvik, person omhändertagen.",
+    "url": "/aktuellt/handelser/2023/juli/1/01-juli-1255-fyllerilob-ornskoldsvik/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 432321,
     "datetime": "2023-07-01 13:35:12 +02:00",
     "name": "01 juli 13:01, Trafikolycka, Mörbylånga",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Mörbylånga",
       "gps": "56.523757,16.386916"
+    }
+  },
+  {
+    "id": 432322,
+    "datetime": "2023-07-01 13:57:02 +02:00",
+    "name": "01 juli 12:20, Misshandel, Skara",
+    "summary": "Slagsmål bröt ut utanför en restaurang i centrala Skara.",
+    "url": "/aktuellt/handelser/2023/juli/1/01-juli-1220-misshandel-skara/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skara",
+      "gps": "58.386013,13.439328"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Arvidsjaur",
       "gps": "65.592077,19.180283"
-    }
-  },
-  {
-    "id": 431610,
-    "datetime": "2023-06-23 9:47:13 +02:00",
-    "name": "23 juni 08:17, Rattfylleri, Botkyrka",
-    "summary": "En anmälare ringde in angående att en bilist i Fittja vinglat kraftigt på vägen.",
-    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0817-rattfylleri-botkyrka/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 431571,
-    "datetime": "2023-06-22 16:30:00 +02:00",
-    "name": "22 juni 16:11, Brand, Vallentuna",
-    "summary": "Fullt utvecklad brand i en byggnad",
-    "url": "/aktuellt/handelser/2023/juni/22/22-juni-1611-brand-vallentuna/",
-    "type": "Brand",
-    "location": {
-      "name": "Vallentuna",
-      "gps": "59.5357,18.078017"
-    }
-  },
-  {
-    "id": 431607,
-    "datetime": "2023-06-23 7:59:19 +02:00",
-    "name": "23 juni 00:41, Misshandel, Stockholm",
-    "summary": "En inringare hörde av sig angående ett bråk som uppstod inne på en restaurang på Södermalm.",
-    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0041-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 431593,
-    "datetime": "2023-06-23 7:58:59 +02:00",
-    "name": "23 juni 07:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0700-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 431592,
-    "datetime": "2023-06-23 7:58:53 +02:00",
-    "name": "23 juni 07:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/23/23-juni-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
