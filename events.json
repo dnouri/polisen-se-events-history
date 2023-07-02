@@ -1,5 +1,53 @@
 [
   {
+    "id": 432342,
+    "datetime": "2023-07-02 4:22:45 +02:00",
+    "name": "02 juli 01:55, Mord/dråp, Luleå",
+    "summary": "Drunkningslarm på Klubbviken i Luleå. En kvinna i sextioårsåldern avliden, en man i femtiofemårsåldern gripen ",
+    "url": "/aktuellt/handelser/2023/juli/2/02-juli-0155-morddrap-lulea/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 432365,
+    "datetime": "2023-07-02 13:02:14 +02:00",
+    "name": "02 juli 13:02, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1302-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 432364,
+    "datetime": "2023-07-02 12:58:46 +02:00",
+    "name": "02 juli 12:58, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1258-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 432363,
+    "datetime": "2023-07-02 12:46:48 +02:00",
+    "name": "02 juli 11:32, Fylleri/LOB, Stockholm",
+    "summary": "Man omhändertagen med stöd av lagen om omhändertagande av berusade personer (LOB)",
+    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1132-fyllerilob-stockholm/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 432362,
     "datetime": "2023-07-02 12:32:30 +02:00",
     "name": "02 juli 11:24, Trafikolycka, Haparanda",
@@ -237,18 +285,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 432342,
-    "datetime": "2023-07-02 4:22:45 +02:00",
-    "name": "02 juli 01:55, Mord/dråp, Luleå",
-    "summary": "Drunkningslarm på Klubbviken i Luleå. En kvinna i sextioårsåldern avliden, en man i femtiofemårsåldern gripen ",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-0155-morddrap-lulea/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 431646,
-    "datetime": "2023-06-24 7:57:24 +02:00",
-    "name": "24 juni 07:56, Sammanfattning natt, Södermanlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-0756-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 431623,
-    "datetime": "2023-06-23 13:54:41 +02:00",
-    "name": "23 juni 13:52, Trafikolycka, Ödeshög",
-    "summary": "Väldigt allvarlig olycka mellan motorcyklist och bilist på länsväg 919.",
-    "url": "/aktuellt/handelser/2023/juni/23/23-juni-1352-trafikolycka-odeshog/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ödeshög",
-      "gps": "58.228996,14.64882"
-    }
-  },
-  {
-    "id": 431650,
-    "datetime": "2023-06-24 7:57:33 +02:00",
-    "name": "24 juni 07:56, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-0756-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
