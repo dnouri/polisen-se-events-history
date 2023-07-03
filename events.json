@@ -1,5 +1,113 @@
 [
   {
+    "id": 432400,
+    "datetime": "2023-07-03 7:23:30 +02:00",
+    "name": "03 juli 07:21, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan följer en sammanfattning av natten i länet",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0721-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 432398,
+    "datetime": "2023-07-03 7:21:31 +02:00",
+    "name": "03 juli 06:43, Sammanfattning natt, Dalarnas län",
+    "summary": "Nedan följer en sammanfattning av nattens polisiära händelser i länet",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0643-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 432397,
+    "datetime": "2023-07-03 7:15:37 +02:00",
+    "name": "03 juli 07:13, Sammanfattning natt, Jämtlands län",
+    "summary": "Jämtland, inga händelser att rapportera om",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0713-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 432396,
+    "datetime": "2023-07-03 7:13:59 +02:00",
+    "name": "03 juli 07:00, Sammanfattning natt, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0700-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 432392,
+    "datetime": "2023-07-03 7:05:16 +02:00",
+    "name": "03 juli 07:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0700-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 432391,
+    "datetime": "2023-07-03 7:04:55 +02:00",
+    "name": "03 juli 07:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 432395,
+    "datetime": "2023-07-03 7:03:50 +02:00",
+    "name": "03 juli 01:09, Trafikbrott, Kävlinge",
+    "summary": "Löddeköpinge",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0109-trafikbrott-kavlinge/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 432394,
+    "datetime": "2023-07-03 6:55:28 +02:00",
+    "name": "03 juli 06:54, Sammanfattning natt, Västerbottens län",
+    "summary": "Västerbotten, inga händelser att rapportera om",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0654-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 432393,
+    "datetime": "2023-07-03 6:54:09 +02:00",
+    "name": "03 juli 06:54, Sammanfattning natt, Norrbottens län",
+    "summary": "Norrbotten, inga händelser att rapportera om",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0654-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 432387,
     "datetime": "2023-07-02 22:43:57 +02:00",
     "name": "02 juli 22:43, Försvunnen person, Helsingborg",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 431679,
-    "datetime": "2023-06-24 14:11:25 +02:00",
-    "name": "24 juni 11:09, Skadegörelse, Piteå",
-    "summary": "Zonområdet, polis kontaktas gällande skadegörelse på en fastighet",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1109-skadegorelse-pitea/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 431678,
-    "datetime": "2023-06-24 13:55:37 +02:00",
-    "name": "24 juni 13:08, Trafikkontroll, Skellefteå",
-    "summary": "Bjurön, resultat efter nykterhetskontroll i trafiken",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1308-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 431677,
-    "datetime": "2023-06-24 13:48:20 +02:00",
-    "name": "24 juni 13:47, Våldtäkt, Eskilstuna",
-    "summary": "Man gripen misstänkt för våldtäkt som ska ha skett inomhus.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1347-valdtakt-eskilstuna/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 431676,
-    "datetime": "2023-06-24 13:42:34 +02:00",
-    "name": "24 juni 13:41, Brand, Trosa",
-    "summary": "Larm om rök från ett soprum - Vagnhärad.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1341-brand-trosa/",
-    "type": "Brand",
-    "location": {
-      "name": "Trosa",
-      "gps": "58.902655,17.549464"
-    }
-  },
-  {
-    "id": 431675,
-    "datetime": "2023-06-24 13:33:46 +02:00",
-    "name": "24 juni 12:47, Rattfylleri, Haninge",
-    "summary": "Allmänhet tipsade om en man som misstänktes köra husbil rattfull på Gålö.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1247-rattfylleri-haninge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 431669,
-    "datetime": "2023-06-24 12:37:57 +02:00",
-    "name": "24 juni 11:56, Rattfylleri, Munkedal",
-    "summary": "Misstänkt rattfylleri vid trafikkontroll vid Gläborgsmotet.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1156-rattfylleri-munkedal/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Munkedal",
-      "gps": "58.471505,11.680192"
-    }
-  },
-  {
-    "id": 431667,
-    "datetime": "2023-06-24 12:30:47 +02:00",
-    "name": "24 juni 12:30, Rattfylleri, Nässjö",
-    "summary": "Bilist visade tecken på alkoholpåverkan.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1230-rattfylleri-nassjo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
-    }
-  },
-  {
-    "id": 431666,
-    "datetime": "2023-06-24 12:26:42 +02:00",
-    "name": "24 juni 11:58, Mord/dråp, försök, Sollentuna",
-    "summary": "Polisen har inlett en förundersökning om misstänkt mordförsök i Tureberg.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1158-morddrap-forsok-sollentuna/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 431662,
-    "datetime": "2023-06-24 10:44:01 +02:00",
-    "name": "24 juni 10:32, Djur, Umeå",
-    "summary": "E12, en älg befinner sig på fel sida om viltstängslet vid Norra länken, I20.",
-    "url": "/aktuellt/handelser/2023/juni/24/24-juni-1032-djur-umea/",
-    "type": "Djur",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
