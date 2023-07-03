@@ -1,14 +1,26 @@
 [
   {
-    "id": 432434,
-    "datetime": "2023-07-03 12:33:41 +02:00",
-    "name": "03 juli 09:24, Övrigt, Örebro",
-    "summary": "Polisen är på plats med anledning av en demonstration vid ett företag i Örebro",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0924-ovrigt-orebro/",
-    "type": "Övrigt",
+    "id": 432458,
+    "datetime": "2023-07-03 16:09:49 +02:00",
+    "name": "03 juli 14:15, Räddningsinsats, Borås",
+    "summary": "På Sörsjön har en äldre man fallit i vattnet från en båt.",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-1415-raddningsinsats-boras/",
+    "type": "Räddningsinsats",
     "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 432460,
+    "datetime": "2023-07-03 16:06:03 +02:00",
+    "name": "03 juli 15:59, Trafikolycka, Hammarö",
+    "summary": "Polis är på väg till en trafikolycka vid Gunnarskärsleden i Hammarö.",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-1559-trafikolycka-hammaro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hammarö",
+      "gps": "59.311466,13.529854"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 432434,
+    "datetime": "2023-07-03 12:33:41 +02:00",
+    "name": "03 juli 09:24, Övrigt, Örebro",
+    "summary": "Polisen är på plats med anledning av en demonstration vid ett företag i Örebro",
+    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0924-ovrigt-orebro/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 431697,
-    "datetime": "2023-06-25 8:23:31 +02:00",
-    "name": "25 juni 02:38, Stöld/inbrott, Gävleborgs län",
-    "summary": "Två grips efter ett kortare förföljande.",
-    "url": "/aktuellt/handelser/2023/juni/25/25-juni-0238-stoldinbrott-gavleborgs-lan/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 431696,
-    "datetime": "2023-06-25 8:23:09 +02:00",
-    "name": "25 juni 06:04, Mord/dråp, försök, Solna",
-    "summary": "En man greps i Råsunda misstänkt för mordförsök.",
-    "url": "/aktuellt/handelser/2023/juni/25/25-juni-0604-morddrap-forsok-solna/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
     }
   }
 ]
