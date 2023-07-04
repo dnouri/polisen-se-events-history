@@ -1,5 +1,89 @@
 [
   {
+    "id": 432631,
+    "datetime": "2023-07-04 17:14:04 +02:00",
+    "name": "04 juli 17:08, Trafikolycka, Lekeberg",
+    "summary": "Polisen är på väg till en trafikolycka i Lekeberg.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1708-trafikolycka-lekeberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lekeberg",
+      "gps": "59.16539,14.743407"
+    }
+  },
+  {
+    "id": 432630,
+    "datetime": "2023-07-04 17:14:00 +02:00",
+    "name": "04 juli 15:54, Rån övrigt, Heby",
+    "summary": "Man stal mat.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1554-ran-ovrigt-heby/",
+    "type": "Rån övrigt",
+    "location": {
+      "name": "Heby",
+      "gps": "59.939637,16.858759"
+    }
+  },
+  {
+    "id": 432639,
+    "datetime": "2023-07-04 18:12:50 +02:00",
+    "name": "04 juli 18:11, Trafikolycka, Trosa",
+    "summary": "Larm om olycka på E4 utanför Vagnhärad.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1811-trafikolycka-trosa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trosa",
+      "gps": "58.902655,17.549464"
+    }
+  },
+  {
+    "id": 432638,
+    "datetime": "2023-07-04 17:59:18 +02:00",
+    "name": "04 juli 14:08, Olaga intrång, Lekeberg",
+    "summary": "Flera personer gör sig misstänkta för olaga intrång och skadegörelse i Lekebergs kommun.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1408-olaga-intrang-lekeberg/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Lekeberg",
+      "gps": "59.16539,14.743407"
+    }
+  },
+  {
+    "id": 432632,
+    "datetime": "2023-07-04 17:57:56 +02:00",
+    "name": "04 juli 15:59, Trafikolycka, personskada, Götene",
+    "summary": "I Källby har två 14-åriga flickor blivit påkörda av en bilist.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1559-trafikolycka-personskada-gotene/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Götene",
+      "gps": "58.528002,13.491428"
+    }
+  },
+  {
+    "id": 432637,
+    "datetime": "2023-07-04 17:48:34 +02:00",
+    "name": "04 juli 17:47, Brand, Ödeshög",
+    "summary": "Inga brottsmisstankar eller personskador i samband med att lada brann.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1747-brand-odeshog/",
+    "type": "Brand",
+    "location": {
+      "name": "Ödeshög",
+      "gps": "58.228996,14.64882"
+    }
+  },
+  {
+    "id": 432636,
+    "datetime": "2023-07-04 17:45:30 +02:00",
+    "name": "04 juli 16:42, Narkotikabrott, Järfälla",
+    "summary": "En person i Kallhäll påträffas misstänkt för narkotikainnehav. En anmälan upprättas på ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1642-narkotikabrott-jarfalla/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
     "id": 432635,
     "datetime": "2023-07-04 17:40:50 +02:00",
     "name": "04 juli 17:40, Trafikolycka, Värnamo",
@@ -33,30 +117,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 432630,
-    "datetime": "2023-07-04 17:14:00 +02:00",
-    "name": "04 juli 15:54, Rån övrigt, Heby",
-    "summary": "Man stal mat.",
-    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1554-ran-ovrigt-heby/",
-    "type": "Rån övrigt",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
-    }
-  },
-  {
-    "id": 432631,
-    "datetime": "2023-07-04 17:14:04 +02:00",
-    "name": "04 juli 17:08, Trafikolycka, Lekeberg",
-    "summary": "Polisen är på väg till en trafikolycka i Lekeberg.",
-    "url": "/aktuellt/handelser/2023/juli/4/04-juli-1708-trafikolycka-lekeberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lekeberg",
-      "gps": "59.16539,14.743407"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 431833,
-    "datetime": "2023-06-26 19:14:03 +02:00",
-    "name": "26 juni 17:44, Trafikolycka, personskada, Örebro län",
-    "summary": "En person i tjugofemårsåldern har förts till sjukhus efter en trafikolycka på en mindre väg öster om Örebro.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-1744-trafikolycka-personskada-orebro-lan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 431832,
-    "datetime": "2023-06-26 19:10:11 +02:00",
-    "name": "26 juni 16:24, Trafikolycka, Hedemora",
-    "summary": "En bilförare i sextiofemårsåldern har tilldelats ordnigsbot för att ej ha iakttagit stopplikt.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-1624-trafikolycka-hedemora/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hedemora",
-      "gps": "60.277545,15.985892"
-    }
-  },
-  {
-    "id": 431785,
-    "datetime": "2023-06-26 13:38:42 +02:00",
-    "name": "26 juni 13:27, Trafikolycka, Grums",
-    "summary": "En trafikolycka har inträffat på E45 utanför Grums.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-1327-trafikolycka-grums/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
-    }
-  },
-  {
-    "id": 431828,
-    "datetime": "2023-06-26 18:23:28 +02:00",
-    "name": "26 juni 16:26, Trafikolycka, personskada, Uppsala",
-    "summary": "Trafikolycka på länsväg 282 i Uppsala.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-1626-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 431827,
-    "datetime": "2023-06-26 18:05:22 +02:00",
-    "name": "26 juni 16:19, Skadegörelse, Stockholm",
-    "summary": "En man i 30 årsåldern gripen för skadegörelse",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-1619-skadegorelse-stockholm/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
