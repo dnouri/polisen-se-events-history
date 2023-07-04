@@ -1,5 +1,65 @@
 [
   {
+    "id": 432502,
+    "datetime": "2023-07-04 7:49:04 +02:00",
+    "name": "04 juli 07:15, Trafikolycka, singel, Luleå",
+    "summary": "E4 Notviken, en bilist har kört in i mitträcke",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-0715-trafikolycka-singel-lulea/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 432503,
+    "datetime": "2023-07-04 8:17:59 +02:00",
+    "name": "04 juli 07:52, Trafikkontroll, Umeå",
+    "summary": "Degernäs, resultat efter nykterhetskontroll vid Norra Obbolavägen",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-0752-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 432498,
+    "datetime": "2023-07-04 7:48:46 +02:00",
+    "name": "04 juli 07:47, Sammanfattning natt, Södermanlands län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-0747-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 432499,
+    "datetime": "2023-07-04 7:47:56 +02:00",
+    "name": "04 juli 07:47, Sammanfattning natt, Östergötlands län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-0747-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 432501,
+    "datetime": "2023-07-04 7:47:30 +02:00",
+    "name": "04 juli 07:47, Sammanfattning natt, Jönköpings län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/juli/4/04-juli-0747-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 432496,
     "datetime": "2023-07-04 7:43:12 +02:00",
     "name": "04 juli 07:30, Sammanfattning natt, Jämtlands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 431753,
-    "datetime": "2023-06-26 10:37:32 +02:00",
-    "name": "26 juni 10:23, Trafikolycka, Sundsvall",
-    "summary": "Sundsvall, trafikolycka på E14 i höjd med Blåberget.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-1023-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 431755,
-    "datetime": "2023-06-26 10:54:02 +02:00",
-    "name": "26 juni 09:21, Arbetsplatsolycka, Umeå",
-    "summary": "Anumark, olycka under arbete.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-0921-arbetsplatsolycka-umea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 431752,
-    "datetime": "2023-06-26 10:32:27 +02:00",
-    "name": "26 juni 10:32, Stöld, försök, Umeå",
-    "summary": "Försök till stöld i Lilltuvan.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-1032-stold-forsok-umea/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 431739,
-    "datetime": "2023-06-26 8:14:26 +02:00",
-    "name": "26 juni 08:13, Trafikolycka, Motala",
-    "summary": "Olycka på länsväg 211 mellan Borensberg och Tjällmo.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-0813-trafikolycka-motala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Motala",
-      "gps": "58.538034,15.047094"
-    }
-  },
-  {
-    "id": 431741,
-    "datetime": "2023-06-26 8:59:32 +02:00",
-    "name": "26 juni 07:40, Trafikolycka, singel, Säffle",
-    "summary": "En trafikolycka inträffade under morgonen i Säffle på länsväg 175.",
-    "url": "/aktuellt/handelser/2023/juni/26/26-juni-0740-trafikolycka-singel-saffle/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
     }
   }
 ]
