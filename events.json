@@ -1,5 +1,41 @@
 [
   {
+    "id": 432803,
+    "datetime": "2023-07-06 7:39:31 +02:00",
+    "name": "06 juli 00:26, Brand, Västerås",
+    "summary": "Bilbrand på Malmaberg.",
+    "url": "/aktuellt/handelser/2023/juli/6/06-juli-0026-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 432782,
+    "datetime": "2023-07-05 23:56:48 +02:00",
+    "name": "05 juli 23:44, Brand, Malmö",
+    "summary": "Holma. Brand i flera fordon.",
+    "url": "/aktuellt/handelser/2023/juli/5/05-juli-2344-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 432801,
+    "datetime": "2023-07-06 7:37:15 +02:00",
+    "name": "05 juli 22:44, Misshandel, grov, Västerås",
+    "summary": "Man i 20-årsåldern inkommer skadad till akuten.",
+    "url": "/aktuellt/handelser/2023/juli/5/05-juli-2244-misshandel-grov-vasteras/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 432798,
     "datetime": "2023-07-06 7:23:23 +02:00",
     "name": "05 juli 21:42, Åldringsbrott, Gävle",
@@ -141,18 +177,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 432782,
-    "datetime": "2023-07-05 23:56:48 +02:00",
-    "name": "05 juli 23:44, Brand, Malmö",
-    "summary": "Holma. Brand i flera fordon.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-2344-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 431971,
-    "datetime": "2023-06-28 7:09:34 +02:00",
-    "name": "28 juni 07:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 431974,
-    "datetime": "2023-06-28 7:08:55 +02:00",
-    "name": "28 juni 02:55, Brand, Malmö",
-    "summary": "Brand i fordon på Lektorsvägen.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-0255-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
