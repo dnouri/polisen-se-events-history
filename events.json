@@ -1,5 +1,53 @@
 [
   {
+    "id": 433101,
+    "datetime": "2023-07-07 21:30:13 +02:00",
+    "name": "07 juli 21:30, Brand, Eskilstuna",
+    "summary": "SOS-larm om mopedbrand på Kråketorpsvägen.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-2130-brand-eskilstuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 433102,
+    "datetime": "2023-07-07 21:40:03 +02:00",
+    "name": "07 juli 21:00, Misshandel, Göteborg",
+    "summary": "Man misshandlad",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-2100-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 433075,
+    "datetime": "2023-07-07 19:24:08 +02:00",
+    "name": "07 juli 19:17, Brand, Burlöv",
+    "summary": "Brand i villa på Madbäcksgatan.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1917-brand-burlov/",
+    "type": "Brand",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 433100,
+    "datetime": "2023-07-07 21:20:52 +02:00",
+    "name": "07 juli 20:00, Narkotikabrott, Haninge",
+    "summary": "Allmänhet ringer in om personer utomhus som misstänks sälja narkotika i Jordbro.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-2000-narkotikabrott-haninge/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
     "id": 433091,
     "datetime": "2023-07-07 20:34:57 +02:00",
     "name": "07 juli 15:04, Stöld, Säter",
@@ -45,18 +93,6 @@
     "location": {
       "name": "Mark",
       "gps": "57.425318,12.569522"
-    }
-  },
-  {
-    "id": 433075,
-    "datetime": "2023-07-07 19:24:08 +02:00",
-    "name": "07 juli 19:17, Brand, Burlöv",
-    "summary": "Brand i villa på Madbäcksgatan.",
-    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1917-brand-burlov/",
-    "type": "Brand",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 432139,
-    "datetime": "2023-06-29 12:34:40 +02:00",
-    "name": "29 juni 12:34, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1234-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 432136,
-    "datetime": "2023-06-29 11:11:13 +02:00",
-    "name": "29 juni 11:10, Misshandel, Värnamo",
-    "summary": "Kvinna gripen för misshandel.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1110-misshandel-varnamo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 432128,
-    "datetime": "2023-06-29 10:00:09 +02:00",
-    "name": "29 juni 09:32, Trafikolycka, Kungälv",
-    "summary": "En personbil har kört in i mitträcket på E6 i höjd med Kode.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0932-trafikolycka-kungalv/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
     }
   }
 ]
