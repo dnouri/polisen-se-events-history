@@ -1,5 +1,101 @@
 [
   {
+    "id": 432964,
+    "datetime": "2023-07-07 11:13:31 +02:00",
+    "name": "07 juli 10:00, Trafikolycka, Håbo",
+    "summary": "Man till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1000-trafikolycka-habo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
+    "id": 432959,
+    "datetime": "2023-07-07 11:09:56 +02:00",
+    "name": "07 juli 09:09, Rattfylleri, Örebro",
+    "summary": "På riksväg 50 stoppas en förare som blir misstänkt för drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-0909-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 432957,
+    "datetime": "2023-07-07 11:07:41 +02:00",
+    "name": "07 juli 06:37, Rattfylleri, Lindesberg",
+    "summary": "På riksväg 50 stoppas ett fordon för kontroll och föraren blir misstänkt för drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-0637-rattfylleri-lindesberg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 432948,
+    "datetime": "2023-07-07 10:49:55 +02:00",
+    "name": "07 juli 10:33, Trafikolycka, Södertälje",
+    "summary": "Trafikolycka på E4 vid trafikplats Järna",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1033-trafikolycka-sodertalje/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 432955,
+    "datetime": "2023-07-07 11:02:43 +02:00",
+    "name": "07 juli 10:29, Trafikolycka, Emmaboda",
+    "summary": "En trafikolycka med två personbilar inträffar på Granitvägen/Södergatan.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1029-trafikolycka-emmaboda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Emmaboda",
+      "gps": "56.630686,15.540006"
+    }
+  },
+  {
+    "id": 432914,
+    "datetime": "2023-07-07 8:34:14 +02:00",
+    "name": "07 juli 07:45, Trafikolycka, Forshaga",
+    "summary": "En trafikolycka har inträffat på Älvdalsvägen i Forshaga.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-0745-trafikolycka-forshaga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Forshaga",
+      "gps": "59.529761,13.486084"
+    }
+  },
+  {
+    "id": 432954,
+    "datetime": "2023-07-07 11:00:36 +02:00",
+    "name": "07 juli 10:54, Övrigt, Stockholm",
+    "summary": "Norrbron i centrala Stockolm kommer att stängas av för fordonstrafik vid lunchtid.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1054-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 432949,
+    "datetime": "2023-07-07 10:51:28 +02:00",
+    "name": "07 juli 10:50, Arbetsplatsolycka, Nässjö",
+    "summary": "Man skadade sig i samband med arbetsutövning.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1050-arbetsplatsolycka-nassjo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
     "id": 432890,
     "datetime": "2023-07-07 0:43:48 +02:00",
     "name": "07 juli 23:39, Skottlossning, Osby",
@@ -57,18 +153,6 @@
     "location": {
       "name": "Varberg",
       "gps": "57.107118,12.252091"
-    }
-  },
-  {
-    "id": 432914,
-    "datetime": "2023-07-07 8:34:14 +02:00",
-    "name": "07 juli 07:45, Trafikolycka, Forshaga",
-    "summary": "En trafikolycka har inträffat på Älvdalsvägen i Forshaga.",
-    "url": "/aktuellt/handelser/2023/juli/7/07-juli-0745-trafikolycka-forshaga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Forshaga",
-      "gps": "59.529761,13.486084"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 432096,
-    "datetime": "2023-06-28 21:35:11 +02:00",
-    "name": "28 juni 21:35, Övrigt, Östergötlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-2135-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 432097,
-    "datetime": "2023-06-28 21:35:06 +02:00",
-    "name": "28 juni 21:35, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-2135-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 432090,
-    "datetime": "2023-06-28 21:17:05 +02:00",
-    "name": "28 juni 19:34, Misshandel, Göteborg",
-    "summary": "Vid Lilla Bommen har en man i 30-årsåldern blivit misshandlad.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1934-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 432094,
-    "datetime": "2023-06-28 21:09:39 +02:00",
-    "name": "28 juni 20:19, Övrigt, Västerås",
-    "summary": "Polis larmas till Bäckby i Västerås.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-2019-ovrigt-vasteras/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 432089,
-    "datetime": "2023-06-28 20:40:01 +02:00",
-    "name": "28 juni 20:23, Trafikolycka, Kumla",
-    "summary": "Polisen är på plats vid en trafikolycka på E20 vid trafikplats Ekeby.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-2023-trafikolycka-kumla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 432093,
-    "datetime": "2023-06-28 20:48:58 +02:00",
-    "name": "28 juni 18:13, Rattfylleri, Borlänge",
-    "summary": "En man i 40-årsåldern stoppas och blir misstänkt för drograttfylleri.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1813-rattfylleri-borlange/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 432088,
-    "datetime": "2023-06-28 20:36:39 +02:00",
-    "name": "28 juni 19:43, Brand, Ronneby",
-    "summary": "Brand i villa, Kallinge.",
-    "url": "/aktuellt/handelser/2023/juni/28/28-juni-1943-brand-ronneby/",
-    "type": "Brand",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
     }
   }
 ]
