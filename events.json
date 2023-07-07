@@ -1,5 +1,77 @@
 [
   {
+    "id": 433052,
+    "datetime": "2023-07-07 16:39:15 +02:00",
+    "name": "07 juli 16:18, Brand, Karlstad",
+    "summary": "Det brinner i en byggnad i Molkom",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1618-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 433074,
+    "datetime": "2023-07-07 19:18:08 +02:00",
+    "name": "07 juli 17:46, Misshandel, Mölndal",
+    "summary": "Man gripen för misshandel mm.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1746-misshandel-molndal/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 433073,
+    "datetime": "2023-07-07 19:17:24 +02:00",
+    "name": "07 juli 19:16, Trafikbrott, Åtvidaberg",
+    "summary": "Bilist misstänks för flera brott.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1916-trafikbrott-atvidaberg/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Åtvidaberg",
+      "gps": "58.20079,15.997699"
+    }
+  },
+  {
+    "id": 432994,
+    "datetime": "2023-07-07 14:51:20 +02:00",
+    "name": "07 juli 13:28, Brand, Värmdö",
+    "summary": "Polisen bistår räddningstjänsten vid en brand på Sandhamn.",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1328-brand-varmdo/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 433072,
+    "datetime": "2023-07-07 19:01:07 +02:00",
+    "name": "07 juli 18:46, Misshandel, Göteborg",
+    "summary": "Flera personer i slagsmål i Kungsparken",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1846-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 433071,
+    "datetime": "2023-07-07 18:56:20 +02:00",
+    "name": "07 juli 17:16, Vapenlagen, Göteborg",
+    "summary": "Man med vapenliknande föremål",
+    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1716-vapenlagen-goteborg/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 433067,
     "datetime": "2023-07-07 17:43:56 +02:00",
     "name": "07 juli 17:05, Trafikolycka, Kristianstad",
@@ -24,18 +96,6 @@
     }
   },
   {
-    "id": 433052,
-    "datetime": "2023-07-07 16:39:15 +02:00",
-    "name": "07 juli 16:18, Brand, Karlstad",
-    "summary": "Det brinner i en byggnad i Molkom",
-    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1618-brand-karlstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
     "id": 433043,
     "datetime": "2023-07-07 15:53:52 +02:00",
     "name": "07 juli 15:43, Trafikolycka, Malmö",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 432994,
-    "datetime": "2023-07-07 14:51:20 +02:00",
-    "name": "07 juli 13:28, Brand, Värmdö",
-    "summary": "Polisen bistår räddningstjänsten vid en brand på Sandhamn.",
-    "url": "/aktuellt/handelser/2023/juli/7/07-juli-1328-brand-varmdo/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 432122,
-    "datetime": "2023-06-29 8:10:39 +02:00",
-    "name": "29 juni 08:10, Trafikolycka, Linköping",
-    "summary": "Bilist voltade på länsväg 699 utanför Brokind.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0810-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 432113,
-    "datetime": "2023-06-29 8:03:11 +02:00",
-    "name": "29 juni 08:02, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0802-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 432118,
-    "datetime": "2023-06-29 8:02:41 +02:00",
-    "name": "29 juni 08:02, Sammanfattning natt, Östergötlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0802-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 432121,
-    "datetime": "2023-06-29 8:02:24 +02:00",
-    "name": "29 juni 08:02, Sammanfattning natt, Jönköpings län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-0802-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
