@@ -1,5 +1,53 @@
 [
   {
+    "id": 433115,
+    "datetime": "2023-07-08 7:04:52 +02:00",
+    "name": "08 juli 04:30, Brand, Lund",
+    "summary": "Brand i garage samt soprum",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0430-brand-lund/",
+    "type": "Brand",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 433119,
+    "datetime": "2023-07-08 7:32:18 +02:00",
+    "name": "08 juli 07:00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Nedan följer en sammanfattning av nattens händelser",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0700-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 433118,
+    "datetime": "2023-07-08 7:31:59 +02:00",
+    "name": "08 juli 03:29, Rattfylleri, Upplands väsby",
+    "summary": "En förare av en lastbil som kontrolleras på E4 misstänks för drograttfylleri och tas med för provtagning.",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0329-rattfylleri-upplands-vasby/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
+    "id": 433117,
+    "datetime": "2023-07-08 7:24:36 +02:00",
+    "name": "08 juli 06:19, Misshandel, Stockholm",
+    "summary": "En man har blivit misshandlad av flera män i centrala Stockholm.",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0619-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 433116,
     "datetime": "2023-07-08 7:15:31 +02:00",
     "name": "08 juli 07:00, Sammanfattning natt, Hallands län",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 433115,
-    "datetime": "2023-07-08 7:04:52 +02:00",
-    "name": "08 juli 04:30, Brand, Lund",
-    "summary": "Brand i garage samt soprum",
-    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0430-brand-lund/",
-    "type": "Brand",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 432170,
-    "datetime": "2023-06-29 17:03:33 +02:00",
-    "name": "29 juni 15:39, Brand, Köping",
-    "summary": "Polis larmas till brand i Köping.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1539-brand-koping/",
-    "type": "Brand",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 432169,
-    "datetime": "2023-06-29 17:01:08 +02:00",
-    "name": "29 juni 15:21, Brand, Gävle",
-    "summary": "Polis larmas till brand i centrala Gävle.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1521-brand-gavle/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 432168,
-    "datetime": "2023-06-29 16:49:36 +02:00",
-    "name": "29 juni 15:35, Fylleri/LOB, Huddinge",
-    "summary": "En man i Sjödalen blev frihetsberövad enligt lagen om omhändertagande av berusade personer.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1535-fyllerilob-huddinge/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
     }
   }
 ]
