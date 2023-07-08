@@ -1,5 +1,53 @@
 [
   {
+    "id": 433124,
+    "datetime": "2023-07-08 9:04:04 +02:00",
+    "name": "08 juli 07:35, Trafikolycka, Ronneby",
+    "summary": "Personbil i dike",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0735-trafikolycka-ronneby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 433123,
+    "datetime": "2023-07-08 8:51:23 +02:00",
+    "name": "08 juli 08:30, Sammanfattning natt, Västerbottens län",
+    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0830-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 433114,
+    "datetime": "2023-07-08 7:00:27 +02:00",
+    "name": "08 juli 00:04, Rattfylleri, Karlskrona",
+    "summary": "Rattfylleri, Österleden",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0004-rattfylleri-karlskrona/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 433122,
+    "datetime": "2023-07-08 8:45:08 +02:00",
+    "name": "08 juli 08:45, Trafikkontroll, Stockholm",
+    "summary": "Ett antal trafikkontroller har skett under morgonen - bland annat i Östberga och Solberga i södra Stockholm.",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0845-trafikkontroll-stockholm/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 433121,
     "datetime": "2023-07-08 8:14:23 +02:00",
     "name": "08 juli 07:45, Räddningsinsats, Härjedalen",
@@ -93,18 +141,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 433114,
-    "datetime": "2023-07-08 7:00:27 +02:00",
-    "name": "08 juli 00:04, Rattfylleri, Karlskrona",
-    "summary": "Rattfylleri, Österleden",
-    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0004-rattfylleri-karlskrona/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Håbo",
       "gps": "59.627071,17.452298"
-    }
-  },
-  {
-    "id": 432176,
-    "datetime": "2023-06-29 18:57:06 +02:00",
-    "name": "29 juni 17:36, Misshandel, Stockholm",
-    "summary": "En kvinna i Alvik slog en taxichaufför. Kvinnan greps misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1736-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 432175,
-    "datetime": "2023-06-29 18:14:30 +02:00",
-    "name": "29 juni 16:16, Trafikolycka, Rättvik",
-    "summary": "Efter en trafikolycka blir en man i 75-årsåldern anmäld för att inte ha anpassat avståndet till fordonet framf",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1616-trafikolycka-rattvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Rättvik",
-      "gps": "60.889025,15.123373"
-    }
-  },
-  {
-    "id": 432174,
-    "datetime": "2023-06-29 18:04:59 +02:00",
-    "name": "29 juni 16:53, Trafikolycka, personskada, Trollhättan",
-    "summary": "På Lärketorpsvägen har en buss och en personbil kolliderat.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1653-trafikolycka-personskada-trollhattan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
     }
   }
 ]
