@@ -1,5 +1,65 @@
 [
   {
+    "id": 433131,
+    "datetime": "2023-07-08 10:18:48 +02:00",
+    "name": "08 juli 06:58, Räddningsinsats, Piteå",
+    "summary": "Piteå, en person saknas efter vattenskotertur",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0658-raddningsinsats-pitea/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 433130,
+    "datetime": "2023-07-08 10:00:37 +02:00",
+    "name": "08 juli 09:57, Kontroll person/fordon, Järfälla",
+    "summary": "Flera samtal om att en bil kör i fel riktning på E18 i höjd med Kallhäll - i norrgående riktning av motorvägen",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0957-kontroll-personfordon-jarfalla/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 433129,
+    "datetime": "2023-07-08 9:59:34 +02:00",
+    "name": "08 juli 09:03, Trafikolycka, personskada, Borås",
+    "summary": "Cyklist och bilist i krock",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0903-trafikolycka-personskada-boras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 433128,
+    "datetime": "2023-07-08 9:58:22 +02:00",
+    "name": "08 juli 09:06, Rattfylleri, Stockholm",
+    "summary": "En bilförare som kontrolleras i Abrahamsberg i västra Stockholm misstänks för rattfylleri och tas med för prov",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0906-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 433127,
+    "datetime": "2023-07-08 9:46:32 +02:00",
+    "name": "08 juli 07:54, Misshandel, Göteborg",
+    "summary": "Kvinna misshandlad av man",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0754-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 433126,
     "datetime": "2023-07-08 9:33:23 +02:00",
     "name": "08 juli 09:21, Sammanfattning natt, Jämtlands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 432162,
-    "datetime": "2023-06-29 21:39:22 +02:00",
-    "name": "29 juni 21:30, Övrigt, Södermanlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-2130-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 432188,
-    "datetime": "2023-06-29 21:03:25 +02:00",
-    "name": "29 juni 21:02, Brand, Linköping",
-    "summary": "Inga misstankar om brott gällande brand vid Kallerstads Allé.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-2102-brand-linkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 432186,
-    "datetime": "2023-06-29 19:57:00 +02:00",
-    "name": "29 juni 19:56, Trafikolycka, Värnamo",
-    "summary": "Larm om olycka på riksväg 27.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1956-trafikolycka-varnamo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 432185,
-    "datetime": "2023-06-29 19:39:22 +02:00",
-    "name": "29 juni 19:38, Arbetsplatsolycka, Norrköping",
-    "summary": "Man skadade sig i samband med måleriarbete - Borg.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1938-arbetsplatsolycka-norrkoping/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 432184,
-    "datetime": "2023-06-29 19:23:19 +02:00",
-    "name": "29 juni 17:53, Trafikolycka, Västerås",
-    "summary": "Trafikolycka på E18 i Västerås.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1753-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
