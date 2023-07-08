@@ -1,5 +1,17 @@
 [
   {
+    "id": 433116,
+    "datetime": "2023-07-08 7:15:31 +02:00",
+    "name": "08 juli 07:00, Sammanfattning natt, Hallands län",
+    "summary": "Nedan följer en sammanfattning av nattens händelser",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0700-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
     "id": 433110,
     "datetime": "2023-07-08 1:25:53 +02:00",
     "name": "07 juli 23:30, Mord/dråp, försök, Stockholm",
@@ -9,6 +21,54 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 433115,
+    "datetime": "2023-07-08 7:04:52 +02:00",
+    "name": "08 juli 04:30, Brand, Lund",
+    "summary": "Brand i garage samt soprum",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0430-brand-lund/",
+    "type": "Brand",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 433114,
+    "datetime": "2023-07-08 7:00:27 +02:00",
+    "name": "08 juli 00:04, Rattfylleri, Karlskrona",
+    "summary": "Rattfylleri, Österleden",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0004-rattfylleri-karlskrona/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 433113,
+    "datetime": "2023-07-08 6:57:10 +02:00",
+    "name": "08 juli 05:35, Brand, Helsingborg",
+    "summary": "Mopedbrand",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0535-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 433112,
+    "datetime": "2023-07-08 6:48:04 +02:00",
+    "name": "08 juli 00:21, Inbrott, Malmö",
+    "summary": "Inbrott på förskola",
+    "url": "/aktuellt/handelser/2023/juli/8/08-juli-0021-inbrott-malmo/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 432167,
-    "datetime": "2023-06-29 16:47:24 +02:00",
-    "name": "29 juni 16:46, Trafikolycka, Eskilstuna",
-    "summary": "Två bilar i olycka på Strängnäsvägen.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1646-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 432145,
-    "datetime": "2023-06-29 13:31:07 +02:00",
-    "name": "29 juni 13:30, Försvunnen person, Västervik",
-    "summary": "Polisen söker efter försvunnen man.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1330-forsvunnen-person-vastervik/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 432161,
-    "datetime": "2023-06-29 15:48:43 +02:00",
-    "name": "29 juni 15:48, Räddningsinsats, Tranås",
-    "summary": "Person avled efter kollision med tåg - inga misstankar om brott.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1548-raddningsinsats-tranas/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Tranås",
-      "gps": "58.035518,14.975696"
-    }
-  },
-  {
-    "id": 432160,
-    "datetime": "2023-06-29 15:31:23 +02:00",
-    "name": "29 juni 14:10, Trafikbrott, Botkyrka",
-    "summary": "En bilist i Fittja kontrollerades, vilket resulterade i en anmälan om grov olovlig körning samt brott mot kniv",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1410-trafikbrott-botkyrka/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 432159,
-    "datetime": "2023-06-29 15:03:38 +02:00",
-    "name": "29 juni 13:01, Brand, Västmanlands län",
-    "summary": "Bil började brinna på E18 mellan Köping och Hallstahammar.",
-    "url": "/aktuellt/handelser/2023/juni/29/29-juni-1301-brand-vastmanlands-lan/",
-    "type": "Brand",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
     }
   }
 ]
