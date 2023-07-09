@@ -1,5 +1,65 @@
 [
   {
+    "id": 433181,
+    "datetime": "2023-07-09 13:17:06 +02:00",
+    "name": "09 juli 12:43, Trafikolycka, personskada, Stockholm",
+    "summary": "En olycka har skett mellan en bilförare och en cyklist på Östermalm.",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-1243-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 433177,
+    "datetime": "2023-07-09 12:56:13 +02:00",
+    "name": "09 juli 12:00, Räddningsinsats, Örnsköldsvik",
+    "summary": "Örnsköldsvik, larm om lågt flygande plan som eventuellt kraschat",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-1200-raddningsinsats-ornskoldsvik/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 433180,
+    "datetime": "2023-07-09 13:01:27 +02:00",
+    "name": "09 juli 12:00, Trafikkontroll, Sundsvall",
+    "summary": "E4 Fläsian, resultat efter hastighetskontroll",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-1200-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 433179,
+    "datetime": "2023-07-09 12:59:50 +02:00",
+    "name": "09 juli 10:23, Trafikkontroll, Härnösand",
+    "summary": "E4 Saltvik, resultat efter nykterhetskontroll",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-1023-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 433178,
+    "datetime": "2023-07-09 12:56:22 +02:00",
+    "name": "09 juli 12:30, Trafikolycka, Ulricehamn",
+    "summary": "Husvagn voltat över personbil",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-1230-trafikolycka-ulricehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ulricehamn",
+      "gps": "57.794789,13.420516"
+    }
+  },
+  {
     "id": 433173,
     "datetime": "2023-07-09 10:22:41 +02:00",
     "name": "09 juli 09:43, Trafikolycka, Falkenberg",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Lycksele",
       "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 432249,
-    "datetime": "2023-06-30 13:46:52 +02:00",
-    "name": "30 juni 13:30, Övrigt, Gotlands län",
-    "summary": "Två personer är anmälda för överträdelse av föreskrifter om restriktionsområde efter att ha flugit med drönare",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1330-ovrigt-gotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 432248,
-    "datetime": "2023-06-30 13:41:50 +02:00",
-    "name": "30 juni 11:59, Trafikolycka, Nordmaling",
-    "summary": "Storgatan, larm om påkörd person",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1159-trafikolycka-nordmaling/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nordmaling",
-      "gps": "63.567106,19.505022"
-    }
-  },
-  {
-    "id": 432241,
-    "datetime": "2023-06-30 13:29:06 +02:00",
-    "name": "30 juni 12:30, Trafikkontroll, Luleå",
-    "summary": "Luleå, resultat efter trafikkontroller",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1230-trafikkontroll-lulea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 432223,
-    "datetime": "2023-06-30 10:54:22 +02:00",
-    "name": "30 juni 10:50, Försvunnen person, Malmö",
-    "summary": "Försvunnen man, Norrbäcksgatan.",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1050-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 432232,
-    "datetime": "2023-06-30 12:31:12 +02:00",
-    "name": "30 juni 12:22, Trafikkontroll, Åre",
-    "summary": "E14 Björnänge, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1222-trafikkontroll-are/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
     }
   }
 ]
