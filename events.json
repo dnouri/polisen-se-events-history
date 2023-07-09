@@ -1,5 +1,77 @@
 [
   {
+    "id": 433174,
+    "datetime": "2023-07-09 10:23:04 +02:00",
+    "name": "09 juli 10:19, Trafikkontroll, Umeå",
+    "summary": "Umeå, trafikkontroller under morgon och tidig förmiddag",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-1019-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 433173,
+    "datetime": "2023-07-09 10:22:41 +02:00",
+    "name": "09 juli 09:43, Trafikolycka, Falkenberg",
+    "summary": "Älg och motorcylist i kollision",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0943-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 433172,
+    "datetime": "2023-07-09 10:20:24 +02:00",
+    "name": "09 juli 09:15, Inbrott, Helsingborg",
+    "summary": "Inbrott på företag",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0915-inbrott-helsingborg/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 433171,
+    "datetime": "2023-07-09 10:19:51 +02:00",
+    "name": "09 juli 10:04, Fylleri/LOB, Skellefteå",
+    "summary": "Sjungande dalen, berusad man omhändertagen",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-1004-fyllerilob-skelleftea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 433169,
+    "datetime": "2023-07-09 10:06:29 +02:00",
+    "name": "09 juli 08:12, Misshandel, Västra Götalands län",
+    "summary": "Misshandel, relation",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0812-misshandel-vastra-gotalands-lan/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 433170,
+    "datetime": "2023-07-09 10:03:37 +02:00",
+    "name": "09 juli 09:23, Brand, Sigtuna",
+    "summary": "Det har brunnit i ett förråd i Märsta. Branden är släckt.",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0923-brand-sigtuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
     "id": 433154,
     "datetime": "2023-07-09 7:06:36 +02:00",
     "name": "09 juli 21:40, Försvunnen person, Borgholm",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Robertsfors",
       "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 432230,
-    "datetime": "2023-06-30 12:14:20 +02:00",
-    "name": "30 juni 12:14, Räddningsinsats, Norrköping",
-    "summary": "Larm om drunkning utanför Norrköping.",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1214-raddningsinsats-norrkoping/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 432224,
-    "datetime": "2023-06-30 11:06:41 +02:00",
-    "name": "30 juni 10:15, Trafikbrott, Dalarnas län",
-    "summary": "Polisen har efter ett längre förföljande stoppat ett fordon i Rättviks kommun",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1015-trafikbrott-dalarnas-lan/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 432228,
-    "datetime": "2023-06-30 11:21:38 +02:00",
-    "name": "30 juni 10:27, Rattfylleri, Lidköping",
-    "summary": "Misstänkt rattfylleri.",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1027-rattfylleri-lidkoping/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Lidköping",
-      "gps": "58.503505,13.157077"
-    }
-  },
-  {
-    "id": 432227,
-    "datetime": "2023-06-30 11:14:56 +02:00",
-    "name": "30 juni 09:06, Motorfordon, anträffat stulet, Örnsköldsvik",
-    "summary": "Gullänget, stulen bil anträffad",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0906-motorfordon-antraffat-stulet-ornskoldsvik/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 432214,
-    "datetime": "2023-06-30 10:51:22 +02:00",
-    "name": "30 juni 10:51, Räddningsinsats, Vetlanda",
-    "summary": "Larm om drunkning utanför Vetlanda.",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-1051-raddningsinsats-vetlanda/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
-    }
-  },
-  {
-    "id": 432222,
-    "datetime": "2023-06-30 10:44:48 +02:00",
-    "name": "30 juni 09:45, Trafikkontroll, Åre",
-    "summary": "Duved, resultat efter nykterhetskontroll i trafiken",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-0945-trafikkontroll-are/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
     }
   }
 ]
