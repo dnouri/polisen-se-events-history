@@ -1,5 +1,53 @@
 [
   {
+    "id": 434250,
+    "datetime": "2023-07-10 12:38:00 +02:00",
+    "name": "10 juli 12:37, Stöld/inbrott, Aneby",
+    "summary": "Bostadsinbrott i Bälaryd.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-1237-stoldinbrott-aneby/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Aneby",
+      "gps": "57.838521,14.817802"
+    }
+  },
+  {
+    "id": 434207,
+    "datetime": "2023-07-10 1:10:07 +02:00",
+    "name": "09 juli 23:55, Mord/dråp, försök, Sundsvall",
+    "summary": "Mordförsök på två personer anträffade utomhus i Sundsvall",
+    "url": "/aktuellt/handelser/2023/juli/9/09-juli-2355-morddrap-forsok-sundsvall/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 434243,
+    "datetime": "2023-07-10 11:14:22 +02:00",
+    "name": "10 juli 09:09, Försvunnen person, Trelleborg",
+    "summary": "Den man som anmäldes försvunnen på måndagen är återfunnen.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0909-forsvunnen-person-trelleborg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 434248,
+    "datetime": "2023-07-10 12:30:33 +02:00",
+    "name": "10 juli 10:21, Trafikolycka, Söderhamn",
+    "summary": "Larm om trafikolycka på Flygvägen x Södra Tvärleden.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-1021-trafikolycka-soderhamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
     "id": 434247,
     "datetime": "2023-07-10 12:13:56 +02:00",
     "name": "10 juli 12:13, Brand, Eskilstuna",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 434243,
-    "datetime": "2023-07-10 11:14:22 +02:00",
-    "name": "10 juli 09:09, Försvunnen person, Trelleborg",
-    "summary": "Polisen söker efter en man som anmälts försvunnen i centrala Trelleborg.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0909-forsvunnen-person-trelleborg/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Trelleborg",
-      "gps": "55.376243,13.157423"
     }
   },
   {
@@ -405,18 +441,6 @@
     "location": {
       "name": "Mörbylånga",
       "gps": "56.523757,16.386916"
-    }
-  },
-  {
-    "id": 434207,
-    "datetime": "2023-07-10 1:10:07 +02:00",
-    "name": "09 juli 23:55, Mord/dråp, försök, Sundsvall",
-    "summary": "Mordförsök på två personer anträffade utomhus i Sundsvall",
-    "url": "/aktuellt/handelser/2023/juli/9/09-juli-2355-morddrap-forsok-sundsvall/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Mörbylånga",
       "gps": "56.523757,16.386916"
-    }
-  },
-  {
-    "id": 432322,
-    "datetime": "2023-07-01 13:57:02 +02:00",
-    "name": "01 juli 12:20, Misshandel, Skara",
-    "summary": "Slagsmål bröt ut utanför en restaurang i centrala Skara.",
-    "url": "/aktuellt/handelser/2023/juli/1/01-juli-1220-misshandel-skara/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skara",
-      "gps": "58.386013,13.439328"
-    }
-  },
-  {
-    "id": 432320,
-    "datetime": "2023-07-01 13:01:02 +02:00",
-    "name": "01 juli 12:48, Trafikolycka, Eslöv",
-    "summary": "Påkörd person, Malmgatan.",
-    "url": "/aktuellt/handelser/2023/juli/1/01-juli-1248-trafikolycka-eslov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
     }
   }
 ]
