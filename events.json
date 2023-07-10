@@ -1,5 +1,101 @@
 [
   {
+    "id": 434211,
+    "datetime": "2023-07-10 6:55:09 +02:00",
+    "name": "10 juli 03:10, Brand, Lund",
+    "summary": "Det brinner i en garagelänga i Gunnesbo.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0310-brand-lund/",
+    "type": "Brand",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 434227,
+    "datetime": "2023-07-10 7:43:04 +02:00",
+    "name": "10 juli 07:42, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0742-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 434220,
+    "datetime": "2023-07-10 7:38:31 +02:00",
+    "name": "10 juli 07:38, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0738-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 434217,
+    "datetime": "2023-07-10 7:37:36 +02:00",
+    "name": "10 juli 07:37, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0737-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 434228,
+    "datetime": "2023-07-10 7:36:56 +02:00",
+    "name": "10 juli 07:36, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0736-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 434225,
+    "datetime": "2023-07-10 7:28:11 +02:00",
+    "name": "10 juli 07:27, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0727-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 434224,
+    "datetime": "2023-07-10 7:27:43 +02:00",
+    "name": "10 juli 07:26, Sammanfattning natt, Dalarnas län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0726-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 434223,
+    "datetime": "2023-07-10 7:26:49 +02:00",
+    "name": "10 juli 07:26, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0726-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 434218,
     "datetime": "2023-07-10 7:10:19 +02:00",
     "name": "10 juli 01:11, Misshandel, grov, Landskrona",
@@ -81,18 +177,6 @@
     "location": {
       "name": "Mörbylånga",
       "gps": "56.523757,16.386916"
-    }
-  },
-  {
-    "id": 434211,
-    "datetime": "2023-07-10 6:55:09 +02:00",
-    "name": "10 juli 03:10, Brand, Lund",
-    "summary": "Det brinner i en garagelänga i Gunnesbo.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0310-brand-lund/",
-    "type": "Brand",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Sandviken",
       "gps": "60.621607,16.775918"
-    }
-  },
-  {
-    "id": 432306,
-    "datetime": "2023-07-01 7:24:08 +02:00",
-    "name": "30 juni 21:39, Knivlagen, Gävle",
-    "summary": "Man misstänks för brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-2139-knivlagen-gavle/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 432302,
-    "datetime": "2023-07-01 7:05:32 +02:00",
-    "name": "01 juli 06:27, Rattfylleri, Svalöv",
-    "summary": "Misstänkt rattfylleri efter singelolycka på väg 106.",
-    "url": "/aktuellt/handelser/2023/juli/1/01-juli-0627-rattfylleri-svalov/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Svalöv",
-      "gps": "55.91293,13.101817"
-    }
-  },
-  {
-    "id": 432301,
-    "datetime": "2023-07-01 7:00:18 +02:00",
-    "name": "01 juli 01:39, Skadegörelse, Lund",
-    "summary": "Bilbrand på Östanväg.",
-    "url": "/aktuellt/handelser/2023/juli/1/01-juli-0139-skadegorelse-lund/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 432300,
-    "datetime": "2023-07-01 6:58:35 +02:00",
-    "name": "01 juli 02:23, Rattfylleri, Malmö",
-    "summary": "Misstänkt drograttfylleri, Inre Ringvägen.",
-    "url": "/aktuellt/handelser/2023/juli/1/01-juli-0223-rattfylleri-malmo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 432299,
-    "datetime": "2023-07-01 6:55:06 +02:00",
-    "name": "01 juli 01:21, Misshandel, grov, Uppvidinge",
-    "summary": "Man gripen efter misshandel, Åseda.",
-    "url": "/aktuellt/handelser/2023/juli/1/01-juli-0121-misshandel-grov-uppvidinge/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Uppvidinge",
-      "gps": "57.014575,15.381174"
-    }
-  },
-  {
-    "id": 432295,
-    "datetime": "2023-06-30 23:58:46 +02:00",
-    "name": "30 juni 23:29, Skottlossning, misstänkt, Uppsala",
-    "summary": "Polisen utreder smällar i Gottsunda, Uppsala.",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-2329-skottlossning-misstankt-uppsala/",
-    "type": "Skottlossning, misstänkt",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 432294,
-    "datetime": "2023-06-30 22:08:31 +02:00",
-    "name": "30 juni 21:11, Bråk, Älmhult",
-    "summary": "Badvägen. Bråk utomhus.",
-    "url": "/aktuellt/handelser/2023/juni/30/30-juni-2111-brak-almhult/",
-    "type": "Bråk",
-    "location": {
-      "name": "Älmhult",
-      "gps": "56.552446,14.137405"
     }
   }
 ]
