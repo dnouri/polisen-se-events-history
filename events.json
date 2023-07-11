@@ -1,5 +1,53 @@
 [
   {
+    "id": 434330,
+    "datetime": "2023-07-11 8:55:54 +02:00",
+    "name": "11 juli 08:09, Trafikolycka, Boden",
+    "summary": "Singelolycka på riksväg 97 norr om Harads.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0809-trafikolycka-boden/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 434331,
+    "datetime": "2023-07-11 8:59:45 +02:00",
+    "name": "11 juli 07:01, Brand, Gävle",
+    "summary": "Brand i en bostad - Sätra.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0701-brand-gavle/",
+    "type": "Brand",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 434328,
+    "datetime": "2023-07-11 8:47:42 +02:00",
+    "name": "11 juli 08:08, Brand, Västerås",
+    "summary": "Larm om brand på en adress i området Hammarby.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0808-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 434327,
+    "datetime": "2023-07-11 8:46:29 +02:00",
+    "name": "10 juli 20:34, Anträffad död, Storuman",
+    "summary": "Tärnaby, avliden person anträffad.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-2034-antraffad-dod-storuman/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
     "id": 434326,
     "datetime": "2023-07-11 8:19:57 +02:00",
     "name": "11 juli 05:03, Skadegörelse, Kiruna",
@@ -26,9 +74,9 @@
   {
     "id": 434316,
     "datetime": "2023-07-11 8:10:33 +02:00",
-    "name": "11 juli 07:25, Brand, Håbo",
+    "name": "10 juli 22:52, Brand, Håbo",
     "summary": "Larm om mindre brand på Kalmarvägen, Väppeby.",
-    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0725-brand-habo/",
+    "url": "/aktuellt/handelser/2023/juli/11/10-juli-2252-brand-habo/",
     "type": "Brand",
     "location": {
       "name": "Håbo",
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Säter",
       "gps": "60.34665,15.7479"
-    }
-  },
-  {
-    "id": 432378,
-    "datetime": "2023-07-02 16:39:11 +02:00",
-    "name": "02 juli 16:37, Skottlossning, Osby",
-    "summary": "Centralt. Skott avlossade mot bostäder.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1637-skottlossning-osby/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
-    }
-  },
-  {
-    "id": 432377,
-    "datetime": "2023-07-02 16:14:17 +02:00",
-    "name": "02 juli 16:00, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer ikväll. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1600-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 432376,
-    "datetime": "2023-07-02 16:13:50 +02:00",
-    "name": "02 juli 16:00, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer ikväll. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1600-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 432375,
-    "datetime": "2023-07-02 16:11:15 +02:00",
-    "name": "02 juli 14:56, Trafikolycka, personskada, Haninge",
-    "summary": "Motorcykelolycka med två ungdomar",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1456-trafikolycka-personskada-haninge/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   }
 ]
