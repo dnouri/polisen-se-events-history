@@ -1,5 +1,65 @@
 [
   {
+    "id": 434350,
+    "datetime": "2023-07-11 13:16:25 +02:00",
+    "name": "11 juli 13:16, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1316-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 434357,
+    "datetime": "2023-07-11 12:17:52 +02:00",
+    "name": "11 juli 12:09, Trafikolycka, Pajala",
+    "summary": "Trafikolycka på riksväg 395 i höjd med Erkheikki.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1209-trafikolycka-pajala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 434363,
+    "datetime": "2023-07-11 12:57:48 +02:00",
+    "name": "11 juli 12:35, Arbetsplatsolycka, Burlöv",
+    "summary": "Larm om misstänkt arbetsmiljöbrott",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1235-arbetsplatsolycka-burlov/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 434362,
+    "datetime": "2023-07-11 12:46:54 +02:00",
+    "name": "11 juli 12:24, Brand, Alvesta",
+    "summary": "Larm om brand i skolbyggnad, Stomvägen",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1224-brand-alvesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Alvesta",
+      "gps": "56.89921,14.556001"
+    }
+  },
+  {
+    "id": 434361,
+    "datetime": "2023-07-11 12:45:19 +02:00",
+    "name": "11 juli 12:44, Arbetsplatsolycka, Strängnäs",
+    "summary": "Kvinna skadade knät i samband med arbetsutövning.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1244-arbetsplatsolycka-strangnas/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
     "id": 434360,
     "datetime": "2023-07-11 12:42:08 +02:00",
     "name": "11 juli 11:10, Arbetsplatsolycka, Håbo",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 434357,
-    "datetime": "2023-07-11 12:17:52 +02:00",
-    "name": "11 juli 12:09, Trafikolycka, Pajala",
-    "summary": "Trafikolycka på riksväg 395 i höjd med Erkheikki.",
-    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1209-trafikolycka-pajala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Pajala",
-      "gps": "67.212782,23.367392"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Bjurholm",
       "gps": "63.930406,19.219213"
-    }
-  },
-  {
-    "id": 432405,
-    "datetime": "2023-07-03 8:20:53 +02:00",
-    "name": "03 juli 06:38, Försvunnen person, Luleå",
-    "summary": "Notviken, kvinna saknas från sitt hem",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0638-forsvunnen-person-lulea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 432410,
-    "datetime": "2023-07-03 9:50:07 +02:00",
-    "name": "03 juli 09:16, Fylleri/LOB, Östersund",
-    "summary": "Torvalla, berusad man påträffad",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0916-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 432399,
-    "datetime": "2023-07-03 7:44:59 +02:00",
-    "name": "03 juli 07:44, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0744-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 432402,
-    "datetime": "2023-07-03 7:44:36 +02:00",
-    "name": "03 juli 07:44, Sammanfattning natt, Östergötlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-0744-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
