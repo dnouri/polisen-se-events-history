@@ -1,5 +1,113 @@
 [
   {
+    "id": 434326,
+    "datetime": "2023-07-11 8:19:57 +02:00",
+    "name": "11 juli 05:03, Skadegörelse, Kiruna",
+    "summary": "Kiruna, misstänkt skadegörelse genom brand.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0503-skadegorelse-kiruna/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 434314,
+    "datetime": "2023-07-11 8:11:44 +02:00",
+    "name": "10 juli 23:31, Misshandel, Ockelbo",
+    "summary": "Man gripen misstänkt för misshandel.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-2331-misshandel-ockelbo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Ockelbo",
+      "gps": "60.891784,16.720187"
+    }
+  },
+  {
+    "id": 434316,
+    "datetime": "2023-07-11 8:10:33 +02:00",
+    "name": "11 juli 07:25, Brand, Håbo",
+    "summary": "Larm om mindre brand på Kalmarvägen, Väppeby.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0725-brand-habo/",
+    "type": "Brand",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
+    "id": 434321,
+    "datetime": "2023-07-11 7:57:07 +02:00",
+    "name": "11 juli 03:57, Stöld/inbrott, Arboga",
+    "summary": "Frisörsalong på Nygatan utsatt för inbrott.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0357-stoldinbrott-arboga/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Arboga",
+      "gps": "59.393688,15.838175"
+    }
+  },
+  {
+    "id": 434295,
+    "datetime": "2023-07-11 7:55:07 +02:00",
+    "name": "10 juli 15:03, Trafikolycka, personskada, Uppsala",
+    "summary": "Äldre man omkom i kollision.",
+    "url": "/aktuellt/handelser/2023/juli/10/10-juli-1503-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 434324,
+    "datetime": "2023-07-11 7:54:27 +02:00",
+    "name": "11 juli 07:54, Sammanfattning natt, Östergötlands län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0754-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 434325,
+    "datetime": "2023-07-11 7:54:22 +02:00",
+    "name": "11 juli 07:54, Sammanfattning natt, Södermanlands län",
+    "summary": "Lugn natt polisiärt i länet.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0754-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 434323,
+    "datetime": "2023-07-11 7:54:18 +02:00",
+    "name": "11 juli 07:54, Sammanfattning natt, Jönköpings län",
+    "summary": "Ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0754-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 434308,
+    "datetime": "2023-07-11 3:55:09 +02:00",
+    "name": "11 juli 00:23, Misshandel, grov, Malmö",
+    "summary": "Gånglåtsvägen, Malmö",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0023-misshandel-grov-malmo/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 434322,
     "datetime": "2023-07-11 7:36:37 +02:00",
     "name": "11 juli 04:02, Brand, Helsingborg",
@@ -141,18 +249,6 @@
     "location": {
       "name": "Oskarshamn",
       "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 434308,
-    "datetime": "2023-07-11 3:55:09 +02:00",
-    "name": "11 juli 00:23, Misshandel, grov, Malmö",
-    "summary": "Gånglåtsvägen, Malmö",
-    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0023-misshandel-grov-malmo/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 432361,
-    "datetime": "2023-07-02 11:30:14 +02:00",
-    "name": "02 juli 10:18, Mord/dråp, försök, Mariestad",
-    "summary": "En förundersökning om försök till mord har inletts efter att en man i 40-årsåldern hittats skadad i en lägenhe",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1018-morddrap-forsok-mariestad/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Mariestad",
-      "gps": "58.710112,13.821333"
-    }
-  },
-  {
-    "id": 432374,
-    "datetime": "2023-07-02 15:12:10 +02:00",
-    "name": "02 juli 14:26, Trafikolycka, personskada, Herrljunga",
-    "summary": "Två personbilar har krockat i en korsning utanför Herrljunga.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1426-trafikolycka-personskada-herrljunga/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Herrljunga",
-      "gps": "58.078029,13.018839"
-    }
-  },
-  {
-    "id": 432373,
-    "datetime": "2023-07-02 14:55:35 +02:00",
-    "name": "02 juli 14:55, Rån, Östersund",
-    "summary": "Östersund, fem misstänkta för rån.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1455-ran-ostersund/",
-    "type": "Rån",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 432369,
-    "datetime": "2023-07-02 14:02:10 +02:00",
-    "name": "02 juli 13:53, Trafikolycka, Göteborg",
-    "summary": "En personbil och spårvagn har krockat på Avenyn.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1353-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 432372,
-    "datetime": "2023-07-02 14:34:03 +02:00",
-    "name": "02 juli 14:02, Trafikolycka, vilt, Bjurholm",
-    "summary": "Viltolycka på riksväg 92 vid Braxsele.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1402-trafikolycka-vilt-bjurholm/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Bjurholm",
-      "gps": "63.930406,19.219213"
-    }
-  },
-  {
-    "id": 432371,
-    "datetime": "2023-07-02 14:31:01 +02:00",
-    "name": "02 juli 14:30, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1430-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 432370,
-    "datetime": "2023-07-02 14:22:45 +02:00",
-    "name": "02 juli 13:45, Trafikolycka, Piteå",
-    "summary": "Piteå, trafikolycka vid en korsning på Timmerleden.",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1345-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 432368,
-    "datetime": "2023-07-02 14:03:24 +02:00",
-    "name": "02 juli 13:28, Bedrägeri, Stockholm",
-    "summary": "Romansbedrägeri",
-    "url": "/aktuellt/handelser/2023/juli/2/02-juli-1328-bedrageri-stockholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
