@@ -1,5 +1,65 @@
 [
   {
+    "id": 434399,
+    "datetime": "2023-07-11 21:37:27 +02:00",
+    "name": "11 juli 19:47, Trafikolycka, Mönsterås",
+    "summary": "Personbil och lastbil i kollision",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1947-trafikolycka-monsteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mönsterås",
+      "gps": "57.04158,16.44312"
+    }
+  },
+  {
+    "id": 434398,
+    "datetime": "2023-07-11 21:34:41 +02:00",
+    "name": "11 juli 21:33, Övrigt, Jönköpings län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-2133-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 434397,
+    "datetime": "2023-07-11 21:34:00 +02:00",
+    "name": "11 juli 21:33, Övrigt, Östergötlands län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-2133-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 434396,
+    "datetime": "2023-07-11 21:33:44 +02:00",
+    "name": "11 juli 21:33, Övrigt, Södermanlands län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-2133-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 434395,
+    "datetime": "2023-07-11 21:17:40 +02:00",
+    "name": "11 juli 21:17, Misshandel, Norrköping",
+    "summary": "Tonåring misshandlad utomhus vid Klockaretorpet.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-2117-misshandel-norrkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
     "id": 434393,
     "datetime": "2023-07-11 21:13:55 +02:00",
     "name": "11 juli 20:20, Kontroll person/fordon, Stockholm",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Mora",
       "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 432471,
-    "datetime": "2023-07-03 18:49:01 +02:00",
-    "name": "03 juli 17:23, Våld/hot mot tjänsteman, Botkyrka",
-    "summary": "En ordningsvakt i Tumba ringde angående en misstänkt berusad man som slagit på rutor och uppträtt stökigt.",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-1723-valdhot-mot-tjansteman-botkyrka/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 432468,
-    "datetime": "2023-07-03 18:24:21 +02:00",
-    "name": "03 juli 18:23, Brand, Norrköping",
-    "summary": "Moped brann på Timmermansgatan.",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-1823-brand-norrkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 432467,
-    "datetime": "2023-07-03 18:19:35 +02:00",
-    "name": "03 juli 15:29, Trafikolycka, personskada, Vårgårda",
-    "summary": "Vid Trafikplat 95 Hjultorp har två bilar varit inblandade i en olycka.",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-1529-trafikolycka-personskada-vargarda/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Vårgårda",
-      "gps": "58.032304,12.808976"
-    }
-  },
-  {
-    "id": 432460,
-    "datetime": "2023-07-03 16:06:03 +02:00",
-    "name": "03 juli 15:59, Trafikolycka, Hammarö",
-    "summary": "Polis är på väg till en trafikolycka vid Gunnarskärsleden i Hammarö.",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-1559-trafikolycka-hammaro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hammarö",
-      "gps": "59.311466,13.529854"
-    }
-  },
-  {
-    "id": 432458,
-    "datetime": "2023-07-03 16:09:49 +02:00",
-    "name": "03 juli 14:15, Räddningsinsats, Borås",
-    "summary": "På Sörsjön har en äldre man fallit i vattnet från en båt.",
-    "url": "/aktuellt/handelser/2023/juli/3/03-juli-1415-raddningsinsats-boras/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
