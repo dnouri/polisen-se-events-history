@@ -1,29 +1,5 @@
 [
   {
-    "id": 434375,
-    "datetime": "2023-07-11 14:45:06 +02:00",
-    "name": "11 juli 13:03, Fylleri/LOB, Sundsvall",
-    "summary": "Sundsvall, person omhändertagen.",
-    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1303-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 434374,
-    "datetime": "2023-07-11 14:44:46 +02:00",
-    "name": "11 juli 14:00, Trafikolycka, Karlskrona",
-    "summary": "Olycka med Gokart, Kristianopel.",
-    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1400-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
     "id": 434373,
     "datetime": "2023-07-11 14:43:12 +02:00",
     "name": "11 juli 14:11, Trafikolycka, Stenungsund",
@@ -45,6 +21,30 @@
     "location": {
       "name": "Stenungsund",
       "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 434374,
+    "datetime": "2023-07-11 14:44:46 +02:00",
+    "name": "11 juli 14:00, Trafikolycka, Karlskrona",
+    "summary": "Olycka med Gokart, Kristianopel.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1400-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 434375,
+    "datetime": "2023-07-11 14:45:06 +02:00",
+    "name": "11 juli 13:03, Fylleri/LOB, Sundsvall",
+    "summary": "Sundsvall, person omhändertagen.",
+    "url": "/aktuellt/handelser/2023/juli/11/11-juli-1303-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
