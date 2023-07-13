@@ -1,5 +1,41 @@
 [
   {
+    "id": 434632,
+    "datetime": "2023-07-13 17:31:20 +02:00",
+    "name": "13 juli 17:30, Trafikolycka, Nyköping",
+    "summary": "Olycka på länsväg 800 utanför Bergshammar.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1730-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 434626,
+    "datetime": "2023-07-13 16:05:10 +02:00",
+    "name": "13 juli 15:40, Trafikolycka, Karlskoga",
+    "summary": "En ung man är misstänkt för flera brott efter en trafikolycka",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1540-trafikolycka-karlskoga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 434631,
+    "datetime": "2023-07-13 17:22:06 +02:00",
+    "name": "13 juli 17:20, Arbetsplatsolycka, Linköping",
+    "summary": "Man skadade sig i samband med arbetsutövning.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1720-arbetsplatsolycka-linkoping/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
     "id": 434630,
     "datetime": "2023-07-13 17:07:58 +02:00",
     "name": "13 juli 15:29, Rån, Olofström",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Gotlands län",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 434626,
-    "datetime": "2023-07-13 16:05:10 +02:00",
-    "name": "13 juli 15:40, Trafikolycka, Karlskoga",
-    "summary": "En trafikolycka har inträffat på länsväg 546",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1540-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 432740,
-    "datetime": "2023-07-05 15:15:26 +02:00",
-    "name": "05 juli 15:03, Brand, Hörby",
-    "summary": "En lastbilssläp brinner på väg 13 i höjd med Östraby.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-1503-brand-horby/",
-    "type": "Brand",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
-    }
-  },
-  {
-    "id": 432718,
-    "datetime": "2023-07-05 14:19:47 +02:00",
-    "name": "05 juli 14:19, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-1419-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
