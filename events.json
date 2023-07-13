@@ -2,13 +2,85 @@
   {
     "id": 434636,
     "datetime": "2023-07-13 19:39:51 +02:00",
-    "name": "13 juli 19:18, Trafikbrott, Borås",
+    "name": "13 juli 19:18, Trafikolycka, Borås",
     "summary": "Personbil körts in i stillastående bilar",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1918-trafikbrott-boras/",
-    "type": "Trafikbrott",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1918-trafikolycka-boras/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 434635,
+    "datetime": "2023-07-13 18:40:30 +02:00",
+    "name": "13 juli 18:39, Trafikolycka, Linköping",
+    "summary": "Larm om trafikolycka nära Tallboda.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1839-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 434641,
+    "datetime": "2023-07-13 20:09:13 +02:00",
+    "name": "13 juli 20:08, Trafikolycka, Nässjö",
+    "summary": "Larm om olycka på Poppelgatan/ Skogsvägen.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-2008-trafikolycka-nassjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 434638,
+    "datetime": "2023-07-13 20:06:43 +02:00",
+    "name": "13 juli 19:31, Rån, Helsingborg",
+    "summary": "Rån i Ödåkra.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1931-ran-helsingborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 434640,
+    "datetime": "2023-07-13 19:51:00 +02:00",
+    "name": "13 juli 19:47, Bedrägeri, Gnesta",
+    "summary": "Kvinna i 85-årsåldern utsatt för bedrägeri.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1947-bedrageri-gnesta/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Gnesta",
+      "gps": "59.048348,17.307228"
+    }
+  },
+  {
+    "id": 434639,
+    "datetime": "2023-07-13 19:50:56 +02:00",
+    "name": "13 juli 15:44, Misshandel, grov, Falun",
+    "summary": "En kvinna är anhållen efter våld i nära relation",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1544-misshandel-grov-falun/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 434626,
+    "datetime": "2023-07-13 16:05:10 +02:00",
+    "name": "13 juli 15:40, Trafikolycka, Karlskoga",
+    "summary": "En ung man är misstänkt för flera brott efter en trafikolycka",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1540-trafikolycka-karlskoga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -48,18 +120,6 @@
     }
   },
   {
-    "id": 434635,
-    "datetime": "2023-07-13 18:40:30 +02:00",
-    "name": "13 juli 18:39, Trafikolycka, Linköping",
-    "summary": "Larm om trafikolycka nära Tallboda.",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1839-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
     "id": 434633,
     "datetime": "2023-07-13 18:13:30 +02:00",
     "name": "13 juli 17:28, Trafikolycka, Götene",
@@ -81,18 +141,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 434626,
-    "datetime": "2023-07-13 16:05:10 +02:00",
-    "name": "13 juli 15:40, Trafikolycka, Karlskoga",
-    "summary": "En ung man är misstänkt för flera brott efter en trafikolycka",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1540-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 432772,
-    "datetime": "2023-07-05 21:08:08 +02:00",
-    "name": "05 juli 20:17, Olovlig körning, Gotlands län",
-    "summary": "En bilist i Värnhem kontrollerades. Bilen beslagtogs och en anmälan skrivs på grov olovlig körning samt narkot",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-2017-olovlig-korning-gotlands-lan/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 432768,
-    "datetime": "2023-07-05 18:56:44 +02:00",
-    "name": "05 juli 13:50, Skadegörelse, Örebro",
-    "summary": "Flera personer misstänks för olaga intrång och skadegörelse efter att ha tagit sig in på ett företags inhägnad",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-1350-skadegorelse-orebro/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 432771,
-    "datetime": "2023-07-05 20:39:13 +02:00",
-    "name": "05 juli 19:45, Försvunnen person, Uppsala",
-    "summary": "Tre flickor anträffade efter att de anmälts försvunna, Gränby Uppsala",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-1945-forsvunnen-person-uppsala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 432770,
-    "datetime": "2023-07-05 19:59:45 +02:00",
-    "name": "05 juli 19:59, Trafikolycka, Värnamo",
-    "summary": "Sidokollision på Sveavägen. Inga personskador.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-1959-trafikolycka-varnamo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
     }
   }
 ]
