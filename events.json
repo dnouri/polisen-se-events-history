@@ -1,5 +1,41 @@
 [
   {
+    "id": 434606,
+    "datetime": "2023-07-13 12:43:21 +02:00",
+    "name": "13 juli 11:14, Skadegörelse, Umeå",
+    "summary": "Centrala stan, restaurang utsatt för skadegörelse",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1114-skadegorelse-umea/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 434594,
+    "datetime": "2023-07-13 10:25:46 +02:00",
+    "name": "13 juli 09:24, Misshandel, grov, Växjö",
+    "summary": "Larm om bråk, Araby",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-0924-misshandel-grov-vaxjo/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 434482,
+    "datetime": "2023-07-12 12:55:54 +02:00",
+    "name": "12 juli 11:30, Spridning smitta/kemikalier, Umeå",
+    "summary": "Tomtebo, vätska vid äventyrslekpark ska kontrolleras",
+    "url": "/aktuellt/handelser/2023/juli/12/12-juli-1130-spridning-smittakemikalier-umea/",
+    "type": "Spridning smitta/kemikalier",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 434593,
     "datetime": "2023-07-13 10:19:31 +02:00",
     "name": "13 juli 06:03, Försvunnen person, Borås",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 434594,
-    "datetime": "2023-07-13 10:25:46 +02:00",
-    "name": "13 juli 09:24, Bråk, Växjö",
-    "summary": "Larm om bråk, Araby",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-0924-brak-vaxjo/",
-    "type": "Bråk",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -597,18 +621,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 434482,
-    "datetime": "2023-07-12 12:55:54 +02:00",
-    "name": "12 juli 11:30, Spridning smitta/kemikalier, Umeå",
-    "summary": "Tomtebo, vätska vid äventyrslekpark ska kontrolleras",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-1130-spridning-smittakemikalier-umea/",
-    "type": "Spridning smitta/kemikalier",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 432672,
-    "datetime": "2023-07-05 7:24:01 +02:00",
-    "name": "05 juli 00:44, Arbetsplatsolycka, Västerås",
-    "summary": "Man skadas i arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-0044-arbetsplatsolycka-vasteras/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
