@@ -1,5 +1,53 @@
 [
   {
+    "id": 434563,
+    "datetime": "2023-07-13 6:59:25 +02:00",
+    "name": "13 juli 06:24, Trafikolycka, Tingsryd",
+    "summary": "Lastbil och personbil i kollision, väg 27.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-0624-trafikolycka-tingsryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tingsryd",
+      "gps": "56.524745,14.978534"
+    }
+  },
+  {
+    "id": 434608,
+    "datetime": "2023-07-13 13:32:58 +02:00",
+    "name": "13 juli 12:34, Trafikolycka, Västerås",
+    "summary": "Bilist och motorcyklist i kollision på riksväg 56 utanför Dingtuna.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1234-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 434607,
+    "datetime": "2023-07-13 13:24:23 +02:00",
+    "name": "13 juli 12:25, Trafikolycka, Söderhamn",
+    "summary": "Kollision mellan två bilar på E4:an i höjd med Tönnebro.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1225-trafikolycka-soderhamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
+    "id": 434611,
+    "datetime": "2023-07-13 13:19:46 +02:00",
+    "name": "13 juli 08:40, Mord/dråp, försök, Hässleholm",
+    "summary": "Skottlossning mot lägenhet, Glimåkra.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-0840-morddrap-forsok-hassleholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 434609,
     "datetime": "2023-07-13 12:59:14 +02:00",
     "name": "13 juli 09:57, Stöld, Stockholm",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 434563,
-    "datetime": "2023-07-13 6:59:25 +02:00",
-    "name": "13 juli 06:24, Trafikolycka, Tingsryd",
-    "summary": "Lastbil och personbil i kollision, väg 27.",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-0624-trafikolycka-tingsryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Tingsryd",
-      "gps": "56.524745,14.978534"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 432671,
-    "datetime": "2023-07-05 7:38:16 +02:00",
-    "name": "05 juli 07:38, Sammanfattning natt, Jönköpings län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-0738-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 432665,
-    "datetime": "2023-07-05 7:38:11 +02:00",
-    "name": "05 juli 07:38, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-0738-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 432675,
-    "datetime": "2023-07-05 7:27:13 +02:00",
-    "name": "05 juli 03:51, Stöld, Hudiksvall",
-    "summary": "Inbrott i två fordon.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-0351-stold-hudiksvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
     }
   }
 ]
