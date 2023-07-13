@@ -1,5 +1,53 @@
 [
   {
+    "id": 434614,
+    "datetime": "2023-07-13 14:44:18 +02:00",
+    "name": "13 juli 12:41, Rattfylleri, Berg",
+    "summary": "Svenstavik, bilist kontrollerad av polis",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1241-rattfylleri-berg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
+    "id": 434600,
+    "datetime": "2023-07-13 11:27:41 +02:00",
+    "name": "13 juli 10:47, Trafikolycka, Askersund",
+    "summary": "En trafikolycka har inträffat på riksväg 49 vid trafikplats Skoporten strax söder om Askersund.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1047-trafikolycka-askersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 434612,
+    "datetime": "2023-07-13 14:05:02 +02:00",
+    "name": "13 juli 13:03, Trafikolycka, Arvika",
+    "summary": "En person har först till sjukhus efter en olycka på riksväg 61 i Arvika.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1303-trafikolycka-arvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 434607,
+    "datetime": "2023-07-13 13:24:23 +02:00",
+    "name": "13 juli 12:25, Trafikolycka, Söderhamn",
+    "summary": "Kollision mellan två bilar på E4:an i höjd med Tönnebro.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1225-trafikolycka-soderhamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
     "id": 434563,
     "datetime": "2023-07-13 6:59:25 +02:00",
     "name": "13 juli 06:24, Trafikolycka, Tingsryd",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 434607,
-    "datetime": "2023-07-13 13:24:23 +02:00",
-    "name": "13 juli 12:25, Trafikolycka, Söderhamn",
-    "summary": "Kollision mellan två bilar på E4:an i höjd med Tönnebro.",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1225-trafikolycka-soderhamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
     }
   },
   {
@@ -117,18 +153,6 @@
     "location": {
       "name": "Nora",
       "gps": "59.519206,15.037867"
-    }
-  },
-  {
-    "id": 434600,
-    "datetime": "2023-07-13 11:27:41 +02:00",
-    "name": "13 juli 10:47, Trafikolycka, Askersund",
-    "summary": "En trafikolycka har inträffat på riksväg 49 vid trafikplats Skoporten strax söder om Askersund.",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1047-trafikolycka-askersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 432676,
-    "datetime": "2023-07-05 7:47:23 +02:00",
-    "name": "05 juli 07:47, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-0747-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 432674,
-    "datetime": "2023-07-05 7:38:21 +02:00",
-    "name": "05 juli 07:38, Sammanfattning natt, Södermanlands län",
-    "summary": "Lugn natt polisiärt i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-0738-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
