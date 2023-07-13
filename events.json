@@ -1,5 +1,65 @@
 [
   {
+    "id": 434627,
+    "datetime": "2023-07-13 16:11:12 +02:00",
+    "name": "13 juli 16:10, Trafikolycka, Kinda",
+    "summary": "MC-förare i olycka på länsväg 535 - Krokelid.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1610-trafikolycka-kinda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kinda",
+      "gps": "57.997571,15.685223"
+    }
+  },
+  {
+    "id": 434626,
+    "datetime": "2023-07-13 16:05:10 +02:00",
+    "name": "13 juli 15:40, Trafikolycka, Karlskoga",
+    "summary": "En trafikolycka har inträffat på länsväg 205",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1540-trafikolycka-karlskoga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 434625,
+    "datetime": "2023-07-13 15:51:41 +02:00",
+    "name": "13 juli 15:48, Trafikolycka, Karlshamn",
+    "summary": "Olycka i korsningen Jannebergsvägen och Korpadalsvägen, Asarum.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1548-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 434624,
+    "datetime": "2023-07-13 15:48:55 +02:00",
+    "name": "13 juli 15:39, Trafikolycka, Lomma",
+    "summary": "Olycka på E6 vid Flädie.",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1539-trafikolycka-lomma/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lomma",
+      "gps": "55.673138,13.067406"
+    }
+  },
+  {
+    "id": 434623,
+    "datetime": "2023-07-13 15:48:46 +02:00",
+    "name": "13 juli 15:07, Trafikolycka, personskada, Alingsås",
+    "summary": "Motorcykel körts av vägen",
+    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1507-trafikolycka-personskada-alingsas/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
+    }
+  },
+  {
     "id": 434622,
     "datetime": "2023-07-13 15:38:31 +02:00",
     "name": "13 juli 14:39, Räddningsinsats, Södertälje",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 432727,
-    "datetime": "2023-07-05 13:24:15 +02:00",
-    "name": "05 juli 13:14, Trafikolycka, Kristinehamn",
-    "summary": "En trafikolycka har inträffat på E18",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-1314-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 432722,
-    "datetime": "2023-07-05 13:01:57 +02:00",
-    "name": "05 juli 13:01, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-1301-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 432720,
-    "datetime": "2023-07-05 12:52:15 +02:00",
-    "name": "05 juli 12:51, Arbetsplatsolycka, Vaggeryd",
-    "summary": "Man skadade handen i samband med arbetsutövning.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-1251-arbetsplatsolycka-vaggeryd/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Vaggeryd",
-      "gps": "57.498962,14.14863"
-    }
-  },
-  {
-    "id": 432719,
-    "datetime": "2023-07-05 12:37:54 +02:00",
-    "name": "05 juli 07:28, Rattfylleri, Skellefteå",
-    "summary": "Byske, misstänkt rattfylleri.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-0728-rattfylleri-skelleftea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 432690,
-    "datetime": "2023-07-05 12:25:16 +02:00",
-    "name": "05 juli 07:22, Våld/hot mot tjänsteman, Östersund",
-    "summary": "Östersund, person omhändertagen.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-0722-valdhot-mot-tjansteman-ostersund/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
