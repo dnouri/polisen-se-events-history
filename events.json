@@ -1,5 +1,89 @@
 [
   {
+    "id": 434663,
+    "datetime": "2023-07-14 7:38:01 +02:00",
+    "name": "14 juli 00:43, Stöld/inbrott, Nordanstig",
+    "summary": "Bostad i Ilsbo utsatt för inbrott under natten.",
+    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0043-stoldinbrott-nordanstig/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Nordanstig",
+      "gps": "62.036668,17.205249"
+    }
+  },
+  {
+    "id": 434667,
+    "datetime": "2023-07-14 7:37:56 +02:00",
+    "name": "14 juli 00:20, Stöld, Köping",
+    "summary": "Äldre kvinna utsatt för grov stöld.",
+    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0020-stold-koping/",
+    "type": "Stöld",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 434669,
+    "datetime": "2023-07-14 7:33:36 +02:00",
+    "name": "14 juli 02:03, Mord/dråp, försök, Solna",
+    "summary": "Inringare hörde av sig om smällar. Senare visade det sig att det skjutits mot en bostad i området Järvastaden.",
+    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0203-morddrap-forsok-solna/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 434668,
+    "datetime": "2023-07-14 7:33:17 +02:00",
+    "name": "14 juli 07:30, Sammanfattning natt, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0730-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 434666,
+    "datetime": "2023-07-14 7:26:56 +02:00",
+    "name": "14 juli 07:26, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0726-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 434665,
+    "datetime": "2023-07-14 7:26:25 +02:00",
+    "name": "14 juli 07:25, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har polisiärt sett varit en lugn natt i länet.",
+    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0725-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 434664,
+    "datetime": "2023-07-14 7:26:07 +02:00",
+    "name": "14 juli 07:25, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0725-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 434662,
     "datetime": "2023-07-14 7:07:28 +02:00",
     "name": "14 juli 07:01, Sammanfattning natt, Västerbottens län",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 432804,
-    "datetime": "2023-07-06 7:48:15 +02:00",
-    "name": "06 juli 07:48, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juli/6/06-juli-0748-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 432799,
-    "datetime": "2023-07-06 7:48:10 +02:00",
-    "name": "06 juli 07:48, Sammanfattning natt, Jönköpings län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juli/6/06-juli-0748-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 432803,
-    "datetime": "2023-07-06 7:39:31 +02:00",
-    "name": "06 juli 00:26, Brand, Västerås",
-    "summary": "Bilbrand på Malmaberg.",
-    "url": "/aktuellt/handelser/2023/juli/6/06-juli-0026-brand-vasteras/",
-    "type": "Brand",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 432782,
-    "datetime": "2023-07-05 23:56:48 +02:00",
-    "name": "05 juli 23:44, Brand, Malmö",
-    "summary": "Holma. Brand i flera fordon.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-2344-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 432801,
-    "datetime": "2023-07-06 7:37:15 +02:00",
-    "name": "05 juli 22:44, Misshandel, grov, Västerås",
-    "summary": "Man i 20-årsåldern inkommer skadad till akuten.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-2244-misshandel-grov-vasteras/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 432798,
-    "datetime": "2023-07-06 7:23:23 +02:00",
-    "name": "05 juli 21:42, Åldringsbrott, Gävle",
-    "summary": "Kvinna i 75-årsåldern luras få stor summa pengar.",
-    "url": "/aktuellt/handelser/2023/juli/5/05-juli-2142-aldringsbrott-gavle/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 432797,
-    "datetime": "2023-07-06 7:19:13 +02:00",
-    "name": "06 juli 02:21, Brand, Bollnäs",
-    "summary": "Brand i garage.",
-    "url": "/aktuellt/handelser/2023/juli/6/06-juli-0221-brand-bollnas/",
-    "type": "Brand",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
     }
   }
 ]
