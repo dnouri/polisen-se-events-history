@@ -1,14 +1,50 @@
 [
   {
+    "id": 434861,
+    "datetime": "2023-07-16 17:20:13 +02:00",
+    "name": "16 juli 16:52, Trafikolycka, Kristianstad",
+    "summary": "En singelolycka med en personbil inträffar på Malmövägen i höjd med Nöbbelöv.",
+    "url": "/aktuellt/handelser/2023/juli/16/16-juli-1652-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
     "id": 434858,
     "datetime": "2023-07-16 16:32:17 +02:00",
     "name": "16 juli 14:38, Försvunnen person, Helsingborg",
-    "summary": "Polisen söker efter en 10-årig pojke som anmälts försvunnen.",
+    "summary": "Den pojke som anmälts försvunnen i Helsingborg har hittats.",
     "url": "/aktuellt/handelser/2023/juli/16/16-juli-1438-forsvunnen-person-helsingborg/",
     "type": "Försvunnen person",
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 434860,
+    "datetime": "2023-07-16 17:00:43 +02:00",
+    "name": "16 juli 12:30, Räddningsinsats, Örnsköldsvik",
+    "summary": "Drunkning, Husum",
+    "url": "/aktuellt/handelser/2023/juli/16/16-juli-1230-raddningsinsats-ornskoldsvik/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 434859,
+    "datetime": "2023-07-16 16:56:38 +02:00",
+    "name": "16 juli 16:32, Trafikolycka, Markaryd",
+    "summary": "En trafikolycka mellan en skåpbil och en cyklist inträffar på Sunnerbogatan.",
+    "url": "/aktuellt/handelser/2023/juli/16/16-juli-1632-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 433105,
-    "datetime": "2023-07-07 21:44:56 +02:00",
-    "name": "07 juli 21:44, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juli/7/07-juli-2144-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 433104,
-    "datetime": "2023-07-07 21:44:32 +02:00",
-    "name": "07 juli 21:44, Övrigt, Östergötlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juli/7/07-juli-2144-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 433103,
-    "datetime": "2023-07-07 21:44:08 +02:00",
-    "name": "07 juli 21:44, Övrigt, Södermanlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juli/7/07-juli-2144-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
