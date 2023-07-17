@@ -1,14 +1,50 @@
 [
   {
-    "id": 434923,
-    "datetime": "2023-07-17 13:36:32 +02:00",
-    "name": "17 juli 13:36, Rattfylleri, Lycksele",
-    "summary": "Misstänkt rattfylleri utanför Lycksele.",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1336-rattfylleri-lycksele/",
-    "type": "Rattfylleri",
+    "id": 434928,
+    "datetime": "2023-07-17 14:04:12 +02:00",
+    "name": "17 juli 13:14, Trafikolycka, Grums",
+    "summary": "En trafikolycka med flera fordon har inträffat på E18/E45",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1314-trafikolycka-grums/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
+      "name": "Grums",
+      "gps": "59.353179,13.111732"
+    }
+  },
+  {
+    "id": 434930,
+    "datetime": "2023-07-17 14:43:28 +02:00",
+    "name": "17 juli 13:48, Rån, Borås",
+    "summary": "Rån i Dalsjöfors",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1348-ran-boras/",
+    "type": "Rån",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 434915,
+    "datetime": "2023-07-17 12:41:26 +02:00",
+    "name": "17 juli 12:40, Trafikolycka, Östergötlands län",
+    "summary": "Trafikolycka på E4 mellan Linköping och Norrköping",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1240-trafikolycka-ostergotlands-lan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 434920,
+    "datetime": "2023-07-17 13:06:07 +02:00",
+    "name": "17 juli 12:54, Trafikolycka, Borgholm",
+    "summary": "Trafikolycka LV977/LV978",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1254-trafikolycka-borgholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borgholm",
+      "gps": "56.88023,16.656236"
     }
   },
   {
@@ -24,6 +60,66 @@
     }
   },
   {
+    "id": 434927,
+    "datetime": "2023-07-17 14:00:18 +02:00",
+    "name": "17 juli 13:59, Trafikkontroll, Värmlands län",
+    "summary": "Polisen i Värmland har under förmiddagen genomfört ett antal trafikkontroller runt om i länet",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1359-trafikkontroll-varmlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 434926,
+    "datetime": "2023-07-17 13:59:23 +02:00",
+    "name": "17 juli 13:55, Olaga intrång, Värnamo",
+    "summary": "Åsiktsyttring var olaga intrång",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1355-olaga-intrang-varnamo/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 434903,
+    "datetime": "2023-07-17 13:47:41 +02:00",
+    "name": "17 juli 09:12, Bedrägeri, Stockholm",
+    "summary": "En person har fuskat på Trafikverkets förarprov.",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-0912-bedrageri-stockholm/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 434924,
+    "datetime": "2023-07-17 13:47:25 +02:00",
+    "name": "17 juli 13:28, Trafikolycka, Helsingborg",
+    "summary": "Larm om trafikolycka, E6",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1328-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 434923,
+    "datetime": "2023-07-17 13:36:32 +02:00",
+    "name": "17 juli 13:36, Rattfylleri, Lycksele",
+    "summary": "Misstänkt rattfylleri utanför Lycksele.",
+    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1336-rattfylleri-lycksele/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
     "id": 434922,
     "datetime": "2023-07-17 13:10:04 +02:00",
     "name": "17 juli 11:18, Åldringsbrott, Tidaholm",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Tidaholm",
       "gps": "58.181769,13.959474"
-    }
-  },
-  {
-    "id": 434920,
-    "datetime": "2023-07-17 13:06:07 +02:00",
-    "name": "17 juli 12:54, Trafikolycka, Borgholm",
-    "summary": "Trafikolycka LV977/LV978",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1254-trafikolycka-borgholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borgholm",
-      "gps": "56.88023,16.656236"
     }
   },
   {
@@ -93,18 +177,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 434915,
-    "datetime": "2023-07-17 12:41:26 +02:00",
-    "name": "17 juli 12:40, Trafikolycka, Östergötlands län",
-    "summary": "Trafikolycka på E4 mellan Linköping och Norrköping",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1240-trafikolycka-ostergotlands-lan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 433165,
-    "datetime": "2023-07-09 8:40:03 +02:00",
-    "name": "09 juli 05:10, Misshandel, Stockholm",
-    "summary": "Två män som slåss i centrala Stockholm misstänks båda för misshandel och båda tas om hand för tillnyktring.",
-    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0510-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 433164,
-    "datetime": "2023-07-09 8:31:52 +02:00",
-    "name": "09 juli 08:30, Fylleri/LOB, Stockholms län",
-    "summary": "Sedan midnatt har 15 personer på olika platser i Stockholms län blivit omhändertagna på grund av för hög berus",
-    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0830-fyllerilob-stockholms-lan/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 433163,
-    "datetime": "2023-07-09 8:24:31 +02:00",
-    "name": "09 juli 08:01, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0801-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 433162,
-    "datetime": "2023-07-09 8:23:37 +02:00",
-    "name": "08 juli 23:12, Våldtäkt, Stockholms län",
-    "summary": "En man som misstänks ha utsatt en kvinna för våldtäkt och en annan kvinna för sexuellt övergrepp har gripits o",
-    "url": "/aktuellt/handelser/2023/juli/8/08-juli-2312-valdtakt-stockholms-lan/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 433161,
-    "datetime": "2023-07-09 8:01:55 +02:00",
-    "name": "09 juli 07:31, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0731-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 433158,
-    "datetime": "2023-07-09 7:45:34 +02:00",
-    "name": "09 juli 07:00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser",
-    "url": "/aktuellt/handelser/2023/juli/9/09-juli-0700-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
