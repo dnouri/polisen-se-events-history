@@ -1,5 +1,77 @@
 [
   {
+    "id": 435009,
+    "datetime": "2023-07-18 16:04:54 +02:00",
+    "name": "18 juli 13:51, Försvunnen person, Växjö",
+    "summary": "Den man som anmäldes försvunnen på tisdagen har anträffats.",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1351-forsvunnen-person-vaxjo/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 435011,
+    "datetime": "2023-07-18 16:51:26 +02:00",
+    "name": "18 juli 13:56, Arbetsplatsolycka, Haninge",
+    "summary": "En man skadas i handen på en arbetsplats.",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1356-arbetsplatsolycka-haninge/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 435015,
+    "datetime": "2023-07-18 16:51:21 +02:00",
+    "name": "18 juli 14:51, Brand automatlarm, Stockholm",
+    "summary": "Brandautomatlarm från en myndighetsbyggnad.",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1451-brand-automatlarm-stockholm/",
+    "type": "Brand automatlarm",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 435016,
+    "datetime": "2023-07-18 16:51:17 +02:00",
+    "name": "18 juli 14:58, Skadegörelse, Stockholm",
+    "summary": "Sommarjobb misstas för skadegörelse.",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1458-skadegorelse-stockholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 435013,
+    "datetime": "2023-07-18 16:51:12 +02:00",
+    "name": "18 juli 14:22, Misshandel, Botkyrka",
+    "summary": "Misshandel i Tumba.",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1422-misshandel-botkyrka/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 435010,
+    "datetime": "2023-07-18 16:51:08 +02:00",
+    "name": "18 juli 11:36, Rån övrigt, Stockholm",
+    "summary": "Två personer ses bråka om en telefon.",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1136-ran-ovrigt-stockholm/",
+    "type": "Rån övrigt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 435014,
     "datetime": "2023-07-18 16:43:01 +02:00",
     "name": "18 juli 15:42, Trafikolycka, Karlshamn",
@@ -33,18 +105,6 @@
     "location": {
       "name": "Värnamo",
       "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 435009,
-    "datetime": "2023-07-18 16:04:54 +02:00",
-    "name": "18 juli 13:51, Försvunnen person, Växjö",
-    "summary": "Polisen söker efter en man som anmälts försvunnen i centrala Växjö.",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1351-forsvunnen-person-vaxjo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 434257,
-    "datetime": "2023-07-10 13:48:56 +02:00",
-    "name": "10 juli 12:27, Misshandel, Halmstad",
-    "summary": "En man grips på Fredsgatan efter att ha slagit en kvinna i ansiktet och tagit hennes mobil",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-1227-misshandel-halmstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 434256,
-    "datetime": "2023-07-10 13:40:59 +02:00",
-    "name": "10 juli 08:17, Fjällräddning, Kiruna",
-    "summary": "Fjällräddning i trakten av Pältastugan.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0817-fjallraddning-kiruna/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 434246,
-    "datetime": "2023-07-10 12:12:24 +02:00",
-    "name": "10 juli 11:27, Trafikolycka, personskada, Tjörn",
-    "summary": "En personbil har voltat och hamnat på taket i diket vid Brevik.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-1127-trafikolycka-personskada-tjorn/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Tjörn",
-      "gps": "58.04102,11.683671"
-    }
-  },
-  {
-    "id": 434252,
-    "datetime": "2023-07-10 13:03:08 +02:00",
-    "name": "10 juli 12:08, Stöld, Sundsvall",
-    "summary": "Sundsvall, ringa stöld i matbutik.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-1208-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 434251,
-    "datetime": "2023-07-10 12:55:55 +02:00",
-    "name": "10 juli 11:46, Arbetsplatsolycka, Härnösand",
-    "summary": "Härnösand, olycka under arbete.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-1146-arbetsplatsolycka-harnosand/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   }
 ]
