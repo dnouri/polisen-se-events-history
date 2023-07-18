@@ -1,5 +1,53 @@
 [
   {
+    "id": 434975,
+    "datetime": "2023-07-18 9:19:08 +02:00",
+    "name": "18 juli 08:59, Trafikolycka, Mora",
+    "summary": "En singelolycka har inträffat på länsväg 1000, i höjd med Våmhus",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0859-trafikolycka-mora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 434976,
+    "datetime": "2023-07-18 9:19:51 +02:00",
+    "name": "18 juli 08:46, Trafikolycka, Sunne",
+    "summary": "En trafikolycka har inträffat på E45:an i Västra Ämtervik",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0846-trafikolycka-sunne/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 434981,
+    "datetime": "2023-07-18 10:35:35 +02:00",
+    "name": "18 juli 08:47, Stöld, Skellefteå",
+    "summary": "Inbrott i personbil i Skellefteå.",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0847-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 434980,
+    "datetime": "2023-07-18 10:30:52 +02:00",
+    "name": "18 juli 08:03, Rattfylleri, Tjörn",
+    "summary": "Drograttfylleri",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0803-rattfylleri-tjorn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Tjörn",
+      "gps": "58.04102,11.683671"
+    }
+  },
+  {
     "id": 434979,
     "datetime": "2023-07-18 10:19:29 +02:00",
     "name": "17 juli 23:59, Trafikolycka, Malmö",
@@ -24,18 +72,6 @@
     }
   },
   {
-    "id": 434975,
-    "datetime": "2023-07-18 9:19:08 +02:00",
-    "name": "18 juli 08:59, Trafikolycka, Mora",
-    "summary": "En singelolycka har inträffat på länsväg 1000, i höjd med Våmhus",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0859-trafikolycka-mora/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
-    }
-  },
-  {
     "id": 434977,
     "datetime": "2023-07-18 9:22:34 +02:00",
     "name": "18 juli 08:54, Brand, Arvika",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Arvika",
       "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 434976,
-    "datetime": "2023-07-18 9:19:51 +02:00",
-    "name": "18 juli 08:46, Trafikolycka, Sunne",
-    "summary": "En trafikolycka har inträffat på E45:an i Västra Ämtervik",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0846-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 434228,
-    "datetime": "2023-07-10 7:36:56 +02:00",
-    "name": "10 juli 07:36, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0736-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 434225,
-    "datetime": "2023-07-10 7:28:11 +02:00",
-    "name": "10 juli 07:27, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0727-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
