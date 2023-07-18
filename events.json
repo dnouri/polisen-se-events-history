@@ -1,5 +1,65 @@
 [
   {
+    "id": 434964,
+    "datetime": "2023-07-18 7:17:36 +02:00",
+    "name": "18 juli 06:12, Brand, Solna",
+    "summary": "Polisen bistår räddningstjänsten vid en villabrand i Ulriksdal.",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0612-brand-solna/",
+    "type": "Brand",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 434974,
+    "datetime": "2023-07-18 8:00:22 +02:00",
+    "name": "18 juli 00:00, Misshandel, Västra Götalands län",
+    "summary": "Misshandel relation",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0000-misshandel-vastra-gotalands-lan/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 434972,
+    "datetime": "2023-07-18 7:50:32 +02:00",
+    "name": "18 juli 07:50, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0750-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 434973,
+    "datetime": "2023-07-18 7:50:05 +02:00",
+    "name": "18 juli 07:50, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0750-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 434971,
+    "datetime": "2023-07-18 7:44:51 +02:00",
+    "name": "18 juli 07:50, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0750-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 434970,
     "datetime": "2023-07-18 7:31:26 +02:00",
     "name": "18 juli 06:20, Brand, Malmö",
@@ -81,18 +141,6 @@
     "location": {
       "name": "Norrtälje",
       "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 434964,
-    "datetime": "2023-07-18 7:17:36 +02:00",
-    "name": "18 juli 06:12, Brand, Solna",
-    "summary": "Polisen bistår räddningstjänsten vid en villabrand i Ulriksdal.",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0612-brand-solna/",
-    "type": "Brand",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 434215,
-    "datetime": "2023-07-10 7:05:23 +02:00",
-    "name": "10 juli 00:06, Skadegörelse, Kristianstad",
-    "summary": "Polis larmas till länsväg 118 med anledning av en brand.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0006-skadegorelse-kristianstad/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 434214,
-    "datetime": "2023-07-10 7:03:50 +02:00",
-    "name": "10 juli 07:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalespersn är på plats.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 434210,
-    "datetime": "2023-07-10 7:01:00 +02:00",
-    "name": "10 juli 07:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-0700-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 434208,
-    "datetime": "2023-07-10 2:26:40 +02:00",
-    "name": "09 juli 23:43, Olaga hot, Göteborg",
-    "summary": "I Arendal på Hisingen har en man tagit sig in på ett raffinaderi och hotat personalen med en kniv.",
-    "url": "/aktuellt/handelser/2023/juli/9/09-juli-2343-olaga-hot-goteborg/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
