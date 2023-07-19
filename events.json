@@ -1,5 +1,41 @@
 [
   {
+    "id": 437059,
+    "datetime": "2023-07-19 10:10:14 +02:00",
+    "name": "19 juli 09:38, Misshandel, Uddevalla",
+    "summary": "Misshandel",
+    "url": "/aktuellt/handelser/2023/juli/19/19-juli-0938-misshandel-uddevalla/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 437058,
+    "datetime": "2023-07-19 10:08:09 +02:00",
+    "name": "19 juli 09:04, Mord/dråp, Stockholm",
+    "summary": "Polis och ambulans kallas till ett flerbostadshus i Spånga med anledning av att grannar upptäckt en medvetslös",
+    "url": "/aktuellt/handelser/2023/juli/19/19-juli-0904-morddrap-stockholm/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 437057,
+    "datetime": "2023-07-19 10:07:35 +02:00",
+    "name": "19 juli 09:09, Trafikkontroll, Storuman",
+    "summary": "Storuman, resultat från en trafikkontroll på E12.",
+    "url": "/aktuellt/handelser/2023/juli/19/19-juli-0909-trafikkontroll-storuman/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
     "id": 435053,
     "datetime": "2023-07-19 8:53:15 +02:00",
     "name": "19 juli 06:15, Bråk, Mörbylånga",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Mörbylånga",
       "gps": "56.523757,16.386916"
+    }
+  },
+  {
+    "id": 437056,
+    "datetime": "2023-07-19 9:50:44 +02:00",
+    "name": "19 juli 06:44, Trafikolycka, Göteborg",
+    "summary": "Bilist kört in i stolpe",
+    "url": "/aktuellt/handelser/2023/juli/19/19-juli-0644-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Arboga",
       "gps": "59.393688,15.838175"
-    }
-  },
-  {
-    "id": 434295,
-    "datetime": "2023-07-11 7:55:07 +02:00",
-    "name": "10 juli 15:03, Trafikolycka, personskada, Uppsala",
-    "summary": "Äldre man omkom i kollision.",
-    "url": "/aktuellt/handelser/2023/juli/10/10-juli-1503-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 434324,
-    "datetime": "2023-07-11 7:54:27 +02:00",
-    "name": "11 juli 07:54, Sammanfattning natt, Östergötlands län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0754-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 434325,
-    "datetime": "2023-07-11 7:54:22 +02:00",
-    "name": "11 juli 07:54, Sammanfattning natt, Södermanlands län",
-    "summary": "Lugn natt polisiärt i länet.",
-    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0754-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 434323,
-    "datetime": "2023-07-11 7:54:18 +02:00",
-    "name": "11 juli 07:54, Sammanfattning natt, Jönköpings län",
-    "summary": "Ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2023/juli/11/11-juli-0754-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
