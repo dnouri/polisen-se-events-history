@@ -1,5 +1,89 @@
 [
   {
+    "id": 437197,
+    "datetime": "2023-07-20 22:05:55 +02:00",
+    "name": "20 juli 21:09, Bråk, Uppsala",
+    "summary": "Bråk vid resecentrum.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-2109-brak-uppsala/",
+    "type": "Bråk",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 437188,
+    "datetime": "2023-07-20 20:43:43 +02:00",
+    "name": "20 juli 20:05, Trafikolycka, Sala",
+    "summary": "Personbil har voltat efter trafikolycka.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-2005-trafikolycka-sala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
+    }
+  },
+  {
+    "id": 437196,
+    "datetime": "2023-07-20 21:57:22 +02:00",
+    "name": "20 juli 20:11, Bedrägeri, Jönköping",
+    "summary": "Kvinna i 80-årsåldern utsatt för bedrägeri.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-2011-bedrageri-jonkoping/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 437195,
+    "datetime": "2023-07-20 21:57:09 +02:00",
+    "name": "20 juli 20:35, Arbetsplatsolycka, Kristianstad",
+    "summary": "En kvinna i 35-årsåldern har avlidit efter en arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-2035-arbetsplatsolycka-kristianstad/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 437182,
+    "datetime": "2023-07-20 21:47:11 +02:00",
+    "name": "20 juli 21:45, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 437181,
+    "datetime": "2023-07-20 21:47:04 +02:00",
+    "name": "20 juli 21:45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 437194,
+    "datetime": "2023-07-20 21:44:16 +02:00",
+    "name": "20 juli 15:12, Övrigt, Stockholm",
+    "summary": "Benbit från djur hittas i fyllnadsmassorna under ett golv.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-1512-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 437193,
     "datetime": "2023-07-20 21:41:22 +02:00",
     "name": "20 juli 16:31, Kontroll person/fordon, Nynäshamn",
@@ -21,18 +105,6 @@
     "location": {
       "name": "Upplands-bro",
       "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 437188,
-    "datetime": "2023-07-20 20:43:43 +02:00",
-    "name": "20 juli 20:05, Trafikolycka, Sala",
-    "summary": "Personbil har voltat efter trafikolycka.",
-    "url": "/aktuellt/handelser/2023/juli/20/20-juli-2005-trafikolycka-sala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sala",
-      "gps": "59.920859,16.606328"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 434550,
-    "datetime": "2023-07-12 21:45:28 +02:00",
-    "name": "12 juli 21:45, Övrigt, Hallands län",
-    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-2145-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 434490,
-    "datetime": "2023-07-12 21:40:26 +02:00",
-    "name": "12 juli 21:40, Övrigt, Jönköpings län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-2140-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 434489,
-    "datetime": "2023-07-12 21:40:21 +02:00",
-    "name": "12 juli 21:40, Övrigt, Östergötlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-2140-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 434488,
-    "datetime": "2023-07-12 21:40:15 +02:00",
-    "name": "12 juli 21:40, Övrigt, Södermanlands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-2140-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 434549,
-    "datetime": "2023-07-12 21:21:26 +02:00",
-    "name": "12 juli 21:21, Bedrägeri, Strängnäs",
-    "summary": "Kvinna i 85-årsåldern utsatt för bedrägeri.",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-2121-bedrageri-strangnas/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 434548,
-    "datetime": "2023-07-12 21:16:37 +02:00",
-    "name": "12 juli 20:17, Rån, Borås",
-    "summary": "Man rånad på Scooter",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-2017-ran-boras/",
-    "type": "Rån",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
