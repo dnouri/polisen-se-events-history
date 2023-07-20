@@ -1,5 +1,77 @@
 [
   {
+    "id": 437167,
+    "datetime": "2023-07-20 14:39:46 +02:00",
+    "name": "20 juli 12:06, Rattfylleri, Luleå",
+    "summary": "Luleå, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-1206-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 437165,
+    "datetime": "2023-07-20 14:39:18 +02:00",
+    "name": "20 juli 13:50, Misshandel, Västerås",
+    "summary": "Kvinna i 80-årsåldern misshandlad.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-1350-misshandel-vasteras/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 437166,
+    "datetime": "2023-07-20 14:36:04 +02:00",
+    "name": "20 juli 13:52, Skottlossning, Karlstad",
+    "summary": "Polisen utreder just nu ett grovt brott i centrala Karlstad",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-1352-skottlossning-karlstad/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 437163,
+    "datetime": "2023-07-20 14:25:34 +02:00",
+    "name": "20 juli 13:49, Trafikolycka, personskada, Tyresö",
+    "summary": "Polis och ambulans kallas till Breviksvägen/ Trinntorps bryggväg med anledning av en trafikolycka.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-1349-trafikolycka-personskada-tyreso/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
+    "id": 437155,
+    "datetime": "2023-07-20 12:45:08 +02:00",
+    "name": "20 juli 12:43, Försvunnen person, Trosa",
+    "summary": "Försvunnen person i Vagnhärad, Trosa",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-1243-forsvunnen-person-trosa/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Trosa",
+      "gps": "58.902655,17.549464"
+    }
+  },
+  {
+    "id": 437162,
+    "datetime": "2023-07-20 13:46:16 +02:00",
+    "name": "20 juli 12:19, Rattfylleri, Gotland",
+    "summary": "En inringare uppger att en husbil framförs vingligt på väg 143 i riktning mot Ljugarn.",
+    "url": "/aktuellt/handelser/2023/juli/20/20-juli-1219-rattfylleri-gotland/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Gotland",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
     "id": 437156,
     "datetime": "2023-07-20 12:47:53 +02:00",
     "name": "20 juli 10:43, Trafikolycka, personskada, Ulricehamn",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 437155,
-    "datetime": "2023-07-20 12:45:08 +02:00",
-    "name": "20 juli 12:43, Försvunnen person, Trosa",
-    "summary": "Försvunnen person i Vagnhärad, Trosa",
-    "url": "/aktuellt/handelser/2023/juli/20/20-juli-1243-forsvunnen-person-trosa/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Trosa",
-      "gps": "58.902655,17.549464"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 434480,
-    "datetime": "2023-07-12 12:40:18 +02:00",
-    "name": "12 juli 11:36, Trafikolycka, personskada, Svenljunga",
-    "summary": "I korsningen Brogatan - Kyrkogatan har en cyklist blivit påkörd av en traktor.",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-1136-trafikolycka-personskada-svenljunga/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Svenljunga",
-      "gps": "57.495572,13.114623"
-    }
-  },
-  {
-    "id": 434479,
-    "datetime": "2023-07-12 12:28:56 +02:00",
-    "name": "12 juli 10:15, Trafikolycka, Gällivare",
-    "summary": "E10 Hakkas, motorcyklist har kört omkull",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-1015-trafikolycka-gallivare/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 434472,
-    "datetime": "2023-07-12 10:55:54 +02:00",
-    "name": "12 juli 10:55, Försvunnen person, Degerfors",
-    "summary": "Den man som eftersöktes i Degerfors har anträffats.",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-1055-forsvunnen-person-degerfors/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Degerfors",
-      "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 434478,
-    "datetime": "2023-07-12 11:40:33 +02:00",
-    "name": "12 juli 11:34, Brand, Örkelljunga",
-    "summary": "Brand i villa i Harbäckshult.",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-1134-brand-orkelljunga/",
-    "type": "Brand",
-    "location": {
-      "name": "Örkelljunga",
-      "gps": "56.283635,13.278832"
-    }
-  },
-  {
-    "id": 434475,
-    "datetime": "2023-07-12 11:03:19 +02:00",
-    "name": "12 juli 10:47, Rattfylleri, Tidaholm",
-    "summary": "Vid Nya Torget stoppas en bilist för kontroll.",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-1047-rattfylleri-tidaholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Tidaholm",
-      "gps": "58.181769,13.959474"
     }
   }
 ]
