@@ -1,5 +1,17 @@
 [
   {
+    "id": 437253,
+    "datetime": "2023-07-21 16:16:44 +02:00",
+    "name": "21 juli 15:24, Brand, Nyköping",
+    "summary": "Misstänkt brand i flerfamiljshus var bränt bröd.",
+    "url": "/aktuellt/handelser/2023/juli/21/21-juli-1524-brand-nykoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
     "id": 437248,
     "datetime": "2023-07-21 15:06:11 +02:00",
     "name": "21 juli 14:25, Trafikolycka, personskada, Västerås",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 437254,
+    "datetime": "2023-07-21 16:05:59 +02:00",
+    "name": "21 juli 15:22, Brand, Linköping",
+    "summary": "Brand i förråd tillhörande publik lokal.",
+    "url": "/aktuellt/handelser/2023/juli/21/21-juli-1522-brand-linkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 437256,
+    "datetime": "2023-07-21 15:59:06 +02:00",
+    "name": "21 juli 15:29, Trafikolycka, Karlskrona",
+    "summary": "Lastbil som vält, Gunnetorp",
+    "url": "/aktuellt/handelser/2023/juli/21/21-juli-1529-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 437255,
+    "datetime": "2023-07-21 15:46:53 +02:00",
+    "name": "21 juli 13:54, Rattfylleri, Örebro",
+    "summary": "Grovt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/juli/21/21-juli-1354-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 434609,
-    "datetime": "2023-07-13 12:59:14 +02:00",
-    "name": "13 juli 09:57, Stöld, Stockholm",
-    "summary": "Ett par personer hade gjort ett envarsgripande och hållit fast en person misstänkt för stöld i butik i Riksby.",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-0957-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 434606,
-    "datetime": "2023-07-13 12:43:21 +02:00",
-    "name": "13 juli 11:14, Skadegörelse, Umeå",
-    "summary": "Centrala stan, restaurang utsatt för skadegörelse",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-1114-skadegorelse-umea/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 434594,
-    "datetime": "2023-07-13 10:25:46 +02:00",
-    "name": "13 juli 09:24, Misshandel, grov, Växjö",
-    "summary": "Larm om bråk, Araby",
-    "url": "/aktuellt/handelser/2023/juli/13/13-juli-0924-misshandel-grov-vaxjo/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 434482,
-    "datetime": "2023-07-12 12:55:54 +02:00",
-    "name": "12 juli 11:30, Spridning smitta/kemikalier, Umeå",
-    "summary": "Tomtebo, vätska vid äventyrslekpark ska kontrolleras",
-    "url": "/aktuellt/handelser/2023/juli/12/12-juli-1130-spridning-smittakemikalier-umea/",
-    "type": "Spridning smitta/kemikalier",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
