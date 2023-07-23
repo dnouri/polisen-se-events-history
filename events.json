@@ -1,5 +1,65 @@
 [
   {
+    "id": 437337,
+    "datetime": "2023-07-23 13:14:20 +02:00",
+    "name": "23 juli 11:15, Trafikkontroll, Lycksele",
+    "summary": "Resultat av nykterhetskontroll i trafiken.",
+    "url": "/aktuellt/handelser/2023/juli/23/23-juli-1115-trafikkontroll-lycksele/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 437334,
+    "datetime": "2023-07-23 13:07:32 +02:00",
+    "name": "23 juli 13:07, Trafikkontroll, Östersund",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/juli/23/23-juli-1307-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 437333,
+    "datetime": "2023-07-23 13:03:19 +02:00",
+    "name": "23 juli 10:42, Olovlig körning, Kiruna",
+    "summary": "Man misstänks för olovlig körning i Kiruna.",
+    "url": "/aktuellt/handelser/2023/juli/23/23-juli-1042-olovlig-korning-kiruna/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 437332,
+    "datetime": "2023-07-23 12:59:45 +02:00",
+    "name": "23 juli 09:59, Rattfylleri, Luleå",
+    "summary": "Rattfylleri på E4 Persön i Luleå.",
+    "url": "/aktuellt/handelser/2023/juli/23/23-juli-0959-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 437331,
+    "datetime": "2023-07-23 12:48:40 +02:00",
+    "name": "23 juli 12:48, Våldtäkt, Härjedalen",
+    "summary": "Man anhållen misstänkt för våldtäkt.",
+    "url": "/aktuellt/handelser/2023/juli/23/23-juli-1248-valdtakt-harjedalen/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
     "id": 437330,
     "datetime": "2023-07-23 12:19:30 +02:00",
     "name": "23 juli 11:01, Rattfylleri, Gotland",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 434702,
-    "datetime": "2023-07-14 13:45:21 +02:00",
-    "name": "14 juli 01:32, Mord/dråp, Stockholms län",
-    "summary": "En man påträffades död i en bostad på Östermalm. En person greps och är nu anhållen misstänkt för mord.",
-    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0132-morddrap-stockholms-lan/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 434701,
-    "datetime": "2023-07-14 13:26:35 +02:00",
-    "name": "14 juli 12:07, Stöld, Luleå",
-    "summary": "Innerstaden, kvinna stoppad efter stöld i butik",
-    "url": "/aktuellt/handelser/2023/juli/14/14-juli-1207-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 434699,
-    "datetime": "2023-07-14 13:21:49 +02:00",
-    "name": "14 juli 10:47, Stöld, Skellefteå",
-    "summary": "Centrum, man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2023/juli/14/14-juli-1047-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 434698,
-    "datetime": "2023-07-14 13:19:40 +02:00",
-    "name": "14 juli 12:28, Trafikkontroll, Åsele",
-    "summary": "Norra vägen/Strandvägen, gott resultat efter nykterhetskontroll i trafiken",
-    "url": "/aktuellt/handelser/2023/juli/14/14-juli-1228-trafikkontroll-asele/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Åsele",
-      "gps": "64.160234,17.353615"
-    }
-  },
-  {
-    "id": 434679,
-    "datetime": "2023-07-14 13:17:13 +02:00",
-    "name": "14 juli 08:19, Motorfordon, stöld, Västernorrlands län",
-    "summary": "Västernorrland, stulen bil uppges köra från Kramfors och söderut",
-    "url": "/aktuellt/handelser/2023/juli/14/14-juli-0819-motorfordon-stold-vasternorrlands-lan/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
