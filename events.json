@@ -1,17 +1,5 @@
 [
   {
-    "id": 437539,
-    "datetime": "2023-07-25 21:36:55 +02:00",
-    "name": "25 juli 21:18, Olovlig körning, Torsby",
-    "summary": "Samverkan mellan norsk och svensk polis stoppade misstänkt påverkad bilist.",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-2118-olovlig-korning-torsby/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
-    }
-  },
-  {
     "id": 437538,
     "datetime": "2023-07-25 21:33:29 +02:00",
     "name": "25 juli 21:08, Bråk, Sigtuna",
@@ -21,6 +9,66 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 437541,
+    "datetime": "2023-07-25 22:06:34 +02:00",
+    "name": "25 juli 22:01, Fjällräddning, Mora",
+    "summary": "Polis genomför en fjällräddning på Fulufjället",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-2201-fjallraddning-mora/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 437540,
+    "datetime": "2023-07-25 21:49:54 +02:00",
+    "name": "25 juli 21:44, Skadegörelse, Örebro",
+    "summary": "Ett vindskydd har brunnit i Reträttens naturreservat i Örebro.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-2144-skadegorelse-orebro/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 437504,
+    "datetime": "2023-07-25 21:45:19 +02:00",
+    "name": "25 juli 21:45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 437505,
+    "datetime": "2023-07-25 21:45:01 +02:00",
+    "name": "25 juli 21:45, Övrigt, Hallands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 437539,
+    "datetime": "2023-07-25 21:36:55 +02:00",
+    "name": "25 juli 21:18, Olovlig körning, Torsby",
+    "summary": "Samverkan mellan norsk och svensk polis stoppade misstänkt påverkad bilist.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-2118-olovlig-korning-torsby/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 434928,
-    "datetime": "2023-07-17 14:04:12 +02:00",
-    "name": "17 juli 13:14, Trafikolycka, Grums",
-    "summary": "En trafikolycka med flera fordon har inträffat på E18/E45",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1314-trafikolycka-grums/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
-    }
-  },
-  {
-    "id": 434930,
-    "datetime": "2023-07-17 14:43:28 +02:00",
-    "name": "17 juli 13:48, Rån, Borås",
-    "summary": "Rån i Dalsjöfors",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1348-ran-boras/",
-    "type": "Rån",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 434915,
-    "datetime": "2023-07-17 12:41:26 +02:00",
-    "name": "17 juli 12:40, Trafikolycka, Östergötlands län",
-    "summary": "Trafikolycka på E4 mellan Linköping och Norrköping",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1240-trafikolycka-ostergotlands-lan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 434920,
-    "datetime": "2023-07-17 13:06:07 +02:00",
-    "name": "17 juli 12:54, Trafikolycka, Borgholm",
-    "summary": "Trafikolycka LV977/LV978",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1254-trafikolycka-borgholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borgholm",
-      "gps": "56.88023,16.656236"
     }
   }
 ]
