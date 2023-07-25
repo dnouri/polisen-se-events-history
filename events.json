@@ -1,5 +1,101 @@
 [
   {
+    "id": 437501,
+    "datetime": "2023-07-25 14:39:18 +02:00",
+    "name": "25 juli 14:17, Rattfylleri, Östra göinge",
+    "summary": "Rv 19, Broby",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1417-rattfylleri-ostra-goinge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östra göinge",
+      "gps": "56.237877,14.216166"
+    }
+  },
+  {
+    "id": 437500,
+    "datetime": "2023-07-25 14:33:53 +02:00",
+    "name": "25 juli 08:53, Rattfylleri, Umeå",
+    "summary": "Misstänkt drograttfylleri i Umeå.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-0853-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 437498,
+    "datetime": "2023-07-25 14:22:14 +02:00",
+    "name": "25 juli 11:17, Trafikkontroll, Härjedalen",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1117-trafikkontroll-harjedalen/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 437496,
+    "datetime": "2023-07-25 14:14:47 +02:00",
+    "name": "25 juli 12:59, Olovlig körning, Kramfors",
+    "summary": "Grov olovlig körning i centrum.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1259-olovlig-korning-kramfors/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 437493,
+    "datetime": "2023-07-25 14:11:48 +02:00",
+    "name": "25 juli 14:07, Polisinsats/kommendering, Karlskrona",
+    "summary": "Tillfällig kameraövervakning, Skärgårdsfesten",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1407-polisinsatskommendering-karlskrona/",
+    "type": "Polisinsats/kommendering",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 437492,
+    "datetime": "2023-07-25 14:10:43 +02:00",
+    "name": "25 juli 12:37, Knivlagen, Stockholm",
+    "summary": "Ordningsvakter omhändertog en man vid tunnelbanestation Globen.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1237-knivlagen-stockholm/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 437469,
+    "datetime": "2023-07-25 8:25:22 +02:00",
+    "name": "25 juli 06:49, Brand, Botkyrka",
+    "summary": "Okänd gärningsperson startade en brand utomhus i Norsborg.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-0649-brand-botkyrka/",
+    "type": "Brand",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 437491,
+    "datetime": "2023-07-25 13:59:53 +02:00",
+    "name": "25 juli 13:06, Trafikolycka, Stockholm",
+    "summary": "Ingen person skadades vid olyckan i Vasastaden.",
+    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1306-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 437484,
     "datetime": "2023-07-25 11:54:32 +02:00",
     "name": "25 juli 11:47, Trafikolycka, Askersund",
@@ -213,18 +309,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 437469,
-    "datetime": "2023-07-25 8:25:22 +02:00",
-    "name": "25 juli 06:49, Brand, Botkyrka",
-    "summary": "Okänd gärningsperson startade en brand utomhus i Norsborg.",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-0649-brand-botkyrka/",
-    "type": "Brand",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 434904,
-    "datetime": "2023-07-17 10:27:41 +02:00",
-    "name": "17 juli 10:27, Inbrott, Kalix",
-    "summary": "Inbrott i fritidshus utanför Kalix.",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-1027-inbrott-kalix/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 434902,
-    "datetime": "2023-07-17 10:16:35 +02:00",
-    "name": "17 juli 07:19, Motorfordon, anträffat stulet, Sundsvall",
-    "summary": "Stulen moped anträffad på Södermalm.",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-0719-motorfordon-antraffat-stulet-sundsvall/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 434901,
-    "datetime": "2023-07-17 10:07:52 +02:00",
-    "name": "17 juli 09:25, Stöld, Skellefteå",
-    "summary": "Man misstänks för ringa stöld i matbutik.",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-0925-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 434898,
-    "datetime": "2023-07-17 8:55:26 +02:00",
-    "name": "17 juli 07:09, Trafikolycka, Solna",
-    "summary": "En bilist har kört av vägen på E4 mellan Sörentorp och Järva krog.",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-0709-trafikolycka-solna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 434897,
-    "datetime": "2023-07-17 8:26:39 +02:00",
-    "name": "17 juli 01:45, Våldtäkt, försök, Malmö",
-    "summary": "Man anhållen",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-0145-valdtakt-forsok-malmo/",
-    "type": "Våldtäkt, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 434883,
-    "datetime": "2023-07-17 7:15:32 +02:00",
-    "name": "17 juli 07:15, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens ärenden i Västerbottens län.",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-0715-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 434896,
-    "datetime": "2023-07-17 7:55:50 +02:00",
-    "name": "17 juli 04:38, Motorfordon, stöld, Fagersta",
-    "summary": "Tre rymde från ungdomshem.",
-    "url": "/aktuellt/handelser/2023/juli/17/17-juli-0438-motorfordon-stold-fagersta/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Fagersta",
-      "gps": "59.989144,15.816642"
     }
   }
 ]
