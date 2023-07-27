@@ -1,5 +1,41 @@
 [
   {
+    "id": 437681,
+    "datetime": "2023-07-27 16:08:33 +02:00",
+    "name": "27 juli 15:01, Räddningsinsats, Lysekil",
+    "summary": "En person är anträffad i vattnet i Lyse och en räddningsinsats pågår.",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1501-raddningsinsats-lysekil/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Lysekil",
+      "gps": "58.275573,11.435558"
+    }
+  },
+  {
+    "id": 437696,
+    "datetime": "2023-07-27 21:19:15 +02:00",
+    "name": "27 juli 15:54, Brand, Köping",
+    "summary": "Brand i bostadshus.",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1554-brand-koping/",
+    "type": "Brand",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 437695,
+    "datetime": "2023-07-27 21:16:20 +02:00",
+    "name": "27 juli 21:13, Bedrägeri, Lindesberg",
+    "summary": "Ett misstänkt telefonbedrägeri har inträffat i Lindesbergs kommun.",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-2113-bedrageri-lindesberg/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
     "id": 437692,
     "datetime": "2023-07-27 19:33:06 +02:00",
     "name": "27 juli 18:46, Mord/dråp, försök, Gullspång",
@@ -21,18 +57,6 @@
     "location": {
       "name": "Lessebo",
       "gps": "56.751264,15.270001"
-    }
-  },
-  {
-    "id": 437681,
-    "datetime": "2023-07-27 16:08:33 +02:00",
-    "name": "27 juli 15:01, Räddningsinsats, Lysekil",
-    "summary": "En person är anträffad i vattnet i Lyse och en räddningsinsats pågår.",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1501-raddningsinsats-lysekil/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Lysekil",
-      "gps": "58.275573,11.435558"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 437066,
-    "datetime": "2023-07-19 11:22:58 +02:00",
-    "name": "19 juli 11:01, Trafikolycka, Göteborg",
-    "summary": "Personbil och motorcykel i krock",
-    "url": "/aktuellt/handelser/2023/juli/19/19-juli-1101-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 437065,
-    "datetime": "2023-07-19 11:22:11 +02:00",
-    "name": "19 juli 10:34, Övrigt, Karlstad",
-    "summary": "Över hundra lediga tider i Karlstad för att ansöka om pass eller nationellt id-kort",
-    "url": "/aktuellt/handelser/2023/juli/19/19-juli-1034-ovrigt-karlstad/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
