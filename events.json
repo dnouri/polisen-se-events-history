@@ -1,5 +1,65 @@
 [
   {
+    "id": 437613,
+    "datetime": "2023-07-27 7:12:00 +02:00",
+    "name": "27 juli 01:11, Brand, Västerås",
+    "summary": "Brand i industribyggnad.",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-0111-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 437609,
+    "datetime": "2023-07-27 7:03:48 +02:00",
+    "name": "27 juli 06:00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-0600-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 437612,
+    "datetime": "2023-07-27 7:02:49 +02:00",
+    "name": "27 juli 06:00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-0600-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 437611,
+    "datetime": "2023-07-27 6:58:53 +02:00",
+    "name": "27 juli 00:53, Stöld, Kristianstad",
+    "summary": "Stöld av cykel",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-0053-stold-kristianstad/",
+    "type": "Stöld",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 437610,
+    "datetime": "2023-07-27 6:56:53 +02:00",
+    "name": "27 juli 00:44, Misshandel, Malmö",
+    "summary": "Misshandel på buss",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-0044-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 437608,
     "datetime": "2023-07-27 4:15:32 +02:00",
     "name": "27 juli 00:34, Rattfylleri, Norrbottens län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 434998,
-    "datetime": "2023-07-18 13:32:07 +02:00",
-    "name": "18 juli 12:05, Skadegörelse, Östersund",
-    "summary": "Man misstänks för skadegörelse i centrum.",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1205-skadegorelse-ostersund/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 434996,
-    "datetime": "2023-07-18 13:19:05 +02:00",
-    "name": "18 juli 13:01, Trafikolycka, Gällivare",
-    "summary": "Trafikolycka på E10 Skaulo, Gällivare.",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1301-trafikolycka-gallivare/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 434995,
-    "datetime": "2023-07-18 13:18:57 +02:00",
-    "name": "18 juli 12:06, Trafikolycka, Göteborg",
-    "summary": "Lastbil och personbil i kollision",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1206-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 434994,
-    "datetime": "2023-07-18 12:55:34 +02:00",
-    "name": "18 juli 10:59, Fylleri/LOB, Härnösand",
-    "summary": "Berusad man omhändertagen i Härnösands centrum.",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-1059-fyllerilob-harnosand/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 434993,
-    "datetime": "2023-07-18 12:51:45 +02:00",
-    "name": "18 juli 09:07, Narkotikabrott, Timrå",
-    "summary": "Man misstänks för ringa narkotikabrott genom eget bruk.",
-    "url": "/aktuellt/handelser/2023/juli/18/18-juli-0907-narkotikabrott-timra/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
     }
   }
 ]
