@@ -1,5 +1,41 @@
 [
   {
+    "id": 437747,
+    "datetime": "2023-07-28 12:04:09 +02:00",
+    "name": "28 juli 11:57, Trafikolycka, Ängelholm",
+    "summary": "Buss och lastbil i olycka, Hjärnarp.",
+    "url": "/aktuellt/handelser/2023/juli/28/28-juli-1157-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 437748,
+    "datetime": "2023-07-28 12:05:36 +02:00",
+    "name": "28 juli 08:42, Rattfylleri, Sunne",
+    "summary": "En manlig bilist är misstänkt för grovt rattfylleri",
+    "url": "/aktuellt/handelser/2023/juli/28/28-juli-0842-rattfylleri-sunne/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 437629,
+    "datetime": "2023-07-27 8:00:43 +02:00",
+    "name": "27 juli 08:00, Övrigt, Karlstad",
+    "summary": "Lägesuppdatering gällande skjutning i Karlstad, 20 juli 2023",
+    "url": "/aktuellt/handelser/2023/juli/27/27-juli-0800-ovrigt-karlstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 437737,
     "datetime": "2023-07-28 10:09:10 +02:00",
     "name": "28 juli 09:55, Trafikolycka, Malmö",
@@ -1041,18 +1077,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 437629,
-    "datetime": "2023-07-27 8:00:43 +02:00",
-    "name": "27 juli 08:00, Övrigt, Karlstad",
-    "summary": "Lägesuppdatering gällande skjutning i Karlstad, 20 juli 2023",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-0800-ovrigt-karlstad/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 437094,
-    "datetime": "2023-07-19 21:46:55 +02:00",
-    "name": "19 juli 21:45, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juli/19/19-juli-2145-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 437093,
-    "datetime": "2023-07-19 21:46:49 +02:00",
-    "name": "19 juli 21:45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juli/19/19-juli-2145-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
