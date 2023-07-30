@@ -1,5 +1,65 @@
 [
   {
+    "id": 437891,
+    "datetime": "2023-07-30 14:28:03 +02:00",
+    "name": "30 juli 14:02, Brand, Ekerö",
+    "summary": "Det brinner i en villa i Färentuna.",
+    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1402-brand-ekero/",
+    "type": "Brand",
+    "location": {
+      "name": "Ekerö",
+      "gps": "59.279834,17.790225"
+    }
+  },
+  {
+    "id": 437890,
+    "datetime": "2023-07-30 14:24:46 +02:00",
+    "name": "30 juli 13:38, Trafikolycka, Bromölla",
+    "summary": "MC-förare till sjukhus efter olycka, Näsum.",
+    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1338-trafikolycka-bromolla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Bromölla",
+      "gps": "56.074362,14.477659"
+    }
+  },
+  {
+    "id": 437889,
+    "datetime": "2023-07-30 14:15:45 +02:00",
+    "name": "30 juli 14:03, Trafikolycka, vilt, Sundsvall",
+    "summary": "Polisen får in en anmälan om en viltolycka på Skärgårdsvägen, Södra Alnö.",
+    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1403-trafikolycka-vilt-sundsvall/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 437888,
+    "datetime": "2023-07-30 14:13:36 +02:00",
+    "name": "30 juli 13:06, Fylleri/LOB, Sundsvall",
+    "summary": "Polisen kontaktas angående en berusad man på en väg på Södermalm.",
+    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1306-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 437887,
+    "datetime": "2023-07-30 13:49:54 +02:00",
+    "name": "30 juli 13:38, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken under morgonen/förmiddagen.",
+    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1338-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 437881,
     "datetime": "2023-07-30 13:38:21 +02:00",
     "name": "30 juli 13:38, Våldtäkt, Sollefteå",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 437273,
-    "datetime": "2023-07-21 23:54:45 +02:00",
-    "name": "21 juli 23:14, Rån, Västerås",
-    "summary": "En man blir rånad på sin bil.",
-    "url": "/aktuellt/handelser/2023/juli/21/21-juli-2314-ran-vasteras/",
-    "type": "Rån",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 437272,
-    "datetime": "2023-07-21 23:03:41 +02:00",
-    "name": "21 juli 22:25, Skottlossning, misstänkt, Uppsala",
-    "summary": "Samtal om höga smällar var fyrverkerier.",
-    "url": "/aktuellt/handelser/2023/juli/21/21-juli-2225-skottlossning-misstankt-uppsala/",
-    "type": "Skottlossning, misstänkt",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 437270,
-    "datetime": "2023-07-21 22:00:59 +02:00",
-    "name": "21 juli 20:21, Stöld, Malmö",
-    "summary": "Stöld av moped",
-    "url": "/aktuellt/handelser/2023/juli/21/21-juli-2021-stold-malmo/",
-    "type": "Stöld",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 437268,
-    "datetime": "2023-07-21 21:58:43 +02:00",
-    "name": "21 juli 22:00, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer i dag. Vakthavande befäl svarar på frågor från media i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juli/21/21-juli-2200-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 437267,
-    "datetime": "2023-07-21 21:58:37 +02:00",
-    "name": "21 juli 22:00, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer i dag. Vakthavande befäl svarar på frågor från media i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juli/21/21-juli-2200-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
