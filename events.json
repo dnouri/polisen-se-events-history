@@ -1,5 +1,41 @@
 [
   {
+    "id": 438081,
+    "datetime": "2023-08-01 18:18:37 +02:00",
+    "name": "01 augusti 18:11, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Nya Hjärsta",
+    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1811-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 438080,
+    "datetime": "2023-08-01 18:17:08 +02:00",
+    "name": "01 augusti 17:36, Arbetsplatsolycka, Örebro",
+    "summary": "En olycka har inträffat på ett företag på Pilängen",
+    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1736-arbetsplatsolycka-orebro/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 438070,
+    "datetime": "2023-08-01 15:15:44 +02:00",
+    "name": "01 augusti 14:48, Trafikolycka, singel, Kristianstad",
+    "summary": "Singelolycka med personbil, Fredriksdalsvägen.",
+    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1448-trafikolycka-singel-kristianstad/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
     "id": 438079,
     "datetime": "2023-08-01 17:31:16 +02:00",
     "name": "01 augusti 16:44, Rattfylleri, Örebro",
@@ -93,18 +129,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 438070,
-    "datetime": "2023-08-01 15:15:44 +02:00",
-    "name": "01 augusti 14:48, Trafikolycka, singel, Kristianstad",
-    "summary": "Singelolycka med personbil, Fredriksdalsvägen.",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1448-trafikolycka-singel-kristianstad/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 437438,
-    "datetime": "2023-07-24 21:37:52 +02:00",
-    "name": "24 juli 21:36, Bråk, Nässjö",
-    "summary": "Bråk i Nässjö",
-    "url": "/aktuellt/handelser/2023/juli/24/24-juli-2136-brak-nassjo/",
-    "type": "Bråk",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
-    }
-  },
-  {
-    "id": 437437,
-    "datetime": "2023-07-24 21:27:35 +02:00",
-    "name": "24 juli 21:19, Försvunnen person, Storuman",
-    "summary": "Mannen anträffad",
-    "url": "/aktuellt/handelser/2023/juli/24/24-juli-2119-forsvunnen-person-storuman/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
     }
   }
 ]
