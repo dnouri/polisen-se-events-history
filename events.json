@@ -1,5 +1,17 @@
 [
   {
+    "id": 438153,
+    "datetime": "2023-08-02 13:36:38 +02:00",
+    "name": "02 augusti 10:29, Rattfylleri, Gällivare",
+    "summary": "Misstänkt rattfylleri öster om Gällivare.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1029-rattfylleri-gallivare/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
     "id": 438147,
     "datetime": "2023-08-02 13:08:47 +02:00",
     "name": "02 augusti 12:37, Trafikolycka, Timrå",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 438156,
+    "datetime": "2023-08-02 13:32:38 +02:00",
+    "name": "02 augusti 13:31, Narkotikabrott, Borlänge",
+    "summary": "Polispatrull har anträffat en misstänkt påverkad person.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1331-narkotikabrott-borlange/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 438155,
+    "datetime": "2023-08-02 13:32:28 +02:00",
+    "name": "02 augusti 12:49, Trafikkontroll, Lycksele",
+    "summary": "Resultat efter trafikkontroll på länsväg 365 i centrala Lycksele.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1249-trafikkontroll-lycksele/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 438154,
+    "datetime": "2023-08-02 13:27:22 +02:00",
+    "name": "02 augusti 16:45, Övrigt, Kronobergs län",
+    "summary": "Tillfälligt obemannat.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1645-ovrigt-kronobergs-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Tranås",
       "gps": "58.035518,14.975696"
-    }
-  },
-  {
-    "id": 437501,
-    "datetime": "2023-07-25 14:39:18 +02:00",
-    "name": "25 juli 14:17, Rattfylleri, Östra göinge",
-    "summary": "Rv 19, Broby",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1417-rattfylleri-ostra-goinge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Östra göinge",
-      "gps": "56.237877,14.216166"
-    }
-  },
-  {
-    "id": 437500,
-    "datetime": "2023-07-25 14:33:53 +02:00",
-    "name": "25 juli 08:53, Rattfylleri, Umeå",
-    "summary": "Misstänkt drograttfylleri i Umeå.",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-0853-rattfylleri-umea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 437498,
-    "datetime": "2023-07-25 14:22:14 +02:00",
-    "name": "25 juli 11:17, Trafikkontroll, Härjedalen",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1117-trafikkontroll-harjedalen/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 437496,
-    "datetime": "2023-07-25 14:14:47 +02:00",
-    "name": "25 juli 12:59, Olovlig körning, Kramfors",
-    "summary": "Grov olovlig körning i centrum.",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1259-olovlig-korning-kramfors/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   }
 ]
