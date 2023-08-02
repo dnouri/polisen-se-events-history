@@ -1,14 +1,50 @@
 [
   {
-    "id": 438153,
-    "datetime": "2023-08-02 13:36:38 +02:00",
-    "name": "02 augusti 10:29, Rattfylleri, Gällivare",
-    "summary": "Misstänkt rattfylleri öster om Gällivare.",
-    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1029-rattfylleri-gallivare/",
+    "id": 438144,
+    "datetime": "2023-08-02 14:38:29 +02:00",
+    "name": "02 augusti 14:38, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1438-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 438159,
+    "datetime": "2023-08-02 14:38:13 +02:00",
+    "name": "02 augusti 13:30, Trafikkontroll, Lycksele",
+    "summary": "Resultat efter trafikkontroll på länsväg 365, Bratten.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1330-trafikkontroll-lycksele/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 438160,
+    "datetime": "2023-08-02 14:36:27 +02:00",
+    "name": "02 augusti 14:35, Rattfylleri, Värnamo",
+    "summary": "En person har frihetsberövats misstänkt för rattfylleri. Polispatrullen kunde komma i kontakt med mannen efter",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1435-rattfylleri-varnamo/",
     "type": "Rattfylleri",
     "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 438157,
+    "datetime": "2023-08-02 14:14:40 +02:00",
+    "name": "02 augusti 13:26, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka på Kolbäcksvägen, Carlshem.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1326-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -21,6 +57,18 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 438153,
+    "datetime": "2023-08-02 13:36:38 +02:00",
+    "name": "02 augusti 10:29, Rattfylleri, Gällivare",
+    "summary": "Misstänkt rattfylleri öster om Gällivare.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1029-rattfylleri-gallivare/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
     }
   },
   {
@@ -45,18 +93,6 @@
     "location": {
       "name": "Lycksele",
       "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 438154,
-    "datetime": "2023-08-02 13:27:22 +02:00",
-    "name": "02 augusti 16:45, Övrigt, Kronobergs län",
-    "summary": "Tillfälligt obemannat.",
-    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-1645-ovrigt-kronobergs-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 437508,
-    "datetime": "2023-07-25 15:02:34 +02:00",
-    "name": "25 juli 13:57, Fylleri/LOB, Gotlands län",
-    "summary": "Ordningsvakter omhändertog en berusad man på Österväg.",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1357-fyllerilob-gotlands-lan/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 437507,
-    "datetime": "2023-07-25 15:00:39 +02:00",
-    "name": "25 juli 14:08, Efterlyst person, Stockholm",
-    "summary": "Den man som polisen kontrollerade på Vasagatan var efterlyst av Kriminalvården.",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1408-efterlyst-person-stockholm/",
-    "type": "Efterlyst person",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 437506,
-    "datetime": "2023-07-25 14:57:36 +02:00",
-    "name": "25 juli 14:54, Arbetsplatsolycka, Tranås",
-    "summary": "Misstänkt arbetsplatsolycka i Tranås",
-    "url": "/aktuellt/handelser/2023/juli/25/25-juli-1454-arbetsplatsolycka-tranas/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Tranås",
-      "gps": "58.035518,14.975696"
     }
   }
 ]
