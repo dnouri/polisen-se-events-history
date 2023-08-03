@@ -1,5 +1,65 @@
 [
   {
+    "id": 438246,
+    "datetime": "2023-08-03 13:35:59 +02:00",
+    "name": "03 augusti 12:36, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka på Nygatan/Östra Kyrkogatan i Umeå.",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-1236-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 438254,
+    "datetime": "2023-08-03 13:34:15 +02:00",
+    "name": "03 augusti 12:42, Trafikkontroll, Arvidsjaur",
+    "summary": "Resultat efter trafikkontroll i Abborrträsk.",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-1242-trafikkontroll-arvidsjaur/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Arvidsjaur",
+      "gps": "65.592077,19.180283"
+    }
+  },
+  {
+    "id": 438256,
+    "datetime": "2023-08-03 13:30:13 +02:00",
+    "name": "03 augusti 13:18, Trafikolycka, Rättvik",
+    "summary": "En mopedist har kört omkull vid Björnberget",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-1318-trafikolycka-rattvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
+    "id": 438253,
+    "datetime": "2023-08-03 13:19:02 +02:00",
+    "name": "03 augusti 11:55, Brand, Söderhamn",
+    "summary": "Sågverk brinner i Ljusne.",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-1155-brand-soderhamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
+    "id": 438252,
+    "datetime": "2023-08-03 13:18:40 +02:00",
+    "name": "03 augusti 10:39, Misshandel, Boden",
+    "summary": "Polispatrull beordras till Sanden med anledning av ett bråk/slagsmål mellan två män på en parkering.",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-1039-misshandel-boden/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 438244,
     "datetime": "2023-08-03 12:31:58 +02:00",
     "name": "03 augusti 12:07, Trafikolycka, Leksand",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 437597,
-    "datetime": "2023-07-26 21:46:14 +02:00",
-    "name": "26 juli 21:45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-2145-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 437598,
-    "datetime": "2023-07-26 21:46:04 +02:00",
-    "name": "26 juli 21:45, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-2145-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 437600,
-    "datetime": "2023-07-26 21:21:36 +02:00",
-    "name": "26 juli 20:35, Inbrott, Lund",
-    "summary": "Inbrott i villa, Galjevången.",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-2035-inbrott-lund/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 437599,
-    "datetime": "2023-07-26 20:54:38 +02:00",
-    "name": "26 juli 19:50, Sjölagen, Orsa",
-    "summary": "Sjöpolisen har stoppat en misstänkt sjöfyllerist.",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-1950-sjolagen-orsa/",
-    "type": "Sjölagen",
-    "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
-    }
-  },
-  {
-    "id": 437591,
-    "datetime": "2023-07-26 16:53:08 +02:00",
-    "name": "26 juli 16:00, Olaga intrång, Örebro",
-    "summary": "Två personer är misstänkta för brott i samband med en klimataktion.",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-1600-olaga-intrang-orebro/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
