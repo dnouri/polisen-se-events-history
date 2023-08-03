@@ -1,5 +1,65 @@
 [
   {
+    "id": 438201,
+    "datetime": "2023-08-03 7:30:32 +02:00",
+    "name": "02 augusti 23:44, Farligt föremål, misstänkt, Uppsala",
+    "summary": "Försök till allmänfarlig ödeläggelse.",
+    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-2344-farligt-foremal-misstankt-uppsala/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 438206,
+    "datetime": "2023-08-03 8:17:03 +02:00",
+    "name": "03 augusti 08:10, Trafikolycka, Lund",
+    "summary": "Larm om trafikolycka, LV797",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-0810-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 438196,
+    "datetime": "2023-08-03 7:59:49 +02:00",
+    "name": "03 augusti 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "En lugn natt i Jönköpings län. Inga större händelser som inträffat.",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 438203,
+    "datetime": "2023-08-03 7:59:38 +02:00",
+    "name": "03 augusti 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort nattsammanfattning med ett urval av händelser efter kl. 22 igår kväll. Ingen större händels",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 438205,
+    "datetime": "2023-08-03 7:59:31 +02:00",
+    "name": "03 augusti 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer ett kort urval av händelser från natten. Ingen större händelse att rapportera.",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 438204,
     "datetime": "2023-08-03 7:43:39 +02:00",
     "name": "03 augusti 07:43, Sammanfattning natt, Norrbottens län",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 438201,
-    "datetime": "2023-08-03 7:30:32 +02:00",
-    "name": "02 augusti 23:44, Farligt föremål, misstänkt, Uppsala",
-    "summary": "Försök till allmänfarlig ödeläggelse.",
-    "url": "/aktuellt/handelser/2023/augusti/2/02-augusti-2344-farligt-foremal-misstankt-uppsala/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Heby",
       "gps": "59.939637,16.858759"
-    }
-  },
-  {
-    "id": 437573,
-    "datetime": "2023-07-26 12:04:57 +02:00",
-    "name": "26 juli 12:04, Trafikkontroll, Lycksele",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-1204-trafikkontroll-lycksele/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 437572,
-    "datetime": "2023-07-26 12:00:44 +02:00",
-    "name": "26 juli 12:00, Trafikkontroll, Örnsköldsvik",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-1200-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 437570,
-    "datetime": "2023-07-26 11:26:26 +02:00",
-    "name": "26 juli 11:25, Inbrott, Norrköping",
-    "summary": "Stulen bil stoppad",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-1125-inbrott-norrkoping/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 437564,
-    "datetime": "2023-07-26 10:17:46 +02:00",
-    "name": "26 juli 09:50, Trafikhinder, Kalix",
-    "summary": "Trafikhinder på E4 Stråkanäs, Innanbäcken, Kalix. Totalstopp i trafiken.",
-    "url": "/aktuellt/handelser/2023/juli/26/26-juli-0950-trafikhinder-kalix/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   }
 ]
