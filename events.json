@@ -1,5 +1,101 @@
 [
   {
+    "id": 438334,
+    "datetime": "2023-08-04 8:02:44 +02:00",
+    "name": "04 augusti 00:03, Rattfylleri, Mönsterås",
+    "summary": "Man misstänkt för rattfylleri efter att en ko blivit påkörd",
+    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0003-rattfylleri-monsteras/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Mönsterås",
+      "gps": "57.04158,16.44312"
+    }
+  },
+  {
+    "id": 438322,
+    "datetime": "2023-08-04 8:00:43 +02:00",
+    "name": "04 augusti 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "Natten i Polisområde Jönjöping har avlöpt utan större händelser eller ärenden som sticker ut.",
+    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 438323,
+    "datetime": "2023-08-04 8:00:36 +02:00",
+    "name": "04 augusti 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer ett urval av händelser från natten som varit lugn överlag.",
+    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 438324,
+    "datetime": "2023-08-04 8:00:31 +02:00",
+    "name": "04 augusti 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer ett kort urval från natten händelser.",
+    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 438333,
+    "datetime": "2023-08-04 7:57:53 +02:00",
+    "name": "04 augusti 07:22, Brand, Lerum",
+    "summary": "Vi får larm om en brand i ett skogsparti vid Hulanmotet längs E20.",
+    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0722-brand-lerum/",
+    "type": "Brand",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 438289,
+    "datetime": "2023-08-03 16:27:29 +02:00",
+    "name": "03 augusti 12:59, Försvunnen person, Hörby",
+    "summary": "Polisen söker efter en försvunnen kvinna, Stångabacken.",
+    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-1259-forsvunnen-person-horby/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Hörby",
+      "gps": "55.851716,13.661926"
+    }
+  },
+  {
+    "id": 438328,
+    "datetime": "2023-08-04 7:47:37 +02:00",
+    "name": "04 augusti 07:47, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0747-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 438332,
+    "datetime": "2023-08-04 7:47:16 +02:00",
+    "name": "04 augusti 07:47, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0747-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 438331,
     "datetime": "2023-08-04 7:35:48 +02:00",
     "name": "04 augusti 07:35, Sammanfattning natt, Örebro län",
@@ -417,18 +513,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 438289,
-    "datetime": "2023-08-03 16:27:29 +02:00",
-    "name": "03 augusti 12:59, Försvunnen person, Hörby",
-    "summary": "Polisen söker efter en försvunnen kvinna, Stångabacken.",
-    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-1259-forsvunnen-person-horby/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Rättvik",
       "gps": "60.889025,15.123373"
-    }
-  },
-  {
-    "id": 437685,
-    "datetime": "2023-07-27 18:42:43 +02:00",
-    "name": "27 juli 16:06, Rån, Nybro",
-    "summary": "Kvinna rånad på halsband, Myrdalen.",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1606-ran-nybro/",
-    "type": "Rån",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 437679,
-    "datetime": "2023-07-27 17:54:35 +02:00",
-    "name": "27 juli 15:45, Rån, Kungälv",
-    "summary": "Ett larm kommer in från en man i 35-årsåldern som uppger att han har blivit rånad av två gärningspersoner med ",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1545-ran-kungalv/",
-    "type": "Rån",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 437670,
-    "datetime": "2023-07-27 14:27:04 +02:00",
-    "name": "27 juli 13:04, Trafikolycka, personskada, Norrtälje",
-    "summary": "Frontalkrock med flera skadade personer.",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1304-trafikolycka-personskada-norrtalje/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 437683,
-    "datetime": "2023-07-27 17:57:55 +02:00",
-    "name": "27 juli 17:55, Olaga hot, Kristinehamn",
-    "summary": "En man i 60-årsåldern är frihetsberövad, misstänkt för grovt olaga hot.",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1755-olaga-hot-kristinehamn/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 437615,
-    "datetime": "2023-07-27 7:24:04 +02:00",
-    "name": "27 juli 06:19, Mord/dråp, försök, Göteborg",
-    "summary": "Polisen larmas till en adress i Frölunda med anledning av att en kvinna blöder kraftigt efter att blivit skure",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-0619-morddrap-forsok-goteborg/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 437673,
-    "datetime": "2023-07-27 14:44:48 +02:00",
-    "name": "27 juli 13:19, Trafikolycka, personskada, Gotlands län",
-    "summary": "Två personer skadas vid körning på en racerbana i Lärbro.",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1319-trafikolycka-personskada-gotlands-lan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 437672,
-    "datetime": "2023-07-27 14:43:51 +02:00",
-    "name": "27 juli 14:05, Trafikolycka, Piteå",
-    "summary": "Trafikolycka på E4 Jävre, Piteå.",
-    "url": "/aktuellt/handelser/2023/juli/27/27-juli-1405-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
     }
   }
 ]
