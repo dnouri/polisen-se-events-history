@@ -1,5 +1,89 @@
 [
   {
+    "id": 438663,
+    "datetime": "2023-08-07 14:31:19 +02:00",
+    "name": "07 augusti 13:48, Våld/hot mot tjänsteman, Göteborg",
+    "summary": "Vid Korsvägen är det en biljettkontrollant som blir slagen i ansiktet av en manlig resenär.",
+    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1348-valdhot-mot-tjansteman-goteborg/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 438662,
+    "datetime": "2023-08-07 14:18:04 +02:00",
+    "name": "07 augusti 13:14, Stöld, Östersund",
+    "summary": "Misstänkt ringa stöld i klädbutik i centrala Östersund.",
+    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1314-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 438661,
+    "datetime": "2023-08-07 14:15:26 +02:00",
+    "name": "07 augusti 14:08, Trafikolycka, personskada, Mora",
+    "summary": "En trafikolycka, singelolycka med personbil, har inträffat på riksväg 26 vid Landbrobyn, Mora.",
+    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1408-trafikolycka-personskada-mora/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 438660,
+    "datetime": "2023-08-07 14:01:50 +02:00",
+    "name": "07 augusti 09:35, Stöld/inbrott, Borlänge",
+    "summary": "En byggarbetsplats i Södra Backa, Borlänge har drabbats av inbrott.",
+    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-0935-stoldinbrott-borlange/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 438644,
+    "datetime": "2023-08-07 12:22:39 +02:00",
+    "name": "07 augusti 12:02, Trafikolycka, Sundsvall",
+    "summary": "Larm om trafikolycka på E4, Birsta.",
+    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1202-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 438649,
+    "datetime": "2023-08-07 12:58:02 +02:00",
+    "name": "07 augusti 12:39, Trafikolycka, Hudiksvall",
+    "summary": "Tåg spårar ur mellan Iggesund och Hudiksvall.",
+    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1239-trafikolycka-hudiksvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 438659,
+    "datetime": "2023-08-07 13:45:02 +02:00",
+    "name": "07 augusti 13:37, Trafikolycka, Båstad",
+    "summary": "Larm om trafikolycka, E6 Östra Karup",
+    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1337-trafikolycka-bastad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Båstad",
+      "gps": "56.427389,12.847722"
+    }
+  },
+  {
     "id": 438647,
     "datetime": "2023-08-07 12:41:18 +02:00",
     "name": "07 augusti 12:28, Trafikolycka, Lund",
@@ -45,30 +129,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 438649,
-    "datetime": "2023-08-07 12:58:02 +02:00",
-    "name": "07 augusti 12:39, Trafikolycka, Hudiksvall",
-    "summary": "Tåg spårar ur mellan Iggesund och Hudiksvall.",
-    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1239-trafikolycka-hudiksvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 438644,
-    "datetime": "2023-08-07 12:22:39 +02:00",
-    "name": "07 augusti 12:02, Trafikolycka, Sundsvall",
-    "summary": "Larm om trafikolycka på E4, Birsta.",
-    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1202-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 437891,
-    "datetime": "2023-07-30 14:28:03 +02:00",
-    "name": "30 juli 14:02, Brand, Ekerö",
-    "summary": "Det brinner i en villa i Färentuna.",
-    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1402-brand-ekero/",
-    "type": "Brand",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 437892,
-    "datetime": "2023-07-30 14:47:42 +02:00",
-    "name": "30 juli 12:22, Rattfylleri, Timrå",
-    "summary": "Misstänkt rattfylleri, Östrand.",
-    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1222-rattfylleri-timra/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 437893,
-    "datetime": "2023-07-30 14:45:33 +02:00",
-    "name": "30 juli 13:06, Trafikkontroll, Umeå",
-    "summary": "Resultat efter trafikkontroll på Morkullevägen, Mariedal.",
-    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1306-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 437890,
-    "datetime": "2023-07-30 14:24:46 +02:00",
-    "name": "30 juli 13:38, Trafikolycka, Bromölla",
-    "summary": "MC-förare till sjukhus efter olycka, Näsum.",
-    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1338-trafikolycka-bromolla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bromölla",
-      "gps": "56.074362,14.477659"
-    }
-  },
-  {
-    "id": 437889,
-    "datetime": "2023-07-30 14:15:45 +02:00",
-    "name": "30 juli 14:03, Trafikolycka, vilt, Sundsvall",
-    "summary": "Polisen får in en anmälan om en viltolycka på Skärgårdsvägen, Södra Alnö.",
-    "url": "/aktuellt/handelser/2023/juli/30/30-juli-1403-trafikolycka-vilt-sundsvall/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
