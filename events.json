@@ -1,5 +1,65 @@
 [
   {
+    "id": 438722,
+    "datetime": "2023-08-08 9:03:08 +02:00",
+    "name": "08 augusti 07:23, Trafikolycka, Västerås",
+    "summary": "Personbil kollideras med buss.",
+    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0723-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 438721,
+    "datetime": "2023-08-08 9:01:49 +02:00",
+    "name": "08 augusti 07:31, Arbetsplatsolycka, Trelleborg",
+    "summary": "Arbetsplatsolycka, Skegrie",
+    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0731-arbetsplatsolycka-trelleborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 438719,
+    "datetime": "2023-08-08 8:53:57 +02:00",
+    "name": "08 augusti 08:46, Arbetsplatsolycka, Olofström",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0846-arbetsplatsolycka-olofstrom/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Olofström",
+      "gps": "56.277708,14.530938"
+    }
+  },
+  {
+    "id": 438718,
+    "datetime": "2023-08-08 8:52:10 +02:00",
+    "name": "08 augusti 08:41, Trafikolycka, Hörby",
+    "summary": "Larm om trafikolycka på LV1335",
+    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0841-trafikolycka-horby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hörby",
+      "gps": "55.851716,13.661926"
+    }
+  },
+  {
+    "id": 438715,
+    "datetime": "2023-08-08 7:53:57 +02:00",
+    "name": "08 augusti 07:48, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat i Tingvallastaden",
+    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0748-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 438714,
     "datetime": "2023-08-08 8:03:48 +02:00",
     "name": "08 augusti 07:52, Sammanfattning natt, Södermanlands län",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 438715,
-    "datetime": "2023-08-08 7:53:57 +02:00",
-    "name": "08 augusti 07:48, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat i Tingvallastaden",
-    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0748-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 437977,
-    "datetime": "2023-07-31 17:00:11 +02:00",
-    "name": "31 juli 14:40, Anträffat gods, Stockholm",
-    "summary": "Det plastvapen och den kniv som hittades i Älvsjö kommer förstöras.",
-    "url": "/aktuellt/handelser/2023/juli/31/31-juli-1440-antraffat-gods-stockholm/",
-    "type": "Anträffat gods",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 437974,
-    "datetime": "2023-07-31 16:29:43 +02:00",
-    "name": "31 juli 13:48, Misshandel, Nora",
-    "summary": "En man är misstänkt för brott mot anhöriga i deras gemensamma bostad",
-    "url": "/aktuellt/handelser/2023/juli/31/31-juli-1348-misshandel-nora/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Nora",
-      "gps": "59.519206,15.037867"
-    }
-  },
-  {
-    "id": 437973,
-    "datetime": "2023-07-31 16:10:35 +02:00",
-    "name": "31 juli 16:03, Trafikolycka, Skurup",
-    "summary": "Personbil och lastbil i olycka, E65.",
-    "url": "/aktuellt/handelser/2023/juli/31/31-juli-1603-trafikolycka-skurup/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skurup",
-      "gps": "55.48045,13.502349"
-    }
-  },
-  {
-    "id": 437916,
-    "datetime": "2023-07-31 5:26:13 +02:00",
-    "name": "31 juli 05:20, Detonation, Linköping",
-    "summary": "Explosion i Skäggetorp, Linköping.",
-    "url": "/aktuellt/handelser/2023/juli/31/31-juli-0520-detonation-linkoping/",
-    "type": "Detonation",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   }
 ]
