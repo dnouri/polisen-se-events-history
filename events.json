@@ -1,5 +1,65 @@
 [
   {
+    "id": 438833,
+    "datetime": "2023-08-09 11:15:23 +02:00",
+    "name": "09 augusti 10:13, Trafikolycka, Varberg",
+    "summary": "I korsningen Östra Långgatan/Kyrkogattan är en cyklist och en personbil inblandade i en olycka.",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1013-trafikolycka-varberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 438832,
+    "datetime": "2023-08-09 11:14:08 +02:00",
+    "name": "09 augusti 10:45, Trafikkontroll, Umeå",
+    "summary": "Resultat efter trafikkontroll avs nykterhet.",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1045-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 438831,
+    "datetime": "2023-08-09 11:08:37 +02:00",
+    "name": "09 augusti 10:58, Trafikkontroll, Bräcke",
+    "summary": "Resultat efter trafikkontroll avs nykterhet i Bräcke.",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1058-trafikkontroll-bracke/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Bräcke",
+      "gps": "62.750741,15.422575"
+    }
+  },
+  {
+    "id": 438830,
+    "datetime": "2023-08-09 11:04:26 +02:00",
+    "name": "09 augusti 10:28, Stöld/inbrott, Falkenberg",
+    "summary": "En man i 50-årsåldern kontaktar polis och uppger att någon tagit sig in i bostaden medan han och hans barn låg",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1028-stoldinbrott-falkenberg/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 438827,
+    "datetime": "2023-08-09 10:55:25 +02:00",
+    "name": "09 augusti 10:14, Trafikolycka, personskada, Leksand",
+    "summary": "En trafikolycka har inträffat vid Vargnäs, Leksands kommun.",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1014-trafikolycka-personskada-leksand/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Leksand",
+      "gps": "60.730308,14.999892"
+    }
+  },
+  {
     "id": 438823,
     "datetime": "2023-08-09 10:14:16 +02:00",
     "name": "09 augusti 08:18, Trafikkontroll, Skellefteå",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Mellerud",
       "gps": "58.702568,12.451842"
-    }
-  },
-  {
-    "id": 438080,
-    "datetime": "2023-08-01 18:17:08 +02:00",
-    "name": "01 augusti 17:36, Arbetsplatsolycka, Örebro",
-    "summary": "En olycka har inträffat på ett företag på Pilängen",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1736-arbetsplatsolycka-orebro/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 438077,
-    "datetime": "2023-08-01 17:05:16 +02:00",
-    "name": "01 augusti 15:45, Arbetsplatsolycka, Örebro",
-    "summary": "En olycka har inträffat i Brickebacken",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1545-arbetsplatsolycka-orebro/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 438070,
-    "datetime": "2023-08-01 15:15:44 +02:00",
-    "name": "01 augusti 14:48, Trafikolycka, singel, Kristianstad",
-    "summary": "Singelolycka med personbil, Fredriksdalsvägen.",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1448-trafikolycka-singel-kristianstad/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 438079,
-    "datetime": "2023-08-01 17:31:16 +02:00",
-    "name": "01 augusti 16:44, Rattfylleri, Örebro",
-    "summary": "En bilist är misstänkt för brott på Väster",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1644-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 438072,
-    "datetime": "2023-08-01 15:38:38 +02:00",
-    "name": "01 augusti 12:44, Olaga hot, Gagnef",
-    "summary": "En man är misstänkt för brott mot en kvinna",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1244-olaga-hot-gagnef/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Gagnef",
-      "gps": "60.590983,15.070049"
     }
   }
 ]
