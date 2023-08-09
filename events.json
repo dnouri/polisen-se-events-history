@@ -1,5 +1,77 @@
 [
   {
+    "id": 438809,
+    "datetime": "2023-08-09 8:09:19 +02:00",
+    "name": "09 augusti 04:56, Rattfylleri, Täby",
+    "summary": "I samband med att en polispatrull kontrollerade en förare av personbil på Härdstigen/Ingefast väg uppstod miss",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0456-rattfylleri-taby/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
+    "id": 438808,
+    "datetime": "2023-08-09 8:05:54 +02:00",
+    "name": "09 augusti 07:06, Åldringsbrott, Göteborg",
+    "summary": "En kvinna i 80-årsåldern kontaktar polisen och uppger att hon fått ett samtal från någon som utgett sig för at",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0706-aldringsbrott-goteborg/",
+    "type": "Åldringsbrott",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 438807,
+    "datetime": "2023-08-09 8:02:38 +02:00",
+    "name": "09 augusti 00:11, Rån, försök, Stockholm",
+    "summary": "Polis kallas till Kronobergsparken med anledning till att en person utsatts för rånförsök.",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0011-ran-forsok-stockholm/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 438784,
+    "datetime": "2023-08-09 8:00:27 +02:00",
+    "name": "09 augusti 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning med ett urval av händelser som inkommit/upprättats efter kl. 22.00 igår kväl",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 438785,
+    "datetime": "2023-08-09 8:00:23 +02:00",
+    "name": "09 augusti 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning med ett urval av händelser som inkommit/upprättats efter kl. 22.00 igår kväl",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 438786,
+    "datetime": "2023-08-09 8:00:18 +02:00",
+    "name": "09 augusti 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning med ett urval av händelser som inkommit/upprättats efter kl. 22.00 igår kväl",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 438805,
     "datetime": "2023-08-09 7:28:19 +02:00",
     "name": "09 augusti 07:21, Trafikolycka, Eslöv",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 438057,
-    "datetime": "2023-08-01 14:02:57 +02:00",
-    "name": "01 augusti 11:51, Fjällräddning, Jokkmokk",
-    "summary": "Fjällräddning i Jokkmokksfjällen.",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1151-fjallraddning-jokkmokk/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 438056,
-    "datetime": "2023-08-01 13:43:36 +02:00",
-    "name": "01 augusti 10:13, Olovlig körning, Gällivare",
-    "summary": "Man misstänks för olovlig körning i Gällivare.",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1013-olovlig-korning-gallivare/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 438055,
-    "datetime": "2023-08-01 13:37:35 +02:00",
-    "name": "01 augusti 11:32, Arbetsplatsolycka, Gällivare",
-    "summary": "Man till sjukvård efter arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-1132-arbetsplatsolycka-gallivare/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 438053,
-    "datetime": "2023-08-01 13:12:45 +02:00",
-    "name": "01 augusti 09:40, Fylleri/LOB, Härnösand",
-    "summary": "Påverkad kvinna omhändertagen i Kronholmen, Härnösand.",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-0940-fyllerilob-harnosand/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 437976,
-    "datetime": "2023-07-31 16:39:01 +02:00",
-    "name": "31 juli 14:03, Mord/dråp, försök, Robertsfors",
-    "summary": "Förundersökning inledd gällande mordförsök, grovt vapenbrott mm.",
-    "url": "/aktuellt/handelser/2023/juli/31/31-juli-1403-morddrap-forsok-robertsfors/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 438043,
-    "datetime": "2023-08-01 9:55:53 +02:00",
-    "name": "01 augusti 09:27, Trafikolycka, Överkalix",
-    "summary": "Trafikolycka mellan Morjärv och Överkalix.",
-    "url": "/aktuellt/handelser/2023/augusti/1/01-augusti-0927-trafikolycka-overkalix/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Överkalix",
-      "gps": "66.327176,22.842752"
     }
   }
 ]
