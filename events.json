@@ -1,23 +1,23 @@
 [
   {
-    "id": 439093,
-    "datetime": "2023-08-11 16:42:10 +02:00",
-    "name": "11 augusti 14:40, Trafikolycka, Västerås",
-    "summary": "Trafikolycka mellan buss och skåpbil i centrala Västerås.",
-    "url": "/aktuellt/handelser/2023/augusti/11/11-augusti-1440-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
     "id": 439092,
     "datetime": "2023-08-11 16:40:03 +02:00",
     "name": "11 augusti 16:33, Rån väpnat, Stockholm",
     "summary": "En man har genom hot med vapen rånats på en moped i Vårberg.",
     "url": "/aktuellt/handelser/2023/augusti/11/11-augusti-1633-ran-vapnat-stockholm/",
     "type": "Rån väpnat",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 439096,
+    "datetime": "2023-08-11 16:45:43 +02:00",
+    "name": "11 augusti 16:42, Brand, Stockholm",
+    "summary": "Det kommer ut rök från taket på en fastighet i Vasastaden.",
+    "url": "/aktuellt/handelser/2023/augusti/11/11-augusti-1642-brand-stockholm/",
+    "type": "Brand",
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
@@ -33,6 +33,18 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 439093,
+    "datetime": "2023-08-11 16:42:10 +02:00",
+    "name": "11 augusti 14:40, Trafikolycka, Västerås",
+    "summary": "Trafikolycka mellan buss och skåpbil i centrala Västerås.",
+    "url": "/aktuellt/handelser/2023/augusti/11/11-augusti-1440-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 438314,
-    "datetime": "2023-08-03 22:00:06 +02:00",
-    "name": "03 augusti 22:00, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/augusti/3/03-augusti-2200-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
