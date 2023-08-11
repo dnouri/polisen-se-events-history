@@ -1,5 +1,41 @@
 [
   {
+    "id": 439108,
+    "datetime": "2023-08-11 21:11:29 +02:00",
+    "name": "11 augusti 21:04, Misshandel, Jönköping",
+    "summary": "Misshandel i Huskvarna",
+    "url": "/aktuellt/handelser/2023/augusti/11/11-augusti-2104-misshandel-jonkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 439107,
+    "datetime": "2023-08-11 21:06:57 +02:00",
+    "name": "11 augusti 20:34, Trafikolycka, vilt, Älmhult",
+    "summary": "Lv124, mellan Liatorp och Ugnhult. Kollision mellan personbil och älg.",
+    "url": "/aktuellt/handelser/2023/augusti/11/11-augusti-2034-trafikolycka-vilt-almhult/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Älmhult",
+      "gps": "56.552446,14.137405"
+    }
+  },
+  {
+    "id": 439085,
+    "datetime": "2023-08-11 15:50:14 +02:00",
+    "name": "11 augusti 13:26, Misshandel, grov, Uppsala",
+    "summary": "Misstänkt misshandel i Stenhagen.",
+    "url": "/aktuellt/handelser/2023/augusti/11/11-augusti-1326-misshandel-grov-uppsala/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 439106,
     "datetime": "2023-08-11 20:14:12 +02:00",
     "name": "11 augusti 19:31, Övrigt, Norrtälje",
@@ -105,18 +141,6 @@
     "location": {
       "name": "Hudiksvall",
       "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 439085,
-    "datetime": "2023-08-11 15:50:14 +02:00",
-    "name": "11 augusti 13:26, Misshandel, grov, Uppsala",
-    "summary": "Misstänkt misshandel i Stenhagen.",
-    "url": "/aktuellt/handelser/2023/augusti/11/11-augusti-1326-misshandel-grov-uppsala/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 438320,
-    "datetime": "2023-08-04 7:00:12 +02:00",
-    "name": "04 augusti 07:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0700-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 438319,
-    "datetime": "2023-08-04 7:00:06 +02:00",
-    "name": "04 augusti 07:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
