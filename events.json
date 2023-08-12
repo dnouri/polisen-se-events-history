@@ -1,5 +1,77 @@
 [
   {
+    "id": 439171,
+    "datetime": "2023-08-12 14:16:02 +02:00",
+    "name": "12 augusti 10:56, Fjällräddning, Jokkmokk",
+    "summary": "Fjällräddningsinsats, Rapadalen.",
+    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-1056-fjallraddning-jokkmokk/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Jokkmokk",
+      "gps": "66.606961,19.822921"
+    }
+  },
+  {
+    "id": 439170,
+    "datetime": "2023-08-12 14:13:27 +02:00",
+    "name": "12 augusti 13:54, Trafikolycka, vilt, Piteå",
+    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 374 vid ett indutriområde, Öjebyn.",
+    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-1354-trafikolycka-vilt-pitea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 439169,
+    "datetime": "2023-08-12 14:13:11 +02:00",
+    "name": "12 augusti 13:51, Trafikolycka, Lekeberg",
+    "summary": "En olycka har inträffat i Mullhyttan",
+    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-1351-trafikolycka-lekeberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lekeberg",
+      "gps": "59.16539,14.743407"
+    }
+  },
+  {
+    "id": 439147,
+    "datetime": "2023-08-12 10:23:49 +02:00",
+    "name": "12 augusti 08:09, Misshandel, Ljusnarsberg",
+    "summary": "En man är misstänkt för brott mot anhöriga",
+    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0809-misshandel-ljusnarsberg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Ljusnarsberg",
+      "gps": "59.877447,14.998849"
+    }
+  },
+  {
+    "id": 439168,
+    "datetime": "2023-08-12 13:57:26 +02:00",
+    "name": "12 augusti 12:58, Trafikkontroll, Piteå",
+    "summary": "Resultat efter trafikkontroll på länsväg 506, Pitholm.",
+    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-1258-trafikkontroll-pitea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 439167,
+    "datetime": "2023-08-12 13:43:37 +02:00",
+    "name": "12 augusti 11:23, Trafikkontroll, Boden",
+    "summary": "Resultat efter en trafikkontroll på Garnisonsgatan i Boden.",
+    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-1123-trafikkontroll-boden/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 439166,
     "datetime": "2023-08-12 13:31:19 +02:00",
     "name": "12 augusti 13:14, Trafikolycka, vilt, Örnsköldsvik",
@@ -249,18 +321,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 439147,
-    "datetime": "2023-08-12 10:23:49 +02:00",
-    "name": "12 augusti 08:09, Misshandel, Ljusnarsberg",
-    "summary": "En man är misstänkt för brott mot anhöriga",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0809-misshandel-ljusnarsberg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Ljusnarsberg",
-      "gps": "59.877447,14.998849"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 438414,
-    "datetime": "2023-08-04 18:39:15 +02:00",
-    "name": "04 augusti 17:52, Misshandel, Stockholm",
-    "summary": "På Södermalm greps en man misstänkt för misshandel som skett utomhus.",
-    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-1752-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 438412,
-    "datetime": "2023-08-04 18:05:17 +02:00",
-    "name": "04 augusti 16:51, Trafikolycka, personskada, Järfälla",
-    "summary": "Ingen person behövde sjukhusvård efter olyckan på Dackevägen.",
-    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-1651-trafikolycka-personskada-jarfalla/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 438409,
-    "datetime": "2023-08-04 16:43:00 +02:00",
-    "name": "04 augusti 16:11, Rån, Göteborg",
-    "summary": "Vi larmas om att en man i 70-årsåldern blir utsatt för ett rån i Biskopsgården. I samband med det ska mannen ä",
-    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-1611-ran-goteborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 438410,
-    "datetime": "2023-08-04 17:17:12 +02:00",
-    "name": "04 augusti 16:07, Åldringsbrott, Mellerud",
-    "summary": "En kvinna i 90-årsåldern kontaktar polis och uppger att hon blivit bestulen och och utsatt för ett bedrägeri.",
-    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-1607-aldringsbrott-mellerud/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Mellerud",
-      "gps": "58.702568,12.451842"
-    }
-  },
-  {
-    "id": 438398,
-    "datetime": "2023-08-04 15:33:18 +02:00",
-    "name": "04 augusti 15:19, Skadegörelse, Mölndal",
-    "summary": "En man i 25-årsåldern uppges attackera förbipasserande med stenar i närheten av Streteredsvägen, Kållered.",
-    "url": "/aktuellt/handelser/2023/augusti/4/04-augusti-1519-skadegorelse-molndal/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
     }
   }
 ]
