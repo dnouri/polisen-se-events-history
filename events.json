@@ -1,5 +1,77 @@
 [
   {
+    "id": 439374,
+    "datetime": "2023-08-15 10:21:00 +02:00",
+    "name": "15 augusti 10:07, Rattfylleri, Sunne",
+    "summary": "En bilist är misstänkt för brott i Sunne",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-1007-rattfylleri-sunne/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 439371,
+    "datetime": "2023-08-15 10:06:12 +02:00",
+    "name": "15 augusti 03:04, Mord/dråp, försök, Stockholm",
+    "summary": "En man är gripen misstänkt för försök till mord efter att ha knivhuggit en man i en bostad i Hässelby.",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0304-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 439370,
+    "datetime": "2023-08-15 10:04:18 +02:00",
+    "name": "15 augusti 09:35, Trafikolycka, Gävle",
+    "summary": "Buss och personbil i kollision.",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0935-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 439369,
+    "datetime": "2023-08-15 9:58:43 +02:00",
+    "name": "15 augusti 09:44, Arbetsplatsolycka, Malmö",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0944-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 439366,
+    "datetime": "2023-08-15 9:49:12 +02:00",
+    "name": "15 augusti 09:44, Rattfylleri, Kil",
+    "summary": "En bilist är misstänkt för brott i Runnevål",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0944-rattfylleri-kil/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
+    }
+  },
+  {
+    "id": 439365,
+    "datetime": "2023-08-15 9:46:12 +02:00",
+    "name": "15 augusti 09:40, Brand, Karlstad",
+    "summary": "Det brinner i en fastighet i Ilanda",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0940-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 439361,
     "datetime": "2023-08-15 9:28:23 +02:00",
     "name": "15 augusti 07:38, Fylleri/LOB, Sundsvall",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Avesta",
       "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 438649,
-    "datetime": "2023-08-07 12:58:02 +02:00",
-    "name": "07 augusti 12:39, Trafikolycka, Hudiksvall",
-    "summary": "Tåg spårar ur mellan Iggesund och Hudiksvall.",
-    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1239-trafikolycka-hudiksvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 438661,
-    "datetime": "2023-08-07 14:15:26 +02:00",
-    "name": "07 augusti 14:08, Trafikolycka, personskada, Mora",
-    "summary": "En trafikolycka, singelolycka med personbil, har inträffat på riksväg 26 vid Landbrobyn, Mora.",
-    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1408-trafikolycka-personskada-mora/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 438679,
-    "datetime": "2023-08-07 18:53:35 +02:00",
-    "name": "07 augusti 17:35, Trafikolycka, singel, Mellerud",
-    "summary": "Vid Ängenäsgatan är det en kille på moped som kör omkull när han kommer ut på rullgrus.",
-    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1735-trafikolycka-singel-mellerud/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Mellerud",
-      "gps": "58.702568,12.451842"
-    }
-  },
-  {
-    "id": 438678,
-    "datetime": "2023-08-07 18:21:05 +02:00",
-    "name": "07 augusti 17:41, Trafikhinder, Helsingborg",
-    "summary": "E4, mellan Ödåkra och Hyllinge. Ett släp, lastat med en båt, blockerar delar av vägbanorna.",
-    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1741-trafikhinder-helsingborg/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 438675,
-    "datetime": "2023-08-07 16:59:22 +02:00",
-    "name": "07 augusti 16:32, Brand, Vimmerby",
-    "summary": "Storebro. Brand i byggnad.",
-    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1632-brand-vimmerby/",
-    "type": "Brand",
-    "location": {
-      "name": "Vimmerby",
-      "gps": "57.669034,15.858857"
-    }
-  },
-  {
-    "id": 438677,
-    "datetime": "2023-08-07 18:14:32 +02:00",
-    "name": "07 augusti 16:09, Trafikolycka, personskada, Västerås",
-    "summary": "Motorcykelolycka vid Badelunda i Västerås.",
-    "url": "/aktuellt/handelser/2023/augusti/7/07-augusti-1609-trafikolycka-personskada-vasteras/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
