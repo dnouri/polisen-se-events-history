@@ -1,5 +1,65 @@
 [
   {
+    "id": 439430,
+    "datetime": "2023-08-15 20:58:45 +02:00",
+    "name": "15 augusti 20:23, Misshandel, Lerum",
+    "summary": "Misshandel i centrala Floda.",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-2023-misshandel-lerum/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 439429,
+    "datetime": "2023-08-15 20:29:43 +02:00",
+    "name": "15 augusti 20:28, Räddningsinsats, Norrköping",
+    "summary": "Varning: Se upp i trafiken med tanke på vattenplaning",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-2028-raddningsinsats-norrkoping/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 439425,
+    "datetime": "2023-08-15 19:46:24 +02:00",
+    "name": "15 augusti 19:44, Trafikolycka, personskada, Katrineholm",
+    "summary": "Trafikolycka norr om Katrineholm",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-1944-trafikolycka-personskada-katrineholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
+    }
+  },
+  {
+    "id": 439434,
+    "datetime": "2023-08-15 20:49:28 +02:00",
+    "name": "15 augusti 20:38, Försvunnen person, Skellefteå",
+    "summary": "Kvinna 77 år försvunnen från Moro Backe i Skellefteå",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-2038-forsvunnen-person-skelleftea/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 439433,
+    "datetime": "2023-08-15 20:47:14 +02:00",
+    "name": "15 augusti 19:08, Brand, Uppsala",
+    "summary": "Ladugårdsbrand utanför Uppsala.",
+    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-1908-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 439432,
     "datetime": "2023-08-15 20:41:57 +02:00",
     "name": "15 augusti 15:06, Stöld, Arboga",
@@ -21,30 +81,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 439425,
-    "datetime": "2023-08-15 19:46:24 +02:00",
-    "name": "15 augusti 19:44, Trafikolycka, personskada, Katrineholm",
-    "summary": "Trafikolycka norr om Katrineholm",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-1944-trafikolycka-personskada-katrineholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 439429,
-    "datetime": "2023-08-15 20:29:43 +02:00",
-    "name": "15 augusti 20:28, Räddningsinsats, Norrköping",
-    "summary": "Slukhål i Norrköping",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-2028-raddningsinsats-norrkoping/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 438729,
-    "datetime": "2023-08-08 10:20:04 +02:00",
-    "name": "08 augusti 07:31, Motorfordon, stöld, Luleå",
-    "summary": "Polisen kontaktas angående en stulen bil.",
-    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0731-motorfordon-stold-lulea/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 438727,
-    "datetime": "2023-08-08 10:16:14 +02:00",
-    "name": "08 augusti 08:48, Hemfridsbrott, Luleå",
-    "summary": "Polispatrull beordras till Innerstaden där obehöriga personer tagit sig in i en lägenhet.",
-    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0848-hemfridsbrott-lulea/",
-    "type": "Hemfridsbrott",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 438719,
-    "datetime": "2023-08-08 8:53:57 +02:00",
-    "name": "08 augusti 08:46, Arbetsplatsolycka, Olofström",
-    "summary": "Larm om misstänkt arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-0846-arbetsplatsolycka-olofstrom/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Olofström",
-      "gps": "56.277708,14.530938"
     }
   }
 ]
