@@ -1,5 +1,77 @@
 [
   {
+    "id": 439567,
+    "datetime": "2023-08-16 22:17:24 +02:00",
+    "name": "16 augusti 21:30, Skottlossning, Botkyrka",
+    "summary": "Larm kom in om skottlossning mot en bostad i Tumba.",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2130-skottlossning-botkyrka/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 439566,
+    "datetime": "2023-08-16 22:10:51 +02:00",
+    "name": "16 augusti 21:45, Trafikolycka, singel, Höganäs",
+    "summary": "Norra Kustvägen. En motorcyklist har kolliderat med ett träd.",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2145-trafikolycka-singel-hoganas/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Höganäs",
+      "gps": "56.200639,12.555329"
+    }
+  },
+  {
+    "id": 439565,
+    "datetime": "2023-08-16 22:03:48 +02:00",
+    "name": "16 augusti 20:09, Rån, Malmö",
+    "summary": "Malmö. Personrån.",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2009-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 439564,
+    "datetime": "2023-08-16 21:59:14 +02:00",
+    "name": "16 augusti 21:58, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer i dag.",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2158-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 439563,
+    "datetime": "2023-08-16 21:58:46 +02:00",
+    "name": "16 augusti 21:57, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer i dag.",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2157-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 439561,
+    "datetime": "2023-08-16 21:24:10 +02:00",
+    "name": "16 augusti 20:53, Brand, Borås",
+    "summary": "SOS larmas om en lägenhetsbrand på Kapplandsgatan. Polis, räddningstjänst och ambulans larmas ut.",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2053-brand-boras/",
+    "type": "Brand",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
     "id": 439559,
     "datetime": "2023-08-16 21:09:01 +02:00",
     "name": "16 augusti 20:05, Trafikolycka, Lidköping",
@@ -33,18 +105,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 439561,
-    "datetime": "2023-08-16 21:24:10 +02:00",
-    "name": "16 augusti 20:53, Brand, Borås",
-    "summary": "SOS larmas om en lägenhetsbrand på Kapplandsgatan. Polis, räddningstjänst och ambulans larmas ut.",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2053-brand-boras/",
-    "type": "Brand",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Varberg",
       "gps": "57.107118,12.252091"
-    }
-  },
-  {
-    "id": 438832,
-    "datetime": "2023-08-09 11:14:08 +02:00",
-    "name": "09 augusti 10:45, Trafikkontroll, Umeå",
-    "summary": "Resultat efter trafikkontroll avs nykterhet.",
-    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1045-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 438831,
-    "datetime": "2023-08-09 11:08:37 +02:00",
-    "name": "09 augusti 10:58, Trafikkontroll, Bräcke",
-    "summary": "Resultat efter trafikkontroll avs nykterhet i Bräcke.",
-    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1058-trafikkontroll-bracke/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Bräcke",
-      "gps": "62.750741,15.422575"
-    }
-  },
-  {
-    "id": 438830,
-    "datetime": "2023-08-09 11:04:26 +02:00",
-    "name": "09 augusti 10:28, Stöld/inbrott, Falkenberg",
-    "summary": "En man i 50-årsåldern kontaktar polis och uppger att någon tagit sig in i bostaden medan han och hans barn låg",
-    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1028-stoldinbrott-falkenberg/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
-    }
-  },
-  {
-    "id": 438823,
-    "datetime": "2023-08-09 10:14:16 +02:00",
-    "name": "09 augusti 08:18, Trafikkontroll, Skellefteå",
-    "summary": "Resultat efter traikkontroll i centrala Skellefteå",
-    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0818-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 438822,
-    "datetime": "2023-08-09 10:10:20 +02:00",
-    "name": "09 augusti 10:06, Trafikkontroll, Sundsvall",
-    "summary": "Resultat efter traikkontroll på Eskadervägen, Alnö",
-    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-1006-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
