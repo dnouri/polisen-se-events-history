@@ -1,5 +1,53 @@
 [
   {
+    "id": 439488,
+    "datetime": "2023-08-16 13:05:31 +02:00",
+    "name": "16 augusti 12:24, Mord/dråp, försök, Hässleholm",
+    "summary": "Pojke skadad efter bråk, centrum.",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-1224-morddrap-forsok-hassleholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 439509,
+    "datetime": "2023-08-16 14:20:44 +02:00",
+    "name": "16 augusti 14:05, Brand, Filipstad",
+    "summary": "Det brinner i en bostad på Spångberget",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-1405-brand-filipstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 439503,
+    "datetime": "2023-08-16 13:54:06 +02:00",
+    "name": "16 augusti 13:08, Arbetsplatsolycka, Värmdö",
+    "summary": "Larm om arbetsplatsolycka, Korsö",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-1308-arbetsplatsolycka-varmdo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 439502,
+    "datetime": "2023-08-16 13:52:02 +02:00",
+    "name": "16 augusti 12:10, Brand, Gotland",
+    "summary": "Larm om brand i boskapsvagn",
+    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-1210-brand-gotland/",
+    "type": "Brand",
+    "location": {
+      "name": "Gotland",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
     "id": 439484,
     "datetime": "2023-08-16 13:39:53 +02:00",
     "name": "16 augusti 09:06, Övrigt, Skellefteå",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 439488,
-    "datetime": "2023-08-16 13:05:31 +02:00",
-    "name": "16 augusti 12:24, Misshandel, grov, Hässleholm",
-    "summary": "Pojke skadad efter bråk, centrum.",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-1224-misshandel-grov-hassleholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 438787,
-    "datetime": "2023-08-08 23:17:22 +02:00",
-    "name": "08 augusti 22:56, Brand, Bjuv",
-    "summary": "Brand i garage.",
-    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-2256-brand-bjuv/",
-    "type": "Brand",
-    "location": {
-      "name": "Bjuv",
-      "gps": "56.087102,12.912505"
-    }
-  },
-  {
-    "id": 438788,
-    "datetime": "2023-08-09 4:32:44 +02:00",
-    "name": "09 augusti 04:00, Rattfylleri, Piteå",
-    "summary": "Rattfylleri under påverkan av narkotika samt ringa narkotikabrott eget bruk.",
-    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0400-rattfylleri-pitea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 438780,
-    "datetime": "2023-08-08 21:43:07 +02:00",
-    "name": "08 augusti 21:42, Försvunnen person, Torsby",
-    "summary": "Polisen söker en försvunnen person i trakterna kring Höljes.",
-    "url": "/aktuellt/handelser/2023/augusti/8/08-augusti-2142-forsvunnen-person-torsby/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   }
 ]
