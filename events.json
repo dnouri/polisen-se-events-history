@@ -1,5 +1,41 @@
 [
   {
+    "id": 439740,
+    "datetime": "2023-08-18 11:43:04 +02:00",
+    "name": "18 augusti 10:45, Brand, Simrishamn",
+    "summary": "Brand i garage, Tommarp",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-1045-brand-simrishamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Simrishamn",
+      "gps": "55.557396,14.348965"
+    }
+  },
+  {
+    "id": 439721,
+    "datetime": "2023-08-18 8:27:22 +02:00",
+    "name": "18 augusti 07:21, Arbetsplatsolycka, Markaryd",
+    "summary": "Larm om arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0721-arbetsplatsolycka-markaryd/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 439736,
+    "datetime": "2023-08-18 11:21:18 +02:00",
+    "name": "18 augusti 08:10, Trafikolycka, smitning från, Skellefteå",
+    "summary": "Polispatrull beordras till Sjungande Dalen med anledning av en olycka.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0810-trafikolycka-smitning-fran-skelleftea/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 439723,
     "datetime": "2023-08-18 9:15:55 +02:00",
     "name": "18 augusti 09:10, Trafikolycka, Ljungby",
@@ -69,18 +105,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 439721,
-    "datetime": "2023-08-18 8:27:22 +02:00",
-    "name": "18 augusti 07:21, Arbetsplatsolycka, Markaryd",
-    "summary": "Larm om arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0721-arbetsplatsolycka-markaryd/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Partille",
       "gps": "57.73665,12.125197"
-    }
-  },
-  {
-    "id": 438993,
-    "datetime": "2023-08-10 19:15:38 +02:00",
-    "name": "10 augusti 18:51, Trafikolycka, Lerum",
-    "summary": "En personbil och en motorcykel är involverade i en olycka på Tollestorpsvägen.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1851-trafikolycka-lerum/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lerum",
-      "gps": "57.769484,12.26882"
-    }
-  },
-  {
-    "id": 438992,
-    "datetime": "2023-08-10 19:14:54 +02:00",
-    "name": "10 augusti 19:08, Trafikolycka, Ängelholm",
-    "summary": "Trafikplats Norra Varalöv. Kollision mellan två fordon.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1908-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   }
 ]
