@@ -1,5 +1,113 @@
 [
   {
+    "id": 439720,
+    "datetime": "2023-08-18 8:06:58 +02:00",
+    "name": "18 augusti 00:15, Trafikbrott, Upplands-bro",
+    "summary": "På E18 rapporterades en personbilsföare för hastighetsöverträdelse.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0015-trafikbrott-upplands-bro/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Upplands-bro",
+      "gps": "59.49068,17.752277"
+    }
+  },
+  {
+    "id": 439719,
+    "datetime": "2023-08-18 8:01:56 +02:00",
+    "name": "18 augusti 00:49, Rattfylleri, Vallentuna",
+    "summary": "Den fordonsförare som polisen kontrollerade i Bällsta blev misstänkt för grovt rattfylleri och olovlig körning",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0049-rattfylleri-vallentuna/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 439709,
+    "datetime": "2023-08-18 7:58:28 +02:00",
+    "name": "18 augusti 07:57, Sammanfattning natt, Södermanlands län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0757-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 439716,
+    "datetime": "2023-08-18 7:57:57 +02:00",
+    "name": "18 augusti 07:57, Sammanfattning natt, Östergötlands län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0757-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 439718,
+    "datetime": "2023-08-18 7:57:18 +02:00",
+    "name": "18 augusti 07:57, Sammanfattning natt, Jönköpings län",
+    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0757-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 439717,
+    "datetime": "2023-08-18 7:55:26 +02:00",
+    "name": "18 augusti 01:32, Kontroll person/fordon, Stockholm",
+    "summary": "Den kvinna som polisen kontrollerade på Norrmalm greps misstänkt för bland annat urkundsförfalskning.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0132-kontroll-personfordon-stockholm/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 439715,
+    "datetime": "2023-08-18 7:48:00 +02:00",
+    "name": "18 augusti 04:24, Motorfordon, stöld, Stockholm",
+    "summary": "På Norrmalm greps två personer misstänkta för stöld av motorfordon.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0424-motorfordon-stold-stockholm/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 439714,
+    "datetime": "2023-08-18 7:44:39 +02:00",
+    "name": "18 augusti 07:44, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0744-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 439707,
+    "datetime": "2023-08-18 7:44:21 +02:00",
+    "name": "18 augusti 07:44, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0744-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 439713,
     "datetime": "2023-08-18 7:43:23 +02:00",
     "name": "18 augusti 04:43, Stöld/inbrott, Norrtälje",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 438978,
-    "datetime": "2023-08-10 13:40:54 +02:00",
-    "name": "10 augusti 13:16, Rån, Göteborg",
-    "summary": "Vi får larm om att två maskerade gärningsmän hotat två ungdomar med kniv på Frida Hjertbergs gata.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1316-ran-goteborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 438983,
-    "datetime": "2023-08-10 14:55:54 +02:00",
-    "name": "10 augusti 13:25, Trafikolycka, Köping",
-    "summary": "Trafikolycka på E18 utanför köping.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1325-trafikolycka-koping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 438979,
-    "datetime": "2023-08-10 13:34:30 +02:00",
-    "name": "10 augusti 13:30, Trafikolycka, Jönköping",
-    "summary": "Trafikolycka mellan två fordon, LV666 Ryd.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1330-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 438981,
-    "datetime": "2023-08-10 14:15:36 +02:00",
-    "name": "10 augusti 12:34, Olovlig körning, Hällefors",
-    "summary": "Polispatrull har stoppat en bilist som saknar körkort.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1234-olovlig-korning-hallefors/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Hällefors",
-      "gps": "59.783688,14.522569"
-    }
-  },
-  {
-    "id": 438975,
-    "datetime": "2023-08-10 12:11:23 +02:00",
-    "name": "10 augusti 11:37, Trafikkontroll, Skellefteå",
-    "summary": "Resultat efter hastighetskontroll.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1137-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 438974,
-    "datetime": "2023-08-10 12:04:16 +02:00",
-    "name": "10 augusti 11:05, Trafikkontroll, Jokkmokk",
-    "summary": "Resultat efter trafikkontroll i Jokkmokk.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1105-trafikkontroll-jokkmokk/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 438973,
-    "datetime": "2023-08-10 12:01:02 +02:00",
-    "name": "10 augusti 11:17, Trafikkontroll, Piteå",
-    "summary": "Resultat efter trafikkontroll i Piteå.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1117-trafikkontroll-pitea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 438971,
-    "datetime": "2023-08-10 11:30:45 +02:00",
-    "name": "10 augusti 10:41, Rattfylleri, Kumla",
-    "summary": "Polispatrull har genomfört en nykterhetskontroll i centrala Kumla.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-1041-rattfylleri-kumla/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 438970,
-    "datetime": "2023-08-10 10:56:58 +02:00",
-    "name": "10 augusti 08:35, Olovlig körning, Karlstad",
-    "summary": "Bilist misstänkt för olovlig körning vid trafikplats Spångamotet på E18 Karlstad.",
-    "url": "/aktuellt/handelser/2023/augusti/10/10-augusti-0835-olovlig-korning-karlstad/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
