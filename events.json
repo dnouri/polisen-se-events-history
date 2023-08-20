@@ -1,5 +1,53 @@
 [
   {
+    "id": 439925,
+    "datetime": "2023-08-20 13:34:43 +02:00",
+    "name": "20 augusti 11:00, Fylleri/LOB, Östersund",
+    "summary": "Östersund, polis kontaktas gällande berusad man utomhus",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-1100-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 439916,
+    "datetime": "2023-08-20 12:16:00 +02:00",
+    "name": "20 augusti 12:03, Arbetsplatsolycka, Malmö",
+    "summary": "Misstänkt arbetsplatspolycka på Stortorget.",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-1203-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 439921,
+    "datetime": "2023-08-20 13:16:08 +02:00",
+    "name": "20 augusti 08:26, Skadegörelse, Gällivare",
+    "summary": "Hakkas, polis kontaktas gällande krossad ruta till butik",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-0826-skadegorelse-gallivare/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 439920,
+    "datetime": "2023-08-20 13:15:02 +02:00",
+    "name": "20 augusti 13:04, Trafikolycka, Trelleborg",
+    "summary": "Påkörd person på Lundavägen.",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-1304-trafikolycka-trelleborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
     "id": 439919,
     "datetime": "2023-08-20 13:11:19 +02:00",
     "name": "20 augusti 13:00, Trafikkontroll, Jokkmokk",
@@ -54,18 +102,6 @@
     "summary": "Fotbollsmatch mellan MFF och Djurgårdens IF.",
     "url": "/aktuellt/handelser/2023/augusti/19/19-augusti-1217-polisinsatskommendering-malmo/",
     "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 439916,
-    "datetime": "2023-08-20 12:16:00 +02:00",
-    "name": "20 augusti 12:03, Arbetsplatsolycka, Malmö",
-    "summary": "Misstänkt arbetsplatspolycka på Stortorget.",
-    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-1203-arbetsplatsolycka-malmo/",
-    "type": "Arbetsplatsolycka",
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 439177,
-    "datetime": "2023-08-12 17:59:04 +02:00",
-    "name": "12 augusti 17:42, Trafikolycka, singel, Karlskrona",
-    "summary": "Lv122, mellan Fridlevstad och Tving. En personbil har voltat av vägen.",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-1742-trafikolycka-singel-karlskrona/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 439176,
-    "datetime": "2023-08-12 17:32:48 +02:00",
-    "name": "12 augusti 16:34, Brand, Stockholm",
-    "summary": "Polis och räddningstjänst hanterar en brand invid Odenplan. Polisen har med anledning av branden spärrat av Up",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-1634-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 439179,
-    "datetime": "2023-08-12 18:26:15 +02:00",
-    "name": "12 augusti 17:47, Kontroll person/fordon, Österåker",
-    "summary": "Regionledningscentralen har fått in uppgifter om att ungdomar i Åkersberga har kastat ut smällare från ett fön",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-1747-kontroll-personfordon-osteraker/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Österåker",
-      "gps": "59.500058,18.352485"
     }
   }
 ]
