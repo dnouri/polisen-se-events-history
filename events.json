@@ -1,5 +1,89 @@
 [
   {
+    "id": 439893,
+    "datetime": "2023-08-20 7:19:11 +02:00",
+    "name": "19 augusti 22:16, Trafikolycka, Västerås",
+    "summary": "Man till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2023/augusti/19/19-augusti-2216-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 439892,
+    "datetime": "2023-08-20 7:09:52 +02:00",
+    "name": "20 augusti 02:34, Brand, Hässleholm",
+    "summary": "Bilbrand på Östra Storgatan i Hästveda.",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-0234-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 439891,
+    "datetime": "2023-08-20 7:09:32 +02:00",
+    "name": "20 augusti 07:00, Sammanfattning natt, Norrbottens län",
+    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-0700-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 439884,
+    "datetime": "2023-08-20 7:03:04 +02:00",
+    "name": "20 augusti 07:02, Sammanfattning natt, Örebro län",
+    "summary": "Natt till söndag polisområde Örebro",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-0702-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 439887,
+    "datetime": "2023-08-20 7:02:10 +02:00",
+    "name": "20 augusti 01:11, Misshandel, Ronneby",
+    "summary": "Misshandel på Nygatan.",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-0111-misshandel-ronneby/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 439886,
+    "datetime": "2023-08-20 6:54:09 +02:00",
+    "name": "20 augusti 01:14, Misshandel, Växjö",
+    "summary": "Misshandel på Folkparksvägen.",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-0114-misshandel-vaxjo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 439885,
+    "datetime": "2023-08-20 6:44:25 +02:00",
+    "name": "20 augusti 02:31, Brand, Kalmar",
+    "summary": "Brand på Ledungsvägen.",
+    "url": "/aktuellt/handelser/2023/augusti/20/20-augusti-0231-brand-kalmar/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
     "id": 439882,
     "datetime": "2023-08-19 23:12:58 +02:00",
     "name": "19 augusti 22:52, Kontroll person/fordon, Södertälje",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Kalix",
       "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 439149,
-    "datetime": "2023-08-12 10:37:39 +02:00",
-    "name": "12 augusti 09:08, Trafikkontroll, Gällivare",
-    "summary": "Resultat efter trafikkontroll på Lasarettsgatan/Ågatan, Gällivare.",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0908-trafikkontroll-gallivare/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 439148,
-    "datetime": "2023-08-12 10:29:20 +02:00",
-    "name": "12 augusti 07:48, Trafikkontroll, Skellefteå",
-    "summary": "Resultat efter trafikkontroll vid Boviksbadet.",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0748-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 439146,
-    "datetime": "2023-08-12 9:53:40 +02:00",
-    "name": "12 augusti 07:15, Stöld, Lekeberg",
-    "summary": "En person är misstänkt för flera brott",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0715-stold-lekeberg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lekeberg",
-      "gps": "59.16539,14.743407"
-    }
-  },
-  {
-    "id": 439145,
-    "datetime": "2023-08-12 9:47:26 +02:00",
-    "name": "12 augusti 08:14, Trafikolycka, Härjedalen",
-    "summary": "Larm om trafikolycka på E45, Siksjön.",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0814-trafikolycka-harjedalen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 439143,
-    "datetime": "2023-08-12 9:28:17 +02:00",
-    "name": "12 augusti 08:31, Rattfylleri, Sunne",
-    "summary": "En bilist är misstänkt för brott i Rottneros",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0831-rattfylleri-sunne/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 439137,
-    "datetime": "2023-08-12 8:43:57 +02:00",
-    "name": "12 augusti 07:03, Försvunnen person, Filipstad",
-    "summary": "Kvinnan är hittad",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0703-forsvunnen-person-filipstad/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Filipstad",
-      "gps": "59.713997,14.169845"
-    }
-  },
-  {
-    "id": 439136,
-    "datetime": "2023-08-12 8:46:25 +02:00",
-    "name": "12 augusti 08:08, Skottlossning, Malmö",
-    "summary": "Skott mot villa, Västra Kattarp.",
-    "url": "/aktuellt/handelser/2023/augusti/12/12-augusti-0808-skottlossning-malmo/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
