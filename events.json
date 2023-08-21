@@ -1,5 +1,89 @@
 [
   {
+    "id": 440035,
+    "datetime": "2023-08-21 17:17:06 +02:00",
+    "name": "21 augusti 14:59, Stöld, Luleå",
+    "summary": "Luleå, ringa stöld i matbutik.",
+    "url": "/aktuellt/handelser/2023/augusti/21/21-augusti-1459-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 440030,
+    "datetime": "2023-08-21 17:14:29 +02:00",
+    "name": "21 augusti 14:54, Trafikolycka, Skellefteå",
+    "summary": "Skellefteå, trafikolycka på Erikslid.",
+    "url": "/aktuellt/handelser/2023/augusti/21/21-augusti-1454-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 440032,
+    "datetime": "2023-08-21 16:53:44 +02:00",
+    "name": "21 augusti 16:37, Fylleri/LOB, Borlänge",
+    "summary": "En man har varit aggressiv på Norra Backa",
+    "url": "/aktuellt/handelser/2023/augusti/21/21-augusti-1637-fyllerilob-borlange/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 440033,
+    "datetime": "2023-08-21 17:06:20 +02:00",
+    "name": "21 augusti 15:28, Arbetsplatsolycka, Umeå",
+    "summary": "Umeå, arbetsplatsolycka Väst på stan.",
+    "url": "/aktuellt/handelser/2023/augusti/21/21-augusti-1528-arbetsplatsolycka-umea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 440029,
+    "datetime": "2023-08-21 16:46:34 +02:00",
+    "name": "21 augusti 16:40, Trafikolycka, Nässjö",
+    "summary": "Buss körde av vägen söder om Nässjö.",
+    "url": "/aktuellt/handelser/2023/augusti/21/21-augusti-1640-trafikolycka-nassjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 440031,
+    "datetime": "2023-08-21 16:49:34 +02:00",
+    "name": "21 augusti 16:05, Hemfridsbrott, Borlänge",
+    "summary": "En man är misstänkt för brott mot en kvinna i hennes bostad",
+    "url": "/aktuellt/handelser/2023/augusti/21/21-augusti-1605-hemfridsbrott-borlange/",
+    "type": "Hemfridsbrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 440011,
+    "datetime": "2023-08-21 14:37:49 +02:00",
+    "name": "21 augusti 11:26, Försvunnen person, Lund",
+    "summary": "Försvunnen man i Veberöd.",
+    "url": "/aktuellt/handelser/2023/augusti/21/21-augusti-1126-forsvunnen-person-lund/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
     "id": 440027,
     "datetime": "2023-08-21 16:40:11 +02:00",
     "name": "21 augusti 16:26, Trafikolycka, Västervik",
@@ -117,18 +201,6 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 440011,
-    "datetime": "2023-08-21 14:37:49 +02:00",
-    "name": "21 augusti 11:26, Försvunnen person, Lund",
-    "summary": "Försvunnen man i Veberöd.",
-    "url": "/aktuellt/handelser/2023/augusti/21/21-augusti-1126-forsvunnen-person-lund/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 439279,
-    "datetime": "2023-08-14 10:26:51 +02:00",
-    "name": "14 augusti 07:43, Misshandel, Borlänge",
-    "summary": "En man är misstänkt för brott mot en kvinna i hennes bostad",
-    "url": "/aktuellt/handelser/2023/augusti/14/14-augusti-0743-misshandel-borlange/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 439276,
-    "datetime": "2023-08-14 10:19:54 +02:00",
-    "name": "14 augusti 09:30, Kontroll person/fordon, Stockholm",
-    "summary": "En man har följt efter och försökt ta på ett antal kvinnor i Hägersten.",
-    "url": "/aktuellt/handelser/2023/augusti/14/14-augusti-0930-kontroll-personfordon-stockholm/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 439272,
-    "datetime": "2023-08-14 10:05:49 +02:00",
-    "name": "14 augusti 08:32, Stöld, Skellefteå",
-    "summary": "Misstänkt ringa stöld i matbutik, Prästbordet.",
-    "url": "/aktuellt/handelser/2023/augusti/14/14-augusti-0832-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 439269,
-    "datetime": "2023-08-14 9:45:34 +02:00",
-    "name": "14 augusti 09:45, Trafikolycka, Norrköping",
-    "summary": "Olycka på E4",
-    "url": "/aktuellt/handelser/2023/augusti/14/14-augusti-0945-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 439268,
-    "datetime": "2023-08-14 9:42:22 +02:00",
-    "name": "14 augusti 08:29, Stöld, Boden",
-    "summary": "Misstänkt ringa stöld i matbutik i centrala Boden.",
-    "url": "/aktuellt/handelser/2023/augusti/14/14-augusti-0829-stold-boden/",
-    "type": "Stöld",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 439265,
-    "datetime": "2023-08-14 9:08:41 +02:00",
-    "name": "14 augusti 07:40, Trafikolycka, personskada, Gävle",
-    "summary": "Cyklist påkörd av bilist.",
-    "url": "/aktuellt/handelser/2023/augusti/14/14-augusti-0740-trafikolycka-personskada-gavle/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
