@@ -1,5 +1,101 @@
 [
   {
+    "id": 440107,
+    "datetime": "2023-08-22 10:18:22 +02:00",
+    "name": "22 augusti 09:26, Trafikolycka, Skellefteå",
+    "summary": "Trafikolycka på E4 Kåge, Skellefteå.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0926-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 440077,
+    "datetime": "2023-08-22 7:42:21 +02:00",
+    "name": "22 augusti 03:05, Mord/dråp, försök, Västerås",
+    "summary": "Man skadas med vasst föremål.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0305-morddrap-forsok-vasteras/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 440106,
+    "datetime": "2023-08-22 10:14:32 +02:00",
+    "name": "22 augusti 07:29, Rattfylleri, Nordmaling",
+    "summary": "Misstänkt rattfylleri utanför Nordmaling.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0729-rattfylleri-nordmaling/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
+    "id": 440070,
+    "datetime": "2023-08-22 7:29:16 +02:00",
+    "name": "22 augusti 07:22, Skottlossning, Helsingborg",
+    "summary": "Man skjuten, Dalhem.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0722-skottlossning-helsingborg/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 440105,
+    "datetime": "2023-08-22 10:05:09 +02:00",
+    "name": "22 augusti 00:54, Brand, Nordanstig",
+    "summary": "Brand i husvagn.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0054-brand-nordanstig/",
+    "type": "Brand",
+    "location": {
+      "name": "Nordanstig",
+      "gps": "62.036668,17.205249"
+    }
+  },
+  {
+    "id": 440104,
+    "datetime": "2023-08-22 9:54:21 +02:00",
+    "name": "22 augusti 08:45, Rattfylleri, Lindesberg",
+    "summary": "Polispatrull har stoppat en misstänkt påverkad bilist.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0845-rattfylleri-lindesberg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 440079,
+    "datetime": "2023-08-22 7:56:27 +02:00",
+    "name": "22 augusti 07:33, Brand, Munkfors",
+    "summary": "Det brinner enligt SOS-alarm i en industri i Munkfors.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0733-brand-munkfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Munkfors",
+      "gps": "59.835348,13.534415"
+    }
+  },
+  {
+    "id": 440103,
+    "datetime": "2023-08-22 9:48:10 +02:00",
+    "name": "22 augusti 09:44, Trafikolycka, Eslöv",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0944-trafikolycka-eslov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
     "id": 440093,
     "datetime": "2023-08-22 9:29:32 +02:00",
     "name": "22 augusti 06:08, Arbetsplatsolycka, Piteå",
@@ -84,18 +180,6 @@
     }
   },
   {
-    "id": 440079,
-    "datetime": "2023-08-22 7:56:27 +02:00",
-    "name": "22 augusti 07:33, Brand, Munkfors",
-    "summary": "Det brinner enligt SOS-alarm i en industri i Munkfors.",
-    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0733-brand-munkfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Munkfors",
-      "gps": "59.835348,13.534415"
-    }
-  },
-  {
     "id": 440078,
     "datetime": "2023-08-22 7:54:56 +02:00",
     "name": "22 augusti 07:53, Sammanfattning natt, Västerbottens län",
@@ -105,30 +189,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 440077,
-    "datetime": "2023-08-22 7:42:21 +02:00",
-    "name": "22 augusti 03:05, Mord/dråp, försök, Västerås",
-    "summary": "Man skadas med vasst föremål.",
-    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0305-morddrap-forsok-vasteras/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 440070,
-    "datetime": "2023-08-22 7:29:16 +02:00",
-    "name": "22 augusti 07:22, Skottlossning, Helsingborg",
-    "summary": "Man skjuten, Dalhem.",
-    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-0722-skottlossning-helsingborg/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 439348,
-    "datetime": "2023-08-15 7:31:05 +02:00",
-    "name": "15 augusti 04:44, Skadegörelse, Gävle",
-    "summary": "Ruta krossas på Konserthuset i Gävle.",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0444-skadegorelse-gavle/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 439347,
-    "datetime": "2023-08-15 7:29:03 +02:00",
-    "name": "15 augusti 07:21, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0721-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 439346,
-    "datetime": "2023-08-15 7:28:13 +02:00",
-    "name": "15 augusti 03:31, Brand, Uppsala län",
-    "summary": "Misstänkt mordbrand vid plantskola.",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0331-brand-uppsala-lan/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 439344,
-    "datetime": "2023-08-15 7:20:41 +02:00",
-    "name": "15 augusti 05:10, Olovlig körning, Västerås",
-    "summary": "Olovlig körning på Vallbyleden.",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0510-olovlig-korning-vasteras/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 439340,
-    "datetime": "2023-08-15 7:09:02 +02:00",
-    "name": "15 augusti 07:02, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-0702-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
