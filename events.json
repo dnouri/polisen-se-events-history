@@ -1,5 +1,65 @@
 [
   {
+    "id": 440114,
+    "datetime": "2023-08-22 12:06:29 +02:00",
+    "name": "22 augusti 12:02, Mord/dråp, försök, Linköping",
+    "summary": "Skadad person anträffad",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-1202-morddrap-forsok-linkoping/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 440229,
+    "datetime": "2023-08-22 20:56:11 +02:00",
+    "name": "22 augusti 19:18, Brand, Ragunda",
+    "summary": "Larm om brand söder om Bispgården.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-1918-brand-ragunda/",
+    "type": "Brand",
+    "location": {
+      "name": "Ragunda",
+      "gps": "63.061337,16.396683"
+    }
+  },
+  {
+    "id": 440228,
+    "datetime": "2023-08-22 20:53:33 +02:00",
+    "name": "22 augusti 17:59, Narkotikabrott, Umeå",
+    "summary": "Umeå, misstänkt narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-1759-narkotikabrott-umea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 440226,
+    "datetime": "2023-08-22 20:51:31 +02:00",
+    "name": "22 augusti 17:11, Rattfylleri, Umeå",
+    "summary": "Umeå, misstänkt rattfylleri på Ålidhöjd.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-1711-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 440227,
+    "datetime": "2023-08-22 20:48:47 +02:00",
+    "name": "22 augusti 20:23, Trafikolycka, personskada, Stockholm",
+    "summary": "En bilist har kört på en mopedist på Kungsholmen. Polis och ambulans är på plats.",
+    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-2023-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 440225,
     "datetime": "2023-08-22 20:43:02 +02:00",
     "name": "22 augusti 18:14, Bedrägeri, Örebro län",
@@ -141,18 +201,6 @@
     "location": {
       "name": "Sundbyberg",
       "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 440114,
-    "datetime": "2023-08-22 12:06:29 +02:00",
-    "name": "22 augusti 12:02, Mord/dråp, försök, Linköping",
-    "summary": "Skadad person anträffad",
-    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-1202-morddrap-forsok-linkoping/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 439406,
-    "datetime": "2023-08-15 16:32:41 +02:00",
-    "name": "15 augusti 15:05, Trafikolycka, Essunga",
-    "summary": "Två personbilar i kollision vid Främmestad.",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-1505-trafikolycka-essunga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Essunga",
-      "gps": "58.195507,12.778158"
-    }
-  },
-  {
-    "id": 439393,
-    "datetime": "2023-08-15 13:42:40 +02:00",
-    "name": "15 augusti 13:26, Trafikolycka, Hässleholm",
-    "summary": "Larm om trafikolycka, V Torup",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-1326-trafikolycka-hassleholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 439400,
-    "datetime": "2023-08-15 14:00:46 +02:00",
-    "name": "15 augusti 13:42, Trafikkontroll, Storuman",
-    "summary": "E45 Skarvsjöby, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-1342-trafikkontroll-storuman/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 439394,
-    "datetime": "2023-08-15 13:49:10 +02:00",
-    "name": "15 augusti 10:52, Trafikolycka, Kiruna",
-    "summary": "E10 Stenbacken, larm om singelolycka",
-    "url": "/aktuellt/handelser/2023/augusti/15/15-augusti-1052-trafikolycka-kiruna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
     }
   }
 ]
