@@ -1,5 +1,53 @@
 [
   {
+    "id": 440305,
+    "datetime": "2023-08-23 12:32:11 +02:00",
+    "name": "23 augusti 12:02, Arbetsplatsolycka, Vimmerby",
+    "summary": "Larm om arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-1202-arbetsplatsolycka-vimmerby/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Vimmerby",
+      "gps": "57.669034,15.858857"
+    }
+  },
+  {
+    "id": 440304,
+    "datetime": "2023-08-23 12:31:08 +02:00",
+    "name": "23 augusti 11:56, Trafikbrott, Umeå",
+    "summary": "Fordonsförare frihetsberövad i Umeå.",
+    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-1156-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 440276,
+    "datetime": "2023-08-23 9:00:50 +02:00",
+    "name": "23 augusti 08:55, Trafikolycka, Kalmar",
+    "summary": "Trafikolycka, E22",
+    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-0855-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 440303,
+    "datetime": "2023-08-23 12:25:07 +02:00",
+    "name": "23 augusti 11:04, Trafikkontroll, Nordmaling",
+    "summary": "Resultat efter nykterhetskontroll vid Affärsvägen i Nordmaling.",
+    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-1104-trafikkontroll-nordmaling/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
     "id": 440302,
     "datetime": "2023-08-23 12:16:02 +02:00",
     "name": "23 augusti 10:43, Rattfylleri, Strömsund",
@@ -129,18 +177,6 @@
     "location": {
       "name": "Hudiksvall",
       "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 440276,
-    "datetime": "2023-08-23 9:00:50 +02:00",
-    "name": "23 augusti 08:55, Trafikolycka, Kalmar",
-    "summary": "Trafikolycka, E22",
-    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-0855-trafikolycka-kalmar/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 439446,
-    "datetime": "2023-08-16 7:14:43 +02:00",
-    "name": "16 augusti 07:00, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-0700-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 439451,
-    "datetime": "2023-08-16 7:12:11 +02:00",
-    "name": "16 augusti 01:15, Narkotikabrott, Tyresö",
-    "summary": "En man i Tyresö påträffades när han satt i en bil och använde narkotika.",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-0115-narkotikabrott-tyreso/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Tyresö",
-      "gps": "59.242595,18.283392"
-    }
-  },
-  {
-    "id": 439450,
-    "datetime": "2023-08-16 7:08:50 +02:00",
-    "name": "16 augusti 06:53, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-0653-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
