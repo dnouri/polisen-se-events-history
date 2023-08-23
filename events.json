@@ -1,5 +1,53 @@
 [
   {
+    "id": 440334,
+    "datetime": "2023-08-23 17:17:55 +02:00",
+    "name": "23 augusti 17:03, Trafikolycka, Stockholm",
+    "summary": "Polis och ambulans kallas till Essingeleden vid Kristineberg i södergående riktning med anledning av en trafik",
+    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-1703-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 440332,
+    "datetime": "2023-08-23 17:03:14 +02:00",
+    "name": "23 augusti 16:58, Trafikolycka, Degerfors",
+    "summary": "En olycka har inträffat i Lervik",
+    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-1658-trafikolycka-degerfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Degerfors",
+      "gps": "59.239103,14.433918"
+    }
+  },
+  {
+    "id": 440327,
+    "datetime": "2023-08-23 16:20:23 +02:00",
+    "name": "23 augusti 16:15, Trafikolycka, vilt, Hammarö",
+    "summary": "En olycka har inträffat på Hammaröleden",
+    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-1615-trafikolycka-vilt-hammaro/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Hammarö",
+      "gps": "59.311466,13.529854"
+    }
+  },
+  {
+    "id": 440331,
+    "datetime": "2023-08-23 16:45:50 +02:00",
+    "name": "23 augusti 16:19, Ofredande/förargelse, Sunne",
+    "summary": "En man är misstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-1619-ofredandeforargelse-sunne/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
     "id": 440329,
     "datetime": "2023-08-23 16:29:19 +02:00",
     "name": "23 augusti 15:28, Misshandel, Lindesberg",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 440327,
-    "datetime": "2023-08-23 16:20:23 +02:00",
-    "name": "23 augusti 16:15, Trafikolycka, vilt, Hammarö",
-    "summary": "En olycka har inträffat på Hammaröleden",
-    "url": "/aktuellt/handelser/2023/augusti/23/23-augusti-1615-trafikolycka-vilt-hammaro/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Hammarö",
-      "gps": "59.311466,13.529854"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 439479,
-    "datetime": "2023-08-16 11:13:21 +02:00",
-    "name": "16 augusti 08:24, Trafikolycka, singel, Strömsund",
-    "summary": "Alanäs, larm om singelolycka",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-0824-trafikolycka-singel-stromsund/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 439475,
-    "datetime": "2023-08-16 11:08:04 +02:00",
-    "name": "16 augusti 08:24, Trafikbrott, Luleå",
-    "summary": "Storheden, motorcyklist kontrollerad av polis",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-0824-trafikbrott-lulea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 439470,
-    "datetime": "2023-08-16 10:13:44 +02:00",
-    "name": "16 augusti 06:40, Rattfylleri, Östersund",
-    "summary": "Riksväg 87, bilist stoppad i samband med en trafikkontroll",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-0640-rattfylleri-ostersund/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
