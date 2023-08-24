@@ -1,14 +1,98 @@
 [
   {
+    "id": 440486,
+    "datetime": "2023-08-24 20:09:50 +02:00",
+    "name": "24 augusti 17:13, Trafikolycka, Norrköping",
+    "summary": "Personbil och motorcykel i kollision.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1713-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 440488,
+    "datetime": "2023-08-24 20:16:55 +02:00",
+    "name": "24 augusti 14:21, Stöld, Umeå",
+    "summary": "Centrala stan, man stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1421-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 440487,
+    "datetime": "2023-08-24 20:13:41 +02:00",
+    "name": "24 augusti 18:15, Trafikbrott, Kalix",
+    "summary": "E4 Sangis, bilist stoppad efter hastighetsöverträdelse",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1815-trafikbrott-kalix/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 440485,
+    "datetime": "2023-08-24 20:09:06 +02:00",
+    "name": "24 augusti 17:03, Rattfylleri, Övertorneå",
+    "summary": "Riksväg 99, bilist stoppad i samband med nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1703-rattfylleri-overtornea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Övertorneå",
+      "gps": "66.388444,23.639283"
+    }
+  },
+  {
     "id": 440482,
     "datetime": "2023-08-24 19:43:01 +02:00",
-    "name": "24 augusti 19:25, Skottlossning, Växjö",
+    "name": "24 augusti 19:25, Mord/dråp, försök, Växjö",
     "summary": "Man skottskadad, centrum.",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1925-skottlossning-vaxjo/",
-    "type": "Skottlossning",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1925-morddrap-forsok-vaxjo/",
+    "type": "Mord/dråp, försök",
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 440484,
+    "datetime": "2023-08-24 20:05:05 +02:00",
+    "name": "24 augusti 19:55, Trafikolycka, Kumla",
+    "summary": "En olycka har inträffat i närheten av Kumlasjön",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1955-trafikolycka-kumla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 440483,
+    "datetime": "2023-08-24 19:46:35 +02:00",
+    "name": "24 augusti 19:27, Arbetsplatsolycka, Smedjebacken",
+    "summary": "En olycka har inträffat på en restaurang",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1927-arbetsplatsolycka-smedjebacken/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
+    "id": 440476,
+    "datetime": "2023-08-24 18:33:50 +02:00",
+    "name": "24 augusti 17:27, Rattfylleri, Sunne",
+    "summary": "En bilist är misstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1727-rattfylleri-sunne/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
     }
   },
   {
@@ -81,18 +165,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 440476,
-    "datetime": "2023-08-24 18:33:50 +02:00",
-    "name": "24 augusti 17:27, Rattfylleri, Sunne",
-    "summary": "En bilist är misstänkt för brott i centrum",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1727-rattfylleri-sunne/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 439651,
-    "datetime": "2023-08-17 14:46:54 +02:00",
-    "name": "17 augusti 14:46, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisen arbete i trafiken – en del av polisens nationella trafikvecka.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1446-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 439655,
-    "datetime": "2023-08-17 14:46:21 +02:00",
-    "name": "17 augusti 14:12, Övrigt, Falkenberg",
-    "summary": "Under onsdag eftermiddag greps två personer, en man och en kvinna, i Falkenberg.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1412-ovrigt-falkenberg/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
-    }
-  },
-  {
-    "id": 439654,
-    "datetime": "2023-08-17 14:45:50 +02:00",
-    "name": "17 augusti 13:52, Trafikolycka, Sundsvall",
-    "summary": "Larm om trafikolycka i Birsta.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1352-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 439649,
-    "datetime": "2023-08-17 14:33:47 +02:00",
-    "name": "17 augusti 14:21, Uppdatering, Västernorrlands län",
-    "summary": "Uppdatering gällande stölder på byggarbetsplatser.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1421-uppdatering-vasternorrlands-lan2/",
-    "type": "Uppdatering",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 439648,
-    "datetime": "2023-08-17 14:23:10 +02:00",
-    "name": "17 augusti 13:34, Trafikolycka, Oskarshamn",
-    "summary": "Singelolycka på väg 724, Kulltorp.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1334-trafikolycka-oskarshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 439626,
-    "datetime": "2023-08-17 12:18:31 +02:00",
-    "name": "17 augusti 12:13, Trafikolycka, Arvika",
-    "summary": "En olycka har inträffat i Gunnarskog",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1213-trafikolycka-arvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   }
 ]
