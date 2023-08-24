@@ -1,5 +1,89 @@
 [
   {
+    "id": 440396,
+    "datetime": "2023-08-24 8:22:49 +02:00",
+    "name": "24 augusti 07:45, Trafikolycka, personskada, Stockholm",
+    "summary": "En cyklist och en bilist har kolliderat i Vasastaden.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0745-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 440374,
+    "datetime": "2023-08-24 6:52:24 +02:00",
+    "name": "24 augusti 06:34, Trafikolycka, Växjö",
+    "summary": "Larm om trafikolycka, Deltavägen",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0634-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 440394,
+    "datetime": "2023-08-24 8:02:34 +02:00",
+    "name": "24 augusti 07:56, Trafikolycka, Karlskrona",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0756-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 440384,
+    "datetime": "2023-08-24 8:00:30 +02:00",
+    "name": "24 augusti 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning med någon enstaka notis från nattens händelser.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 440390,
+    "datetime": "2023-08-24 8:00:25 +02:00",
+    "name": "24 augusti 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 440391,
+    "datetime": "2023-08-24 8:00:17 +02:00",
+    "name": "24 augusti 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 440392,
+    "datetime": "2023-08-24 7:53:28 +02:00",
+    "name": "24 augusti 01:45, Skadegörelse, Trollhättan",
+    "summary": "Polis och ambulans larmas till Polhemsgatan där en man i 40-årsåldern blöder kraftigt från vaden.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0145-skadegorelse-trollhattan/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Trollhättan",
+      "gps": "58.283489,12.285821"
+    }
+  },
+  {
     "id": 440387,
     "datetime": "2023-08-24 7:26:02 +02:00",
     "name": "24 augusti 07:17, Trafikolycka, personskada, Årjäng",
@@ -189,18 +273,6 @@
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 440374,
-    "datetime": "2023-08-24 6:52:24 +02:00",
-    "name": "24 augusti 06:34, Trafikolycka, Växjö",
-    "summary": "Larm om trafikolycka, Deltavägen",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0634-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 439571,
-    "datetime": "2023-08-17 6:50:18 +02:00",
-    "name": "17 augusti 00:53, Rån, Malmö",
-    "summary": "Man utsatt för personrån",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-0053-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 439566,
-    "datetime": "2023-08-16 22:10:51 +02:00",
-    "name": "16 augusti 21:45, Trafikolycka, singel, Höganäs",
-    "summary": "Norra Kustvägen. En motorcyklist har kolliderat med ett träd.",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2145-trafikolycka-singel-hoganas/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Höganäs",
-      "gps": "56.200639,12.555329"
-    }
-  },
-  {
-    "id": 439565,
-    "datetime": "2023-08-16 22:03:48 +02:00",
-    "name": "16 augusti 20:09, Rån, Malmö",
-    "summary": "Malmö. Personrån.",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2009-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 439564,
-    "datetime": "2023-08-16 21:59:14 +02:00",
-    "name": "16 augusti 21:58, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2158-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 439563,
-    "datetime": "2023-08-16 21:58:46 +02:00",
-    "name": "16 augusti 21:57, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2157-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 439561,
-    "datetime": "2023-08-16 21:24:10 +02:00",
-    "name": "16 augusti 20:53, Brand, Borås",
-    "summary": "SOS larmas om en lägenhetsbrand på Kapplandsgatan. Polis, räddningstjänst och ambulans larmas ut.",
-    "url": "/aktuellt/handelser/2023/augusti/16/16-augusti-2053-brand-boras/",
-    "type": "Brand",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
