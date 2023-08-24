@@ -1,5 +1,89 @@
 [
   {
+    "id": 440500,
+    "datetime": "2023-08-24 21:41:51 +02:00",
+    "name": "24 augusti 21:07, Trafikkontroll, Sundsvall",
+    "summary": "Birsta, flera fick böter på grund av hastighetsöverträdelser",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-2107-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 440499,
+    "datetime": "2023-08-24 21:37:39 +02:00",
+    "name": "24 augusti 18:28, Fylleri/LOB, Östersund",
+    "summary": "Centrum, polis kontaktas gällande bråk utomhus",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1828-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 440498,
+    "datetime": "2023-08-24 21:37:31 +02:00",
+    "name": "24 augusti 21:20, Trafikolycka, vilt, Ljungby",
+    "summary": "Personbil i kollision med älg, Torpa.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-2120-trafikolycka-vilt-ljungby/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 440497,
+    "datetime": "2023-08-24 21:37:07 +02:00",
+    "name": "24 augusti 20:55, Mord/dråp, försök, Stockholm",
+    "summary": "Från Södermalm fördes en brandskadad man till sjukhus.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-2055-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 440496,
+    "datetime": "2023-08-24 21:32:10 +02:00",
+    "name": "24 augusti 18:43, Trafikolycka, Örnsköldsvik",
+    "summary": "Örnsköldsvik, mopedbil och elsparkcykel inblandade i olycka",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1843-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 440495,
+    "datetime": "2023-08-24 21:24:37 +02:00",
+    "name": "24 augusti 17:02, Narkotikabrott, Gotlands län",
+    "summary": "Ordningsvakt vid Östercentrum behövde hjälp med två personer som stört den allmänna ordningen.",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1702-narkotikabrott-gotlands-lan/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 440483,
+    "datetime": "2023-08-24 19:46:35 +02:00",
+    "name": "24 augusti 19:27, Arbetsplatsolycka, Smedjebacken",
+    "summary": "En olycka har inträffat på en restaurang",
+    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1927-arbetsplatsolycka-smedjebacken/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
     "id": 440493,
     "datetime": "2023-08-24 21:01:03 +02:00",
     "name": "24 augusti 20:08, Narkotikabrott, Värmdö",
@@ -129,18 +213,6 @@
     "location": {
       "name": "Kumla",
       "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 440483,
-    "datetime": "2023-08-24 19:46:35 +02:00",
-    "name": "24 augusti 19:27, Arbetsplatsolycka, Smedjebacken",
-    "summary": "En olycka har inträffat på en restaurang",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1927-arbetsplatsolycka-smedjebacken/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Smedjebacken",
-      "gps": "60.143193,15.415992"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Sunne",
       "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 439678,
-    "datetime": "2023-08-17 18:59:46 +02:00",
-    "name": "17 augusti 18:32, Vapenlagen, Göteborg",
-    "summary": "Polisen larmas om en pistolbeväpnad man i Brunnsbo. Han uppges vara i sällskap med flera andra personer.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1832-vapenlagen-goteborg/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 439680,
-    "datetime": "2023-08-17 20:07:41 +02:00",
-    "name": "17 augusti 15:16, Ordningslagen, Göteborg",
-    "summary": "Klimatrörelsen Extinction Rebellion har under eftermiddagen/kvällen genomfört en manifestation vid Preems olje",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1516-ordningslagen-goteborg/",
-    "type": "Ordningslagen",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 439677,
-    "datetime": "2023-08-17 18:32:03 +02:00",
-    "name": "17 augusti 16:25, Trafikolycka, Södertälje",
-    "summary": "Två fordon kolliderade på Mälarbron.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1625-trafikolycka-sodertalje/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 439615,
-    "datetime": "2023-08-17 11:17:25 +02:00",
-    "name": "17 augusti 10:58, Trafikolycka, Ronneby",
-    "summary": "Larm om trafikolycka norr om Kallinge",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1058-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 439676,
-    "datetime": "2023-08-17 17:37:43 +02:00",
-    "name": "17 augusti 17:35, Motorfordon, stöld, Eskilstuna",
-    "summary": "Tjuv tvingade ut ägare ur bil",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1735-motorfordon-stold-eskilstuna/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 439671,
-    "datetime": "2023-08-17 16:29:09 +02:00",
-    "name": "17 augusti 14:40, Trafikolycka, singel, Avesta",
-    "summary": "En MC-olycka har inträffat på Lv740 väster om Horndal.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-1440-trafikolycka-singel-avesta/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
     }
   }
 ]
