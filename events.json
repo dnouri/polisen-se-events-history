@@ -1,5 +1,17 @@
 [
   {
+    "id": 440564,
+    "datetime": "2023-08-25 12:05:02 +02:00",
+    "name": "25 augusti 08:19, Inbrott, försök, Härnösand",
+    "summary": "Härnösand, försök till inbrott i centrum.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-0819-inbrott-forsok-harnosand/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
     "id": 440560,
     "datetime": "2023-08-25 11:30:06 +02:00",
     "name": "25 augusti 11:14, Brand, Stockholm",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 440563,
+    "datetime": "2023-08-25 11:59:29 +02:00",
+    "name": "25 augusti 11:59, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resulat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1159-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 440562,
+    "datetime": "2023-08-25 11:59:05 +02:00",
+    "name": "25 augusti 11:30, Brand, Avesta",
+    "summary": "Det brinner i ett flerfamiljshus i Avesta, enligt SOS.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1130-brand-avesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 439725,
-    "datetime": "2023-08-18 9:47:33 +02:00",
-    "name": "18 augusti 08:33, Trafikolycka, Huddinge",
-    "summary": "Ingen person skadades vid olyckan mellan en personbilsförare och en lastbilsförare i Fullersta.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0833-trafikolycka-huddinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 439722,
-    "datetime": "2023-08-18 9:14:57 +02:00",
-    "name": "18 augusti 09:15, Trafikolycka, Katrineholm",
-    "summary": "Personbil körde in i mitträcke vid riksväg 55.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0915-trafikolycka-katrineholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 439716,
-    "datetime": "2023-08-18 7:57:57 +02:00",
-    "name": "18 augusti 07:57, Sammanfattning natt, Östergötlands län",
-    "summary": "God morgon! Här kommer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0757-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
