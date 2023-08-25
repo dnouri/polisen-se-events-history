@@ -1,14 +1,26 @@
 [
   {
-    "id": 440619,
-    "datetime": "2023-08-25 18:32:33 +02:00",
-    "name": "25 augusti 18:27, Trafikolycka, Kävlinge",
-    "summary": "Bil i mitträcket, E6.",
-    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1827-trafikolycka-kavlinge/",
+    "id": 440621,
+    "datetime": "2023-08-25 19:16:06 +02:00",
+    "name": "25 augusti 13:25, Arbetsplatsolycka, Gällivare",
+    "summary": "Olycka på arbetsplats sydost om Gällivare.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1325-arbetsplatsolycka-gallivare/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 440627,
+    "datetime": "2023-08-25 19:12:05 +02:00",
+    "name": "25 augusti 19:03, Trafikolycka, Eslöv",
+    "summary": "Moped och bil i kollision, Västerlånggatan.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1903-trafikolycka-eslov/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Kävlinge",
-      "gps": "55.794,13.110429"
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
     }
   },
   {
@@ -21,6 +33,66 @@
     "location": {
       "name": "Kumla",
       "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 440626,
+    "datetime": "2023-08-25 19:03:18 +02:00",
+    "name": "25 augusti 15:56, Trafikolycka, personskada, Uppsala",
+    "summary": "Tre till sjukhus efter kollision.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1556-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 440623,
+    "datetime": "2023-08-25 18:56:23 +02:00",
+    "name": "25 augusti 18:15, Försvunnen person, Örebro",
+    "summary": "Polisen söker efter en äldre försvunnen man i Örebro.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1815-forsvunnen-person-orebro/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 440612,
+    "datetime": "2023-08-25 18:23:23 +02:00",
+    "name": "25 augusti 17:46, Brand, Östersund",
+    "summary": "Larm om brand i ett flerfamiljshus i centrala Östersund.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1746-brand-ostersund/",
+    "type": "Brand",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 440622,
+    "datetime": "2023-08-25 18:49:30 +02:00",
+    "name": "25 augusti 17:30, Narkotikabrott, Umeå",
+    "summary": "Misstänkt ringa narkotikabrott i centrala Umeå.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1730-narkotikabrott-umea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 440619,
+    "datetime": "2023-08-25 18:32:33 +02:00",
+    "name": "25 augusti 18:27, Trafikolycka, Kävlinge",
+    "summary": "Bil i mitträcket, E6.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1827-trafikolycka-kavlinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
     }
   },
   {
@@ -45,18 +117,6 @@
     "location": {
       "name": "Avesta",
       "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 440612,
-    "datetime": "2023-08-25 18:23:23 +02:00",
-    "name": "25 augusti 17:46, Brand, Östersund",
-    "summary": "Larm om brand i ett flerfamiljshus i centrala Östersund.",
-    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1746-brand-ostersund/",
-    "type": "Brand",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 439779,
-    "datetime": "2023-08-18 16:15:19 +02:00",
-    "name": "18 augusti 15:47, Trafikolycka, Kristinehamn",
-    "summary": "En trafikolycka har inträffat på E18 vid TPL Mariebergsmotet i höjd med Kristinehamn.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-1547-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 439802,
-    "datetime": "2023-08-18 17:18:06 +02:00",
-    "name": "18 augusti 16:58, Brand, Linköping",
-    "summary": "Brand och rökutveckling i en bostad i flerfamiljshus Linköping.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-1658-brand-linkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 439793,
-    "datetime": "2023-08-18 16:56:01 +02:00",
-    "name": "18 augusti 16:18, Trafikolycka, Kristinehamn",
-    "summary": "En trafikolycka har inträffat på E18 mellan TPL Mariebergsmotet och TPL Solbackensmotet i höjd med Kristineham",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-1618-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 439782,
-    "datetime": "2023-08-18 16:39:21 +02:00",
-    "name": "18 augusti 15:34, Rattfylleri, Nybro",
-    "summary": "Allmänhet uppmärksammar misstänkt påverkad förare, Nybro.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-1534-rattfylleri-nybro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 439776,
-    "datetime": "2023-08-18 16:31:34 +02:00",
-    "name": "18 augusti 15:22, Trafikolycka, personskada, Sundbyberg",
-    "summary": "En bilförare har kört på en gående i Lilla Ursvik. Den påkörda personen får åka ambulans till sjukhus.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-1522-trafikolycka-personskada-sundbyberg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
     }
   }
 ]
