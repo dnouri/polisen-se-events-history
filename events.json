@@ -1,5 +1,65 @@
 [
   {
+    "id": 440517,
+    "datetime": "2023-08-25 7:06:59 +02:00",
+    "name": "25 augusti 01:00, Skadegörelse, Perstorp",
+    "summary": "Polis larmas till riksväg 24 där en bil brinner.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-0100-skadegorelse-perstorp/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Perstorp",
+      "gps": "56.137972,13.394986"
+    }
+  },
+  {
+    "id": 440516,
+    "datetime": "2023-08-25 7:03:40 +02:00",
+    "name": "25 augusti 07:01, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-0701-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 440515,
+    "datetime": "2023-08-25 7:01:45 +02:00",
+    "name": "25 augusti 07:01, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-0701-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 440514,
+    "datetime": "2023-08-25 7:00:24 +02:00",
+    "name": "25 augusti 00:39, Skadegörelse, Kalmar",
+    "summary": "Polis larmas till Sandås där en bil brinner.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-0039-skadegorelse-kalmar/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 440513,
+    "datetime": "2023-08-25 6:53:55 +02:00",
+    "name": "25 augusti 05:06, Rån, Malmö",
+    "summary": "Två pojkar i övre tonåren, under 18, blir utsatt för ett rån på Eriksfältsgatan.",
+    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-0506-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 440512,
     "datetime": "2023-08-25 1:12:47 +02:00",
     "name": "25 augusti 00:08, Detonation, Södertälje",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 439698,
-    "datetime": "2023-08-18 6:47:13 +02:00",
-    "name": "18 augusti 01:52, Rattfylleri, Ljungby",
-    "summary": "Misstänkt rattfylleri på Hångersvägen.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0152-rattfylleri-ljungby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 439696,
-    "datetime": "2023-08-18 6:40:22 +02:00",
-    "name": "18 augusti 01:40, Brand, Tomelilla",
-    "summary": "Brand i restaurang på Bangatan.",
-    "url": "/aktuellt/handelser/2023/augusti/18/18-augusti-0140-brand-tomelilla/",
-    "type": "Brand",
-    "location": {
-      "name": "Tomelilla",
-      "gps": "55.54355,13.95484"
-    }
-  },
-  {
-    "id": 439690,
-    "datetime": "2023-08-17 22:11:05 +02:00",
-    "name": "17 augusti 21:14, Farligt föremål, misstänkt, Habo",
-    "summary": "Upphittat misstänkt farligt föremål",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-2114-farligt-foremal-misstankt-habo/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Habo",
-      "gps": "57.909309,14.074367"
-    }
-  },
-  {
-    "id": 439687,
-    "datetime": "2023-08-17 21:57:46 +02:00",
-    "name": "17 augusti 21:57, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-2157-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 439688,
-    "datetime": "2023-08-17 21:57:37 +02:00",
-    "name": "17 augusti 21:57, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/augusti/17/17-augusti-2157-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
