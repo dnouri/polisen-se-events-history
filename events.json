@@ -1,5 +1,29 @@
 [
   {
+    "id": 440698,
+    "datetime": "2023-08-26 14:25:03 +02:00",
+    "name": "26 augusti 11:49, Narkotikabrott, Lycksele",
+    "summary": "Lycksele, misstänkt narkotikabrott.",
+    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-1149-narkotikabrott-lycksele/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 440697,
+    "datetime": "2023-08-26 14:23:11 +02:00",
+    "name": "26 augusti 11:14, Skadegörelse, Kalix",
+    "summary": "Kalix, bilar utsatta för skadegörelse.",
+    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-1114-skadegorelse-kalix/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
     "id": 440694,
     "datetime": "2023-08-26 13:35:08 +02:00",
     "name": "26 augusti 13:19, Trafikolycka, Umeå",
@@ -12,15 +36,15 @@
     }
   },
   {
-    "id": 440687,
-    "datetime": "2023-08-26 11:36:05 +02:00",
-    "name": "26 augusti 11:26, Trafikolycka, smitning från, Vänersborg",
-    "summary": "På Drottninggatan blir en kvinna blir påkörd av en bil, som därefter avviker från platsen.",
-    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-1126-trafikolycka-smitning-fran-vanersborg/",
-    "type": "Trafikolycka, smitning från",
+    "id": 440676,
+    "datetime": "2023-08-26 8:49:29 +02:00",
+    "name": "26 augusti 08:50, Motorfordon, stöld, Örebro",
+    "summary": "Man och kvinna frihetsberövade, misstänkta för flertalet stölder.",
+    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-0850-motorfordon-stold-orebro/",
+    "type": "Motorfordon, stöld",
     "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -33,6 +57,30 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 440695,
+    "datetime": "2023-08-26 13:46:00 +02:00",
+    "name": "26 augusti 11:22, Stöld/inbrott, Uddevalla",
+    "summary": "Polis får samtal om ett inbrott på en bilfirma i centrala Uddevalla.",
+    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-1122-stoldinbrott-uddevalla/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 440687,
+    "datetime": "2023-08-26 11:36:05 +02:00",
+    "name": "26 augusti 11:26, Trafikolycka, smitning från, Vänersborg",
+    "summary": "På Drottninggatan blir en kvinna blir påkörd av en bil, som därefter avviker från platsen.",
+    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-1126-trafikolycka-smitning-fran-vanersborg/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Vänersborg",
+      "gps": "58.379728,12.324803"
     }
   },
   {
@@ -177,18 +225,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 440676,
-    "datetime": "2023-08-26 8:49:29 +02:00",
-    "name": "26 augusti 08:50, Motorfordon, stöld, Örebro",
-    "summary": "Man och kvinna frihetsberövade, misstänkta för flertalet stölder.",
-    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-0850-motorfordon-stold-orebro/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 439869,
-    "datetime": "2023-08-19 15:34:24 +02:00",
-    "name": "19 augusti 13:10, Rattfylleri, Värmdö",
-    "summary": "Samtal om en bil som kör i mötande trafiks körfält på länsväg 222. Föraren stoppas av polis och misstänks för ",
-    "url": "/aktuellt/handelser/2023/augusti/19/19-augusti-1310-rattfylleri-varmdo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 439870,
-    "datetime": "2023-08-19 15:23:47 +02:00",
-    "name": "19 augusti 14:24, Trafikolycka, vilt, Tjörn",
-    "summary": "Trafikolycka mellan mc och älg vid Valla.",
-    "url": "/aktuellt/handelser/2023/augusti/19/19-augusti-1424-trafikolycka-vilt-tjorn/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Tjörn",
-      "gps": "58.04102,11.683671"
-    }
-  },
-  {
-    "id": 439868,
-    "datetime": "2023-08-19 14:42:45 +02:00",
-    "name": "19 augusti 14:15, Trafikkontroll, Kalix",
-    "summary": "Länsväg 398, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/augusti/19/19-augusti-1415-trafikkontroll-kalix/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   }
 ]
