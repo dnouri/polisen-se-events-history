@@ -1,5 +1,65 @@
 [
   {
+    "id": 441970,
+    "datetime": "2023-08-29 16:42:41 +02:00",
+    "name": "29 augusti 15:02, Trafikbrott, Solna",
+    "summary": "På E4 i höjd med Haga rapporterades en personbilsförare för hastighetsöverträdelse,",
+    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1502-trafikbrott-solna/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 441964,
+    "datetime": "2023-08-29 16:40:27 +02:00",
+    "name": "29 augusti 14:31, Misshandel, Stockholm",
+    "summary": "Samtal om att tre män slogs med varandra på Norrmalm.",
+    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1431-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 441969,
+    "datetime": "2023-08-29 16:37:58 +02:00",
+    "name": "29 augusti 14:30, Vapenlagen, Söderhamn",
+    "summary": "Person ska ha sett en man med vapen i Söderhamn.",
+    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1430-vapenlagen-soderhamn/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
+    "id": 441963,
+    "datetime": "2023-08-29 15:43:02 +02:00",
+    "name": "29 augusti 15:35, Trafikolycka, Borlänge",
+    "summary": "En olycka har inträffat i Övre Svärdsjö",
+    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1535-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 441967,
+    "datetime": "2023-08-29 16:22:25 +02:00",
+    "name": "29 augusti 15:00, Trafikbrott, Stockholm",
+    "summary": "Polisen rapporterade den lastbilschaufför som tappade minst en sten vid eller i Vällingbyrondellen.",
+    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1500-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 441966,
     "datetime": "2023-08-29 16:18:45 +02:00",
     "name": "29 augusti 15:25, Trafikolycka, singel, Ragunda",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 441963,
-    "datetime": "2023-08-29 15:43:02 +02:00",
-    "name": "29 augusti 15:35, Trafikolycka, Borlänge",
-    "summary": "En olycka har inträffat i Övre Svärdsjö",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1535-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 440227,
-    "datetime": "2023-08-22 20:48:47 +02:00",
-    "name": "22 augusti 20:23, Trafikolycka, personskada, Stockholm",
-    "summary": "En bilist har kört på en mopedist på Kungsholmen. Polis och ambulans är på plats.",
-    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-2023-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 440225,
-    "datetime": "2023-08-22 20:43:02 +02:00",
-    "name": "22 augusti 18:14, Bedrägeri, Örebro län",
-    "summary": "En kvinna i nittioårsåldern har under dagen utsatt för bedrägeri.",
-    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-1814-bedrageri-orebro-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 440223,
-    "datetime": "2023-08-22 20:28:43 +02:00",
-    "name": "22 augusti 20:28, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval av trafikkontroller efter klockan 16 i dag.",
-    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-2028-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 440224,
-    "datetime": "2023-08-22 20:14:20 +02:00",
-    "name": "22 augusti 20:09, Bedrägeri, Avesta",
-    "summary": "Under dagen har inkommit anmälan gällande bedrägeriförsök med en falsk swish-app.",
-    "url": "/aktuellt/handelser/2023/augusti/22/22-augusti-2009-bedrageri-avesta/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
     }
   }
 ]
