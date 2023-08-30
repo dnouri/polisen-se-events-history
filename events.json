@@ -1,5 +1,53 @@
 [
   {
+    "id": 442098,
+    "datetime": "2023-08-30 20:23:12 +02:00",
+    "name": "30 augusti 19:32, Trafikbrott, Stockholm",
+    "summary": "Fyra personer skadas i en krock vid Hornstull.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1932-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 442097,
+    "datetime": "2023-08-30 20:20:00 +02:00",
+    "name": "30 augusti 18:27, Narkotikabrott, Umeå",
+    "summary": "Misstänkt ringa narkotikabrott, Öst på stan.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1827-narkotikabrott-umea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 442096,
+    "datetime": "2023-08-30 20:16:19 +02:00",
+    "name": "30 augusti 17:46, Rån, Gävle",
+    "summary": "Rån i Villastaden.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1746-ran-gavle/",
+    "type": "Rån",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 442093,
+    "datetime": "2023-08-30 19:57:10 +02:00",
+    "name": "30 augusti 17:53, Trafikkontroll, Strömsund",
+    "summary": "Resultat efter trafikkontroll på länsväg 346, Backe.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1753-trafikkontroll-stromsund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
     "id": 442092,
     "datetime": "2023-08-30 19:25:23 +02:00",
     "name": "30 augusti 19:52, Trafikolycka, personskada, Örebro",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 442094,
+    "datetime": "2023-08-30 19:44:14 +02:00",
+    "name": "30 augusti 18:51, Trafikolycka, personskada, Falun",
+    "summary": "En person i artonårsåldern har förts till sjukhus efter en kollision mellan en elsparkcykel och en personbil i",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1851-trafikolycka-personskada-falun/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 440443,
-    "datetime": "2023-08-24 12:41:20 +02:00",
-    "name": "24 augusti 11:25, Stöld, Luleå",
-    "summary": "Misstänkt ringa stöld i matbutik, Innerstaden.",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1125-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 440431,
-    "datetime": "2023-08-24 10:09:49 +02:00",
-    "name": "24 augusti 09:22, Trafikolycka, personskada, Lysekil",
-    "summary": "På länsväg 162 vid Brodalen frontalkrockar en bilist med en lastbilschaufför.",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0922-trafikolycka-personskada-lysekil/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Lysekil",
-      "gps": "58.275573,11.435558"
-    }
-  },
-  {
-    "id": 440442,
-    "datetime": "2023-08-24 11:44:06 +02:00",
-    "name": "24 augusti 11:24, Mord/dråp, försök, Malmö",
-    "summary": "En man förs till sjukhus efter misshandel",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1124-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 440441,
-    "datetime": "2023-08-24 11:33:29 +02:00",
-    "name": "24 augusti 10:55, Övrigt, Huddinge",
-    "summary": "Ofarligt skräp uppfattas initialt som misstänkt farligt föremål.",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1055-ovrigt-huddinge/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 440438,
-    "datetime": "2023-08-24 10:43:02 +02:00",
-    "name": "24 augusti 09:57, Olovlig körning, Kalix",
-    "summary": "Grov olovlig körning i centrala Kalix.",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-0957-olovlig-korning-kalix/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   }
 ]
