@@ -1,5 +1,89 @@
 [
   {
+    "id": 442113,
+    "datetime": "2023-08-30 21:57:57 +02:00",
+    "name": "30 augusti 21:34, Stöld, Skellefteå",
+    "summary": "Polispatrull berodras till en matbutik i Kåge där ett överfallslarm gått.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-2134-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 442111,
+    "datetime": "2023-08-30 21:56:20 +02:00",
+    "name": "30 augusti 20:53, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer i dag.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-2053-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 442112,
+    "datetime": "2023-08-30 21:56:10 +02:00",
+    "name": "30 augusti 21:55, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer i dag.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-2155-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 442110,
+    "datetime": "2023-08-30 21:51:06 +02:00",
+    "name": "30 augusti 21:20, Rån, Lund",
+    "summary": "Man rånad, Lund.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-2120-ran-lund/",
+    "type": "Rån",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 442109,
+    "datetime": "2023-08-30 21:47:30 +02:00",
+    "name": "30 augusti 21:46, Övrigt, Jönköpings län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-2146-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 442108,
+    "datetime": "2023-08-30 21:47:03 +02:00",
+    "name": "30 augusti 21:46, Övrigt, Östergötlands län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-2146-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 442107,
+    "datetime": "2023-08-30 21:46:43 +02:00",
+    "name": "30 augusti 21:46, Övrigt, Södermanlands län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-2146-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 442100,
     "datetime": "2023-08-30 21:19:51 +02:00",
     "name": "30 augusti 13:56, Rattfylleri, Umeå",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 440466,
-    "datetime": "2023-08-24 16:55:23 +02:00",
-    "name": "24 augusti 16:32, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1632-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 440461,
-    "datetime": "2023-08-24 16:15:32 +02:00",
-    "name": "24 augusti 15:44, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat på E18",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1544-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 440464,
-    "datetime": "2023-08-24 16:32:27 +02:00",
-    "name": "24 augusti 15:00, Trafikkontroll, Örnsköldsvik",
-    "summary": "Husum, resultat efter trafikkontroll under dagen",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1500-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 440463,
-    "datetime": "2023-08-24 16:17:51 +02:00",
-    "name": "24 augusti 13:23, Stöld, Härnösand",
-    "summary": "Kronholmen, man stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1323-stold-harnosand/",
-    "type": "Stöld",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 440462,
-    "datetime": "2023-08-24 16:17:24 +02:00",
-    "name": "24 augusti 15:49, Rattfylleri, Arvika",
-    "summary": "En bilist är misstänkt för brott i centrum",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1549-rattfylleri-arvika/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 440459,
-    "datetime": "2023-08-24 16:05:52 +02:00",
-    "name": "24 augusti 16:04, Trafikbrott, Stockholm",
-    "summary": "Mellan klockan 14 och 16 rapporterades fyra fordonsförare för dessa trafikbrott på Söder- och Norrmalm samt i ",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1604-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 440455,
-    "datetime": "2023-08-24 15:42:49 +02:00",
-    "name": "24 augusti 15:20, Stöld, Göteborg",
-    "summary": "På Kungstorget har en 15-årig pojke blivit bestulen på sin halskedja.",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-1520-stold-goteborg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
