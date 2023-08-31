@@ -1,5 +1,41 @@
 [
   {
+    "id": 442252,
+    "datetime": "2023-08-31 22:01:06 +02:00",
+    "name": "31 augusti 22:00, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer i dag.",
+    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-2200-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 442253,
+    "datetime": "2023-08-31 22:01:01 +02:00",
+    "name": "31 augusti 22:00, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer i dag.",
+    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-2200-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 442248,
+    "datetime": "2023-08-31 21:27:43 +02:00",
+    "name": "31 augusti 21:11, Trafikolycka, Vännäs",
+    "summary": "Larm om trafikolycka på länsväg 554 mellan Brån och Överboda.",
+    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-2111-trafikolycka-vannas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vännäs",
+      "gps": "63.908007,19.752965"
+    }
+  },
+  {
     "id": 442251,
     "datetime": "2023-08-31 21:32:16 +02:00",
     "name": "31 augusti 14:01, Rattfylleri, Umeå",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Värmdö",
       "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 442248,
-    "datetime": "2023-08-31 21:27:43 +02:00",
-    "name": "31 augusti 21:11, Trafikolycka, Vännäs",
-    "summary": "Larm om trafikolycka på länsväg 554 mellan Brån och Överboda.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-2111-trafikolycka-vannas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vännäs",
-      "gps": "63.908007,19.752965"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 440612,
-    "datetime": "2023-08-25 18:23:23 +02:00",
-    "name": "25 augusti 17:46, Brand, Östersund",
-    "summary": "Larm om brand i ett flerfamiljshus i centrala Östersund.",
-    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1746-brand-ostersund/",
-    "type": "Brand",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 440622,
-    "datetime": "2023-08-25 18:49:30 +02:00",
-    "name": "25 augusti 17:30, Narkotikabrott, Umeå",
-    "summary": "Misstänkt ringa narkotikabrott i centrala Umeå.",
-    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-1730-narkotikabrott-umea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
