@@ -1,14 +1,26 @@
 [
   {
-    "id": 442159,
-    "datetime": "2023-08-31 9:00:00 +02:00",
-    "name": "31 augusti 09:00, Polisinsats/kommendering, Umeå",
-    "summary": "Umeå, stora delar av vägnätet i centrum stängs av under dagen i samband med ett evenemang.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-0900-polisinsatskommendering-umea/",
-    "type": "Polisinsats/kommendering",
+    "id": 442169,
+    "datetime": "2023-08-31 10:41:12 +02:00",
+    "name": "31 augusti 01:41, Sabotage mot blåljusverksamhet, Norrtälje",
+    "summary": "Okänt vem eller vilka som lade upp saker på en parkerad polisbil.",
+    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-0141-sabotage-mot-blaljusverksamhet-norrtalje/",
+    "type": "Sabotage mot blåljusverksamhet",
     "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 442168,
+    "datetime": "2023-08-31 10:34:59 +02:00",
+    "name": "31 augusti 09:44, Brand, Danderyd",
+    "summary": "Polisen biträder räddningstjänsten vid en brand vid ett tunnelbygge i Danderyd.",
+    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-0944-brand-danderyd/",
+    "type": "Brand",
+    "location": {
+      "name": "Danderyd",
+      "gps": "59.407905,18.019075"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 442159,
+    "datetime": "2023-08-31 9:00:00 +02:00",
+    "name": "31 augusti 09:00, Polisinsats/kommendering, Umeå",
+    "summary": "Umeå, stora delar av vägnätet i centrum stängs av under dagen i samband med ett evenemang.",
+    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-0900-polisinsatskommendering-umea/",
+    "type": "Polisinsats/kommendering",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 440457,
-    "datetime": "2023-08-24 21:49:57 +02:00",
-    "name": "24 augusti 21:45, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-2145-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 440456,
-    "datetime": "2023-08-24 21:49:51 +02:00",
-    "name": "24 augusti 21:45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/augusti/24/24-augusti-2145-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
