@@ -1,5 +1,29 @@
 [
   {
+    "id": 442315,
+    "datetime": "2023-09-01 13:44:01 +02:00",
+    "name": "01 september 13:28, Rattfylleri, Karlstad",
+    "summary": "En bilist är misstänkt för brott i Tingvallastaden",
+    "url": "/aktuellt/handelser/2023/september/1/01-september-1328-rattfylleri-karlstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 442314,
+    "datetime": "2023-09-01 13:43:39 +02:00",
+    "name": "01 september 13:30, Trafikkontroll, Östersund",
+    "summary": "Fyrvallavägen, polisen har under morgonen kontrollerat A-traktorer och mopeder",
+    "url": "/aktuellt/handelser/2023/september/1/01-september-1330-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 442306,
     "datetime": "2023-09-01 12:59:15 +02:00",
     "name": "01 september 12:09, Rattfylleri, Gagnef",
@@ -9,6 +33,66 @@
     "location": {
       "name": "Gagnef",
       "gps": "60.590983,15.070049"
+    }
+  },
+  {
+    "id": 442312,
+    "datetime": "2023-09-01 13:30:40 +02:00",
+    "name": "01 september 10:40, Trafikkontroll, Lycksele",
+    "summary": "E12 Lugnet, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2023/september/1/01-september-1040-trafikkontroll-lycksele/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 442311,
+    "datetime": "2023-09-01 13:26:40 +02:00",
+    "name": "01 september 13:26, Trafikolycka, singel, Linköping",
+    "summary": "Trafiken avstängd efter olycka på E4.",
+    "url": "/aktuellt/handelser/2023/september/1/01-september-1326-trafikolycka-singel-linkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 442310,
+    "datetime": "2023-09-01 13:25:40 +02:00",
+    "name": "01 september 12:24, Trafikolycka, Västervik",
+    "summary": "Torget, Gamleby. En personbil kolliderar med en flaggstång.",
+    "url": "/aktuellt/handelser/2023/september/1/01-september-1224-trafikolycka-vastervik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 442309,
+    "datetime": "2023-09-01 13:25:19 +02:00",
+    "name": "01 september 09:09, Stöld, Umeå",
+    "summary": "Väst-Teg, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2023/september/1/01-september-0909-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 442307,
+    "datetime": "2023-09-01 13:22:15 +02:00",
+    "name": "01 september 12:40, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken under förmiddagen",
+    "url": "/aktuellt/handelser/2023/september/1/01-september-1240-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Nordmaling",
       "gps": "63.567106,19.505022"
-    }
-  },
-  {
-    "id": 440677,
-    "datetime": "2023-08-26 9:25:00 +02:00",
-    "name": "26 augusti 07:05, Misshandel, grov, Göteborg",
-    "summary": "En man i 55-årsåldern larmar polis och uppger att han blivit skuren i ansiktet ombord på en spårvagn mot Frölu",
-    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-0705-misshandel-grov-goteborg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 440675,
-    "datetime": "2023-08-26 8:36:05 +02:00",
-    "name": "25 augusti 21:08, Brand, Sandviken",
-    "summary": "Brand i byggnad.",
-    "url": "/aktuellt/handelser/2023/augusti/25/25-augusti-2108-brand-sandviken/",
-    "type": "Brand",
-    "location": {
-      "name": "Sandviken",
-      "gps": "60.621607,16.775918"
-    }
-  },
-  {
-    "id": 440673,
-    "datetime": "2023-08-26 8:32:10 +02:00",
-    "name": "26 augusti 06:01, Misshandel, Stockholm",
-    "summary": "Taxichaufför misshandlad av kund",
-    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-0601-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 440660,
-    "datetime": "2023-08-26 8:20:20 +02:00",
-    "name": "26 augusti 08:20, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-0820-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 440672,
-    "datetime": "2023-08-26 8:18:36 +02:00",
-    "name": "26 augusti 08:18, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-0818-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 440671,
-    "datetime": "2023-08-26 8:17:21 +02:00",
-    "name": "26 augusti 08:17, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-0817-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 440670,
-    "datetime": "2023-08-26 8:13:17 +02:00",
-    "name": "26 augusti 03:45, Trafikbrott, Kristianstad",
-    "summary": "Smitningsolycka, Åhus.",
-    "url": "/aktuellt/handelser/2023/augusti/26/26-augusti-0345-trafikbrott-kristianstad/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   }
 ]
