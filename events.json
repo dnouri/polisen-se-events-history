@@ -1,5 +1,53 @@
 [
   {
+    "id": 442477,
+    "datetime": "2023-09-03 8:58:39 +02:00",
+    "name": "03 september 03:30, Inbrott, Gävle",
+    "summary": "Inbrott i bostad i Hedesunda.",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-0330-inbrott-gavle/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 442476,
+    "datetime": "2023-09-03 8:58:35 +02:00",
+    "name": "03 september 08:16, Trafikolycka, vilt, Piteå",
+    "summary": "Piteå, viltolycka på E4 anmäld.",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-0816-trafikolycka-vilt-pitea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 442475,
+    "datetime": "2023-09-03 8:55:43 +02:00",
+    "name": "03 september 08:24, Trafikolycka, Sundsvall",
+    "summary": "Stöde, singelolycka på E14.",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-0824-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 442459,
+    "datetime": "2023-09-03 6:41:55 +02:00",
+    "name": "03 september 06:41, Detonation, Norrköping",
+    "summary": "Vad som verkar vara en detonation har skett i ett bostadshus i Norrköping. Polis, Räddningstjänst och sjukvård",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-0641-detonation-norrkoping/",
+    "type": "Detonation",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
     "id": 442474,
     "datetime": "2023-09-03 8:24:12 +02:00",
     "name": "03 september 06:48, Farligt föremål, misstänkt, Upplands-bro",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 442459,
-    "datetime": "2023-09-03 6:41:55 +02:00",
-    "name": "03 september 06:41, Detonation, Norrköping",
-    "summary": "Vad som verkar vara en detonation har skett i ett bostadshus i Norrköping. Polis, Räddningstjänst och sjukvård",
-    "url": "/aktuellt/handelser/2023/september/3/03-september-0641-detonation-norrkoping/",
-    "type": "Detonation",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 441834,
-    "datetime": "2023-08-28 15:53:51 +02:00",
-    "name": "28 augusti 14:09, Stöld/inbrott, Östersund",
-    "summary": "Brunflo, inbrott i villa",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-1409-stoldinbrott-ostersund/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 441826,
-    "datetime": "2023-08-28 14:50:57 +02:00",
-    "name": "28 augusti 13:37, Trafikolycka, personskada, Alingsås",
-    "summary": "På länsväg 1750 i Hemsjö har en bilist väjt för en älg och kört in i ett träd.",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-1337-trafikolycka-personskada-alingsas/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
-    }
-  },
-  {
-    "id": 441832,
-    "datetime": "2023-08-28 15:29:18 +02:00",
-    "name": "28 augusti 14:55, Trafikbrott, Stockholm",
-    "summary": "I Kista rapporterades en personbilsförare för att han använde ett körfält som var anvisats för slag av fordon.",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-1455-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
