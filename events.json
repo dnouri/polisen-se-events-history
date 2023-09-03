@@ -1,5 +1,53 @@
 [
   {
+    "id": 442498,
+    "datetime": "2023-09-03 13:13:11 +02:00",
+    "name": "03 september 13:12, Fylleri/LOB, Sundsvall",
+    "summary": "Sundsvall, personer omhändertagna.",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-1312-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 442497,
+    "datetime": "2023-09-03 13:09:15 +02:00",
+    "name": "03 september 13:09, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-1309-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 442495,
+    "datetime": "2023-09-03 13:00:32 +02:00",
+    "name": "03 september 12:49, Trafikolycka, Mörbylånga",
+    "summary": "Färjestaden. Kollision mellan två fordon.",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-1249-trafikolycka-morbylanga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mörbylånga",
+      "gps": "56.523757,16.386916"
+    }
+  },
+  {
+    "id": 442496,
+    "datetime": "2023-09-03 13:05:13 +02:00",
+    "name": "03 september 12:59, Trafikolycka, Avesta",
+    "summary": "En olycka har inträffat i i höjd med Smassbo",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-1259-trafikolycka-avesta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
     "id": 442493,
     "datetime": "2023-09-03 12:31:32 +02:00",
     "name": "03 september 12:27, Trafikolycka, Borlänge",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 442494,
+    "datetime": "2023-09-03 12:56:22 +02:00",
+    "name": "03 september 11:16, Rattfylleri, Gävle",
+    "summary": "Polis larmas till trafikolycka vid Bomhus.",
+    "url": "/aktuellt/handelser/2023/september/3/03-september-1116-rattfylleri-gavle/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 441858,
-    "datetime": "2023-08-28 17:51:48 +02:00",
-    "name": "28 augusti 15:24, Misshandel, Solna",
-    "summary": "I Hagaparken medtogs en man som förutom misshandel även är misstänkt för narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-1524-misshandel-solna/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 441857,
-    "datetime": "2023-08-28 17:42:53 +02:00",
-    "name": "28 augusti 15:56, Fylleri/LOB, Östersund",
-    "summary": "Centrum, polis kontaktas gällande berusad man",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-1556-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 441856,
-    "datetime": "2023-08-28 17:40:54 +02:00",
-    "name": "28 augusti 15:34, Skadegörelse, Östersund",
-    "summary": "Frösön, skadegörelse på en busskur efter Frösövägen",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-1534-skadegorelse-ostersund/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 441855,
-    "datetime": "2023-08-28 17:38:40 +02:00",
-    "name": "28 augusti 15:01, Narkotikabrott, Värmdö",
-    "summary": "De två personerna som polisen kontrollerade i Höjdhagen blev misstänkta för narkotikabrott genom eget bruk.",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-1501-narkotikabrott-varmdo/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 441852,
-    "datetime": "2023-08-28 17:14:04 +02:00",
-    "name": "28 augusti 16:13, Trafikbrott, Kiruna",
-    "summary": "E10, bilist stoppad efter hastighetsöverträdelse",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-1613-trafikbrott-kiruna/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
     }
   }
 ]
