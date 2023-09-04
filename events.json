@@ -1,5 +1,41 @@
 [
   {
+    "id": 442564,
+    "datetime": "2023-09-04 10:10:21 +02:00",
+    "name": "04 september 09:53, Brand, Malmö",
+    "summary": "Larm om brand i bostad",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-0953-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 442544,
+    "datetime": "2023-09-04 7:55:29 +02:00",
+    "name": "04 september 07:52, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Mellringe",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-0752-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 442561,
+    "datetime": "2023-09-04 9:51:09 +02:00",
+    "name": "04 september 09:34, Trafikbrott, Berg",
+    "summary": "Myrviken, polisen stoppar en trafikant med släpvagn",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-0934-trafikbrott-berg/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
     "id": 442557,
     "datetime": "2023-09-04 9:28:56 +02:00",
     "name": "04 september 09:00, Arbetsplatsolycka, Kävlinge",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 442544,
-    "datetime": "2023-09-04 7:55:29 +02:00",
-    "name": "04 september 07:52, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i Mellringe",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-0752-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 441899,
-    "datetime": "2023-08-28 22:39:54 +02:00",
-    "name": "28 augusti 21:53, Trafikbrott, Sundbyberg",
-    "summary": "I Hallonbergen rapporterades en personbilsförare.",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-2153-trafikbrott-sundbyberg/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 441898,
-    "datetime": "2023-08-28 22:37:14 +02:00",
-    "name": "28 augusti 21:39, Rattfylleri, Stockholm",
-    "summary": "I från Hammarbyhöjden medtogs en personbilsförare misstänkt för drograttfylleri.",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-2139-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
