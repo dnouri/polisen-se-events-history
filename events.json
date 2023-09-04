@@ -1,5 +1,29 @@
 [
   {
+    "id": 442607,
+    "datetime": "2023-09-04 14:08:18 +02:00",
+    "name": "04 september 11:19, Fjällräddning, Jämtlands län",
+    "summary": "Tännäs, polisen kontaktades angående en sjuk kvinna på fjället",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-1119-fjallraddning-jamtlands-lan/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 442606,
+    "datetime": "2023-09-04 14:08:06 +02:00",
+    "name": "04 september 13:30, Brand, Söderköping",
+    "summary": "Brand i flerfamiljshus.",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-1330-brand-soderkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Söderköping",
+      "gps": "58.475901,16.323431"
+    }
+  },
+  {
     "id": 442601,
     "datetime": "2023-09-04 13:42:12 +02:00",
     "name": "04 september 12:49, Trafikolycka, Stockholm",
@@ -9,6 +33,42 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 442587,
+    "datetime": "2023-09-04 11:28:00 +02:00",
+    "name": "04 september 10:56, Arbetsplatsolycka, Vansbro",
+    "summary": "En olycka har inträffat på en arbetsplats i Vansbro",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-1056-arbetsplatsolycka-vansbro/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Vansbro",
+      "gps": "60.509943,14.225342"
+    }
+  },
+  {
+    "id": 442604,
+    "datetime": "2023-09-04 13:51:08 +02:00",
+    "name": "04 september 13:17, Trafikolycka, personskada, Varberg",
+    "summary": "En personbil och en motorcykel kolliderar på länsväg 41 i trakten av Lindberg.",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-1317-trafikolycka-personskada-varberg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 442602,
+    "datetime": "2023-09-04 13:45:01 +02:00",
+    "name": "04 september 12:32, Misshandel, Huddinge",
+    "summary": "Två personer har bråkat på perrongen vid station Flemingsberg. Ingen är allvarligt skadad men anmälan om missh",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-1232-misshandel-huddinge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
     }
   },
   {
@@ -153,18 +213,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 442587,
-    "datetime": "2023-09-04 11:28:00 +02:00",
-    "name": "04 september 10:56, Arbetsplatsolycka, Vansbro",
-    "summary": "En olycka har inträffat på en arbetsplats i Vansbro",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1056-arbetsplatsolycka-vansbro/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Vansbro",
-      "gps": "60.509943,14.225342"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 441917,
-    "datetime": "2023-08-29 7:52:05 +02:00",
-    "name": "29 augusti 07:52, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-0752-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 441906,
-    "datetime": "2023-08-29 7:52:04 +02:00",
-    "name": "29 augusti 07:52, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-0752-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 441913,
-    "datetime": "2023-08-29 7:51:48 +02:00",
-    "name": "29 augusti 07:52, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-0752-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 441914,
-    "datetime": "2023-08-29 7:50:10 +02:00",
-    "name": "28 augusti 23:25, Larm Inbrott, Solna",
-    "summary": "Larm om inbrott på förskola.",
-    "url": "/aktuellt/handelser/2023/augusti/28/28-augusti-2325-larm-inbrott-solna/",
-    "type": "Larm Inbrott",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
     }
   }
 ]
