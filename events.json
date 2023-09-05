@@ -1,5 +1,89 @@
 [
   {
+    "id": 442698,
+    "datetime": "2023-09-05 8:21:34 +02:00",
+    "name": "05 september 00:12, Mord/dråp, försök, Uppsala",
+    "summary": "Man anträffad knivskadad i centrala Uppsala.",
+    "url": "/aktuellt/handelser/2023/september/4/05-september-0012-morddrap-forsok-uppsala/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 442691,
+    "datetime": "2023-09-05 8:16:39 +02:00",
+    "name": "04 september 22:50, Misshandel, Vaxholm",
+    "summary": "Ett par blir misstänkt för att ha misshandlat varandra",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-2250-misshandel-vaxholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Vaxholm",
+      "gps": "59.403297,18.32638"
+    }
+  },
+  {
+    "id": 442693,
+    "datetime": "2023-09-05 8:16:34 +02:00",
+    "name": "04 september 23:58, Stöld/inbrott, Stockholm",
+    "summary": "Inbrott på restaurang.",
+    "url": "/aktuellt/handelser/2023/september/4/04-september-2358-stoldinbrott-stockholm/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 442694,
+    "datetime": "2023-09-05 8:16:27 +02:00",
+    "name": "05 september 00:14, Misshandel, Haninge",
+    "summary": "Misshandel och skadegörelse i en lägenhet.",
+    "url": "/aktuellt/handelser/2023/september/5/05-september-0014-misshandel-haninge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 442696,
+    "datetime": "2023-09-05 8:08:03 +02:00",
+    "name": "05 september 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/september/5/05-september-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 442695,
+    "datetime": "2023-09-05 8:07:30 +02:00",
+    "name": "05 september 07:53, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/september/5/05-september-0753-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 442697,
+    "datetime": "2023-09-05 8:06:32 +02:00",
+    "name": "05 september 08:03, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/september/5/05-september-0803-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 442692,
     "datetime": "2023-09-05 7:34:02 +02:00",
     "name": "05 september 07:33, Sammanfattning natt, Västerbottens län",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Nynäshamn",
       "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 442003,
-    "datetime": "2023-08-29 20:54:36 +02:00",
-    "name": "29 augusti 20:54, Misshandel, Nässjö",
-    "summary": "Bråk utomhus vid Stadsparken.",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-2054-misshandel-nassjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
-    }
-  },
-  {
-    "id": 442002,
-    "datetime": "2023-08-29 20:39:40 +02:00",
-    "name": "29 augusti 16:38, Stöld, Skellefteå",
-    "summary": "Centrum, man misstänks för ringa stölder i butiker",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1638-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 442001,
-    "datetime": "2023-08-29 20:37:00 +02:00",
-    "name": "29 augusti 17:38, Alkohollagen, Umeå",
-    "summary": "Centrala stan, två berusade tonåringar påträffade",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1738-alkohollagen-umea/",
-    "type": "Alkohollagen",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 441964,
-    "datetime": "2023-08-29 16:40:27 +02:00",
-    "name": "29 augusti 14:31, Misshandel, Stockholm",
-    "summary": "Samtal om att tre män slogs med varandra på Norrmalm.",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1431-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 441951,
-    "datetime": "2023-08-29 13:47:44 +02:00",
-    "name": "29 augusti 13:47, Mord/dråp, försök, Linköping",
-    "summary": "Flera polispatruller på plats i Skäggetorp.",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1347-morddrap-forsok-linkoping/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 441989,
-    "datetime": "2023-08-29 17:48:45 +02:00",
-    "name": "29 augusti 16:55, Trafikolycka, Knivsta",
-    "summary": "Trafikolycka med buss på E4 utanför Knivsta.",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1655-trafikolycka-knivsta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Knivsta",
-      "gps": "59.72612,17.792036"
-    }
-  },
-  {
-    "id": 441999,
-    "datetime": "2023-08-29 20:04:03 +02:00",
-    "name": "29 augusti 16:30, Stöld, Umeå",
-    "summary": "Mariehem, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2023/augusti/29/29-augusti-1630-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
