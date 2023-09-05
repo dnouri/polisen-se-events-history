@@ -1,5 +1,41 @@
 [
   {
+    "id": 442773,
+    "datetime": "2023-09-05 20:06:40 +02:00",
+    "name": "05 september 20:01, Brand, Malmö",
+    "summary": "Brand i lägenhet, Hästhagen.",
+    "url": "/aktuellt/handelser/2023/september/5/05-september-2001-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 442777,
+    "datetime": "2023-09-05 21:12:54 +02:00",
+    "name": "05 september 19:51, Olovlig körning, Kiruna",
+    "summary": "Kiruna, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/september/5/05-september-1951-olovlig-korning-kiruna/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 442776,
+    "datetime": "2023-09-05 20:54:13 +02:00",
+    "name": "05 september 19:27, Farligt föremål, misstänkt, Stockholm",
+    "summary": "Polis kallades till området vid södra station med anledning av ett misstänkt farligt föremål.",
+    "url": "/aktuellt/handelser/2023/september/5/05-september-1927-farligt-foremal-misstankt-stockholm/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 442771,
     "datetime": "2023-09-05 19:51:11 +02:00",
     "name": "05 september 19:04, Rån väpnat, Norberg",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 442773,
-    "datetime": "2023-09-05 20:06:40 +02:00",
-    "name": "05 september 20:01, Brand, Malmö",
-    "summary": "Brand i lägenhet, Hästhagen.",
-    "url": "/aktuellt/handelser/2023/september/5/05-september-2001-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Storuman",
       "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 442075,
-    "datetime": "2023-08-30 16:03:26 +02:00",
-    "name": "30 augusti 14:13, Stöld, Stockholm",
-    "summary": "Hundstöld vid Slussen.",
-    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1413-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 442073,
-    "datetime": "2023-08-30 15:53:38 +02:00",
-    "name": "30 augusti 13:54, Stöld, Åre",
-    "summary": "Misstänkt ringa stöld i matbutik, Åre.",
-    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1354-stold-are/",
-    "type": "Stöld",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
     }
   }
 ]
