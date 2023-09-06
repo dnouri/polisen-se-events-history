@@ -1,5 +1,77 @@
 [
   {
+    "id": 442805,
+    "datetime": "2023-09-06 7:20:57 +02:00",
+    "name": "06 september 03:32, Brand, Västerås",
+    "summary": "Misstänkt anlagd brand i butik.",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0332-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 442803,
+    "datetime": "2023-09-06 7:15:57 +02:00",
+    "name": "06 september 05:05, Bedrägeri, Nacka",
+    "summary": "I Saltsjö-Duvnäs identifierade polisen den man som är misstänkt för att inte ha betalat för den genomförda tax",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0505-bedrageri-nacka/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 442802,
+    "datetime": "2023-09-06 7:15:53 +02:00",
+    "name": "06 september 00:11, Stöld, försök, Malmö",
+    "summary": "Två gripna efter stöldförsök från bil",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0011-stold-forsok-malmo/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 442800,
+    "datetime": "2023-09-06 7:05:54 +02:00",
+    "name": "06 september 00:41, Trafikolycka, singel, Södertälje",
+    "summary": "Singelolycka på Morabergsvägen utreds som vårdslöshet i trafik.",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0041-trafikolycka-singel-sodertalje/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 442799,
+    "datetime": "2023-09-06 6:51:17 +02:00",
+    "name": "06 september 04:10, Brand, Burlöv",
+    "summary": "Bilbrand",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0410-brand-burlov/",
+    "type": "Brand",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 442798,
+    "datetime": "2023-09-06 6:47:13 +02:00",
+    "name": "06 september 03:03, Brand, Oskarshamn",
+    "summary": "Brand i villa, ingen misstanke om brott.",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0303-brand-oskarshamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
     "id": 442797,
     "datetime": "2023-09-06 6:44:14 +02:00",
     "name": "06 september 02:02, Stöld/inbrott, Eslöv",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 442096,
-    "datetime": "2023-08-30 20:16:19 +02:00",
-    "name": "30 augusti 17:46, Rån, Gävle",
-    "summary": "Rån i Villastaden.",
-    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1746-ran-gavle/",
-    "type": "Rån",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 442093,
-    "datetime": "2023-08-30 19:57:10 +02:00",
-    "name": "30 augusti 17:53, Trafikkontroll, Strömsund",
-    "summary": "Resultat efter trafikkontroll på länsväg 346, Backe.",
-    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1753-trafikkontroll-stromsund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 442092,
-    "datetime": "2023-08-30 19:25:23 +02:00",
-    "name": "30 augusti 19:52, Trafikolycka, personskada, Örebro",
-    "summary": "Trafikolycka, två personbilar varav en taxi.",
-    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1952-trafikolycka-personskada-orebro/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 442094,
-    "datetime": "2023-08-30 19:44:14 +02:00",
-    "name": "30 augusti 18:51, Trafikolycka, personskada, Falun",
-    "summary": "En person i artonårsåldern har förts till sjukhus efter en kollision mellan en elsparkcykel och en personbil i",
-    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1851-trafikolycka-personskada-falun/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 442091,
-    "datetime": "2023-08-30 19:17:31 +02:00",
-    "name": "30 augusti 17:58, Misshandel, Lerum",
-    "summary": "Polisen får samtal om ett bråk vid en källsorteringsstation i centrala Floda.",
-    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1758-misshandel-lerum/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Lerum",
-      "gps": "57.769484,12.26882"
-    }
-  },
-  {
-    "id": 442085,
-    "datetime": "2023-08-30 18:42:54 +02:00",
-    "name": "30 augusti 16:47, Trafikkontroll, Härjedalen",
-    "summary": "Resultat efter trafikkontroll på E45, Sveg.",
-    "url": "/aktuellt/handelser/2023/augusti/30/30-augusti-1647-trafikkontroll-harjedalen/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
     }
   }
 ]
