@@ -1,5 +1,17 @@
 [
   {
+    "id": 442812,
+    "datetime": "2023-09-06 7:38:08 +02:00",
+    "name": "06 september 01:40, Stöld, Haninge",
+    "summary": "I Tungelsta greps en man misstänkt för bland annat stöld.",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0140-stold-haninge/",
+    "type": "Stöld",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
     "id": 442832,
     "datetime": "2023-09-06 9:42:09 +02:00",
     "name": "06 september 09:12, Trafikolycka, Gävle",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 442817,
+    "datetime": "2023-09-06 7:58:31 +02:00",
+    "name": "06 september 07:51, Trafikolycka, Lund",
+    "summary": "Trafikolycka, E22:an",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0751-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 442834,
+    "datetime": "2023-09-06 10:05:24 +02:00",
+    "name": "06 september 09:42, Trafikolycka, personskada, Västerås",
+    "summary": "Kollision mellan personbil och moped.",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0942-trafikolycka-personskada-vasteras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 442833,
+    "datetime": "2023-09-06 9:46:45 +02:00",
+    "name": "06 september 09:24, Trafikbrott, Timrå",
+    "summary": "Vivsta, en en trafikant stoppas av polisen.",
+    "url": "/aktuellt/handelser/2023/september/6/06-september-0924-trafikbrott-timra/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
     }
   },
   {
@@ -41,18 +89,6 @@
     "name": "06 september 08:29, Trafikolycka, Lund",
     "summary": "Larm om buss som kört in i viadukt",
     "url": "/aktuellt/handelser/2023/september/6/06-september-0829-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 442817,
-    "datetime": "2023-09-06 7:58:31 +02:00",
-    "name": "06 september 07:51, Trafikolycka, Lund",
-    "summary": "Trafikolycka, E22:an",
-    "url": "/aktuellt/handelser/2023/september/6/06-september-0751-trafikolycka-lund/",
     "type": "Trafikolycka",
     "location": {
       "name": "Lund",
@@ -237,18 +273,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 442812,
-    "datetime": "2023-09-06 7:38:08 +02:00",
-    "name": "06 september 01:40, Stöld, Haninge",
-    "summary": "I Tungelsta greps en man misstänkt för bland annat stöld.",
-    "url": "/aktuellt/handelser/2023/september/6/06-september-0140-stold-haninge/",
-    "type": "Stöld",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 442134,
-    "datetime": "2023-08-31 7:06:12 +02:00",
-    "name": "31 augusti 07:06, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-0706-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 442133,
-    "datetime": "2023-08-31 7:06:10 +02:00",
-    "name": "31 augusti 04:50, Skadegörelse, Värmdö",
-    "summary": "Den man som är misstänkt för skadegörelse mot en bostad i Hästhagen greps av polisen.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-0450-skadegorelse-varmdo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   }
 ]
