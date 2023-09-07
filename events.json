@@ -1,14 +1,26 @@
 [
   {
-    "id": 443030,
-    "datetime": "2023-09-07 17:14:18 +02:00",
-    "name": "07 september 15:36, Trafikbrott, Malmö",
-    "summary": "Yttre Ringvägen. En personbil framförs mot färdriktningen på motorväg.",
-    "url": "/aktuellt/handelser/2023/september/7/07-september-1536-trafikbrott-malmo/",
-    "type": "Trafikbrott",
+    "id": 443031,
+    "datetime": "2023-09-07 17:38:41 +02:00",
+    "name": "07 september 17:14, Trafikolycka, personskada, Tanum",
+    "summary": "Singelolycka",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-1714-trafikolycka-personskada-tanum/",
+    "type": "Trafikolycka, personskada",
     "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 442951,
+    "datetime": "2023-09-07 3:19:47 +02:00",
+    "name": "07 september 03:13, Övrigt, Uppsala",
+    "summary": "Grovt brott i Gränby, Uppsala.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-0313-ovrigt-uppsala/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 443030,
+    "datetime": "2023-09-07 17:14:18 +02:00",
+    "name": "07 september 15:36, Trafikbrott, Malmö",
+    "summary": "Yttre Ringvägen. En personbil framförs mot färdriktningen på motorväg.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-1536-trafikbrott-malmo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -309,18 +333,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 442951,
-    "datetime": "2023-09-07 3:19:47 +02:00",
-    "name": "07 september 03:13, Övrigt, Uppsala",
-    "summary": "Grovt brott i Gränby, Uppsala.",
-    "url": "/aktuellt/handelser/2023/september/7/07-september-0313-ovrigt-uppsala/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 442250,
-    "datetime": "2023-08-31 21:29:51 +02:00",
-    "name": "31 augusti 20:39, Räddningsinsats, Värmdö",
-    "summary": "Personbil kör i vattnet vid Norra Lagnös färjeläge.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-2039-raddningsinsats-varmdo/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   }
 ]
