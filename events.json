@@ -1,5 +1,65 @@
 [
   {
+    "id": 443014,
+    "datetime": "2023-09-07 14:19:24 +02:00",
+    "name": "07 september 13:24, Trafikbrott, Hällefors",
+    "summary": "Man i 45-årsåldern misstänkt för drograttfylleri m.m.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-1324-trafikbrott-hallefors/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Hällefors",
+      "gps": "59.783688,14.522569"
+    }
+  },
+  {
+    "id": 442965,
+    "datetime": "2023-09-07 7:49:36 +02:00",
+    "name": "07 september 02:33, Mord/dråp, försök, Stockholm",
+    "summary": "En lägenhet i Bromma är avspärrad i väntan på att tekniker genomför en undersökning.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-0233-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 442995,
+    "datetime": "2023-09-07 11:14:53 +02:00",
+    "name": "07 september 09:07, Sedlighetsbrott, Sunne",
+    "summary": "Polisen har gripit en man efter att denne blottat sig offentligt utomhus i centrala sunne.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-0907-sedlighetsbrott-sunne/",
+    "type": "Sedlighetsbrott",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 443013,
+    "datetime": "2023-09-07 13:51:27 +02:00",
+    "name": "07 september 10:56, Misshandel, Nacka",
+    "summary": "Olycka i en cirkulationsplats på Vikdalsvägen.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-1056-misshandel-nacka/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 443012,
+    "datetime": "2023-09-07 13:50:48 +02:00",
+    "name": "07 september 12:20, Rån, Karlstad",
+    "summary": "inbrott i en lägenhet i Tingvallastaden.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-1220-ran-karlstad/",
+    "type": "Rån",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 443009,
     "datetime": "2023-09-07 13:24:41 +02:00",
     "name": "07 september 12:49, Trafikolycka, personskada, Västerås",
@@ -129,18 +189,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 442995,
-    "datetime": "2023-09-07 11:14:53 +02:00",
-    "name": "07 september 09:07, Sedlighetsbrott, Sunne",
-    "summary": "Polisen har gripit en man efter att denne blottat sig offentligt utomhus i centrala sunne.",
-    "url": "/aktuellt/handelser/2023/september/7/07-september-0907-sedlighetsbrott-sunne/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
     }
   },
   {
@@ -405,18 +453,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 442965,
-    "datetime": "2023-09-07 7:49:36 +02:00",
-    "name": "07 september 02:33, Mord/dråp, försök, Stockholm",
-    "summary": "En lägenhet i Bromma är avspärrad i väntan på att tekniker genomför en undersökning.",
-    "url": "/aktuellt/handelser/2023/september/7/07-september-0233-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 442267,
-    "datetime": "2023-09-01 7:23:09 +02:00",
-    "name": "01 september 07:21, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/september/1/01-september-0721-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 442266,
-    "datetime": "2023-09-01 7:22:30 +02:00",
-    "name": "01 september 07:14, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/september/1/01-september-0714-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 442263,
-    "datetime": "2023-09-01 7:14:59 +02:00",
-    "name": "01 september 07:05, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/september/1/01-september-0705-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
