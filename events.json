@@ -1,5 +1,65 @@
 [
   {
+    "id": 442978,
+    "datetime": "2023-09-07 9:40:46 +02:00",
+    "name": "07 september 08:11, Trafikolycka, Göteborg",
+    "summary": "Vid Linnégatan är det en 12-årig flicka som blir påkörd av en spårvagn.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-0811-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 442977,
+    "datetime": "2023-09-07 9:38:48 +02:00",
+    "name": "07 september 09:38, Stöld, Ånge",
+    "summary": "Polisen önskar allmänhetens tips gällande stölder av fyrhjulingar.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-0938-stold-ange/",
+    "type": "Stöld",
+    "location": {
+      "name": "Ånge",
+      "gps": "62.522874,15.658942"
+    }
+  },
+  {
+    "id": 442975,
+    "datetime": "2023-09-07 9:27:15 +02:00",
+    "name": "07 september 09:21, Trafikolycka, smitning från, Katrineholm",
+    "summary": "Påkörd person, Katrineholm.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-0921-trafikolycka-smitning-fran-katrineholm/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
+    }
+  },
+  {
+    "id": 442972,
+    "datetime": "2023-09-07 8:28:52 +02:00",
+    "name": "07 september 08:00, Trafikolycka, Borlänge",
+    "summary": "En person har blivit påkörd vid Mjälgarondellen i Borlänge.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-0800-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 442973,
+    "datetime": "2023-09-07 9:19:53 +02:00",
+    "name": "06 september 22:30, Rån, försök, Uppsala",
+    "summary": "Misstänkt rånförsök på Kvarngärdet.",
+    "url": "/aktuellt/handelser/2023/september/7/06-september-2230-ran-forsok-uppsala/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 442951,
     "datetime": "2023-09-07 3:19:47 +02:00",
     "name": "07 september 03:13, Övrigt, Uppsala",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 442972,
-    "datetime": "2023-09-07 8:28:52 +02:00",
-    "name": "07 september 08:00, Trafikolycka, Borlänge",
-    "summary": "En person har blivit påkörd vid Mjälgarondellen i Borlänge.",
-    "url": "/aktuellt/handelser/2023/september/7/07-september-0800-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 442223,
-    "datetime": "2023-08-31 20:48:18 +02:00",
-    "name": "31 augusti 18:27, Knivlagen, Åmål",
-    "summary": "En inringare larmar polisen och uppger att en man försökt knivhugga honom vid en resturang i centrala Åmål.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-1827-knivlagen-amal/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Åmål",
-      "gps": "59.051117,12.697732"
-    }
-  },
-  {
-    "id": 442239,
-    "datetime": "2023-08-31 20:09:19 +02:00",
-    "name": "31 augusti 20:01, Trafikolycka, Malmö",
-    "summary": "Påkörd person, Murbruksgatan.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-2001-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 442234,
-    "datetime": "2023-08-31 20:27:30 +02:00",
-    "name": "31 augusti 15:10, Stöld, Täby",
-    "summary": "En man lastar gods i en stulen bil.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-1510-stold-taby/",
-    "type": "Stöld",
-    "location": {
-      "name": "Täby",
-      "gps": "59.4419,18.07033"
-    }
-  },
-  {
-    "id": 442238,
-    "datetime": "2023-08-31 20:27:25 +02:00",
-    "name": "31 augusti 16:17, Stöld, Stockholm",
-    "summary": "Köttstöld på Kungsholmen.",
-    "url": "/aktuellt/handelser/2023/augusti/31/31-augusti-1617-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
