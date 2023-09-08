@@ -1,5 +1,29 @@
 [
   {
+    "id": 443075,
+    "datetime": "2023-09-08 9:15:10 +02:00",
+    "name": "07 september 09:23, Stöld/inbrott, Enköping",
+    "summary": "Inbrott på byggarbetsplats i Enköping.",
+    "url": "/aktuellt/handelser/2023/september/7/07-september-0923-stoldinbrott-enkoping/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 443074,
+    "datetime": "2023-09-08 9:08:52 +02:00",
+    "name": "08 september 03:49, Rån, Stockholm",
+    "summary": "På Norrmalm identifierade polisen den man som är misstänkt för rån.",
+    "url": "/aktuellt/handelser/2023/september/8/08-september-0349-ran-stockholm/",
+    "type": "Rån",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 443071,
     "datetime": "2023-09-08 8:34:48 +02:00",
     "name": "08 september 08:27, Trafikolycka, Burlöv",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 443063,
+    "datetime": "2023-09-08 7:48:59 +02:00",
+    "name": "08 september 06:50, Trafikolycka, singel, Köping",
+    "summary": "Trafikolycka på länsväg 576.",
+    "url": "/aktuellt/handelser/2023/september/8/08-september-0650-trafikolycka-singel-koping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
     }
   },
   {
@@ -105,18 +141,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 443063,
-    "datetime": "2023-09-08 7:48:59 +02:00",
-    "name": "08 september 06:50, Trafikolycka, singel, Köping",
-    "summary": "Trafikolycka på länsväg 576.",
-    "url": "/aktuellt/handelser/2023/september/8/08-september-0650-trafikolycka-singel-koping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 442360,
-    "datetime": "2023-09-01 17:06:46 +02:00",
-    "name": "01 september 17:06, Narkotikabrott, Skellefteå",
-    "summary": "Kvinna misstänks för ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/september/1/01-september-1706-narkotikabrott-skelleftea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 442348,
-    "datetime": "2023-09-01 15:14:31 +02:00",
-    "name": "01 september 11:55, Trafikolycka, Bräcke",
-    "summary": "Trafikolycka i Hunge, Bräcke kommun.",
-    "url": "/aktuellt/handelser/2023/september/1/01-september-1155-trafikolycka-bracke/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bräcke",
-      "gps": "62.750741,15.422575"
     }
   }
 ]
