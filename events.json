@@ -1,5 +1,89 @@
 [
   {
+    "id": 443235,
+    "datetime": "2023-09-10 14:06:43 +02:00",
+    "name": "10 september 13:18, Trafikolycka, Kävlinge",
+    "summary": "Trafikolycka på E6 mellan Löddeköpinge och Borrby.",
+    "url": "/aktuellt/handelser/2023/september/10/10-september-1318-trafikolycka-kavlinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 443230,
+    "datetime": "2023-09-10 13:17:33 +02:00",
+    "name": "10 september 13:05, Trafikolycka, singel, Södertälje",
+    "summary": "En bilist har kört in i ett räcke på E20 strax söder om Södertälje i riktning mot Södertälje. Polis och räddni",
+    "url": "/aktuellt/handelser/2023/september/10/10-september-1305-trafikolycka-singel-sodertalje/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 443236,
+    "datetime": "2023-09-10 14:08:03 +02:00",
+    "name": "10 september 10:52, Olovlig körning, Östersund",
+    "summary": "Brunflo, trafikanter stoppade i samband med trafikkontroll",
+    "url": "/aktuellt/handelser/2023/september/10/10-september-1052-olovlig-korning-ostersund/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 443234,
+    "datetime": "2023-09-10 13:57:31 +02:00",
+    "name": "10 september 11:32, Trafikbrott, Torsby",
+    "summary": "En man i trettioårsåldern har tilldelats en ordningsbot efter att ha använt mobiltelefon under färd.",
+    "url": "/aktuellt/handelser/2023/september/10/10-september-1132-trafikbrott-torsby/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 443233,
+    "datetime": "2023-09-10 13:54:51 +02:00",
+    "name": "10 september 09:43, Fjällräddning, Åre",
+    "summary": "Vålådalen, sjukdomsfall i fjällmiljö",
+    "url": "/aktuellt/handelser/2023/september/10/10-september-0943-fjallraddning-are/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 443232,
+    "datetime": "2023-09-10 13:50:50 +02:00",
+    "name": "10 september 07:57, Trafikolycka, personskada, Karlstad",
+    "summary": "En man i femtioårsåldern misstänks för trafikbrott efter en trafikolycka på E18 väster om Karlstad.",
+    "url": "/aktuellt/handelser/2023/september/10/10-september-0757-trafikolycka-personskada-karlstad/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 443220,
+    "datetime": "2023-09-10 11:26:05 +02:00",
+    "name": "10 september 11:25, Försvunnen person, Vetlanda",
+    "summary": "Försvunnen kvinna, Pauliström, Vetlanda kommun",
+    "url": "/aktuellt/handelser/2023/september/10/10-september-1125-forsvunnen-person-vetlanda/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
     "id": 443231,
     "datetime": "2023-09-10 13:40:26 +02:00",
     "name": "10 september 13:35, Rån, Örnsköldsvik",
@@ -33,18 +117,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 443230,
-    "datetime": "2023-09-10 13:17:33 +02:00",
-    "name": "10 september 13:05, Trafikolycka, singel, Södertälje",
-    "summary": "En bilist har kört in i ett räcke på E20 strax söder om Södertälje i riktning mot Södertälje. Polis och räddni",
-    "url": "/aktuellt/handelser/2023/september/10/10-september-1305-trafikolycka-singel-sodertalje/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -105,18 +177,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 443220,
-    "datetime": "2023-09-10 11:26:05 +02:00",
-    "name": "10 september 11:25, Försvunnen person, Vetlanda",
-    "summary": "Försvunnen kvinna, Pauliström, Vetlanda kommun",
-    "url": "/aktuellt/handelser/2023/september/10/10-september-1125-forsvunnen-person-vetlanda/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Ludvika",
       "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 442504,
-    "datetime": "2023-09-03 14:17:01 +02:00",
-    "name": "03 september 13:46, Räddningsinsats, Huddinge",
-    "summary": "Person på tågspår påkörd",
-    "url": "/aktuellt/handelser/2023/september/3/03-september-1346-raddningsinsats-huddinge/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 442485,
-    "datetime": "2023-09-03 11:34:14 +02:00",
-    "name": "03 september 11:00, Trafikolycka, Nordmaling",
-    "summary": "Nordmaling, trafikolycka vid korsningen Storgatan/Nygatan.",
-    "url": "/aktuellt/handelser/2023/september/3/03-september-1100-trafikolycka-nordmaling/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nordmaling",
-      "gps": "63.567106,19.505022"
-    }
-  },
-  {
-    "id": 442508,
-    "datetime": "2023-09-03 14:40:54 +02:00",
-    "name": "03 september 14:40, Våldtäkt, Umeå",
-    "summary": "Umeå, man anhållen misstänkt för våldtäkt.",
-    "url": "/aktuellt/handelser/2023/september/3/03-september-1440-valdtakt-umea/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 442500,
-    "datetime": "2023-09-03 14:31:15 +02:00",
-    "name": "03 september 14:31, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/september/3/03-september-1431-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 442507,
-    "datetime": "2023-09-03 14:31:12 +02:00",
-    "name": "03 september 13:53, Trafikolycka, Arboga",
-    "summary": "Mopedolycka på Brattberget.",
-    "url": "/aktuellt/handelser/2023/september/3/03-september-1353-trafikolycka-arboga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Arboga",
-      "gps": "59.393688,15.838175"
     }
   }
 ]
