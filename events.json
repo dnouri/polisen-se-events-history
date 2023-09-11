@@ -1,5 +1,29 @@
 [
   {
+    "id": 443370,
+    "datetime": "2023-09-11 18:23:32 +02:00",
+    "name": "11 september 17:05, Fylleri/LOB, Älvkarleby",
+    "summary": "Misshandel i centrala Skutskär.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1705-fyllerilob-alvkarleby/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Älvkarleby",
+      "gps": "60.568607,17.448913"
+    }
+  },
+  {
+    "id": 443369,
+    "datetime": "2023-09-11 18:20:44 +02:00",
+    "name": "11 september 18:18, Fylleri/LOB, Skellefteå",
+    "summary": "Polisen kontaktas angående en berusad man i centrala Skellefteå.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1818-fyllerilob-skelleftea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 443365,
     "datetime": "2023-09-11 17:41:11 +02:00",
     "name": "11 september 16:47, Brand, Mölndal",
@@ -9,6 +33,42 @@
     "location": {
       "name": "Mölndal",
       "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 443368,
+    "datetime": "2023-09-11 18:17:56 +02:00",
+    "name": "11 september 18:11, Trafikolycka, Tingsryd",
+    "summary": "Olycka mellan personbil och elspark, Ryd.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1811-trafikolycka-tingsryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tingsryd",
+      "gps": "56.524745,14.978534"
+    }
+  },
+  {
+    "id": 443367,
+    "datetime": "2023-09-11 17:58:28 +02:00",
+    "name": "11 september 15:16, Trafikbrott, Vallentuna",
+    "summary": "En personbil har sladdat över i fel körfält, föraren i en mötande bil valde att körda ner sin bil i diket för ",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1516-trafikbrott-vallentuna/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 443366,
+    "datetime": "2023-09-11 17:48:44 +02:00",
+    "name": "11 september 17:37, Bedrägeri, Jönköping",
+    "summary": "Äldre man utsatt för bedrägeri via telefon.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1737-bedrageri-jonkoping/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 442670,
-    "datetime": "2023-09-04 21:31:58 +02:00",
-    "name": "04 september 19:10, Rattfylleri, Norberg",
-    "summary": "Vinglig färd på Hedermoravägen.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1910-rattfylleri-norberg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Norberg",
-      "gps": "60.065042,15.923796"
-    }
-  },
-  {
-    "id": 442669,
-    "datetime": "2023-09-04 21:31:47 +02:00",
-    "name": "04 september 18:37, Stöld, Ekerö",
-    "summary": "Gärningspersonens vårdnadshavare blev kontaktad av polisen.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1837-stold-ekero/",
-    "type": "Stöld",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 442668,
-    "datetime": "2023-09-04 21:27:52 +02:00",
-    "name": "04 september 21:27, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken under måndagseftermiddagen",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-2127-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 442614,
-    "datetime": "2023-09-04 15:29:05 +02:00",
-    "name": "04 september 14:46, Misshandel, grov, Stockholm",
-    "summary": "Man skadad utomhus i Rinkeby.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1446-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 442667,
-    "datetime": "2023-09-04 21:07:12 +02:00",
-    "name": "04 september 19:51, Misshandel, Huddinge",
-    "summary": "I Flemmingsberg greps en person misstänkt för misshandel mot sin make.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1951-misshandel-huddinge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
     }
   }
 ]
