@@ -1,5 +1,65 @@
 [
   {
+    "id": 443326,
+    "datetime": "2023-09-11 13:26:25 +02:00",
+    "name": "11 september 12:58, Trafikolycka, Markaryd",
+    "summary": "En singelolycka med en moped inträffar i Traryd.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1258-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 443337,
+    "datetime": "2023-09-11 14:01:04 +02:00",
+    "name": "11 september 13:55, Brand, Ängelholm",
+    "summary": "Det brinner i en villa i Ängeholm.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1355-brand-angelholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 443336,
+    "datetime": "2023-09-11 13:53:52 +02:00",
+    "name": "11 september 11:42, Stöld, Luleå",
+    "summary": "Innerstaden, polis kallas till en butik på grund av misstänkt stöld",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1142-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 443297,
+    "datetime": "2023-09-11 10:33:48 +02:00",
+    "name": "11 september 10:24, Trafikolycka, personskada, Karlstad",
+    "summary": "En trafikolycka har inträffat på E18 i höjd med Skutberget.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1024-trafikolycka-personskada-karlstad/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 443334,
+    "datetime": "2023-09-11 13:45:53 +02:00",
+    "name": "11 september 13:22, Trafikbrott, Östersund",
+    "summary": "E14, Lugnviks industriområde. Polisen får ett larm om en bil som kör i fel körfält",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1322-trafikbrott-ostersund/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 443332,
     "datetime": "2023-09-11 13:37:09 +02:00",
     "name": "11 september 12:57, Trafikolycka, smitning från, Karlskoga",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 443326,
-    "datetime": "2023-09-11 13:26:25 +02:00",
-    "name": "11 september 12:58, Trafikolycka, Markaryd",
-    "summary": "En singelolycka med en moped inträffar i Traryd.",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1258-trafikolycka-markaryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
     }
   },
   {
@@ -189,18 +237,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 443297,
-    "datetime": "2023-09-11 10:33:48 +02:00",
-    "name": "11 september 10:24, Trafikolycka, personskada, Karlstad",
-    "summary": "En trafikolycka har inträffat på E18 i höjd med Skutberget.",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1024-trafikolycka-personskada-karlstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Lindesberg",
       "gps": "59.597698,15.222911"
-    }
-  },
-  {
-    "id": 442635,
-    "datetime": "2023-09-04 17:41:58 +02:00",
-    "name": "04 september 16:35, Misshandel, Göteborg",
-    "summary": "Busschaufför misshandlat trafikant",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1635-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 442634,
-    "datetime": "2023-09-04 17:36:54 +02:00",
-    "name": "04 september 17:11, Trafikolycka, Åstorp",
-    "summary": "Lastbil har fastnat under viadukt, Åstorp.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1711-trafikolycka-astorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 442629,
-    "datetime": "2023-09-04 17:33:56 +02:00",
-    "name": "04 september 14:22, Rattfylleri, Östersund",
-    "summary": "Misstänkt drograttfylleri, Brunflo.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1422-rattfylleri-ostersund/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
