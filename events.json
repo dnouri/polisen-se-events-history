@@ -1,5 +1,53 @@
 [
   {
+    "id": 443365,
+    "datetime": "2023-09-11 17:41:11 +02:00",
+    "name": "11 september 16:47, Brand, Mölndal",
+    "summary": "Polis, räddningstjänst och ambulans larmas till en adress i Bosgården.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1647-brand-molndal/",
+    "type": "Brand",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 443364,
+    "datetime": "2023-09-11 17:35:20 +02:00",
+    "name": "11 september 17:16, Brand, Burlöv",
+    "summary": "Brand i lägenhet, Burlöv.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1716-brand-burlov/",
+    "type": "Brand",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 443340,
+    "datetime": "2023-09-11 14:59:21 +02:00",
+    "name": "11 september 13:36, Trafikolycka, Borlänge",
+    "summary": "En olycka har inträffat i höjd med Norr Amsberg",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1336-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 443363,
+    "datetime": "2023-09-11 17:28:41 +02:00",
+    "name": "11 september 16:33, Rattfylleri, Borlänge",
+    "summary": "En bilist är misstänkt för brott i Södra Backa",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1633-rattfylleri-borlange/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 443362,
     "datetime": "2023-09-11 17:04:22 +02:00",
     "name": "11 september 16:48, Trafikolycka, Simrishamn",
@@ -153,18 +201,6 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 443340,
-    "datetime": "2023-09-11 14:59:21 +02:00",
-    "name": "11 september 13:36, Trafikolycka, Borlänge",
-    "summary": "En olycka har inträffat i höjd med Norr Amsberg",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1336-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 442663,
-    "datetime": "2023-09-04 21:00:53 +02:00",
-    "name": "04 september 20:26, Trafikbrott, Norrtälje",
-    "summary": "I Rimbo rapporterades en förare.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-2026-trafikbrott-norrtalje/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 442662,
-    "datetime": "2023-09-04 20:50:01 +02:00",
-    "name": "04 september 20:24, Trafikolycka, vilt, Sundsvall",
-    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 665, Norra Alnö",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-2024-trafikolycka-vilt-sundsvall/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 442660,
-    "datetime": "2023-09-04 20:32:48 +02:00",
-    "name": "04 september 20:18, Trafikolycka, vilt, Storuman",
-    "summary": "Polisen får in en anmälan om en olycka med en buss och en ren.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-2018-trafikolycka-vilt-storuman/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
     }
   }
 ]
