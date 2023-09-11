@@ -1,5 +1,101 @@
 [
   {
+    "id": 443282,
+    "datetime": "2023-09-11 8:57:13 +02:00",
+    "name": "11 september 08:56, Anträffad död, Skellefteå",
+    "summary": "Under sen söndagskväll påträffas en avliden man i 35-årsåldern på en adress i Skellefteå",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-0856-antraffad-dod-skelleftea/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 443344,
+    "datetime": "2023-09-11 15:08:37 +02:00",
+    "name": "11 september 13:59, Trafikolycka, personskada, Örebro län",
+    "summary": "En kvinna i sjuttioårsåldern har förts till sjuhus efter en trafikolycka på länsväg 663 vid Hampetorp.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1359-trafikolycka-personskada-orebro-lan/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 443332,
+    "datetime": "2023-09-11 13:37:09 +02:00",
+    "name": "11 september 12:57, Trafikolycka, smitning från, Karlskoga",
+    "summary": "En kvinna har blivit påkörd av en moped i Karlskoga.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1257-trafikolycka-smitning-fran-karlskoga/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 443342,
+    "datetime": "2023-09-11 15:02:42 +02:00",
+    "name": "11 september 09:17, Stöld/inbrott, Avesta",
+    "summary": "Ett företag i Avesta har drabbats av inbrott under helgen.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-0917-stoldinbrott-avesta/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 443341,
+    "datetime": "2023-09-11 14:59:44 +02:00",
+    "name": "11 september 12:25, Arbetsplatsolycka, Kil",
+    "summary": "En man i femtiofemårsåldern har förts till sjukhus efter en arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1225-arbetsplatsolycka-kil/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
+    }
+  },
+  {
+    "id": 443340,
+    "datetime": "2023-09-11 14:59:21 +02:00",
+    "name": "11 september 13:36, Trafikolycka, Borlänge",
+    "summary": "En olycka har inträffat i höjd med Norr Amsberg",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1336-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 443339,
+    "datetime": "2023-09-11 14:56:35 +02:00",
+    "name": "11 september 12:35, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka på E4, Sävar.",
+    "url": "/aktuellt/handelser/2023/september/11/11-september-1235-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 438834,
+    "datetime": "2023-08-09 11:31:33 +02:00",
+    "name": "09 augusti 03:09, Mord/dråp, Värmdö",
+    "summary": "Polis kallas till ett sjukhus i Stockholm med anledning av att en ung man inkommit med huvudskada och eventuel",
+    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0309-morddrap-varmdo/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
     "id": 443326,
     "datetime": "2023-09-11 13:26:25 +02:00",
     "name": "11 september 12:58, Trafikolycka, Markaryd",
@@ -57,18 +153,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 443332,
-    "datetime": "2023-09-11 13:37:09 +02:00",
-    "name": "11 september 12:57, Trafikolycka, smitning från, Karlskoga",
-    "summary": "En kvinna har blivit påkörd av en moped i Karlskoga.",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1257-trafikolycka-smitning-fran-karlskoga/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -357,18 +441,6 @@
     "location": {
       "name": "Köping",
       "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 443282,
-    "datetime": "2023-09-11 8:57:13 +02:00",
-    "name": "11 september 08:56, Anträffad död, Skellefteå",
-    "summary": "Under sen söndagskväll påträffas en avliden man i 35-årsåldern på en adress i Skellefteå",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-0856-antraffad-dod-skelleftea/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Gällivare",
       "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 442645,
-    "datetime": "2023-09-04 18:50:28 +02:00",
-    "name": "04 september 17:02, Trafikbrott, Halmstad",
-    "summary": "Personbilar i kollision",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1702-trafikbrott-halmstad/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 442644,
-    "datetime": "2023-09-04 18:38:34 +02:00",
-    "name": "04 september 17:09, Stöld, försök, Stockholm",
-    "summary": "Den man som är misstänkt för att ha försökt stjäla en cykel vid Älvsjö pendeltågsstation är identifierad.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1709-stold-forsok-stockholm/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 442643,
-    "datetime": "2023-09-04 18:34:33 +02:00",
-    "name": "04 september 15:53, Djur, Södertälje",
-    "summary": "Polisen tillsammans med förbipasserande fångande in hunden som skrämde några barn på Fornbacken.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1553-djur-sodertalje/",
-    "type": "Djur",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 442642,
-    "datetime": "2023-09-04 18:29:18 +02:00",
-    "name": "04 september 16:52, Misshandel, grov, Stockholm",
-    "summary": "Ordningsvakt vid tunnelbanestationen Fridhemsplan fick kontakt med en man som blivit misshandlad under en tunn",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1652-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 442638,
-    "datetime": "2023-09-04 18:00:29 +02:00",
-    "name": "04 september 17:59, Olaga hot, Avesta",
-    "summary": "Man misstänks för olaga hot.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1759-olaga-hot-avesta/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 442636,
-    "datetime": "2023-09-04 17:47:54 +02:00",
-    "name": "04 september 17:47, Misshandel, Lindesberg",
-    "summary": "Man misstänks för misshandel i två fall.",
-    "url": "/aktuellt/handelser/2023/september/4/04-september-1747-misshandel-lindesberg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
     }
   }
 ]
