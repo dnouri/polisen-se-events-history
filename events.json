@@ -1,5 +1,77 @@
 [
   {
+    "id": 444451,
+    "datetime": "2023-09-12 13:08:31 +02:00",
+    "name": "12 september 10:21, Trafikolycka, smitning från, Södertälje",
+    "summary": "Okänd bilförare orsakar trafikolycka på E4 och smiter från olycksplatsen.",
+    "url": "/aktuellt/handelser/2023/september/12/12-september-1021-trafikolycka-smitning-fran-sodertalje/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 444450,
+    "datetime": "2023-09-12 13:04:51 +02:00",
+    "name": "12 september 10:43, Stöld, Skellefteå",
+    "summary": "Polisen kallas till en butik i centrum",
+    "url": "/aktuellt/handelser/2023/september/12/12-september-1043-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 443424,
+    "datetime": "2023-09-12 8:15:57 +02:00",
+    "name": "12 september 08:07, Trafikolycka, Mölndal",
+    "summary": "Tre personbilar är involverade i en olycka på länsväg 503/Hällesåkersvägen vid Lindome.",
+    "url": "/aktuellt/handelser/2023/september/12/12-september-0807-trafikolycka-molndal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 444449,
+    "datetime": "2023-09-12 12:58:07 +02:00",
+    "name": "12 september 12:57, Trafikkontroll, Västerbottens län",
+    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen",
+    "url": "/aktuellt/handelser/2023/september/12/12-september-1257-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 444448,
+    "datetime": "2023-09-12 12:57:30 +02:00",
+    "name": "12 september 12:56, Trafikkontroll, Västernorrlands län",
+    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen",
+    "url": "/aktuellt/handelser/2023/september/12/12-september-1256-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 444447,
+    "datetime": "2023-09-12 12:56:42 +02:00",
+    "name": "12 september 12:55, Trafikkontroll, Jämtlands län",
+    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen",
+    "url": "/aktuellt/handelser/2023/september/12/12-september-1255-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 443406,
     "datetime": "2023-09-12 7:14:25 +02:00",
     "name": "12 september 05:16, Mord/dråp, Uppsala",
@@ -93,18 +165,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 443424,
-    "datetime": "2023-09-12 8:15:57 +02:00",
-    "name": "12 september 08:07, Trafikolycka, Mölndal",
-    "summary": "Tre personbilar är involverade i en olycka på länsväg 503/Hällesåkersvägen vid Lindome.",
-    "url": "/aktuellt/handelser/2023/september/12/12-september-0807-trafikolycka-molndal/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 442753,
-    "datetime": "2023-09-05 15:50:55 +02:00",
-    "name": "05 september 14:49, Trafikbrott, Sundsvall",
-    "summary": "Kubikenborg, polisen stoppar en trafikant som använder handhållen elektronisk utrustning",
-    "url": "/aktuellt/handelser/2023/september/5/05-september-1449-trafikbrott-sundsvall/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 442751,
-    "datetime": "2023-09-05 15:27:03 +02:00",
-    "name": "05 september 14:55, Trafikolycka, Stockholm",
-    "summary": "Polis och ambulans kallas till Hornsgatan/Varvsgatan på Södermalm med anledning av en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/september/5/05-september-1455-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 442744,
-    "datetime": "2023-09-05 13:50:07 +02:00",
-    "name": "05 september 13:06, Trafikolycka, Skellefteå",
-    "summary": "Larm om trafikolycka på länsväg 807 Ragvaldsträsk, Skellefteå.",
-    "url": "/aktuellt/handelser/2023/september/5/05-september-1306-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 442749,
-    "datetime": "2023-09-05 14:59:07 +02:00",
-    "name": "05 september 13:35, Trafikolycka, personskada, Boden",
-    "summary": "Prästholmen, en cyklist och en personbil har kolliderat",
-    "url": "/aktuellt/handelser/2023/september/5/05-september-1335-trafikolycka-personskada-boden/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 442743,
-    "datetime": "2023-09-05 13:45:40 +02:00",
-    "name": "05 september 13:02, Trafikolycka, personskada, Norrtälje",
-    "summary": "Riksväg 76 helt avstängd efter trafikolycka utanför Svanberga.",
-    "url": "/aktuellt/handelser/2023/september/5/05-september-1302-trafikolycka-personskada-norrtalje/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
     }
   }
 ]
