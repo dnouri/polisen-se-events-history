@@ -1,5 +1,65 @@
 [
   {
+    "id": 446923,
+    "datetime": "2023-09-16 13:14:49 +02:00",
+    "name": "16 september 10:56, Vapenlagen, Järfälla",
+    "summary": "Polis kallas till ett flerbostadshus i Kallhäll med anledning av att en inringare sett skador på en lägenhetsd",
+    "url": "/aktuellt/handelser/2023/september/16/16-september-1056-vapenlagen-jarfalla/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 446922,
+    "datetime": "2023-09-16 13:00:55 +02:00",
+    "name": "16 september 11:36, Misshandel, Uddevalla",
+    "summary": "Misshandel",
+    "url": "/aktuellt/handelser/2023/september/16/16-september-1136-misshandel-uddevalla/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 446921,
+    "datetime": "2023-09-16 12:57:03 +02:00",
+    "name": "16 september 12:41, Trafikolycka, Malmö",
+    "summary": "En trafikolycka mellan en personbil och en gångtrafikant inträffar på Sorgenfri.",
+    "url": "/aktuellt/handelser/2023/september/16/16-september-1241-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 446920,
+    "datetime": "2023-09-16 12:55:25 +02:00",
+    "name": "16 september 08:22, Stöld, Umeå",
+    "summary": "Ersboda, under morgonen kallas polisen till en butik på grund av en misstänkt stöld",
+    "url": "/aktuellt/handelser/2023/september/16/16-september-0822-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 446883,
+    "datetime": "2023-09-16 4:28:28 +02:00",
+    "name": "16 september 01:24, Mord/dråp, Göteborg",
+    "summary": "Man knivhuggen på Hisingen, Göteborg",
+    "url": "/aktuellt/handelser/2023/september/16/16-september-0124-morddrap-goteborg/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 446919,
     "datetime": "2023-09-16 12:30:34 +02:00",
     "name": "16 september 10:55, Trafikkontroll, Åsele",
@@ -165,18 +225,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 446883,
-    "datetime": "2023-09-16 4:28:28 +02:00",
-    "name": "16 september 01:24, Mord/dråp, försök, Göteborg",
-    "summary": "Man knivhuggen på Hisingen, Göteborg",
-    "url": "/aktuellt/handelser/2023/september/16/16-september-0124-morddrap-forsok-goteborg/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 443209,
-    "datetime": "2023-09-10 7:03:47 +02:00",
-    "name": "10 september 07:00, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/september/10/10-september-0700-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 443208,
-    "datetime": "2023-09-10 7:00:06 +02:00",
-    "name": "10 september 00:09, Brand, Malmö",
-    "summary": "Bilbrand på Nobelvägen.",
-    "url": "/aktuellt/handelser/2023/september/10/10-september-0009-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 443207,
-    "datetime": "2023-09-10 6:56:07 +02:00",
-    "name": "10 september 02:48, Misshandel, Ystad",
-    "summary": "Misshandel  på Astrid Lindgrens gata.",
-    "url": "/aktuellt/handelser/2023/september/10/10-september-0248-misshandel-ystad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 443206,
-    "datetime": "2023-09-10 6:48:49 +02:00",
-    "name": "10 september 04:50, Brand, Nybro",
-    "summary": "Brand i fordon i Madesjö.",
-    "url": "/aktuellt/handelser/2023/september/10/10-september-0450-brand-nybro/",
-    "type": "Brand",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
     }
   }
 ]
