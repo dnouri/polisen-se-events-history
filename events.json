@@ -1,5 +1,113 @@
 [
   {
+    "id": 447058,
+    "datetime": "2023-09-18 8:22:49 +02:00",
+    "name": "18 september 00:33, Rattfylleri, Upplands-bro",
+    "summary": "Misstänkt påverkad förare kontrollerades i Kungsängen.",
+    "url": "/aktuellt/handelser/2023/september/18/18-september-0033-rattfylleri-upplands-bro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Upplands-bro",
+      "gps": "59.49068,17.752277"
+    }
+  },
+  {
+    "id": 447050,
+    "datetime": "2023-09-18 7:50:16 +02:00",
+    "name": "18 september 07:33, Trafikolycka, Karlstad",
+    "summary": "Polisen är på plats vid en trafikolycka vid korsningen Infanterigatan och Wittstocksslingan.",
+    "url": "/aktuellt/handelser/2023/september/18/18-september-0733-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 447057,
+    "datetime": "2023-09-18 8:10:11 +02:00",
+    "name": "18 september 06:21, Trafikolycka, Nacka",
+    "summary": "Polisen ska utreda olyckan som skedde i Järla.",
+    "url": "/aktuellt/handelser/2023/september/18/18-september-0621-trafikolycka-nacka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 447053,
+    "datetime": "2023-09-18 8:05:26 +02:00",
+    "name": "18 september 08:05, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2023/september/18/18-september-0805-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 447054,
+    "datetime": "2023-09-18 8:05:18 +02:00",
+    "name": "18 september 08:05, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2023/september/18/18-september-0805-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 447052,
+    "datetime": "2023-09-18 8:05:06 +02:00",
+    "name": "18 september 08:05, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2023/september/18/18-september-0805-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 446948,
+    "datetime": "2023-09-17 5:32:37 +02:00",
+    "name": "17 september 05:23, Mord/dråp, försök, Jönköping",
+    "summary": "Allvarligt våldsbrott i Jönköping.",
+    "url": "/aktuellt/handelser/2023/september/17/17-september-0523-morddrap-forsok-jonkoping/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 446947,
+    "datetime": "2023-09-17 0:59:59 +02:00",
+    "name": "17 september 00:49, Trafikolycka, personskada, Nässjö",
+    "summary": "Allvarlig trafikolycka utanför Nässjö.",
+    "url": "/aktuellt/handelser/2023/september/17/17-september-0049-trafikolycka-personskada-nassjo/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 447049,
+    "datetime": "2023-09-18 7:46:56 +02:00",
+    "name": "17 september 21:27, Misshandel, grov, Tierp",
+    "summary": "Man misshandlad med tillhygge.",
+    "url": "/aktuellt/handelser/2023/september/17/17-september-2127-misshandel-grov-tierp/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Tierp",
+      "gps": "60.347587,17.520509"
+    }
+  },
+  {
     "id": 447046,
     "datetime": "2023-09-18 7:38:22 +02:00",
     "name": "18 september 07:36, Sammanfattning natt, Örebro län",
@@ -813,30 +921,6 @@
     "location": {
       "name": "Karlshamn",
       "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 446948,
-    "datetime": "2023-09-17 5:32:37 +02:00",
-    "name": "17 september 05:23, Mord/dråp, försök, Jönköping",
-    "summary": "Allvarligt våldsbrott i Jönköping.",
-    "url": "/aktuellt/handelser/2023/september/17/17-september-0523-morddrap-forsok-jonkoping/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 446947,
-    "datetime": "2023-09-17 0:59:59 +02:00",
-    "name": "17 september 00:49, Trafikolycka, personskada, Nässjö",
-    "summary": "Allvarlig trafikolycka utanför Nässjö.",
-    "url": "/aktuellt/handelser/2023/september/17/17-september-0049-trafikolycka-personskada-nassjo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Kil",
       "gps": "59.50368,13.317048"
-    }
-  },
-  {
-    "id": 443339,
-    "datetime": "2023-09-11 14:56:35 +02:00",
-    "name": "11 september 12:35, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka på E4, Sävar.",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1235-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 438834,
-    "datetime": "2023-08-09 11:31:33 +02:00",
-    "name": "09 augusti 03:09, Mord/dråp, Värmdö",
-    "summary": "Polis kallas till ett sjukhus i Stockholm med anledning av att en ung man inkommit med huvudskada och eventuel",
-    "url": "/aktuellt/handelser/2023/augusti/9/09-augusti-0309-morddrap-varmdo/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 443326,
-    "datetime": "2023-09-11 13:26:25 +02:00",
-    "name": "11 september 12:58, Trafikolycka, Markaryd",
-    "summary": "En singelolycka med en moped inträffar i Traryd.",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1258-trafikolycka-markaryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 443337,
-    "datetime": "2023-09-11 14:01:04 +02:00",
-    "name": "11 september 13:55, Brand, Ängelholm",
-    "summary": "Det brinner i en villa i Ängeholm.",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1355-brand-angelholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 443336,
-    "datetime": "2023-09-11 13:53:52 +02:00",
-    "name": "11 september 11:42, Stöld, Luleå",
-    "summary": "Innerstaden, polis kallas till en butik på grund av misstänkt stöld",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1142-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 443297,
-    "datetime": "2023-09-11 10:33:48 +02:00",
-    "name": "11 september 10:24, Trafikolycka, personskada, Karlstad",
-    "summary": "En trafikolycka har inträffat på E18 i höjd med Skutberget.",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1024-trafikolycka-personskada-karlstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 443334,
-    "datetime": "2023-09-11 13:45:53 +02:00",
-    "name": "11 september 13:22, Trafikbrott, Östersund",
-    "summary": "E14, Lugnviks industriområde. Polisen får ett larm om en bil som kör i fel körfält",
-    "url": "/aktuellt/handelser/2023/september/11/11-september-1322-trafikbrott-ostersund/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
