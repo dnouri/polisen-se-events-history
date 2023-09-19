@@ -1,5 +1,77 @@
 [
   {
+    "id": 447706,
+    "datetime": "2023-09-19 22:17:13 +02:00",
+    "name": "19 september 19:03, Kontroll person/fordon, Sollentuna",
+    "summary": "Misstänkt grovt brott i Sollentuna.",
+    "url": "/aktuellt/handelser/2023/september/19/19-september-1903-kontroll-personfordon-sollentuna/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 447705,
+    "datetime": "2023-09-19 22:04:52 +02:00",
+    "name": "19 september 22:00, Övrigt, Jönköpings län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/september/19/19-september-2200-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 447704,
+    "datetime": "2023-09-19 22:04:32 +02:00",
+    "name": "19 september 22:00, Övrigt, Östergötlands län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/september/19/19-september-2200-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 447703,
+    "datetime": "2023-09-19 22:04:12 +02:00",
+    "name": "19 september 22:00, Övrigt, Södermanlands län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/september/19/19-september-2200-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 447641,
+    "datetime": "2023-09-19 21:46:42 +02:00",
+    "name": "19 september 21:45, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/september/19/19-september-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 447640,
+    "datetime": "2023-09-19 21:46:35 +02:00",
+    "name": "19 september 21:45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2023/september/19/19-september-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 447695,
     "datetime": "2023-09-19 21:17:05 +02:00",
     "name": "19 september 17:34, Försvunnen person, Knivsta",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 446428,
-    "datetime": "2023-09-13 13:04:50 +02:00",
-    "name": "13 september 09:32, Fylleri/LOB, Luleå",
-    "summary": "Storheden, berusad man kontrolleras",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-0932-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 446427,
-    "datetime": "2023-09-13 13:02:58 +02:00",
-    "name": "13 september 09:07, Stöld/inbrott, Boden",
-    "summary": "Fagernäs, polis kontaktas gällande inbrott och stöld ur bilar",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-0907-stoldinbrott-boden/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 446422,
-    "datetime": "2023-09-13 12:58:19 +02:00",
-    "name": "13 september 12:47, Bedrägeri, Värmlands län",
-    "summary": "Har du blivit uppringd och andra änden är det en \"robotröst\"?",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-1247-bedrageri-varmlands-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 446423,
-    "datetime": "2023-09-13 12:57:52 +02:00",
-    "name": "13 september 12:53, Bedrägeri, Örebro län",
-    "summary": "Har du blivit uppringd på telefonen och i andra änden är det en \"robotröst\"?",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-1253-bedrageri-orebro-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 446426,
-    "datetime": "2023-09-13 12:57:42 +02:00",
-    "name": "13 september 12:56, Bedrägeri, Dalarnas län",
-    "summary": "Har du blivit uppringd och i andra änden är det en \"robotröst\"?",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-1256-bedrageri-dalarnas-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 446424,
-    "datetime": "2023-09-13 12:56:49 +02:00",
-    "name": "13 september 11:06, Trafikkontroll, Piteå",
-    "summary": "E4, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-1106-trafikkontroll-pitea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
     }
   }
 ]
