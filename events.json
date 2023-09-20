@@ -1,14 +1,26 @@
 [
   {
-    "id": 447870,
-    "datetime": "2023-09-20 16:23:42 +02:00",
-    "name": "20 september 15:07, Trafikolycka, Stockholm",
-    "summary": "Vid olyckan i Södra Hammarbyhamnen skadades ingen person.",
-    "url": "/aktuellt/handelser/2023/september/20/20-september-1507-trafikolycka-stockholm/",
+    "id": 447873,
+    "datetime": "2023-09-20 16:37:01 +02:00",
+    "name": "20 september 14:10, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/september/20/20-september-1410-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 447871,
+    "datetime": "2023-09-20 16:24:53 +02:00",
+    "name": "20 september 16:20, Trafikolycka, Karlskrona",
+    "summary": "Två personbilar kolliderar på Pantarholmen.",
+    "url": "/aktuellt/handelser/2023/september/20/20-september-1620-trafikolycka-karlskrona/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 447870,
+    "datetime": "2023-09-20 16:23:42 +02:00",
+    "name": "20 september 15:07, Trafikolycka, Stockholm",
+    "summary": "Vid olyckan i Södra Hammarbyhamnen skadades ingen person.",
+    "url": "/aktuellt/handelser/2023/september/20/20-september-1507-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 446519,
-    "datetime": "2023-09-13 22:42:44 +02:00",
-    "name": "13 september 21:16, Mord/dråp, Stockholm",
-    "summary": "Man skjuten på Vanadisvägen.",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-2116-morddrap-stockholm/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 446524,
-    "datetime": "2023-09-14 6:56:39 +02:00",
-    "name": "14 september 06:55, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/september/14/14-september-0655-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
