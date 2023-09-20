@@ -1,5 +1,29 @@
 [
   {
+    "id": 447780,
+    "datetime": "2023-09-20 8:10:54 +02:00",
+    "name": "20 september 07:57, Trafikolycka, Borlänge",
+    "summary": "Polisen är på plats vid en trafikolycka i Skräddarbacken.",
+    "url": "/aktuellt/handelser/2023/september/20/20-september-0757-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 447779,
+    "datetime": "2023-09-20 8:00:54 +02:00",
+    "name": "20 september 07:59, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens händelser",
+    "url": "/aktuellt/handelser/2023/september/20/20-september-0759-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 447771,
     "datetime": "2023-09-20 7:43:21 +02:00",
     "name": "20 september 07:42, Sammanfattning natt, Jönköpings län",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 447706,
+    "datetime": "2023-09-19 22:17:13 +02:00",
+    "name": "19 september 19:03, Mord/dråp, Sollentuna",
+    "summary": "Misstänkt grovt brott i Sollentuna.",
+    "url": "/aktuellt/handelser/2023/september/19/19-september-1903-morddrap-sollentuna/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
     }
   },
   {
@@ -225,18 +261,6 @@
     "location": {
       "name": "Ekerö",
       "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 447706,
-    "datetime": "2023-09-19 22:17:13 +02:00",
-    "name": "19 september 19:03, Kontroll person/fordon, Sollentuna",
-    "summary": "Misstänkt grovt brott i Sollentuna.",
-    "url": "/aktuellt/handelser/2023/september/19/19-september-1903-kontroll-personfordon-sollentuna/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 446492,
-    "datetime": "2023-09-13 17:02:21 +02:00",
-    "name": "13 september 16:07, Rån, Göteborg",
-    "summary": "I Ingebäck har en man i 40-årsåldern blivit rånad på sin klocka.",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-1607-ran-goteborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 446490,
-    "datetime": "2023-09-13 16:54:16 +02:00",
-    "name": "13 september 11:45, Narkotikabrott, Östersund",
-    "summary": "Östersund, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2023/september/13/13-september-1145-narkotikabrott-ostersund/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
