@@ -1,5 +1,65 @@
 [
   {
+    "id": 447972,
+    "datetime": "2023-09-21 11:18:50 +02:00",
+    "name": "21 september 08:46, Skadegörelse, Tyresö",
+    "summary": "I Fornudden identifierade polisen en kvinna som blev misstänkt för skadegörelse.",
+    "url": "/aktuellt/handelser/2023/september/21/21-september-0846-skadegorelse-tyreso/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
+    "id": 447971,
+    "datetime": "2023-09-21 11:09:10 +02:00",
+    "name": "21 september 08:21, Trafikolycka, Uppsala",
+    "summary": "Kollision mellan cyklist och personbil i centrala Uppsala.",
+    "url": "/aktuellt/handelser/2023/september/21/21-september-0821-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 447970,
+    "datetime": "2023-09-21 11:04:28 +02:00",
+    "name": "21 september 10:58, Uppdatering, Göteborg",
+    "summary": "Polisen söker tips och iakttagelser i samband med mordet i Bergsjön 17 september.",
+    "url": "/aktuellt/handelser/2023/september/21/21-september-1058-uppdatering-goteborg/",
+    "type": "Uppdatering",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 447925,
+    "datetime": "2023-09-21 5:31:49 +02:00",
+    "name": "21 september 04:21, Detonation, Huddinge",
+    "summary": "Inga personer har skadats när något detonerade utomhus i Snättringe.",
+    "url": "/aktuellt/handelser/2023/september/21/21-september-0421-detonation-huddinge/",
+    "type": "Detonation",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 447967,
+    "datetime": "2023-09-21 10:46:24 +02:00",
+    "name": "21 september 07:52, Trafikolycka, Östersund",
+    "summary": "Trafikolycka på E14 Optand, Östersund.",
+    "url": "/aktuellt/handelser/2023/september/21/21-september-0752-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 447965,
     "datetime": "2023-09-21 10:37:37 +02:00",
     "name": "21 september 07:25, Fjällräddning, Jokkmokk",
@@ -69,18 +129,6 @@
     "location": {
       "name": "Salem",
       "gps": "59.20768,17.774222"
-    }
-  },
-  {
-    "id": 447925,
-    "datetime": "2023-09-21 5:31:49 +02:00",
-    "name": "21 september 04:21, Detonation, Huddinge",
-    "summary": "Inga personer har skadats när något detonerade utomhus i Snättringe.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0421-detonation-huddinge/",
-    "type": "Detonation",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
     }
   },
   {
@@ -3036,18 +3084,6 @@
     }
   },
   {
-    "id": 446940,
-    "datetime": "2023-09-16 22:16:08 +02:00",
-    "name": "16 september 22:05, Försvunnen person, Kävlinge",
-    "summary": "Försvunnen man i 50-årsåldern, Kävlinge.",
-    "url": "/aktuellt/handelser/2023/september/16/16-september-2205-forsvunnen-person-kavlinge/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kävlinge",
-      "gps": "55.794,13.110429"
-    }
-  },
-  {
     "id": 447211,
     "datetime": "2023-09-18 19:03:56 +02:00",
     "name": "18 september 18:34, Trafikolycka, Luleå",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Forshaga",
       "gps": "59.529761,13.486084"
-    }
-  },
-  {
-    "id": 446702,
-    "datetime": "2023-09-14 21:35:16 +02:00",
-    "name": "14 september 20:02, Rån, Uppsala",
-    "summary": "En man i trettiofemårsåldern har utsatts för ett rån i sitt hem i norra delarna av Uppsala.",
-    "url": "/aktuellt/handelser/2023/september/14/14-september-2002-ran-uppsala/",
-    "type": "Rån",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 446698,
-    "datetime": "2023-09-14 21:20:19 +02:00",
-    "name": "14 september 14:15, Bedrägeri, Sundsvall",
-    "summary": "Man misstänks för bedrägeriförsök.",
-    "url": "/aktuellt/handelser/2023/september/14/14-september-1415-bedrageri-sundsvall/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 446696,
-    "datetime": "2023-09-14 21:09:00 +02:00",
-    "name": "14 september 19:19, Bedrägeri, Stockholm",
-    "summary": "Falsk sedel används som betalningsmedel på kasino.",
-    "url": "/aktuellt/handelser/2023/september/14/14-september-1919-bedrageri-stockholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
