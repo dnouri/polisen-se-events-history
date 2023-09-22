@@ -1,5 +1,125 @@
 [
   {
+    "id": 448071,
+    "datetime": "2023-09-22 7:19:41 +02:00",
+    "name": "22 september 00:29, Stöld, Sölvesborg",
+    "summary": "Larm om personer som rör sig vid båtar i hamnen",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0029-stold-solvesborg/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 448070,
+    "datetime": "2023-09-22 7:12:44 +02:00",
+    "name": "22 september 00:43, Stöld/inbrott, Eslöv",
+    "summary": "Larm om pågående stöld, 4 gripna",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0043-stoldinbrott-eslov/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 448068,
+    "datetime": "2023-09-22 7:07:21 +02:00",
+    "name": "21 september 22:18, Skottlossning, Sandviken",
+    "summary": "Flera skadade i samband med skottlossning på restaurang.",
+    "url": "/aktuellt/handelser/2023/september/21/21-september-2218-skottlossning-sandviken/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 448069,
+    "datetime": "2023-09-22 7:03:38 +02:00",
+    "name": "22 september 07:00, Brand, Helsingborg",
+    "summary": "Bilbrand, Adolfsberg",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0700-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 448067,
+    "datetime": "2023-09-22 7:00:06 +02:00",
+    "name": "22 september 03:20, Brand, Kalmar",
+    "summary": "Bilbrand utan misstanke om brott",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0320-brand-kalmar/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 448066,
+    "datetime": "2023-09-22 6:58:41 +02:00",
+    "name": "22 september 04:32, Stöld/inbrott, Malmö",
+    "summary": "Inbrott i utebar",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0432-stoldinbrott-malmo/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 448065,
+    "datetime": "2023-09-22 6:57:12 +02:00",
+    "name": "22 september 06:56, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0656-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 448064,
+    "datetime": "2023-09-22 6:53:38 +02:00",
+    "name": "22 september 06:08, Trafikolycka, Helsingborg",
+    "summary": "Larm om singelolycka",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0608-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 448063,
+    "datetime": "2023-09-22 6:50:46 +02:00",
+    "name": "22 september 06:16, Brand, Nybro",
+    "summary": "Larm om brand i flerfamiljshus.",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0616-brand-nybro/",
+    "type": "Brand",
+    "location": {
+      "name": "Nybro",
+      "gps": "56.7438,15.908681"
+    }
+  },
+  {
+    "id": 448062,
+    "datetime": "2023-09-22 6:48:27 +02:00",
+    "name": "22 september 04:44, Brand, Trelleborg",
+    "summary": "Brand i gatukök",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-0444-brand-trelleborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
     "id": 448061,
     "datetime": "2023-09-22 6:32:51 +02:00",
     "name": "22 september 06:21, Sammanfattning natt, Västra Götalands län",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Norrtälje",
       "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 446862,
-    "datetime": "2023-09-15 18:59:26 +02:00",
-    "name": "15 september 17:04, Stöld, Köping",
-    "summary": "En okänd gärningsperson tillgriper väska.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1704-stold-koping/",
-    "type": "Stöld",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 446861,
-    "datetime": "2023-09-15 18:44:39 +02:00",
-    "name": "15 september 16:27, Narkotikabrott, Sundsvall",
-    "summary": "Man misstänks för narkotikabrott genom innehav.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1627-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 446859,
-    "datetime": "2023-09-15 18:23:49 +02:00",
-    "name": "15 september 14:45, Trafikkontroll, Sollefteå",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1445-trafikkontroll-solleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 446858,
-    "datetime": "2023-09-15 18:13:00 +02:00",
-    "name": "15 september 18:07, Trafikolycka, Söderköping",
-    "summary": "Två personbilar i frontalkrock.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1807-trafikolycka-soderkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Söderköping",
-      "gps": "58.475901,16.323431"
-    }
-  },
-  {
-    "id": 446857,
-    "datetime": "2023-09-15 17:35:22 +02:00",
-    "name": "15 september 11:20, Vapenlagen, Luleå",
-    "summary": "Man gripen misstänkt för brott mot vapenlagen.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1120-vapenlagen-lulea/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 446856,
-    "datetime": "2023-09-15 17:26:06 +02:00",
-    "name": "15 september 17:25, Sedlighetsbrott, Falun",
-    "summary": "En man blottar sig i centrum för flera tjejer.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1725-sedlighetsbrott-falun/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 446855,
-    "datetime": "2023-09-15 17:23:48 +02:00",
-    "name": "15 september 14:48, Fjällräddning, Storuman",
-    "summary": "Fjällräddning i Hemavan.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1448-fjallraddning-storuman/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 446854,
-    "datetime": "2023-09-15 17:23:44 +02:00",
-    "name": "15 september 14:27, Vapenlagen, Västerås",
-    "summary": "Polisen utreder grovt vapenbrott.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1427-vapenlagen-vasteras/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 446853,
-    "datetime": "2023-09-15 17:09:52 +02:00",
-    "name": "15 september 14:22, Ofredande/förargelse, Östersund",
-    "summary": "Anmälan upprättas gällande ofredande.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1422-ofredandeforargelse-ostersund/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 446852,
-    "datetime": "2023-09-15 17:09:35 +02:00",
-    "name": "15 september 15:35, Olovlig körning, Torsby",
-    "summary": "Polispatrull har stoppat en bilist utan körkort.",
-    "url": "/aktuellt/handelser/2023/september/15/15-september-1535-olovlig-korning-torsby/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   }
 ]
