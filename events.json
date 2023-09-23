@@ -1,5 +1,65 @@
 [
   {
+    "id": 448288,
+    "datetime": "2023-09-23 9:13:47 +02:00",
+    "name": "23 september 06:26, Rattfylleri, Luleå",
+    "summary": "Luleå, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/september/23/23-september-0626-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 448287,
+    "datetime": "2023-09-23 8:55:53 +02:00",
+    "name": "23 september 07:08, Trafikolycka, vilt, Umeå",
+    "summary": "Skravelsjö, viltolycka anmäls.",
+    "url": "/aktuellt/handelser/2023/september/23/23-september-0708-trafikolycka-vilt-umea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 448270,
+    "datetime": "2023-09-23 7:29:43 +02:00",
+    "name": "23 september 06:44, Trafikolycka, personskada, Gotlands län",
+    "summary": "En bilist har kört av vägen och ner i diket i närheten av Roma.",
+    "url": "/aktuellt/handelser/2023/september/23/23-september-0644-trafikolycka-personskada-gotlands-lan/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 448284,
+    "datetime": "2023-09-23 8:31:47 +02:00",
+    "name": "23 september 08:28, Räddningsinsats, Stenungsund",
+    "summary": "Ras/slukhål vid Stenungsundsmotet",
+    "url": "/aktuellt/handelser/2023/september/23/23-september-0828-raddningsinsats-stenungsund/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 448286,
+    "datetime": "2023-09-23 8:51:54 +02:00",
+    "name": "23 september 08:51, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/september/23/23-september-0851-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 448285,
     "datetime": "2023-09-23 8:37:47 +02:00",
     "name": "23 september 08:37, Sammanfattning natt, Jämtlands län",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 448284,
-    "datetime": "2023-09-23 8:31:47 +02:00",
-    "name": "23 september 08:28, Övrigt, Stenungsund",
-    "summary": "Ras/slukhål vid Stenungsundsmotet",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0828-ovrigt-stenungsund/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
     }
   },
   {
@@ -189,18 +237,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 448270,
-    "datetime": "2023-09-23 7:29:43 +02:00",
-    "name": "23 september 06:44, Trafikolycka, personskada, Gotlands län",
-    "summary": "En bilist har kört av vägen och ner i diket i närheten av Roma.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0644-trafikolycka-personskada-gotlands-lan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 446995,
-    "datetime": "2023-09-17 13:28:19 +02:00",
-    "name": "17 september 12:26, Fjällräddning, Kiruna",
-    "summary": "Fjällräddningsinsats för att undsätta sjuk man.",
-    "url": "/aktuellt/handelser/2023/september/17/17-september-1226-fjallraddning-kiruna/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 446994,
-    "datetime": "2023-09-17 13:25:35 +02:00",
-    "name": "17 september 07:03, Trafikkontroll, Nynäshamn",
-    "summary": "Under förmiddagen har polisen haft trafikkontroller vid Norviks hamn och Nynäsvägen vid trafikplats Ösmo.",
-    "url": "/aktuellt/handelser/2023/september/17/17-september-0703-trafikkontroll-nynashamn/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 446993,
-    "datetime": "2023-09-17 13:21:37 +02:00",
-    "name": "17 september 11:03, Sedlighetsbrott, Umeå",
-    "summary": "Anmälan om sexuellt ofredande upprättas.",
-    "url": "/aktuellt/handelser/2023/september/17/17-september-1103-sedlighetsbrott-umea/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
