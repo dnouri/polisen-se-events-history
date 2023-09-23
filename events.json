@@ -1,5 +1,41 @@
 [
   {
+    "id": 448260,
+    "datetime": "2023-09-23 6:18:07 +02:00",
+    "name": "23 september 05:33, Larm Inbrott, Stockholm",
+    "summary": "Vaktbolag fick in larm från en restaurang i Vällingby.",
+    "url": "/aktuellt/handelser/2023/september/23/23-september-0533-larm-inbrott-stockholm/",
+    "type": "Larm Inbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 448247,
+    "datetime": "2023-09-23 0:42:48 +02:00",
+    "name": "22 september 23:44, Detonation, Södertälje",
+    "summary": "Inga personer skadades när något detonerade utomhus i Viberga",
+    "url": "/aktuellt/handelser/2023/september/22/22-september-2344-detonation-sodertalje/",
+    "type": "Detonation",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 448259,
+    "datetime": "2023-09-23 5:43:43 +02:00",
+    "name": "23 september 05:40, Skadegörelse, Stockholm",
+    "summary": "Samtal om pågående inbrott i Stadshagen.",
+    "url": "/aktuellt/handelser/2023/september/23/23-september-0540-skadegorelse-stockholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 448258,
     "datetime": "2023-09-23 5:13:56 +02:00",
     "name": "23 september 03:29, Trafikolycka, singel, Stockholm",
@@ -117,18 +153,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 448247,
-    "datetime": "2023-09-23 0:42:48 +02:00",
-    "name": "22 september 23:44, Detonation, Södertälje",
-    "summary": "Inga personer skadades när något detonerade utomhus i Viberga",
-    "url": "/aktuellt/handelser/2023/september/22/22-september-2344-detonation-sodertalje/",
-    "type": "Detonation",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 446963,
-    "datetime": "2023-09-17 8:08:45 +02:00",
-    "name": "17 september 08:05, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/september/17/17-september-0805-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 446962,
-    "datetime": "2023-09-17 8:07:27 +02:00",
-    "name": "17 september 08:05, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/september/17/17-september-0805-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
