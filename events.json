@@ -1,5 +1,65 @@
 [
   {
+    "id": 448359,
+    "datetime": "2023-09-24 11:26:11 +02:00",
+    "name": "24 september 10:08, Kontroll person/fordon, Malmö",
+    "summary": "Uppgifter om man med vapenliknande föremål, Pildammsparken.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-1008-kontroll-personfordon-malmo/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 448360,
+    "datetime": "2023-09-24 11:31:55 +02:00",
+    "name": "24 september 11:02, Trafikolycka, personskada, Österåker",
+    "summary": "En bilist har kört av vägen i Roslags-Kulla.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-1102-trafikolycka-personskada-osteraker/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Österåker",
+      "gps": "59.500058,18.352485"
+    }
+  },
+  {
+    "id": 448364,
+    "datetime": "2023-09-24 11:50:39 +02:00",
+    "name": "24 september 09:59, Trafikkontroll, Sundsvall",
+    "summary": "Sundsvall, alla utan anmärkning vid nykterhetskontroll.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-0959-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 448363,
+    "datetime": "2023-09-24 11:46:29 +02:00",
+    "name": "24 september 09:28, Stöld/inbrott, Kiruna",
+    "summary": "Kiruna, inbrott i förråd.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-0928-stoldinbrott-kiruna/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 448362,
+    "datetime": "2023-09-24 11:45:07 +02:00",
+    "name": "24 september 11:35, Trafikolycka, Orsa",
+    "summary": "En bilist har gått av vägen och voltat",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-1135-trafikolycka-orsa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Orsa",
+      "gps": "61.116937,14.628071"
+    }
+  },
+  {
     "id": 448361,
     "datetime": "2023-09-24 11:43:28 +02:00",
     "name": "24 september 09:00, Bedrägeri, Stockholm",
@@ -24,18 +84,6 @@
     }
   },
   {
-    "id": 448360,
-    "datetime": "2023-09-24 11:31:55 +02:00",
-    "name": "24 september 11:02, Trafikolycka, personskada, Österåker",
-    "summary": "En bilist har kört av vägen i Roslags-Kulla.",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-1102-trafikolycka-personskada-osteraker/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Österåker",
-      "gps": "59.500058,18.352485"
-    }
-  },
-  {
     "id": 448356,
     "datetime": "2023-09-24 9:41:51 +02:00",
     "name": "24 september 09:28, Brand, Askersund",
@@ -45,18 +93,6 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 448359,
-    "datetime": "2023-09-24 11:26:11 +02:00",
-    "name": "24 september 10:08, Kontroll person/fordon, Malmö",
-    "summary": "Uppgifter om man med vapenliknande föremål, Pildammsparken.",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-1008-kontroll-personfordon-malmo/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Berg",
       "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 447217,
-    "datetime": "2023-09-18 20:49:03 +02:00",
-    "name": "18 september 19:26, Brand, Gävle",
-    "summary": "Brand utomhus.",
-    "url": "/aktuellt/handelser/2023/september/18/18-september-1926-brand-gavle/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 447216,
-    "datetime": "2023-09-18 20:18:57 +02:00",
-    "name": "18 september 18:17, Brand, Ekerö",
-    "summary": "Polisen biträder räddningstjänsten vid en villabrand på Helgö.",
-    "url": "/aktuellt/handelser/2023/september/18/18-september-1817-brand-ekero/",
-    "type": "Brand",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 447215,
-    "datetime": "2023-09-18 20:13:19 +02:00",
-    "name": "18 september 18:57, Rån, Sundbyberg",
-    "summary": "Personrån i Hallonbergen.",
-    "url": "/aktuellt/handelser/2023/september/18/18-september-1857-ran-sundbyberg/",
-    "type": "Rån",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
     }
   }
 ]
