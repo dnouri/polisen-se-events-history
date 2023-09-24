@@ -1,5 +1,89 @@
 [
   {
+    "id": 448361,
+    "datetime": "2023-09-24 11:43:28 +02:00",
+    "name": "24 september 09:00, Bedrägeri, Stockholm",
+    "summary": "En okänd person har utsatt en kvinna i Stockholm för stöld och bedrägeri.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-0900-bedrageri-stockholm/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 448317,
+    "datetime": "2023-09-23 20:07:06 +02:00",
+    "name": "23 september 17:22, Ofredande/förargelse, Piteå",
+    "summary": "Ofredande man i Badhusparken.",
+    "url": "/aktuellt/handelser/2023/september/23/23-september-1722-ofredandeforargelse-pitea/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 448360,
+    "datetime": "2023-09-24 11:31:55 +02:00",
+    "name": "24 september 11:02, Trafikolycka, personskada, Österåker",
+    "summary": "En bilist har kört av vägen i Roslags-Kulla.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-1102-trafikolycka-personskada-osteraker/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Österåker",
+      "gps": "59.500058,18.352485"
+    }
+  },
+  {
+    "id": 448356,
+    "datetime": "2023-09-24 9:41:51 +02:00",
+    "name": "24 september 09:28, Brand, Askersund",
+    "summary": "Det har brunnit i en bostad i Åsbro",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-0928-brand-askersund/",
+    "type": "Brand",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 448359,
+    "datetime": "2023-09-24 11:26:11 +02:00",
+    "name": "24 september 10:08, Kontroll person/fordon, Malmö",
+    "summary": "Uppgifter om man med vapenliknande föremål, Pildammsparken.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-1008-kontroll-personfordon-malmo/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 448349,
+    "datetime": "2023-09-24 8:11:08 +02:00",
+    "name": "24 september 08:06, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-0806-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 448354,
+    "datetime": "2023-09-24 9:00:05 +02:00",
+    "name": "24 september 07:04, Misshandel, grov, Uppsala",
+    "summary": "Man grips misstänkt för grov misshandel.",
+    "url": "/aktuellt/handelser/2023/september/24/24-september-0704-misshandel-grov-uppsala/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 448284,
     "datetime": "2023-09-23 8:31:47 +02:00",
     "name": "23 september 08:28, Räddningsinsats, Stenungsund",
@@ -36,18 +120,6 @@
     }
   },
   {
-    "id": 448356,
-    "datetime": "2023-09-24 9:41:51 +02:00",
-    "name": "24 september 09:28, Brand, Askersund",
-    "summary": "Det har brunnit i en bostad i Åsbro",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-0928-brand-askersund/",
-    "type": "Brand",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
-    }
-  },
-  {
     "id": 448355,
     "datetime": "2023-09-24 9:18:34 +02:00",
     "name": "24 september 09:18, Sammanfattning natt, Västernorrlands län",
@@ -69,18 +141,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 448354,
-    "datetime": "2023-09-24 9:00:05 +02:00",
-    "name": "24 september 07:04, Misshandel, grov, Uppsala",
-    "summary": "Man grips misstänkt för grov misshandel.",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-0704-misshandel-grov-uppsala/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -141,18 +201,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 448349,
-    "datetime": "2023-09-24 8:11:08 +02:00",
-    "name": "24 september 08:06, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-0806-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -453,18 +501,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 448317,
-    "datetime": "2023-09-23 20:07:06 +02:00",
-    "name": "23 september 17:22, Ofredande/förargelse, Piteå",
-    "summary": "Ofredande man i Badhusparken.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1722-ofredandeforargelse-pitea/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Sundbyberg",
       "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 447208,
-    "datetime": "2023-09-18 17:55:47 +02:00",
-    "name": "18 september 17:22, Räddningsinsats, Örebro",
-    "summary": "En person har hamnat i Svartån",
-    "url": "/aktuellt/handelser/2023/september/18/18-september-1722-raddningsinsats-orebro/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 447214,
-    "datetime": "2023-09-18 20:00:21 +02:00",
-    "name": "18 september 17:49, Rån, Stockholm",
-    "summary": "Personrån på Nybohov.",
-    "url": "/aktuellt/handelser/2023/september/18/18-september-1749-ran-stockholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 447213,
-    "datetime": "2023-09-18 19:17:16 +02:00",
-    "name": "18 september 18:43, Trafikolycka, Kalmar",
-    "summary": "Gamla stan. Kollision mellan två personbilar.",
-    "url": "/aktuellt/handelser/2023/september/18/18-september-1843-trafikolycka-kalmar/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   }
 ]
