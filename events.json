@@ -1,5 +1,65 @@
 [
   {
+    "id": 449514,
+    "datetime": "2023-09-25 12:56:26 +02:00",
+    "name": "25 september 12:50, Brand, Eskilstuna",
+    "summary": "Fullt utvecklad brand i Årby, Eskilstuna.",
+    "url": "/aktuellt/handelser/2023/september/25/25-september-1250-brand-eskilstuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 449516,
+    "datetime": "2023-09-25 13:06:29 +02:00",
+    "name": "25 september 11:24, Farligt föremål, misstänkt, Göteborg",
+    "summary": "Farligt föremål",
+    "url": "/aktuellt/handelser/2023/september/25/25-september-1124-farligt-foremal-misstankt-goteborg/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 449437,
+    "datetime": "2023-09-25 9:55:44 +02:00",
+    "name": "25 september 09:55, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/september/25/25-september-0955-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 449487,
+    "datetime": "2023-09-25 10:54:50 +02:00",
+    "name": "25 september 08:32, Farligt föremål, misstänkt, Stockholm",
+    "summary": "Misstänkt föremål påträffas på en bil i Vårberg.",
+    "url": "/aktuellt/handelser/2023/september/25/25-september-0832-farligt-foremal-misstankt-stockholm/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 449510,
+    "datetime": "2023-09-25 12:29:35 +02:00",
+    "name": "25 september 11:30, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på länsväg 512/länsväg 550 Hörnefors, Umeå.",
+    "url": "/aktuellt/handelser/2023/september/25/25-september-1130-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 449512,
     "datetime": "2023-09-25 12:40:31 +02:00",
     "name": "25 september 08:16, Motorfordon, anträffat stulet, Luleå",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 449510,
-    "datetime": "2023-09-25 12:29:35 +02:00",
-    "name": "25 september 11:30, Trafikolycka, Umeå",
-    "summary": "Trafikolycka på länsväg 512/länsväg 550 Hörnefors, Umeå.",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-1130-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -132,18 +180,6 @@
     }
   },
   {
-    "id": 449487,
-    "datetime": "2023-09-25 10:54:50 +02:00",
-    "name": "25 september 08:32, Farligt föremål, misstänkt, Stockholm",
-    "summary": "Misstänkt föremål påträffas på en bil i Vårberg.",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-0832-farligt-foremal-misstankt-stockholm/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 449472,
     "datetime": "2023-09-25 10:06:54 +02:00",
     "name": "24 september 18:30, Rån, Sundsvall",
@@ -153,18 +189,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 449437,
-    "datetime": "2023-09-25 9:55:44 +02:00",
-    "name": "25 september 09:55, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-0955-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 447642,
-    "datetime": "2023-09-19 16:19:55 +02:00",
-    "name": "19 september 15:19, Kontroll person/fordon, Falköping",
-    "summary": "När polisen ska stoppa en bilist för kontroll väljer föraren att försöka köra ifrån patrullen.",
-    "url": "/aktuellt/handelser/2023/september/19/19-september-1519-kontroll-personfordon-falkoping/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Falköping",
-      "gps": "58.175029,13.553217"
-    }
-  },
-  {
-    "id": 447639,
-    "datetime": "2023-09-19 15:24:38 +02:00",
-    "name": "19 september 14:25, Trafikolycka, personskada, Vänersborg",
-    "summary": "På Marierovägen har en bilist och en mopedist varit inblandade i en olycka.",
-    "url": "/aktuellt/handelser/2023/september/19/19-september-1425-trafikolycka-personskada-vanersborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
     }
   }
 ]
