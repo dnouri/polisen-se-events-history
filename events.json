@@ -1,5 +1,65 @@
 [
   {
+    "id": 449869,
+    "datetime": "2023-09-26 19:21:21 +02:00",
+    "name": "26 september 17:20, Trafikbrott, Sundsvall",
+    "summary": "E14, Stöde. Allmänheten uppmärksammar polisen på en bil med släpvagn som kör trafikfarligt.",
+    "url": "/aktuellt/handelser/2023/september/26/26-september-1720-trafikbrott-sundsvall/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 449868,
+    "datetime": "2023-09-26 19:21:09 +02:00",
+    "name": "26 september 19:17, Trafikkontroll, Kil",
+    "summary": "Polispatrull har genomfört nykterhetskontroll i Kil under eftermiddagen.",
+    "url": "/aktuellt/handelser/2023/september/26/26-september-1917-trafikkontroll-kil/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
+    }
+  },
+  {
+    "id": 449857,
+    "datetime": "2023-09-26 17:24:20 +02:00",
+    "name": "26 september 17:23, Trafikolycka, Lindesberg",
+    "summary": "En trafikolycka har inträffat på Örebrovägen i Lindesberg.",
+    "url": "/aktuellt/handelser/2023/september/26/26-september-1723-trafikolycka-lindesberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 449867,
+    "datetime": "2023-09-26 19:07:41 +02:00",
+    "name": "26 september 18:05, Rattfylleri, Luleå",
+    "summary": "E4, Ersnäs. Polisen uppmärksammas på en personbil som kör i hög hastighet",
+    "url": "/aktuellt/handelser/2023/september/26/26-september-1805-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 449866,
+    "datetime": "2023-09-26 18:50:06 +02:00",
+    "name": "26 september 18:24, Brand, Mörbylånga",
+    "summary": "Östra Öland. Rökutveckling från byggnad.",
+    "url": "/aktuellt/handelser/2023/september/26/26-september-1824-brand-morbylanga/",
+    "type": "Brand",
+    "location": {
+      "name": "Mörbylånga",
+      "gps": "56.523757,16.386916"
+    }
+  },
+  {
     "id": 449865,
     "datetime": "2023-09-26 18:28:56 +02:00",
     "name": "26 september 18:11, Knivlagen, Härryda",
@@ -81,18 +141,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 449857,
-    "datetime": "2023-09-26 17:24:20 +02:00",
-    "name": "26 september 17:23, Trafikolycka, Lindesberg",
-    "summary": "En trafikolycka har inträffat på Örebrovägen i Lindesberg.",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-1723-trafikolycka-lindesberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 447876,
-    "datetime": "2023-09-20 16:52:22 +02:00",
-    "name": "20 september 16:27, Trafikkontroll, Gotlands län",
-    "summary": "Inga anmärkningar på de fordon och fordonsförare som polisen kontrollerade vid färjeläget.",
-    "url": "/aktuellt/handelser/2023/september/20/20-september-1627-trafikkontroll-gotlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 447875,
-    "datetime": "2023-09-20 16:48:01 +02:00",
-    "name": "20 september 16:03, Fylleri/LOB, Kramfors",
-    "summary": "Centrum, polis kontaktas gällande berusad man utomhus",
-    "url": "/aktuellt/handelser/2023/september/20/20-september-1603-fyllerilob-kramfors/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 447874,
-    "datetime": "2023-09-20 16:46:15 +02:00",
-    "name": "20 september 16:37, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken under eftermiddagen",
-    "url": "/aktuellt/handelser/2023/september/20/20-september-1637-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 447873,
-    "datetime": "2023-09-20 16:37:01 +02:00",
-    "name": "20 september 14:10, Rattfylleri, Örnsköldsvik",
-    "summary": "Örnsköldsvik, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2023/september/20/20-september-1410-rattfylleri-ornskoldsvik/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
