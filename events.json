@@ -1,17 +1,5 @@
 [
   {
-    "id": 450105,
-    "datetime": "2023-09-27 21:05:15 +02:00",
-    "name": "27 september 20:05, Misshandel, Göteborg",
-    "summary": "Misshandel",
-    "url": "/aktuellt/handelser/2023/september/27/27-september-2005-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
     "id": 450104,
     "datetime": "2023-09-27 20:26:46 +02:00",
     "name": "27 september 20:25, Trafikolycka, singel, Linköping",
@@ -21,6 +9,54 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 450107,
+    "datetime": "2023-09-27 21:29:45 +02:00",
+    "name": "27 september 19:44, Skadegörelse, Luleå",
+    "summary": "Porsön, allmänheten uppmärksammar polisen på att personer klottrar",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1944-skadegorelse-lulea/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 450106,
+    "datetime": "2023-09-27 21:20:48 +02:00",
+    "name": "27 september 21:17, Övrigt, Falun",
+    "summary": "En ungdom utsatt för utpressning i Falun kommun.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-2117-ovrigt-falun/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 450098,
+    "datetime": "2023-09-27 19:22:39 +02:00",
+    "name": "27 september 18:19, Arbetsplatsolycka, Falun",
+    "summary": "En arbetsplatsolycka har inträffat i Falun.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1819-arbetsplatsolycka-falun/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 450105,
+    "datetime": "2023-09-27 21:05:15 +02:00",
+    "name": "27 september 20:05, Misshandel, Göteborg",
+    "summary": "Misshandel",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-2005-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -93,18 +129,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 450098,
-    "datetime": "2023-09-27 19:22:39 +02:00",
-    "name": "27 september 18:19, Arbetsplatsolycka, Falun",
-    "summary": "En arbetsplatsolycka har inträffat i Falun.",
-    "url": "/aktuellt/handelser/2023/september/27/27-september-1819-arbetsplatsolycka-falun/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 447992,
-    "datetime": "2023-09-21 13:24:10 +02:00",
-    "name": "21 september 13:02, Arbetsplatsolycka, Karlstad",
-    "summary": "En olycka har inträffat på en arbetsplats i Välsviken",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-1302-arbetsplatsolycka-karlstad/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 447985,
-    "datetime": "2023-09-21 12:51:37 +02:00",
-    "name": "21 september 12:43, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i höjd med Varberga",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-1243-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
