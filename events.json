@@ -1,5 +1,89 @@
 [
   {
+    "id": 450070,
+    "datetime": "2023-09-27 15:11:45 +02:00",
+    "name": "27 september 13:38, Skadegörelse, Östersund",
+    "summary": "Centrum, polis kontaktas gällande klotter på toaletter",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1338-skadegorelse-ostersund/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 450068,
+    "datetime": "2023-09-27 15:05:20 +02:00",
+    "name": "27 september 13:01, Fylleri/LOB, Härnösand",
+    "summary": "Centrum, polis beordras till en adress som tillhör en kommunal verksamhet",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1301-fyllerilob-harnosand/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 450067,
+    "datetime": "2023-09-27 15:01:27 +02:00",
+    "name": "27 september 14:39, Trafikkontroll, Sundsvall",
+    "summary": "Hällsjö, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1439-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 450066,
+    "datetime": "2023-09-27 14:59:14 +02:00",
+    "name": "27 september 12:04, Narkotikabrott, Sundsvall",
+    "summary": "Norrmalm, polis beordras till en park med anledning av misstänkt narkotikabrott",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1204-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 450065,
+    "datetime": "2023-09-27 14:54:35 +02:00",
+    "name": "27 september 10:47, Rattfylleri, Sollefteå",
+    "summary": "Sollefteå, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1047-rattfylleri-solleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 450064,
+    "datetime": "2023-09-27 14:52:51 +02:00",
+    "name": "27 september 14:32, Rån, Helsingborg",
+    "summary": "Polis larmas till Ättekulla industriområde med anledning av ett misstänkt rån.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1432-ran-helsingborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 450063,
+    "datetime": "2023-09-27 14:45:38 +02:00",
+    "name": "27 september 13:41, Arbetsplatsolycka, Piteå",
+    "summary": "Piteå, en man har skadats i samband med arbete",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1341-arbetsplatsolycka-pitea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
     "id": 450052,
     "datetime": "2023-09-27 13:37:38 +02:00",
     "name": "27 september 13:23, Trafikolycka, Örebro",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 447950,
-    "datetime": "2023-09-21 8:04:28 +02:00",
-    "name": "21 september 07:59, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0759-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 447949,
-    "datetime": "2023-09-21 8:04:08 +02:00",
-    "name": "21 september 08:02, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0802-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 447951,
-    "datetime": "2023-09-21 8:03:29 +02:00",
-    "name": "21 september 08:02, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0802-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 447948,
-    "datetime": "2023-09-21 7:48:37 +02:00",
-    "name": "21 september 07:40, Trafikolycka, Karlshamn",
-    "summary": "Trafikolycka på E22 vid Åryd.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0740-trafikolycka-karlshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 447947,
-    "datetime": "2023-09-21 7:47:33 +02:00",
-    "name": "21 september 07:47, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0747-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 447946,
-    "datetime": "2023-09-21 7:37:41 +02:00",
-    "name": "21 september 03:27, Stöld, Täby",
-    "summary": "Med hjälp av  teknik kunde man se var den stulna motorcykeln var någonstans.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0327-stold-taby/",
-    "type": "Stöld",
-    "location": {
-      "name": "Täby",
-      "gps": "59.4419,18.07033"
-    }
-  },
-  {
-    "id": 447945,
-    "datetime": "2023-09-21 7:33:29 +02:00",
-    "name": "21 september 07:33, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0733-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
