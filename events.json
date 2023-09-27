@@ -1,5 +1,41 @@
 [
   {
+    "id": 450053,
+    "datetime": "2023-09-27 13:37:47 +02:00",
+    "name": "27 september 13:30, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av polisens arbete i trafiken under dagen",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1330-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 450052,
+    "datetime": "2023-09-27 13:37:38 +02:00",
+    "name": "27 september 13:23, Trafikolycka, Örebro",
+    "summary": "En person på permobil har blivit påkörd av en bilist",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1323-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 450046,
+    "datetime": "2023-09-27 13:30:52 +02:00",
+    "name": "27 september 13:20, Brand, Örebro",
+    "summary": "Det brinner i ett bostadshus i Lundby",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1320-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 450038,
     "datetime": "2023-09-27 13:14:34 +02:00",
     "name": "27 september 11:43, Trafikolycka, singel, Sundsvall",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 447943,
-    "datetime": "2023-09-21 7:19:57 +02:00",
-    "name": "21 september 02:54, Skadegörelse, Gävle",
-    "summary": "Kvinna kastade sten på sjukhusbyggnad.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0254-skadegorelse-gavle/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 447942,
-    "datetime": "2023-09-21 7:15:55 +02:00",
-    "name": "21 september 07:13, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0713-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 447941,
-    "datetime": "2023-09-21 7:12:27 +02:00",
-    "name": "21 september 00:42, Skadegörelse, Helsingborg",
-    "summary": "Skadegörelse på Drottninggatan.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0042-skadegorelse-helsingborg/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   }
 ]
