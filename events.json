@@ -1,5 +1,53 @@
 [
   {
+    "id": 450023,
+    "datetime": "2023-09-27 11:23:54 +02:00",
+    "name": "27 september 11:16, Brand, Eskilstuna",
+    "summary": "Mindre brand i lägenhet, ingen skadad.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1116-brand-eskilstuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 449905,
+    "datetime": "2023-09-27 7:36:45 +02:00",
+    "name": "27 september 07:29, Trafikolycka, Växjö",
+    "summary": "En personbil och en cyklist kolliderar i området Teleborg.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-0729-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 450026,
+    "datetime": "2023-09-27 11:29:11 +02:00",
+    "name": "27 september 09:28, Trafikbrott, Åre",
+    "summary": "Åre, lastbil stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-0928-trafikbrott-are/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 450024,
+    "datetime": "2023-09-27 11:25:00 +02:00",
+    "name": "27 september 11:07, Trafikkontroll, Östersund",
+    "summary": "Brunflo, resultat efter trafikkontroll på E14/E45",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1107-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 450020,
     "datetime": "2023-09-27 11:14:25 +02:00",
     "name": "27 september 10:36, Trafikkontroll, Arjeplog",
@@ -273,18 +321,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 449905,
-    "datetime": "2023-09-27 7:36:45 +02:00",
-    "name": "27 september 07:29, Trafikolycka, Växjö",
-    "summary": "En personbil och en cyklist kolliderar i området Teleborg.",
-    "url": "/aktuellt/handelser/2023/september/27/27-september-0729-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 447934,
-    "datetime": "2023-09-21 6:53:57 +02:00",
-    "name": "21 september 00:02, Misshandel, Karlskrona",
-    "summary": "Misshandel på Vedeby gatan.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0002-misshandel-karlskrona/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 447933,
-    "datetime": "2023-09-21 6:45:33 +02:00",
-    "name": "21 september 00:08, Misshandel, Kalmar",
-    "summary": "Misshandel på Stensövägen.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0008-misshandel-kalmar/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 447932,
-    "datetime": "2023-09-21 6:40:09 +02:00",
-    "name": "21 september 04:59, Brand, Kalmar",
-    "summary": "Bilbrand på Daléngatan.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0459-brand-kalmar/",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   }
 ]
