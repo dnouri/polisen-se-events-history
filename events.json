@@ -1,5 +1,53 @@
 [
   {
+    "id": 450094,
+    "datetime": "2023-09-27 18:52:43 +02:00",
+    "name": "27 september 18:43, Vapenlagen, Stockholm",
+    "summary": "Polisen får i samtal om skottlossning i Fruängen.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1843-vapenlagen-stockholm/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 450099,
+    "datetime": "2023-09-27 19:28:56 +02:00",
+    "name": "27 september 18:27, Skadegörelse, Karlstad",
+    "summary": "Det har brunnit i en container i Segmon.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1827-skadegorelse-karlstad/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 450098,
+    "datetime": "2023-09-27 19:22:39 +02:00",
+    "name": "27 september 18:19, Arbetsplatsolycka, Falun",
+    "summary": "En arbetsplatsolycka har inträffat i Falun.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1819-arbetsplatsolycka-falun/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 450097,
+    "datetime": "2023-09-27 19:22:22 +02:00",
+    "name": "27 september 18:46, Trafikolycka, vilt, Örnsköldsvik",
+    "summary": "Länsväg 348, Bredbyn. En personbil har kolliderat med ett rådjur",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1846-trafikolycka-vilt-ornskoldsvik/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 450096,
     "datetime": "2023-09-27 19:18:10 +02:00",
     "name": "27 september 17:54, Stöld, Sundsvall",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 450094,
-    "datetime": "2023-09-27 18:52:43 +02:00",
-    "name": "27 september 18:43, Vapenlagen, Stockholm",
-    "summary": "Polisen får i samtal om skottlossning i Fruängen.",
-    "url": "/aktuellt/handelser/2023/september/27/27-september-1843-vapenlagen-stockholm/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 447779,
-    "datetime": "2023-09-20 8:00:54 +02:00",
-    "name": "20 september 07:59, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens händelser",
-    "url": "/aktuellt/handelser/2023/september/20/20-september-0759-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 447983,
-    "datetime": "2023-09-21 12:45:02 +02:00",
-    "name": "21 september 12:24, Övrigt, Hallands län",
-    "summary": "Presstalespersonerna är på möte 13.00 till 14.30. Vakthavande befäl svarar på samtal från media i mån av tid.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-1224-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 447982,
-    "datetime": "2023-09-21 12:44:56 +02:00",
-    "name": "21 september 12:22, Övrigt, Västra Götalands län",
-    "summary": "Presstalespersonerna är på möte 13.00 till 14.30. Vakthavande befäl svarar på samtal från media i mån av tid.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-1222-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
