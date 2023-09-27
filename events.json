@@ -1,14 +1,14 @@
 [
   {
-    "id": 449883,
-    "datetime": "2023-09-26 22:08:26 +02:00",
-    "name": "26 september 22:08, Uppdatering, Linköping",
-    "summary": "Information i ärendet kring detonationen Ekholmen, Linköping.",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-2208-uppdatering-linkoping/",
-    "type": "Uppdatering",
+    "id": 450020,
+    "datetime": "2023-09-27 11:14:25 +02:00",
+    "name": "27 september 10:36, Trafikkontroll, Arjeplog",
+    "summary": "Storgatan, resultat efter nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1036-trafikkontroll-arjeplog/",
+    "type": "Trafikkontroll",
     "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
+      "name": "Arjeplog",
+      "gps": "66.051505,17.890054"
     }
   },
   {
@@ -21,6 +21,54 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 450019,
+    "datetime": "2023-09-27 11:07:44 +02:00",
+    "name": "27 september 10:52, Motorfordon, stöld, Strängnäs",
+    "summary": "Bil stulen från bärgningsbils flak.",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1052-motorfordon-stold-strangnas/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 450018,
+    "datetime": "2023-09-27 11:02:52 +02:00",
+    "name": "27 september 09:39, Djur, Örebro län",
+    "summary": "Polisen har under förmiddagen hanterat ett älg-ärende i flera områden",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-0939-djur-orebro-lan/",
+    "type": "Djur",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 450017,
+    "datetime": "2023-09-27 11:00:39 +02:00",
+    "name": "27 september 10:58, Trafikkontroll, Älvsbyn",
+    "summary": "Älvsbyn, resultat efter trafikkontroller",
+    "url": "/aktuellt/handelser/2023/september/27/27-september-1058-trafikkontroll-alvsbyn/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Älvsbyn",
+      "gps": "65.677136,20.992866"
+    }
+  },
+  {
+    "id": 449883,
+    "datetime": "2023-09-26 22:08:26 +02:00",
+    "name": "26 september 22:08, Uppdatering, Linköping",
+    "summary": "Information i ärendet kring detonationen Ekholmen, Linköping.",
+    "url": "/aktuellt/handelser/2023/september/26/26-september-2208-uppdatering-linkoping/",
+    "type": "Uppdatering",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 447931,
-    "datetime": "2023-09-21 6:33:59 +02:00",
-    "name": "21 september 00:24, Trafikkontroll, Stockholm",
-    "summary": "I Vinsta omhändertogs en man i samband med en trafikkontroll.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0024-trafikkontroll-stockholm/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 447926,
-    "datetime": "2023-09-21 6:30:03 +02:00",
-    "name": "21 september 06:00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0600-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 447927,
-    "datetime": "2023-09-21 6:29:26 +02:00",
-    "name": "21 september 06:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0600-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 447930,
-    "datetime": "2023-09-21 6:19:05 +02:00",
-    "name": "21 september 00:12, Olaga hot, Värmdö",
-    "summary": "Inomhus i Höjdhagen greps en man misstänkt för olaga hot.",
-    "url": "/aktuellt/handelser/2023/september/21/21-september-0012-olaga-hot-varmdo/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   }
 ]
