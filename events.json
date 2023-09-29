@@ -1,5 +1,113 @@
 [
   {
+    "id": 450694,
+    "datetime": "2023-09-29 22:08:01 +02:00",
+    "name": "29 september 21:06, Misshandel, Karlskoga",
+    "summary": "En man är misstänkt för brott i en bostad",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2106-misshandel-karlskoga/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 450693,
+    "datetime": "2023-09-29 22:04:14 +02:00",
+    "name": "29 september 21:13, Rån, Nora",
+    "summary": "Ett rån har skett mot en mindre butik i centrum",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2113-ran-nora/",
+    "type": "Rån",
+    "location": {
+      "name": "Nora",
+      "gps": "59.519206,15.037867"
+    }
+  },
+  {
+    "id": 450109,
+    "datetime": "2023-09-27 21:49:57 +02:00",
+    "name": "29 september 22:00, Övrigt, Östergötlands län",
+    "summary": "Information om polisens pressnummer.",
+    "url": "/aktuellt/handelser/2023/september/27/29-september-2200-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 450692,
+    "datetime": "2023-09-29 21:58:08 +02:00",
+    "name": "29 september 20:04, Trafikolycka, personskada, Sigtuna",
+    "summary": "En fotgängare blir påkörd på ett övergångsställe.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2004-trafikolycka-personskada-sigtuna/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 450691,
+    "datetime": "2023-09-29 21:49:25 +02:00",
+    "name": "29 september 21:45, Övrigt, Hallands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 450533,
+    "datetime": "2023-09-29 21:48:25 +02:00",
+    "name": "29 september 21:45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 450690,
+    "datetime": "2023-09-29 21:47:43 +02:00",
+    "name": "29 september 20:29, Stöld, Sundsvall",
+    "summary": "Birsta, en man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2029-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 450689,
+    "datetime": "2023-09-29 21:45:25 +02:00",
+    "name": "29 september 21:24, Trafikkontroll, Örnsköldsvik",
+    "summary": "Själevad, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2124-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 450688,
+    "datetime": "2023-09-29 21:44:28 +02:00",
+    "name": "29 september 21:02, Misshandel, Uppsala",
+    "summary": "Man misshandlad med vasst tillhygge.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2102-misshandel-uppsala/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 450686,
     "datetime": "2023-09-29 21:42:03 +02:00",
     "name": "29 september 21:12, Rån, Halmstad",
@@ -2193,18 +2301,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 450109,
-    "datetime": "2023-09-27 21:49:57 +02:00",
-    "name": "27 september 21:50, Övrigt, Östergötlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/september/27/27-september-2150-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Tingsryd",
       "gps": "56.524745,14.978534"
-    }
-  },
-  {
-    "id": 448322,
-    "datetime": "2023-09-23 22:08:23 +02:00",
-    "name": "23 september 20:52, Trafikolycka, personskada, Luleå",
-    "summary": "Påkörd cyklist.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-2052-trafikolycka-personskada-lulea/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 448321,
-    "datetime": "2023-09-23 22:02:24 +02:00",
-    "name": "23 september 22:00, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-2200-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 448320,
-    "datetime": "2023-09-23 22:00:13 +02:00",
-    "name": "23 september 22:00, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-2200-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 448316,
-    "datetime": "2023-09-23 18:08:04 +02:00",
-    "name": "23 september 15:30, Trafikhinder, Stockholm",
-    "summary": "Icke tillståndsgiven allmän sammankomst på en avstängd bro.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1530-trafikhinder-stockholm/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 448305,
-    "datetime": "2023-09-23 13:19:05 +02:00",
-    "name": "23 september 13:03, Brand, Malmö",
-    "summary": "Rökutveckling i fastighet, centrum.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1303-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 448315,
-    "datetime": "2023-09-23 17:02:01 +02:00",
-    "name": "23 september 17:00, Övrigt, Västra Götalands län",
-    "summary": "Polisens presstalesperson finns i kväll på plats fram till klockan 22.00.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1700-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 448314,
-    "datetime": "2023-09-23 14:40:47 +02:00",
-    "name": "23 september 13:31, Trafikolycka, Heby",
-    "summary": "Kvinna i 80-årsåldern till sjukhus efter trafikolycka.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1331-trafikolycka-heby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
-    }
-  },
-  {
-    "id": 448309,
-    "datetime": "2023-09-23 14:34:32 +02:00",
-    "name": "23 september 12:47, Djur, Södertälje",
-    "summary": "En polispatrull från Södertälje hittar en sköldpadda på E4:an, avfart Södertälje Syd.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1247-djur-sodertalje/",
-    "type": "Djur",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
