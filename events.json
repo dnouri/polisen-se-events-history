@@ -1,5 +1,125 @@
 [
   {
+    "id": 450672,
+    "datetime": "2023-09-29 20:23:02 +02:00",
+    "name": "29 september 15:54, Rattfylleri, Piteå",
+    "summary": "Piteå, bilist stoppas för kontroll",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1554-rattfylleri-pitea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 450666,
+    "datetime": "2023-09-29 20:20:10 +02:00",
+    "name": "29 september 19:27, Trafikolycka, Borås",
+    "summary": "Två mopeder har kolliderat enligt SOS vid Lugnet.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1927-trafikolycka-boras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 450671,
+    "datetime": "2023-09-29 20:13:33 +02:00",
+    "name": "29 september 15:48, Ofredande/förargelse, Piteå",
+    "summary": "Piteå, polis kontaktas gällande någon form av bråk på en adress",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1548-ofredandeforargelse-pitea/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 450670,
+    "datetime": "2023-09-29 20:12:58 +02:00",
+    "name": "29 september 20:08, Övrigt, Strängnäs",
+    "summary": "Larm om höga smällar i Strängnäs var skjutövning",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2008-ovrigt-strangnas/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 450669,
+    "datetime": "2023-09-29 20:08:09 +02:00",
+    "name": "29 september 19:46, Trafikolycka, Borås",
+    "summary": "Polisfordon involverad i trafikolycka i centrala Borås.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1946-trafikolycka-boras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 450663,
+    "datetime": "2023-09-29 19:53:24 +02:00",
+    "name": "29 september 16:35, Misshandel, Stockholm",
+    "summary": "Bråk i samband med plankning.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1635-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 450665,
+    "datetime": "2023-09-29 19:53:19 +02:00",
+    "name": "29 september 18:42, Övrigt, Stockholm",
+    "summary": "Smällar i Beckomberga kom från fyrverkerier.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1842-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 450668,
+    "datetime": "2023-09-29 19:53:15 +02:00",
+    "name": "29 september 10:33, Missbruk av urkund, Sigtuna",
+    "summary": "En person försöker resa med en annan persons pass.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1033-missbruk-av-urkund-sigtuna/",
+    "type": "Missbruk av urkund",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 450662,
+    "datetime": "2023-09-29 19:53:11 +02:00",
+    "name": "29 september 16:32, Brand, Gotlands län",
+    "summary": "Garagebrand i Dalhem.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1632-brand-gotlands-lan/",
+    "type": "Brand",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 450639,
+    "datetime": "2023-09-29 17:59:30 +02:00",
+    "name": "29 september 17:54, Trafikolycka, Kalmar",
+    "summary": "Personbil och motorcykel i olycka, Ölandsbron.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1754-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
     "id": 450664,
     "datetime": "2023-09-29 19:43:35 +02:00",
     "name": "29 september 14:32, Rattfylleri, Luleå",
@@ -45,18 +165,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 450639,
-    "datetime": "2023-09-29 17:59:30 +02:00",
-    "name": "29 september 17:54, Trafikolycka, Kalmar",
-    "summary": "Personbil och motorcykel i olycka, Ölandsbron.",
-    "url": "/aktuellt/handelser/2023/september/29/29-september-1754-trafikolycka-kalmar/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Ekerö",
       "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 448294,
-    "datetime": "2023-09-23 11:03:54 +02:00",
-    "name": "23 september 11:00, Trafikolycka, Perstorp",
-    "summary": "Två personbilar i olycka, Perstorp.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1100-trafikolycka-perstorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Perstorp",
-      "gps": "56.137972,13.394986"
-    }
-  },
-  {
-    "id": 448293,
-    "datetime": "2023-09-23 10:40:53 +02:00",
-    "name": "23 september 10:22, Bedrägeri, Sollentuna",
-    "summary": "En okänd gärningsperson har stulit värdeföremål och inloggningsuppgifter till banken från en kvinna i 90-årsål",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1022-bedrageri-sollentuna/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 448289,
-    "datetime": "2023-09-23 9:40:10 +02:00",
-    "name": "23 september 09:26, Arbetsplatsolycka, Kristinehamn",
-    "summary": "En man har råkat ut för en arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0926-arbetsplatsolycka-kristinehamn/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 448291,
-    "datetime": "2023-09-23 10:03:03 +02:00",
-    "name": "23 september 08:15, Övrigt, Östergötlands län",
-    "summary": "Pressträff 26/9 09:00 länsväg 1050",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0815-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 448290,
-    "datetime": "2023-09-23 9:45:15 +02:00",
-    "name": "23 september 08:00, Stöld/inbrott, Enköping",
-    "summary": "Inbrott i klubblokal.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0800-stoldinbrott-enkoping/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 448288,
-    "datetime": "2023-09-23 9:13:47 +02:00",
-    "name": "23 september 06:26, Rattfylleri, Luleå",
-    "summary": "Luleå, misstänkt rattfylleri.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0626-rattfylleri-lulea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 448287,
-    "datetime": "2023-09-23 8:55:53 +02:00",
-    "name": "23 september 07:08, Trafikolycka, vilt, Umeå",
-    "summary": "Skravelsjö, viltolycka anmäls.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0708-trafikolycka-vilt-umea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 448270,
-    "datetime": "2023-09-23 7:29:43 +02:00",
-    "name": "23 september 06:44, Trafikolycka, personskada, Gotlands län",
-    "summary": "En bilist har kört av vägen och ner i diket i närheten av Roma.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0644-trafikolycka-personskada-gotlands-lan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 448286,
-    "datetime": "2023-09-23 8:51:54 +02:00",
-    "name": "23 september 08:51, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-0851-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
