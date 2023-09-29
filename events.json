@@ -1,5 +1,113 @@
 [
   {
+    "id": 450660,
+    "datetime": "2023-09-29 18:48:40 +02:00",
+    "name": "29 september 18:47, Trafikolycka, personskada, Nyköping",
+    "summary": "Mycket begränsad framkomlighet på E4 utanför Nyköping efter olycka.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1847-trafikolycka-personskada-nykoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 450682,
+    "datetime": "2023-09-29 21:07:04 +02:00",
+    "name": "29 september 19:00, Bråk, Sundsvall",
+    "summary": "Stenstan, polis kontaktas gällande bråk utomhus",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1900-brak-sundsvall/",
+    "type": "Bråk",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 450681,
+    "datetime": "2023-09-29 21:00:59 +02:00",
+    "name": "29 september 19:41, Trafikkontroll, Örnsköldsvik",
+    "summary": "Länsväg 348 Överhörnäs, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1941-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 450680,
+    "datetime": "2023-09-29 20:59:51 +02:00",
+    "name": "29 september 19:02, Trafikkontroll, Örnsköldsvik",
+    "summary": "Länsväg 352, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1902-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 450673,
+    "datetime": "2023-09-29 20:26:20 +02:00",
+    "name": "29 september 19:56, Skadegörelse, Östra göinge",
+    "summary": "Skadegörelse i butik, Glimåkra.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1956-skadegorelse-ostra-goinge/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Östra göinge",
+      "gps": "56.237877,14.216166"
+    }
+  },
+  {
+    "id": 450678,
+    "datetime": "2023-09-29 20:50:45 +02:00",
+    "name": "29 september 18:37, Trafikolycka, vilt, Nordmaling",
+    "summary": "Söder om Gräsmyr, en motorcyklist har kolliderat med en älg på länsväg 512",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1837-trafikolycka-vilt-nordmaling/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
+    "id": 450667,
+    "datetime": "2023-09-29 20:50:17 +02:00",
+    "name": "29 september 19:37, Trafikolycka, singel, Uddevalla",
+    "summary": "En personbil ska ha kört av vägen vid Resteröd, allt enligt SOS.",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1937-trafikolycka-singel-uddevalla/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 450677,
+    "datetime": "2023-09-29 20:45:39 +02:00",
+    "name": "29 september 19:23, Fylleri/LOB, Umeå",
+    "summary": "Böle, polis kontaktas gällande man som skriker och går vingligt",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-1923-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 450676,
+    "datetime": "2023-09-29 20:45:15 +02:00",
+    "name": "29 september 20:18, Trafikolycka, vilt, Valdemarsvik",
+    "summary": "Personbil i krock med älg, vägen delvis blockerad",
+    "url": "/aktuellt/handelser/2023/september/29/29-september-2018-trafikolycka-vilt-valdemarsvik/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Valdemarsvik",
+      "gps": "58.202451,16.601363"
+    }
+  },
+  {
     "id": 450675,
     "datetime": "2023-09-29 20:42:28 +02:00",
     "name": "29 september 19:06, Stöld, Umeå",
@@ -21,18 +129,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 450673,
-    "datetime": "2023-09-29 20:26:20 +02:00",
-    "name": "29 september 19:56, Skadegörelse, Östra göinge",
-    "summary": "Skadegörelse i butik, Glimåkra.",
-    "url": "/aktuellt/handelser/2023/september/29/29-september-1956-skadegorelse-ostra-goinge/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Östra göinge",
-      "gps": "56.237877,14.216166"
     }
   },
   {
@@ -165,18 +261,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 450660,
-    "datetime": "2023-09-29 18:48:40 +02:00",
-    "name": "29 september 18:47, Trafikolycka, personskada, Nyköping",
-    "summary": "Mycket begränsad framkomlighet på E4 utanför Nyköping efter olycka.",
-    "url": "/aktuellt/handelser/2023/september/29/29-september-1847-trafikolycka-personskada-nykoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 448308,
-    "datetime": "2023-09-23 13:38:47 +02:00",
-    "name": "23 september 10:02, Rattfylleri, Pajala",
-    "summary": "Pajala, misstänkt rattfylleri.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1002-rattfylleri-pajala/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Pajala",
-      "gps": "67.212782,23.367392"
-    }
-  },
-  {
-    "id": 448307,
-    "datetime": "2023-09-23 13:35:50 +02:00",
-    "name": "23 september 13:35, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1335-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 448306,
-    "datetime": "2023-09-23 13:27:44 +02:00",
-    "name": "23 september 13:27, Misshandel, Östersund",
-    "summary": "Östersund, kvinna anhållen misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1327-misshandel-ostersund/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 448303,
-    "datetime": "2023-09-23 12:48:05 +02:00",
-    "name": "23 september 10:13, Skyddslagen, Ekerö",
-    "summary": "En person har fotograferat ett skyddsobjekt.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1013-skyddslagen-ekero/",
-    "type": "Skyddslagen",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 448301,
-    "datetime": "2023-09-23 12:33:09 +02:00",
-    "name": "23 september 12:21, Trafikolycka, Stockholm",
-    "summary": "Två personbilar har kolliderat i Årstatunneln.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1221-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 448302,
-    "datetime": "2023-09-23 12:40:41 +02:00",
-    "name": "23 september 12:35, Trafikkontroll, Dalarnas län",
-    "summary": "Det har upprättats ett flertal trafikkontroller under förmiddagen",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1235-trafikkontroll-dalarnas-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 448298,
-    "datetime": "2023-09-23 11:58:27 +02:00",
-    "name": "23 september 11:47, Trafikolycka, Gotlands län",
-    "summary": "En bil har voltat på Gotland Ring.",
-    "url": "/aktuellt/handelser/2023/september/23/23-september-1147-trafikolycka-gotlands-lan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
     }
   }
 ]
