@@ -1,14 +1,38 @@
 [
   {
-    "id": 450750,
-    "datetime": "2023-10-01 0:52:52 +02:00",
-    "name": "01 oktober 00:50, Brand, Nyköping",
-    "summary": "Flera larm om bränder i Nyköping. Förundersökning inledd.",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0050-brand-nykoping/",
-    "type": "Brand",
+    "id": 450753,
+    "datetime": "2023-10-01 7:16:40 +02:00",
+    "name": "01 oktober 03:02, Trafikolycka, Helsingborg",
+    "summary": "Singelolycka på Sofierovägen.",
+    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0302-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 450754,
+    "datetime": "2023-10-01 7:13:32 +02:00",
+    "name": "01 oktober 07:12, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
+    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0712-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 450752,
+    "datetime": "2023-10-01 6:56:38 +02:00",
+    "name": "01 oktober 04:35, Misshandel, Karlshamn",
+    "summary": "Misshandel på Rådhusgatan.",
+    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0435-misshandel-karlshamn/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 450751,
+    "datetime": "2023-10-01 6:47:52 +02:00",
+    "name": "01 oktober 03:09, Misshandel, grov, Kristianstad",
+    "summary": "Bråk på Grönbetesvägen.",
+    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0309-misshandel-grov-kristianstad/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 450750,
+    "datetime": "2023-10-01 0:52:52 +02:00",
+    "name": "01 oktober 00:50, Brand, Nyköping",
+    "summary": "Flera larm om bränder i Nyköping. Förundersökning inledd.",
+    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0050-brand-nykoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 448384,
-    "datetime": "2023-09-24 18:40:48 +02:00",
-    "name": "24 september 18:35, Polisinsats/kommendering, Solna",
-    "summary": "Fotbollsmatchen på Friends arena på söndag eftermiddag har genomförts utan allvarliga ordningsstörningar.",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-1835-polisinsatskommendering-solna/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 448381,
-    "datetime": "2023-09-24 16:51:11 +02:00",
-    "name": "24 september 15:58, Stöld/inbrott, Sundbyberg",
-    "summary": "En eller flera gärningspersoner gör inbrott i en bostad i Hallonbergen.",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-1558-stoldinbrott-sundbyberg/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 448380,
-    "datetime": "2023-09-24 16:17:41 +02:00",
-    "name": "24 september 13:03, Trafikbrott, Lidingö",
-    "summary": "En motorcykel och en personbil har kolliderat i Gåshaga.",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-1303-trafikbrott-lidingo/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Lidingö",
-      "gps": "59.36296,18.1468"
-    }
-  },
-  {
-    "id": 448379,
-    "datetime": "2023-09-24 16:06:30 +02:00",
-    "name": "24 september 14:47, Trafikolycka, personskada, Södertälje",
-    "summary": "I Enhörna, en singelolycka med en motorcykel.",
-    "url": "/aktuellt/handelser/2023/september/24/24-september-1447-trafikolycka-personskada-sodertalje/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
