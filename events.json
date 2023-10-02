@@ -1,5 +1,29 @@
 [
   {
+    "id": 451892,
+    "datetime": "2023-10-02 10:21:11 +02:00",
+    "name": "02 oktober 09:38, Trafikolycka, Hörby",
+    "summary": "Trafikolycka, Pers gränd",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0938-trafikolycka-horby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hörby",
+      "gps": "55.851716,13.661926"
+    }
+  },
+  {
+    "id": 451890,
+    "datetime": "2023-10-02 10:18:50 +02:00",
+    "name": "02 oktober 07:35, Arbetsplatsolycka, Östersund",
+    "summary": "Östersund, olycka under arbete.",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0735-arbetsplatsolycka-ostersund/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 451877,
     "datetime": "2023-10-02 9:32:49 +02:00",
     "name": "02 oktober 09:18, Trafikolycka, Umeå",
@@ -9,6 +33,54 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 451884,
+    "datetime": "2023-10-02 10:00:12 +02:00",
+    "name": "02 oktober 09:53, Arbetsplatsolycka, Trelleborg",
+    "summary": "Skadad person, Smygehamn.",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0953-arbetsplatsolycka-trelleborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 451842,
+    "datetime": "2023-10-02 8:25:01 +02:00",
+    "name": "02 oktober 08:08, Trafikolycka, Helsingborg",
+    "summary": "Larm om trafikolycka, E4:an",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0808-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 451845,
+    "datetime": "2023-10-02 8:41:41 +02:00",
+    "name": "02 oktober 07:38, Brand, Hjo",
+    "summary": "SOS larmas om en fastighetsbrand i Hjo.",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0738-brand-hjo/",
+    "type": "Brand",
+    "location": {
+      "name": "Hjo",
+      "gps": "58.30707,14.287466"
+    }
+  },
+  {
+    "id": 451865,
+    "datetime": "2023-10-02 9:14:09 +02:00",
+    "name": "02 oktober 08:53, Trafikolycka, Åstorp",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0853-trafikolycka-astorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åstorp",
+      "gps": "56.134262,12.945908"
     }
   },
   {
@@ -36,18 +108,6 @@
     }
   },
   {
-    "id": 451865,
-    "datetime": "2023-10-02 9:14:09 +02:00",
-    "name": "02 oktober 08:53, Trafikolycka, Åstorp",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0853-trafikolycka-astorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
     "id": 451840,
     "datetime": "2023-10-02 9:05:47 +02:00",
     "name": "02 oktober 07:18, Trafikolycka, vilt, Jämtlands län",
@@ -69,30 +129,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 451845,
-    "datetime": "2023-10-02 8:41:41 +02:00",
-    "name": "02 oktober 07:38, Brand, Hjo",
-    "summary": "SOS larmas om en fastighetsbrand i Hjo.",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0738-brand-hjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Hjo",
-      "gps": "58.30707,14.287466"
-    }
-  },
-  {
-    "id": 451842,
-    "datetime": "2023-10-02 8:25:01 +02:00",
-    "name": "02 oktober 08:08, Trafikolycka, Helsingborg",
-    "summary": "Larm om trafikolycka, E4:an",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0808-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 449667,
-    "datetime": "2023-09-25 21:50:25 +02:00",
-    "name": "25 september 21:50, Övrigt, Östergötlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-2150-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 449666,
-    "datetime": "2023-09-25 21:50:07 +02:00",
-    "name": "25 september 21:50, Övrigt, Södermanlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-2150-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 449597,
-    "datetime": "2023-09-25 21:46:44 +02:00",
-    "name": "25 september 21:45, Övrigt, Hallands län",
-    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-2145-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
