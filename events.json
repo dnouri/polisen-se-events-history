@@ -1,5 +1,65 @@
 [
   {
+    "id": 451834,
+    "datetime": "2023-10-02 7:35:59 +02:00",
+    "name": "02 oktober 05:09, Brand, Helsingborg",
+    "summary": "Brand i elsparkcykel",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0509-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 451832,
+    "datetime": "2023-10-02 7:34:16 +02:00",
+    "name": "01 oktober 13:20, Övrigt, Örebro län",
+    "summary": "Kvinna misstänkt för jaktbrott.",
+    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-1320-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 451830,
+    "datetime": "2023-10-02 7:29:13 +02:00",
+    "name": "02 oktober 01:26, Stöld, Helsingborg",
+    "summary": "Inbrott i bil",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0126-stold-helsingborg/",
+    "type": "Stöld",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 451820,
+    "datetime": "2023-10-02 7:21:57 +02:00",
+    "name": "02 oktober 07:21, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0721-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 451823,
+    "datetime": "2023-10-02 7:21:32 +02:00",
+    "name": "02 oktober 07:21, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0721-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 451827,
     "datetime": "2023-10-02 7:21:16 +02:00",
     "name": "02 oktober 07:21, Sammanfattning natt, Västernorrlands län",
@@ -5934,66 +5994,6 @@
     "summary": "Centrala stan, polis kontaktas gällande berusad man i park",
     "url": "/aktuellt/handelser/2023/september/25/25-september-1850-fyllerilob-umea/",
     "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 449652,
-    "datetime": "2023-09-25 20:17:15 +02:00",
-    "name": "25 september 19:06, Övrigt, Västerås",
-    "summary": "Larm om smällare på Malmaberg.",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-1906-ovrigt-vasteras/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 449651,
-    "datetime": "2023-09-25 20:12:47 +02:00",
-    "name": "25 september 18:17, Stöld, Umeå",
-    "summary": "Centrala stan, man stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-1817-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 449650,
-    "datetime": "2023-09-25 20:11:12 +02:00",
-    "name": "25 september 17:57, Fylleri/LOB, Skellefteå",
-    "summary": "Solbacken, polisen kontaktas gällande berusad man utanför butik",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-1757-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 449649,
-    "datetime": "2023-09-25 19:51:57 +02:00",
-    "name": "25 september 19:27, Rån, Huddinge",
-    "summary": "Person i Kungens kurva rånad på bil.",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-1927-ran-huddinge/",
-    "type": "Rån",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 449648,
-    "datetime": "2023-09-25 19:41:20 +02:00",
-    "name": "25 september 16:19, Stöld, Umeå",
-    "summary": "Kronoparken, man stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2023/september/25/25-september-1619-stold-umea/",
-    "type": "Stöld",
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
