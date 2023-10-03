@@ -1,5 +1,41 @@
 [
   {
+    "id": 452014,
+    "datetime": "2023-10-03 11:15:14 +02:00",
+    "name": "03 oktober 11:06, Brand, Hallsberg",
+    "summary": "Det brinner i en villa i Hallsberg enligt SOS-alarm.",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1106-brand-hallsberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
+    }
+  },
+  {
+    "id": 449826,
+    "datetime": "2023-09-26 14:32:35 +02:00",
+    "name": "26 september 07:43, Mord/dråp, försök, Alingsås",
+    "summary": "Försök till mord",
+    "url": "/aktuellt/handelser/2023/september/26/26-september-0743-morddrap-forsok-alingsas/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
+    }
+  },
+  {
+    "id": 451845,
+    "datetime": "2023-10-02 8:41:41 +02:00",
+    "name": "02 oktober 07:38, Brand, Hjo",
+    "summary": "SOS larmas om en fastighetsbrand i Hjo.",
+    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0738-brand-hjo/",
+    "type": "Brand",
+    "location": {
+      "name": "Hjo",
+      "gps": "58.30707,14.287466"
+    }
+  },
+  {
     "id": 452006,
     "datetime": "2023-10-03 10:23:37 +02:00",
     "name": "03 oktober 10:06, Trafikolycka, vilt, Malå",
@@ -717,18 +753,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 451845,
-    "datetime": "2023-10-02 8:41:41 +02:00",
-    "name": "02 oktober 07:38, Brand, Hjo",
-    "summary": "SOS larmas om en fastighetsbrand i Hjo.",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0738-brand-hjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Hjo",
-      "gps": "58.30707,14.287466"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 449859,
-    "datetime": "2023-09-26 17:44:56 +02:00",
-    "name": "26 september 17:23, Trafikolycka, Hudiksvall",
-    "summary": "Lastbil och A-traktor i olycka, Sanna.",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-1723-trafikolycka-hudiksvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 449854,
-    "datetime": "2023-09-26 17:01:42 +02:00",
-    "name": "26 september 16:02, Trafikolycka, Sundsvall",
-    "summary": "E14/Vattjomsvägen, två personbilar har kolliderat",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-1602-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
