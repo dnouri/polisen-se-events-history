@@ -1,5 +1,65 @@
 [
   {
+    "id": 452014,
+    "datetime": "2023-10-03 11:15:14 +02:00",
+    "name": "03 oktober 11:06, Brand, Hallsberg",
+    "summary": "Det brinner i en villa i Hallsberg enligt SOS-alarm.",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1106-brand-hallsberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
+    }
+  },
+  {
+    "id": 452028,
+    "datetime": "2023-10-03 13:15:54 +02:00",
+    "name": "03 oktober 13:05, Trafikolycka, Helsingborg",
+    "summary": "Trafikolycka på Planteringsvägen",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1305-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 452015,
+    "datetime": "2023-10-03 11:42:34 +02:00",
+    "name": "03 oktober 11:21, Brand, Varberg",
+    "summary": "SOS larmas om en brand i en villa i Träslöv.",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1121-brand-varberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 452027,
+    "datetime": "2023-10-03 13:01:51 +02:00",
+    "name": "03 oktober 11:30, Trafikbrott, Falun",
+    "summary": "Polisen i Falun utreder ett ärende med vårdslöshet i trafik.",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1130-trafikbrott-falun/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 452024,
+    "datetime": "2023-10-03 12:49:13 +02:00",
+    "name": "03 oktober 10:53, Arbetsplatsolycka, Falun",
+    "summary": "Polisen utreder en arbetsplatsolycka som inträffat i lokalpolisområde Falun.",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1053-arbetsplatsolycka-falun/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
     "id": 452023,
     "datetime": "2023-10-03 12:41:18 +02:00",
     "name": "03 oktober 12:41, Trafikkontroll, Norrbottens län",
@@ -69,30 +129,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 452015,
-    "datetime": "2023-10-03 11:42:34 +02:00",
-    "name": "03 oktober 11:21, Brand, Varberg",
-    "summary": "SOS larmas om en brand i en villa i Träslöv.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1121-brand-varberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Varberg",
-      "gps": "57.107118,12.252091"
-    }
-  },
-  {
-    "id": 452014,
-    "datetime": "2023-10-03 11:15:14 +02:00",
-    "name": "03 oktober 11:06, Brand, Hallsberg",
-    "summary": "Det brinner i en villa i Hallsberg enligt SOS-alarm.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1106-brand-hallsberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Hallsberg",
-      "gps": "59.066532,15.10229"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Trollhättan",
       "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 449866,
-    "datetime": "2023-09-26 18:50:06 +02:00",
-    "name": "26 september 18:24, Brand, Mörbylånga",
-    "summary": "Östra Öland. Rökutveckling från byggnad.",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-1824-brand-morbylanga/",
-    "type": "Brand",
-    "location": {
-      "name": "Mörbylånga",
-      "gps": "56.523757,16.386916"
-    }
-  },
-  {
-    "id": 449856,
-    "datetime": "2023-09-26 19:23:36 +02:00",
-    "name": "26 september 17:21, Uppdatering, Stenungsund",
-    "summary": "Uppdatering gällande jordskredet i Stenungsund.",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-1721-uppdatering-stenungsund/",
-    "type": "Uppdatering",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 449869,
-    "datetime": "2023-09-26 19:21:21 +02:00",
-    "name": "26 september 17:20, Trafikbrott, Sundsvall",
-    "summary": "E14, Stöde. Allmänheten uppmärksammar polisen på en bil med släpvagn som kör trafikfarligt.",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-1720-trafikbrott-sundsvall/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
