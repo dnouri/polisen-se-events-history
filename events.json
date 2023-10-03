@@ -1,5 +1,41 @@
 [
   {
+    "id": 452032,
+    "datetime": "2023-10-03 14:08:18 +02:00",
+    "name": "03 oktober 13:20, Brand, Nordmaling",
+    "summary": "Nordmaling, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1320-brand-nordmaling/",
+    "type": "Brand",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
+    "id": 452017,
+    "datetime": "2023-10-03 12:07:41 +02:00",
+    "name": "03 oktober 12:07, Brand, Arvika",
+    "summary": "Det brinner i köket i en restaurang i Arvika.",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1207-brand-arvika/",
+    "type": "Brand",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 452030,
+    "datetime": "2023-10-03 13:57:32 +02:00",
+    "name": "03 oktober 13:40, Brand, Falköping",
+    "summary": "SOS larmas om en övertänd villa utanför Floby.",
+    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1340-brand-falkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Falköping",
+      "gps": "58.175029,13.553217"
+    }
+  },
+  {
     "id": 440034,
     "datetime": "2023-08-21 17:20:30 +02:00",
     "name": "21 augusti 16:30, Trafikolycka, personskada, Skara",
@@ -117,18 +153,6 @@
     "location": {
       "name": "Leksand",
       "gps": "60.730308,14.999892"
-    }
-  },
-  {
-    "id": 452017,
-    "datetime": "2023-10-03 12:07:41 +02:00",
-    "name": "03 oktober 12:07, Brand, Arvika",
-    "summary": "Det brinner i köket i en restaurang i Arvika.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1207-brand-arvika/",
-    "type": "Brand",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 449874,
-    "datetime": "2023-09-26 20:51:43 +02:00",
-    "name": "26 september 20:16, Rattfylleri, Värmdö",
-    "summary": "En polispatrull stoppade en bil vid Fågelbro på Värmdö för kontroll av föraren.",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-2016-rattfylleri-varmdo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 449873,
-    "datetime": "2023-09-26 20:38:35 +02:00",
-    "name": "26 september 19:16, Trafikolycka, Älvsbyn",
-    "summary": "Länsväg 545, Teugerträsk. En motorcykel har kolliderat med en älg",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-1916-trafikolycka-alvsbyn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Älvsbyn",
-      "gps": "65.677136,20.992866"
     }
   }
 ]
