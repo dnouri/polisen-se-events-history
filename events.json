@@ -1,5 +1,53 @@
 [
   {
+    "id": 452301,
+    "datetime": "2023-10-04 21:11:47 +02:00",
+    "name": "04 oktober 18:01, Stöld, Sundsvall",
+    "summary": "Stenstan, polis kontaktas gällande en misstänkt cykelstöld",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1801-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 452295,
+    "datetime": "2023-10-04 19:43:33 +02:00",
+    "name": "04 oktober 14:27, Misshandel, grov, Kumla",
+    "summary": "Polisen har gripit en man i 45-årsåldern som misstänks ha hotat och försökt skada en kvinna inomhus i Kumla.",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1427-misshandel-grov-kumla/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 452300,
+    "datetime": "2023-10-04 21:02:56 +02:00",
+    "name": "04 oktober 16:43, Knivlagen, Boden",
+    "summary": "Centrum, polis kontrollerar en man som varit högljudd",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1643-knivlagen-boden/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 452290,
+    "datetime": "2023-10-04 18:47:33 +02:00",
+    "name": "04 oktober 17:38, Försvunnen person, Skellefteå",
+    "summary": "Skellefteå, äldre man anmäld försvunnen",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1738-forsvunnen-person-skelleftea/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 452297,
     "datetime": "2023-10-04 20:08:22 +02:00",
     "name": "04 oktober 18:44, Försvunnen person, Uppsala",
@@ -69,30 +117,6 @@
     "location": {
       "name": "Lindesberg",
       "gps": "59.597698,15.222911"
-    }
-  },
-  {
-    "id": 452290,
-    "datetime": "2023-10-04 18:47:33 +02:00",
-    "name": "04 oktober 17:38, Försvunnen person, Skellefteå",
-    "summary": "Skellefteå, äldre man anmäld försvunnen",
-    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1738-forsvunnen-person-skelleftea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 452295,
-    "datetime": "2023-10-04 19:43:33 +02:00",
-    "name": "04 oktober 14:27, Misshandel, grov, Kumla",
-    "summary": "Polisen har gripit en man i 45-årsåldern som misstänks ha hotat och försökt skada en kvinna inomhus i Kumla.",
-    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1427-misshandel-grov-kumla/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 450128,
-    "datetime": "2023-09-28 7:02:18 +02:00",
-    "name": "28 september 07:00, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-0700-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 450123,
-    "datetime": "2023-09-28 7:00:46 +02:00",
-    "name": "28 september 07:00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-0700-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
