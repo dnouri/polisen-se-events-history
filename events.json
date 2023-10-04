@@ -1,5 +1,65 @@
 [
   {
+    "id": 452306,
+    "datetime": "2023-10-04 21:56:46 +02:00",
+    "name": "04 oktober 21:51, Brand, Kalmar",
+    "summary": "Bergagården. Brand i fordon.",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-2151-brand-kalmar/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 452308,
+    "datetime": "2023-10-04 22:04:31 +02:00",
+    "name": "04 oktober 21:33, Brand, Botkyrka",
+    "summary": "Brand i garage i Alby.",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-2133-brand-botkyrka/",
+    "type": "Brand",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 452307,
+    "datetime": "2023-10-04 22:01:29 +02:00",
+    "name": "04 oktober 20:34, Övrigt, Uppsala",
+    "summary": "Pågående utredningsärende på en adress i Stockholm.",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-2034-ovrigt-uppsala/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 452305,
+    "datetime": "2023-10-04 21:55:04 +02:00",
+    "name": "04 oktober 21:54, Övrigt, Västra Götalands län",
+    "summary": "Presstelefonen stängs för natten.",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-2154-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 452304,
+    "datetime": "2023-10-04 21:54:31 +02:00",
+    "name": "04 oktober 21:54, Övrigt, Hallands län",
+    "summary": "Presstelefonen stängs för natten.",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-2154-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
     "id": 452296,
     "datetime": "2023-10-04 19:55:23 +02:00",
     "name": "04 oktober 15:01, Narkotikabrott, Lindesberg",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 450136,
-    "datetime": "2023-09-28 7:56:43 +02:00",
-    "name": "28 september 07:38, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-0738-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 450135,
-    "datetime": "2023-09-28 7:55:07 +02:00",
-    "name": "28 september 07:53, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-0753-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 450134,
-    "datetime": "2023-09-28 7:54:25 +02:00",
-    "name": "28 september 07:53, Sammanfattning natt, Värmlands län",
-    "summary": "Det har polisiärt sett varit en lugn natt i länet.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-0753-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 450133,
-    "datetime": "2023-09-28 7:54:13 +02:00",
-    "name": "28 september 07:53, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-0753-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 450131,
-    "datetime": "2023-09-28 7:38:12 +02:00",
-    "name": "28 september 07:30, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-0730-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
