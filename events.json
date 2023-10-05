@@ -1,5 +1,77 @@
 [
   {
+    "id": 452536,
+    "datetime": "2023-10-05 20:22:57 +02:00",
+    "name": "05 oktober 19:00, Fylleri/LOB, Härjedalen",
+    "summary": "Sveg, berusad man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1900-fyllerilob-harjedalen/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 452535,
+    "datetime": "2023-10-05 20:18:31 +02:00",
+    "name": "05 oktober 20:05, Trafikkontroll, Piteå",
+    "summary": "Norra ringen, resultat efter trafikkontroll i centrum",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-2005-trafikkontroll-pitea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 452534,
+    "datetime": "2023-10-05 20:11:36 +02:00",
+    "name": "05 oktober 20:01, Brand, Kävlinge",
+    "summary": "Brand i halmbalar utanför Löddeköpinge.",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-2001-brand-kavlinge/",
+    "type": "Brand",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 452533,
+    "datetime": "2023-10-05 20:03:21 +02:00",
+    "name": "05 oktober 18:57, Brand, Växjö",
+    "summary": "Brand i husvagn, Nöbbele.",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1857-brand-vaxjo/",
+    "type": "Brand",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 452532,
+    "datetime": "2023-10-05 19:50:24 +02:00",
+    "name": "05 oktober 18:25, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, misstänkt rattfylleri upptäckt i samband med trafikkontroll",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1825-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 452531,
+    "datetime": "2023-10-05 19:44:41 +02:00",
+    "name": "05 oktober 16:47, Misshandel, Årjäng",
+    "summary": "En man är misstänkt för att ha slagit en kvinna",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1647-misshandel-arjang/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Årjäng",
+      "gps": "59.389159,12.132717"
+    }
+  },
+  {
     "id": 452530,
     "datetime": "2023-10-05 19:23:49 +02:00",
     "name": "05 oktober 16:34, Trafikolycka, Västerås",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 450295,
-    "datetime": "2023-09-28 20:57:58 +02:00",
-    "name": "28 september 16:18, Stöld/inbrott, Gagnef",
-    "summary": "Ett inbrott i ett fritidshus i Mockfjärd upptäcktes under onsdagen.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1618-stoldinbrott-gagnef/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Gagnef",
-      "gps": "60.590983,15.070049"
-    }
-  },
-  {
-    "id": 450294,
-    "datetime": "2023-09-28 20:55:16 +02:00",
-    "name": "28 september 15:06, Misshandel, grov, Ludvika",
-    "summary": "En man i artonårsåldern har förts till sjukhus efter en misshandel i Ludvika under eftermiddagen.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1506-misshandel-grov-ludvika/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 450292,
-    "datetime": "2023-09-28 20:49:38 +02:00",
-    "name": "28 september 19:20, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Ett antal viltolyckor har rapporterats in till polisen under kvällen",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1920-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 450293,
-    "datetime": "2023-09-28 20:19:49 +02:00",
-    "name": "28 september 17:33, Olaga hot, Umeå",
-    "summary": "Polisen kallas till en adress på Böleäng",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1733-olaga-hot-umea/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 450291,
-    "datetime": "2023-09-28 19:57:29 +02:00",
-    "name": "28 september 18:44, Fylleri/LOB, Sollentuna",
-    "summary": "Person försöker ta sig in i bilar på snabbmatsrestaurang.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1844-fyllerilob-sollentuna/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 450290,
-    "datetime": "2023-09-28 19:48:23 +02:00",
-    "name": "28 september 18:35, Misshandel, Södertälje",
-    "summary": "Misshandel utomhus.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1835-misshandel-sodertalje/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
