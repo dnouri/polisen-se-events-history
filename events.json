@@ -1,5 +1,53 @@
 [
   {
+    "id": 452529,
+    "datetime": "2023-10-05 19:20:23 +02:00",
+    "name": "05 oktober 15:00, Trafikolycka, Heby",
+    "summary": "Två personbilar i kollision under eftermiddagen vid RV56/LV272",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1500-trafikolycka-heby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Heby",
+      "gps": "59.939637,16.858759"
+    }
+  },
+  {
+    "id": 452528,
+    "datetime": "2023-10-05 19:17:17 +02:00",
+    "name": "05 oktober 18:24, Trafikolycka, personskada, Stockholm",
+    "summary": "Trafikolycka på Folkungagatan.",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1824-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 452526,
+    "datetime": "2023-10-05 19:07:18 +02:00",
+    "name": "05 oktober 18:39, Kontroll person/fordon, Helsingborg",
+    "summary": "Skadad man på Gustav Adolfs torg.",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1839-kontroll-personfordon-helsingborg/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 452516,
+    "datetime": "2023-10-05 16:59:30 +02:00",
+    "name": "05 oktober 16:52, Trafikolycka, Karlstad",
+    "summary": "En trafikolycka har inträffat på E18, i höjd med Alster",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1652-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 452449,
     "datetime": "2023-10-05 13:17:11 +02:00",
     "name": "05 oktober 13:16, Olaga frihetsberövande/människorov, Alingsås",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 452516,
-    "datetime": "2023-10-05 16:59:30 +02:00",
-    "name": "05 oktober 16:52, Trafikolycka, Karlstad",
-    "summary": "En trafikolycka har inträffat på E18, i höjd med Alster",
-    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1652-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 450288,
-    "datetime": "2023-09-28 19:40:57 +02:00",
-    "name": "28 september 14:52, Övrigt, Nacka",
-    "summary": "En grupp personer blockerar en hamnanläggning.",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1452-ovrigt-nacka/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 450287,
-    "datetime": "2023-09-28 19:24:51 +02:00",
-    "name": "28 september 17:16, Olaga hot, Östersund",
-    "summary": "Polisen kallas till en adress i Odenslund",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1716-olaga-hot-ostersund/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 450286,
-    "datetime": "2023-09-28 19:12:18 +02:00",
-    "name": "28 september 15:36, Stöld, Sundsvall",
-    "summary": "Birsta, polisen kallas till en butik",
-    "url": "/aktuellt/handelser/2023/september/28/28-september-1536-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
