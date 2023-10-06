@@ -1,5 +1,53 @@
 [
   {
+    "id": 452700,
+    "datetime": "2023-10-06 12:21:07 +02:00",
+    "name": "06 oktober 11:12, Trafikolycka, singel, Arvidsjaur",
+    "summary": "E45/Riksväg 95, en bilist har kört av vägen och voltat",
+    "url": "/aktuellt/handelser/2023/oktober/6/06-oktober-1112-trafikolycka-singel-arvidsjaur/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Arvidsjaur",
+      "gps": "65.592077,19.180283"
+    }
+  },
+  {
+    "id": 452699,
+    "datetime": "2023-10-06 12:08:31 +02:00",
+    "name": "06 oktober 11:10, Trafikolycka, Landskrona",
+    "summary": "Larm om trafikolycka på Tullstorpsvägen",
+    "url": "/aktuellt/handelser/2023/oktober/6/06-oktober-1110-trafikolycka-landskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 452449,
+    "datetime": "2023-10-05 13:17:11 +02:00",
+    "name": "05 oktober 13:16, Olaga frihetsberövande/människorov, Alingsås",
+    "summary": "En pojke i 15-årsåldern är försvunnen. Tre personer är frihetsberövade misstänkta för människorov. Fortsatt sö",
+    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1316-olaga-frihetsberovandemanniskorov-alingsas/",
+    "type": "Olaga frihetsberövande/människorov",
+    "location": {
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
+    }
+  },
+  {
+    "id": 452602,
+    "datetime": "2023-10-06 10:36:26 +02:00",
+    "name": "06 oktober 10:10, Trafikolycka, Sjöbo",
+    "summary": "Larm om singelolycka",
+    "url": "/aktuellt/handelser/2023/oktober/6/06-oktober-1010-trafikolycka-sjobo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
     "id": 452695,
     "datetime": "2023-10-06 11:03:58 +02:00",
     "name": "05 oktober 22:36, Övrigt, Uppsala län",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Älvsbyn",
       "gps": "65.677136,20.992866"
-    }
-  },
-  {
-    "id": 452602,
-    "datetime": "2023-10-06 10:36:26 +02:00",
-    "name": "06 oktober 10:10, Trafikolycka, Sjöbo",
-    "summary": "Larm om singelolycka",
-    "url": "/aktuellt/handelser/2023/oktober/6/06-oktober-1010-trafikolycka-sjobo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sjöbo",
-      "gps": "55.634822,13.70337"
     }
   },
   {
@@ -621,18 +657,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 452449,
-    "datetime": "2023-10-05 13:17:11 +02:00",
-    "name": "05 oktober 13:16, Olaga frihetsberövande/människorov, Alingsås",
-    "summary": "En pojke i 15-årsåldern är försvunnen. Tre personer är frihetsberövade misstänkta för människorov. Fortsatt sö",
-    "url": "/aktuellt/handelser/2023/oktober/5/05-oktober-1316-olaga-frihetsberovandemanniskorov-alingsas/",
-    "type": "Olaga frihetsberövande/människorov",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 450361,
-    "datetime": "2023-09-29 13:12:03 +02:00",
-    "name": "29 september 13:11, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/september/29/29-september-1311-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 450362,
-    "datetime": "2023-09-29 13:10:22 +02:00",
-    "name": "29 september 13:10, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/september/29/29-september-1310-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
