@@ -1,5 +1,53 @@
 [
   {
+    "id": 452905,
+    "datetime": "2023-10-08 14:25:46 +02:00",
+    "name": "08 oktober 13:48, Rån, Malmö",
+    "summary": "En man i 45-årsåldern blir rånad på sin klocka vid Ribersborgsstranden.",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1348-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 452904,
+    "datetime": "2023-10-08 14:17:44 +02:00",
+    "name": "08 oktober 11:06, Skadegörelse, Stenungsund",
+    "summary": "Skadegörelse",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1106-skadegorelse-stenungsund/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 452896,
+    "datetime": "2023-10-08 14:08:34 +02:00",
+    "name": "08 oktober 11:20, Trafikolycka, personskada, Tibro",
+    "summary": "Person påkörd",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1120-trafikolycka-personskada-tibro/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Tibro",
+      "gps": "58.424323,14.161642"
+    }
+  },
+  {
+    "id": 452866,
+    "datetime": "2023-10-08 5:16:37 +02:00",
+    "name": "08 oktober 04:45, Försvunnen person, Härnösand",
+    "summary": "Polisen önskar hjälp med iakttagelser gällande en försvunnen person.",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0445-forsvunnen-person-harnosand/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
     "id": 452903,
     "datetime": "2023-10-08 13:41:55 +02:00",
     "name": "08 oktober 12:49, Misshandel, Stockholm",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 452866,
-    "datetime": "2023-10-08 5:16:37 +02:00",
-    "name": "08 oktober 04:45, Försvunnen person, Härnösand",
-    "summary": "Polisen önskar hjälp med iakttagelser gällande en försvunnen person.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0445-forsvunnen-person-harnosand/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   },
   {
@@ -998,13 +1034,13 @@
   {
     "id": 452820,
     "datetime": "2023-10-07 7:33:56 +02:00",
-    "name": "07 oktober 02:08, Rån, Västerås",
+    "name": "07 oktober 02:08, Rån, Köping",
     "summary": "Medvetslös kvinna inkommer på akuten.",
-    "url": "/aktuellt/handelser/2023/oktober/7/07-oktober-0208-ran-vasteras/",
+    "url": "/aktuellt/handelser/2023/oktober/7/07-oktober-0208-ran-koping/",
     "type": "Rån",
     "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 450763,
-    "datetime": "2023-10-01 7:45:02 +02:00",
-    "name": "01 oktober 04:43, Trafikolycka, Västerås",
-    "summary": "En bil som ligger på taket.",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0443-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 450762,
-    "datetime": "2023-10-01 7:38:47 +02:00",
-    "name": "01 oktober 06:01, Stöld/inbrott, Gävle",
-    "summary": "Pågående inbrott på byggarbetsplats.",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0601-stoldinbrott-gavle/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 450761,
-    "datetime": "2023-10-01 7:36:42 +02:00",
-    "name": "01 oktober 03:24, Misshandel, Kristianstad",
-    "summary": "Misshandel på Östra Vallgatan.",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0324-misshandel-kristianstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   }
 ]
