@@ -1,5 +1,53 @@
 [
   {
+    "id": 452894,
+    "datetime": "2023-10-08 10:15:54 +02:00",
+    "name": "08 oktober 10:10, Räddningsinsats, Västra Götalands län",
+    "summary": "Alingsås",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1010-raddningsinsats-vastra-gotalands-lan/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 452869,
+    "datetime": "2023-10-08 5:29:50 +02:00",
+    "name": "08 oktober 02:32, Mord/dråp, Växjö",
+    "summary": "Mord utomhus i Växjö.",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0232-morddrap-vaxjo/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 452273,
+    "datetime": "2023-10-04 16:29:20 +02:00",
+    "name": "04 oktober 13:54, Försvunnen person, Kalix",
+    "summary": "Uppdatering: Stenbäcken, Försvunnen kvinna anträffad",
+    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1354-forsvunnen-person-kalix/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 452850,
+    "datetime": "2023-10-08 9:51:35 +02:00",
+    "name": "07 oktober 14:16, Mord/dråp, Söderhamn",
+    "summary": "Mänskliga kvarlevor anträffade i skog.",
+    "url": "/aktuellt/handelser/2023/oktober/7/07-oktober-1416-morddrap-soderhamn/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
     "id": 452893,
     "datetime": "2023-10-08 9:40:12 +02:00",
     "name": "08 oktober 09:06, Trafikolycka, Örkelljunga",
@@ -14,10 +62,10 @@
   {
     "id": 452892,
     "datetime": "2023-10-08 9:27:20 +02:00",
-    "name": "08 oktober 09:20, Övrigt, Västra Götalands län",
+    "name": "08 oktober 09:20, Räddningsinsats, Västra Götalands län",
     "summary": "Flygförbud drönare Alingsås",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0920-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0920-raddningsinsats-vastra-gotalands-lan/",
+    "type": "Räddningsinsats",
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
@@ -297,18 +345,6 @@
     "location": {
       "name": "Ljungby",
       "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 452869,
-    "datetime": "2023-10-08 5:29:50 +02:00",
-    "name": "08 oktober 02:32, Mord/dråp, Växjö",
-    "summary": "Mord utomhus i Växjö.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0232-morddrap-vaxjo/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -681,18 +717,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 452273,
-    "datetime": "2023-10-04 16:29:20 +02:00",
-    "name": "04 oktober 13:54, Försvunnen person, Kalix",
-    "summary": "Stenbäcken, kvinna anmäld försvunnen",
-    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1354-forsvunnen-person-kalix/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 450751,
-    "datetime": "2023-10-01 6:47:52 +02:00",
-    "name": "01 oktober 03:09, Misshandel, grov, Kristianstad",
-    "summary": "Bråk på Grönbetesvägen.",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0309-misshandel-grov-kristianstad/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 450750,
-    "datetime": "2023-10-01 0:52:52 +02:00",
-    "name": "01 oktober 00:50, Brand, Nyköping",
-    "summary": "Flera larm om bränder i Nyköping. Förundersökning inledd.",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0050-brand-nykoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
     }
   }
 ]
