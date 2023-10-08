@@ -1,5 +1,65 @@
 [
   {
+    "id": 452911,
+    "datetime": "2023-10-08 14:52:53 +02:00",
+    "name": "08 oktober 14:35, Brand, Örnsköldsvik",
+    "summary": "Örnsköldsvik, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1435-brand-ornskoldsvik/",
+    "type": "Brand",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 452910,
+    "datetime": "2023-10-08 14:52:43 +02:00",
+    "name": "08 oktober 14:52, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1452-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 452909,
+    "datetime": "2023-10-08 14:52:24 +02:00",
+    "name": "08 oktober 14:52, Övrigt, Östergötlands län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1452-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 452908,
+    "datetime": "2023-10-08 14:52:04 +02:00",
+    "name": "08 oktober 14:51, Övrigt, Södermanlands län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1451-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 452907,
+    "datetime": "2023-10-08 14:36:51 +02:00",
+    "name": "08 oktober 13:33, Trafikolycka, personskada, Haninge",
+    "summary": "En trafikolycka med personbil och MC inträffade i Västerhaninge.",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1333-trafikolycka-personskada-haninge/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
     "id": 452905,
     "datetime": "2023-10-08 14:25:46 +02:00",
     "name": "08 oktober 13:48, Rån, Malmö",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 450768,
-    "datetime": "2023-10-01 8:00:20 +02:00",
-    "name": "01 oktober 07:59, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0759-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 450756,
-    "datetime": "2023-10-01 8:00:15 +02:00",
-    "name": "01 oktober 08:00, Sammanfattning natt, Södermanlands län",
-    "summary": "Utöver händelserna i Brandkärr, Nyköping har natten varit lugn utan större incidenter. Någon enstaka notis vär",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0800-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 450767,
-    "datetime": "2023-10-01 8:00:08 +02:00",
-    "name": "01 oktober 08:00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning med utdrag från några av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0800-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 450759,
-    "datetime": "2023-10-01 8:00:03 +02:00",
-    "name": "01 oktober 08:00, Sammanfattning natt, Jönköpings län",
-    "summary": "En lugn natt i Polisområdet.",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0800-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 450765,
-    "datetime": "2023-10-01 7:56:04 +02:00",
-    "name": "01 oktober 07:55, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00",
-    "url": "/aktuellt/handelser/2023/oktober/1/01-oktober-0755-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
