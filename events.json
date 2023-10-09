@@ -1,5 +1,65 @@
 [
   {
+    "id": 454044,
+    "datetime": "2023-10-09 20:18:05 +02:00",
+    "name": "09 oktober 20:10, Mord/dråp, försök, Kalmar",
+    "summary": "Man skadad, Norrliden.",
+    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-2010-morddrap-forsok-kalmar/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 454046,
+    "datetime": "2023-10-09 20:22:03 +02:00",
+    "name": "09 oktober 19:37, Trafikolycka, Umeå",
+    "summary": "Brogatan/Storgatan, Väst på stan. En personbil och en cyklist har kolliderat",
+    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1937-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 454045,
+    "datetime": "2023-10-09 20:19:14 +02:00",
+    "name": "09 oktober 20:00, Stöld, Skellefteå",
+    "summary": "Under kvällen har polisen larmats till två butiker med anledning av stöld",
+    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-2000-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 454043,
+    "datetime": "2023-10-09 20:00:40 +02:00",
+    "name": "09 oktober 18:44, Stöld, Sundsvall",
+    "summary": "Birsta, polisen larmas till en butik",
+    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1844-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 454042,
+    "datetime": "2023-10-09 19:43:47 +02:00",
+    "name": "09 oktober 18:00, Övrigt, Malmö",
+    "summary": "Icke tillståndsgiven allmän sammankomst, Malmö.",
+    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1800-ovrigt-malmo/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 454041,
     "datetime": "2023-10-09 19:35:19 +02:00",
     "name": "09 oktober 18:36, Trafikolycka, personskada, Köping",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Åstorp",
       "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 451870,
-    "datetime": "2023-10-02 9:27:09 +02:00",
-    "name": "02 oktober 09:27, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från morgonens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0927-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 451867,
-    "datetime": "2023-10-02 9:22:45 +02:00",
-    "name": "02 oktober 09:22, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från morgonens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0922-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 451840,
-    "datetime": "2023-10-02 9:05:47 +02:00",
-    "name": "02 oktober 07:18, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Jämtland, anmäld viltolycka på Frösön.",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0718-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 451837,
-    "datetime": "2023-10-02 7:57:10 +02:00",
-    "name": "02 oktober 07:45, Trafikolycka, Umeå",
-    "summary": "Umeå, trafikolycka på Västerslätt.",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0745-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 451839,
-    "datetime": "2023-10-02 7:58:21 +02:00",
-    "name": "02 oktober 07:57, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0757-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
