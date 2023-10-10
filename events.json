@@ -1,5 +1,65 @@
 [
   {
+    "id": 457919,
+    "datetime": "2023-10-10 16:20:51 +02:00",
+    "name": "10 oktober 13:21, Stöld, Östersund",
+    "summary": "Odenslund, polisen kallas till en matbutik",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1321-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 452865,
+    "datetime": "2023-10-08 4:08:29 +02:00",
+    "name": "08 oktober 03:39, Mord/dråp, Umeå",
+    "summary": "Mord i Umeå",
+    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0339-morddrap-umea/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 457917,
+    "datetime": "2023-10-10 16:05:19 +02:00",
+    "name": "10 oktober 12:26, Bedrägeri, Skellefteå",
+    "summary": "Skellefteå busstation, passagerare har åkt buss utan giltig biljett",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1226-bedrageri-skelleftea/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 457916,
+    "datetime": "2023-10-10 16:02:50 +02:00",
+    "name": "10 oktober 12:06, Rattfylleri, Skellefteå",
+    "summary": "Anderstorp, polisen stoppar en personbil",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1206-rattfylleri-skelleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 457915,
+    "datetime": "2023-10-10 16:02:18 +02:00",
+    "name": "10 oktober 15:41, Brand, Ronneby",
+    "summary": "Sveagatan. Brand i fordon.",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1541-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
     "id": 456614,
     "datetime": "2023-10-10 9:51:17 +02:00",
     "name": "10 oktober 09:51, Olaga hot, Luleå",
@@ -129,18 +189,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 452865,
-    "datetime": "2023-10-08 4:08:29 +02:00",
-    "name": "08 oktober 03:39, Mord/dråp, Umeå",
-    "summary": "Mord i Umeå",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0339-morddrap-umea/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Leksand",
       "gps": "60.730308,14.999892"
-    }
-  },
-  {
-    "id": 452016,
-    "datetime": "2023-10-03 11:53:15 +02:00",
-    "name": "03 oktober 10:19, Misshandel, Umeå",
-    "summary": "Umeå, polis beordras till centrala stan på grund av misshandel.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1019-misshandel-umea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 452013,
-    "datetime": "2023-10-03 11:44:32 +02:00",
-    "name": "03 oktober 11:44, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från förmiddagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1144-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 449826,
-    "datetime": "2023-09-26 14:32:35 +02:00",
-    "name": "26 september 07:43, Mord/dråp, försök, Alingsås",
-    "summary": "Försök till mord",
-    "url": "/aktuellt/handelser/2023/september/26/26-september-0743-morddrap-forsok-alingsas/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
-    }
-  },
-  {
-    "id": 451845,
-    "datetime": "2023-10-02 8:41:41 +02:00",
-    "name": "02 oktober 07:38, Brand, Hjo",
-    "summary": "SOS larmas om en fastighetsbrand i Hjo.",
-    "url": "/aktuellt/handelser/2023/oktober/2/02-oktober-0738-brand-hjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Hjo",
-      "gps": "58.30707,14.287466"
     }
   }
 ]
