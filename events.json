@@ -1,5 +1,53 @@
 [
   {
+    "id": 457927,
+    "datetime": "2023-10-10 16:41:44 +02:00",
+    "name": "10 oktober 16:31, Trafikolycka, Malmö",
+    "summary": "En trafikolycka mellan en personbil och en cykel inträffar på Pildammsvägen.",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1631-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 457926,
+    "datetime": "2023-10-10 16:35:48 +02:00",
+    "name": "10 oktober 16:17, Trafikolycka, Örebro",
+    "summary": "Kollision personbil - cyklist vid korsningen Hagagatan/Stubbengatan i Örebro.",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1617-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 457915,
+    "datetime": "2023-10-10 16:02:18 +02:00",
+    "name": "10 oktober 15:41, Brand, Ronneby",
+    "summary": "Sveagatan. Brand i fordon.",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1541-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 457920,
+    "datetime": "2023-10-10 16:24:51 +02:00",
+    "name": "10 oktober 14:13, Trafikolycka, vilt, Ragunda",
+    "summary": "Stugun, en lätt lastbil har kolliderat med en älg",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1413-trafikolycka-vilt-ragunda/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Ragunda",
+      "gps": "63.061337,16.396683"
+    }
+  },
+  {
     "id": 457919,
     "datetime": "2023-10-10 16:20:51 +02:00",
     "name": "10 oktober 13:21, Stöld, Östersund",
@@ -45,18 +93,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 457915,
-    "datetime": "2023-10-10 16:02:18 +02:00",
-    "name": "10 oktober 15:41, Brand, Ronneby",
-    "summary": "Sveagatan. Brand i fordon.",
-    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1541-brand-ronneby/",
-    "type": "Brand",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 452023,
-    "datetime": "2023-10-03 12:41:18 +02:00",
-    "name": "03 oktober 12:41, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1241-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 452021,
-    "datetime": "2023-10-03 12:40:39 +02:00",
-    "name": "03 oktober 10:23, Rattfylleri, Borlänge",
-    "summary": "Polispatrull har stoppat en misstänkt påverkad bilist i Borlänge centrum.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1023-rattfylleri-borlange/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 452018,
-    "datetime": "2023-10-03 12:24:20 +02:00",
-    "name": "03 oktober 10:58, Stöld/inbrott, Leksand",
-    "summary": "Polisen utreder ett inbrott som inträffat i Insjön.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-1058-stoldinbrott-leksand/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Leksand",
-      "gps": "60.730308,14.999892"
     }
   }
 ]
