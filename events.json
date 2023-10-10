@@ -1,5 +1,77 @@
 [
   {
+    "id": 457074,
+    "datetime": "2023-10-10 12:15:51 +02:00",
+    "name": "10 oktober 10:17, Olovlig körning, Lycksele",
+    "summary": "Missstanke om olovlig körning i Lycksele.",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1017-olovlig-korning-lycksele/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 452930,
+    "datetime": "2023-10-09 5:11:42 +02:00",
+    "name": "09 oktober 05:05, Brand automatlarm, Umeå",
+    "summary": "Flera bilar i brand i parkeringslänga i obbola.",
+    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-0505-brand-automatlarm-umea/",
+    "type": "Brand automatlarm",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 457073,
+    "datetime": "2023-10-10 12:05:33 +02:00",
+    "name": "10 oktober 11:57, Trafikolycka, Alingsås",
+    "summary": "En elspark och en personbil är involverade i en olycka på Nyebrogatan.",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1157-trafikolycka-alingsas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
+    }
+  },
+  {
+    "id": 456797,
+    "datetime": "2023-10-10 10:44:52 +02:00",
+    "name": "10 oktober 10:07, Trafikolycka, Staffanstorp",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1007-trafikolycka-staffanstorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 456611,
+    "datetime": "2023-10-10 9:40:40 +02:00",
+    "name": "10 oktober 09:16, Arbetsplatsolycka, Malmö",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-0916-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 456799,
+    "datetime": "2023-10-10 10:49:16 +02:00",
+    "name": "10 oktober 10:45, Arbetsplatsolycka, Alvesta",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1045-arbetsplatsolycka-alvesta/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Alvesta",
+      "gps": "56.89921,14.556001"
+    }
+  },
+  {
     "id": 456894,
     "datetime": "2023-10-10 11:40:10 +02:00",
     "name": "10 oktober 10:36, Trafikbrott, Storfors",
@@ -48,18 +120,6 @@
     }
   },
   {
-    "id": 456799,
-    "datetime": "2023-10-10 10:49:16 +02:00",
-    "name": "10 oktober 10:45, Arbetsplatsolycka, Alvesta",
-    "summary": "Larm om misstänkt arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1045-arbetsplatsolycka-alvesta/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
-    }
-  },
-  {
     "id": 456798,
     "datetime": "2023-10-10 10:45:41 +02:00",
     "name": "10 oktober 10:06, Misshandel, Kristianstad",
@@ -69,18 +129,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 456797,
-    "datetime": "2023-10-10 10:44:52 +02:00",
-    "name": "10 oktober 10:07, Trafikolycka, Staffanstorp",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1007-trafikolycka-staffanstorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Staffanstorp",
-      "gps": "55.641065,13.212229"
     }
   },
   {
@@ -141,18 +189,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 456611,
-    "datetime": "2023-10-10 9:40:40 +02:00",
-    "name": "10 oktober 09:16, Arbetsplatsolycka, Malmö",
-    "summary": "Larm om misstänkt arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-0916-arbetsplatsolycka-malmo/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -1257,18 +1293,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 452930,
-    "datetime": "2023-10-09 5:11:42 +02:00",
-    "name": "09 oktober 05:05, Brand automatlarm, Umeå",
-    "summary": "Flera bilar i brand i parkeringslänga i obbola.",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-0505-brand-automatlarm-umea/",
-    "type": "Brand automatlarm",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 451996,
-    "datetime": "2023-10-03 8:54:20 +02:00",
-    "name": "03 oktober 05:27, Mord/dråp, försök, Haninge",
-    "summary": "Svårt skadad man hittas utomhus.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-0527-morddrap-forsok-haninge/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 451986,
-    "datetime": "2023-10-03 7:59:50 +02:00",
-    "name": "03 oktober 06:48, Brand, Trollhättan",
-    "summary": "En förbipasserande ser eldsflammor slå upp från en båt i centrala Trollhättan och larmar polis.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-0648-brand-trollhattan/",
-    "type": "Brand",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
     }
   }
 ]
