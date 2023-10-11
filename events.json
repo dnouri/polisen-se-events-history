@@ -1,5 +1,65 @@
 [
   {
+    "id": 461753,
+    "datetime": "2023-10-11 18:25:50 +02:00",
+    "name": "11 oktober 18:16, Trafikolycka, Västerås",
+    "summary": "En cyklist och en bilist är involverade i en olycka på Stockholmsvägen/Tortunavägen.",
+    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-1816-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 461769,
+    "datetime": "2023-10-11 21:10:57 +02:00",
+    "name": "11 oktober 20:13, Trafikolycka, vilt, Munkfors",
+    "summary": "Bil kolliderat med en älg på RV62 söder om Munkfors",
+    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-2013-trafikolycka-vilt-munkfors/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Munkfors",
+      "gps": "59.835348,13.534415"
+    }
+  },
+  {
+    "id": 461762,
+    "datetime": "2023-10-11 19:57:42 +02:00",
+    "name": "11 oktober 19:13, Trafikolycka, vilt, Strömstad",
+    "summary": "Vi får samtal om att en död älg ligger på E6, i norrgående riktning och i höjd med Hogdalsmotet.",
+    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-1913-trafikolycka-vilt-stromstad/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 461768,
+    "datetime": "2023-10-11 21:02:06 +02:00",
+    "name": "11 oktober 21:01, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-2101-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 461767,
+    "datetime": "2023-10-11 20:47:35 +02:00",
+    "name": "11 oktober 20:08, Skadegörelse, Sundsvall",
+    "summary": "Skadegörelse på fastighet i Sundsvall.",
+    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-2008-skadegorelse-sundsvall/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 461766,
     "datetime": "2023-10-11 20:26:22 +02:00",
     "name": "11 oktober 17:51, Åldringsbrott, Göteborg",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 461762,
-    "datetime": "2023-10-11 19:57:42 +02:00",
-    "name": "11 oktober 19:13, Trafikolycka, vilt, Strömstad",
-    "summary": "Vi får samtal om att en död älg ligger på E6, i norrgående riktning och i höjd med Hogdalsmotet.",
-    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-1913-trafikolycka-vilt-stromstad/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Strömstad",
-      "gps": "58.938346,11.179187"
     }
   },
   {
@@ -117,18 +165,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 461753,
-    "datetime": "2023-10-11 18:25:50 +02:00",
-    "name": "11 oktober 18:16, Trafikolycka, Västerås",
-    "summary": "En cyklist och en bilist är involverade i en olycka på Stockholmsvägen/Tortunavägen.",
-    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-1816-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Munkedal",
       "gps": "58.471505,11.680192"
-    }
-  },
-  {
-    "id": 452264,
-    "datetime": "2023-10-04 14:14:58 +02:00",
-    "name": "04 oktober 12:16, Trafikolycka, Sundsvall",
-    "summary": "Trafikolycka på E4 Bydalen, Sundsvall.",
-    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1216-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 452136,
-    "datetime": "2023-10-04 10:44:49 +02:00",
-    "name": "04 oktober 10:44, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1044-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 452262,
-    "datetime": "2023-10-04 13:50:44 +02:00",
-    "name": "04 oktober 13:40, Våld/hot mot tjänsteman, Norrköping",
-    "summary": "En man i 40-årsåldern har gripits för grovt våld mot tjänsteman.",
-    "url": "/aktuellt/handelser/2023/oktober/4/04-oktober-1340-valdhot-mot-tjansteman-norrkoping/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   }
 ]
