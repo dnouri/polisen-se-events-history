@@ -1,5 +1,41 @@
 [
   {
+    "id": 461220,
+    "datetime": "2023-10-11 11:01:44 +02:00",
+    "name": "11 oktober 10:37, Trafikolycka, Älvsbyn",
+    "summary": "Trafikolycka öster om Älvsbyn.",
+    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-1037-trafikolycka-alvsbyn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Älvsbyn",
+      "gps": "65.677136,20.992866"
+    }
+  },
+  {
+    "id": 461219,
+    "datetime": "2023-10-11 10:48:45 +02:00",
+    "name": "11 oktober 06:36, Brand, Haninge",
+    "summary": "Misstänkt mordbrand i Jordbro.",
+    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-0636-brand-haninge/",
+    "type": "Brand",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 460948,
+    "datetime": "2023-10-11 9:23:07 +02:00",
+    "name": "11 oktober 09:05, Trafikolycka, Örnsköldsvik",
+    "summary": "Singelolycka på E4 norr om Norrtjärn.",
+    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-0905-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 461129,
     "datetime": "2023-10-11 10:42:14 +02:00",
     "name": "11 oktober 10:42, Trafikkontroll, Västerbottens län",
@@ -21,18 +57,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 460948,
-    "datetime": "2023-10-11 9:23:07 +02:00",
-    "name": "11 oktober 09:05, Trafikolycka, Örnsköldsvik",
-    "summary": "Singelolycka på E4 norr om Norrtjärn.",
-    "url": "/aktuellt/handelser/2023/oktober/11/11-oktober-0905-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 452090,
-    "datetime": "2023-10-03 21:51:00 +02:00",
-    "name": "03 oktober 21:50, Övrigt, Östergötlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-2150-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 452089,
-    "datetime": "2023-10-03 21:50:45 +02:00",
-    "name": "03 oktober 21:50, Övrigt, Södermanlands län",
-    "summary": "Information om polisens pressnummer.",
-    "url": "/aktuellt/handelser/2023/oktober/3/03-oktober-2150-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
