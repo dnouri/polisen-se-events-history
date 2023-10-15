@@ -1,5 +1,53 @@
 [
   {
+    "id": 462100,
+    "datetime": "2023-10-15 12:01:11 +02:00",
+    "name": "15 oktober 11:37, Trafikolycka, Nacka",
+    "summary": "Trafikolycka med flera fordon på länsväg 222 i höjd med Insjön.",
+    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-1137-trafikolycka-nacka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 462102,
+    "datetime": "2023-10-15 12:06:52 +02:00",
+    "name": "15 oktober 11:21, Trafikkontroll, Vilhelmina",
+    "summary": "Furugatan/Volgsjövägen, resultat efter nykterhetskontroll",
+    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-1121-trafikkontroll-vilhelmina/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
+    }
+  },
+  {
+    "id": 462097,
+    "datetime": "2023-10-15 11:13:07 +02:00",
+    "name": "15 oktober 07:50, Rån, Nybro",
+    "summary": "Rån i Orrefors.",
+    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-0750-ran-nybro/",
+    "type": "Rån",
+    "location": {
+      "name": "Nybro",
+      "gps": "56.7438,15.908681"
+    }
+  },
+  {
+    "id": 462101,
+    "datetime": "2023-10-15 11:53:59 +02:00",
+    "name": "15 oktober 11:43, Trafikkontroll, Älvsbyn",
+    "summary": "Västermalm, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-1143-trafikkontroll-alvsbyn/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Älvsbyn",
+      "gps": "65.677136,20.992866"
+    }
+  },
+  {
     "id": 462099,
     "datetime": "2023-10-15 11:37:19 +02:00",
     "name": "15 oktober 10:52, Trafikkontroll, Luleå",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 462097,
-    "datetime": "2023-10-15 11:13:07 +02:00",
-    "name": "15 oktober 07:50, Rån, Nybro",
-    "summary": "Rån i Orrefors.",
-    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-0750-ran-nybro/",
-    "type": "Rån",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 452874,
-    "datetime": "2023-10-08 7:03:47 +02:00",
-    "name": "08 oktober 04:06, Rattfylleri, Ängelholm",
-    "summary": "Man i 20-årsåldern misstänks för rattfylleri efter kontroll.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0406-rattfylleri-angelholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 452873,
-    "datetime": "2023-10-08 6:59:24 +02:00",
-    "name": "08 oktober 07:00, Sammanfattning natt, Hallands län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0700-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 452872,
-    "datetime": "2023-10-08 6:56:14 +02:00",
-    "name": "08 oktober 00:05, Skadegörelse, Malmö",
-    "summary": "En bil brinner på Ramels väg och polis larmas till platsen.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0005-skadegorelse-malmo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
