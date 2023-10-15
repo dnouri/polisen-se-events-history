@@ -1,14 +1,26 @@
 [
   {
-    "id": 462096,
-    "datetime": "2023-10-15 11:03:39 +02:00",
-    "name": "15 oktober 09:49, Stöld, Falun",
-    "summary": "Alkohol stulet från två tåg stående vid järvägsstationen i Falun",
-    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-0949-stold-falun/",
-    "type": "Stöld",
+    "id": 462105,
+    "datetime": "2023-10-15 13:43:59 +02:00",
+    "name": "15 oktober 09:59, Djur, Göteborg",
+    "summary": "Killingholmen, anträffad död val",
+    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-0959-djur-goteborg/",
+    "type": "Djur",
     "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 462104,
+    "datetime": "2023-10-15 13:37:47 +02:00",
+    "name": "15 oktober 13:19, Brand, Värmdö",
+    "summary": "Brand i radhus i Hemmesta släckt.",
+    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-1319-brand-varmdo/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 462096,
+    "datetime": "2023-10-15 11:03:39 +02:00",
+    "name": "15 oktober 09:49, Stöld, Falun",
+    "summary": "Alkohol stulet från två tåg stående vid järvägsstationen i Falun",
+    "url": "/aktuellt/handelser/2023/oktober/15/15-oktober-0949-stold-falun/",
+    "type": "Stöld",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Arboga",
       "gps": "59.393688,15.838175"
-    }
-  },
-  {
-    "id": 452870,
-    "datetime": "2023-10-08 7:25:13 +02:00",
-    "name": "08 oktober 07:25, Sammanfattning natt, Örebro län",
-    "summary": "Natt till söndag polisområde Örebro",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0725-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 452875,
-    "datetime": "2023-10-08 7:10:33 +02:00",
-    "name": "08 oktober 07:10, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0710-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
