@@ -1,5 +1,53 @@
 [
   {
+    "id": 462137,
+    "datetime": "2023-10-16 7:42:19 +02:00",
+    "name": "16 oktober 05:21, Brand, Sandviken",
+    "summary": "Brand i en villa.",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-0521-brand-sandviken/",
+    "type": "Brand",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 462147,
+    "datetime": "2023-10-16 8:57:19 +02:00",
+    "name": "16 oktober 06:33, Trafikolycka, Luleå",
+    "summary": "Örarna, en lastbil har vält",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-0633-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 462146,
+    "datetime": "2023-10-16 8:55:04 +02:00",
+    "name": "16 oktober 08:37, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka, E6:an Tygelsjö",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-0837-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 462145,
+    "datetime": "2023-10-16 8:48:27 +02:00",
+    "name": "16 oktober 07:39, Trafikolycka, personskada, Stockholm",
+    "summary": "Trafikolycka mellan personbil och lastbil på E18 i höjd trafikplats Kista.",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-0739-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 462133,
     "datetime": "2023-10-16 8:04:41 +02:00",
     "name": "16 oktober 08:02, Sammanfattning natt, Södermanlands län",
@@ -93,18 +141,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 462137,
-    "datetime": "2023-10-16 7:42:19 +02:00",
-    "name": "16 oktober 05:21, Brand, Sandviken",
-    "summary": "Brand i en villa.",
-    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-0521-brand-sandviken/",
-    "type": "Brand",
-    "location": {
-      "name": "Sandviken",
-      "gps": "60.621607,16.775918"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 452909,
-    "datetime": "2023-10-08 14:52:24 +02:00",
-    "name": "08 oktober 14:52, Övrigt, Östergötlands län",
-    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1452-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 452908,
-    "datetime": "2023-10-08 14:52:04 +02:00",
-    "name": "08 oktober 14:51, Övrigt, Södermanlands län",
-    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1451-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 452907,
-    "datetime": "2023-10-08 14:36:51 +02:00",
-    "name": "08 oktober 13:33, Trafikolycka, personskada, Haninge",
-    "summary": "En trafikolycka med personbil och MC inträffade i Västerhaninge.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-1333-trafikolycka-personskada-haninge/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   }
 ]
