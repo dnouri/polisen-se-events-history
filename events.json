@@ -1,5 +1,17 @@
 [
   {
+    "id": 462213,
+    "datetime": "2023-10-16 20:24:59 +02:00",
+    "name": "16 oktober 18:44, Brand, Enköping",
+    "summary": "Brand i bostad",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-1844-brand-enkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
     "id": 462205,
     "datetime": "2023-10-16 19:15:59 +02:00",
     "name": "16 oktober 17:13, Rån, försök, Vänersborg",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Vänersborg",
       "gps": "58.379728,12.324803"
+    }
+  },
+  {
+    "id": 462212,
+    "datetime": "2023-10-16 19:55:03 +02:00",
+    "name": "16 oktober 14:29, Rattfylleri, Skellefteå",
+    "summary": "Misstänkt rattfylleri, Sörböle.",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-1429-rattfylleri-skelleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 462211,
+    "datetime": "2023-10-16 19:50:27 +02:00",
+    "name": "16 oktober 19:07, Trafikbrott, Boden",
+    "summary": "Bilförare på länsväg 616, Unbyn, får ordningsbot och sitt körkort omhändertaget.",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-1907-trafikbrott-boden/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Krokom",
       "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 452984,
-    "datetime": "2023-10-09 13:26:43 +02:00",
-    "name": "09 oktober 13:21, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1321-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 452983,
-    "datetime": "2023-10-09 13:21:04 +02:00",
-    "name": "09 oktober 13:00, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1300-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 452980,
-    "datetime": "2023-10-09 12:58:01 +02:00",
-    "name": "09 oktober 11:06, Stöld, Umeå",
-    "summary": "Mariehem, man stoppad efter ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1106-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
