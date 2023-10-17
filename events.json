@@ -1,5 +1,41 @@
 [
   {
+    "id": 462494,
+    "datetime": "2023-10-17 20:34:27 +02:00",
+    "name": "17 oktober 19:32, Brand, Leksand",
+    "summary": "Polisen biträder räddningstjänsten vid en brand i en sommarstuga vid Ål-Kilen i Leksands kommun.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-1932-brand-leksand/",
+    "type": "Brand",
+    "location": {
+      "name": "Leksand",
+      "gps": "60.730308,14.999892"
+    }
+  },
+  {
+    "id": 462492,
+    "datetime": "2023-10-17 19:44:34 +02:00",
+    "name": "17 oktober 19:35, Rån, Lund",
+    "summary": "Rån mot livsmedelsbutik, Möllevången.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-1935-ran-lund/",
+    "type": "Rån",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 462365,
+    "datetime": "2023-10-17 14:12:23 +02:00",
+    "name": "17 oktober 13:57, Olaga frihetsberövande/människorov, Jönköping",
+    "summary": "Olaga frihetsberövande, Huskvarna.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-1357-olaga-frihetsberovandemanniskorov-jonkoping/",
+    "type": "Olaga frihetsberövande/människorov",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
     "id": 462493,
     "datetime": "2023-10-17 20:23:01 +02:00",
     "name": "17 oktober 20:22, Trafikolycka, vilt, Gällivare",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 462492,
-    "datetime": "2023-10-17 19:44:34 +02:00",
-    "name": "17 oktober 19:35, Rån, Lund",
-    "summary": "Rån mot livsmedelsbutik, Möllevången.",
-    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-1935-ran-lund/",
-    "type": "Rån",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -357,18 +381,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 462365,
-    "datetime": "2023-10-17 14:12:23 +02:00",
-    "name": "17 oktober 13:57, Olaga frihetsberövande/människorov, Jönköping",
-    "summary": "Olaga frihetsberövande, Huskvarna.",
-    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-1357-olaga-frihetsberovandemanniskorov-jonkoping/",
-    "type": "Olaga frihetsberövande/människorov",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Höör",
       "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 457255,
-    "datetime": "2023-10-10 13:00:56 +02:00",
-    "name": "10 oktober 12:36, Rån, Haninge",
-    "summary": "Polis kallas till en kvartersbutik i Vendelsö med anledning av rån.",
-    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-1236-ran-haninge/",
-    "type": "Rån",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   }
 ]
