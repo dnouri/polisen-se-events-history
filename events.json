@@ -1,5 +1,125 @@
 [
   {
+    "id": 462247,
+    "datetime": "2023-10-17 8:20:52 +02:00",
+    "name": "17 oktober 07:09, Brand, Västerås",
+    "summary": "Brand i lägenhet.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0709-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 462238,
+    "datetime": "2023-10-17 8:12:10 +02:00",
+    "name": "16 oktober 23:40, Brand, Nacka",
+    "summary": "Två anlagda bränder i ett garage.",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-2340-brand-nacka/",
+    "type": "Brand",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 462240,
+    "datetime": "2023-10-17 8:12:05 +02:00",
+    "name": "17 oktober 03:50, Stöld/inbrott, Värmdö",
+    "summary": "Inbrott på byggarbetsplats.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0350-stoldinbrott-varmdo/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 462242,
+    "datetime": "2023-10-17 8:12:01 +02:00",
+    "name": "16 oktober 22:03, Bedrägeri, Stockholm",
+    "summary": "Åldringsbrott genom bedrägeri.",
+    "url": "/aktuellt/handelser/2023/oktober/16/16-oktober-2203-bedrageri-stockholm/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 462243,
+    "datetime": "2023-10-17 8:11:51 +02:00",
+    "name": "17 oktober 01:18, Stöld/inbrott, Huddinge",
+    "summary": "Någon försöker ta sig in i en lägenhet i Vårby.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0118-stoldinbrott-huddinge/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 462244,
+    "datetime": "2023-10-17 8:11:46 +02:00",
+    "name": "17 oktober 02:21, Sjukdom/olycksfall, Stockholm",
+    "summary": "Konstiga ljud från lägenhet.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0221-sjukdomolycksfall-stockholm/",
+    "type": "Sjukdom/olycksfall",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 462230,
+    "datetime": "2023-10-17 8:02:45 +02:00",
+    "name": "17 oktober 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer ett par notiser från från en annars lugn natt.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 462231,
+    "datetime": "2023-10-17 8:02:41 +02:00",
+    "name": "17 oktober 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "En lugn natt i Östergötland utan varken större händelser eller ärenden som sticker ut.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 462233,
+    "datetime": "2023-10-17 8:02:36 +02:00",
+    "name": "17 oktober 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "En lugn natt i Södermanland efter kl. 22.00. Inga större händelser eller ärenden som väcker intresse.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 462241,
+    "datetime": "2023-10-17 7:56:40 +02:00",
+    "name": "17 oktober 02:22, Rattfylleri, Kumla",
+    "summary": "Grovt rattfylleri väster om Kumla natten mot tisdag.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0222-rattfylleri-kumla/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
     "id": 462237,
     "datetime": "2023-10-17 7:37:58 +02:00",
     "name": "17 oktober 07:37, Sammanfattning natt, Norrbottens län",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 454047,
-    "datetime": "2023-10-09 21:04:54 +02:00",
-    "name": "09 oktober 19:55, Misshandel, Uppsala",
-    "summary": "I en lägenhet i Kåbo har en man i 40-årsåldern blivit misshandlad.",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1955-misshandel-uppsala/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 453040,
-    "datetime": "2023-10-09 20:36:02 +02:00",
-    "name": "09 oktober 17:56, Bedrägeri, Göteborg",
-    "summary": "Kvinna i Kungsladugård utsatt för bedrägeri/grov stöld. (Åldringsbrott)",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1756-bedrageri-goteborg/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 454046,
-    "datetime": "2023-10-09 20:22:03 +02:00",
-    "name": "09 oktober 19:37, Trafikolycka, Umeå",
-    "summary": "Brogatan/Storgatan, Väst på stan. En personbil och en cyklist har kolliderat",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1937-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 454045,
-    "datetime": "2023-10-09 20:19:14 +02:00",
-    "name": "09 oktober 20:00, Stöld, Skellefteå",
-    "summary": "Under kvällen har polisen larmats till två butiker med anledning av stöld",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-2000-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 454043,
-    "datetime": "2023-10-09 20:00:40 +02:00",
-    "name": "09 oktober 18:44, Stöld, Sundsvall",
-    "summary": "Birsta, polisen larmas till en butik",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1844-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 454042,
-    "datetime": "2023-10-09 19:43:47 +02:00",
-    "name": "09 oktober 18:00, Övrigt, Malmö",
-    "summary": "Icke tillståndsgiven allmän sammankomst, Malmö.",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1800-ovrigt-malmo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 454041,
-    "datetime": "2023-10-09 19:35:19 +02:00",
-    "name": "09 oktober 18:36, Trafikolycka, personskada, Köping",
-    "summary": "I korsningen mellan länsväg 576 och länsväg 582 i Gillsta har en personbil och en A-traktor varit inblandade i",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1836-trafikolycka-personskada-koping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 454040,
-    "datetime": "2023-10-09 19:08:50 +02:00",
-    "name": "09 oktober 18:15, Stöld, Gällivare",
-    "summary": "Polisen kallas till en matbutik",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1815-stold-gallivare/",
-    "type": "Stöld",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 452866,
-    "datetime": "2023-10-08 5:16:37 +02:00",
-    "name": "08 oktober 04:45, Försvunnen person, Härnösand",
-    "summary": "Polisen önskar hjälp med iakttagelser gällande en försvunnen person.",
-    "url": "/aktuellt/handelser/2023/oktober/8/08-oktober-0445-forsvunnen-person-harnosand/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 453038,
-    "datetime": "2023-10-09 18:04:11 +02:00",
-    "name": "09 oktober 17:53, Rån väpnat, Göteborg",
-    "summary": "Rån vid Sandarna, enligt SOS.",
-    "url": "/aktuellt/handelser/2023/oktober/9/09-oktober-1753-ran-vapnat-goteborg/",
-    "type": "Rån väpnat",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
