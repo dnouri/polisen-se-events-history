@@ -1,14 +1,38 @@
 [
   {
-    "id": 462255,
-    "datetime": "2023-10-17 9:34:16 +02:00",
-    "name": "17 oktober 09:21, Trafikolycka, Kristianstad",
-    "summary": "Lastbil som vält på Lv1644, Köpinge.",
-    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0921-trafikolycka-kristianstad/",
+    "id": 462262,
+    "datetime": "2023-10-17 10:22:52 +02:00",
+    "name": "17 oktober 07:18, Trafikkontroll, Norrbottens län",
+    "summary": "Ett urval av polisens arbete i trafiken under morgonen",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0718-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 462260,
+    "datetime": "2023-10-17 10:10:14 +02:00",
+    "name": "17 oktober 09:54, Trafikolycka, Säffle",
+    "summary": "En lastbil har körts i diket utefter E18 öster om kommungränsen till Årjäng",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0954-trafikolycka-saffle/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 462254,
+    "datetime": "2023-10-17 9:28:34 +02:00",
+    "name": "17 oktober 09:06, Trafikolycka, Kalix",
+    "summary": "Centrala Kalix, tre personbilar har kolliderat",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0906-trafikolycka-kalix/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
     }
   },
   {
@@ -24,15 +48,15 @@
     }
   },
   {
-    "id": 462254,
-    "datetime": "2023-10-17 9:28:34 +02:00",
-    "name": "17 oktober 09:06, Trafikolycka, Kalix",
-    "summary": "Centrala Kalix, tre personbilar har kolliderat",
-    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0906-trafikolycka-kalix/",
+    "id": 462255,
+    "datetime": "2023-10-17 9:34:16 +02:00",
+    "name": "17 oktober 09:21, Trafikolycka, Kristianstad",
+    "summary": "Lastbil som vält på Lv1644, Köpinge.",
+    "url": "/aktuellt/handelser/2023/oktober/17/17-oktober-0921-trafikolycka-kristianstad/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kalix",
       "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 455431,
-    "datetime": "2023-10-10 4:25:39 +02:00",
-    "name": "10 oktober 03:41, Brand, Stockholm",
-    "summary": "Misstänkt anlagd brand i lägenhet i Råcksta.",
-    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-0341-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 455343,
-    "datetime": "2023-10-10 3:49:03 +02:00",
-    "name": "10 oktober 02:52, Brand, Haninge",
-    "summary": "Brand utanför port till flerbostadshus i Jordbro.",
-    "url": "/aktuellt/handelser/2023/oktober/10/10-oktober-0252-brand-haninge/",
-    "type": "Brand",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   }
 ]
