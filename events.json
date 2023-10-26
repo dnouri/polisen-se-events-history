@@ -1,5 +1,17 @@
 [
   {
+    "id": 465153,
+    "datetime": "2023-10-26 22:17:57 +02:00",
+    "name": "26 oktober 21:56, Detonation, Nacka",
+    "summary": "Detonation vid hus.",
+    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-2156-detonation-nacka/",
+    "type": "Detonation",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
     "id": 465146,
     "datetime": "2023-10-26 21:40:24 +02:00",
     "name": "26 oktober 21:18, Misshandel, Ystad",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Ystad",
       "gps": "55.429505,13.820031"
+    }
+  },
+  {
+    "id": 465148,
+    "datetime": "2023-10-26 21:58:41 +02:00",
+    "name": "26 oktober 20:11, Sedlighetsbrott, Uppsala",
+    "summary": "Polisen får samtal om att en person onanerar utanför ett hus i Polacksbacken.",
+    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-2011-sedlighetsbrott-uppsala/",
+    "type": "Sedlighetsbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 465147,
+    "datetime": "2023-10-26 21:57:17 +02:00",
+    "name": "26 oktober 21:48, Olaga hot, Linköping",
+    "summary": "Person hotad med vasst tillhygge, Lambohov, Linköping.",
+    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-2148-olaga-hot-linkoping/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Gällivare",
       "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 462747,
-    "datetime": "2023-10-19 15:45:40 +02:00",
-    "name": "19 oktober 14:11, Fylleri/LOB, Sundsvall",
-    "summary": "Sundsvall, person omhändertagen.",
-    "url": "/aktuellt/handelser/2023/oktober/19/19-oktober-1411-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 462745,
-    "datetime": "2023-10-19 15:44:12 +02:00",
-    "name": "19 oktober 12:38, Rattfylleri, Skellefteå",
-    "summary": "Skellefteå, misstänkt rattfylleri.",
-    "url": "/aktuellt/handelser/2023/oktober/19/19-oktober-1238-rattfylleri-skelleftea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 462709,
-    "datetime": "2023-10-19 13:48:12 +02:00",
-    "name": "19 oktober 12:44, Trafikolycka, singel, Umeå",
-    "summary": "E12 Norra länken I20, en bilist har kört ner i ett dike i södergående riktning",
-    "url": "/aktuellt/handelser/2023/oktober/19/19-oktober-1244-trafikolycka-singel-umea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
