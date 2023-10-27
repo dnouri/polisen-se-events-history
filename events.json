@@ -1,5 +1,65 @@
 [
   {
+    "id": 465262,
+    "datetime": "2023-10-27 16:00:21 +02:00",
+    "name": "27 oktober 15:54, Trafikolycka, Staffanstorp",
+    "summary": "Två personbilar i olycka, LV108/LV826.",
+    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1554-trafikolycka-staffanstorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 465266,
+    "datetime": "2023-10-27 16:21:24 +02:00",
+    "name": "27 oktober 15:26, Trafikolycka, singel, Örebro",
+    "summary": "En personbil har kolliderat med en stolpe utefter E18 i höjd med Vintrosa.",
+    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1526-trafikolycka-singel-orebro/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 465265,
+    "datetime": "2023-10-27 16:21:21 +02:00",
+    "name": "27 oktober 16:17, Trafikolycka, Staffanstorp",
+    "summary": "Två personbilar i olycka, Staffanstorp.",
+    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1617-trafikolycka-staffanstorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 465260,
+    "datetime": "2023-10-27 15:44:45 +02:00",
+    "name": "27 oktober 15:38, Trafikolycka, Nässjö",
+    "summary": "Dubbla olyckor på samma vägsträcka",
+    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1538-trafikolycka-nassjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 465261,
+    "datetime": "2023-10-27 15:55:21 +02:00",
+    "name": "27 oktober 15:51, Trafikolycka, personskada, Motala",
+    "summary": "En person skadad efter olycka med elsparkcykel",
+    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1551-trafikolycka-personskada-motala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
+    }
+  },
+  {
     "id": 465258,
     "datetime": "2023-10-27 15:33:26 +02:00",
     "name": "27 oktober 14:50, Rattfylleri, Härjedalen",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Båstad",
       "gps": "56.427389,12.847722"
-    }
-  },
-  {
-    "id": 462840,
-    "datetime": "2023-10-19 22:31:05 +02:00",
-    "name": "19 oktober 21:51, Trafikolycka, Höör",
-    "summary": "En singelolycka med en personbil inträffar på väg 1316.",
-    "url": "/aktuellt/handelser/2023/oktober/19/19-oktober-2151-trafikolycka-hoor/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Höör",
-      "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 462837,
-    "datetime": "2023-10-19 21:59:48 +02:00",
-    "name": "19 oktober 21:59, Övrigt, Västra Götalands län",
-    "summary": "Presstelefonen stängs för natten.",
-    "url": "/aktuellt/handelser/2023/oktober/19/19-oktober-2159-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 462835,
-    "datetime": "2023-10-19 21:59:33 +02:00",
-    "name": "19 oktober 21:59, Övrigt, Hallands län",
-    "summary": "Presstelefonen stänger för natten.",
-    "url": "/aktuellt/handelser/2023/oktober/19/19-oktober-2159-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 462839,
-    "datetime": "2023-10-19 21:59:18 +02:00",
-    "name": "19 oktober 16:54, Trafikolycka, personskada, Göteborg",
-    "summary": "Trafikolycka mellan cyklist och elsparkcykel",
-    "url": "/aktuellt/handelser/2023/oktober/19/19-oktober-1654-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 462838,
-    "datetime": "2023-10-19 21:57:26 +02:00",
-    "name": "19 oktober 18:43, Stöld, Luleå",
-    "summary": "Luleå, misstänkt stöld i butik.",
-    "url": "/aktuellt/handelser/2023/oktober/19/19-oktober-1843-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
