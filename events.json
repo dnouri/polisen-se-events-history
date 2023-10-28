@@ -1,5 +1,65 @@
 [
   {
+    "id": 465319,
+    "datetime": "2023-10-28 10:33:21 +02:00",
+    "name": "28 oktober 10:05, Trafikolycka, Västervik",
+    "summary": "Bil som voltat",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1005-trafikolycka-vastervik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 465328,
+    "datetime": "2023-10-28 12:42:59 +02:00",
+    "name": "28 oktober 12:07, Brand, Helsingborg",
+    "summary": "Brand i flerfamiljshus",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1207-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 465331,
+    "datetime": "2023-10-28 13:37:35 +02:00",
+    "name": "28 oktober 10:25, Rattfylleri, Falun",
+    "summary": "En man i 50-årsåldern stoppas och blir misstänkt för rattfylleri.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1025-rattfylleri-falun/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 465330,
+    "datetime": "2023-10-28 13:32:58 +02:00",
+    "name": "28 oktober 13:30, Rattfylleri, Strängnäs",
+    "summary": "Tips om rattfylleri",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1330-rattfylleri-strangnas/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 465326,
+    "datetime": "2023-10-28 12:14:06 +02:00",
+    "name": "28 oktober 11:35, Trafikolycka, Sundsvall",
+    "summary": "Larm om trafikolycka på E4, norr om Sundsvallsbron.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1135-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 465322,
     "datetime": "2023-10-28 12:03:10 +02:00",
     "name": "28 oktober 12:03, Trafikkontroll, Norrbottens län",
@@ -21,30 +81,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 465328,
-    "datetime": "2023-10-28 12:42:59 +02:00",
-    "name": "28 oktober 12:07, Brand, Helsingborg",
-    "summary": "Brand i flerfamiljshus",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1207-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 465326,
-    "datetime": "2023-10-28 12:14:06 +02:00",
-    "name": "28 oktober 11:35, Trafikolycka, Sundsvall",
-    "summary": "Larm om trafikolycka på E4, norr om Sundsvallsbron.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1135-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -153,18 +189,6 @@
     "location": {
       "name": "Lycksele",
       "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 465319,
-    "datetime": "2023-10-28 10:33:21 +02:00",
-    "name": "28 oktober 10:05, Trafikolycka, Västervik",
-    "summary": "Bil som voltat",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1005-trafikolycka-vastervik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 463107,
-    "datetime": "2023-10-20 18:27:50 +02:00",
-    "name": "20 oktober 18:16, Trafikolycka, Malmö",
-    "summary": "En trafikolycka sker mellan två personbilar Industrigatan/Östra farmvägen.",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1816-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 463065,
-    "datetime": "2023-10-20 13:46:27 +02:00",
-    "name": "20 oktober 13:11, Trafikolycka, Timrå",
-    "summary": "Polispatrull beordras till Stavreviken med anledning av en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1311-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
     }
   }
 ]
