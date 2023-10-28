@@ -1,5 +1,101 @@
 [
   {
+    "id": 465324,
+    "datetime": "2023-10-28 12:18:34 +02:00",
+    "name": "28 oktober 11:40, Trafikkontroll, Lycksele",
+    "summary": "Resultat efter nykterhetskontroll på Timmervägen, Södermalm.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1140-trafikkontroll-lycksele/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 465325,
+    "datetime": "2023-10-28 12:18:24 +02:00",
+    "name": "28 oktober 10:57, Trafikkontroll, Kramfors",
+    "summary": "Resultat efter trafikkontroll på Storgatan, Nyland.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1057-trafikkontroll-kramfors/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 465327,
+    "datetime": "2023-10-28 12:18:06 +02:00",
+    "name": "28 oktober 11:07, Arbetsplatsolycka, Malmö",
+    "summary": "Man skadad i armen",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1107-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 465326,
+    "datetime": "2023-10-28 12:14:06 +02:00",
+    "name": "28 oktober 11:35, Trafikolycka, Sundsvall",
+    "summary": "Larm om trafikolycka på E4, norr om Sundsvallsbron.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1135-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 465323,
+    "datetime": "2023-10-28 12:07:47 +02:00",
+    "name": "28 oktober 11:27, Trafikolycka, vilt, Bjurholm",
+    "summary": "Polisen får in en anmälan om en viltolycka vid Agnäsbacken.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1127-trafikolycka-vilt-bjurholm/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Bjurholm",
+      "gps": "63.930406,19.219213"
+    }
+  },
+  {
+    "id": 465322,
+    "datetime": "2023-10-28 12:03:10 +02:00",
+    "name": "28 oktober 12:03, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1203-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 465315,
+    "datetime": "2023-10-28 9:57:54 +02:00",
+    "name": "28 oktober 09:48, Trafikolycka, personskada, Stockholm",
+    "summary": "En lastbil och en personbil har kolliderat på Klarastrandsleden. Det finns uppgifter om personskador.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0948-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 465278,
+    "datetime": "2023-10-27 19:11:11 +02:00",
+    "name": "27 oktober 13:41, Mord/dråp, försök, Upplands väsby",
+    "summary": "Skjutning har skett i Antuna.",
+    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1341-morddrap-forsok-upplands-vasby/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
     "id": 465321,
     "datetime": "2023-10-28 11:24:07 +02:00",
     "name": "28 oktober 10:47, Trafikolycka, Luleå",
@@ -69,18 +165,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 465315,
-    "datetime": "2023-10-28 9:57:54 +02:00",
-    "name": "28 oktober 09:48, Trafikolycka, personskada, Stockholm",
-    "summary": "En lastbil och en personbil har kolliderat på Klarastrandsleden. Det finns uppgifter om personskador.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0948-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -429,18 +513,6 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 465278,
-    "datetime": "2023-10-27 19:11:11 +02:00",
-    "name": "27 oktober 13:41, Mord/dråp, försök, Upplands väsby",
-    "summary": "Skjutning har skett i Antuna.",
-    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1341-morddrap-forsok-upplands-vasby/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Upplands väsby",
-      "gps": "59.51961,17.92834"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 463101,
-    "datetime": "2023-10-20 17:32:14 +02:00",
-    "name": "20 oktober 15:22, Trafikolycka, Olofström",
-    "summary": "Två personbilar kolliderar på Halenvägen och polis skickas till platsen för kontroll.",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1522-trafikolycka-olofstrom/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Olofström",
-      "gps": "56.277708,14.530938"
-    }
-  },
-  {
-    "id": 463100,
-    "datetime": "2023-10-20 17:21:54 +02:00",
-    "name": "20 oktober 17:00, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete i trafiken under dagen",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1700-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 463099,
-    "datetime": "2023-10-20 16:32:35 +02:00",
-    "name": "20 oktober 14:17, Trafikbrott, Sundsvall",
-    "summary": "Birsta, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1417-trafikbrott-sundsvall/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 463096,
-    "datetime": "2023-10-20 16:06:06 +02:00",
-    "name": "20 oktober 14:51, Brand, Umeå",
-    "summary": "Ålidbacken, brandlarm från ett flerfamiljshus",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1451-brand-umea/",
-    "type": "Brand",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 463078,
-    "datetime": "2023-10-20 15:02:02 +02:00",
-    "name": "20 oktober 14:40, Trafikolycka, personskada, Linköping",
-    "summary": "Singelolycka med personbil - en skadad",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1440-trafikolycka-personskada-linkoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 463064,
-    "datetime": "2023-10-20 13:10:19 +02:00",
-    "name": "20 oktober 12:49, Bråk, Karlskrona",
-    "summary": "Bråk på buss",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1249-brak-karlskrona/",
-    "type": "Bråk",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   }
 ]
