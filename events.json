@@ -1,5 +1,113 @@
 [
   {
+    "id": 465363,
+    "datetime": "2023-10-29 8:16:34 +01:00",
+    "name": "29 oktober 07:22, Bråk, Hässleholm",
+    "summary": "Bråk vid järnvägsstationen",
+    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0722-brak-hassleholm/",
+    "type": "Bråk",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 465362,
+    "datetime": "2023-10-29 8:14:24 +01:00",
+    "name": "29 oktober 08:14, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
+    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0814-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 465342,
+    "datetime": "2023-10-28 18:39:59 +02:00",
+    "name": "28 oktober 17:57, Brand, Haninge",
+    "summary": "Larm kom in om en brand i ett flerbostadshus i Jordbro.",
+    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1757-brand-haninge/",
+    "type": "Brand",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 465361,
+    "datetime": "2023-10-29 8:04:17 +01:00",
+    "name": "29 oktober 08:02, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0802-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 465360,
+    "datetime": "2023-10-29 8:02:41 +01:00",
+    "name": "29 oktober 08:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0800-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 465355,
+    "datetime": "2023-10-29 8:01:55 +01:00",
+    "name": "29 oktober 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser. Inga större ärenden har kommit till polisens kännedo",
+    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 465357,
+    "datetime": "2023-10-29 8:01:43 +01:00",
+    "name": "29 oktober 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser. Inga större ärenden har kommit till polisens kännedo",
+    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 465356,
+    "datetime": "2023-10-29 8:01:24 +01:00",
+    "name": "29 oktober 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser. Många ärenden att hantera under natten.",
+    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 465359,
+    "datetime": "2023-10-29 7:57:36 +01:00",
+    "name": "29 oktober 07:57, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00:00-07-00.",
+    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0757-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 465354,
     "datetime": "2023-10-29 7:15:46 +01:00",
     "name": "29 oktober 02:33, Våldtäkt, försök, Helsingborg",
@@ -129,18 +237,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 465342,
-    "datetime": "2023-10-28 18:39:59 +02:00",
-    "name": "28 oktober 17:57, Brand, Haninge",
-    "summary": "Larm kom in om en brand i ett flerbostadshus i Jordbro.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-1757-brand-haninge/",
-    "type": "Brand",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Staffanstorp",
       "gps": "55.641065,13.212229"
-    }
-  },
-  {
-    "id": 463127,
-    "datetime": "2023-10-20 21:15:59 +02:00",
-    "name": "20 oktober 21:06, Stöld, Helsingborg",
-    "summary": "Polis larmas till en byggarbetsplats och en pågående dieselstöld.",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-2106-stold-helsingborg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 463134,
-    "datetime": "2023-10-20 22:10:03 +02:00",
-    "name": "20 oktober 19:38, Stöld/inbrott, Gotlands län",
-    "summary": "Inringaren har hittat en bil fullpackad med inringarens ägodelar.",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-1938-stoldinbrott-gotlands-lan/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 463133,
-    "datetime": "2023-10-20 21:59:45 +02:00",
-    "name": "20 oktober 21:59, Övrigt, Hallands län",
-    "summary": "Sidan uppdateras inte mer idag.",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-2159-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 463132,
-    "datetime": "2023-10-20 21:59:09 +02:00",
-    "name": "20 oktober 21:58, Övrigt, Västra Götalands län",
-    "summary": "Sidan uppdateras inte mer idag.",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-2158-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 463131,
-    "datetime": "2023-10-20 21:51:23 +02:00",
-    "name": "20 oktober 20:54, Trafikolycka, Lund",
-    "summary": "Träd faller på länsväg 952 norr om Dalby vilket resulterar i en singelolycka med en personbil.",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-2054-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 463128,
-    "datetime": "2023-10-20 21:47:31 +02:00",
-    "name": "20 oktober 21:47, Övrigt, Uppsala län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-2147-ovrigt-uppsala-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 463129,
-    "datetime": "2023-10-20 21:47:22 +02:00",
-    "name": "20 oktober 21:47, Övrigt, Gävleborgs län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-2147-ovrigt-gavleborgs-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 463130,
-    "datetime": "2023-10-20 21:47:13 +02:00",
-    "name": "20 oktober 21:47, Övrigt, Västmanlands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2023/oktober/20/20-oktober-2147-ovrigt-vastmanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
     }
   }
 ]
