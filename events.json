@@ -1,5 +1,41 @@
 [
   {
+    "id": 466497,
+    "datetime": "2023-10-30 16:20:07 +01:00",
+    "name": "30 oktober 14:16, Brand, Kalix",
+    "summary": "Larm om brand i flerfamiljushus i Kalix.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1416-brand-kalix/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 466496,
+    "datetime": "2023-10-30 16:01:08 +01:00",
+    "name": "30 oktober 14:38, Rattfylleri, Östersund",
+    "summary": "Misstänkt drograttfylleri i Östersund.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1438-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 466495,
+    "datetime": "2023-10-30 15:50:44 +01:00",
+    "name": "30 oktober 14:35, Trafikbrott, Stockholm",
+    "summary": "Bilförare försöker köra från polisen men stoppas på Folkungagatan.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1435-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 466486,
     "datetime": "2023-10-30 15:25:29 +01:00",
     "name": "30 oktober 15:20, Rattfylleri, Vaggeryd",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 463230,
-    "datetime": "2023-10-22 11:53:27 +02:00",
-    "name": "22 oktober 08:04, Trafikkontroll, Sundsvall",
-    "summary": "Landsvägsallén, Inre hamnen. Polisen har kontrollerat trafikanter",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-0804-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 463229,
-    "datetime": "2023-10-22 11:23:35 +02:00",
-    "name": "22 oktober 10:37, Trafikolycka, singel, Trollhättan",
-    "summary": "Trafikolycka med personbil vid Överby.",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-1037-trafikolycka-singel-trollhattan/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 463223,
-    "datetime": "2023-10-22 7:59:33 +02:00",
-    "name": "22 oktober 07:57, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-0757-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
