@@ -1,14 +1,38 @@
 [
   {
-    "id": 466433,
-    "datetime": "2023-10-30 9:39:23 +01:00",
-    "name": "30 oktober 09:34, Trafikolycka, Arvika",
-    "summary": "En trafikolycka mellan en lastbil och personbil har inträffat i centrala Arvika.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0934-trafikolycka-arvika/",
+    "id": 466437,
+    "datetime": "2023-10-30 10:13:03 +01:00",
+    "name": "30 oktober 07:46, Trafikkontroll, Lycksele",
+    "summary": "Ett urval av polisen arbete i trafiken under morgonen",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0746-trafikkontroll-lycksele/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 466428,
+    "datetime": "2023-10-30 9:09:03 +01:00",
+    "name": "30 oktober 08:53, Trafikolycka, Degerfors",
+    "summary": "En olycka med ett godståg och personbil har inträffat i Lervik.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0853-trafikolycka-degerfors/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
+      "name": "Degerfors",
+      "gps": "59.239103,14.433918"
+    }
+  },
+  {
+    "id": 466435,
+    "datetime": "2023-10-30 9:56:53 +01:00",
+    "name": "30 oktober 09:40, Trafikolycka, Eda",
+    "summary": "Två personbilar är involverade i en trafikolycka på riksväg 61 i Eda.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0940-trafikolycka-eda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eda",
+      "gps": "59.83754,12.314031"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Sunne",
       "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 466434,
+    "datetime": "2023-10-30 9:45:09 +01:00",
+    "name": "30 oktober 09:35, Trafikolycka, Karlshamn",
+    "summary": "Trafikolycka på Båtsmansvägen, Asarum.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0935-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 466433,
+    "datetime": "2023-10-30 9:39:23 +01:00",
+    "name": "30 oktober 09:34, Trafikolycka, Arvika",
+    "summary": "En trafikolycka mellan en lastbil och personbil har inträffat i centrala Arvika.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0934-trafikolycka-arvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
     }
   },
   {
@@ -57,18 +105,6 @@
     "location": {
       "name": "Lekeberg",
       "gps": "59.16539,14.743407"
-    }
-  },
-  {
-    "id": 466428,
-    "datetime": "2023-10-30 9:09:03 +01:00",
-    "name": "30 oktober 08:53, Trafikolycka, Degerfors",
-    "summary": "En olycka med ett godståg och personbil har inträffat i Lervik.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0853-trafikolycka-degerfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Degerfors",
-      "gps": "59.239103,14.433918"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 463207,
-    "datetime": "2023-10-22 6:54:28 +02:00",
-    "name": "22 oktober 01:47, Brand, Svedala",
-    "summary": "Försök till mordbrand, Bara",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-0147-brand-svedala/",
-    "type": "Brand",
-    "location": {
-      "name": "Svedala",
-      "gps": "55.508908,13.23711"
-    }
-  },
-  {
-    "id": 463199,
-    "datetime": "2023-10-21 21:21:54 +02:00",
-    "name": "21 oktober 17:56, Sedlighetsbrott, Nynäshamn",
-    "summary": "Sexuellt ofredande mot barn.",
-    "url": "/aktuellt/handelser/2023/oktober/21/21-oktober-1756-sedlighetsbrott-nynashamn/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 463193,
-    "datetime": "2023-10-21 19:42:05 +02:00",
-    "name": "21 oktober 16:47, Försvunnen person, Hudiksvall",
-    "summary": "Polisen söker efter en man i 75-årsåldern.",
-    "url": "/aktuellt/handelser/2023/oktober/21/21-oktober-1647-forsvunnen-person-hudiksvall/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
     }
   }
 ]
