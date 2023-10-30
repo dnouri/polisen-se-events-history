@@ -1,14 +1,26 @@
 [
   {
-    "id": 466513,
-    "datetime": "2023-10-30 18:36:09 +01:00",
-    "name": "30 oktober 18:28, Brand, Surahammar",
-    "summary": "Fullt utvecklad brand i villa.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1828-brand-surahammar/",
-    "type": "Brand",
+    "id": 466510,
+    "datetime": "2023-10-30 18:21:16 +01:00",
+    "name": "30 oktober 17:09, Trafikhinder, Skinnskatteberg",
+    "summary": "50-tal lastbilar i kö på riksväg 68.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1709-trafikhinder-skinnskatteberg/",
+    "type": "Trafikhinder",
     "location": {
-      "name": "Surahammar",
-      "gps": "59.707226,16.226841"
+      "name": "Skinnskatteberg",
+      "gps": "59.826056,15.691519"
+    }
+  },
+  {
+    "id": 466514,
+    "datetime": "2023-10-30 19:06:17 +01:00",
+    "name": "30 oktober 18:34, Trafikolycka, singel, Karlskrona",
+    "summary": "E22, Nättraby. En personbil har kört i diket.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1834-trafikolycka-singel-karlskrona/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
     }
   },
   {
@@ -24,6 +36,18 @@
     }
   },
   {
+    "id": 466513,
+    "datetime": "2023-10-30 18:36:09 +01:00",
+    "name": "30 oktober 18:28, Brand, Surahammar",
+    "summary": "Fullt utvecklad brand i villa.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1828-brand-surahammar/",
+    "type": "Brand",
+    "location": {
+      "name": "Surahammar",
+      "gps": "59.707226,16.226841"
+    }
+  },
+  {
     "id": 466511,
     "datetime": "2023-10-30 18:26:00 +01:00",
     "name": "30 oktober 14:49, Bedrägeri, Östersund",
@@ -33,18 +57,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 466510,
-    "datetime": "2023-10-30 18:21:16 +01:00",
-    "name": "30 oktober 17:09, Trafikhinder, Skinnskatteberg",
-    "summary": "50-tal lastbilar i kö på riksväg 68.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1709-trafikhinder-skinnskatteberg/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Skinnskatteberg",
-      "gps": "59.826056,15.691519"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Stenungsund",
       "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 463232,
-    "datetime": "2023-10-22 12:19:45 +02:00",
-    "name": "22 oktober 12:02, Räddningsinsats, Luleå",
-    "summary": "Likskärsvägen, Bensbyn, Luleå. Under kort tid har två personer gått genom isen",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-1202-raddningsinsats-lulea/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
