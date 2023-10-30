@@ -1,5 +1,29 @@
 [
   {
+    "id": 466446,
+    "datetime": "2023-10-30 11:08:05 +01:00",
+    "name": "30 oktober 10:52, Trafikolycka, Karlskoga",
+    "summary": "En trafikolycka har inträffat på E18 i Linnebäck i riktning mot Kristinehamn.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1052-trafikolycka-karlskoga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 466447,
+    "datetime": "2023-10-30 11:12:21 +01:00",
+    "name": "30 oktober 07:53, Stöld/inbrott, Ovanåker",
+    "summary": "Verktyg till stort värde saknas efter stöld.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0753-stoldinbrott-ovanaker/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Ovanåker",
+      "gps": "61.446923,15.738922"
+    }
+  },
+  {
     "id": 466432,
     "datetime": "2023-10-30 9:21:04 +01:00",
     "name": "30 oktober 09:09, Trafikolycka, Sunne",
@@ -9,6 +33,30 @@
     "location": {
       "name": "Sunne",
       "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 466444,
+    "datetime": "2023-10-30 10:45:52 +01:00",
+    "name": "30 oktober 08:48, Övrigt, Stockholm",
+    "summary": "En man fuskar på Trafikverkets körkortsprov.",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0848-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 466443,
+    "datetime": "2023-10-30 10:45:09 +01:00",
+    "name": "30 oktober 08:29, Trafikkontroll, Sundsvall",
+    "summary": "Landsvägsallén, polisen kontrollerar nykterhet",
+    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0829-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hallstahammar",
       "gps": "59.613204,16.229476"
-    }
-  },
-  {
-    "id": 463210,
-    "datetime": "2023-10-22 7:25:55 +02:00",
-    "name": "22 oktober 07:20, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en normal natt i länet utan större händelser. Nedan följer ett urval av händelser som vi har han",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-0720-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 463211,
-    "datetime": "2023-10-22 7:25:44 +02:00",
-    "name": "22 oktober 07:22, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en normal natt i länet utan större händelser. Nedan följer ett urval av händelser som vi har han",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-0722-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 463213,
-    "datetime": "2023-10-22 7:25:32 +02:00",
-    "name": "22 oktober 07:23, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en normal natt i länet utan större händelser. Nedan följer ett urval av händelser som vi har han",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-0723-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 463209,
-    "datetime": "2023-10-22 7:04:39 +02:00",
-    "name": "22 oktober 01:13, Misshandel, grov, Eslöv",
-    "summary": "Våld i nära relation",
-    "url": "/aktuellt/handelser/2023/oktober/22/22-oktober-0113-misshandel-grov-eslov/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
     }
   }
 ]
