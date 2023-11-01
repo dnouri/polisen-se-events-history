@@ -1,5 +1,89 @@
 [
   {
+    "id": 466912,
+    "datetime": "2023-11-01 22:06:27 +01:00",
+    "name": "01 november 21:48, Brand, Malmö",
+    "summary": "Bilbrand på Värnhemsgatan.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-2148-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 466913,
+    "datetime": "2023-11-01 22:04:15 +01:00",
+    "name": "01 november 21:57, Misshandel, grov, Norrköping",
+    "summary": "En person gripen för grov misshandel.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-2157-misshandel-grov-norrkoping/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 466906,
+    "datetime": "2023-11-01 21:16:23 +01:00",
+    "name": "01 november 20:21, Brand, Södertälje",
+    "summary": "Det brinner i ett flerbostadshus i Södertälje.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-2021-brand-sodertalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 466908,
+    "datetime": "2023-11-01 22:01:28 +01:00",
+    "name": "01 november 21:55, Övrigt, Hallands län",
+    "summary": "Presstelefonen stängs för natten.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-2155-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 466909,
+    "datetime": "2023-11-01 22:01:21 +01:00",
+    "name": "01 november 21:56, Övrigt, Västra Götalands län",
+    "summary": "Presstelefonen stängs för natten.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-2156-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 466911,
+    "datetime": "2023-11-01 21:59:06 +01:00",
+    "name": "01 november 21:36, Misshandel, Alvesta",
+    "summary": "Misshandel på Storgatan.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-2136-misshandel-alvesta/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Alvesta",
+      "gps": "56.89921,14.556001"
+    }
+  },
+  {
+    "id": 466902,
+    "datetime": "2023-11-01 21:06:49 +01:00",
+    "name": "01 november 20:46, Trafikolycka, Karlstad",
+    "summary": "Polis är på plats och biträder räddningstjänsten vid en trafikolycka på Edsgatevägen i Karlstad.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-2046-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 466907,
     "datetime": "2023-11-01 21:29:09 +01:00",
     "name": "01 november 18:06, Trafikolycka, Sundsvall",
@@ -24,18 +108,6 @@
     }
   },
   {
-    "id": 466906,
-    "datetime": "2023-11-01 21:16:23 +01:00",
-    "name": "01 november 20:21, Brand, Södertälje",
-    "summary": "Det brinner i ett flerbostadshus i Södertälje.",
-    "url": "/aktuellt/handelser/2023/november/1/01-november-2021-brand-sodertalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
     "id": 466905,
     "datetime": "2023-11-01 21:15:27 +01:00",
     "name": "01 november 15:46, Misshandel, Kramfors",
@@ -57,18 +129,6 @@
     "location": {
       "name": "Hällefors",
       "gps": "59.783688,14.522569"
-    }
-  },
-  {
-    "id": 466902,
-    "datetime": "2023-11-01 21:06:49 +01:00",
-    "name": "01 november 20:46, Trafikolycka, Karlstad",
-    "summary": "Polis är på plats och biträder räddningstjänsten vid en trafikolycka på Edsgatevägen i Karlstad.",
-    "url": "/aktuellt/handelser/2023/november/1/01-november-2046-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 464642,
-    "datetime": "2023-10-25 12:42:40 +02:00",
-    "name": "25 oktober 10:03, Häleri, Sundsvall",
-    "summary": "Man misstänks för häleri.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1003-haleri-sundsvall/",
-    "type": "Häleri",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 464641,
-    "datetime": "2023-10-25 12:39:57 +02:00",
-    "name": "25 oktober 11:37, Trafikolycka, Åsele",
-    "summary": "Trafikolycka i Abborrviken, Åsele.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1137-trafikolycka-asele/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åsele",
-      "gps": "64.160234,17.353615"
-    }
-  },
-  {
-    "id": 464636,
-    "datetime": "2023-10-25 12:29:27 +02:00",
-    "name": "25 oktober 12:04, Trafikolycka, Kalmar",
-    "summary": "En singelolycka med en personbil inträffar på E22 i södergående riktning i höjd med Ljungbyholm.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1204-trafikolycka-kalmar/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 464635,
-    "datetime": "2023-10-25 12:20:32 +02:00",
-    "name": "25 oktober 11:32, Trafikbrott, Södertälje",
-    "summary": "Fordonsförare i Södertälje rapporterades för grov olovlig körning.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1132-trafikbrott-sodertalje/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 464634,
-    "datetime": "2023-10-25 11:40:31 +02:00",
-    "name": "24 oktober 16:00, Misshandel, grov, Borås",
-    "summary": "Misstänkt grov misshandel mot spädbarn",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-1600-misshandel-grov-boras/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
