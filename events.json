@@ -1,14 +1,14 @@
 [
   {
-    "id": 466701,
-    "datetime": "2023-11-01 12:02:50 +01:00",
-    "name": "01 november 10:21, Trafikkontroll, Sundsvall",
-    "summary": "Resultat efter trafikkontroll på Tunavägen, Kvissleby.",
-    "url": "/aktuellt/handelser/2023/november/1/01-november-1021-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
+    "id": 466703,
+    "datetime": "2023-11-01 12:40:49 +01:00",
+    "name": "01 november 12:25, Trafikolycka, Vellinge",
+    "summary": "Larm om trafikolycka, Östra Halörsvägen",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1225-trafikolycka-vellinge/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
+      "name": "Vellinge",
+      "gps": "55.470893,13.01999"
     }
   },
   {
@@ -21,6 +21,42 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 466702,
+    "datetime": "2023-11-01 12:34:24 +01:00",
+    "name": "01 november 11:08, Stöld, Skellefteå",
+    "summary": "Misstänkt ringa stöld i galleria i centrala Skellefteå.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1108-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 466690,
+    "datetime": "2023-11-01 10:34:56 +01:00",
+    "name": "01 november 10:28, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka, Trafikplats Lindeborg",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1028-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 466701,
+    "datetime": "2023-11-01 12:02:50 +01:00",
+    "name": "01 november 10:21, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter trafikkontroll på Tunavägen, Kvissleby.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1021-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -105,18 +141,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 466690,
-    "datetime": "2023-11-01 10:34:56 +01:00",
-    "name": "01 november 10:28, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka, Trafikplats Lindeborg",
-    "url": "/aktuellt/handelser/2023/november/1/01-november-1028-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Lycksele",
       "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 464516,
-    "datetime": "2023-10-24 15:22:33 +02:00",
-    "name": "24 oktober 12:22, Rattfylleri, Örnsköldsvik",
-    "summary": "Misstänkt drograttfylleri i Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-1222-rattfylleri-ornskoldsvik/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 464512,
-    "datetime": "2023-10-24 15:17:31 +02:00",
-    "name": "24 oktober 14:31, Olovlig körning, Skellefteå",
-    "summary": "Misstänkt olovlig körning, Anderstorp.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-1431-olovlig-korning-skelleftea/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
