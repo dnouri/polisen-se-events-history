@@ -1,5 +1,41 @@
 [
   {
+    "id": 466692,
+    "datetime": "2023-11-01 10:36:03 +01:00",
+    "name": "01 november 09:28, Motorfordon, anträffat stulet, Umeå",
+    "summary": "Polisen kontaktas om att en skåpbil som anmälts stulen har hittats på Grisbacka.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0928-motorfordon-antraffat-stulet-umea/",
+    "type": "Motorfordon, anträffat stulet",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 466690,
+    "datetime": "2023-11-01 10:34:56 +01:00",
+    "name": "01 november 10:28, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka, Trafikplats Lindeborg",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1028-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 466671,
+    "datetime": "2023-11-01 9:10:20 +01:00",
+    "name": "01 november 08:23, Trafikolycka, Skellefteå",
+    "summary": "Larm om trafikolycka på Järnvägsleden, Ursviken.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0823-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 466687,
     "datetime": "2023-11-01 10:15:40 +01:00",
     "name": "01 november 10:00, Trafikolycka, Kungsbacka",
@@ -62,25 +98,13 @@
   {
     "id": 466674,
     "datetime": "2023-11-01 9:12:08 +01:00",
-    "name": "01 november 08:12, Trafikolycka, Vännäs",
+    "name": "01 november 08:12, Trafikolycka, vilt, Vännäs",
     "summary": "Polisen får in en anmälan om en viltolycka på länsväg 611 mellan Fällfors och Fällforsselet.",
-    "url": "/aktuellt/handelser/2023/november/1/01-november-0812-trafikolycka-vannas/",
-    "type": "Trafikolycka",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0812-trafikolycka-vilt-vannas/",
+    "type": "Trafikolycka, vilt",
     "location": {
       "name": "Vännäs",
       "gps": "63.908007,19.752965"
-    }
-  },
-  {
-    "id": 466671,
-    "datetime": "2023-11-01 9:10:20 +01:00",
-    "name": "01 november 08:23, Trafikolycka, Skellefteå",
-    "summary": "Larm om trafikolycka på Järnvägsleden, Ursviken.",
-    "url": "/aktuellt/handelser/2023/november/1/01-november-0823-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 464431,
-    "datetime": "2023-10-24 10:24:43 +02:00",
-    "name": "24 oktober 10:24, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-1024-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 464433,
-    "datetime": "2023-10-24 10:30:15 +02:00",
-    "name": "24 oktober 10:24, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-1024-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
