@@ -1,5 +1,65 @@
 [
   {
+    "id": 466697,
+    "datetime": "2023-11-01 11:10:51 +01:00",
+    "name": "01 november 10:42, Trafikolycka, Karlstad",
+    "summary": "En sidokrock har inträffat i Härtsöga",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1042-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 466711,
+    "datetime": "2023-11-01 13:29:09 +01:00",
+    "name": "01 november 13:20, Misshandel, Stockholm",
+    "summary": "En man har blivit örfilad av en annan man på Södermalm. Den misstänkte har följts efter stycke men nu vet man ",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1320-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 466710,
+    "datetime": "2023-11-01 13:26:43 +01:00",
+    "name": "01 november 12:49, Stöld, Göteborg",
+    "summary": "En gärningsperson har stulit en dator på ett hotell.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1249-stold-goteborg/",
+    "type": "Stöld",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 466656,
+    "datetime": "2023-11-01 7:49:10 +01:00",
+    "name": "01 november 07:49, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0749-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 466704,
+    "datetime": "2023-11-01 12:58:50 +01:00",
+    "name": "01 november 12:26, Övrigt, Falun",
+    "summary": "En gångbro har blivit påkörd i Falu centrum",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-1226-ovrigt-falun/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
     "id": 466703,
     "datetime": "2023-11-01 12:40:49 +01:00",
     "name": "01 november 12:25, Trafikolycka, Vellinge",
@@ -81,18 +141,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 466697,
-    "datetime": "2023-11-01 11:10:51 +01:00",
-    "name": "01 november 10:42, Trafikolycka, Karlstad",
-    "summary": "En sidokrock har inträffat i Härtsöga",
-    "url": "/aktuellt/handelser/2023/november/1/01-november-1042-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -285,18 +333,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 466656,
-    "datetime": "2023-11-01 7:49:10 +01:00",
-    "name": "01 november 07:49, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/november/1/01-november-0749-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 464519,
-    "datetime": "2023-10-24 15:41:23 +02:00",
-    "name": "24 oktober 14:15, Olovlig körning, Sundsvall",
-    "summary": "Misstänkt grov olovlig körning, Sundsbruk.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-1415-olovlig-korning-sundsvall/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 464518,
-    "datetime": "2023-10-24 15:40:49 +02:00",
-    "name": "24 oktober 15:00, Trafikbrott, Mark",
-    "summary": "Förföljande av bilist i trakterna kring Fritsla.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-1500-trafikbrott-mark/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
-    }
-  },
-  {
-    "id": 464510,
-    "datetime": "2023-10-24 15:14:56 +02:00",
-    "name": "24 oktober 14:28, Trafikolycka, Lycksele",
-    "summary": "Polispatrull i centrala Lycksele uppmärksammar en personbil som kört in i en lyktstolpe.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-1428-trafikolycka-lycksele/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
     }
   }
 ]
