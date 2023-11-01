@@ -1,5 +1,125 @@
 [
   {
+    "id": 466660,
+    "datetime": "2023-11-01 7:25:04 +01:00",
+    "name": "01 november 07:23, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer ett urval av nattens operativa händelser i länet",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0723-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 466659,
+    "datetime": "2023-11-01 7:23:31 +01:00",
+    "name": "01 november 07:22, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en lugn natt operativt i länet",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0722-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 466658,
+    "datetime": "2023-11-01 7:22:46 +01:00",
+    "name": "01 november 03:44, Stöld, Stockholm",
+    "summary": "Ett oklart antal gärningsmän gjorde inbrott i en butik på Norrmalm.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0344-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 466657,
+    "datetime": "2023-11-01 7:22:44 +01:00",
+    "name": "01 november 06:37, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en operativt lugn natt i länet",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0637-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 466655,
+    "datetime": "2023-11-01 7:16:48 +01:00",
+    "name": "01 november 04:45, Brand, Malmö",
+    "summary": "Bilbrand, Rosengård.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0445-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 466654,
+    "datetime": "2023-11-01 7:15:53 +01:00",
+    "name": "31 oktober 21:39, Stöld/inbrott, Gävle",
+    "summary": "Larm om pågående inbrott i företagslokal.",
+    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-2139-stoldinbrott-gavle/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 466653,
+    "datetime": "2023-11-01 7:11:49 +01:00",
+    "name": "01 november 00:49, Trafikbrott, Karlskrona",
+    "summary": "Förföljande, Vedeby.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0049-trafikbrott-karlskrona/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 466650,
+    "datetime": "2023-11-01 7:00:12 +01:00",
+    "name": "01 november 07:00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av dygnets händelser.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0700-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 466649,
+    "datetime": "2023-11-01 7:00:07 +01:00",
+    "name": "01 november 07:00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av dygnets händelser.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0700-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 466651,
+    "datetime": "2023-11-01 6:56:17 +01:00",
+    "name": "01 november 00:21, Rattfylleri, Kristianstad",
+    "summary": "Misstänkt påverkad förare, Tollarp.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-0021-rattfylleri-kristianstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
     "id": 466645,
     "datetime": "2023-10-31 22:35:06 +01:00",
     "name": "31 oktober 21:18, Brand, Stockholm",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 464401,
-    "datetime": "2023-10-24 8:14:01 +02:00",
-    "name": "24 oktober 07:43, Skadegörelse, Växjö",
-    "summary": "En bil brinner på Araby och polis larmas till platsen.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0743-skadegorelse-vaxjo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 464399,
-    "datetime": "2023-10-24 8:00:31 +02:00",
-    "name": "24 oktober 08:00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0800-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 464398,
-    "datetime": "2023-10-24 8:00:20 +02:00",
-    "name": "24 oktober 08:00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0800-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 464397,
-    "datetime": "2023-10-24 7:44:20 +02:00",
-    "name": "24 oktober 07:44, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0744-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 464395,
-    "datetime": "2023-10-24 7:39:59 +02:00",
-    "name": "24 oktober 02:47, Brand, Tyresö",
-    "summary": "Räddningstjänsten berordras till Tyresö med anledning av en bilbrand.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0247-brand-tyreso/",
-    "type": "Brand",
-    "location": {
-      "name": "Tyresö",
-      "gps": "59.242595,18.283392"
-    }
-  },
-  {
-    "id": 464396,
-    "datetime": "2023-10-24 7:39:04 +02:00",
-    "name": "23 oktober 22:04, Kontroll person/fordon, Stockholm",
-    "summary": "Vid en papperskorg i Aspudden hittar en person ett föremål som beskrivs som en påse med behållare och kablar s",
-    "url": "/aktuellt/handelser/2023/oktober/23/23-oktober-2204-kontroll-personfordon-stockholm/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 464394,
-    "datetime": "2023-10-24 7:23:08 +02:00",
-    "name": "24 oktober 07:22, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0722-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 464393,
-    "datetime": "2023-10-24 7:22:51 +02:00",
-    "name": "24 oktober 07:22, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammafattning av natten.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0722-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 464392,
-    "datetime": "2023-10-24 7:22:29 +02:00",
-    "name": "24 oktober 07:22, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0722-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 464391,
-    "datetime": "2023-10-24 7:22:24 +02:00",
-    "name": "24 oktober 07:22, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2023/oktober/24/24-oktober-0722-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
