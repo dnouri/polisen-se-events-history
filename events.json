@@ -1,5 +1,65 @@
 [
   {
+    "id": 466936,
+    "datetime": "2023-11-02 7:43:37 +01:00",
+    "name": "01 november 22:01, Trafikbrott, Köping",
+    "summary": "A-traktor tas i beslag av polis.",
+    "url": "/aktuellt/handelser/2023/november/1/01-november-2201-trafikbrott-koping/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 466934,
+    "datetime": "2023-11-02 7:40:35 +01:00",
+    "name": "02 november 07:39, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en polisiärt sett lugn natt i länet.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0739-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 466933,
+    "datetime": "2023-11-02 7:40:12 +01:00",
+    "name": "02 november 07:39, Sammanfattning natt, Dalarnas län",
+    "summary": "Nedan följer en sammanfattning av natten.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0739-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 466932,
+    "datetime": "2023-11-02 7:39:50 +01:00",
+    "name": "02 november 07:39, Sammanfattning natt, Örebro län",
+    "summary": "Det har polisiärt sett varit en lugn natt i länet.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0739-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 466910,
+    "datetime": "2023-11-02 7:36:49 +01:00",
+    "name": "02 november 07:36, Trafikolycka, Motala",
+    "summary": "Påkörd person. LV1092 norr om Motala.",
+    "url": "/aktuellt/handelser/2023/november/1/02-november-0736-trafikolycka-motala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
+    }
+  },
+  {
     "id": 466925,
     "datetime": "2023-11-02 7:11:31 +01:00",
     "name": "02 november 07:11, Sammanfattning natt, Norrbottens län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 464679,
-    "datetime": "2023-10-25 19:09:11 +02:00",
-    "name": "25 oktober 18:45, Trafikolycka, singel, Kristianstad",
-    "summary": "Rv21, mellan Vinslöv och Önnestad. En personbil har kolliderat med vägens mitträcke.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1845-trafikolycka-singel-kristianstad/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 464678,
-    "datetime": "2023-10-25 19:12:03 +02:00",
-    "name": "25 oktober 18:22, Trafikolycka, personskada, Göteborg",
-    "summary": "Vid Frölunda Torg har en kvinna blivit påkörd av en buss.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1822-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 464665,
-    "datetime": "2023-10-25 15:14:07 +02:00",
-    "name": "25 oktober 15:12, Farligt föremål, misstänkt, Norrköping",
-    "summary": "Lägenhetsundersökning i Norrköping",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1512-farligt-foremal-misstankt-norrkoping/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 464672,
-    "datetime": "2023-10-25 18:12:22 +02:00",
-    "name": "25 oktober 16:40, Brand, Karlskrona",
-    "summary": "Rödeby. Brand i mindre byggnad.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1640-brand-karlskrona/",
-    "type": "Brand",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 464671,
-    "datetime": "2023-10-25 17:48:30 +02:00",
-    "name": "25 oktober 16:47, Narkotikabrott, Säffle",
-    "summary": "En person är misstänkt för narkotikabrott",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1647-narkotikabrott-saffle/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
     }
   }
 ]
