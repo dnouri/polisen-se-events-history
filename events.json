@@ -1,5 +1,65 @@
 [
   {
+    "id": 467036,
+    "datetime": "2023-11-02 16:12:39 +01:00",
+    "name": "02 november 15:10, Trafikolycka, Borlänge",
+    "summary": "En ambulans har kolliderat med en personbil på Rv50 vid korsningen med Lv 646.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-1510-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 467031,
+    "datetime": "2023-11-02 16:01:44 +01:00",
+    "name": "02 november 15:44, Trafikolycka, Åstorp",
+    "summary": "Lastbil kört in i viadukt på Östra vägen.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-1544-trafikolycka-astorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åstorp",
+      "gps": "56.134262,12.945908"
+    }
+  },
+  {
+    "id": 467030,
+    "datetime": "2023-11-02 15:59:51 +01:00",
+    "name": "02 november 13:16, Trafikolycka, Skellefteå",
+    "summary": "Länsväg 712/Länsväg 779, Åsträsk. En lastbil och en personbil har kolliderat",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-1316-trafikolycka-skelleftea2/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 467027,
+    "datetime": "2023-11-02 15:57:35 +01:00",
+    "name": "02 november 15:47, Trafikolycka, Malmö",
+    "summary": "Påkörd person på Västkustvägen.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-1547-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 467025,
+    "datetime": "2023-11-02 15:52:41 +01:00",
+    "name": "02 november 13:54, Trafikolycka, singel, Södertälje",
+    "summary": "Bil har kört in i stolpe.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-1354-trafikolycka-singel-sodertalje/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 467023,
     "datetime": "2023-11-02 15:28:15 +01:00",
     "name": "02 november 11:45, Stöld, Vännäs",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Mora",
       "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 464728,
-    "datetime": "2023-10-26 11:26:51 +02:00",
-    "name": "26 oktober 09:37, Kontroll person/fordon, Västervik",
-    "summary": "Kontroll av kuvert på Nygatan i Västervik",
-    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-0937-kontroll-personfordon-vastervik/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 464722,
-    "datetime": "2023-10-26 10:21:51 +02:00",
-    "name": "26 oktober 09:57, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på riksväg 97 vid trafikplats Norra Sunderbyn, Luleå.",
-    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-0957-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 464717,
-    "datetime": "2023-10-26 9:37:31 +02:00",
-    "name": "26 oktober 09:18, Trafikolycka, Östersund",
-    "summary": "Trafikolycka på E14/E45 Torvalla industriområde i Östersund.",
-    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-0918-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 464727,
-    "datetime": "2023-10-26 11:24:56 +02:00",
-    "name": "26 oktober 09:59, Trafikbrott, Örnsköldsvik",
-    "summary": "Ordningsbot till bilist som inte stannat på polismans tecken.",
-    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-0959-trafikbrott-ornskoldsvik/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 464705,
-    "datetime": "2023-10-26 8:15:38 +02:00",
-    "name": "25 oktober 22:08, Misshandel, Huddinge",
-    "summary": "Slagsmål på ett sjukhus.",
-    "url": "/aktuellt/handelser/2023/oktober/26/25-oktober-2208-misshandel-huddinge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
     }
   }
 ]
