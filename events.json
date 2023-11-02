@@ -1,5 +1,53 @@
 [
   {
+    "id": 467016,
+    "datetime": "2023-11-02 13:29:18 +01:00",
+    "name": "02 november 10:00, Trafikolycka, vilt, Åsele",
+    "summary": "Polisen får in en anmälan om en olycka med en personbil och en ren.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-1000-trafikolycka-vilt-asele/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Åsele",
+      "gps": "64.160234,17.353615"
+    }
+  },
+  {
+    "id": 466988,
+    "datetime": "2023-11-02 11:33:53 +01:00",
+    "name": "02 november 11:10, Brand, Umeå",
+    "summary": "Larm om rökutveckling i en fastighet på västra Ersboda.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-1110-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 466982,
+    "datetime": "2023-11-02 10:28:45 +01:00",
+    "name": "02 november 09:32, Trafikolycka, Skurup",
+    "summary": "Flera bilar i kollision",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0932-trafikolycka-skurup/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skurup",
+      "gps": "55.48045,13.502349"
+    }
+  },
+  {
+    "id": 466992,
+    "datetime": "2023-11-02 12:47:42 +01:00",
+    "name": "02 november 10:45, Rattfylleri, Örnsköldsvik",
+    "summary": "Misstänkt rattfylleri i Örmsköldsvik.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-1045-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 466993,
     "datetime": "2023-11-02 12:34:12 +01:00",
     "name": "02 november 11:19, Trafikkontroll, Strömsund",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 466988,
-    "datetime": "2023-11-02 11:33:53 +01:00",
-    "name": "02 november 11:10, Brand, Umeå",
-    "summary": "Larm om rökutveckling i en fastighet på västra Ersboda.",
-    "url": "/aktuellt/handelser/2023/november/2/02-november-1110-brand-umea/",
-    "type": "Brand",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -81,18 +117,6 @@
     "location": {
       "name": "Sandviken",
       "gps": "60.621607,16.775918"
-    }
-  },
-  {
-    "id": 466982,
-    "datetime": "2023-11-02 10:28:45 +01:00",
-    "name": "02 november 09:32, Trafikolycka, Skurup",
-    "summary": "Flera bilar i kollision",
-    "url": "/aktuellt/handelser/2023/november/2/02-november-0932-trafikolycka-skurup/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skurup",
-      "gps": "55.48045,13.502349"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Skurup",
       "gps": "55.48045,13.502349"
-    }
-  },
-  {
-    "id": 464699,
-    "datetime": "2023-10-26 8:15:47 +02:00",
-    "name": "26 oktober 02:36, Misshandel, Stockholm",
-    "summary": "Slagsmål mellan berusade personer på en snabbmatsrestaurang.",
-    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-0236-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 464700,
-    "datetime": "2023-10-26 8:15:43 +02:00",
-    "name": "26 oktober 04:05, Misshandel, grov, Stockholm",
-    "summary": "En kvinna misshandlas utomhus.",
-    "url": "/aktuellt/handelser/2023/oktober/26/26-oktober-0405-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
