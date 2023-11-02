@@ -1,5 +1,77 @@
 [
   {
+    "id": 466951,
+    "datetime": "2023-11-02 8:15:43 +01:00",
+    "name": "02 november 00:00, Stöld, Sävsjö",
+    "summary": "Stöld från byggbarack.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0000-stold-savsjo/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sävsjö",
+      "gps": "57.398996,14.665814"
+    }
+  },
+  {
+    "id": 466949,
+    "datetime": "2023-11-02 8:09:07 +01:00",
+    "name": "02 november 07:44, Trafikolycka, Vårgårda",
+    "summary": "En personbil och en lastbil är involverade i en olycka på E20 vid Vårgårda.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0744-trafikolycka-vargarda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vårgårda",
+      "gps": "58.032304,12.808976"
+    }
+  },
+  {
+    "id": 466915,
+    "datetime": "2023-11-02 8:02:46 +01:00",
+    "name": "02 november 08:00, Sammanfattning natt, Jönköpings län",
+    "summary": "En mycket lugn natt utan större händelser eller ärenden som sticker ut. En enstaka notis från morgonen.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0800-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 466916,
+    "datetime": "2023-11-02 8:01:04 +01:00",
+    "name": "02 november 08:00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från natten. En lugn natt med en enstaka notis värd att nämna.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0800-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 466917,
+    "datetime": "2023-11-02 8:00:59 +01:00",
+    "name": "02 november 08:00, Sammanfattning natt, Östergötlands län",
+    "summary": "En lugn natt med någon enstaka notis värd att nämna.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0800-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 466937,
+    "datetime": "2023-11-02 7:45:45 +01:00",
+    "name": "02 november 04:06, Skadegörelse, Ljusdal",
+    "summary": "Krossade fönster på skola.",
+    "url": "/aktuellt/handelser/2023/november/2/02-november-0406-skadegorelse-ljusdal/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Ljusdal",
+      "gps": "61.830839,16.08175"
+    }
+  },
+  {
     "id": 466936,
     "datetime": "2023-11-02 7:43:37 +01:00",
     "name": "01 november 22:01, Trafikbrott, Köping",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 464687,
-    "datetime": "2023-10-25 21:40:04 +02:00",
-    "name": "25 oktober 21:14, Brand, Borlänge",
-    "summary": "Det har brunnit vid ett företag i Borlänge",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-2114-brand-borlange/",
-    "type": "Brand",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 464686,
-    "datetime": "2023-10-25 21:23:10 +02:00",
-    "name": "25 oktober 20:07, Hemfridsbrott, Kristinehamn",
-    "summary": "Två personer har blivit avvisade från ett ödehus",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-2007-hemfridsbrott-kristinehamn/",
-    "type": "Hemfridsbrott",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 464685,
-    "datetime": "2023-10-25 21:05:09 +02:00",
-    "name": "25 oktober 17:57, Trafikolycka, vilt, Bollnäs",
-    "summary": "Trafikolycka på riksväg 50.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1757-trafikolycka-vilt-bollnas/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
-    }
-  },
-  {
-    "id": 464683,
-    "datetime": "2023-10-25 20:23:16 +02:00",
-    "name": "25 oktober 19:57, Trafikolycka, vilt, Kalmar",
-    "summary": "E22, mellan Rockneby och Kåremo. Kollision mellan personbil och älg.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1957-trafikolycka-vilt-kalmar/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 464682,
-    "datetime": "2023-10-25 20:14:31 +02:00",
-    "name": "25 oktober 17:43, Stöld, försök, Falun",
-    "summary": "En man är misstänkt för försök till stöld",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1743-stold-forsok-falun/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 464680,
-    "datetime": "2023-10-25 19:55:16 +02:00",
-    "name": "25 oktober 19:22, Trafikolycka, Halmstad",
-    "summary": "I korsningen Kornhillsvägen - Vallås Bussgata har en buss och en personbil kolliderat.",
-    "url": "/aktuellt/handelser/2023/oktober/25/25-oktober-1922-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
     }
   }
 ]
