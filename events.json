@@ -1,5 +1,41 @@
 [
   {
+    "id": 467203,
+    "datetime": "2023-11-03 18:42:18 +01:00",
+    "name": "03 november 18:36, Trafikolycka, vilt, Örebro",
+    "summary": "En viltolycka har inträffat på E18 i Glanshammar vilket påverkar trafiken.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1836-trafikolycka-vilt-orebro/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 467199,
+    "datetime": "2023-11-03 17:27:53 +01:00",
+    "name": "03 november 17:13, Trafikolycka, Smedjebacken",
+    "summary": "En trafikolycka har inträffat på riksväg 66 i Söderbärke.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1713-trafikolycka-smedjebacken/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
+    "id": 467202,
+    "datetime": "2023-11-03 18:21:56 +01:00",
+    "name": "03 november 16:29, Trafikolycka, personskada, Södertälje",
+    "summary": "Person påkörd av lastbil.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1629-trafikolycka-personskada-sodertalje/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 467195,
     "datetime": "2023-11-03 16:50:42 +01:00",
     "name": "03 november 16:19, Trafikolycka, Kiruna",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 467199,
-    "datetime": "2023-11-03 17:27:53 +01:00",
-    "name": "03 november 17:13, Trafikolycka, Smedjebacken",
-    "summary": "En trafikolycka har inträffat på riksväg 66 i Söderbärke.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1713-trafikolycka-smedjebacken/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Smedjebacken",
-      "gps": "60.143193,15.415992"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 465297,
-    "datetime": "2023-10-28 8:01:27 +02:00",
-    "name": "28 oktober 08:00, Sammanfattning natt, Södermanlands län",
-    "summary": "En lugn natt har förflutit utan större händelser. En enstaka notis som är värd att nämna.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0800-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 465296,
-    "datetime": "2023-10-28 8:01:21 +02:00",
-    "name": "28 oktober 08:00, Sammanfattning natt, Jönköpings län",
-    "summary": "En lugn natt har förflutit utan större händelser eller ärenden som sticket ut. Någon enstaka notis värd att nä",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0800-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
