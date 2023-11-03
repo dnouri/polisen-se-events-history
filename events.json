@@ -1,5 +1,53 @@
 [
   {
+    "id": 467200,
+    "datetime": "2023-11-03 17:41:11 +01:00",
+    "name": "03 november 17:37, Stöld/inbrott, Värnamo",
+    "summary": "Inbrott i bostad i västra delarna av Värnamo",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1737-stoldinbrott-varnamo/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 467197,
+    "datetime": "2023-11-03 17:16:11 +01:00",
+    "name": "03 november 16:30, Trafikolycka, vilt, Umeå",
+    "summary": "Larm om trafikolycka med personbil och älg på E12, väster om Brännland.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1630-trafikolycka-vilt-umea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 467182,
+    "datetime": "2023-11-03 15:19:53 +01:00",
+    "name": "03 november 15:08, Trafikolycka, Örebro",
+    "summary": "En trafikolycka har inträffat på E18 i Glanshammar.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1508-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 467199,
+    "datetime": "2023-11-03 17:27:53 +01:00",
+    "name": "03 november 17:13, Trafikolycka, Smedjebacken",
+    "summary": "En trafikolycka har inträffat på riksväg 66 i Söderbärke.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1713-trafikolycka-smedjebacken/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
     "id": 467193,
     "datetime": "2023-11-03 17:09:42 +01:00",
     "name": "03 november 16:20, Trafikolycka, Örnsköldsvik",
@@ -24,18 +72,6 @@
     }
   },
   {
-    "id": 467197,
-    "datetime": "2023-11-03 17:16:11 +01:00",
-    "name": "03 november 16:30, Trafikolycka, vilt, Umeå",
-    "summary": "Larm om trafikolycka med personbil och älg på E12, väster om Brännland.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1630-trafikolycka-vilt-umea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
     "id": 467196,
     "datetime": "2023-11-03 16:51:20 +01:00",
     "name": "03 november 12:27, Stöld, Karlskoga",
@@ -57,18 +93,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 467182,
-    "datetime": "2023-11-03 15:19:53 +01:00",
-    "name": "03 november 15:08, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på E18 i Glanshammar.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1508-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 465302,
-    "datetime": "2023-10-28 8:01:18 +02:00",
-    "name": "28 oktober 08:01, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0801-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 465299,
-    "datetime": "2023-10-28 7:56:31 +02:00",
-    "name": "28 oktober 07:56, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0756-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
