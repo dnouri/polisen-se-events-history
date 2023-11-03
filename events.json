@@ -1,5 +1,101 @@
 [
   {
+    "id": 467193,
+    "datetime": "2023-11-03 17:09:42 +01:00",
+    "name": "03 november 16:20, Trafikolycka, Örnsköldsvik",
+    "summary": "Larm om trafikolycka på E4, Idbyn.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1620-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 467198,
+    "datetime": "2023-11-03 17:17:35 +01:00",
+    "name": "03 november 15:41, Trafikolycka, Uppsala",
+    "summary": "Bilist kolliderar med flera fordon.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1541-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 467197,
+    "datetime": "2023-11-03 17:16:11 +01:00",
+    "name": "03 november 16:30, Trafikolycka, vilt, Umeå",
+    "summary": "Larm om trafikolycka med personbil och älg på E12, väster om Brännland.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1630-trafikolycka-vilt-umea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 467196,
+    "datetime": "2023-11-03 16:51:20 +01:00",
+    "name": "03 november 12:27, Stöld, Karlskoga",
+    "summary": "En man i 40-årsåldern blir misstänkt för flera fall av stöld samt förgripelse mot tjänsteman.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1227-stold-karlskoga/",
+    "type": "Stöld",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 467195,
+    "datetime": "2023-11-03 16:50:42 +01:00",
+    "name": "03 november 16:19, Trafikolycka, Kiruna",
+    "summary": "Larm om trafikolycka på E10/länsväg 875, Kiruna.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1619-trafikolycka-kiruna2/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 467182,
+    "datetime": "2023-11-03 15:19:53 +01:00",
+    "name": "03 november 15:08, Trafikolycka, Örebro",
+    "summary": "En trafikolycka har inträffat på E18 i Glanshammar.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1508-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 467181,
+    "datetime": "2023-11-03 15:04:21 +01:00",
+    "name": "03 november 14:54, Trafikolycka, Torsby",
+    "summary": "En trafikolycka har inträffat i Sysslebäck.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1454-trafikolycka-torsby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 467185,
+    "datetime": "2023-11-03 15:31:44 +01:00",
+    "name": "03 november 15:11, Anträffad död, Jönköpings län",
+    "summary": "Avliden person anträffad utomhus i Jönköping.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1511-antraffad-dod-jonkopings-lan/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 467194,
     "datetime": "2023-11-03 16:39:07 +01:00",
     "name": "03 november 16:35, Trafikolycka, Kristianstad",
@@ -96,18 +192,6 @@
     }
   },
   {
-    "id": 467182,
-    "datetime": "2023-11-03 15:19:53 +01:00",
-    "name": "03 november 15:08, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på E18 i Glanshammar.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1508-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
     "id": 467184,
     "datetime": "2023-11-03 15:31:13 +01:00",
     "name": "03 november 15:21, Trafikolycka, Örebro",
@@ -117,30 +201,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 467181,
-    "datetime": "2023-11-03 15:04:21 +01:00",
-    "name": "03 november 14:54, Trafikolycka, Torsby",
-    "summary": "En trafikolycka har inträffat i Sysslebäck.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1454-trafikolycka-torsby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
-    }
-  },
-  {
-    "id": 467185,
-    "datetime": "2023-11-03 15:31:44 +01:00",
-    "name": "03 november 15:11, Anträffad död, Jönköpings län",
-    "summary": "Avliden person anträffad utomhus i Jönköping.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1511-antraffad-dod-jonkopings-lan/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 465298,
-    "datetime": "2023-10-28 7:53:02 +02:00",
-    "name": "28 oktober 07:52, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0752-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 465300,
-    "datetime": "2023-10-28 7:16:03 +02:00",
-    "name": "28 oktober 07:09, Brand, Stockholm",
-    "summary": "Polispatrull larmas till en misstänkt brand i ett återvinningskärl på Södermalm. Även räddningstjänst är på vä",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0709-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 465301,
-    "datetime": "2023-10-28 7:35:40 +02:00",
-    "name": "28 oktober 01:46, Knivlagen, Karlskrona",
-    "summary": "Påverkad man, Lyckeby",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0146-knivlagen-karlskrona/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 465287,
-    "datetime": "2023-10-27 23:45:28 +02:00",
-    "name": "27 oktober 20:32, Försvunnen person, Borgholm",
-    "summary": "Försvunnen man, Borgholm.",
-    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-2032-forsvunnen-person-borgholm/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Borgholm",
-      "gps": "56.88023,16.656236"
-    }
-  },
-  {
-    "id": 465285,
-    "datetime": "2023-10-27 20:36:38 +02:00",
-    "name": "27 oktober 20:32, Trafikolycka, Ängelholm",
-    "summary": "Två personbilar i olycka, E4.",
-    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-2032-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   }
 ]
