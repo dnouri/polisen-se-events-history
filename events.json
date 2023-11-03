@@ -1,5 +1,41 @@
 [
   {
+    "id": 467208,
+    "datetime": "2023-11-03 19:44:14 +01:00",
+    "name": "03 november 17:54, Rattfylleri, Östersund",
+    "summary": "Misstänkt grovt rattfylleri på E14, Lövlunda.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1754-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 467207,
+    "datetime": "2023-11-03 19:40:37 +01:00",
+    "name": "03 november 18:44, Trafikkontroll, Härnösand",
+    "summary": "Resultat efter nykterhetskontroll på Hovsgatan i centrala Härnösand.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1844-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 467204,
+    "datetime": "2023-11-03 18:59:37 +01:00",
+    "name": "03 november 18:50, Trafikolycka, Arvika",
+    "summary": "En trafikolycka har inträffat på väg 61.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-1850-trafikolycka-arvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
     "id": 467203,
     "datetime": "2023-11-03 18:42:18 +01:00",
     "name": "03 november 18:36, Trafikolycka, vilt, Örebro",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Skara",
       "gps": "58.386013,13.439328"
-    }
-  },
-  {
-    "id": 467204,
-    "datetime": "2023-11-03 18:59:37 +01:00",
-    "name": "03 november 18:50, Trafikolycka, Arvika",
-    "summary": "En trafikolycka har inträffat på länsväg 867.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1850-trafikolycka-arvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 465304,
-    "datetime": "2023-10-28 8:28:43 +02:00",
-    "name": "28 oktober 07:32, Trafikolycka, vilt, Timrå",
-    "summary": "Polisen får in en anmälan om en olycka med en personbil och ett rådjur.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0732-trafikolycka-vilt-timra/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 465303,
-    "datetime": "2023-10-28 8:28:31 +02:00",
-    "name": "28 oktober 07:19, Trafikolycka, vilt, Övertorneå",
-    "summary": "Polisen får in en anmälan om en olycka med en personbil och en ren.",
-    "url": "/aktuellt/handelser/2023/oktober/28/28-oktober-0719-trafikolycka-vilt-overtornea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Övertorneå",
-      "gps": "66.388444,23.639283"
     }
   }
 ]
