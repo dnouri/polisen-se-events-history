@@ -1,5 +1,41 @@
 [
   {
+    "id": 467100,
+    "datetime": "2023-11-03 8:38:50 +01:00",
+    "name": "03 november 04:10, Larm Inbrott, Stockholm",
+    "summary": "Inbrottslarm från butik.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-0410-larm-inbrott-stockholm/",
+    "type": "Larm Inbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 467101,
+    "datetime": "2023-11-03 8:38:45 +01:00",
+    "name": "03 november 00:53, Stöld, Stockholm",
+    "summary": "Larm om pågående inbrott i bil.",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-0053-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 467102,
+    "datetime": "2023-11-03 8:21:54 +01:00",
+    "name": "03 november 08:08, Trafikolycka, Olofström",
+    "summary": "Trafikolycka",
+    "url": "/aktuellt/handelser/2023/november/3/03-november-0808-trafikolycka-olofstrom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Olofström",
+      "gps": "56.277708,14.530938"
+    }
+  },
+  {
     "id": 467097,
     "datetime": "2023-11-03 8:02:51 +01:00",
     "name": "03 november 07:56, Sammanfattning natt, Jönköpings län",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 465213,
-    "datetime": "2023-10-27 11:56:05 +02:00",
-    "name": "27 oktober 10:31, Arbetsplatsolycka, Kalmar",
-    "summary": "Larm om arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1031-arbetsplatsolycka-kalmar/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 465207,
-    "datetime": "2023-10-27 11:35:16 +02:00",
-    "name": "27 oktober 11:35, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-1135-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 465206,
-    "datetime": "2023-10-27 11:29:47 +02:00",
-    "name": "27 oktober 09:49, Trafikolycka, Stockholm",
-    "summary": "Personbil i Gröndal voltade",
-    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-0949-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
