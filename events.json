@@ -1,5 +1,53 @@
 [
   {
+    "id": 467276,
+    "datetime": "2023-11-04 11:20:41 +01:00",
+    "name": "04 november 11:20, Trafikolycka, personskada, Norrköping",
+    "summary": "Två bilar i krock - begränsad framkomlighet på E4",
+    "url": "/aktuellt/handelser/2023/november/4/04-november-1120-trafikolycka-personskada-norrkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 467274,
+    "datetime": "2023-11-04 11:14:04 +01:00",
+    "name": "04 november 11:13, Mord/dråp, Kalix",
+    "summary": "Man anhållen misstänkt för mord.",
+    "url": "/aktuellt/handelser/2023/november/4/04-november-1113-morddrap-kalix/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 467245,
+    "datetime": "2023-11-04 4:52:24 +01:00",
+    "name": "04 november 03:11, Farligt föremål, misstänkt, Södertälje",
+    "summary": "Polis kallas till ett radhus i Södertälje med anledning av ett misstänkt farligt föremål.",
+    "url": "/aktuellt/handelser/2023/november/4/04-november-0311-farligt-foremal-misstankt-sodertalje/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 467273,
+    "datetime": "2023-11-04 10:46:31 +01:00",
+    "name": "04 november 10:45, Stöld/inbrott, Vetlanda",
+    "summary": "Inbrott på salong i Vetlanda",
+    "url": "/aktuellt/handelser/2023/november/4/04-november-1045-stoldinbrott-vetlanda/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
     "id": 467271,
     "datetime": "2023-11-04 8:08:23 +01:00",
     "name": "04 november 05:50, Mord/dråp, försök, Ljungby",
@@ -297,18 +345,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 467245,
-    "datetime": "2023-11-04 4:52:24 +01:00",
-    "name": "04 november 03:11, Farligt föremål, misstänkt, Södertälje",
-    "summary": "Polis kallas till ett radhus i Södertälje med anledning av ett misstänkt farligt föremål.",
-    "url": "/aktuellt/handelser/2023/november/4/04-november-0311-farligt-foremal-misstankt-sodertalje/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 465357,
-    "datetime": "2023-10-29 8:01:43 +01:00",
-    "name": "29 oktober 08:00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser. Inga större ärenden har kommit till polisens kännedo",
-    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0800-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 465356,
-    "datetime": "2023-10-29 8:01:24 +01:00",
-    "name": "29 oktober 08:00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser. Många ärenden att hantera under natten.",
-    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0800-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 465359,
-    "datetime": "2023-10-29 7:57:36 +01:00",
-    "name": "29 oktober 07:57, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07-00.",
-    "url": "/aktuellt/handelser/2023/oktober/29/29-oktober-0757-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
