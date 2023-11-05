@@ -1,5 +1,41 @@
 [
   {
+    "id": 467341,
+    "datetime": "2023-11-05 14:14:21 +01:00",
+    "name": "05 november 14:00, Trafikolycka, Mölndal",
+    "summary": "Två personbilar är involverade i en olycka på Göteborgsvägen.",
+    "url": "/aktuellt/handelser/2023/november/5/05-november-1400-trafikolycka-molndal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 467340,
+    "datetime": "2023-11-05 14:08:33 +01:00",
+    "name": "05 november 13:49, Trafikolycka, personskada, Rättvik",
+    "summary": "En singelolycka har inträffat på länsväg 301 tre kilometer söder om Ovanmyra.",
+    "url": "/aktuellt/handelser/2023/november/5/05-november-1349-trafikolycka-personskada-rattvik/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
+    "id": 467331,
+    "datetime": "2023-11-05 9:08:42 +01:00",
+    "name": "05 november 08:47, Farligt föremål, misstänkt, Örebro",
+    "summary": "Ett område i centrala Örebro har spärrats av efter att ett misstänkt farligt föremål påträffats.",
+    "url": "/aktuellt/handelser/2023/november/5/05-november-0847-farligt-foremal-misstankt-orebro/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 467339,
     "datetime": "2023-11-05 13:41:25 +01:00",
     "name": "05 november 13:12, Fjällräddning, Åre",
@@ -69,18 +105,6 @@
     "location": {
       "name": "Sjöbo",
       "gps": "55.634822,13.70337"
-    }
-  },
-  {
-    "id": 467331,
-    "datetime": "2023-11-05 9:08:42 +01:00",
-    "name": "05 november 08:47, Farligt föremål, misstänkt, Örebro",
-    "summary": "Ett område i centrala Örebro har spärrats av efter att ett misstänkt farligt föremål påträffats.",
-    "url": "/aktuellt/handelser/2023/november/5/05-november-0847-farligt-foremal-misstankt-orebro/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Degerfors",
       "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 465293,
-    "datetime": "2023-10-28 0:15:34 +02:00",
-    "name": "27 oktober 21:39, Trafikolycka, personskada, Ekerö",
-    "summary": "En person på moped avliden efter att ha blivit påkörd på Drottningholm.",
-    "url": "/aktuellt/handelser/2023/oktober/27/27-oktober-2139-trafikolycka-personskada-ekero/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 466441,
-    "datetime": "2023-10-30 10:28:07 +01:00",
-    "name": "30 oktober 08:35, Rattfylleri, Örnsköldsvik",
-    "summary": "Centrala Örnsköldsvik, polisen stoppar en personbil",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-0835-rattfylleri-ornskoldsvik/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
