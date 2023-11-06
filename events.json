@@ -1,5 +1,77 @@
 [
   {
+    "id": 467402,
+    "datetime": "2023-11-06 11:23:05 +01:00",
+    "name": "06 november 11:19, Brand, Karlstad",
+    "summary": "Det brinner på en altan vid en bostad i Lorensberg",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1119-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 467401,
+    "datetime": "2023-11-06 11:04:51 +01:00",
+    "name": "06 november 10:58, Trafikolycka, Lindesberg",
+    "summary": "En bilist har kört på en person",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1058-trafikolycka-lindesberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 467400,
+    "datetime": "2023-11-06 11:04:37 +01:00",
+    "name": "06 november 08:06, Stöld/inbrott, Uppsala",
+    "summary": "Inbrott på byggarbetsplats i Fullerö.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-0806-stoldinbrott-uppsala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 467399,
+    "datetime": "2023-11-06 11:02:54 +01:00",
+    "name": "06 november 10:26, Brand, Göteborg",
+    "summary": "SOS larmas om en lägenhetsbrand på Godemansgatan, Hisingen.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1026-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 467381,
+    "datetime": "2023-11-06 8:18:56 +01:00",
+    "name": "06 november 08:13, Trafikolycka, Lomma",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-0813-trafikolycka-lomma/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lomma",
+      "gps": "55.673138,13.067406"
+    }
+  },
+  {
+    "id": 467398,
+    "datetime": "2023-11-06 10:44:25 +01:00",
+    "name": "05 november 13:07, Mord/dråp, Ale",
+    "summary": "Polisen larmas till en fastighet i Ale kommun där en kvinna i 90-årsåldern hittats avliden utomhus.",
+    "url": "/aktuellt/handelser/2023/november/5/05-november-1307-morddrap-ale/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Ale",
+      "gps": "57.841175,12.029249"
+    }
+  },
+  {
     "id": 467390,
     "datetime": "2023-11-06 9:56:21 +01:00",
     "name": "06 november 05:26, Rån, Stockholm",
@@ -105,18 +177,6 @@
     "location": {
       "name": "Upplands-bro",
       "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 467381,
-    "datetime": "2023-11-06 8:18:56 +01:00",
-    "name": "06 november 08:13, Trafikolycka, Lomma",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-0813-trafikolycka-lomma/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lomma",
-      "gps": "55.673138,13.067406"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 466523,
-    "datetime": "2023-10-30 20:12:42 +01:00",
-    "name": "30 oktober 19:40, Rån väpnat, Mölndal",
-    "summary": "Enligt SOS så har ett personrån ägt rum i Kållered.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1940-ran-vapnat-molndal/",
-    "type": "Rån väpnat",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 466529,
-    "datetime": "2023-10-30 20:11:43 +01:00",
-    "name": "30 oktober 17:55, Stöld/inbrott, Enköping",
-    "summary": "Inbrott i bostad.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1755-stoldinbrott-enkoping/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 466512,
-    "datetime": "2023-10-30 18:34:38 +01:00",
-    "name": "30 oktober 18:01, Trafikolycka, Sundsvall",
-    "summary": "Trafikolycka på E4 Stockvik, Sundsvall.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1801-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 466522,
-    "datetime": "2023-10-30 20:09:15 +01:00",
-    "name": "30 oktober 15:05, Hemfridsbrott, Botkyrka",
-    "summary": "En kvinna hittar en främmande person i sin säng.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1505-hemfridsbrott-botkyrka/",
-    "type": "Hemfridsbrott",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 466524,
-    "datetime": "2023-10-30 20:09:10 +01:00",
-    "name": "30 oktober 15:39, Alkohollagen, Sundbyberg",
-    "summary": "Ungdomar hämtar alkohol i skogen.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-1539-alkohollagen-sundbyberg/",
-    "type": "Alkohollagen",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
     }
   }
 ]
