@@ -1,5 +1,53 @@
 [
   {
+    "id": 467479,
+    "datetime": "2023-11-06 21:15:36 +01:00",
+    "name": "06 november 20:36, Trafikolycka, Östersund",
+    "summary": "Larm om viltolycka på E45, mellan Öråbodarna och Dalbodarna.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-2036-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 467419,
+    "datetime": "2023-11-06 13:47:28 +01:00",
+    "name": "06 november 12:36, Räddningsinsats, Strömstad",
+    "summary": "SOS får samtal från en man som uppger att han har ramlat och skadat sig.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1236-raddningsinsats-stromstad/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 467478,
+    "datetime": "2023-11-06 20:06:23 +01:00",
+    "name": "06 november 18:12, Rån, Malmö",
+    "summary": "Rån i bostad",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1812-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 467480,
+    "datetime": "2023-11-06 20:56:30 +01:00",
+    "name": "06 november 19:54, Stöld, Härnösand",
+    "summary": "Misstänkt ringa stöld i matbutik, Bondsjöstaden.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1954-stold-harnosand/",
+    "type": "Stöld",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
     "id": 467477,
     "datetime": "2023-11-06 20:05:57 +01:00",
     "name": "06 november 19:27, Trafikolycka, vilt, Timrå",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 467478,
-    "datetime": "2023-11-06 20:06:23 +01:00",
-    "name": "06 november 18:12, Rån, Malmö",
-    "summary": "Rån i bostad",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-1812-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -297,18 +333,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 467419,
-    "datetime": "2023-11-06 13:47:28 +01:00",
-    "name": "06 november 12:36, Räddningsinsats, Strömstad",
-    "summary": "SOS får samtal från en man som uppger att han har ramlat och skadat sig.",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-1236-raddningsinsats-stromstad/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Strömstad",
-      "gps": "58.938346,11.179187"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Tierp",
       "gps": "60.347587,17.520509"
-    }
-  },
-  {
-    "id": 466549,
-    "datetime": "2023-10-31 7:11:38 +01:00",
-    "name": "31 oktober 06:58, Trafikhinder, Enköping",
-    "summary": "Hjulstabron skadad efter misstänkt påsegling.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-0658-trafikhinder-enkoping/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 466564,
-    "datetime": "2023-10-31 8:26:54 +01:00",
-    "name": "31 oktober 01:54, Stöld, Nacka",
-    "summary": "En greps efter stöld från företag i Saltsjöbaden.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-0154-stold-nacka/",
-    "type": "Stöld",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
     }
   }
 ]
