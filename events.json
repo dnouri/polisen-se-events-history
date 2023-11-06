@@ -1,5 +1,89 @@
 [
   {
+    "id": 467478,
+    "datetime": "2023-11-06 20:06:23 +01:00",
+    "name": "06 november 18:12, Rån, Malmö",
+    "summary": "Rån i bostad",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1812-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 467468,
+    "datetime": "2023-11-06 18:12:43 +01:00",
+    "name": "06 november 17:38, Misshandel, Malmö",
+    "summary": "Skadad man, Södervärn",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1738-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 467454,
+    "datetime": "2023-11-06 16:32:45 +01:00",
+    "name": "06 november 16:25, Övrigt, Örebro",
+    "summary": "Uppgifter/ iakttagelser önskas om en silverfärgad Ford Mondeo med krockskadad högersida/ framdörr.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1625-ovrigt-orebro/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 467442,
+    "datetime": "2023-11-06 21:46:50 +01:00",
+    "name": "06 november 21:45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-2145-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 467441,
+    "datetime": "2023-11-06 21:46:27 +01:00",
+    "name": "06 november 21:45, Övrigt, Hallands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-2145-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 467484,
+    "datetime": "2023-11-06 21:46:20 +01:00",
+    "name": "06 november 19:07, Rattfylleri, Malung-Sälen",
+    "summary": "Polispatrull har stoppat en misstänkt rattfyllerist.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1907-rattfylleri-malung-salen/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 467459,
+    "datetime": "2023-11-06 17:09:51 +01:00",
+    "name": "06 november 17:03, Försvunnen person, Arvika",
+    "summary": "Polisen söker iakttagelser/ uppgifter om en försvunnen person.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1703-forsvunnen-person-arvika/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
     "id": 467479,
     "datetime": "2023-11-06 21:15:36 +01:00",
     "name": "06 november 20:36, Trafikolycka, Östersund",
@@ -57,18 +141,6 @@
     "location": {
       "name": "Strömstad",
       "gps": "58.938346,11.179187"
-    }
-  },
-  {
-    "id": 467478,
-    "datetime": "2023-11-06 20:06:23 +01:00",
-    "name": "06 november 18:12, Rån, Malmö",
-    "summary": "Rån i bostad",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-1812-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -192,18 +264,6 @@
     }
   },
   {
-    "id": 467468,
-    "datetime": "2023-11-06 18:12:43 +01:00",
-    "name": "06 november 17:38, Misshandel, Malmö",
-    "summary": "Skadad man, Södervärn",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-1738-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
     "id": 467467,
     "datetime": "2023-11-06 18:12:05 +01:00",
     "name": "06 november 18:09, Trafikhinder, Jönköping",
@@ -264,18 +324,6 @@
     }
   },
   {
-    "id": 467459,
-    "datetime": "2023-11-06 17:09:51 +01:00",
-    "name": "06 november 17:03, Försvunnen person, Arvika",
-    "summary": "Polisen söker iakttagelser/ uppgifter om en försvunnen person.",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-1703-forsvunnen-person-arvika/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
     "id": 467457,
     "datetime": "2023-11-06 17:04:50 +01:00",
     "name": "06 november 15:42, Brand, Västerås",
@@ -285,18 +333,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 467454,
-    "datetime": "2023-11-06 16:32:45 +01:00",
-    "name": "06 november 16:25, Övrigt, Örebro",
-    "summary": "Uppgifter/ iakttagelser önskas om en silverfärgad Ford Mondeo med krockskadad högersida/ framdörr.",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-1625-ovrigt-orebro/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 466579,
-    "datetime": "2023-10-31 10:11:51 +01:00",
-    "name": "31 oktober 10:04, Stöld/inbrott, Mjölby",
-    "summary": "Större klädstöld från butik.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1004-stoldinbrott-mjolby/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Mjölby",
-      "gps": "58.322691,15.133535"
-    }
-  },
-  {
-    "id": 466578,
-    "datetime": "2023-10-31 10:08:32 +01:00",
-    "name": "31 oktober 10:08, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1008-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 466573,
-    "datetime": "2023-10-31 9:54:56 +01:00",
-    "name": "30 oktober 21:32, Trafikolycka, personskada, Gävle",
-    "summary": "Kvinna död i trafikolycka på riksväg 56.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-2132-trafikolycka-personskada-gavle/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
