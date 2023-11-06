@@ -1,5 +1,65 @@
 [
   {
+    "id": 467468,
+    "datetime": "2023-11-06 18:12:43 +01:00",
+    "name": "06 november 17:38, Misshandel, Malmö",
+    "summary": "Skadad man, Södervärn",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1738-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 467467,
+    "datetime": "2023-11-06 18:12:05 +01:00",
+    "name": "06 november 18:09, Trafikhinder, Jönköping",
+    "summary": "För kännedom",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1809-trafikhinder-jonkoping/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 467466,
+    "datetime": "2023-11-06 18:11:27 +01:00",
+    "name": "06 november 15:58, Stöld, Sundsvall",
+    "summary": "Stöld i matbutik, Birsta.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1558-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 467456,
+    "datetime": "2023-11-06 17:02:23 +01:00",
+    "name": "06 november 16:41, Trafikolycka, personskada, Sävsjö",
+    "summary": "En person skadad efter krock på riksväg.",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1641-trafikolycka-personskada-savsjo/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Sävsjö",
+      "gps": "57.398996,14.665814"
+    }
+  },
+  {
+    "id": 467458,
+    "datetime": "2023-11-06 17:07:01 +01:00",
+    "name": "06 november 16:58, Trafikolycka, Ronneby",
+    "summary": "Personbil och lastbil i kollision",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-1658-trafikolycka-ronneby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
     "id": 467463,
     "datetime": "2023-11-06 17:33:25 +01:00",
     "name": "06 november 17:09, Trafikolycka, Karlstad",
@@ -36,18 +96,6 @@
     }
   },
   {
-    "id": 467458,
-    "datetime": "2023-11-06 17:07:01 +01:00",
-    "name": "06 november 16:58, Trafikolycka, Ronneby",
-    "summary": "Personbil och lastbil i kollision",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-1658-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
     "id": 467457,
     "datetime": "2023-11-06 17:04:50 +01:00",
     "name": "06 november 15:42, Brand, Västerås",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 467456,
-    "datetime": "2023-11-06 17:02:23 +01:00",
-    "name": "06 november 16:41, Trafikolycka, personskada, Sävsjö",
-    "summary": "En person skadad efter krock på riksväg.",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-1641-trafikolycka-personskada-savsjo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Sävsjö",
-      "gps": "57.398996,14.665814"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 466550,
-    "datetime": "2023-10-31 7:11:38 +01:00",
-    "name": "31 oktober 07:03, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan är ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-0703-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 466553,
-    "datetime": "2023-10-31 7:32:35 +01:00",
-    "name": "31 oktober 07:22, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av polisens operativa arbete i länet",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-0722-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 466536,
-    "datetime": "2023-10-30 21:48:41 +01:00",
-    "name": "30 oktober 20:11, Övrigt, Ljusdal",
-    "summary": "Man försökte tända eld på bostad.",
-    "url": "/aktuellt/handelser/2023/oktober/30/30-oktober-2011-ovrigt-ljusdal/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Ljusdal",
-      "gps": "61.830839,16.08175"
     }
   }
 ]
