@@ -1,5 +1,29 @@
 [
   {
+    "id": 468532,
+    "datetime": "2023-11-07 10:17:57 +01:00",
+    "name": "07 november 10:08, Trafikolycka, Östra göinge",
+    "summary": "Larm om trafikolycka, Hjärsås",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-1008-trafikolycka-ostra-goinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östra göinge",
+      "gps": "56.237877,14.216166"
+    }
+  },
+  {
+    "id": 468529,
+    "datetime": "2023-11-07 9:52:33 +01:00",
+    "name": "07 november 09:32, Trafikbrott, Lycksele",
+    "summary": "Norrmalm, polisen stoppar en lastbil",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0932-trafikbrott-lycksele/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
     "id": 468527,
     "datetime": "2023-11-07 9:32:48 +01:00",
     "name": "07 november 09:13, Trafikolycka, Malung-Sälen",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Malung-Sälen",
       "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 468528,
+    "datetime": "2023-11-07 9:51:08 +01:00",
+    "name": "07 november 09:20, Övrigt, Täby",
+    "summary": "Poliser är på plats vid en skola i Täby för att genomföra en kontroll",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0920-ovrigt-taby/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Skövde",
       "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 466628,
-    "datetime": "2023-10-31 18:59:14 +01:00",
-    "name": "31 oktober 16:30, Trafikolycka, personskada, Södertälje",
-    "summary": "Person påkörd vid övergångsställe.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1630-trafikolycka-personskada-sodertalje/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 466627,
-    "datetime": "2023-10-31 18:59:09 +01:00",
-    "name": "31 oktober 16:52, Trafikolycka, personskada, Sollentuna",
-    "summary": "Krock i Häggvikstunneln.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1652-trafikolycka-personskada-sollentuna/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 466626,
-    "datetime": "2023-10-31 18:59:04 +01:00",
-    "name": "31 oktober 17:02, Trafikolycka, personskada, Stockholm",
-    "summary": "Påkörd person i Hässelby villastad.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1702-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
