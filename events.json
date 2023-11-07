@@ -1,5 +1,101 @@
 [
   {
+    "id": 468544,
+    "datetime": "2023-11-07 11:22:38 +01:00",
+    "name": "07 november 09:42, Rattfylleri, Falun",
+    "summary": "En man i 65-årsåldern blir misstänkt för rattfylleri och olovlig körning.",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0942-rattfylleri-falun/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 468541,
+    "datetime": "2023-11-07 11:21:56 +01:00",
+    "name": "07 november 11:14, Övrigt, Kristianstad",
+    "summary": "Kameraövervakning med UAS (drönare) i Kristianstad",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-1114-ovrigt-kristianstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 468540,
+    "datetime": "2023-11-07 11:21:13 +01:00",
+    "name": "07 november 08:26, Rattfylleri, Falun",
+    "summary": "En man i 20-årsåldern stoppas och blir misstänkt för drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0826-rattfylleri-falun/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 468509,
+    "datetime": "2023-11-07 8:35:09 +01:00",
+    "name": "07 november 07:59, Trafikolycka, Malung-Sälen",
+    "summary": "En trafikolycka har inträffat i Malung.",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0759-trafikolycka-malung-salen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 468528,
+    "datetime": "2023-11-07 9:51:08 +01:00",
+    "name": "07 november 09:20, Övrigt, Täby",
+    "summary": "Poliser är på plats vid en skola i Täby för att genomföra en kontroll",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0920-ovrigt-taby/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
+    "id": 468531,
+    "datetime": "2023-11-07 11:03:43 +01:00",
+    "name": "07 november 08:44, Räddningsinsats, Uppvidinge",
+    "summary": "Larm om drunkningstillbud, Åseda",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0844-raddningsinsats-uppvidinge/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Uppvidinge",
+      "gps": "57.014575,15.381174"
+    }
+  },
+  {
+    "id": 468537,
+    "datetime": "2023-11-07 10:54:25 +01:00",
+    "name": "07 november 07:52, Trafikkontroll, Västerbottens län",
+    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0752-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 468508,
+    "datetime": "2023-11-07 8:16:24 +01:00",
+    "name": "06 november 23:06, Bedrägeri, Gävle",
+    "summary": "Försök till grovt bedrägeri, Gävle",
+    "url": "/aktuellt/handelser/2023/november/6/06-november-2306-bedrageri-gavle/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 468533,
     "datetime": "2023-11-07 10:32:07 +01:00",
     "name": "07 november 07:27, Vapenlagen, Göteborg",
@@ -60,18 +156,6 @@
     }
   },
   {
-    "id": 468528,
-    "datetime": "2023-11-07 9:51:08 +01:00",
-    "name": "07 november 09:20, Övrigt, Täby",
-    "summary": "Poliser är på plats vid en skola i Täby för att genomföra en kontroll",
-    "url": "/aktuellt/handelser/2023/november/7/07-november-0920-ovrigt-taby/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Täby",
-      "gps": "59.4419,18.07033"
-    }
-  },
-  {
     "id": 468526,
     "datetime": "2023-11-07 9:21:08 +01:00",
     "name": "07 november 07:58, Trafikbrott, Kalix",
@@ -96,18 +180,6 @@
     }
   },
   {
-    "id": 468509,
-    "datetime": "2023-11-07 8:35:09 +01:00",
-    "name": "07 november 07:59, Trafikolycka, Malung-Sälen",
-    "summary": "En trafikolycka har inträffat i Malung.",
-    "url": "/aktuellt/handelser/2023/november/7/07-november-0759-trafikolycka-malung-salen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
-    }
-  },
-  {
     "id": 467459,
     "datetime": "2023-11-06 17:09:51 +01:00",
     "name": "06 november 17:03, Försvunnen person, Arvika",
@@ -117,18 +189,6 @@
     "location": {
       "name": "Arvika",
       "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 468508,
-    "datetime": "2023-11-07 8:16:24 +01:00",
-    "name": "06 november 23:06, Bedrägeri, Gävle",
-    "summary": "Försök till grovt bedrägeri, Gävle",
-    "url": "/aktuellt/handelser/2023/november/6/06-november-2306-bedrageri-gavle/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 466633,
-    "datetime": "2023-10-31 20:13:01 +01:00",
-    "name": "31 oktober 17:11, Trafikolycka, personskada, Södertälje",
-    "summary": "Krock mellan cyklist och personbil.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1711-trafikolycka-personskada-sodertalje/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 466632,
-    "datetime": "2023-10-31 20:10:05 +01:00",
-    "name": "31 oktober 19:12, Rattfylleri, Södertälje",
-    "summary": "Förföljande på E4.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1912-rattfylleri-sodertalje/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 466630,
-    "datetime": "2023-10-31 20:06:05 +01:00",
-    "name": "31 oktober 20:00, Rån, Nyköping",
-    "summary": "Flera personer rånade i centrala Nyköping.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-2000-ran-nykoping/",
-    "type": "Rån",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 466629,
-    "datetime": "2023-10-31 20:05:45 +01:00",
-    "name": "31 oktober 18:37, Narkotikabrott, Torsby",
-    "summary": "En man misstänks för narkotikabrott efter personkontroll i centrala Torsby.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1837-narkotikabrott-torsby/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
-    }
-  },
-  {
-    "id": 466620,
-    "datetime": "2023-10-31 18:17:28 +01:00",
-    "name": "31 oktober 17:51, Trafikolycka, singel, Ludvika",
-    "summary": "En singelolycka har inträffat på Rv 66 nordost om Ludvika",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-1751-trafikolycka-singel-ludvika/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
     }
   }
 ]
