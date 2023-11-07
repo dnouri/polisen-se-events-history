@@ -1,5 +1,65 @@
 [
   {
+    "id": 468655,
+    "datetime": "2023-11-07 15:20:11 +01:00",
+    "name": "07 november 14:41, Trafikolycka, Karlstad",
+    "summary": "En trafikolycka har inträffat på Lv236, våghusbron i Karlstad.",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-1441-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 467274,
+    "datetime": "2023-11-04 11:14:04 +01:00",
+    "name": "04 november 11:13, Mord/dråp, Kalix",
+    "summary": "Man anhållen misstänkt för mord.",
+    "url": "/aktuellt/handelser/2023/november/4/04-november-1113-morddrap-kalix/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 468653,
+    "datetime": "2023-11-07 15:05:20 +01:00",
+    "name": "07 november 11:45, Trafikolycka, personskada, Västerås",
+    "summary": "Man i 20-årsåldern till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-1145-trafikolycka-personskada-vasteras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 468652,
+    "datetime": "2023-11-07 15:02:30 +01:00",
+    "name": "07 november 14:51, Uppdatering, Avesta",
+    "summary": "Det har brunnit i ett hus i Avesta kommun",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-1451-uppdatering-avesta/",
+    "type": "Uppdatering",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 468531,
+    "datetime": "2023-11-07 11:03:43 +01:00",
+    "name": "07 november 08:44, Räddningsinsats, Uppvidinge",
+    "summary": "Larm om drunkningstillbud, Åseda",
+    "url": "/aktuellt/handelser/2023/november/7/07-november-0844-raddningsinsats-uppvidinge/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Uppvidinge",
+      "gps": "57.014575,15.381174"
+    }
+  },
+  {
     "id": 468651,
     "datetime": "2023-11-07 14:41:08 +01:00",
     "name": "07 november 13:32, Arbetsplatsolycka, Falkenberg",
@@ -177,18 +237,6 @@
     "location": {
       "name": "Malung-Sälen",
       "gps": "60.900926,13.322618"
-    }
-  },
-  {
-    "id": 468531,
-    "datetime": "2023-11-07 11:03:43 +01:00",
-    "name": "07 november 08:44, Räddningsinsats, Uppvidinge",
-    "summary": "Larm om drunkningstillbud, Åseda",
-    "url": "/aktuellt/handelser/2023/november/7/07-november-0844-raddningsinsats-uppvidinge/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Uppvidinge",
-      "gps": "57.014575,15.381174"
     }
   },
   {
@@ -2409,18 +2457,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 467274,
-    "datetime": "2023-11-04 11:14:04 +01:00",
-    "name": "04 november 11:13, Mord/dråp, Kalix",
-    "summary": "Man anhållen misstänkt för mord.",
-    "url": "/aktuellt/handelser/2023/november/4/04-november-1113-morddrap-kalix/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 466645,
-    "datetime": "2023-10-31 22:35:06 +01:00",
-    "name": "31 oktober 21:18, Brand, Stockholm",
-    "summary": "Misstänkt anlagd brand på ett hotell.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-2118-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 466644,
-    "datetime": "2023-10-31 22:30:38 +01:00",
-    "name": "31 oktober 21:23, Rån, Stockholm",
-    "summary": "Taxiförare slagen och rånad av kund.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-2123-ran-stockholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 466643,
-    "datetime": "2023-10-31 22:24:42 +01:00",
-    "name": "31 oktober 20:57, Rån, Järfälla",
-    "summary": "Tonårspojke rånas i Kallhäll.",
-    "url": "/aktuellt/handelser/2023/oktober/31/31-oktober-2057-ran-jarfalla/",
-    "type": "Rån",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
     }
   }
 ]
