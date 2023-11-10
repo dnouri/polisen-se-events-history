@@ -1,5 +1,53 @@
 [
   {
+    "id": 469385,
+    "datetime": "2023-11-10 8:38:46 +01:00",
+    "name": "10 november 07.49, Trafikolycka, Örnsköldsvik",
+    "summary": "Larm om trafikolycka på länsväg 348/Hörnäsvägen, Överhörnäs.",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-07.49-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 469382,
+    "datetime": "2023-11-10 8:27:17 +01:00",
+    "name": "10 november 07.42, Trafikolycka, Skellefteå",
+    "summary": "Flera trafikolyckor på samma sträcka på länsväg 364 Djuptjän, Skellefteå.",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-07.42-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 469371,
+    "datetime": "2023-11-10 8:21:42 +01:00",
+    "name": "10 november 06.59, Trafikolycka, Varberg",
+    "summary": "Trafikolycka mellan personbil och cyklist vid Kvarnagården.",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-06.59-trafikolycka-varberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 469351,
+    "datetime": "2023-11-09 20:52:59 +01:00",
+    "name": "09 november 19.35, Skottlossning, misstänkt, Borlänge",
+    "summary": "Polisen är på plats i centrala Borlänge med anledning av en misstänkt skottlossning",
+    "url": "/aktuellt/handelser/2023/november/9/09-november-19.35-skottlossning-misstankt-borlange/",
+    "type": "Skottlossning, misstänkt",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 469381,
     "datetime": "2023-11-10 8:15:26 +01:00",
     "name": "10 november 07.51, Trafikolycka, Kristianstad",
@@ -285,18 +333,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 469351,
-    "datetime": "2023-11-09 20:52:59 +01:00",
-    "name": "09 november 19.35, Skottlossning, misstänkt, Borlänge",
-    "summary": "Polisen är på plats i centrala Borlänge med anledning av en misstänkt skottlossning",
-    "url": "/aktuellt/handelser/2023/november/9/09-november-19.35-skottlossning-misstankt-borlange/",
-    "type": "Skottlossning, misstänkt",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 467087,
-    "datetime": "2023-11-03 7:02:03 +01:00",
-    "name": "03 november 02:00, Trafikbrott, Gotland",
-    "summary": "I samband med att en polispatrull stoppade en A-traktor på sydöstra Gotland för kontroll uppdagades flera brot",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-0200-trafikbrott-gotland/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Gotland",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 467086,
-    "datetime": "2023-11-03 7:01:51 +01:00",
-    "name": "03 november 02:43, Motorfordon, stöld, Alvesta",
-    "summary": "Man gripen för försök till stöld av bil",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-0243-motorfordon-stold-alvesta/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
-    }
-  },
-  {
-    "id": 467076,
-    "datetime": "2023-11-03 0:37:41 +01:00",
-    "name": "02 november 22:56, Mord/dråp, försök, Uppsala",
-    "summary": "Skottlossning mot lägenhet.",
-    "url": "/aktuellt/handelser/2023/november/2/02-november-2256-morddrap-forsok-uppsala/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
