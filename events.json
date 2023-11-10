@@ -1,5 +1,101 @@
 [
   {
+    "id": 469506,
+    "datetime": "2023-11-10 21:15:47 +01:00",
+    "name": "10 november 20.46, Trafikkontroll, Luleå",
+    "summary": "Innerstaden, resultat efter trafikkontroll vid Sandviksgatan",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-20.46-trafikkontroll-lulea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 469504,
+    "datetime": "2023-11-10 21:13:55 +01:00",
+    "name": "10 november 20.37, Brand, Uppsala",
+    "summary": "Bil brinner på parkering i Årsta.",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-20.37-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 469503,
+    "datetime": "2023-11-10 21:12:08 +01:00",
+    "name": "10 november 21.05, Misshandel, Bromölla",
+    "summary": "Man gripen, Bromölla.",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-21.05-misshandel-bromolla/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Bromölla",
+      "gps": "56.074362,14.477659"
+    }
+  },
+  {
+    "id": 469502,
+    "datetime": "2023-11-10 21:09:53 +01:00",
+    "name": "10 november 19.24, Trafikbrott, Umeå",
+    "summary": "Kasamark, trafikant stoppad efter hastighetsöverträdelse på länsväg 512",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-19.24-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 469501,
+    "datetime": "2023-11-10 21:07:06 +01:00",
+    "name": "10 november 17.33, Trafikolycka, personskada, Arvika",
+    "summary": "En person i tjugofemårsåldern fördes till sjukhus efter en trafikolycka på riksväg 61 öster om Arvika under fr",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-17.33-trafikolycka-personskada-arvika/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 469500,
+    "datetime": "2023-11-10 21:05:56 +01:00",
+    "name": "10 november 19.44, Olovlig körning, Umeå",
+    "summary": "Länsväg 512 mellan Gräsmyr och Umeå, trafikant stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-19.44-olovlig-korning-umea/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 469495,
+    "datetime": "2023-11-10 20:19:16 +01:00",
+    "name": "10 november 20.13, Trafikolycka, Karlskrona",
+    "summary": "Två personbilar i olycka, Flyeryd.",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-20.13-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 469499,
+    "datetime": "2023-11-10 21:00:54 +01:00",
+    "name": "10 november 16.42, Rattfylleri, Örebro",
+    "summary": "Kvinna i femtiofemårsåldern omhändertagen misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-16.42-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 469498,
     "datetime": "2023-11-10 20:35:52 +01:00",
     "name": "10 november 19.25, Rattfylleri, Arvika",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Älvdalen",
       "gps": "61.227306,14.041987"
-    }
-  },
-  {
-    "id": 469495,
-    "datetime": "2023-11-10 20:19:16 +01:00",
-    "name": "10 november 20.13, Trafikolycka, Karlskrona",
-    "summary": "Två personbilar i olycka, Flyeryd.",
-    "url": "/aktuellt/handelser/2023/november/10/10-november-20.13-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Bjuv",
       "gps": "56.087102,12.912505"
-    }
-  },
-  {
-    "id": 467189,
-    "datetime": "2023-11-03 16:19:01 +01:00",
-    "name": "03 november 14:34, Trafikolycka, vilt, Härjedalen",
-    "summary": "Polisen får in en anmälan om en olycka med en personbil och tre renar.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1434-trafikolycka-vilt-harjedalen/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 467188,
-    "datetime": "2023-11-03 16:15:33 +01:00",
-    "name": "03 november 14:50, Narkotikabrott, Sundsvall",
-    "summary": "Polisen kontaktas om en påverkad man i en butik i Birsta.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1450-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 467187,
-    "datetime": "2023-11-03 16:12:08 +01:00",
-    "name": "03 november 14:11, Olovlig körning, Sundsvall",
-    "summary": "Misstänkt grov olovlig körning, Södermalm.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1411-olovlig-korning-sundsvall/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 467186,
-    "datetime": "2023-11-03 16:08:58 +01:00",
-    "name": "03 november 13:58, Knivlagen, Härnösand",
-    "summary": "Polisen kontaktas om att en man i en kommunal byggnad i centrala Härnösand har en kniv på sig.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1358-knivlagen-harnosand/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 467183,
-    "datetime": "2023-11-03 16:05:47 +01:00",
-    "name": "03 november 15:06, Trafikkontroll, Boden",
-    "summary": "Resultat efter trafikkontroll på Svängleden, Sävast.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1506-trafikkontroll-boden/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 467184,
-    "datetime": "2023-11-03 15:31:13 +01:00",
-    "name": "03 november 15:21, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på E18 i Varberga.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1521-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 467180,
-    "datetime": "2023-11-03 14:53:06 +01:00",
-    "name": "03 november 11:01, Hemfridsbrott, Gagnef",
-    "summary": "En man i trettiofemårsåldern har gripits misstänkt för grovt hemfridsbrott.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1101-hemfridsbrott-gagnef/",
-    "type": "Hemfridsbrott",
-    "location": {
-      "name": "Gagnef",
-      "gps": "60.590983,15.070049"
     }
   }
 ]
