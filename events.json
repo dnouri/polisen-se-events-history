@@ -1,5 +1,41 @@
 [
   {
+    "id": 469547,
+    "datetime": "2023-11-11 12:07:01 +01:00",
+    "name": "11 november 10.22, Brand, Piteå",
+    "summary": "Piteå, larm om brand i villa.",
+    "url": "/aktuellt/handelser/2023/november/11/11-november-10.22-brand-pitea/",
+    "type": "Brand",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 469553,
+    "datetime": "2023-11-11 13:27:16 +01:00",
+    "name": "11 november 11.14, Inbrott, Vännäs",
+    "summary": "Vännäs, polis tar upp anmälan om inbrottsstöld.",
+    "url": "/aktuellt/handelser/2023/november/11/11-november-11.14-inbrott-vannas/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Vännäs",
+      "gps": "63.908007,19.752965"
+    }
+  },
+  {
+    "id": 469552,
+    "datetime": "2023-11-11 12:57:33 +01:00",
+    "name": "11 november 11.21, Övrigt, Borås",
+    "summary": "En bilist ringer in om en lastbil som kör med dåligt surrad last.",
+    "url": "/aktuellt/handelser/2023/november/11/11-november-11.21-ovrigt-boras/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
     "id": 469550,
     "datetime": "2023-11-11 12:42:32 +01:00",
     "name": "11 november 12.26, Brand, Ale",
@@ -21,18 +57,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 469547,
-    "datetime": "2023-11-11 12:07:01 +01:00",
-    "name": "11 november 10.22, Brand, Piteå",
-    "summary": "Piteå, larm om brand i villa.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-10.22-brand-pitea/",
-    "type": "Brand",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 467178,
-    "datetime": "2023-11-03 21:45:21 +01:00",
-    "name": "03 november 21:45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-2145-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 467219,
-    "datetime": "2023-11-03 21:42:41 +01:00",
-    "name": "03 november 15:37, Rån, Östersund",
-    "summary": "Polisen får kännedom om att en man i centrala Östersund ska ha blivit rånad på personliga tillhörigheter.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1537-ran-ostersund/",
-    "type": "Rån",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
