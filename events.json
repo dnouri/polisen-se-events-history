@@ -1,5 +1,77 @@
 [
   {
+    "id": 469523,
+    "datetime": "2023-11-11 7:22:53 +01:00",
+    "name": "11 november 01.55, Skadegörelse, Uppsala",
+    "summary": "Man krossar ruta i centrala Uppsala.",
+    "url": "/aktuellt/handelser/2023/november/11/11-november-01.55-skadegorelse-uppsala/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 469522,
+    "datetime": "2023-11-11 7:18:26 +01:00",
+    "name": "10 november 20.28, Mord/dråp, Västerås",
+    "summary": "Man anträffad avliden utomhus i Västerås.",
+    "url": "/aktuellt/handelser/2023/november/10/10-november-20.28-morddrap-vasteras/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 469521,
+    "datetime": "2023-11-11 7:12:54 +01:00",
+    "name": "11 november 01.46, Brand, Höganäs",
+    "summary": "Brand i byggnad på Västra Parkgatan.",
+    "url": "/aktuellt/handelser/2023/november/11/11-november-01.46-brand-hoganas/",
+    "type": "Brand",
+    "location": {
+      "name": "Höganäs",
+      "gps": "56.200639,12.555329"
+    }
+  },
+  {
+    "id": 469519,
+    "datetime": "2023-11-11 7:01:37 +01:00",
+    "name": "11 november 01.36, Brand, Malmö",
+    "summary": "Brand i butik på Holma torg.",
+    "url": "/aktuellt/handelser/2023/november/11/11-november-01.36-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 469518,
+    "datetime": "2023-11-11 6:54:13 +01:00",
+    "name": "11 november 02.17, Brand, Malmö",
+    "summary": "Brand i matvagn på Pilgatan.",
+    "url": "/aktuellt/handelser/2023/november/11/11-november-02.17-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 469517,
+    "datetime": "2023-11-11 6:47:18 +01:00",
+    "name": "11 november 00.17, Mord/dråp, försök, Helsingborg",
+    "summary": "Skottskadad man på Tyringegatan.",
+    "url": "/aktuellt/handelser/2023/november/11/11-november-00.17-morddrap-forsok-helsingborg/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 469509,
     "datetime": "2023-11-10 22:56:42 +01:00",
     "name": "10 november 21.32, Rattfylleri, Vimmerby",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 467200,
-    "datetime": "2023-11-03 17:41:11 +01:00",
-    "name": "03 november 17:37, Stöld/inbrott, Värnamo",
-    "summary": "Inbrott i bostad i västra delarna av Värnamo",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1737-stoldinbrott-varnamo/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 467197,
-    "datetime": "2023-11-03 17:16:11 +01:00",
-    "name": "03 november 16:30, Trafikolycka, vilt, Umeå",
-    "summary": "Larm om trafikolycka med personbil och älg på E12, väster om Brännland.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1630-trafikolycka-vilt-umea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 467182,
-    "datetime": "2023-11-03 15:19:53 +01:00",
-    "name": "03 november 15:08, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på E18 i Glanshammar.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1508-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 467193,
-    "datetime": "2023-11-03 17:09:42 +01:00",
-    "name": "03 november 16:20, Trafikolycka, Örnsköldsvik",
-    "summary": "Larm om trafikolycka på E4, Idbyn.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1620-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 467198,
-    "datetime": "2023-11-03 17:17:35 +01:00",
-    "name": "03 november 15:41, Trafikolycka, Uppsala",
-    "summary": "Bilist kolliderar med flera fordon.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1541-trafikolycka-uppsala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 467196,
-    "datetime": "2023-11-03 16:51:20 +01:00",
-    "name": "03 november 12:27, Stöld, Karlskoga",
-    "summary": "En man i 40-årsåldern blir misstänkt för flera fall av stöld samt förgripelse mot tjänsteman.",
-    "url": "/aktuellt/handelser/2023/november/3/03-november-1227-stold-karlskoga/",
-    "type": "Stöld",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   }
 ]
