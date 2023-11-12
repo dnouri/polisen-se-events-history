@@ -1,5 +1,65 @@
 [
   {
+    "id": 469616,
+    "datetime": "2023-11-12 13:25:57 +01:00",
+    "name": "12 november 12.08, Trafikolycka, Göteborg",
+    "summary": "En buss och personbil har krockat på Björlandavägen i höjd med Slättadamm.",
+    "url": "/aktuellt/handelser/2023/november/12/12-november-12.08-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 469617,
+    "datetime": "2023-11-12 13:32:25 +01:00",
+    "name": "12 november 13.14, Trafikolycka, Kil",
+    "summary": "En olycka har inträffat i Lene-Brevik",
+    "url": "/aktuellt/handelser/2023/november/12/12-november-13.14-trafikolycka-kil/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
+    }
+  },
+  {
+    "id": 469609,
+    "datetime": "2023-11-12 11:35:04 +01:00",
+    "name": "12 november 11.06, Brand, Skellefteå",
+    "summary": "Larm om brand i villa utanför Skellefteå.",
+    "url": "/aktuellt/handelser/2023/november/12/12-november-11.06-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 469615,
+    "datetime": "2023-11-12 13:17:30 +01:00",
+    "name": "12 november 11.29, Knivlagen, Mölndal",
+    "summary": "Larm inkommer om att en tjej och kille bråkar och uppträder aggressivt mot varandra på Gundefjällsgatan i Ball",
+    "url": "/aktuellt/handelser/2023/november/12/12-november-11.29-knivlagen-molndal/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 469614,
+    "datetime": "2023-11-12 12:57:39 +01:00",
+    "name": "12 november 11.53, Trafikolycka, personskada, Göteborg",
+    "summary": "En bilist har kört in i en stolpe på länsväg 190.",
+    "url": "/aktuellt/handelser/2023/november/12/12-november-11.53-trafikolycka-personskada-goteborg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 469613,
     "datetime": "2023-11-12 12:35:19 +01:00",
     "name": "12 november 12.35, Trafikkontroll, Västernorrlands län",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 469609,
-    "datetime": "2023-11-12 11:35:04 +01:00",
-    "name": "12 november 11.06, Brand, Skellefteå",
-    "summary": "Larm om brand i villa utanför Skellefteå.",
-    "url": "/aktuellt/handelser/2023/november/12/12-november-11.06-brand-skelleftea/",
-    "type": "Brand",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Ronneby",
       "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 467313,
-    "datetime": "2023-11-05 7:06:46 +01:00",
-    "name": "05 november 07:06, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2023/november/5/05-november-0706-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 467312,
-    "datetime": "2023-11-05 7:05:45 +01:00",
-    "name": "05 november 01:06, Brand, Svedala",
-    "summary": "Brand vid skola, Klågerup.",
-    "url": "/aktuellt/handelser/2023/november/5/05-november-0106-brand-svedala/",
-    "type": "Brand",
-    "location": {
-      "name": "Svedala",
-      "gps": "55.508908,13.23711"
-    }
-  },
-  {
-    "id": 467310,
-    "datetime": "2023-11-05 7:01:11 +01:00",
-    "name": "05 november 06:30, Stöld/inbrott, Kristianstad",
-    "summary": "Stulen MC, Gärds Köpinge.",
-    "url": "/aktuellt/handelser/2023/november/5/05-november-0630-stoldinbrott-kristianstad/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 467309,
-    "datetime": "2023-11-05 6:54:08 +01:00",
-    "name": "05 november 05:25, Rån, Sölvesborg",
-    "summary": "Cyklande man rånad, Lörby.",
-    "url": "/aktuellt/handelser/2023/november/5/05-november-0525-ran-solvesborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
     }
   }
 ]
