@@ -1,5 +1,101 @@
 [
   {
+    "id": 471132,
+    "datetime": "2023-11-16 17:25:45 +01:00",
+    "name": "16 november 16.14, Trafikolycka, Göteborg",
+    "summary": "Trafikolycka E45",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-16.14-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 471131,
+    "datetime": "2023-11-16 17:18:52 +01:00",
+    "name": "16 november 16.29, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på riksväg 97 Notviken, Luleå.",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-16.29-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 471130,
+    "datetime": "2023-11-16 17:13:02 +01:00",
+    "name": "16 november 11.11, Stöld, Östersund",
+    "summary": "Man anhållen misstänkt för stöld.",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-11.11-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 471129,
+    "datetime": "2023-11-16 17:03:18 +01:00",
+    "name": "16 november 16.42, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på Fogvägen på Ersboda i Umeå.",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-16.42-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 471117,
+    "datetime": "2023-11-16 16:06:32 +01:00",
+    "name": "16 november 16.03, Trafikolycka, Eksjö",
+    "summary": "Bil i Eksjöån",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-16.03-trafikolycka-eksjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eksjö",
+      "gps": "57.665165,14.973221"
+    }
+  },
+  {
+    "id": 471128,
+    "datetime": "2023-11-16 16:56:25 +01:00",
+    "name": "16 november 16.26, Trafikolycka, Sundsvall",
+    "summary": "Trafikolycka i Gustavsberg, Södra Alnö.",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-16.26-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 471127,
+    "datetime": "2023-11-16 16:55:04 +01:00",
+    "name": "16 november 15.15, Trafikolycka, personskada, Halmstad",
+    "summary": "Krock bilist och cyklist",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-15.15-trafikolycka-personskada-halmstad/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 471126,
+    "datetime": "2023-11-16 16:52:21 +01:00",
+    "name": "16 november 16.41, Övrigt, Hammarö",
+    "summary": "Polisen har förhindrat ett grovt brott i Värmland",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-16.41-ovrigt-hammaro/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hammarö",
+      "gps": "59.311466,13.529854"
+    }
+  },
+  {
     "id": 471124,
     "datetime": "2023-11-16 16:43:53 +01:00",
     "name": "16 november 16.24, Trafikolycka, Jönköping",
@@ -45,18 +141,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 471117,
-    "datetime": "2023-11-16 16:06:32 +01:00",
-    "name": "16 november 16.03, Trafikolycka, Eksjö",
-    "summary": "Bil i Eksjöån",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-16.03-trafikolycka-eksjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eksjö",
-      "gps": "57.665165,14.973221"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Ronneby",
       "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 469224,
-    "datetime": "2023-11-08 20:51:40 +01:00",
-    "name": "08 november 19:40, Brand, Lycksele",
-    "summary": "Forsdala, polisen larmas om en brand i en container",
-    "url": "/aktuellt/handelser/2023/november/8/08-november-1940-brand-lycksele/",
-    "type": "Brand",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 469223,
-    "datetime": "2023-11-08 20:30:08 +01:00",
-    "name": "08 november 20:01, Rattfylleri, Säffle",
-    "summary": "Polispatrull har stoppat en påverkad bilist efter tips i Säffle.",
-    "url": "/aktuellt/handelser/2023/november/8/08-november-2001-rattfylleri-saffle/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
-    }
-  },
-  {
-    "id": 469196,
-    "datetime": "2023-11-08 16:34:17 +01:00",
-    "name": "08 november 16:12, Misshandel, grov, Lund",
-    "summary": "Annehem. Personrån utomhus.",
-    "url": "/aktuellt/handelser/2023/november/8/08-november-1612-misshandel-grov-lund/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 469222,
-    "datetime": "2023-11-08 20:28:48 +01:00",
-    "name": "08 november 19:25, Fylleri/LOB, Sunne",
-    "summary": "Påverkad man omhändertagen i Sunne.",
-    "url": "/aktuellt/handelser/2023/november/8/08-november-1925-fyllerilob-sunne/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 469221,
-    "datetime": "2023-11-08 20:10:16 +01:00",
-    "name": "08 november 19:44, Trafikolycka, Jokkmokk",
-    "summary": "E45/Muddusvägen, en lastbil med släp har kört ner i diket",
-    "url": "/aktuellt/handelser/2023/november/8/08-november-1944-trafikolycka-jokkmokk/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 469220,
-    "datetime": "2023-11-08 20:06:08 +01:00",
-    "name": "08 november 19:42, Trafikbrott, Arvidsjaur",
-    "summary": "Centrala Arvidsjaur, polisen stoppar en A-traktor som kör vårdslöst",
-    "url": "/aktuellt/handelser/2023/november/8/08-november-1942-trafikbrott-arvidsjaur/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Arvidsjaur",
-      "gps": "65.592077,19.180283"
-    }
-  },
-  {
-    "id": 469219,
-    "datetime": "2023-11-08 20:01:55 +01:00",
-    "name": "08 november 17:18, Rattfylleri, Boden",
-    "summary": "Sävast, polisen stoppar en personbil",
-    "url": "/aktuellt/handelser/2023/november/8/08-november-1718-rattfylleri-boden/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
     }
   }
 ]
