@@ -1,14 +1,26 @@
 [
   {
-    "id": 471141,
-    "datetime": "2023-11-16 19:03:47 +01:00",
-    "name": "16 november 17.29, Rattfylleri, Östersund",
-    "summary": "Misstänkt drograttfylleri på Campusområdet i Östersund.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-17.29-rattfylleri-ostersund/",
-    "type": "Rattfylleri",
+    "id": 471147,
+    "datetime": "2023-11-16 20:12:09 +01:00",
+    "name": "16 november 16.41, Fylleri/LOB, Kalix",
+    "summary": "Berusad man omhändertagen på hotell i Kalix.",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-16.41-fyllerilob-kalix/",
+    "type": "Fylleri/LOB",
     "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 471146,
+    "datetime": "2023-11-16 20:07:02 +01:00",
+    "name": "16 november 18.37, Trafikolycka, Örnsköldsvik",
+    "summary": "Trafikolycka på Brogatan/Modovägen i Domsjö.",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-18.37-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -21,6 +33,54 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 471145,
+    "datetime": "2023-11-16 19:55:11 +01:00",
+    "name": "16 november 19.54, Rattfylleri, Örebro län",
+    "summary": "Polisen har under torsdagen tagit nio rattfyllerister runt om i regionen",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-19.54-rattfylleri-orebro-lan/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 471144,
+    "datetime": "2023-11-16 19:54:43 +01:00",
+    "name": "16 november 19.54, Rattfylleri, Dalarnas län",
+    "summary": "Polisen har under torsdagen tagit nio rattfyllerister runt om i regionen",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-19.54-rattfylleri-dalarnas-lan/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 471142,
+    "datetime": "2023-11-16 19:54:14 +01:00",
+    "name": "16 november 19.50, Rattfylleri, Värmlands län",
+    "summary": "Polisen har under torsdagen tagit nio rattfyllerister runt om i regionen",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-19.50-rattfylleri-varmlands-lan/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 471141,
+    "datetime": "2023-11-16 19:03:47 +01:00",
+    "name": "16 november 17.29, Rattfylleri, Östersund",
+    "summary": "Misstänkt drograttfylleri på Campusområdet i Östersund.",
+    "url": "/aktuellt/handelser/2023/november/16/16-november-17.29-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Karlshamn",
       "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 469234,
-    "datetime": "2023-11-09 7:07:06 +01:00",
-    "name": "09 november 07:07, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag polisområde Värmland",
-    "url": "/aktuellt/handelser/2023/november/9/09-november-0707-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 469236,
-    "datetime": "2023-11-09 7:03:27 +01:00",
-    "name": "09 november 01:22, Rattfylleri, Svedala",
-    "summary": "Drograttfylleri, Bara",
-    "url": "/aktuellt/handelser/2023/november/9/09-november-0122-rattfylleri-svedala/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Svedala",
-      "gps": "55.508908,13.23711"
-    }
-  },
-  {
-    "id": 469235,
-    "datetime": "2023-11-09 7:00:20 +01:00",
-    "name": "09 november 07:00, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
-    "url": "/aktuellt/handelser/2023/november/9/09-november-0700-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 469231,
-    "datetime": "2023-11-09 6:55:56 +01:00",
-    "name": "09 november 06:55, Sammanfattning natt, Örebro län",
-    "summary": "Natt till torsdag polisområde Örebro",
-    "url": "/aktuellt/handelser/2023/november/9/09-november-0655-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 469233,
-    "datetime": "2023-11-09 6:53:25 +01:00",
-    "name": "09 november 02:28, Stöld, Malmö",
-    "summary": "Larm om pågående stöld på återvinning",
-    "url": "/aktuellt/handelser/2023/november/9/09-november-0228-stold-malmo/",
-    "type": "Stöld",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
