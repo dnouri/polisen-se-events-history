@@ -1,5 +1,41 @@
 [
   {
+    "id": 471482,
+    "datetime": "2023-11-18 8:33:20 +01:00",
+    "name": "18 november 08.00, Sammanfattning natt, Jämtlands län",
+    "summary": "Jämtland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/november/18/18-november-08.00-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 471474,
+    "datetime": "2023-11-18 8:32:03 +01:00",
+    "name": "18 november 07.33, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/november/18/18-november-07.33-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 471484,
+    "datetime": "2023-11-18 8:31:50 +01:00",
+    "name": "18 november 07.39, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/november/18/18-november-07.39-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 471480,
     "datetime": "2023-11-18 8:12:21 +01:00",
     "name": "18 november 08.08, Sammanfattning natt, Jönköpings län",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 471473,
+    "datetime": "2023-11-18 8:25:26 +01:00",
+    "name": "18 november 08.00, Sammanfattning natt, Västerbottens län",
+    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2023/november/18/18-november-08.00-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 471483,
+    "datetime": "2023-11-18 8:23:08 +01:00",
+    "name": "18 november 08.12, Övrigt, Linköping",
+    "summary": "Explosion i Ljungsbro",
+    "url": "/aktuellt/handelser/2023/november/18/18-november-08.12-ovrigt-linkoping/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 469446,
-    "datetime": "2023-11-10 12:38:41 +01:00",
-    "name": "10 november 12.36, Stöld/inbrott, Hallsberg",
-    "summary": "Polisen utreder ett inbrott som inträffat under morgonen i Sannahed.",
-    "url": "/aktuellt/handelser/2023/november/10/10-november-12.36-stoldinbrott-hallsberg/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Hallsberg",
-      "gps": "59.066532,15.10229"
-    }
-  },
-  {
-    "id": 469464,
-    "datetime": "2023-11-10 13:50:13 +01:00",
-    "name": "10 november 13.27, Misshandel, Åstorp",
-    "summary": "Anträffad skadad person på Östra Vägen.",
-    "url": "/aktuellt/handelser/2023/november/10/10-november-13.27-misshandel-astorp/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 469463,
-    "datetime": "2023-11-10 13:39:47 +01:00",
-    "name": "10 november 12.46, Trafikolycka, personskada, Stockholm",
-    "summary": "Polis och ambulans kallas till Vinstavägen/Västergöksvägen i Vällingby med anledning av en trafikolycka.",
-    "url": "/aktuellt/handelser/2023/november/10/10-november-12.46-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 469462,
-    "datetime": "2023-11-10 13:37:41 +01:00",
-    "name": "10 november 12.47, Olovlig körning, Sundsvall",
-    "summary": "Olovlig körning i Svartvik, Sundsvall.",
-    "url": "/aktuellt/handelser/2023/november/10/10-november-12.47-olovlig-korning-sundsvall/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 469461,
-    "datetime": "2023-11-10 13:35:07 +01:00",
-    "name": "10 november 13.34, Trafikkontroll, Umeå",
-    "summary": "Resultat av trafikkontroll på E12 vid trafikplats Klockarbäcken, Umeå.",
-    "url": "/aktuellt/handelser/2023/november/10/10-november-13.34-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
