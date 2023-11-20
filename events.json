@@ -1,5 +1,77 @@
 [
   {
+    "id": 471632,
+    "datetime": "2023-11-20 13:37:27 +01:00",
+    "name": "20 november 12.39, Räddningsinsats, Eslöv",
+    "summary": "Polis larmas till Örtofta med anledning av en räddningsinsats.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-12.39-raddningsinsats-eslov/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 471631,
+    "datetime": "2023-11-20 13:36:19 +01:00",
+    "name": "20 november 12.48, Stöld, Östersund",
+    "summary": "Centrala Östersund, polisen kallas till en butik",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-12.48-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 471613,
+    "datetime": "2023-11-20 13:35:04 +01:00",
+    "name": "20 november 12.30, Vapenlagen, Göteborg",
+    "summary": "Polisen larmas om en pågående mopedstöld vid Heden.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-12.30-vapenlagen-goteborg/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 471585,
+    "datetime": "2023-11-20 8:00:25 +01:00",
+    "name": "20 november 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en enstaka notis från natten.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 471625,
+    "datetime": "2023-11-20 12:47:44 +01:00",
+    "name": "20 november 12.03, Trafikolycka, vilt, Härjedalen",
+    "summary": "Riksväg 84/Ulvbergsvägen, en personbil har kolliderat med en ren",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-12.03-trafikolycka-vilt-harjedalen/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 471624,
+    "datetime": "2023-11-20 12:45:16 +01:00",
+    "name": "20 november 10.09, Trafikolycka, vilt, Östersund",
+    "summary": "Länsväg 556 Tandsbyn, en lastbil har kolliderat med ett rådjur",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-10.09-trafikolycka-vilt-ostersund/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 471623,
     "datetime": "2023-11-20 12:32:23 +01:00",
     "name": "20 november 11.48, Trafikolycka, Österåker",
@@ -177,18 +249,6 @@
     "location": {
       "name": "Kungälv",
       "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 471585,
-    "datetime": "2023-11-20 8:00:25 +01:00",
-    "name": "20 november 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en enstaka notis från natten.",
-    "url": "/aktuellt/handelser/2023/november/20/20-november-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Lidingö",
       "gps": "59.36296,18.1468"
-    }
-  },
-  {
-    "id": 469619,
-    "datetime": "2023-11-12 13:36:02 +01:00",
-    "name": "12 november 12.15, Rån, Värmdö",
-    "summary": "Polis kallas till Munkmora med anledning av att en kvinna blivit utsatt för ett personrån.",
-    "url": "/aktuellt/handelser/2023/november/12/12-november-12.15-ran-varmdo/",
-    "type": "Rån",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 469618,
-    "datetime": "2023-11-12 13:35:53 +01:00",
-    "name": "12 november 11.56, Misshandel, Årjäng",
-    "summary": "En man är missstänkt för brott mot en kvinna",
-    "url": "/aktuellt/handelser/2023/november/12/12-november-11.56-misshandel-arjang/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Årjäng",
-      "gps": "59.389159,12.132717"
-    }
-  },
-  {
-    "id": 469616,
-    "datetime": "2023-11-12 13:25:57 +01:00",
-    "name": "12 november 12.08, Trafikolycka, Göteborg",
-    "summary": "En buss och personbil har krockat på Björlandavägen i höjd med Slättadamm.",
-    "url": "/aktuellt/handelser/2023/november/12/12-november-12.08-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 469609,
-    "datetime": "2023-11-12 11:35:04 +01:00",
-    "name": "12 november 11.06, Brand, Skellefteå",
-    "summary": "Larm om brand i villa utanför Skellefteå.",
-    "url": "/aktuellt/handelser/2023/november/12/12-november-11.06-brand-skelleftea/",
-    "type": "Brand",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 469615,
-    "datetime": "2023-11-12 13:17:30 +01:00",
-    "name": "12 november 11.29, Knivlagen, Mölndal",
-    "summary": "Larm inkommer om att en tjej och kille bråkar och uppträder aggressivt mot varandra på Gundefjällsgatan i Ball",
-    "url": "/aktuellt/handelser/2023/november/12/12-november-11.29-knivlagen-molndal/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
     }
   }
 ]
