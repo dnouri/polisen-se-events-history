@@ -1,5 +1,29 @@
 [
   {
+    "id": 471692,
+    "datetime": "2023-11-20 19:24:00 +01:00",
+    "name": "20 november 19.12, Brand, Höganäs",
+    "summary": "Brand i fordon på Fältgatan.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-19.12-brand-hoganas/",
+    "type": "Brand",
+    "location": {
+      "name": "Höganäs",
+      "gps": "56.200639,12.555329"
+    }
+  },
+  {
+    "id": 471690,
+    "datetime": "2023-11-20 18:45:16 +01:00",
+    "name": "20 november 18.15, Brand, Lycksele",
+    "summary": "Larm om brand i en mindre lastbil, Forsbacka.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-18.15-brand-lycksele/",
+    "type": "Brand",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
     "id": 471689,
     "datetime": "2023-11-20 18:22:21 +01:00",
     "name": "20 november 18.02, Misshandel, Växjö",
@@ -9,6 +33,54 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 471691,
+    "datetime": "2023-11-20 18:56:35 +01:00",
+    "name": "20 november 16.14, Misshandel, Sundsvall",
+    "summary": "Polispatrull beordras till en busshållplats i Stenstan med anledning av ett bråk.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-16.14-misshandel-sundsvall/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 471686,
+    "datetime": "2023-11-20 18:49:59 +01:00",
+    "name": "20 november 18.49, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 471687,
+    "datetime": "2023-11-20 18:49:31 +01:00",
+    "name": "20 november 18.49, Trafikolycka, vilt, Västernorrlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-vasternorrlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 471688,
+    "datetime": "2023-11-20 18:49:15 +01:00",
+    "name": "20 november 18.49, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Lindesberg",
       "gps": "59.597698,15.222911"
-    }
-  },
-  {
-    "id": 469646,
-    "datetime": "2023-11-13 7:32:38 +01:00",
-    "name": "13 november 07.28, Sammanfattning kväll och natt, Dalarnas län",
-    "summary": "Det har varit en normal söndagskväll och natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/november/13/13-november-07.28-sammanfattning-kvall-och-natt-dalarnas-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 469647,
-    "datetime": "2023-11-13 7:32:34 +01:00",
-    "name": "13 november 07.29, Sammanfattning kväll och natt, Värmlands län",
-    "summary": "Det har varit en lugn kväll och natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/november/13/13-november-07.29-sammanfattning-kvall-och-natt-varmlands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 469649,
-    "datetime": "2023-11-13 7:32:29 +01:00",
-    "name": "13 november 07.31, Sammanfattning kväll och natt, Örebro län",
-    "summary": "Det har varit en lung kväll och natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2023/november/13/13-november-07.31-sammanfattning-kvall-och-natt-orebro-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 469648,
-    "datetime": "2023-11-13 7:31:44 +01:00",
-    "name": "13 november 07.27, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/november/13/13-november-07.27-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 469644,
-    "datetime": "2023-11-13 7:26:45 +01:00",
-    "name": "13 november 07.24, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/november/13/13-november-07.24-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 469643,
-    "datetime": "2023-11-13 7:24:26 +01:00",
-    "name": "13 november 07.20, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/november/13/13-november-07.20-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
