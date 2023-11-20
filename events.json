@@ -1,5 +1,53 @@
 [
   {
+    "id": 471572,
+    "datetime": "2023-11-20 7:22:25 +01:00",
+    "name": "20 november 07.03, Trafikolycka, Kungälv",
+    "summary": "SOS larmas om en flerbilskrock på E6, mellan Kungälv och Rollsbo i norrgående riktning.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-07.03-trafikolycka-kungalv/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
+    "id": 471570,
+    "datetime": "2023-11-20 7:13:02 +01:00",
+    "name": "20 november 07.00, Trafikolycka, Kalmar",
+    "summary": "En personbil och en lastbil kolliderar på Södra vägen.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-07.00-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 471569,
+    "datetime": "2023-11-20 7:09:28 +01:00",
+    "name": "20 november 07.06, Rattfylleri, Nybro",
+    "summary": "Kvinna i 60-årsåldern misstänkts för rattfylleri.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-07.06-rattfylleri-nybro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Nybro",
+      "gps": "56.7438,15.908681"
+    }
+  },
+  {
+    "id": 471568,
+    "datetime": "2023-11-20 7:06:06 +01:00",
+    "name": "20 november 05.13, Skadegörelse, Malmö",
+    "summary": "En personbil brinner på Augustenborg och polis skickas till platsen.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-05.13-skadegorelse-malmo/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 471563,
     "datetime": "2023-11-20 1:47:55 +01:00",
     "name": "20 november 00.02, Farligt föremål, misstänkt, Upplands-bro",
@@ -9,6 +57,54 @@
     "location": {
       "name": "Upplands-bro",
       "gps": "59.49068,17.752277"
+    }
+  },
+  {
+    "id": 471567,
+    "datetime": "2023-11-20 7:03:15 +01:00",
+    "name": "20 november 07.01, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-07.01-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 471566,
+    "datetime": "2023-11-20 7:02:01 +01:00",
+    "name": "20 november 04.24, Stöld, Malmö",
+    "summary": "Två män grips misstänkta för försök till stöld.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-04.24-stold-malmo/",
+    "type": "Stöld",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 471565,
+    "datetime": "2023-11-20 7:01:48 +01:00",
+    "name": "20 november 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 471564,
+    "datetime": "2023-11-20 6:52:40 +01:00",
+    "name": "20 november 02.06, Rattfylleri, Landskrona",
+    "summary": "Man i 40-årsåldern misstänks för rattfylleri efter kontroll.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-02.06-rattfylleri-landskrona/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 469580,
-    "datetime": "2023-11-11 23:38:08 +01:00",
-    "name": "11 november 22.11, Rattfylleri, Karlskrona",
-    "summary": "Man i 18-årsåldern blir misstänkt för drograttfylleri.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-22.11-rattfylleri-karlskrona/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 469579,
-    "datetime": "2023-11-11 23:13:33 +01:00",
-    "name": "11 november 22.03, Detonation, Upplands-bro",
-    "summary": "Ett föremål exploderar mot en husfasad.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-22.03-detonation-upplands-bro/",
-    "type": "Detonation",
-    "location": {
-      "name": "Upplands-bro",
-      "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 469577,
-    "datetime": "2023-11-11 20:45:41 +01:00",
-    "name": "11 november 20.12, Inbrott, Malmö",
-    "summary": "Polis larmas till Kulladal med anledning av ett pågående inbrott.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-20.12-inbrott-malmo/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 469576,
-    "datetime": "2023-11-11 20:38:22 +01:00",
-    "name": "11 november 14.14, Djur, Danderyd",
-    "summary": "Blandrashund stjäls i Mörby centrum och hittas i Arninge.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-14.14-djur-danderyd/",
-    "type": "Djur",
-    "location": {
-      "name": "Danderyd",
-      "gps": "59.407905,18.019075"
-    }
-  },
-  {
-    "id": 469575,
-    "datetime": "2023-11-11 19:17:46 +01:00",
-    "name": "11 november 19.10, Brand, Skurup",
-    "summary": "En bil brinner i centrala Skurup.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-19.10-brand-skurup/",
-    "type": "Brand",
-    "location": {
-      "name": "Skurup",
-      "gps": "55.48045,13.502349"
-    }
-  },
-  {
-    "id": 469569,
-    "datetime": "2023-11-11 19:47:07 +01:00",
-    "name": "11 november 14.07, Stöld, Stockholm",
-    "summary": "En anmälare spårar sin stulna dator.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-14.07-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 469570,
-    "datetime": "2023-11-11 19:47:01 +01:00",
-    "name": "11 november 16.40, Sjukdom/olycksfall, Stockholm",
-    "summary": "En man faller ner på spåret på stationen i Älvsjö.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-16.40-sjukdomolycksfall-stockholm/",
-    "type": "Sjukdom/olycksfall",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 469572,
-    "datetime": "2023-11-11 19:46:56 +01:00",
-    "name": "11 november 17.12, Räddningsinsats, Järfälla",
-    "summary": "Två mastarbetare misstas för personer i nöd.",
-    "url": "/aktuellt/handelser/2023/november/11/11-november-17.12-raddningsinsats-jarfalla/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
     }
   }
 ]
