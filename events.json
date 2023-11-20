@@ -1,5 +1,77 @@
 [
   {
+    "id": 471683,
+    "datetime": "2023-11-20 17:23:29 +01:00",
+    "name": "20 november 17.05, Brand, Borlänge",
+    "summary": "Polisen biträder räddningstjänsten vid en brand i byggnad i  Borlänge.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-17.05-brand-borlange/",
+    "type": "Brand",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 471699,
+    "datetime": "2023-11-20 21:28:22 +01:00",
+    "name": "20 november 20.40, Trafikbrott, Borlänge",
+    "summary": "Återkommande samtal från allmänheten om buskörande bilförare i Borlänge.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-20.40-trafikbrott-borlange/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 471688,
+    "datetime": "2023-11-20 18:49:15 +01:00",
+    "name": "20 november 18.49, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 471687,
+    "datetime": "2023-11-20 18:49:31 +01:00",
+    "name": "20 november 18.49, Trafikolycka, vilt, Västernorrlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-vasternorrlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 471686,
+    "datetime": "2023-11-20 18:49:59 +01:00",
+    "name": "20 november 18.49, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 471697,
+    "datetime": "2023-11-20 21:21:20 +01:00",
+    "name": "20 november 19.49, Rattfylleri, Luleå",
+    "summary": "Misstänkt rattfylleri på Skutvikens industriområde.",
+    "url": "/aktuellt/handelser/2023/november/20/20-november-19.49-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 471698,
     "datetime": "2023-11-20 21:17:08 +01:00",
     "name": "20 november 21.16, Trafikolycka, vilt, Västerbottens län",
@@ -120,42 +192,6 @@
     }
   },
   {
-    "id": 471686,
-    "datetime": "2023-11-20 18:49:59 +01:00",
-    "name": "20 november 18.49, Trafikolycka, vilt, Norrbottens län",
-    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
-    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-norrbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 471687,
-    "datetime": "2023-11-20 18:49:31 +01:00",
-    "name": "20 november 18.49, Trafikolycka, vilt, Västernorrlands län",
-    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
-    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-vasternorrlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 471688,
-    "datetime": "2023-11-20 18:49:15 +01:00",
-    "name": "20 november 18.49, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
-    "url": "/aktuellt/handelser/2023/november/20/20-november-18.49-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 471674,
     "datetime": "2023-11-20 16:36:35 +01:00",
     "name": "20 november 16.24, Trafikolycka, Skellefteå",
@@ -165,18 +201,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 471683,
-    "datetime": "2023-11-20 17:23:29 +01:00",
-    "name": "20 november 17.05, Brand, Borlänge",
-    "summary": "Polisen biträder räddningstjänsten vid en brand i byggnad i  Borlänge.",
-    "url": "/aktuellt/handelser/2023/november/20/20-november-17.05-brand-borlange/",
-    "type": "Brand",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 469640,
-    "datetime": "2023-11-13 7:05:20 +01:00",
-    "name": "13 november 06.51, Trafikolycka, Tjörn",
-    "summary": "Två personbilar är involverade i en olycka på länsväg 160 vid Skåpesund.",
-    "url": "/aktuellt/handelser/2023/november/13/13-november-06.51-trafikolycka-tjorn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Tjörn",
-      "gps": "58.04102,11.683671"
-    }
-  },
-  {
-    "id": 469655,
-    "datetime": "2023-11-13 8:06:55 +01:00",
-    "name": "13 november 07.53, Trafikolycka, Bollebygd",
-    "summary": "Tre personbilar är involverade i en kökrock på riksväg 40 vid Olsfors.",
-    "url": "/aktuellt/handelser/2023/november/13/13-november-07.53-trafikolycka-bollebygd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bollebygd",
-      "gps": "57.668969,12.570143"
     }
   }
 ]
