@@ -1,5 +1,89 @@
 [
   {
+    "id": 471974,
+    "datetime": "2023-11-23 8:08:56 +01:00",
+    "name": "23 november 07.44, Trafikolycka, Karlstad",
+    "summary": "Två personbilar har kolliderat vid korsningen Ullebergsleden/Skoghallsvägen",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-07.44-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 471973,
+    "datetime": "2023-11-23 8:07:34 +01:00",
+    "name": "23 november 07.23, Trafikolycka, Härryda",
+    "summary": "Trafikolycka på Härrydavägen, Härryda C",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-07.23-trafikolycka-harryda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härryda",
+      "gps": "57.691744,12.294416"
+    }
+  },
+  {
+    "id": 471949,
+    "datetime": "2023-11-23 7:06:20 +01:00",
+    "name": "23 november 07.04, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-07.04-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 471971,
+    "datetime": "2023-11-23 7:58:02 +01:00",
+    "name": "23 november 07.56, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-07.56-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 471969,
+    "datetime": "2023-11-23 7:55:45 +01:00",
+    "name": "23 november 07.52, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-07.52-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 471966,
+    "datetime": "2023-11-23 7:49:44 +01:00",
+    "name": "23 november 07.43, Trafikolycka, Trelleborg",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-07.43-trafikolycka-trelleborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 471963,
+    "datetime": "2023-11-23 7:45:22 +01:00",
+    "name": "22 november 02.42, Stöld, försök, Västerås",
+    "summary": "Försök till stöld, Västerås.",
+    "url": "/aktuellt/handelser/2023/november/22/22-november-02.42-stold-forsok-vasteras/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 471961,
     "datetime": "2023-11-23 7:43:27 +01:00",
     "name": "23 november 02.03, Stöld/inbrott, Stockholm",
@@ -129,18 +213,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 471949,
-    "datetime": "2023-11-23 7:06:20 +01:00",
-    "name": "23 november 07.04, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-07.04-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 470942,
-    "datetime": "2023-11-15 12:17:00 +01:00",
-    "name": "15 november 10.56, Trafikkontroll, Sundsvall",
-    "summary": "Nacksta, resultat efter trafikkontroller",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-10.56-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 470941,
-    "datetime": "2023-11-15 12:14:46 +01:00",
-    "name": "15 november 10.11, Fylleri/LOB, Örnsköldsvik",
-    "summary": "Resecentrum, polis kontaktas gällande berusad man",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-10.11-fyllerilob-ornskoldsvik/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 470932,
-    "datetime": "2023-11-15 11:24:51 +01:00",
-    "name": "15 november 11.09, Trafikolycka, Helsingborg",
-    "summary": "Trafikolycka utan personskador",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-11.09-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 470926,
-    "datetime": "2023-11-15 10:54:32 +01:00",
-    "name": "15 november 10.14, Försvunnen person, Västerås",
-    "summary": "Pojke i 15-årsåldern försvunnen från skola.",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-10.14-forsvunnen-person-vasteras/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 470924,
-    "datetime": "2023-11-15 10:26:58 +01:00",
-    "name": "15 november 10.05, Trafikkontroll, Härnösand",
-    "summary": "Älandsbro, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-10.05-trafikkontroll-harnosand/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 470901,
-    "datetime": "2023-11-15 7:15:15 +01:00",
-    "name": "15 november 07.00, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-07.00-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
