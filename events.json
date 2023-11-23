@@ -1,5 +1,29 @@
 [
   {
+    "id": 472084,
+    "datetime": "2023-11-23 20:33:58 +01:00",
+    "name": "23 november 20.29, Rån, Nora",
+    "summary": "Polisen utreder ett rån som inträffat mot en butik i Nora under kvällen.",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-20.29-ran-nora/",
+    "type": "Rån",
+    "location": {
+      "name": "Nora",
+      "gps": "59.519206,15.037867"
+    }
+  },
+  {
+    "id": 472083,
+    "datetime": "2023-11-23 20:29:19 +01:00",
+    "name": "23 november 20.13, Trafikolycka, singel, Karlstad",
+    "summary": "En trafikolycka har inträffat på E18 Vålberg.",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-20.13-trafikolycka-singel-karlstad/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 472081,
     "datetime": "2023-11-23 19:03:15 +01:00",
     "name": "23 november 18.43, Trafikolycka, Kumla",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Kumla",
       "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 472082,
+    "datetime": "2023-11-23 20:23:15 +01:00",
+    "name": "23 november 18.39, Stöld, Örebro",
+    "summary": "Tips leder till att polispatrull avbryter pågående cykelstöld i Örebro.",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-18.39-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 471020,
-    "datetime": "2023-11-16 6:53:35 +01:00",
-    "name": "16 november 05.46, Arbetsplatsolycka, Malmö",
-    "summary": "Larm om misstänkt arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-05.46-arbetsplatsolycka-malmo/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 471018,
-    "datetime": "2023-11-16 6:50:01 +01:00",
-    "name": "16 november 06.42, Trafikolycka, Hultsfred",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-06.42-trafikolycka-hultsfred/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hultsfred",
-      "gps": "57.49484,15.841651"
-    }
-  },
-  {
-    "id": 471017,
-    "datetime": "2023-11-16 6:08:24 +01:00",
-    "name": "16 november 05.49, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Ett urval ur kvällen/nattens händelser i länet.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-05.49-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
