@@ -1,5 +1,53 @@
 [
   {
+    "id": 472042,
+    "datetime": "2023-11-23 14:18:25 +01:00",
+    "name": "23 november 12.35, Narkotikabrott, Lycksele",
+    "summary": "En kille är missstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-12.35-narkotikabrott-lycksele/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 472039,
+    "datetime": "2023-11-23 13:57:57 +01:00",
+    "name": "23 november 11.01, Stöld, Östersund",
+    "summary": "En kvinna är misstänkt för brott i en butik",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-11.01-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 472038,
+    "datetime": "2023-11-23 13:49:12 +01:00",
+    "name": "23 november 12.37, Motorfordon, stöld, Timrå",
+    "summary": "Två kvinnor är misstänkta för brott i Söråker",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-12.37-motorfordon-stold-timra/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 472037,
+    "datetime": "2023-11-23 13:48:51 +01:00",
+    "name": "23 november 06.35, Rån, Södertälje",
+    "summary": "Man rånas av flera gärningspersoner.",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-062.35-ran-sodertalje/",
+    "type": "Rån",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 472008,
     "datetime": "2023-11-23 10:49:07 +01:00",
     "name": "23 november 10.45, Övrigt, Malmö",
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 471002,
-    "datetime": "2023-11-15 18:37:29 +01:00",
-    "name": "15 november 18.32, Trafikolycka, Karlskoga",
-    "summary": "Två personbilar uppges ha kolliderat vid korsningen Lv700 och Lv205 nära Nobelhallen.",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-18.32-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 470998,
-    "datetime": "2023-11-15 17:12:51 +01:00",
-    "name": "15 november 16.54, Trafikolycka, Eda",
-    "summary": "Två personbilar har kolliderat på Rv61 vid Haga söder om Charlottenberg.",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-16.54-trafikolycka-eda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eda",
-      "gps": "59.83754,12.314031"
-    }
-  },
-  {
-    "id": 470997,
-    "datetime": "2023-11-15 17:00:17 +01:00",
-    "name": "15 november 16.59, Försvunnen person, Malmö",
-    "summary": "Polisen önskar hjälp med att hitta en försvunnen kvinna i Malmö.",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-16.59-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 470991,
-    "datetime": "2023-11-15 16:28:10 +01:00",
-    "name": "15 november 15.45, Stöld/inbrott, Karlstad",
-    "summary": "Lägenhetsinbrott i området Rud under onsdagen.",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-15.45-stoldinbrott-karlstad/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
