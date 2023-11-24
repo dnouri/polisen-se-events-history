@@ -1,5 +1,65 @@
 [
   {
+    "id": 472218,
+    "datetime": "2023-11-24 16:20:59 +01:00",
+    "name": "24 november 13.55, Rattfylleri, Umeå",
+    "summary": "Röbäck, trafikant stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-13.55-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 472217,
+    "datetime": "2023-11-24 16:18:31 +01:00",
+    "name": "24 november 14.44, Trafikkontroll, Dorotea",
+    "summary": "Avaträsk, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-14.44-trafikkontroll-dorotea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Dorotea",
+      "gps": "64.261794,16.415234"
+    }
+  },
+  {
+    "id": 472216,
+    "datetime": "2023-11-24 16:14:23 +01:00",
+    "name": "24 november 10.24, Arbetsplatsolycka, Umeå",
+    "summary": "Holmögadd, man skadad i samband med arbete på fartyg/båt",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-10.24-arbetsplatsolycka-umea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 472215,
+    "datetime": "2023-11-24 16:04:55 +01:00",
+    "name": "24 november 12.07, Fylleri/LOB, Luleå",
+    "summary": "Innerstaden, kvinna omhändertagen av polis",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-122.07-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 472214,
+    "datetime": "2023-11-24 15:47:35 +01:00",
+    "name": "24 november 13.41, Trafikbrott, Kalix",
+    "summary": "Länsväg 703, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-13.41-trafikbrott-kalix/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
     "id": 472212,
     "datetime": "2023-11-24 15:40:01 +01:00",
     "name": "24 november 14.18, Trafikbrott, Gällivare",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 471148,
-    "datetime": "2023-11-16 20:24:17 +01:00",
-    "name": "16 november 20.24, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-20.24-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 471147,
-    "datetime": "2023-11-16 20:12:09 +01:00",
-    "name": "16 november 16.41, Fylleri/LOB, Kalix",
-    "summary": "Berusad man omhändertagen på hotell i Kalix.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-16.41-fyllerilob-kalix/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 471146,
-    "datetime": "2023-11-16 20:07:02 +01:00",
-    "name": "16 november 18.37, Trafikolycka, Örnsköldsvik",
-    "summary": "Trafikolycka på Brogatan/Modovägen i Domsjö.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-18.37-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 471145,
-    "datetime": "2023-11-16 19:55:11 +01:00",
-    "name": "16 november 19.54, Rattfylleri, Örebro län",
-    "summary": "Polisen har under torsdagen tagit nio rattfyllerister runt om i regionen",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-19.54-rattfylleri-orebro-lan/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 471144,
-    "datetime": "2023-11-16 19:54:43 +01:00",
-    "name": "16 november 19.54, Rattfylleri, Dalarnas län",
-    "summary": "Polisen har under torsdagen tagit nio rattfyllerister runt om i regionen",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-19.54-rattfylleri-dalarnas-lan/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
