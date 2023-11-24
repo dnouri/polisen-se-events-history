@@ -1,5 +1,77 @@
 [
   {
+    "id": 472114,
+    "datetime": "2023-11-24 7:21:33 +01:00",
+    "name": "24 november 05.28, Trafikolycka, Kristianstad",
+    "summary": "En bil kör ned i diket på riksväg 19 mellan Everöd och Degeberga.",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-05.28-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 472093,
+    "datetime": "2023-11-24 0:44:06 +01:00",
+    "name": "23 november 23.58, Detonation, Klippan",
+    "summary": "Detonation på Thorsgatan.",
+    "url": "/aktuellt/handelser/2023/november/24/23-november-23.58-detonation-klippan/",
+    "type": "Detonation",
+    "location": {
+      "name": "Klippan",
+      "gps": "56.1349,13.129041"
+    }
+  },
+  {
+    "id": 472102,
+    "datetime": "2023-11-24 7:10:08 +01:00",
+    "name": "23 november 22.37, Skadegörelse, Uppsala",
+    "summary": "Bilbrand, Uppsala.",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-22.37-skadegorelse-uppsala/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 472101,
+    "datetime": "2023-11-24 7:09:41 +01:00",
+    "name": "24 november 06.06, Trafikolycka, Hässleholm",
+    "summary": "En singelolycka med en lastbil inträffar på länsväg 117.",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-06.06-trafikolycka-hassleholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 472099,
+    "datetime": "2023-11-24 7:02:59 +01:00",
+    "name": "24 november 03.24, Stöld, Helsingborg",
+    "summary": "Polis larmas till Södra Raus med anlednng av en stöld ur ett fordon.",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-03.24-stold-helsingborg/",
+    "type": "Stöld",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 472096,
+    "datetime": "2023-11-24 6:43:34 +01:00",
+    "name": "24 november 07.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 472095,
     "datetime": "2023-11-24 6:22:45 +01:00",
     "name": "24 november 07.00, Sammanfattning natt, Hallands län",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 472093,
-    "datetime": "2023-11-24 0:44:06 +01:00",
-    "name": "24 november 00.35, Detonation, Klippan",
-    "summary": "Detonation på Thorsgatan",
-    "url": "/aktuellt/handelser/2023/november/24/24-november-00.35-detonation-klippan/",
-    "type": "Detonation",
-    "location": {
-      "name": "Klippan",
-      "gps": "56.1349,13.129041"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 471035,
-    "datetime": "2023-11-16 7:50:33 +01:00",
-    "name": "15 november 19.34, Mord/dråp, försök, Sigtuna",
-    "summary": "En man i 20-årsåldern har blivit knivhuggen.",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-19.34-morddrap-forsok-sigtuna/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 471034,
-    "datetime": "2023-11-16 7:48:31 +01:00",
-    "name": "15 november 22.45, Misshandel, grov, Söderhamn",
-    "summary": "Misshandel, Söderhamn.",
-    "url": "/aktuellt/handelser/2023/november/15/15-november-22.45-misshandel-grov-soderhamn/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 471019,
-    "datetime": "2023-11-16 7:34:08 +01:00",
-    "name": "16 november 07.34, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-07.34-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 471023,
-    "datetime": "2023-11-16 7:33:29 +01:00",
-    "name": "16 november 07.33, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-07.33-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 471032,
-    "datetime": "2023-11-16 7:32:55 +01:00",
-    "name": "16 november 07.32, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-07.32-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
