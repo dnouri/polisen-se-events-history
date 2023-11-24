@@ -1,5 +1,53 @@
 [
   {
+    "id": 472184,
+    "datetime": "2023-11-24 13:35:12 +01:00",
+    "name": "24 november 13.28, Trafikolycka, Tomelilla",
+    "summary": "En singelolycka inträffar på riksväg 19 mellan Fågeltofta och Eljaröd.",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-13.28-trafikolycka-tomelilla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tomelilla",
+      "gps": "55.54355,13.95484"
+    }
+  },
+  {
+    "id": 472183,
+    "datetime": "2023-11-24 13:29:50 +01:00",
+    "name": "24 november 11.27, Rattfylleri, Örnsköldsvik",
+    "summary": "Misstänkt drograttfylleri på E4.",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-11.27-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 472182,
+    "datetime": "2023-11-24 13:26:52 +01:00",
+    "name": "24 november 12.02, Trafikolycka, Robertsfors",
+    "summary": "larm om trafikolycka på E4, Sikeå.",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-12.02-trafikolycka-robertsfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 472177,
+    "datetime": "2023-11-24 12:59:21 +01:00",
+    "name": "24 november 09.55, Stöld, Örebro",
+    "summary": "Polisen har gripit tre män misstänkta för grov stöld.",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-09.55-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 472173,
     "datetime": "2023-11-24 12:43:08 +01:00",
     "name": "24 november 11.56, Trafikolycka, Haparanda",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Haparanda",
       "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 472176,
+    "datetime": "2023-11-24 12:48:58 +01:00",
+    "name": "24 november 12.43, Trafikolycka, singel, Lomma",
+    "summary": "Larm om trafikolycka, E6:an",
+    "url": "/aktuellt/handelser/2023/november/24/24-november-12.43-trafikolycka-singel-lomma/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Lomma",
+      "gps": "55.673138,13.067406"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 471134,
-    "datetime": "2023-11-16 17:42:41 +01:00",
-    "name": "16 november 11.14, Rattfylleri, Umeå",
-    "summary": "Man misstänkt för drograttfylleri mm.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-11.14-rattfylleri-umea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 471133,
-    "datetime": "2023-11-16 17:33:14 +01:00",
-    "name": "16 november 15.06, Fylleri/LOB, Härnösand",
-    "summary": "Berusad man omhändertagen i Härnösand.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-15.06-fyllerilob-harnosand/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 471132,
-    "datetime": "2023-11-16 17:25:45 +01:00",
-    "name": "16 november 16.14, Trafikolycka, Göteborg",
-    "summary": "Trafikolycka E45",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-16.14-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 471130,
-    "datetime": "2023-11-16 17:13:02 +01:00",
-    "name": "16 november 11.11, Stöld, Östersund",
-    "summary": "Man anhållen misstänkt för stöld.",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-11.11-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 471117,
-    "datetime": "2023-11-16 16:06:32 +01:00",
-    "name": "16 november 16.03, Trafikolycka, Eksjö",
-    "summary": "Bil i Eksjöån",
-    "url": "/aktuellt/handelser/2023/november/16/16-november-16.03-trafikolycka-eksjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eksjö",
-      "gps": "57.665165,14.973221"
     }
   }
 ]
