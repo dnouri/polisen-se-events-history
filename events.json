@@ -1,14 +1,38 @@
 [
   {
-    "id": 472461,
-    "datetime": "2023-11-27 16:08:36 +01:00",
-    "name": "27 november 15.58, Trafikolycka, Berg",
-    "summary": "Rätansbyn, trafikolycka på E45.",
-    "url": "/aktuellt/handelser/2023/november/27/27-november-15.58-trafikolycka-berg/",
+    "id": 472491,
+    "datetime": "2023-11-27 20:12:32 +01:00",
+    "name": "27 november 18.36, Bråk, Örkelljunga",
+    "summary": "Bråk på buss",
+    "url": "/aktuellt/handelser/2023/november/27/27-november-18.36-brak-orkelljunga/",
+    "type": "Bråk",
+    "location": {
+      "name": "Örkelljunga",
+      "gps": "56.283635,13.278832"
+    }
+  },
+  {
+    "id": 472490,
+    "datetime": "2023-11-27 20:12:23 +01:00",
+    "name": "27 november 17.00, Rattfylleri, Arvidsjaur",
+    "summary": "Arvidsjaur, misstänkt drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/november/27/27-november-17.00-rattfylleri-arvidsjaur/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arvidsjaur",
+      "gps": "65.592077,19.180283"
+    }
+  },
+  {
+    "id": 472452,
+    "datetime": "2023-11-27 15:46:32 +01:00",
+    "name": "27 november 15.40, Trafikolycka, Värnamo",
+    "summary": "Dubbla olyckor - E4 blockerad",
+    "url": "/aktuellt/handelser/2023/november/27/27-november-15.40-trafikolycka-varnamo/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 472489,
+    "datetime": "2023-11-27 19:45:25 +01:00",
+    "name": "27 november 17.41, Stöld, Östersund",
+    "summary": "Östersund, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2023/november/27/27-november-17.41-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 472461,
+    "datetime": "2023-11-27 16:08:36 +01:00",
+    "name": "27 november 15.58, Trafikolycka, Berg",
+    "summary": "Rätansbyn, trafikolycka på E45.",
+    "url": "/aktuellt/handelser/2023/november/27/27-november-15.58-trafikolycka-berg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
     }
   },
   {
@@ -177,18 +225,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 472452,
-    "datetime": "2023-11-27 15:46:32 +01:00",
-    "name": "27 november 15.40, Trafikolycka, Värnamo",
-    "summary": "Dubbla olyckor - E4 blockerad",
-    "url": "/aktuellt/handelser/2023/november/27/27-november-15.40-trafikolycka-varnamo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Mariestad",
       "gps": "58.710112,13.821333"
-    }
-  },
-  {
-    "id": 471598,
-    "datetime": "2023-11-20 9:23:38 +01:00",
-    "name": "20 november 07.37, Trafikkontroll, Haparanda",
-    "summary": "Centrala Haparanda, polisen kontrollerar nykterhet i trafiken",
-    "url": "/aktuellt/handelser/2023/november/20/20-november-07.37-trafikkontroll-haparanda/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 471572,
-    "datetime": "2023-11-20 7:22:25 +01:00",
-    "name": "20 november 07.03, Trafikolycka, Kungälv",
-    "summary": "SOS larmas om en flerbilskrock på E6, mellan Kungälv och Rollsbo i norrgående riktning.",
-    "url": "/aktuellt/handelser/2023/november/20/20-november-07.03-trafikolycka-kungalv/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 471594,
-    "datetime": "2023-11-20 8:52:33 +01:00",
-    "name": "20 november 06.33, Trafikolycka, Karlstad",
-    "summary": "Efter en trafikolycka blir båda förarna misstänkta för brott.",
-    "url": "/aktuellt/handelser/2023/november/20/20-november-06.33-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
