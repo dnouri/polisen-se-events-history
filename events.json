@@ -1,5 +1,89 @@
 [
   {
+    "id": 472691,
+    "datetime": "2023-11-28 16:54:16 +01:00",
+    "name": "28 november 16.17, Rattfylleri, Ludvika",
+    "summary": "En bilist är misstänkt för brott i Gonäs",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-16.17-rattfylleri-ludvika/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 472713,
+    "datetime": "2023-11-28 19:03:59 +01:00",
+    "name": "28 november 14.57, Rattfylleri, Östersund",
+    "summary": "Östersund, misstänkt drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-14.57-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 472712,
+    "datetime": "2023-11-28 18:56:34 +01:00",
+    "name": "28 november 16.50, Trafikolycka, Sundsvall",
+    "summary": "Sundsvall, trafikolycka på Haga.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-16.50-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 472711,
+    "datetime": "2023-11-28 18:52:30 +01:00",
+    "name": "28 november 16.18, Rattfylleri, Luleå",
+    "summary": "Luleå, misstänkt drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-16.18-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 472690,
+    "datetime": "2023-11-28 16:52:29 +01:00",
+    "name": "28 november 16.29, Trafikolycka, Rättvik",
+    "summary": "En olycka har inträffat i centrala Rättvik",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-16.29-trafikolycka-rattvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
+    "id": 472689,
+    "datetime": "2023-11-28 16:49:36 +01:00",
+    "name": "28 november 16.32, Trafikolycka, Laxå",
+    "summary": "En olycka har inträffat i rondellen i centrum",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-16.32-trafikolycka-laxa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
+    "id": 472710,
+    "datetime": "2023-11-28 18:44:22 +01:00",
+    "name": "28 november 18.34, Brand, Västervik",
+    "summary": "Tmmergatan. Brand i fordon.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-18.34-brand-vastervik/",
+    "type": "Brand",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
     "id": 472694,
     "datetime": "2023-11-28 17:02:02 +01:00",
     "name": "28 november 16.49, Trafikolycka, Örebro",
@@ -177,42 +261,6 @@
     "location": {
       "name": "Avesta",
       "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 472691,
-    "datetime": "2023-11-28 16:54:16 +01:00",
-    "name": "28 november 16.17, Rattfylleri, Ludvika",
-    "summary": "En bilist är misstänkt för brott i Gonäs",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-16.17-rattfylleri-ludvika/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 472690,
-    "datetime": "2023-11-28 16:52:29 +01:00",
-    "name": "28 november 16.29, Trafikolycka, Rättvik",
-    "summary": "En olycka har inträffat i centrala Rättvik",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-16.29-trafikolycka-rattvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Rättvik",
-      "gps": "60.889025,15.123373"
-    }
-  },
-  {
-    "id": 472689,
-    "datetime": "2023-11-28 16:49:36 +01:00",
-    "name": "28 november 16.32, Trafikolycka, Laxå",
-    "summary": "En olycka har inträffat i rondellen i centrum",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-16.32-trafikolycka-laxa/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Laxå",
-      "gps": "58.98269,14.62289"
     }
   },
   {
@@ -5946,54 +5994,6 @@
     "summary": "Västermalm, polisen stoppar en förare",
     "url": "/aktuellt/handelser/2023/november/21/21-november-10.24-rattfylleri-sundsvall/",
     "type": "Rattfylleri",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 471756,
-    "datetime": "2023-11-21 10:22:39 +01:00",
-    "name": "21 november 09.53, Rattfylleri, Karlstad",
-    "summary": "En bilist är misstänkt för brott i Sundsta",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-09.53-rattfylleri-karlstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 471749,
-    "datetime": "2023-11-21 9:34:57 +01:00",
-    "name": "21 november 09.27, Arbetsplatsolycka, Borlänge",
-    "summary": "En olycka har inträffat i Norra Backa",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-09.27-arbetsplatsolycka-borlange/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 471743,
-    "datetime": "2023-11-21 8:54:36 +01:00",
-    "name": "21 november 08.49, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat utefter Rv50",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-08.49-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 471751,
-    "datetime": "2023-11-21 9:46:28 +01:00",
-    "name": "21 november 08.06, Trafikolycka, Sundsvall",
-    "summary": "Birsta, två personbilar har kolliderat",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-08.06-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
