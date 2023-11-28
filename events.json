@@ -1,5 +1,101 @@
 [
   {
+    "id": 472742,
+    "datetime": "2023-11-28 22:18:17 +01:00",
+    "name": "28 november 21.46, Farligt föremål, misstänkt, Malmö",
+    "summary": "Hyllie. Polisen undersöker ett misstänkt farligt föremål.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-21.46-farligt-foremal-misstankt-malmo/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 472741,
+    "datetime": "2023-11-28 22:12:32 +01:00",
+    "name": "28 november 21.45, Brand, Helsingborg",
+    "summary": "Stattena. Brand i byggnad.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-21.45-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 472724,
+    "datetime": "2023-11-28 20:44:50 +01:00",
+    "name": "28 november 20.26, Försvunnen person, Mölndal",
+    "summary": "Polisen söker försvunnen man från korttidsboende i Mölndal. Polisen ber allmänheten om hjälp i sökandet.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-20.26-forsvunnen-person-molndal/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 472727,
+    "datetime": "2023-11-28 20:48:07 +01:00",
+    "name": "28 november 19.44, Trafikolycka, Robertsfors",
+    "summary": "Jomark, singelolycka med personbil.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-19.44-trafikolycka-robertsfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 472718,
+    "datetime": "2023-11-28 19:59:35 +01:00",
+    "name": "28 november 19.52, Trafikolycka, Eda",
+    "summary": "En olycka har inträffat i Haga",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-19.52-trafikolycka-eda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eda",
+      "gps": "59.83754,12.314031"
+    }
+  },
+  {
+    "id": 472587,
+    "datetime": "2023-11-28 21:48:37 +01:00",
+    "name": "28 november 21.45, Övrigt, Hallands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-21.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 472588,
+    "datetime": "2023-11-28 21:48:23 +01:00",
+    "name": "28 november 21.45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-21.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 472740,
+    "datetime": "2023-11-28 21:44:53 +01:00",
+    "name": "28 november 21.44, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Jämtland, flera viltolyckor anmälda efter klockan 15 i dag.",
+    "url": "/aktuellt/handelser/2023/november/28/28-november-21.44-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 472737,
     "datetime": "2023-11-28 21:42:07 +01:00",
     "name": "28 november 21.06, Narkotikabrott, Örebro",
@@ -84,18 +180,6 @@
     }
   },
   {
-    "id": 472727,
-    "datetime": "2023-11-28 20:48:07 +01:00",
-    "name": "28 november 19.44, Trafikolycka, Robertsfors",
-    "summary": "Jomark, singelolycka med personbil.",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-19.44-trafikolycka-robertsfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
     "id": 472723,
     "datetime": "2023-11-28 20:46:13 +01:00",
     "name": "28 november 20.20, Rattfylleri, Ludvika",
@@ -117,18 +201,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 472724,
-    "datetime": "2023-11-28 20:44:50 +01:00",
-    "name": "28 november 20.26, Försvunnen person, Mölndal",
-    "summary": "Polisen söker försvunnen man från korttidsboende i Mölndal. Polisen ber allmänheten om hjälp i sökandet.",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-20.26-forsvunnen-person-molndal/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
     }
   },
   {
@@ -189,18 +261,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 472718,
-    "datetime": "2023-11-28 19:59:35 +01:00",
-    "name": "28 november 19.52, Trafikolycka, Eda",
-    "summary": "En olycka har inträffat i Haga",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-19.52-trafikolycka-eda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eda",
-      "gps": "59.83754,12.314031"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Strängnäs",
       "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 471805,
-    "datetime": "2023-11-21 18:10:48 +01:00",
-    "name": "21 november 16.07, Arbetsplatsolycka, Rättvik",
-    "summary": "En man i sextioårsåldern har förts till sjukhus efter en arbetsplatsolycka vid en bergtäkt norr om Rättvik.",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-16.07-arbetsplatsolycka-rattvik/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Rättvik",
-      "gps": "60.889025,15.123373"
-    }
-  },
-  {
-    "id": 471804,
-    "datetime": "2023-11-21 18:02:34 +01:00",
-    "name": "21 november 15.36, Trafikbrott, Örebro",
-    "summary": "En personbil och en lastbil med släp sammanstötte under eftermiddagen på E18 vid avfarten mot Karlskoga.",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-15.36-trafikbrott-orebro/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 471801,
-    "datetime": "2023-11-21 17:27:39 +01:00",
-    "name": "21 november 16.24, Trafikolycka, Partille",
-    "summary": "Trafikolycka mellan två personbilar på E20.",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-16.24-trafikolycka-partille/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Partille",
-      "gps": "57.73665,12.125197"
-    }
-  },
-  {
-    "id": 471798,
-    "datetime": "2023-11-21 16:41:08 +01:00",
-    "name": "21 november 16.22, Trafikolycka, Kristianstad",
-    "summary": "Påkörd person på Kiabyvägen, Bäskaskog.",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-16.22-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 471803,
-    "datetime": "2023-11-21 17:11:38 +01:00",
-    "name": "21 november 16.32, Olaga hot, Malmö",
-    "summary": "Olaga hot på Exercisgatan.",
-    "url": "/aktuellt/handelser/2023/november/21/21-november-16.32-olaga-hot-malmo/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
