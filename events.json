@@ -1,5 +1,101 @@
 [
   {
+    "id": 472815,
+    "datetime": "2023-11-29 11:16:14 +01:00",
+    "name": "29 november 11.14, Övrigt, Hallands län",
+    "summary": "Många trafikolyckor",
+    "url": "/aktuellt/handelser/2023/november/29/29-november-11.14-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 472814,
+    "datetime": "2023-11-29 11:16:12 +01:00",
+    "name": "29 november 10.37, Trafikolycka, Gävle",
+    "summary": "Förare fick ordningsbot efter olycka.",
+    "url": "/aktuellt/handelser/2023/november/29/29-november-10.37-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 472813,
+    "datetime": "2023-11-29 11:14:01 +01:00",
+    "name": "29 november 10.58, Övrigt, Västra Götalands län",
+    "summary": "Många trafikolyckor",
+    "url": "/aktuellt/handelser/2023/november/29/29-november-10.58-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 472812,
+    "datetime": "2023-11-29 11:11:38 +01:00",
+    "name": "29 november 10.24, Trafikolycka, personskada, Gävle",
+    "summary": "Person påkörd av snöskottande hjullastare.",
+    "url": "/aktuellt/handelser/2023/november/29/29-november-10.24-trafikolycka-personskada-gavle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 472810,
+    "datetime": "2023-11-29 10:59:49 +01:00",
+    "name": "29 november 10.14, Trafikkontroll, Timrå",
+    "summary": "Tallnäsvägen, polisen kontrollerar trafiken",
+    "url": "/aktuellt/handelser/2023/november/29/29-november-10.14-trafikkontroll-timra/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 472792,
+    "datetime": "2023-11-29 9:42:54 +01:00",
+    "name": "29 november 08.40, Trafikolycka, Stenungsund",
+    "summary": "Lastbil och personbil i kollision",
+    "url": "/aktuellt/handelser/2023/november/29/29-november-08.40-trafikolycka-stenungsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 472808,
+    "datetime": "2023-11-29 10:58:04 +01:00",
+    "name": "29 november 08.33, Trafikkontroll, Sundsvall",
+    "summary": "Matfors, polisen kontrollerar trafiken",
+    "url": "/aktuellt/handelser/2023/november/29/29-november-082.33-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 472773,
+    "datetime": "2023-11-29 8:55:57 +01:00",
+    "name": "29 november 08.26, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat på Färjestad",
+    "url": "/aktuellt/handelser/2023/november/29/29-november-08.26-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 472772,
     "datetime": "2023-11-29 10:28:41 +01:00",
     "name": "29 november 07.02, Kontroll person/fordon, Stockholm",
@@ -57,30 +153,6 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 472792,
-    "datetime": "2023-11-29 9:42:54 +01:00",
-    "name": "29 november 08.40, Trafikolycka, Stenungsund",
-    "summary": "Lastbil och personbil i kollision",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-08.40-trafikolycka-stenungsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 472773,
-    "datetime": "2023-11-29 8:55:57 +01:00",
-    "name": "29 november 08.26, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat på Färjestad",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-08.26-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Vänersborg",
       "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 471879,
-    "datetime": "2023-11-22 12:15:12 +01:00",
-    "name": "22 november 09.11, Arbetsplatsolycka, Uppsala",
-    "summary": "Man till sjukhus efter arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2023/november/22/22-november-09.11-arbetsplatsolycka-uppsala/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 471872,
-    "datetime": "2023-11-22 10:34:46 +01:00",
-    "name": "22 november 10.22, Trafikolycka, singel, Munkfors",
-    "summary": "En personbil har körts i diket utefter Lv241 strax norr om Bråtbäcken, väster om Munkfors.",
-    "url": "/aktuellt/handelser/2023/november/22/22-november-10.22-trafikolycka-singel-munkfors/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Munkfors",
-      "gps": "59.835348,13.534415"
-    }
-  },
-  {
-    "id": 471841,
-    "datetime": "2023-11-22 8:03:04 +01:00",
-    "name": "22 november 07.37, Trafikolycka, Salem",
-    "summary": "Polis och ambulans kallas till E4:an vid trafikplats Salem i riktning mot Södertälje med anledning av en trafi",
-    "url": "/aktuellt/handelser/2023/november/22/22-november-07.37-trafikolycka-salem/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Salem",
-      "gps": "59.20768,17.774222"
-    }
-  },
-  {
-    "id": 471874,
-    "datetime": "2023-11-22 10:51:28 +01:00",
-    "name": "22 november 09.53, Trafikkontroll, Lindesberg",
-    "summary": "Nyktra och skötsamma trafikanter i Lindesbeg.",
-    "url": "/aktuellt/handelser/2023/november/22/22-november-09.53-trafikkontroll-lindesberg/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
-    }
-  },
-  {
-    "id": 471871,
-    "datetime": "2023-11-22 10:23:51 +01:00",
-    "name": "22 november 07.34, Försvunnen person, Borås",
-    "summary": "Räddningsinsats försvunnen kvinna",
-    "url": "/aktuellt/handelser/2023/november/22/22-november-07.34-forsvunnen-person-boras/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 471830,
-    "datetime": "2023-11-22 7:25:01 +01:00",
-    "name": "22 november 07.20, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan är ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/november/22/22-november-07.20-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
