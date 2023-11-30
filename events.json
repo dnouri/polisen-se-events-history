@@ -1,5 +1,53 @@
 [
   {
+    "id": 473032,
+    "datetime": "2023-11-30 20:36:07 +01:00",
+    "name": "30 november 20.02, Rån, Malmö",
+    "summary": "Polis larmas till Friisgatan med anledning av ett misstänkt rån.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-20.02-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 473025,
+    "datetime": "2023-11-30 19:44:21 +01:00",
+    "name": "30 november 19.03, Rån väpnat, Göteborg",
+    "summary": "En man i 55-årsåldern ringer polis och uppger att en knivbeväpnad och maskerad man trängt sig in i en lägenhet",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-19.03-ran-vapnat-goteborg/",
+    "type": "Rån väpnat",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 473031,
+    "datetime": "2023-11-30 20:24:25 +01:00",
+    "name": "30 november 18.18, Fylleri/LOB, Skellefteå",
+    "summary": "Centrum, polis beordras till busstationen med anledning av berusad man",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-18.18-fyllerilob-skelleftea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 473023,
+    "datetime": "2023-11-30 19:20:58 +01:00",
+    "name": "30 november 14.50, Försvunnen person, Partille",
+    "summary": "Polisen söker efter en 79-årig man som har anmälts försvunnen av anhöriga.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-14.50-forsvunnen-person-partille/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Partille",
+      "gps": "57.73665,12.125197"
+    }
+  },
+  {
     "id": 473030,
     "datetime": "2023-11-30 20:13:55 +01:00",
     "name": "30 november 16.18, Stöld/inbrott, Östersund",
@@ -48,18 +96,6 @@
     }
   },
   {
-    "id": 473025,
-    "datetime": "2023-11-30 19:44:21 +01:00",
-    "name": "30 november 19.03, Rån väpnat, Göteborg",
-    "summary": "En man i 55-årsåldern ringer polis och uppger att en knivbeväpnad och maskerad man trängt sig in i en lägenhet",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-19.03-ran-vapnat-goteborg/",
-    "type": "Rån väpnat",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
     "id": 473024,
     "datetime": "2023-11-30 19:42:37 +01:00",
     "name": "30 november 17.33, Brand, Timrå",
@@ -69,18 +105,6 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 473023,
-    "datetime": "2023-11-30 19:20:58 +01:00",
-    "name": "30 november 14.50, Försvunnen person, Partille",
-    "summary": "Polisen söker efter en 79-årig man som har anmälts försvunnen av anhöriga.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-14.50-forsvunnen-person-partille/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Partille",
-      "gps": "57.73665,12.125197"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Haparanda",
       "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 472176,
-    "datetime": "2023-11-24 12:48:58 +01:00",
-    "name": "24 november 12.43, Trafikolycka, singel, Lomma",
-    "summary": "Larm om trafikolycka, E6:an",
-    "url": "/aktuellt/handelser/2023/november/24/24-november-12.43-trafikolycka-singel-lomma/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Lomma",
-      "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 472169,
-    "datetime": "2023-11-24 12:11:23 +01:00",
-    "name": "24 november 11.53, Trafikolycka, Kalix",
-    "summary": "larm om trafikolycka i centrala Kalix.",
-    "url": "/aktuellt/handelser/2023/november/24/24-november-11.53-trafikolycka-kalix/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   }
 ]
