@@ -1,5 +1,89 @@
 [
   {
+    "id": 472970,
+    "datetime": "2023-11-30 13:24:27 +01:00",
+    "name": "30 november 11.15, Stöld, Sundsvall",
+    "summary": "Södermalm, polisen kallas till en matbutik",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-11.15-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 472969,
+    "datetime": "2023-11-30 13:23:00 +01:00",
+    "name": "30 november 12.14, Arbetsplatsolycka, Gävle",
+    "summary": "Man har sågat sig i benet.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-12.14-arbetsplatsolycka-gavle/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 472968,
+    "datetime": "2023-11-30 13:21:07 +01:00",
+    "name": "30 november 10.28, Narkotikabrott, Sollefteå",
+    "summary": "Polisen stoppar en kvinna",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-10.28-narkotikabrott-solleftea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 472902,
+    "datetime": "2023-11-30 7:25:43 +01:00",
+    "name": "30 november 05.26, Brand, Ovanåker",
+    "summary": "Brand i en villa.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-05.26-brand-ovanaker/",
+    "type": "Brand",
+    "location": {
+      "name": "Ovanåker",
+      "gps": "61.446923,15.738922"
+    }
+  },
+  {
+    "id": 472967,
+    "datetime": "2023-11-30 12:52:33 +01:00",
+    "name": "30 november 10.16, Trafikkontroll, Östersund",
+    "summary": "Länsväg 610 Lugnvik, polisen kontrollerar hastighet",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-10.16-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 472966,
+    "datetime": "2023-11-30 12:47:55 +01:00",
+    "name": "30 november 13.00, Övrigt, Hallands län",
+    "summary": "Presstalespersonerna är på möte klockan 13-15. Vakthavande befäl svarar i presstelefonen i mån av tid.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-13.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 472965,
+    "datetime": "2023-11-30 12:47:38 +01:00",
+    "name": "30 november 13.00, Övrigt, Västra Götalands län",
+    "summary": "Presstalespersonerna är på möte klockan 13-15. Vakthavande befäl svarar i presstelefonen i mån av tid.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-13.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 472961,
     "datetime": "2023-11-30 12:38:56 +01:00",
     "name": "30 november 10.42, Försvunnen person, Hedemora",
@@ -333,18 +417,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 472902,
-    "datetime": "2023-11-30 7:25:43 +01:00",
-    "name": "30 november 05.26, Brand, Ovanåker",
-    "summary": "Brand i en villa.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-05.26-brand-ovanaker/",
-    "type": "Brand",
-    "location": {
-      "name": "Ovanåker",
-      "gps": "61.446923,15.738922"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 472083,
-    "datetime": "2023-11-23 20:29:19 +01:00",
-    "name": "23 november 20.13, Trafikolycka, singel, Karlstad",
-    "summary": "En trafikolycka har inträffat på E18 Vålberg.",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-20.13-trafikolycka-singel-karlstad/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 472086,
-    "datetime": "2023-11-23 21:23:57 +01:00",
-    "name": "23 november 21.22, Misshandel, grov, Jönköpings län",
-    "summary": "En person gripen för grov misshandel.",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-21.22-misshandel-grov-jonkopings-lan/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 472084,
-    "datetime": "2023-11-23 20:33:58 +01:00",
-    "name": "23 november 20.29, Rån, Nora",
-    "summary": "Polisen utreder ett rån som inträffat mot en butik i Nora under kvällen.",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-20.29-ran-nora/",
-    "type": "Rån",
-    "location": {
-      "name": "Nora",
-      "gps": "59.519206,15.037867"
-    }
-  },
-  {
-    "id": 472081,
-    "datetime": "2023-11-23 19:03:15 +01:00",
-    "name": "23 november 18.43, Trafikolycka, Kumla",
-    "summary": "En trafikolycka har inträffat i Kumla.",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-18.43-trafikolycka-kumla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 472082,
-    "datetime": "2023-11-23 20:23:15 +01:00",
-    "name": "23 november 18.39, Stöld, Örebro",
-    "summary": "Tips leder till att polispatrull avbryter pågående cykelstöld i Örebro.",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-18.39-stold-orebro/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 472074,
-    "datetime": "2023-11-23 16:57:45 +01:00",
-    "name": "23 november 16.56, Försvunnen person, Ljusnarsberg",
-    "summary": "Kvinnan är anträffad och kommer ses över av sjukvården",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-16.56-forsvunnen-person-ljusnarsberg/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Ljusnarsberg",
-      "gps": "59.877447,14.998849"
     }
   }
 ]
