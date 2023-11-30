@@ -1,5 +1,77 @@
 [
   {
+    "id": 472902,
+    "datetime": "2023-11-30 7:25:43 +01:00",
+    "name": "30 november 05.26, Brand, Ovanåker",
+    "summary": "Brand i en villa.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-05.26-brand-ovanaker/",
+    "type": "Brand",
+    "location": {
+      "name": "Ovanåker",
+      "gps": "61.446923,15.738922"
+    }
+  },
+  {
+    "id": 472901,
+    "datetime": "2023-11-30 7:12:23 +01:00",
+    "name": "30 november 06.46, Trafikolycka, Lund",
+    "summary": "E22 Gastelyckan",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-06.46-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 472900,
+    "datetime": "2023-11-30 7:07:48 +01:00",
+    "name": "30 november 06.59, Trafikolycka, Kävlinge",
+    "summary": "E6 Hofterup",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-06.59-trafikolycka-kavlinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 472897,
+    "datetime": "2023-11-30 7:04:49 +01:00",
+    "name": "30 november 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 472899,
+    "datetime": "2023-11-30 7:01:16 +01:00",
+    "name": "30 november 05.40, Trafikolycka, Trelleborg",
+    "summary": "Personbil i kollision med träd",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-05.40-trafikolycka-trelleborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 472898,
+    "datetime": "2023-11-30 6:57:22 +01:00",
+    "name": "30 november 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 472895,
     "datetime": "2023-11-29 23:14:01 +01:00",
     "name": "29 november 22.49, Trafikolycka, Åstorp",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 471978,
-    "datetime": "2023-11-23 8:56:18 +01:00",
-    "name": "22 november 22.07, Trafikolycka, vilt, Kristianstad",
-    "summary": "Olycka mellan personbil och varg, Östra Sönnarslöv.",
-    "url": "/aktuellt/handelser/2023/november/22/22-november-22.07-trafikolycka-vilt-kristianstad/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 471973,
-    "datetime": "2023-11-23 8:07:34 +01:00",
-    "name": "23 november 07.23, Trafikolycka, Härryda",
-    "summary": "Trafikolycka på Härrydavägen, Härryda C",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-07.23-trafikolycka-harryda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härryda",
-      "gps": "57.691744,12.294416"
-    }
-  },
-  {
-    "id": 471974,
-    "datetime": "2023-11-23 8:08:56 +01:00",
-    "name": "23 november 07.44, Trafikolycka, Karlstad",
-    "summary": "Två personbilar har kolliderat vid korsningen Ullebergsleden/Skoghallsvägen",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-07.44-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 471949,
-    "datetime": "2023-11-23 7:06:20 +01:00",
-    "name": "23 november 07.04, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-07.04-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 471971,
-    "datetime": "2023-11-23 7:58:02 +01:00",
-    "name": "23 november 07.56, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-07.56-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 471969,
-    "datetime": "2023-11-23 7:55:45 +01:00",
-    "name": "23 november 07.52, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-07.52-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
