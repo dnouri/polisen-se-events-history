@@ -1,5 +1,77 @@
 [
   {
+    "id": 473003,
+    "datetime": "2023-11-30 16:26:04 +01:00",
+    "name": "30 november 16.25, Övrigt, Karlstad",
+    "summary": "Det luktar rök i en byggnad på Orrholmen i Karlstad",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-16.25-ovrigt-karlstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 473004,
+    "datetime": "2023-11-30 16:33:26 +01:00",
+    "name": "30 november 13.58, Stöld, försök, Östersund",
+    "summary": "Körfältet, misstänkt inbrottsförsök till förråd i flerfamiljshus",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-13.58-stold-forsok-ostersund/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 472961,
+    "datetime": "2023-11-30 12:38:56 +01:00",
+    "name": "30 november 10.42, Försvunnen person, Hedemora",
+    "summary": "Pojken är anträffad, sökinsats är avslutad.",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-10.42-forsvunnen-person-hedemora/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Hedemora",
+      "gps": "60.277545,15.985892"
+    }
+  },
+  {
+    "id": 473002,
+    "datetime": "2023-11-30 16:25:39 +01:00",
+    "name": "30 november 14.12, Trafikbrott, Örnsköldsvik",
+    "summary": "Domsjö, bilförare stoppad efter att han gjort omkörning trots mötande trafik",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-14.12-trafikbrott-ornskoldsvik/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 473001,
+    "datetime": "2023-11-30 16:23:45 +01:00",
+    "name": "30 november 13.42, Stöld, Härnösand",
+    "summary": "Bondsjöstaden, man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-13.42-stold-harnosand/",
+    "type": "Stöld",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 473000,
+    "datetime": "2023-11-30 16:22:15 +01:00",
+    "name": "30 november 13.19, Bråk, Sundsvall",
+    "summary": "Stenstan, polis kontaktas gällande ett antal personer som bråkar",
+    "url": "/aktuellt/handelser/2023/november/30/30-november-13.19-brak-sundsvall/",
+    "type": "Bråk",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 472994,
     "datetime": "2023-11-30 16:07:26 +01:00",
     "name": "30 november 13.14, Trafikkontroll, Umeå",
@@ -57,18 +129,6 @@
     "location": {
       "name": "Arvidsjaur",
       "gps": "65.592077,19.180283"
-    }
-  },
-  {
-    "id": 472961,
-    "datetime": "2023-11-30 12:38:56 +01:00",
-    "name": "30 november 10.42, Försvunnen person, Hedemora",
-    "summary": "Pojken är anträffad, sökinsats är avslutad.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-10.42-forsvunnen-person-hedemora/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Hedemora",
-      "gps": "60.277545,15.985892"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 472119,
-    "datetime": "2023-11-24 7:27:45 +01:00",
-    "name": "24 november 00.38, Skadegörelse, Karlskoga",
-    "summary": "Berusad man i 25-årsåldern misstänkt för bl.a. skadegörelse vid ett företag i området Kilsta, Karlskoga",
-    "url": "/aktuellt/handelser/2023/november/24/24-november-00.38-skadegorelse-karlskoga/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 472117,
-    "datetime": "2023-11-24 7:26:18 +01:00",
-    "name": "24 november 06.30, Trafikolycka, Hörby",
-    "summary": "En personbil och en lastbil kolliderar på E22 vid Hörby.",
-    "url": "/aktuellt/handelser/2023/november/24/24-november-06.30-trafikolycka-horby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
-    }
-  },
-  {
-    "id": 472114,
-    "datetime": "2023-11-24 7:21:33 +01:00",
-    "name": "24 november 05.28, Trafikolycka, Kristianstad",
-    "summary": "En bil kör ned i diket på riksväg 19 mellan Everöd och Degeberga.",
-    "url": "/aktuellt/handelser/2023/november/24/24-november-05.28-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 472093,
-    "datetime": "2023-11-24 0:44:06 +01:00",
-    "name": "23 november 23.58, Detonation, Klippan",
-    "summary": "Detonation på Thorsgatan.",
-    "url": "/aktuellt/handelser/2023/november/24/23-november-23.58-detonation-klippan/",
-    "type": "Detonation",
-    "location": {
-      "name": "Klippan",
-      "gps": "56.1349,13.129041"
-    }
-  },
-  {
-    "id": 472102,
-    "datetime": "2023-11-24 7:10:08 +01:00",
-    "name": "23 november 22.37, Skadegörelse, Uppsala",
-    "summary": "Bilbrand, Uppsala.",
-    "url": "/aktuellt/handelser/2023/november/23/23-november-22.37-skadegorelse-uppsala/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
