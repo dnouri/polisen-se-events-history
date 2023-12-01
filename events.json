@@ -1,14 +1,50 @@
 [
   {
-    "id": 473319,
-    "datetime": "2023-12-01 21:34:55 +01:00",
-    "name": "01 december 19.04, Fjällräddning, Vilhelmina",
-    "summary": "Kittelfjäll, fyra män behöver hjälp att ta sig ned från fjället",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-19.04-fjallraddning-vilhelmina/",
-    "type": "Fjällräddning",
+    "id": 473297,
+    "datetime": "2023-12-01 18:38:42 +01:00",
+    "name": "01 december 18.35, Rattfylleri, Nyköping",
+    "summary": "Larm om vinglig bil - misstänkt drograttfylleri",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-18.35-rattfylleri-nykoping/",
+    "type": "Rattfylleri",
     "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 473320,
+    "datetime": "2023-12-01 21:49:15 +01:00",
+    "name": "01 december 21.35, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i höjd med Berglunda",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-21.35-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 473280,
+    "datetime": "2023-12-01 21:48:01 +01:00",
+    "name": "01 december 21.45, Övrigt, Hallands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-21.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 473281,
+    "datetime": "2023-12-01 21:47:27 +01:00",
+    "name": "01 december 21.45, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-21.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -21,6 +57,18 @@
     "location": {
       "name": "Tanum",
       "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 473319,
+    "datetime": "2023-12-01 21:34:55 +01:00",
+    "name": "01 december 19.04, Fjällräddning, Vilhelmina",
+    "summary": "Kittelfjäll, fyra män behöver hjälp att ta sig ned från fjället",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-19.04-fjallraddning-vilhelmina/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
     }
   },
   {
@@ -285,18 +333,6 @@
     "location": {
       "name": "Mark",
       "gps": "57.425318,12.569522"
-    }
-  },
-  {
-    "id": 473297,
-    "datetime": "2023-12-01 18:38:42 +01:00",
-    "name": "01 december 18.35, Rattfylleri, Nyköping",
-    "summary": "Larm om vinglig bil - misstänkt drograttfylleri",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-18.35-rattfylleri-nykoping/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 472301,
-    "datetime": "2023-11-25 22:19:33 +01:00",
-    "name": "25 november 21.34, Skottlossning, Malmö",
-    "summary": "Höga smällar i Kirseberg.",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-21.34-skottlossning-malmo/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 472296,
-    "datetime": "2023-11-25 16:26:30 +01:00",
-    "name": "25 november 16.15, Brand, Kristianstad",
-    "summary": "Brand i villa, Färlöv.",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-16.15-brand-kristianstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 472300,
-    "datetime": "2023-11-25 20:41:16 +01:00",
-    "name": "25 november 20.34, Brand, Malmö",
-    "summary": "Brand i byggnad på Norra Parkgatan.",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-20.34-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
