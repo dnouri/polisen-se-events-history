@@ -1,5 +1,77 @@
 [
   {
+    "id": 473279,
+    "datetime": "2023-12-01 17:25:39 +01:00",
+    "name": "01 december 15.45, Stöld, Luleå",
+    "summary": "Centrum, polisen kallas till en butik",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-15.45-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 473277,
+    "datetime": "2023-12-01 17:15:23 +01:00",
+    "name": "01 december 16.17, Trafikolycka, singel, Ulricehamn",
+    "summary": "Singelolycka med personbil på riksväg 46.",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-16.17-trafikolycka-singel-ulricehamn/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Ulricehamn",
+      "gps": "57.794789,13.420516"
+    }
+  },
+  {
+    "id": 473276,
+    "datetime": "2023-12-01 16:50:47 +01:00",
+    "name": "01 december 16.46, Trafikolycka, Värnamo",
+    "summary": "Personbil i mitträcke - vägen avständ",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-16.46-trafikolycka-varnamo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 473278,
+    "datetime": "2023-12-01 17:10:37 +01:00",
+    "name": "01 december 08.40, Olovlig körning, Bräcke",
+    "summary": "Polisen stoppar en personbil",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-08.40-olovlig-korning-bracke/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Bräcke",
+      "gps": "62.750741,15.422575"
+    }
+  },
+  {
+    "id": 473219,
+    "datetime": "2023-12-01 13:48:19 +01:00",
+    "name": "01 december 13.08, Mord/dråp, försök, Mark",
+    "summary": "Försök till mord i Kinna",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-13.08-morddrap-forsok-mark/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
+    "id": 473275,
+    "datetime": "2023-12-01 16:46:38 +01:00",
+    "name": "01 december 15.09, Skadegörelse, Solna",
+    "summary": "Skadegörelse i dagligvarubutik.",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-15.09-skadegorelse-solna/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
     "id": 473273,
     "datetime": "2023-12-01 16:31:52 +01:00",
     "name": "01 december 14.06, Trafikolycka, Sundsvall",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 473219,
-    "datetime": "2023-12-01 13:48:19 +01:00",
-    "name": "01 december 13.08, Mord/dråp, försök, Mark",
-    "summary": "Försök till mord i Kinna",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-13.08-morddrap-forsok-mark/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 472267,
-    "datetime": "2023-11-25 7:58:55 +01:00",
-    "name": "25 november 07.57, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-07.57-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 472266,
-    "datetime": "2023-11-25 7:57:52 +01:00",
-    "name": "25 november 07.57, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-07.57-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 472265,
-    "datetime": "2023-11-25 7:57:19 +01:00",
-    "name": "25 november 07.56, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-07.56-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 472262,
-    "datetime": "2023-11-25 7:56:16 +01:00",
-    "name": "25 november 07.54, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-07.54-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 472263,
-    "datetime": "2023-11-25 7:56:10 +01:00",
-    "name": "25 november 06.57, Kontroll person/fordon, Stockholm",
-    "summary": "Polis hindrade en berusad person från att begå rattfylleri tack vare tips från en inringare.",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-06.57-kontroll-personfordon-stockholm/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
