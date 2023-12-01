@@ -1,5 +1,65 @@
 [
   {
+    "id": 473303,
+    "datetime": "2023-12-01 19:42:00 +01:00",
+    "name": "01 december 18.27, Fylleri/LOB, Östersund",
+    "summary": "Centrum, polisen uppmärksammas på en berusad person",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-18.27-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 473302,
+    "datetime": "2023-12-01 19:37:50 +01:00",
+    "name": "01 december 19.30, Trafikolycka, vilt, Karlskoga",
+    "summary": "En olycka har inträffat i Högåsen",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-19.30-trafikolycka-vilt-karlskoga/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 473291,
+    "datetime": "2023-12-01 17:59:12 +01:00",
+    "name": "01 december 17.55, Trafikolycka, personskada, Eskilstuna",
+    "summary": "Personbil och lastbil i krock",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-17.55-trafikolycka-personskada-eskilstuna/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 473301,
+    "datetime": "2023-12-01 19:30:09 +01:00",
+    "name": "01 december 19.07, Trafikolycka, Falun",
+    "summary": "En olycka har inträffat i Bjursås",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-19.07-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 473293,
+    "datetime": "2023-12-01 18:08:54 +01:00",
+    "name": "01 december 17.23, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i höjd med Ekeby-Almby",
+    "url": "/aktuellt/handelser/2023/december/1/01-december-17.23-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 473300,
     "datetime": "2023-12-01 19:25:26 +01:00",
     "name": "01 december 19.18, Trafikolycka, Laxå",
@@ -72,18 +132,6 @@
     }
   },
   {
-    "id": 473291,
-    "datetime": "2023-12-01 17:59:12 +01:00",
-    "name": "01 december 17.55, Trafikolycka, personskada, Eskilstuna",
-    "summary": "Personbil och lastbil i krock",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-17.55-trafikolycka-personskada-eskilstuna/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
     "id": 473295,
     "datetime": "2023-12-01 18:22:28 +01:00",
     "name": "01 december 16.37, Trafikolycka, Eslöv",
@@ -105,18 +153,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 473293,
-    "datetime": "2023-12-01 18:08:54 +01:00",
-    "name": "01 december 17.23, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i höjd med Ekeby-Almby",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-17.23-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Säffle",
       "gps": "59.132661,12.930107"
-    }
-  },
-  {
-    "id": 472282,
-    "datetime": "2023-11-25 12:24:03 +01:00",
-    "name": "25 november 11.37, Trafikolycka, vilt, Skellefteå",
-    "summary": "Länsväg 372, Norra Bergsbyn, en personbil har kolliderat med ett rådjur",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-11.37-trafikolycka-vilt-skelleftea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 472281,
-    "datetime": "2023-11-25 12:19:12 +01:00",
-    "name": "25 november 11.52, Trafikolycka, Ronneby",
-    "summary": "En trafikolycka mellan en cyklist och en personbil inträffar på Strandgatan.",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-11.52-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 472280,
-    "datetime": "2023-11-25 11:40:35 +01:00",
-    "name": "25 november 10.43, Trafikkontroll, Sollefteå",
-    "summary": "Hallstaberget, polisen kontrollerar nykterhet i trafiken",
-    "url": "/aktuellt/handelser/2023/november/25/25-november-10.43-trafikkontroll-solleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
     }
   }
 ]
