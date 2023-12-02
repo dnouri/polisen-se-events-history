@@ -1,5 +1,65 @@
 [
   {
+    "id": 473348,
+    "datetime": "2023-12-02 11:22:51 +01:00",
+    "name": "02 december 10.45, Trafikolycka, Härnösand",
+    "summary": "Polisen kontaktas om en trafikolycka på E4, Fröland.",
+    "url": "/aktuellt/handelser/2023/december/2/02-december-10.45-trafikolycka-harnosand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 473350,
+    "datetime": "2023-12-02 11:13:03 +01:00",
+    "name": "02 december 10.35, Trafikolycka, vilt, Robertsfors",
+    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 664, Gullmark.",
+    "url": "/aktuellt/handelser/2023/december/2/02-december-10.35-trafikolycka-vilt-robertsfors/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 473349,
+    "datetime": "2023-12-02 11:10:44 +01:00",
+    "name": "02 december 04.57, Trafikolycka, Lilla edet",
+    "summary": "Smitning och grovt rattfylleri, Göta",
+    "url": "/aktuellt/handelser/2023/december/2/02-december-04.57-trafikolycka-lilla-edet/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lilla edet",
+      "gps": "58.132158,12.124134"
+    }
+  },
+  {
+    "id": 473347,
+    "datetime": "2023-12-02 11:05:04 +01:00",
+    "name": "02 december 09.02, Rattfylleri, Strömsund",
+    "summary": "Misstänkt rattfylleri på länsväg 757.",
+    "url": "/aktuellt/handelser/2023/december/2/02-december-09.02-rattfylleri-stromsund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 473323,
+    "datetime": "2023-12-02 6:48:47 +01:00",
+    "name": "02 december 04.58, Detonation, Svedala",
+    "summary": "Polis larmas till Svedala efter en misstänkt detonation.",
+    "url": "/aktuellt/handelser/2023/december/2/02-december-04.58-detonation-svedala/",
+    "type": "Detonation",
+    "location": {
+      "name": "Svedala",
+      "gps": "55.508908,13.23711"
+    }
+  },
+  {
     "id": 473346,
     "datetime": "2023-12-02 10:37:48 +01:00",
     "name": "02 december 09.57, Brand, Sollefteå",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 473323,
-    "datetime": "2023-12-02 6:48:47 +01:00",
-    "name": "02 december 04.58, Detonation, Svedala",
-    "summary": "Polis larmas till Svedala efter en misstänkt detonation.",
-    "url": "/aktuellt/handelser/2023/december/2/02-december-04.58-detonation-svedala/",
-    "type": "Detonation",
-    "location": {
-      "name": "Svedala",
-      "gps": "55.508908,13.23711"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Berg",
       "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 472331,
-    "datetime": "2023-11-26 11:09:09 +01:00",
-    "name": "26 november 09.54, Trafikkontroll, Sollefteå",
-    "summary": "Polisen har kontrollerat nykterhet i trafiken",
-    "url": "/aktuellt/handelser/2023/november/26/26-november-09.54-trafikkontroll-solleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 472330,
-    "datetime": "2023-11-26 10:57:31 +01:00",
-    "name": "26 november 09.57, Olaga hot, Sundsvall",
-    "summary": "Södermalm, en kvinna uppger att personer ska ha bankat på hennes ytterdörr",
-    "url": "/aktuellt/handelser/2023/november/26/26-november-09.57-olaga-hot-sundsvall/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 472329,
-    "datetime": "2023-11-26 10:27:57 +01:00",
-    "name": "26 november 09.13, Rån, Kungälv",
-    "summary": "Två män i 30-35-årsåldern är gripna, misstänkta för rån.",
-    "url": "/aktuellt/handelser/2023/november/26/26-november-09.13-ran-kungalv/",
-    "type": "Rån",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 472328,
-    "datetime": "2023-11-26 9:51:32 +01:00",
-    "name": "26 november 09.06, Trafikolycka, Skellefteå",
-    "summary": "Ålund, en personbil har voltat",
-    "url": "/aktuellt/handelser/2023/november/26/26-november-09.06-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
