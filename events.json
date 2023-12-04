@@ -1,5 +1,65 @@
 [
   {
+    "id": 473627,
+    "datetime": "2023-12-04 17:26:24 +01:00",
+    "name": "04 december 17.13, Trafikolycka, Halmstad",
+    "summary": "En minibuss och en personbil har kolliderat i Haverdal.",
+    "url": "/aktuellt/handelser/2023/december/4/04-december-17.13-trafikolycka-halmstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 473631,
+    "datetime": "2023-12-04 17:59:18 +01:00",
+    "name": "04 december 17.09, Fylleri/LOB, Sundsvall",
+    "summary": "Sundsvall, person omhändertagen.",
+    "url": "/aktuellt/handelser/2023/december/4/04-december-17.09-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 473619,
+    "datetime": "2023-12-04 16:30:02 +01:00",
+    "name": "04 december 16.06, Trafikolycka, Örnsköldsvik",
+    "summary": "Husum, trafikolycka på E4 vid Gideåbacka.",
+    "url": "/aktuellt/handelser/2023/december/4/04-december-16.06-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 473630,
+    "datetime": "2023-12-04 17:46:42 +01:00",
+    "name": "04 december 17.39, Brand, Helsingborg",
+    "summary": "Bilbrand på Dalhemsvägen.",
+    "url": "/aktuellt/handelser/2023/december/4/04-december-17.39-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 473629,
+    "datetime": "2023-12-04 17:45:00 +01:00",
+    "name": "04 december 17.29, Trafikolycka, Älvsbyn",
+    "summary": "Singelolycka öster om Älvsbyn.",
+    "url": "/aktuellt/handelser/2023/december/4/04-december-17.29-trafikolycka-alvsbyn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Älvsbyn",
+      "gps": "65.677136,20.992866"
+    }
+  },
+  {
     "id": 473628,
     "datetime": "2023-12-04 17:43:21 +01:00",
     "name": "04 december 17.29, Trafikolycka, Karlshamn",
@@ -45,30 +105,6 @@
     "location": {
       "name": "Sunne",
       "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 473627,
-    "datetime": "2023-12-04 17:26:24 +01:00",
-    "name": "04 december 17.13, Trafikolycka, Halmstad",
-    "summary": "En minibuss och en personbil har kolliderat i Haverdal.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-17.13-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 473619,
-    "datetime": "2023-12-04 16:30:02 +01:00",
-    "name": "04 december 16.06, Trafikolycka, Örnsköldsvik",
-    "summary": "Husum, trafikolycka på E4 vid Gideåbacka.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-16.06-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 472529,
-    "datetime": "2023-11-28 7:52:51 +01:00",
-    "name": "28 november 07.46, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-07.46-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 472528,
-    "datetime": "2023-11-28 7:52:45 +01:00",
-    "name": "28 november 07.44, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-07.44-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 472517,
-    "datetime": "2023-11-28 6:54:33 +01:00",
-    "name": "28 november 06.46, Brand, Hallands län",
-    "summary": "Brand i lastbil på E6",
-    "url": "/aktuellt/handelser/2023/november/28/28-november-06.46-brand-hallands-lan/",
-    "type": "Brand",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
