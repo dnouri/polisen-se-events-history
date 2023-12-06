@@ -1,5 +1,29 @@
 [
   {
+    "id": 473803,
+    "datetime": "2023-12-06 12:14:25 +01:00",
+    "name": "06 december 10.19, Stöld, Luleå",
+    "summary": "Misstänkt ringa stöld i butik i Innerstaden.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-10.19-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 473801,
+    "datetime": "2023-12-06 11:52:31 +01:00",
+    "name": "06 december 10.29, Rattfylleri, Kramfors",
+    "summary": "Misstänkt rattfylleri i centrala Kramfors.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-10.29-rattfylleri-kramfors/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
     "id": 473798,
     "datetime": "2023-12-06 11:25:07 +01:00",
     "name": "06 december 11.09, Trafikolycka, Timrå",
@@ -204,18 +228,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -225,6 +237,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 472801,
-    "datetime": "2023-11-29 10:00:56 +01:00",
-    "name": "29 november 08.23, Trafikolycka, Kramfors",
-    "summary": "Länsväg 332 Klockestrand, två personbilar har kolliderat",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-08.23-trafikolycka-kramfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 472764,
-    "datetime": "2023-11-29 8:30:34 +01:00",
-    "name": "29 november 08.29, Trafikolycka, Västervik",
-    "summary": "E22, norr om Gunnebo",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-08.29-trafikolycka-vastervik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
     }
   }
 ]
