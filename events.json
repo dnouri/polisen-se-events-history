@@ -1,5 +1,77 @@
 [
   {
+    "id": 473729,
+    "datetime": "2023-12-05 17:41:54 +01:00",
+    "name": "05 december 17.34, Mord/dråp, försök, Eskilstuna",
+    "summary": "Försök till mord i två fall.",
+    "url": "/aktuellt/handelser/2023/december/5/05-december-17.34-morddrap-forsok-eskilstuna/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 473798,
+    "datetime": "2023-12-06 11:25:07 +01:00",
+    "name": "06 december 11.09, Trafikolycka, Timrå",
+    "summary": "Larm om trafikolycka på E4, Sörberge.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-11.09-trafikolycka-timra/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 473806,
+    "datetime": "2023-12-06 14:03:23 +01:00",
+    "name": "06 december 11.36, Rån, försök, Helsingborg",
+    "summary": "Försök till personrån, Helsingborg",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-11.36-ran-forsok-helsingborg/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 473832,
+    "datetime": "2023-12-06 14:02:34 +01:00",
+    "name": "06 december 06.38, Inbrott, Härnösand",
+    "summary": "Polisen kontaktas under tidig onsdagsmorgon om att ett företag på Kronholmen haft inbrott.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-06.38-inbrott-harnosand/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 473807,
+    "datetime": "2023-12-06 13:45:44 +01:00",
+    "name": "06 december 11.44, Rån, Helsingborg",
+    "summary": "Personrån i centrala Helsingborg",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-11.44-ran-helsingborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 473830,
+    "datetime": "2023-12-06 13:46:52 +01:00",
+    "name": "06 december 13.44, Misshandel, Örebro",
+    "summary": "Man gripen för misshandel i nära relation samt grovt vapenbrott",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-13.44-misshandel-orebro/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 473825,
     "datetime": "2023-12-06 13:34:56 +01:00",
     "name": "06 december 13.34, Trafikkontroll, Sundsvall",
@@ -117,18 +189,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 473798,
-    "datetime": "2023-12-06 11:25:07 +01:00",
-    "name": "06 december 11.09, Trafikolycka, Timrå",
-    "summary": "Larm om trafikolycka på E4, Sörberge.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-11.09-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
     }
   },
   {
@@ -312,18 +372,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -333,6 +381,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -453,18 +513,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 473729,
-    "datetime": "2023-12-05 17:41:54 +01:00",
-    "name": "05 december 17.34, Mord/dråp, försök, Eskilstuna",
-    "summary": "Försök till mord i två fall.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-17.34-morddrap-forsok-eskilstuna/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 472815,
-    "datetime": "2023-11-29 11:16:14 +01:00",
-    "name": "29 november 11.14, Övrigt, Hallands län",
-    "summary": "Många trafikolyckor",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-11.14-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 472814,
-    "datetime": "2023-11-29 11:16:12 +01:00",
-    "name": "29 november 10.37, Trafikolycka, Gävle",
-    "summary": "Förare fick ordningsbot efter olycka.",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-10.37-trafikolycka-gavle/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 472813,
-    "datetime": "2023-11-29 11:14:01 +01:00",
-    "name": "29 november 10.58, Övrigt, Västra Götalands län",
-    "summary": "Många trafikolyckor",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-10.58-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 472812,
-    "datetime": "2023-11-29 11:11:38 +01:00",
-    "name": "29 november 10.24, Trafikolycka, personskada, Gävle",
-    "summary": "Person påkörd av snöskottande hjullastare.",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-10.24-trafikolycka-personskada-gavle/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
