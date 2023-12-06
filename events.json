@@ -1,5 +1,53 @@
 [
   {
+    "id": 473825,
+    "datetime": "2023-12-06 13:34:56 +01:00",
+    "name": "06 december 13.34, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter två trafikkontroller.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-13.34-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 473824,
+    "datetime": "2023-12-06 13:33:19 +01:00",
+    "name": "06 december 13.33, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-13.33-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 473822,
+    "datetime": "2023-12-06 13:32:19 +01:00",
+    "name": "06 december 13.32, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-13.32-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 473821,
+    "datetime": "2023-12-06 13:09:42 +01:00",
+    "name": "06 december 12.58, Trafikolycka, Stockholms län",
+    "summary": "Flertalet trafikolyckor - ishalka på bland annat riksväg 73.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-12.58-trafikolycka-stockholms-lan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
     "id": 473815,
     "datetime": "2023-12-06 12:42:37 +01:00",
     "name": "06 december 12.41, Stöld/inbrott, Ludvika",
@@ -264,18 +312,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -285,6 +321,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 472810,
-    "datetime": "2023-11-29 10:59:49 +01:00",
-    "name": "29 november 10.14, Trafikkontroll, Timrå",
-    "summary": "Tallnäsvägen, polisen kontrollerar trafiken",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-10.14-trafikkontroll-timra/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 472792,
-    "datetime": "2023-11-29 9:42:54 +01:00",
-    "name": "29 november 08.40, Trafikolycka, Stenungsund",
-    "summary": "Lastbil och personbil i kollision",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-08.40-trafikolycka-stenungsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 472808,
-    "datetime": "2023-11-29 10:58:04 +01:00",
-    "name": "29 november 08.33, Trafikkontroll, Sundsvall",
-    "summary": "Matfors, polisen kontrollerar trafiken",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-082.33-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 472773,
-    "datetime": "2023-11-29 8:55:57 +01:00",
-    "name": "29 november 08.26, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat på Färjestad",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-08.26-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
