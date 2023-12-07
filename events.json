@@ -1,14 +1,14 @@
 [
   {
-    "id": 474393,
-    "datetime": "2023-12-07 9:43:27 +01:00",
-    "name": "07 december 09.42, Trafikolycka, Mörbylånga",
-    "summary": "Larm om singelolycka, Algutsrum",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-09.42-trafikolycka-morbylanga/",
+    "id": 474407,
+    "datetime": "2023-12-07 10:19:12 +01:00",
+    "name": "07 december 09.59, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på E4, Notviken, vid påfart mot väg 97.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-09.59-trafikolycka-lulea/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Mörbylånga",
-      "gps": "56.523757,16.386916"
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -21,6 +21,54 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 474401,
+    "datetime": "2023-12-07 10:04:13 +01:00",
+    "name": "07 december 09.04, Trafikolycka, Vetlanda",
+    "summary": "Lastbil blockerar länsväg 747",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-09.04-trafikolycka-vetlanda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
+    "id": 474395,
+    "datetime": "2023-12-07 10:01:51 +01:00",
+    "name": "07 december 10.00, Övrigt, Västra Götalands län",
+    "summary": "Under dagen och kvällen kommer polisen att genomföra en större övning på olika platser i regionen.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-10.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 474287,
+    "datetime": "2023-12-07 7:46:01 +01:00",
+    "name": "07 december 07.14, Trafikolycka, Piteå",
+    "summary": "Larm om trafikolycka på E4, Jävre.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.14-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 474393,
+    "datetime": "2023-12-07 9:43:27 +01:00",
+    "name": "07 december 09.42, Trafikolycka, Mörbylånga",
+    "summary": "Larm om singelolycka, Algutsrum",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-09.42-trafikolycka-morbylanga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mörbylånga",
+      "gps": "56.523757,16.386916"
     }
   },
   {
@@ -153,18 +201,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 474287,
-    "datetime": "2023-12-07 7:46:01 +01:00",
-    "name": "07 december 07.14, Trafikolycka, Piteå",
-    "summary": "Larm om trafikolycka på E4, Jävre.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-07.14-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
     }
   },
   {
@@ -984,18 +1020,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -1005,6 +1029,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 472905,
-    "datetime": "2023-11-30 7:30:50 +01:00",
-    "name": "30 november 07.30, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-07.30-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 472904,
-    "datetime": "2023-11-30 7:30:08 +01:00",
-    "name": "30 november 07.29, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-07.29-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 472903,
-    "datetime": "2023-11-30 7:29:04 +01:00",
-    "name": "30 november 07.28, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-07.28-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
