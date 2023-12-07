@@ -1,5 +1,29 @@
 [
   {
+    "id": 475319,
+    "datetime": "2023-12-07 21:01:42 +01:00",
+    "name": "07 december 20.51, Misshandel, Landskrona",
+    "summary": "En gripen efter misshandel i Landskrona.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-20.51-misshandel-landskrona/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 475250,
+    "datetime": "2023-12-07 20:51:45 +01:00",
+    "name": "07 december 15.34, Trafikolycka, personskada, Göteborg",
+    "summary": "Man påkörd av bilist",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-15.34-trafikolycka-personskada-goteborg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 475181,
     "datetime": "2023-12-07 20:06:16 +01:00",
     "name": "07 december 18.46, Trafikolycka, Borlänge",
@@ -1308,18 +1332,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -1329,6 +1341,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 472965,
-    "datetime": "2023-11-30 12:47:38 +01:00",
-    "name": "30 november 13.00, Övrigt, Västra Götalands län",
-    "summary": "Presstalespersonerna är på möte klockan 13-15. Vakthavande befäl svarar i presstelefonen i mån av tid.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-13.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 472962,
-    "datetime": "2023-11-30 12:43:11 +01:00",
-    "name": "30 november 09.11, Rattfylleri, Örnsköldsvik",
-    "summary": "Domsjö, polisen stoppar en personbil",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-09.11-rattfylleri-ornskoldsvik/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
