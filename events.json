@@ -1,5 +1,101 @@
 [
   {
+    "id": 474375,
+    "datetime": "2023-12-07 8:07:31 +01:00",
+    "name": "07 december 07.56, Trafikolycka, Jönköpings län",
+    "summary": "Många trafikolyckor i länet just nu. Anpassa hastigheten till väglaget.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.56-trafikolycka-jonkopings-lan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 474297,
+    "datetime": "2023-12-07 8:02:27 +01:00",
+    "name": "07 december 07.37, Trafikolycka, Mönsterås",
+    "summary": "Larm om trafikolycka mellan Bäckebo och Blomstermåla",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.37-trafikolycka-monsteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mönsterås",
+      "gps": "57.04158,16.44312"
+    }
+  },
+  {
+    "id": 474296,
+    "datetime": "2023-12-07 8:00:36 +01:00",
+    "name": "07 december 07.35, Trafikolycka, Malmö",
+    "summary": "Trafikolycka, Yttre Ringvägen",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.35-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 474294,
+    "datetime": "2023-12-07 7:56:02 +01:00",
+    "name": "07 december 07.51, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.51-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 474285,
+    "datetime": "2023-12-07 7:27:23 +01:00",
+    "name": "07 december 07.27, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.27-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 474293,
+    "datetime": "2023-12-07 7:55:32 +01:00",
+    "name": "07 december 07.48, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.48-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 474295,
+    "datetime": "2023-12-07 7:55:13 +01:00",
+    "name": "07 december 07.52, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.52-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 474287,
+    "datetime": "2023-12-07 7:46:01 +01:00",
+    "name": "07 december 07.14, Trafikolycka, Piteå",
+    "summary": "Larm om trafikolycka på E4, Jävre.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-07.14-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
     "id": 474292,
     "datetime": "2023-12-07 7:39:18 +01:00",
     "name": "07 december 07.00, Trafikolycka, Sundsvall",
@@ -93,18 +189,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 474285,
-    "datetime": "2023-12-07 7:27:23 +01:00",
-    "name": "07 december 07.27, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-07.27-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 472895,
-    "datetime": "2023-11-29 23:14:01 +01:00",
-    "name": "29 november 22.49, Trafikolycka, Åstorp",
-    "summary": "En singelolycka med en lastbil inträffar på E4 i höjd med Åstorp.",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-22.49-trafikolycka-astorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 472892,
-    "datetime": "2023-11-29 21:48:45 +01:00",
-    "name": "29 november 21.41, Brand, Solna",
-    "summary": "Det kommer ut rök från en bostad i ett flerfamiljshus i Huvudsta",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-21.41-brand-solna/",
-    "type": "Brand",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 472894,
-    "datetime": "2023-11-29 22:04:23 +01:00",
-    "name": "29 november 20.24, Trafikbrott, Örnsköldsvik",
-    "summary": "Örnskölsvik, A-traktor stoppas för kontroll",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-20.24-trafikbrott-ornskoldsvik/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 472893,
-    "datetime": "2023-11-29 21:52:15 +01:00",
-    "name": "29 november 20.24, Brand, Sundsvall",
-    "summary": "Bredsand, larm inkommer gällande bilbrand",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-20.24-brand-sundsvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 472891,
-    "datetime": "2023-11-29 21:45:11 +01:00",
-    "name": "29 november 21.45, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-21.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 472890,
-    "datetime": "2023-11-29 21:45:05 +01:00",
-    "name": "29 november 21.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 472889,
-    "datetime": "2023-11-29 21:43:16 +01:00",
-    "name": "29 november 21.39, Trafikolycka, singel, Haninge",
-    "summary": "En personbil på riksväg 73 i södergående riktning invid trafikplats Jordbro har kört av vägen.",
-    "url": "/aktuellt/handelser/2023/november/29/29-november-21.39-trafikolycka-singel-haninge/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   }
 ]
