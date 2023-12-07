@@ -1,5 +1,41 @@
 [
   {
+    "id": 474435,
+    "datetime": "2023-12-07 13:00:24 +01:00",
+    "name": "07 december 12.05, Trafikolycka, Askersund",
+    "summary": "Polisen är på plats vid en trafikolycka på riksväg 50 i Askersund.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-12.05-trafikolycka-askersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 474448,
+    "datetime": "2023-12-07 14:34:14 +01:00",
+    "name": "07 december 14.28, Trafikolycka, personskada, Strängnäs",
+    "summary": "Olycka mellan två lastbilar och en personbil på Strängnäsvägen TPL 139, Läggesta.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-14.28-trafikolycka-personskada-strangnas/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 474889,
+    "datetime": "2023-12-07 16:23:24 +01:00",
+    "name": "07 december 16.05, Trafikolycka, personskada, Ludvika",
+    "summary": "En personbil har hamnat på taket efter en avåkning på  riksväg 66, cirka tre kilometer öster om Sunnansjö.",
+    "url": "/aktuellt/handelser/2023/december/7/07-december-16.05-trafikolycka-personskada-ludvika/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
     "id": 473507,
     "datetime": "2023-12-04 7:06:57 +01:00",
     "name": "04 december 02.03, Brand, Mörbylånga",
@@ -48,18 +84,6 @@
     }
   },
   {
-    "id": 474448,
-    "datetime": "2023-12-07 14:34:14 +01:00",
-    "name": "07 december 14.28, Trafikolycka, personskada, Strängnäs",
-    "summary": "Olycka mellan två lastbilar och en personbil på Strängnäsvägen TPL 139, Läggesta.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-14.28-trafikolycka-personskada-strangnas/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
-    }
-  },
-  {
     "id": 474452,
     "datetime": "2023-12-07 14:59:15 +01:00",
     "name": "07 december 11.51, Arbetsplatsolycka, Kiruna",
@@ -93,18 +117,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 474435,
-    "datetime": "2023-12-07 13:00:24 +01:00",
-    "name": "07 december 12.05, Trafikolycka, Askersund",
-    "summary": "Polisen är på plats vid en trafikolycka på riksväg 50 i Askersund.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-12.05-trafikolycka-askersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
     }
   },
   {
@@ -1164,18 +1176,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -1185,6 +1185,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 472917,
-    "datetime": "2023-11-30 8:22:56 +01:00",
-    "name": "30 november 00.53, Trafikbrott, Södertälje",
-    "summary": "När en polispatrull stoppade en bil för kontroll av föraren i Järna uppstod misstanke om drograttfylleri.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-00.53-trafikbrott-sodertalje/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
