@@ -1,5 +1,41 @@
 [
   {
+    "id": 475927,
+    "datetime": "2023-12-08 15:07:55 +01:00",
+    "name": "08 december 14.12, Stöld, Borlänge",
+    "summary": "En kvinna är misstänkt för brott inne i Kupolen",
+    "url": "/aktuellt/handelser/2023/december/8/08-december-14.12-stold-borlange/",
+    "type": "Stöld",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 475924,
+    "datetime": "2023-12-08 14:57:18 +01:00",
+    "name": "08 december 11.43, Rattfylleri, Umeå",
+    "summary": "Misstänkt rattfylleri, Nydala.",
+    "url": "/aktuellt/handelser/2023/december/8/08-december-11.43-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 475911,
+    "datetime": "2023-12-08 14:45:36 +01:00",
+    "name": "08 december 07.31, Försvunnen person, Gävle",
+    "summary": "Försvunnen person, Gävle.",
+    "url": "/aktuellt/handelser/2023/december/8/08-december-07.31-forsvunnen-person-gavle/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 475909,
     "datetime": "2023-12-08 14:24:16 +01:00",
     "name": "08 december 12.52, Stöld/inbrott, Upplands väsby",
@@ -1896,18 +1932,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -1917,6 +1941,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Ronneby",
       "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 473043,
-    "datetime": "2023-11-30 22:01:31 +01:00",
-    "name": "30 november 22.00, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 473044,
-    "datetime": "2023-11-30 22:01:26 +01:00",
-    "name": "30 november 22.00, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer i dag.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 473039,
-    "datetime": "2023-11-30 21:41:46 +01:00",
-    "name": "30 november 21.17, Brand, Östra göinge",
-    "summary": "Det brinner i en villa i öster om Glimåkra.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-21.17-brand-ostra-goinge/",
-    "type": "Brand",
-    "location": {
-      "name": "Östra göinge",
-      "gps": "56.237877,14.216166"
     }
   }
 ]
