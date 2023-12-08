@@ -1,5 +1,65 @@
 [
   {
+    "id": 475908,
+    "datetime": "2023-12-08 14:21:41 +01:00",
+    "name": "08 december 13.28, Misshandel, Örebro",
+    "summary": "Busschaufför på stadsbuss larmar om bråkiga ungdomar på buss.",
+    "url": "/aktuellt/handelser/2023/december/8/08-december-13.28-misshandel-orebro/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 475896,
+    "datetime": "2023-12-08 12:45:07 +01:00",
+    "name": "08 december 11.30, Övrigt, Karlstad",
+    "summary": "Polisen befinner sig i anslutning till en skola i Karlstad för informationsinhämtning.",
+    "url": "/aktuellt/handelser/2023/december/8/08-december-11.30-ovrigt-karlstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 475879,
+    "datetime": "2023-12-08 13:54:30 +01:00",
+    "name": "08 december 10.42, Trafikkontroll, Härjedalen",
+    "summary": "Ytterhogdal, resultat från trafikkontroll.",
+    "url": "/aktuellt/handelser/2023/december/8/08-december-10.42-trafikkontroll-harjedalen/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 472196,
+    "datetime": "2023-11-24 14:43:26 +01:00",
+    "name": "23 november 09.00, Stöld/inbrott, Stockholm",
+    "summary": "Inbrott i kyrka.",
+    "url": "/aktuellt/handelser/2023/november/23/23-november-09.00-stoldinbrott-stockholm/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 475904,
+    "datetime": "2023-12-08 13:50:50 +01:00",
+    "name": "08 december 08.36, Rattfylleri, Dorotea",
+    "summary": "Dorotea, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/december/8/08-december-08.36-rattfylleri-dorotea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Dorotea",
+      "gps": "64.261794,16.415234"
+    }
+  },
+  {
     "id": 475903,
     "datetime": "2023-12-08 13:28:23 +01:00",
     "name": "08 december 09.04, Vapenlagen, Mölndal",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 475896,
-    "datetime": "2023-12-08 12:45:07 +01:00",
-    "name": "08 december 11.30, Övrigt, Karlstad",
-    "summary": "Polisen befinner sig i anslutning till en skola i Karlstad för informationsinhämtning.",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-11.30-ovrigt-karlstad/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 473035,
-    "datetime": "2023-11-30 21:19:03 +01:00",
-    "name": "30 november 21.17, Stöld/inbrott, Hagfors",
-    "summary": "Polisen utreder en stöld genom inbrott i villa.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-21.17-stoldinbrott-hagfors/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Hagfors",
-      "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 473034,
-    "datetime": "2023-11-30 21:14:38 +01:00",
-    "name": "30 november 19.06, Trafikolycka, singel, Sollefteå",
-    "summary": "Länsväg 335, en bilist har kört av vägen",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-19.06-trafikolycka-singel-solleftea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 473029,
-    "datetime": "2023-11-30 19:59:57 +01:00",
-    "name": "30 november 19.59, Trafikolycka, Linköping",
-    "summary": "Olycka på E4 i höjd med Tolefors, väster om Linköping.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-19.59-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 473032,
-    "datetime": "2023-11-30 20:36:07 +01:00",
-    "name": "30 november 20.02, Rån, Malmö",
-    "summary": "Polis larmas till Friisgatan med anledning av ett misstänkt rån.",
-    "url": "/aktuellt/handelser/2023/november/30/30-november-20.02-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
