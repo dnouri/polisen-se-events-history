@@ -1,5 +1,65 @@
 [
   {
+    "id": 476008,
+    "datetime": "2023-12-09 14:43:16 +01:00",
+    "name": "09 december 14.10, Arbetsplatsolycka, Malmö",
+    "summary": "Misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-14.10-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 476007,
+    "datetime": "2023-12-09 14:41:34 +01:00",
+    "name": "09 december 12.50, Trafikolycka, Sundsvall",
+    "summary": "Kovland, trafikolycka på riksväg 86.",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-12.50-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 476005,
+    "datetime": "2023-12-09 14:40:00 +01:00",
+    "name": "09 december 14.39, Övrigt, Östergötlands län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-14.39-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 476006,
+    "datetime": "2023-12-09 14:39:51 +01:00",
+    "name": "09 december 14.39, Övrigt, Jönköpings län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-14.39-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 476004,
+    "datetime": "2023-12-09 14:39:41 +01:00",
+    "name": "09 december 14.39, Övrigt, Södermanlands län",
+    "summary": "Efter klockan 15:00 finns det ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-14.39-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 476003,
     "datetime": "2023-12-09 14:16:24 +01:00",
     "name": "09 december 13.39, Trafikolycka, Nykvarn",
@@ -2640,18 +2700,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -2661,6 +2709,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 473295,
-    "datetime": "2023-12-01 18:22:28 +01:00",
-    "name": "01 december 16.37, Trafikolycka, Eslöv",
-    "summary": "Lv113, söder om Borlunda. Kollision mellan polisfördon och personbil.",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-16.37-trafikolycka-eslov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 473294,
-    "datetime": "2023-12-01 18:20:49 +01:00",
-    "name": "01 december 16.42, Fylleri/LOB, Luleå",
-    "summary": "Busstationen, polisen upptäcker en berusad man",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-16.42-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 473288,
-    "datetime": "2023-12-01 17:44:25 +01:00",
-    "name": "01 december 16.01, Stöld, Östersund",
-    "summary": "Söder, polisen kallas till en matbutik",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-16.01-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 473283,
-    "datetime": "2023-12-01 17:36:53 +01:00",
-    "name": "01 december 13.45, Rattfylleri, Sollefteå",
-    "summary": "Polisen stoppar en personbil",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-13.45-rattfylleri-solleftea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 473282,
-    "datetime": "2023-12-01 17:32:50 +01:00",
-    "name": "01 december 15.05, Stöld, Umeå",
-    "summary": "Ålidhem, polisen kallas till en matbutik",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-15.05-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
