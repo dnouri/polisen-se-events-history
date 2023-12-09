@@ -1,5 +1,29 @@
 [
   {
+    "id": 476003,
+    "datetime": "2023-12-09 14:16:24 +01:00",
+    "name": "09 december 13.39, Trafikolycka, Nykvarn",
+    "summary": "Polis och ambulans kallas till Karlslundsvägen i höjd med Runnbäcken med anledning av att en A-traktor voltat.",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-13.39-trafikolycka-nykvarn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nykvarn",
+      "gps": "59.178177,17.427816"
+    }
+  },
+  {
+    "id": 475990,
+    "datetime": "2023-12-09 14:12:38 +01:00",
+    "name": "09 december 08.38, Skadegörelse, Västerbottens län",
+    "summary": "Umeå, trasiga rutor på skola.",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-08.38-skadegorelse-vasterbottens-lan/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 475987,
     "datetime": "2023-12-09 8:45:04 +01:00",
     "name": "09 december 07.31, Skottlossning, Malmö",
@@ -2616,18 +2640,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -2637,6 +2649,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 473279,
-    "datetime": "2023-12-01 17:25:39 +01:00",
-    "name": "01 december 15.45, Stöld, Luleå",
-    "summary": "Centrum, polisen kallas till en butik",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-15.45-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 473277,
-    "datetime": "2023-12-01 17:15:23 +01:00",
-    "name": "01 december 16.17, Trafikolycka, singel, Ulricehamn",
-    "summary": "Singelolycka med personbil på riksväg 46.",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-16.17-trafikolycka-singel-ulricehamn/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Ulricehamn",
-      "gps": "57.794789,13.420516"
     }
   }
 ]
