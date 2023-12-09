@@ -1,5 +1,29 @@
 [
   {
+    "id": 476014,
+    "datetime": "2023-12-09 16:13:16 +01:00",
+    "name": "09 december 16.02, Trafikolycka, Vimmerby",
+    "summary": "Singelolycka på Rv40.",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-16.02-trafikolycka-vimmerby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vimmerby",
+      "gps": "57.669034,15.858857"
+    }
+  },
+  {
+    "id": 476013,
+    "datetime": "2023-12-09 15:51:16 +01:00",
+    "name": "09 december 14.23, Stöld/inbrott, Mölndal",
+    "summary": "Stöld av kaminer",
+    "url": "/aktuellt/handelser/2023/december/9/09-december-14.23-stoldinbrott-molndal/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
     "id": 475997,
     "datetime": "2023-12-09 12:45:32 +01:00",
     "name": "09 december 11.23, Trafikolycka, personskada, Härryda",
@@ -2748,18 +2772,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -2769,6 +2781,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 473291,
-    "datetime": "2023-12-01 17:59:12 +01:00",
-    "name": "01 december 17.55, Trafikolycka, personskada, Eskilstuna",
-    "summary": "Personbil och lastbil i krock",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-17.55-trafikolycka-personskada-eskilstuna/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 473293,
-    "datetime": "2023-12-01 18:08:54 +01:00",
-    "name": "01 december 17.23, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i höjd med Ekeby-Almby",
-    "url": "/aktuellt/handelser/2023/december/1/01-december-17.23-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
