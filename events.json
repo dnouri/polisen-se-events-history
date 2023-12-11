@@ -1,5 +1,53 @@
 [
   {
+    "id": 476310,
+    "datetime": "2023-12-11 21:08:40 +01:00",
+    "name": "11 december 18.24, Stöld, Sundsvall",
+    "summary": "Birsta, man stoppad efter misstänkt stöld i butik eller butiker",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-18.24-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 476304,
+    "datetime": "2023-12-11 20:00:12 +01:00",
+    "name": "11 december 18.05, Försvunnen person, Ljungby",
+    "summary": "Försvunnen kvinna har hittats.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-18.05-forsvunnen-person-ljungby/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 476295,
+    "datetime": "2023-12-11 17:47:31 +01:00",
+    "name": "11 december 17.08, Trafikolycka, Oskarshamn",
+    "summary": "En trafikolcyka mellan en personbil och en person inträffar på Döderhultsvägen.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.08-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 476309,
+    "datetime": "2023-12-11 20:52:45 +01:00",
+    "name": "11 december 17.32, Trafikolycka, Nordmaling",
+    "summary": "Norr om Nordmaling, en bilist uppges ha kört in i garageport",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.32-trafikolycka-nordmaling/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
     "id": 476308,
     "datetime": "2023-12-11 20:39:46 +01:00",
     "name": "11 december 18.04, Stöld, Härnösand",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Sundbyberg",
       "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 476304,
-    "datetime": "2023-12-11 20:00:12 +01:00",
-    "name": "11 december 18.05, Försvunnen person, Ljungby",
-    "summary": "Polisen söker efter en kvinna som anmälts försvunnen i centrala Ljungby.",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-18.05-forsvunnen-person-ljungby/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
     }
   },
   {
@@ -201,18 +237,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 476295,
-    "datetime": "2023-12-11 17:47:31 +01:00",
-    "name": "11 december 17.08, Trafikolycka, Oskarshamn",
-    "summary": "En trafikolcyka mellan en personbil och en person inträffar på Döderhultsvägen.",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-17.08-trafikolycka-oskarshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
     }
   },
   {
@@ -4320,18 +4344,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -4341,6 +4353,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 473510,
-    "datetime": "2023-12-04 7:24:25 +01:00",
-    "name": "04 december 07.24, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-07.24-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 473509,
-    "datetime": "2023-12-04 7:13:00 +01:00",
-    "name": "04 december 07.12, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-07.12-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
