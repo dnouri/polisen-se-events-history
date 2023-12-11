@@ -1,5 +1,65 @@
 [
   {
+    "id": 476193,
+    "datetime": "2023-12-11 14:17:51 +01:00",
+    "name": "11 december 14.14, Trafikolycka, personskada, Jönköping",
+    "summary": "Lastbil och personbil i krock",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-14.14-trafikolycka-personskada-jonkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 476187,
+    "datetime": "2023-12-11 14:16:26 +01:00",
+    "name": "11 december 14.13, Rattfylleri, Örebro",
+    "summary": "Bilist kört i diket, misstänks för flertalet brott.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-14.13-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 476186,
+    "datetime": "2023-12-11 14:08:18 +01:00",
+    "name": "11 december 13.53, Trafikolycka, singel, Vansbro",
+    "summary": "En singelolycka har inträffat på Rv26, strax söder om Vansbro.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-13.53-trafikolycka-singel-vansbro/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Vansbro",
+      "gps": "60.509943,14.225342"
+    }
+  },
+  {
+    "id": 476179,
+    "datetime": "2023-12-11 13:02:40 +01:00",
+    "name": "11 december 12.54, Trafikolycka, Karlskoga",
+    "summary": "En trafikolycka har inträffat på E18 vid Linnebäck, strax väster om Karlskoga.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-12.54-trafikolycka-karlskoga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 476183,
+    "datetime": "2023-12-11 13:45:42 +01:00",
+    "name": "11 december 13.45, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-13.45-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 476152,
     "datetime": "2023-12-11 11:03:07 +01:00",
     "name": "11 december 11.03, Trafikkontroll, Norrbottens län",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 476179,
-    "datetime": "2023-12-11 13:02:40 +01:00",
-    "name": "11 december 12.54, Trafikolycka, Karlskoga",
-    "summary": "En trafikolycka har inträffat på E18 vid Linnebäck, strax väster om Karlskoga.",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-12.54-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -3924,18 +3972,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -3945,6 +3981,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Ludvika",
       "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 473400,
-    "datetime": "2023-12-03 10:26:28 +01:00",
-    "name": "03 december 10.17, Trafikolycka, vilt, Överkalix",
-    "summary": "Polisen får in en anmälan om en viltolycka på E10, Landet.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-10.17-trafikolycka-vilt-overkalix/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Överkalix",
-      "gps": "66.327176,22.842752"
-    }
-  },
-  {
-    "id": 473399,
-    "datetime": "2023-12-03 10:11:21 +01:00",
-    "name": "03 december 10.00, Trafikolycka, Östra göinge",
-    "summary": "En singelolycka inträffar på riksväg 19.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-10.00-trafikolycka-ostra-goinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östra göinge",
-      "gps": "56.237877,14.216166"
-    }
-  },
-  {
-    "id": 473398,
-    "datetime": "2023-12-03 9:58:19 +01:00",
-    "name": "03 december 08.26, Trafikolycka, Göteborg",
-    "summary": "Person påkörd, Sisjö industriområde",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-08.26-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 473397,
-    "datetime": "2023-12-03 9:49:48 +01:00",
-    "name": "03 december 07.21, Knivlagen, Solna",
-    "summary": "En passagerare på ett pendeltåg ser en medpassagerare bära kniv synligt.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-07.21-knivlagen-solna/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
     }
   }
 ]
