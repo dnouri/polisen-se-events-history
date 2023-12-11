@@ -1,5 +1,89 @@
 [
   {
+    "id": 476298,
+    "datetime": "2023-12-11 18:20:34 +01:00",
+    "name": "11 december 17.31, Trafikolycka, personskada, Hallstahammar",
+    "summary": "Flera fordon inblandade i dubbla olyckor på riksväg 56.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.31-trafikolycka-personskada-hallstahammar/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Hallstahammar",
+      "gps": "59.613204,16.229476"
+    }
+  },
+  {
+    "id": 476297,
+    "datetime": "2023-12-11 18:17:55 +01:00",
+    "name": "11 december 17.02, Trafikbrott, Sollefteå",
+    "summary": "Sollefteå, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.02-trafikbrott-solleftea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 476271,
+    "datetime": "2023-12-11 16:43:35 +01:00",
+    "name": "11 december 16.28, Trafikolycka, Avesta",
+    "summary": "Trafikolycka med flera fordon på Rv70 i höjd med Brovallen söder om Avesta.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-16.28-trafikolycka-avesta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 476296,
+    "datetime": "2023-12-11 18:15:46 +01:00",
+    "name": "11 december 17.08, Misshandel, Malmö",
+    "summary": "En man grips misstänkt för misshandel på restaurang.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.08-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 476291,
+    "datetime": "2023-12-11 17:30:57 +01:00",
+    "name": "11 december 16.58, Trafikolycka, singel, Nordmaling",
+    "summary": "E4 Lögdeå, trafikolycka vid norrgående körfält",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-16.58-trafikolycka-singel-nordmaling/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
+    "id": 476295,
+    "datetime": "2023-12-11 17:47:31 +01:00",
+    "name": "11 december 17.08, Trafikolycka, Oskarshamn",
+    "summary": "En trafikolcyka mellan en personbil och en person inträffar på Döderhultsvägen.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.08-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 476177,
+    "datetime": "2023-12-11 12:36:46 +01:00",
+    "name": "11 december 12.30, Övrigt, Eskilstuna",
+    "summary": "Polis larmad till sjukdomsfall - en person död.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-12.30-ovrigt-eskilstuna/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 476294,
     "datetime": "2023-12-11 17:40:56 +01:00",
     "name": "11 december 17.39, Trafikolycka, Motala",
@@ -33,30 +117,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 476291,
-    "datetime": "2023-12-11 17:30:57 +01:00",
-    "name": "11 december 16.58, Trafikolycka, singel, Nordmaling",
-    "summary": "E4 Lögdeå, trafikolycka vid norrgående körfält",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-16.58-trafikolycka-singel-nordmaling/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Nordmaling",
-      "gps": "63.567106,19.505022"
-    }
-  },
-  {
-    "id": 476271,
-    "datetime": "2023-12-11 16:43:35 +01:00",
-    "name": "11 december 16.28, Trafikolycka, Avesta",
-    "summary": "Trafikolycka med flera fordon på Rv70 i höjd med Brovallen söder om Avesta.",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-16.28-trafikolycka-avesta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
     }
   },
   {
@@ -285,18 +345,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 476177,
-    "datetime": "2023-12-11 12:36:46 +01:00",
-    "name": "11 december 12.30, Övrigt, Eskilstuna",
-    "summary": "Polis larmad till sjukdomsfall - en person död.",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-12.30-ovrigt-eskilstuna/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -4152,18 +4200,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -4173,6 +4209,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 473435,
-    "datetime": "2023-12-03 15:47:03 +01:00",
-    "name": "03 december 15.00, Trafikolycka, personskada, Stockholm",
-    "summary": "En kvinna påkörd vid övergångsställe",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-15.00-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 473434,
-    "datetime": "2023-12-03 14:54:19 +01:00",
-    "name": "03 december 14.41, Trafikolycka, vilt, Skellefteå",
-    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 805, Klinten.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-14.41-trafikolycka-vilt-skelleftea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 473413,
-    "datetime": "2023-12-03 14:12:15 +01:00",
-    "name": "03 december 13.30, Trafikolycka, Kalix",
-    "summary": "Larm om trafikolycka på E10, norr om Törböle.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-13.30-trafikolycka-kalix/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 473433,
-    "datetime": "2023-12-03 14:38:41 +01:00",
-    "name": "03 december 12.08, Ofredande/förargelse, Falköping",
-    "summary": "Sexuellt ofredande mot flicka",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-12.08-ofredandeforargelse-falkoping/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Falköping",
-      "gps": "58.175029,13.553217"
     }
   }
 ]
