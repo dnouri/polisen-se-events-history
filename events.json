@@ -1,5 +1,77 @@
 [
   {
+    "id": 476302,
+    "datetime": "2023-12-11 19:25:04 +01:00",
+    "name": "11 december 17.43, Rattfylleri, Svalöv",
+    "summary": "En man i 25-årsåldern misstänkts för drograttfylleri efter trafikolycka.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.43-rattfylleri-svalov/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Svalöv",
+      "gps": "55.91293,13.101817"
+    }
+  },
+  {
+    "id": 476291,
+    "datetime": "2023-12-11 17:30:57 +01:00",
+    "name": "11 december 16.58, Trafikolycka, singel, Nordmaling",
+    "summary": "E4 Lögdeå, trafikolycka vid norrgående körfält",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-16.58-trafikolycka-singel-nordmaling/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
+    "id": 476301,
+    "datetime": "2023-12-11 19:21:34 +01:00",
+    "name": "11 december 19.13, Trafikolycka, singel, Örebro",
+    "summary": "En personbil har körts in i mitträcket på E18 vid Ulvgryt, i ritning mot Karlskoga",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-19.13-trafikolycka-singel-orebro/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 476300,
+    "datetime": "2023-12-11 19:19:36 +01:00",
+    "name": "11 december 17.54, Trafikolycka, Skellefteå",
+    "summary": "Riksväg 95 Varuträsk, larm inkommer gällande trafikolycka",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.54-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 476177,
+    "datetime": "2023-12-11 12:36:46 +01:00",
+    "name": "11 december 12.30, Övrigt, Eskilstuna",
+    "summary": "Polis larmad till sjukdomsfall - en person död.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-12.30-ovrigt-eskilstuna/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 476299,
+    "datetime": "2023-12-11 18:53:32 +01:00",
+    "name": "11 december 17.24, Knivlagen, Göteborg",
+    "summary": "En person avlägsnad och samtidigt misstänkt för grovt brott mot knivlagen.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.24-knivlagen-goteborg/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 476298,
     "datetime": "2023-12-11 18:20:34 +01:00",
     "name": "11 december 17.31, Trafikolycka, personskada, Hallstahammar",
@@ -48,18 +120,6 @@
     }
   },
   {
-    "id": 476291,
-    "datetime": "2023-12-11 17:30:57 +01:00",
-    "name": "11 december 16.58, Trafikolycka, singel, Nordmaling",
-    "summary": "E4 Lögdeå, trafikolycka vid norrgående körfält",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-16.58-trafikolycka-singel-nordmaling/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Nordmaling",
-      "gps": "63.567106,19.505022"
-    }
-  },
-  {
     "id": 476295,
     "datetime": "2023-12-11 17:47:31 +01:00",
     "name": "11 december 17.08, Trafikolycka, Oskarshamn",
@@ -69,18 +129,6 @@
     "location": {
       "name": "Oskarshamn",
       "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 476177,
-    "datetime": "2023-12-11 12:36:46 +01:00",
-    "name": "11 december 12.30, Övrigt, Eskilstuna",
-    "summary": "Polis larmad till sjukdomsfall - en person död.",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-12.30-ovrigt-eskilstuna/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Nybro",
       "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 473442,
-    "datetime": "2023-12-03 19:28:26 +01:00",
-    "name": "03 december 18.49, Bråk, Kristianstad",
-    "summary": "Öllsjö. Bråk och trafikolycka.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-18.49-brak-kristianstad/",
-    "type": "Bråk",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 473441,
-    "datetime": "2023-12-03 18:19:21 +01:00",
-    "name": "03 december 18.18, Försvunnen person, Malmö",
-    "summary": "Polisen behöver hjälp med att hitta en försvunnen man i Malmö.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-18.18-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 473439,
-    "datetime": "2023-12-03 17:20:10 +01:00",
-    "name": "03 december 17.07, Trafikolycka, singel, Örkelljunga",
-    "summary": "Lv1840, mellan Örkelljunga och Åsljunga. En personbil har kolliderat med ett träd.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-17.07-trafikolycka-singel-orkelljunga/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Örkelljunga",
-      "gps": "56.283635,13.278832"
-    }
-  },
-  {
-    "id": 473440,
-    "datetime": "2023-12-03 17:30:28 +01:00",
-    "name": "03 december 17.18, Trafikolycka, Landskrona",
-    "summary": "Häljarp. Kollision mellan ambulans och personbil.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-17.18-trafikolycka-landskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
     }
   }
 ]
