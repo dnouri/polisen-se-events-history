@@ -1,5 +1,65 @@
 [
   {
+    "id": 476290,
+    "datetime": "2023-12-11 17:27:01 +01:00",
+    "name": "11 december 14.22, Misshandel, grov, Örebro",
+    "summary": "Polisen har gripit en misstänkt för grov misshandel utomhus vid Järntorget, Örebro.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-14.22-misshandel-grov-orebro/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 476289,
+    "datetime": "2023-12-11 17:26:14 +01:00",
+    "name": "11 december 16.26, Trafikolycka, Umeå",
+    "summary": "Stöcksjö, två trafikanter har kolliderat",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-16.26-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 476288,
+    "datetime": "2023-12-11 17:18:28 +01:00",
+    "name": "11 december 16.44, Stöld, Timrå",
+    "summary": "Vivsta, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-16.44-stold-timra/",
+    "type": "Stöld",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 476287,
+    "datetime": "2023-12-11 17:11:03 +01:00",
+    "name": "11 december 14.35, Narkotikabrott, Sollefteå",
+    "summary": "Sollefteå, man kontrollerad av polis",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-14.35-narkotikabrott-solleftea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 476286,
+    "datetime": "2023-12-11 17:07:01 +01:00",
+    "name": "11 december 17.00, Trafikkontroll, Västernorrlands län",
+    "summary": "Härnösand och Sundsvall, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-17.00-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 476271,
     "datetime": "2023-12-11 16:43:35 +01:00",
     "name": "11 december 16.28, Trafikolycka, Avesta",
@@ -9,6 +69,18 @@
     "location": {
       "name": "Avesta",
       "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 476272,
+    "datetime": "2023-12-11 16:44:48 +01:00",
+    "name": "11 december 16.23, Trafikolycka, Svedala",
+    "summary": "En singelolycka med en personbil inträffar på Södra Sturupsvägen.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-16.23-trafikolycka-svedala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Svedala",
+      "gps": "55.508908,13.23711"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 473411,
-    "datetime": "2023-12-03 12:46:56 +01:00",
-    "name": "03 december 11.47, Inbrott, försök, Lund",
-    "summary": "Polis larmas till en byggarbetsplats på Brunnshög med anledning av ett inbrottsförsök.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-11.47-inbrott-forsok-lund/",
-    "type": "Inbrott, försök",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 473410,
-    "datetime": "2023-12-03 12:41:41 +01:00",
-    "name": "03 december 10.17, Stöld, Göteborg",
-    "summary": "Kopparstöld samt olaga intrång",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-10.17-stold-goteborg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 473408,
-    "datetime": "2023-12-03 11:57:41 +01:00",
-    "name": "03 december 11.27, Trafikolycka, vilt, Härjedalen",
-    "summary": "Polisen får in en anmälan om en olycka med en personbil och en ren.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-11.27-trafikolycka-vilt-harjedalen/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 473407,
-    "datetime": "2023-12-03 11:46:50 +01:00",
-    "name": "03 december 09.43, Trafikkontroll, Härjedalen",
-    "summary": "Resultat efter en trafikkontroll på Ljusnegatan i centrala Sveg.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-09.43-trafikkontroll-harjedalen/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 473406,
-    "datetime": "2023-12-03 11:45:30 +01:00",
-    "name": "03 december 08.39, Inbrott, Skellefteå",
-    "summary": "Polisen kontaktas med anledning av ett misstänkt inbrott i en lägenhet i Kåge.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-08.39-inbrott-skelleftea/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 473396,
-    "datetime": "2023-12-03 9:10:00 +01:00",
-    "name": "03 december 07.54, Brand, Härryda",
-    "summary": "Fullt utvecklad brand i Rävlanda",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-07.54-brand-harryda/",
-    "type": "Brand",
-    "location": {
-      "name": "Härryda",
-      "gps": "57.691744,12.294416"
     }
   }
 ]
