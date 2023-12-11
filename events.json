@@ -1,5 +1,77 @@
 [
   {
+    "id": 476108,
+    "datetime": "2023-12-11 8:50:10 +01:00",
+    "name": "11 december 08.41, Trafikolycka, singel, Karlstad",
+    "summary": "Trafikolycka med dikeskörd lastbil på Rv61 vid Högboda.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-08.41-trafikolycka-singel-karlstad/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 476161,
+    "datetime": "2023-12-11 11:24:59 +01:00",
+    "name": "11 december 06.41, Rattfylleri, Älvsbyn",
+    "summary": "Misstänkt drograttfylleri i Älvsbyn.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-06.41-rattfylleri-alvsbyn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Älvsbyn",
+      "gps": "65.677136,20.992866"
+    }
+  },
+  {
+    "id": 476157,
+    "datetime": "2023-12-11 11:21:58 +01:00",
+    "name": "11 december 09.53, Brand, Sundsvall",
+    "summary": "Brand i flerfamiljshus i Nacksta.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-09.53-brand-sundsvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 476155,
+    "datetime": "2023-12-11 11:14:51 +01:00",
+    "name": "11 december 09.49, Arbetsplatsolycka, Sundbyberg",
+    "summary": "En hiss har rasat på en byggarbetsplats i Ursvik, Sundbyberg. Ett antal personer befann sig i hissen.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-09.49-arbetsplatsolycka-sundbyberg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Sundbyberg",
+      "gps": "59.367047,17.966309"
+    }
+  },
+  {
+    "id": 476154,
+    "datetime": "2023-12-11 11:09:54 +01:00",
+    "name": "11 december 11.09, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultata av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-11.09-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 476152,
+    "datetime": "2023-12-11 11:03:07 +01:00",
+    "name": "11 december 11.03, Trafikkontroll, Norrbottens län",
+    "summary": "Ett urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/december/11/11-december-11.03-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 476103,
     "datetime": "2023-12-11 8:31:03 +01:00",
     "name": "11 december 08.21, Trafikolycka, singel, Trelleborg",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 476108,
-    "datetime": "2023-12-11 8:50:10 +01:00",
-    "name": "11 december 08.41, Trafikolycka, singel, Karlstad",
-    "summary": "Trafikolycka med dikeskörd lastbil på Rv61 vid Högboda.",
-    "url": "/aktuellt/handelser/2023/december/11/11-december-08.41-trafikolycka-singel-karlstad/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -3792,18 +3852,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -3813,6 +3861,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 473374,
-    "datetime": "2023-12-02 21:17:29 +01:00",
-    "name": "02 december 20.34, Rån, Vellinge",
-    "summary": "Ljunghusen. Rån mot person i bostad.",
-    "url": "/aktuellt/handelser/2023/december/2/02-december-20.34-ran-vellinge/",
-    "type": "Rån",
-    "location": {
-      "name": "Vellinge",
-      "gps": "55.470893,13.01999"
-    }
-  },
-  {
-    "id": 473390,
-    "datetime": "2023-12-03 8:04:02 +01:00",
-    "name": "03 december 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 473386,
-    "datetime": "2023-12-03 8:02:08 +01:00",
-    "name": "03 december 08.02, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-08.02-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 473387,
-    "datetime": "2023-12-03 8:00:28 +01:00",
-    "name": "03 december 08.00, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-08.00-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 473384,
-    "datetime": "2023-12-03 7:56:45 +01:00",
-    "name": "03 december 07.56, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/3/03-december-07.56-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
