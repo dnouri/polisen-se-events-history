@@ -1,5 +1,29 @@
 [
   {
+    "id": 476479,
+    "datetime": "2023-12-12 10:40:14 +01:00",
+    "name": "12 december 06.51, Inbrott, Boden",
+    "summary": "Inbrott i företagslokaler i Boden.",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-06.51-inbrott-boden/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 476430,
+    "datetime": "2023-12-12 10:23:14 +01:00",
+    "name": "12 december 06.53, Stöld, Lidköping",
+    "summary": "Grov stöld, Söne",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-06.53-stold-lidkoping/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lidköping",
+      "gps": "58.503505,13.157077"
+    }
+  },
+  {
     "id": 476426,
     "datetime": "2023-12-12 9:58:25 +01:00",
     "name": "12 december 09.58, Sammanfattning natt, Norrbottens län",
@@ -4740,18 +4764,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -4761,6 +4773,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 473622,
-    "datetime": "2023-12-04 16:40:32 +01:00",
-    "name": "04 december 16.21, Trafikolycka, Sunne",
-    "summary": "Europaväg 45 söder om Sunne är helt blockerad i båda riktningarna efter en trafikolycka vid Västra Ämtervik.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-16.21-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 473621,
-    "datetime": "2023-12-04 16:38:42 +01:00",
-    "name": "04 december 16.26, Trafikolycka, Östersund",
-    "summary": "Östersund, trafikolycka i Odenskogs industriområde.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-16.26-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
