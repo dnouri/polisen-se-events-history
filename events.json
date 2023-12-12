@@ -1,5 +1,41 @@
 [
   {
+    "id": 476329,
+    "datetime": "2023-12-12 3:17:33 +01:00",
+    "name": "12 december 03.04, Försvunnen person, Bollnäs",
+    "summary": "Försvunnen man, 74 år har lämnat Bollnäs sjukhus.",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-03.04-forsvunnen-person-bollnas/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Bollnäs",
+      "gps": "61.34838,16.394269"
+    }
+  },
+  {
+    "id": 476328,
+    "datetime": "2023-12-12 2:48:56 +01:00",
+    "name": "12 december 00.46, Detonation, Södertälje",
+    "summary": "Polis kallas till ett bostadsområde i Brunnsäng med anledning av att flera inringare hört en hög smäll.",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-00.46-detonation-sodertalje/",
+    "type": "Detonation",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 476327,
+    "datetime": "2023-12-12 2:42:08 +01:00",
+    "name": "12 december 00.20, Skottlossning, misstänkt, Upplands väsby",
+    "summary": "Flera inringare uppger att det hört smällar som uppfattats komma från skjutvapen i Upplands Väsby.",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-00.20-skottlossning-misstankt-upplands-vasby/",
+    "type": "Skottlossning, misstänkt",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
     "id": 476325,
     "datetime": "2023-12-11 23:11:34 +01:00",
     "name": "11 december 20.52, Våld/hot mot tjänsteman, Uppsala",
@@ -4428,18 +4464,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -4449,6 +4473,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5958,42 +5994,6 @@
     "summary": "Våldtäkt på hotell.",
     "url": "/aktuellt/handelser/2023/december/4/04-december-04.33-valdtakt-stockholm/",
     "type": "Våldtäkt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 473521,
-    "datetime": "2023-12-04 8:10:44 +01:00",
-    "name": "04 december 06.17, Brand, Haninge",
-    "summary": "Brand på Ängsholmarna.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-06.17-brand-haninge/",
-    "type": "Brand",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 473523,
-    "datetime": "2023-12-04 8:10:40 +01:00",
-    "name": "04 december 06.26, Brand, Stockholm",
-    "summary": "Lägenhetsbrand i Akalla.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-06.26-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 473525,
-    "datetime": "2023-12-04 8:10:36 +01:00",
-    "name": "04 december 07.13, Trafikolycka, Stockholm",
-    "summary": "Tvärbanan krockar med en sopbil.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-07.13-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
