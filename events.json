@@ -1,5 +1,41 @@
 [
   {
+    "id": 476674,
+    "datetime": "2023-12-12 17:00:28 +01:00",
+    "name": "12 december 16.51, Trafikolycka, Ludvika",
+    "summary": "Flera bilister uppges ha kolliderat i centrala Ludvika",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-16.51-trafikolycka-ludvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 476675,
+    "datetime": "2023-12-12 17:18:42 +01:00",
+    "name": "12 december 16.53, Trafikolycka, vilt, Örnsköldsvik",
+    "summary": "Länsväg 1060 Ström, en buss har kolliderat med en älg",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-16.53-trafikolycka-vilt-ornskoldsvik/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 476329,
+    "datetime": "2023-12-12 3:17:33 +01:00",
+    "name": "12 december 03.04, Försvunnen person, Bollnäs",
+    "summary": "Försvunnen man har lämnat Bollnäs sjukhus.",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-03.04-forsvunnen-person-bollnas/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Bollnäs",
+      "gps": "61.34838,16.394269"
+    }
+  },
+  {
     "id": 476673,
     "datetime": "2023-12-12 16:43:38 +01:00",
     "name": "12 december 16.42, Trafikolycka, Nässjö",
@@ -393,18 +429,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 476329,
-    "datetime": "2023-12-12 3:17:33 +01:00",
-    "name": "12 december 03.04, Försvunnen person, Bollnäs",
-    "summary": "Försvunnen man, 74 år har lämnat Bollnäs sjukhus.",
-    "url": "/aktuellt/handelser/2023/december/12/12-december-03.04-forsvunnen-person-bollnas/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
     }
   },
   {
@@ -5088,18 +5112,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -5109,6 +5121,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 473657,
-    "datetime": "2023-12-05 7:34:02 +01:00",
-    "name": "04 december 22.04, Brand, Södertälje",
-    "summary": "Tre bilar skadas i en brand.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-22.04-brand-sodertalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 473658,
-    "datetime": "2023-12-05 7:33:59 +01:00",
-    "name": "05 december 00.51, Brand, Sigtuna",
-    "summary": "En byggbarack börjar brinna i Valsta.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-00.51-brand-sigtuna/",
-    "type": "Brand",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
     }
   }
 ]
