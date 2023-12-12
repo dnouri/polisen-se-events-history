@@ -1,5 +1,41 @@
 [
   {
+    "id": 476586,
+    "datetime": "2023-12-12 15:32:20 +01:00",
+    "name": "12 december 15.29, Trafikolycka, Jönköping",
+    "summary": "Påkörning bakifrån på Strömsnäsgatan",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-15.29-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 476585,
+    "datetime": "2023-12-12 15:26:48 +01:00",
+    "name": "12 december 14.25, Trafikbrott, Åsele",
+    "summary": "Åsele tätort, trafikant stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-14.25-trafikbrott-asele/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Åsele",
+      "gps": "64.160234,17.353615"
+    }
+  },
+  {
+    "id": 476584,
+    "datetime": "2023-12-12 15:24:49 +01:00",
+    "name": "12 december 14.27, Stöld, Umeå",
+    "summary": "Centrala stan, man stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-14.27-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 476575,
     "datetime": "2023-12-12 13:42:23 +01:00",
     "name": "12 december 13.33, Trafikolycka, personskada, Hedemora",
@@ -5004,18 +5040,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -5025,6 +5049,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 473652,
-    "datetime": "2023-12-05 7:00:12 +01:00",
-    "name": "05 december 07.00, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-07.00-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 473651,
-    "datetime": "2023-12-05 6:58:36 +01:00",
-    "name": "05 december 06.33, Trafikolycka, Ljungby",
-    "summary": "Personbil, lastbil och älg i olycka, Angelstad.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-06.33-trafikolycka-ljungby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 473649,
-    "datetime": "2023-12-05 6:56:19 +01:00",
-    "name": "05 december 06.54, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-06.54-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
