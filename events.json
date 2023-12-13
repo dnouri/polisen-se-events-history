@@ -1,5 +1,29 @@
 [
   {
+    "id": 476704,
+    "datetime": "2023-12-13 6:36:33 +01:00",
+    "name": "13 december 01.30, Brand, Hässleholm",
+    "summary": "Brand i fordon på Sprängarevägen.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-01.30-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 476702,
+    "datetime": "2023-12-13 6:33:46 +01:00",
+    "name": "13 december 06.33, Sammanfattning natt, Örebro län",
+    "summary": "Natt till onsdag polisområde Örebro",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-06.33-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 476699,
     "datetime": "2023-12-12 22:04:41 +01:00",
     "name": "12 december 17.26, Rattfylleri, Sundsvall",
@@ -5412,18 +5436,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -5433,6 +5445,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 473704,
-    "datetime": "2023-12-05 12:33:54 +01:00",
-    "name": "05 december 12.14, Trafikolycka, singel, Kumla",
-    "summary": "Polispatrull beordrad till en singelolycka på Lv534, Hardemo.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-12.14-trafikolycka-singel-kumla/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 473700,
-    "datetime": "2023-12-05 12:15:02 +01:00",
-    "name": "05 december 12.12, Rattfylleri, Örebro",
-    "summary": "Polispatrull har stoppat en misstänkt påverkad bilist.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-12.12-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
