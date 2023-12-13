@@ -1,5 +1,101 @@
 [
   {
+    "id": 476714,
+    "datetime": "2023-12-13 7:25:30 +01:00",
+    "name": "12 december 22.27, Brand, Västerås",
+    "summary": "Bilbrand, Västerås.",
+    "url": "/aktuellt/handelser/2023/december/12/12-december-22.27-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 476710,
+    "datetime": "2023-12-13 7:24:26 +01:00",
+    "name": "13 december 07.24, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till onsdag polisområde Värmland",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-07.24-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 476712,
+    "datetime": "2023-12-13 7:15:54 +01:00",
+    "name": "13 december 05.26, Stöld/inbrott, Hässleholm",
+    "summary": "Inbrott på Högalidsgatan.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-05.26-stoldinbrott-hassleholm/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 476703,
+    "datetime": "2023-12-13 7:06:11 +01:00",
+    "name": "13 december 07.06, Sammanfattning natt, Dalarnas län",
+    "summary": "Natt till onsdag polisområde Dalarna",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-07.06-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 476708,
+    "datetime": "2023-12-13 7:06:04 +01:00",
+    "name": "13 december 07.01, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-07.01-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 476707,
+    "datetime": "2023-12-13 7:01:03 +01:00",
+    "name": "13 december 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 476706,
+    "datetime": "2023-12-13 6:48:34 +01:00",
+    "name": "13 december 06.35, Brand, Sölvesborg",
+    "summary": "Brand på Lilleviksvägen, Falkvik.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-06.35-brand-solvesborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 476705,
+    "datetime": "2023-12-13 6:44:19 +01:00",
+    "name": "13 december 04.31, Misshandel, Mörbylånga",
+    "summary": "Misshandel i Färjestaden.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-04.31-misshandel-morbylanga/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Mörbylånga",
+      "gps": "56.523757,16.386916"
+    }
+  },
+  {
     "id": 476704,
     "datetime": "2023-12-13 6:36:33 +01:00",
     "name": "13 december 01.30, Brand, Hässleholm",
@@ -5436,18 +5532,6 @@
     }
   },
   {
-    "id": 473757,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 473758,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 00.50, Stöld, Lund",
@@ -5457,6 +5541,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 473757,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00.",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 473712,
-    "datetime": "2023-12-05 14:03:05 +01:00",
-    "name": "05 december 12.37, Räddningsinsats, Åre",
-    "summary": "Storrensjön, två skotrar har gått genom isen",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-12.37-raddningsinsats-are/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 473708,
-    "datetime": "2023-12-05 13:23:03 +01:00",
-    "name": "05 december 13.20, Brand, Jönköping",
-    "summary": "Polisen inleder förundersökning efter villabrand.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-13.20-brand-jonkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 473711,
-    "datetime": "2023-12-05 13:48:08 +01:00",
-    "name": "05 december 11.52, Brand, Kramfors",
-    "summary": "Centrum, larm om brand i Ådalshallen",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-11.52-brand-kramfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 473705,
-    "datetime": "2023-12-05 12:48:26 +01:00",
-    "name": "05 december 12.42, Stöld, Borlänge",
-    "summary": "Polispatrull beordrad till en butik i Borlänge med anledning av en misstänkt stöld.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-12.42-stold-borlange/",
-    "type": "Stöld",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 473710,
-    "datetime": "2023-12-05 13:33:39 +01:00",
-    "name": "05 december 11.41, Fylleri/LOB, Sundsvall",
-    "summary": "Inre hamnen, polis kontaktas gällande berusad man på centralstationen",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-11.41-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 473709,
-    "datetime": "2023-12-05 13:30:51 +01:00",
-    "name": "05 december 12.59, Trafikbrott, Umeå",
-    "summary": "Riksväg 92 Klockarbäcken, bilist kontrollerad av polis",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-12.59-trafikbrott-umea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 473698,
-    "datetime": "2023-12-05 12:06:37 +01:00",
-    "name": "05 december 11.56, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på Universitetsgatan i Örebro",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-11.56-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 473706,
-    "datetime": "2023-12-05 13:01:04 +01:00",
-    "name": "05 december 11.24, Trafikolycka, Örnsköldsvik",
-    "summary": "Centrala Örnsköldsvik, polispatrull inblandad i trafikolycka",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-11.24-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
