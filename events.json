@@ -1,5 +1,65 @@
 [
   {
+    "id": 476846,
+    "datetime": "2023-12-13 14:22:40 +01:00",
+    "name": "13 december 13.45, Trafikolycka, personskada, Askersund",
+    "summary": "En lastbil har kolliderat med en personbil på riksväg 50 vid Gärdshyttan.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-13.45-trafikolycka-personskada-askersund/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 476845,
+    "datetime": "2023-12-13 14:15:50 +01:00",
+    "name": "13 december 11.53, Vapenlagen, Örebro",
+    "summary": "En person har omhändertagits efter att ha ertappats bärande ett vapen.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-11.53-vapenlagen-orebro/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 476748,
+    "datetime": "2023-12-13 7:58:18 +01:00",
+    "name": "13 december 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 476844,
+    "datetime": "2023-12-13 13:53:49 +01:00",
+    "name": "13 december 10.56, Åldringsbrott, Södertälje",
+    "summary": "Bedrägeri riktat mot en kvinna i 90-årsåldern.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-10.56-aldringsbrott-sodertalje/",
+    "type": "Åldringsbrott",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 476842,
+    "datetime": "2023-12-13 13:48:16 +01:00",
+    "name": "13 december 09.28, Rattfylleri, Timrå",
+    "summary": "Timrå, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-09.28-rattfylleri-timra/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
     "id": 476841,
     "datetime": "2023-12-13 13:37:17 +01:00",
     "name": "13 december 12.52, Övrigt, Karlstad",
@@ -225,18 +285,6 @@
     "location": {
       "name": "Österåker",
       "gps": "59.500058,18.352485"
-    }
-  },
-  {
-    "id": 476748,
-    "datetime": "2023-12-13 7:58:18 +01:00",
-    "name": "13 december 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5868,18 +5916,6 @@
     }
   },
   {
-    "id": 473758,
-    "datetime": "2023-12-06 7:11:35 +01:00",
-    "name": "06 december 00.50, Stöld, Lund",
-    "summary": "Däck stulna från två bilar",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
     "id": 473757,
     "datetime": "2023-12-06 7:11:35 +01:00",
     "name": "06 december 07.11, Sammanfattning natt, Jämtlands län",
@@ -5889,6 +5925,18 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 473758,
+    "datetime": "2023-12-06 7:11:35 +01:00",
+    "name": "06 december 00.50, Stöld, Lund",
+    "summary": "Däck stulna från två bilar",
+    "url": "/aktuellt/handelser/2023/december/6/06-december-00.50-stold-lund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 473749,
-    "datetime": "2023-12-06 6:24:20 +01:00",
-    "name": "06 december 06.13, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats",
-    "url": "/aktuellt/handelser/2023/december/6/06-december-06.13-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 473744,
-    "datetime": "2023-12-05 21:33:31 +01:00",
-    "name": "05 december 20.53, Brand, Malmö",
-    "summary": "Jägersro. Brand i fordon och byggnad.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-20.53-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 473747,
-    "datetime": "2023-12-05 21:53:47 +01:00",
-    "name": "05 december 21.51, Trafikbrott, Göteborg",
-    "summary": "Trafikbrott",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-21.51-trafikbrott-goteborg/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 473746,
-    "datetime": "2023-12-05 21:46:15 +01:00",
-    "name": "05 december 20.09, Brand, Borlänge",
-    "summary": "Brand i fäbodstuga i området Gyllfäbodarna, Borlänge Kommun.",
-    "url": "/aktuellt/handelser/2023/december/5/05-december-20.09-brand-borlange/",
-    "type": "Brand",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   }
 ]
