@@ -1,5 +1,101 @@
 [
   {
+    "id": 477234,
+    "datetime": "2023-12-14 18:16:58 +01:00",
+    "name": "14 december 17.53, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka i Ålidhemstunneln, Ålidbacken.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-17.53-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 477219,
+    "datetime": "2023-12-14 15:41:21 +01:00",
+    "name": "14 december 15.32, Trafikolycka, Uddevalla",
+    "summary": "Två personbilar är involverade i en olycka på E6 vid Forshälla.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-15.32-trafikolycka-uddevalla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 477233,
+    "datetime": "2023-12-14 18:13:35 +01:00",
+    "name": "14 december 17.42, Trafikolycka, Östersund",
+    "summary": "Larm om trafikolycka, Odenslund.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-17.42-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 477229,
+    "datetime": "2023-12-14 18:11:05 +01:00",
+    "name": "14 december 16.59, Trafikolycka, Sollefteå",
+    "summary": "Larm om trafikolycka på riksväg 90, Forsmo, i höjd med Yttersel.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-16.59-trafikolycka-solleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 477230,
+    "datetime": "2023-12-14 18:10:28 +01:00",
+    "name": "14 december 16.33, Trafikolycka, Sundsvall",
+    "summary": "Larm om trafikolycka i Matfors.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-16.33-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 477231,
+    "datetime": "2023-12-14 17:52:32 +01:00",
+    "name": "14 december 17.20, Trafikolycka, Härnösand",
+    "summary": "Larm om trafikolycka på E4, Härnösand.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-17.20-trafikolycka-harnosand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 477232,
+    "datetime": "2023-12-14 17:59:22 +01:00",
+    "name": "14 december 17.33, Trafikolycka, Boden",
+    "summary": "Larm om trafikolycka i centrala Boden.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-17.33-trafikolycka-boden/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 477226,
+    "datetime": "2023-12-14 16:34:36 +01:00",
+    "name": "14 december 15.47, Brand, Lycksele",
+    "summary": "Larm om brand i hus norr om Lycksele.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-15.47-brand-lycksele/",
+    "type": "Brand",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
     "id": 477221,
     "datetime": "2023-12-14 17:23:50 +01:00",
     "name": "14 december 15.22, Trafikolycka, Sollefteå",
@@ -21,30 +117,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 477219,
-    "datetime": "2023-12-14 15:41:21 +01:00",
-    "name": "14 december 15.32, Trafikolycka, Uddevalla",
-    "summary": "Två personbilar är involverade i en olycka på E6 vid Forshälla.",
-    "url": "/aktuellt/handelser/2023/december/14/14-december-15.32-trafikolycka-uddevalla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Uddevalla",
-      "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 477226,
-    "datetime": "2023-12-14 16:34:36 +01:00",
-    "name": "14 december 15.47, Brand, Lycksele",
-    "summary": "Larm om brand i hus norr om Lycksele.",
-    "url": "/aktuellt/handelser/2023/december/14/14-december-15.47-brand-lycksele/",
-    "type": "Brand",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Ludvika",
       "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 473507,
-    "datetime": "2023-12-04 7:06:57 +01:00",
-    "name": "04 december 02.03, Brand, Mörbylånga",
-    "summary": "Brand i villa, Mörbylånga.",
-    "url": "/aktuellt/handelser/2023/december/4/04-december-02.03-brand-morbylanga/",
-    "type": "Brand",
-    "location": {
-      "name": "Mörbylånga",
-      "gps": "56.523757,16.386916"
-    }
-  },
-  {
-    "id": 474886,
-    "datetime": "2023-12-07 16:11:42 +01:00",
-    "name": "07 december 13.40, Farligt föremål, misstänkt, Göteborg",
-    "summary": "Misstänkt farligt föremål, ej farligt",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-13.40-farligt-foremal-misstankt-goteborg/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 474818,
-    "datetime": "2023-12-07 16:03:32 +01:00",
-    "name": "07 december 14.39, Trafikolycka, Skövde",
-    "summary": "Singelolycka landsväg 200",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-14.39-trafikolycka-skovde/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skövde",
-      "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 474385,
-    "datetime": "2023-12-07 9:10:07 +01:00",
-    "name": "07 december 09.03, Trafikolycka, Alvesta",
-    "summary": "Larm om trafikolycka mellan Grimslöv och Växjö",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-09.03-trafikolycka-alvesta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
-    }
-  },
-  {
-    "id": 474452,
-    "datetime": "2023-12-07 14:59:15 +01:00",
-    "name": "07 december 11.51, Arbetsplatsolycka, Kiruna",
-    "summary": "Larm om olycka på en arbetsplats i Kiruna.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-11.51-arbetsplatsolycka-kiruna/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 474446,
-    "datetime": "2023-12-07 14:33:24 +01:00",
-    "name": "07 december 10.40, Olaga hot, Luleå",
-    "summary": "Polisen kontaktas om ett misstänkt olaga hot.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-10.40-olaga-hot-lulea/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
