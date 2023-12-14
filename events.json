@@ -1,5 +1,65 @@
 [
   {
+    "id": 477010,
+    "datetime": "2023-12-14 10:15:47 +01:00",
+    "name": "14 december 07.31, Trafikolycka, Lycksele",
+    "summary": "Singelolycka utanför Lycksele.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-07.31-trafikolycka-lycksele/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 476937,
+    "datetime": "2023-12-14 7:30:32 +01:00",
+    "name": "14 december 07.15, Trafikolycka, Timrå",
+    "summary": "Timrå, trafikolycka i Timrå industriområde.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-07.15-trafikolycka-timra/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 477004,
+    "datetime": "2023-12-14 9:59:51 +01:00",
+    "name": "14 december 09.18, Brand, Mölndal",
+    "summary": "Brand i en lastbil på E6",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-09.18-brand-molndal/",
+    "type": "Brand",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 476895,
+    "datetime": "2023-12-13 21:13:41 +01:00",
+    "name": "13 december 19.22, Stöld, Uppsala",
+    "summary": "Tre män gripna efter stöld ur postfack.",
+    "url": "/aktuellt/handelser/2023/december/13/13-december-19.22-stold-uppsala/",
+    "type": "Stöld",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 477003,
+    "datetime": "2023-12-14 9:55:30 +01:00",
+    "name": "14 december 09.55, Övrigt, Västra Götalands län",
+    "summary": "Större övning i Västra Götalands län",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-09.55-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 476992,
     "datetime": "2023-12-14 9:36:04 +01:00",
     "name": "14 december 08.18, Trafikolycka, Töreboda",
@@ -129,18 +189,6 @@
     "location": {
       "name": "Hörby",
       "gps": "55.851716,13.661926"
-    }
-  },
-  {
-    "id": 476937,
-    "datetime": "2023-12-14 7:30:32 +01:00",
-    "name": "14 december 07.15, Trafikolycka, Timrå",
-    "summary": "Timrå, trafikolycka i Timrå industriområde.",
-    "url": "/aktuellt/handelser/2023/december/14/14-december-07.15-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
     }
   },
   {
@@ -453,18 +501,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 476895,
-    "datetime": "2023-12-13 21:13:41 +01:00",
-    "name": "13 december 19.22, Stöld, Uppsala",
-    "summary": "Tre män gripna efter stöld ur postfack.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-19.22-stold-uppsala/",
-    "type": "Stöld",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 474286,
-    "datetime": "2023-12-07 7:35:13 +01:00",
-    "name": "07 december 02.40, Rattfylleri, Ljungby",
-    "summary": "Man misstänkt för grovt rattfylleri efter att ha kört av vägen",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-02.40-rattfylleri-ljungby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 474290,
-    "datetime": "2023-12-07 7:34:26 +01:00",
-    "name": "07 december 07.34, Sammanfattning natt, Värmlands län",
-    "summary": "Det har polisiärt sett varit en lugn natt.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-07.34-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 474289,
-    "datetime": "2023-12-07 7:34:17 +01:00",
-    "name": "07 december 07.34, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har polisiärt sett varit en lugn natt.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-07.34-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
