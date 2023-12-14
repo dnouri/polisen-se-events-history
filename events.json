@@ -1,5 +1,89 @@
 [
   {
+    "id": 477244,
+    "datetime": "2023-12-14 19:22:08 +01:00",
+    "name": "14 december 16.29, Rattfylleri, Örnsköldsvik",
+    "summary": "Misstänkt drograttfylleri..",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-16.29-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 477236,
+    "datetime": "2023-12-14 18:30:42 +01:00",
+    "name": "14 december 17.21, Trafikolycka, Åre",
+    "summary": "Larm om trafikolycka på E14, Mörsil.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-17.21-trafikolycka-are/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 477241,
+    "datetime": "2023-12-14 19:06:10 +01:00",
+    "name": "14 december 17.37, Trafikolycka, Åre",
+    "summary": "Larm om trafikolycka på väg 321, Brattåsen.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-17.37-trafikolycka-are/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 477242,
+    "datetime": "2023-12-14 18:26:11 +01:00",
+    "name": "14 december 17.48, Trafikolycka, Kiruna",
+    "summary": "Larm om trafikolycka i centrala Kiruna.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-17.48-trafikolycka-kiruna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 477225,
+    "datetime": "2023-12-14 16:29:47 +01:00",
+    "name": "14 december 15.09, Arbetsplatsolycka, Skellefteå",
+    "summary": "Larm om olycka på en arbetsplats i Skellefteå.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-15.09-arbetsplatsolycka-skelleftea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 477234,
+    "datetime": "2023-12-14 18:16:58 +01:00",
+    "name": "14 december 17.53, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka i Ålidhemstunneln, Ålidbacken.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-17.53-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 477243,
+    "datetime": "2023-12-14 18:45:35 +01:00",
+    "name": "14 december 16.57, Trafikolycka, Trelleborg",
+    "summary": "Två personbilar i olycka, Trelleborg.",
+    "url": "/aktuellt/handelser/2023/december/14/14-december-16.57-trafikolycka-trelleborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
     "id": 477231,
     "datetime": "2023-12-14 17:52:32 +01:00",
     "name": "14 december 17.20, Trafikolycka, Härnösand",
@@ -21,42 +105,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 477236,
-    "datetime": "2023-12-14 18:30:42 +01:00",
-    "name": "14 december 17.21, Trafikolycka, Åre",
-    "summary": "Larm om trafikolycka på E14, Mörsil.",
-    "url": "/aktuellt/handelser/2023/december/14/14-december-17.21-trafikolycka-are/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 477242,
-    "datetime": "2023-12-14 18:26:11 +01:00",
-    "name": "14 december 17.48, Trafikolycka, Kiruna",
-    "summary": "Larm om trafikolycka i centrala Kiruna.",
-    "url": "/aktuellt/handelser/2023/december/14/14-december-17.48-trafikolycka-kiruna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 477234,
-    "datetime": "2023-12-14 18:16:58 +01:00",
-    "name": "14 december 17.53, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka i Ålidhemstunneln, Ålidbacken.",
-    "url": "/aktuellt/handelser/2023/december/14/14-december-17.53-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -153,18 +201,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 477225,
-    "datetime": "2023-12-14 16:29:47 +01:00",
-    "name": "14 december 15.09, Arbetsplatsolycka, Skellefteå",
-    "summary": "Larm om olycka på en arbetsplats i Skellefteå.",
-    "url": "/aktuellt/handelser/2023/december/14/14-december-15.09-arbetsplatsolycka-skelleftea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 474961,
-    "datetime": "2023-12-07 17:53:53 +01:00",
-    "name": "07 december 17.23, Trafikolycka, Askersund",
-    "summary": "Det är totalstopp i trafiken i nordgående riktning på riksväg 50 cirka tre kilometer söder om Gärdshyttan.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-17.23-trafikolycka-askersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 474960,
-    "datetime": "2023-12-07 17:42:38 +01:00",
-    "name": "07 december 17.24, Trafikolycka, personskada, Karlskoga",
-    "summary": "Två personbilar har kolliderat front mot front på Noravägen i Karlskoga.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-17.24-trafikolycka-personskada-karlskoga/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 474435,
-    "datetime": "2023-12-07 13:00:24 +01:00",
-    "name": "07 december 12.05, Trafikolycka, Askersund",
-    "summary": "Polisen är på plats vid en trafikolycka på riksväg 50 i Askersund.",
-    "url": "/aktuellt/handelser/2023/december/7/07-december-12.05-trafikolycka-askersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
     }
   }
 ]
