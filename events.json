@@ -1,5 +1,53 @@
 [
   {
+    "id": 477474,
+    "datetime": "2023-12-15 12:16:24 +01:00",
+    "name": "15 december 12.14, Rattfylleri, Sunne",
+    "summary": "En man i femtiofemårsåldern misstänks för rattfylleri efter en trafikkontroll i centrala Sunne.",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-12.14-rattfylleri-sunne/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 477470,
+    "datetime": "2023-12-15 12:01:36 +01:00",
+    "name": "15 december 10.08, Arbetsplatsolycka, Arvika",
+    "summary": "En man i fyrtiofemårsåldern har förts till sjukhus efter en arbetsplatsolycka i Arvika.",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-10.08-arbetsplatsolycka-arvika/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 477468,
+    "datetime": "2023-12-15 11:54:13 +01:00",
+    "name": "15 december 11.08, Kontroll person/fordon, Nybro",
+    "summary": "Kontroll på skola i Nybro",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-11.08-kontroll-personfordon-nybro/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Nybro",
+      "gps": "56.7438,15.908681"
+    }
+  },
+  {
+    "id": 477273,
+    "datetime": "2023-12-15 7:25:53 +01:00",
+    "name": "15 december 05.53, Trafikolycka, personskada, Tanum",
+    "summary": "Lastbilar i trafikolycka",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-05.53-trafikolycka-personskada-tanum/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
     "id": 477467,
     "datetime": "2023-12-15 11:43:23 +01:00",
     "name": "15 december 09.52, Arbetsplatsolycka, Göteborg",
@@ -26,13 +74,13 @@
   {
     "id": 477461,
     "datetime": "2023-12-15 11:07:39 +01:00",
-    "name": "15 december 10.36, Övrigt, Västerås",
+    "name": "15 december 10.36, Övrigt, Fagersta",
     "summary": "Kvinna anträffad utomhus med allvarliga skador.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-10.36-ovrigt-vasteras/",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-10.36-ovrigt-fagersta/",
     "type": "Övrigt",
     "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
+      "name": "Fagersta",
+      "gps": "59.989144,15.816642"
     }
   },
   {
@@ -261,18 +309,6 @@
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 477273,
-    "datetime": "2023-12-15 7:25:53 +01:00",
-    "name": "15 december 05.53, Trafikolycka, personskada, Tanum",
-    "summary": "Lastbilar i trafikolycka",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-05.53-trafikolycka-personskada-tanum/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Tanum",
-      "gps": "58.732727,11.457819"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Nynäshamn",
       "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 475873,
-    "datetime": "2023-12-08 11:15:21 +01:00",
-    "name": "08 december 11.15, Trafikolycka, singel, Karlstad",
-    "summary": "Personbil i diket längs Lv 734 strax söder om Deje.",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-11.15-trafikolycka-singel-karlstad/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 475824,
-    "datetime": "2023-12-08 8:36:32 +01:00",
-    "name": "08 december 07.45, Trafikolycka, Östersund",
-    "summary": "Nyvik, trafikolycka på E45.",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-07.45-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 475842,
-    "datetime": "2023-12-08 10:02:11 +01:00",
-    "name": "08 december 08.40, Trafikolycka, Härnösand",
-    "summary": "Singeolycka väster om Ramvik.",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-08.40-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   }
 ]
