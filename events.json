@@ -1,5 +1,89 @@
 [
   {
+    "id": 477551,
+    "datetime": "2023-12-15 22:15:47 +01:00",
+    "name": "15 december 20.10, Rattfylleri, Haninge",
+    "summary": "Tre ungdomar kör av vägen med en personbil i Dalarö.",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-20.10-rattfylleri-haninge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 477547,
+    "datetime": "2023-12-15 21:45:05 +01:00",
+    "name": "15 december 21.26, Misshandel, Göteborg",
+    "summary": "En man i 30-årsåldern misshandlas med sparkar och slag ombord på en buss i Björkekärr.",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-21.26-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 477540,
+    "datetime": "2023-12-15 20:51:10 +01:00",
+    "name": "15 december 20.29, Rån, Borås",
+    "summary": "En man i 30-årsåldern blir rånad i en gångtunnel under Skaraborgsvägen och larmar polis.",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-20.29-ran-boras/",
+    "type": "Rån",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 477550,
+    "datetime": "2023-12-15 22:00:49 +01:00",
+    "name": "15 december 22.00, Övrigt, Hallands län",
+    "summary": "Hemsidan uppdateras inte mer i dag.",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-22.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 477549,
+    "datetime": "2023-12-15 22:00:45 +01:00",
+    "name": "15 december 22.00, Övrigt, Västra Götalands län",
+    "summary": "Hemsidan uppdateras inte mer i dag.",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-22.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 477546,
+    "datetime": "2023-12-15 21:33:02 +01:00",
+    "name": "15 december 21.15, Trafikolycka, Karlstad",
+    "summary": "En bilist har krockat med ett träd",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-21.15-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 477548,
+    "datetime": "2023-12-15 21:45:05 +01:00",
+    "name": "15 december 19.31, Rån, Stockholm",
+    "summary": "Skadad man hittad utomhus i friluftsområde.",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-19.31-ran-stockholm/",
+    "type": "Rån",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 477543,
     "datetime": "2023-12-15 21:38:54 +01:00",
     "name": "15 december 18.35, Arbetsplatsolycka, Gotlands län",
@@ -33,30 +117,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 477546,
-    "datetime": "2023-12-15 21:33:02 +01:00",
-    "name": "15 december 21.15, Trafikolycka, Karlstad",
-    "summary": "En bilist har krockat med ett träd",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-21.15-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 477540,
-    "datetime": "2023-12-15 20:51:10 +01:00",
-    "name": "15 december 20.29, Rån, Borås",
-    "summary": "En man i 30-årsåldern blir rånad i en gångtunnel under Skaraborgsvägen och larmar polis.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-20.29-ran-boras/",
-    "type": "Rån",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Lomma",
       "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 475961,
-    "datetime": "2023-12-08 22:50:11 +01:00",
-    "name": "08 december 17.13, Skadegörelse, Botkyrka",
-    "summary": "Bilar har brunnit i Tumba.",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-17.13-skadegorelse-botkyrka/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 475959,
-    "datetime": "2023-12-08 21:47:08 +01:00",
-    "name": "08 december 20.34, Stöld/inbrott, Lilla edet",
-    "summary": "Inbrott i villa, Hjärtum",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-20.34-stoldinbrott-lilla-edet/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Lilla edet",
-      "gps": "58.132158,12.124134"
-    }
-  },
-  {
-    "id": 475955,
-    "datetime": "2023-12-08 21:35:56 +01:00",
-    "name": "08 december 21.35, Misshandel, Luleå",
-    "summary": "Polis beordras under fredagskvällen till en adress i Luleå kommun med anledning av en berusad man.",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-21.35-misshandel-lulea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 475958,
-    "datetime": "2023-12-08 21:27:45 +01:00",
-    "name": "08 december 21.07, Rattfylleri, Karlskoga",
-    "summary": "En bilist är misstänkt för brott i Bohult",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-21.07-rattfylleri-karlskoga/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 475957,
-    "datetime": "2023-12-08 21:25:20 +01:00",
-    "name": "08 december 19.11, Stöld/inbrott, Säffle",
-    "summary": "Ett brott har skett i Östra Innerstaden",
-    "url": "/aktuellt/handelser/2023/december/8/08-december-19.11-stoldinbrott-saffle/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
     }
   }
 ]
