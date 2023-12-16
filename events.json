@@ -1,5 +1,53 @@
 [
   {
+    "id": 477498,
+    "datetime": "2023-12-15 13:22:49 +01:00",
+    "name": "15 december 10.46, Räddningsinsats, Örnsköldsvik",
+    "summary": "Nordväst om Örnsköldsvik, olycka med arbetsfordon",
+    "url": "/aktuellt/handelser/2023/december/15/15-december-10.46-raddningsinsats-ornskoldsvik/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 477575,
+    "datetime": "2023-12-16 8:28:58 +01:00",
+    "name": "16 december 08.28, Sammanfattning natt, Dalarnas län",
+    "summary": "Natt till lördag polisområde Dalarna",
+    "url": "/aktuellt/handelser/2023/december/16/16-december-08.28-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 477580,
+    "datetime": "2023-12-16 8:21:58 +01:00",
+    "name": "16 december 03.28, Trafikolycka, singel, Båstad",
+    "summary": "Pershögsgatan. Trafikolycka leder till misstanke om grovt rattfylleri.",
+    "url": "/aktuellt/handelser/2023/december/16/16-december-03.28-trafikolycka-singel-bastad/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Båstad",
+      "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 477579,
+    "datetime": "2023-12-16 8:20:40 +01:00",
+    "name": "16 december 02.33, Trafikolycka, singel, Höganäs",
+    "summary": "Storgatan. Krockskadad personbil leder till misstanke om rattfylleri.",
+    "url": "/aktuellt/handelser/2023/december/16/16-december-02.33-trafikolycka-singel-hoganas/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Höganäs",
+      "gps": "56.200639,12.555329"
+    }
+  },
+  {
     "id": 477578,
     "datetime": "2023-12-16 8:14:17 +01:00",
     "name": "16 december 06.50, Trafikolycka, Sundsvall",
@@ -417,18 +465,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 477498,
-    "datetime": "2023-12-15 13:22:49 +01:00",
-    "name": "15 december 10.46, Räddningsinsats, Örnsköldsvik",
-    "summary": "Nordväst om Örnsköldsvik, olycka med arbetsfordon",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-10.46-raddningsinsats-ornskoldsvik/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Motala",
       "gps": "58.538034,15.047094"
-    }
-  },
-  {
-    "id": 475994,
-    "datetime": "2023-12-09 11:14:47 +01:00",
-    "name": "09 december 10.45, Trafikolycka, singel, Askersund",
-    "summary": "En singelolycka har inträffat på Lv 517 vid Snavlunda.",
-    "url": "/aktuellt/handelser/2023/december/9/09-december-10.45-trafikolycka-singel-askersund/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 475996,
-    "datetime": "2023-12-09 11:25:22 +01:00",
-    "name": "09 december 11.15, Rattfylleri, Ludvika",
-    "summary": "Polispatrull har stoppat en misstänkt rattfyllerist.",
-    "url": "/aktuellt/handelser/2023/december/9/09-december-11.15-rattfylleri-ludvika/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 475995,
-    "datetime": "2023-12-09 11:22:20 +01:00",
-    "name": "09 december 11.13, Rattfylleri, Kil",
-    "summary": "Polis har stoppat en misstänkt rattfyllerist.",
-    "url": "/aktuellt/handelser/2023/december/9/09-december-11.13-rattfylleri-kil/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kil",
-      "gps": "59.50368,13.317048"
     }
   }
 ]
