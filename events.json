@@ -1,26 +1,50 @@
 [
   {
-    "id": 478310,
-    "datetime": "2023-12-20 16:39:23 +01:00",
-    "name": "20 december 13.45, Stöld, Umeå",
-    "summary": "Mariehemsvägen, polis kontaktas gällande inbrott i förråd och matkällare",
-    "url": "/aktuellt/handelser/2023/december/20/20-december-13.45-stold-umea/",
-    "type": "Stöld",
+    "id": 478317,
+    "datetime": "2023-12-20 17:25:10 +01:00",
+    "name": "20 december 17.02, Trafikbrott, Skellefteå",
+    "summary": "Solbacken, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/december/20/20-december-17.02-trafikbrott-skelleftea/",
+    "type": "Trafikbrott",
     "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
     "id": 478309,
     "datetime": "2023-12-20 16:35:31 +01:00",
-    "name": "20 december 16.35, Skottlossning, Norrköping",
+    "name": "20 december 16.35, Mord/dråp, Norrköping",
     "summary": "Uppgifter om skadad person i samband med misstänkt skottlossning.",
-    "url": "/aktuellt/handelser/2023/december/20/20-december-16.35-skottlossning-norrkoping/",
-    "type": "Skottlossning",
+    "url": "/aktuellt/handelser/2023/december/20/20-december-16.35-morddrap-norrkoping/",
+    "type": "Mord/dråp",
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 478316,
+    "datetime": "2023-12-20 17:09:15 +01:00",
+    "name": "20 december 15.34, Trafikolycka, Krokom",
+    "summary": "Åkersjön, larm om skoterolycka",
+    "url": "/aktuellt/handelser/2023/december/20/20-december-15.34-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 478315,
+    "datetime": "2023-12-20 17:03:09 +01:00",
+    "name": "20 december 15.56, Fylleri/LOB, Östersund",
+    "summary": "Centrum, polisen har under eftermiddagen kontaktats gällande berusade personer",
+    "url": "/aktuellt/handelser/2023/december/20/20-december-15.56-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -33,6 +57,54 @@
     "location": {
       "name": "Ulricehamn",
       "gps": "57.794789,13.420516"
+    }
+  },
+  {
+    "id": 478314,
+    "datetime": "2023-12-20 16:56:51 +01:00",
+    "name": "20 december 14.59, Stöld, Sollefteå",
+    "summary": "Sollefteå, tonåring stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2023/december/20/20-december-14.59-stold-solleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 478313,
+    "datetime": "2023-12-20 16:52:19 +01:00",
+    "name": "20 december 12.48, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2023/december/20/20-december-12.48-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 478311,
+    "datetime": "2023-12-20 16:49:20 +01:00",
+    "name": "20 december 14.18, Stöld, Sundsvall",
+    "summary": "Stenstan, två tonåringar stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2023/december/20/20-december-14.18-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 478310,
+    "datetime": "2023-12-20 16:39:23 +01:00",
+    "name": "20 december 13.45, Stöld, Umeå",
+    "summary": "Mariehemsvägen, polis kontaktas gällande inbrott i förråd och matkällare",
+    "url": "/aktuellt/handelser/2023/december/20/20-december-13.45-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 476840,
-    "datetime": "2023-12-13 13:35:24 +01:00",
-    "name": "13 december 10.13, Arbetsplatsolycka, Nacka",
-    "summary": "Man faller ner i ett hål.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-10.13-arbetsplatsolycka-nacka/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 476839,
-    "datetime": "2023-12-13 13:33:54 +01:00",
-    "name": "13 december 13.32, Trafikolycka, Kristianstad",
-    "summary": "Larm om trafikolycka, Kanalgatan",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-13.32-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 476838,
-    "datetime": "2023-12-13 13:32:09 +01:00",
-    "name": "13 december 13.14, Trafikolycka, Ljungby",
-    "summary": "Larm om trafikolycka mellan Ljungby och Ryssby",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-13.14-trafikolycka-ljungby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 476825,
-    "datetime": "2023-12-13 13:30:55 +01:00",
-    "name": "13 december 13.26, Trafikolycka, personskada, Jönköpings län",
-    "summary": "Två personer påkörda, ingen allvarligt skadad",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-13.26-trafikolycka-personskada-jonkopings-lan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 476823,
-    "datetime": "2023-12-13 13:30:18 +01:00",
-    "name": "13 december 13.11, Trafikolycka, Lund",
-    "summary": "Larm om trafikolycka, Råbylundsvägen",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-13.11-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 476773,
-    "datetime": "2023-12-13 9:45:42 +01:00",
-    "name": "13 december 09.37, Trafikolycka, Robertsfors",
-    "summary": "Sikeå, trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-09.37-trafikolycka-robertsfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
     }
   }
 ]
