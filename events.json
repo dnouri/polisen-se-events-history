@@ -1,5 +1,113 @@
 [
   {
+    "id": 478370,
+    "datetime": "2023-12-21 8:04:50 +01:00",
+    "name": "21 december 06.50, Trafikolycka, Göteborg",
+    "summary": "Tre personbilar i kollision",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-06.50-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 478361,
+    "datetime": "2023-12-21 8:00:27 +01:00",
+    "name": "21 december 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Efter en intensiv kväll, har en lugn natt förlöpt utan större händelser.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 478367,
+    "datetime": "2023-12-21 8:00:20 +01:00",
+    "name": "21 december 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Någon enstaka notis från natten som är värd att nämna. I övrigt en lugn natt i polisområdet.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 478354,
+    "datetime": "2023-12-21 8:00:15 +01:00",
+    "name": "21 december 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "En lugn natt i polisområdet efter en hektisk sen onsdagskväll. Inget ärende som sticker ut.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 478368,
+    "datetime": "2023-12-21 8:00:02 +01:00",
+    "name": "21 december 06.44, Stöld, Stockholm",
+    "summary": "En butik på Östermalm har haft inbrott där källardörren var uppbruten.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-06.44-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 478357,
+    "datetime": "2023-12-21 7:58:00 +01:00",
+    "name": "21 december 07.57, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-07.57-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 478360,
+    "datetime": "2023-12-21 7:57:09 +01:00",
+    "name": "21 december 07.57, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-07.57-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 478365,
+    "datetime": "2023-12-21 7:56:56 +01:00",
+    "name": "21 december 07.56, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-07.56-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 478366,
+    "datetime": "2023-12-21 7:56:14 +01:00",
+    "name": "21 december 07.56, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-07.56-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 478364,
     "datetime": "2023-12-21 7:41:41 +01:00",
     "name": "21 december 07.40, Sammanfattning natt, Örebro län",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 476903,
-    "datetime": "2023-12-13 21:21:38 +01:00",
-    "name": "13 december 20.16, Åldringsbrott, Göteborg",
-    "summary": "Åldringsbrott",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-20.16-aldringsbrott-goteborg/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 476901,
-    "datetime": "2023-12-13 21:09:46 +01:00",
-    "name": "13 december 20.02, Brand, Göteborg",
-    "summary": "Brand i lägenhet",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-20.02-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 476896,
-    "datetime": "2023-12-13 21:16:36 +01:00",
-    "name": "13 december 20.15, Trafikolycka, Robertsfors",
-    "summary": "Larm om trafikolycka på E4, Ånäset.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-20.15-trafikolycka-robertsfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 476889,
-    "datetime": "2023-12-13 21:14:20 +01:00",
-    "name": "13 december 21.14, Trafikolycka, vilt, Norrbottens län",
-    "summary": "Mellan klockan 15 och 21 har fem viltolyckor anmälts till polisens ledningscentral.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-21.14-trafikolycka-vilt-norrbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 476890,
-    "datetime": "2023-12-13 21:14:07 +01:00",
-    "name": "13 december 21.13, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Mellan klockan 15 och 21 har nio viltolyckor anmälts till polisens ledningscentral.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-21.13-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 476891,
-    "datetime": "2023-12-13 21:13:41 +01:00",
-    "name": "13 december 21.13, Trafikolycka, vilt, Västerbottens län",
-    "summary": "Mellan klockan 15 och 21 har fem viltolyckor anmälts till polisens ledningscentral.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-21.13-trafikolycka-vilt-vasterbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 476902,
-    "datetime": "2023-12-13 21:10:49 +01:00",
-    "name": "13 december 20.39, Rattfylleri, Falun",
-    "summary": "Polispatrull har stoppat en misstänkt påverkad bilist.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-20.39-rattfylleri-falun/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 476899,
-    "datetime": "2023-12-13 21:07:38 +01:00",
-    "name": "13 december 20.12, Trafikkontroll, Vilhelmina",
-    "summary": "Resultat efter nykterhetskontroll på E45, Vilhelmina.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-20.12-trafikkontroll-vilhelmina/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 476897,
-    "datetime": "2023-12-13 20:44:36 +01:00",
-    "name": "13 december 18.40, Rån, Malmö",
-    "summary": "Man i 45-årsåldern blir rånad på en väska vid Heleneholm.",
-    "url": "/aktuellt/handelser/2023/december/13/13-december-18.40-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
