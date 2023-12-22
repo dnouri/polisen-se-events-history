@@ -1,5 +1,65 @@
 [
   {
+    "id": 478624,
+    "datetime": "2023-12-22 17:25:02 +01:00",
+    "name": "22 december 16.26, Trafikolycka, Sundsvall",
+    "summary": "Birsta, trafikolycka på Timmervägen.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-16.26-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 478622,
+    "datetime": "2023-12-22 17:07:44 +01:00",
+    "name": "22 december 16.57, Trafikolycka, Falkenberg",
+    "summary": "Två personbilar har krockat på E6 i höjd med Slöinge.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-16.57-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 478619,
+    "datetime": "2023-12-22 16:17:00 +01:00",
+    "name": "22 december 15.49, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i höjd med Berglunda",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-15.49-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 478623,
+    "datetime": "2023-12-22 17:07:45 +01:00",
+    "name": "22 december 17.07, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Jämtland, flera anmälda viltolyckor mellan kl. 16 och 17.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-17.07-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 478612,
+    "datetime": "2023-12-22 15:48:37 +01:00",
+    "name": "22 december 15.20, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på E4 norr om Sörmjöle.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-15.20-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 478620,
     "datetime": "2023-12-22 16:33:07 +01:00",
     "name": "22 december 16.12, Kontroll person/fordon, Järfälla",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Norsjö",
       "gps": "64.913509,19.482641"
-    }
-  },
-  {
-    "id": 478619,
-    "datetime": "2023-12-22 16:17:00 +01:00",
-    "name": "22 december 15.49, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i höjd med Berglunda",
-    "url": "/aktuellt/handelser/2023/december/22/22-december-15.49-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -105,18 +153,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 478612,
-    "datetime": "2023-12-22 15:48:37 +01:00",
-    "name": "22 december 15.20, Trafikolycka, Umeå",
-    "summary": "Trafikolycka på E4 norr om Sörmjöle.",
-    "url": "/aktuellt/handelser/2023/december/22/22-december-15.20-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 477524,
-    "datetime": "2023-12-15 16:03:38 +01:00",
-    "name": "15 december 11.42, Arbetsplatsolycka, Nacka",
-    "summary": "Man skadad efter fall från en byggnadsställning.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-11.42-arbetsplatsolycka-nacka/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 477519,
-    "datetime": "2023-12-15 15:13:03 +01:00",
-    "name": "15 december 15.01, Brand, Forshaga",
-    "summary": "Inredning har fattat eld inne i en villa i Skived",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-15.01-brand-forshaga/",
-    "type": "Brand",
-    "location": {
-      "name": "Forshaga",
-      "gps": "59.529761,13.486084"
-    }
-  },
-  {
-    "id": 477522,
-    "datetime": "2023-12-15 15:40:25 +01:00",
-    "name": "15 december 13.13, Motorfordon, anträffat stulet, Sundsvall",
-    "summary": "Stulen bil anträffad efter E4 i höjd med Myre, Njurunda.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-13.13-motorfordon-antraffat-stulet-sundsvall/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
