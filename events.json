@@ -1,5 +1,89 @@
 [
   {
+    "id": 478631,
+    "datetime": "2023-12-22 18:14:03 +01:00",
+    "name": "22 december 18.01, Brand, Stockholm",
+    "summary": "Räddningstjänst och polis har gjort en utryckning till ett flerbostadshus i Vasastaden.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-18.01-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 478629,
+    "datetime": "2023-12-22 17:52:43 +01:00",
+    "name": "22 december 17.33, Rån, Landskrona",
+    "summary": "Personrån i centrum.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-17.33-ran-landskrona/",
+    "type": "Rån",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 478622,
+    "datetime": "2023-12-22 17:07:44 +01:00",
+    "name": "22 december 16.57, Trafikolycka, Falkenberg",
+    "summary": "Två personbilar har krockat på E6 i höjd med Slöinge.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-16.57-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 478630,
+    "datetime": "2023-12-22 18:02:33 +01:00",
+    "name": "22 december 16.45, Stöld, Umeå",
+    "summary": "Umeå, stöld i butik.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-16.45-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 478381,
+    "datetime": "2023-12-21 10:12:30 +01:00",
+    "name": "21 december 07.39, Försvunnen person, Kalmar",
+    "summary": "Försvunnen flicka, Hossmo.",
+    "url": "/aktuellt/handelser/2023/december/21/21-december-07.39-forsvunnen-person-kalmar/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 478609,
+    "datetime": "2023-12-22 15:31:05 +01:00",
+    "name": "22 december 14.47, Trafikolycka, Norsjö",
+    "summary": "Bjurträsk, trafikolycka på länsväg 370/842.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-14.47-trafikolycka-norsjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norsjö",
+      "gps": "64.913509,19.482641"
+    }
+  },
+  {
+    "id": 478628,
+    "datetime": "2023-12-22 17:46:47 +01:00",
+    "name": "22 december 12.41, Stöld, Lycksele",
+    "summary": "Lycksele, inbrott i lägenhet.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-12.41-stold-lycksele/",
+    "type": "Stöld",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
     "id": 478627,
     "datetime": "2023-12-22 17:42:29 +01:00",
     "name": "22 december 14.01, Stöld, Sundsvall",
@@ -33,18 +117,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 478622,
-    "datetime": "2023-12-22 17:07:44 +01:00",
-    "name": "22 december 16.57, Trafikolycka, Falkenberg",
-    "summary": "Två personbilar har krockat på E6 i höjd med Slöinge.",
-    "url": "/aktuellt/handelser/2023/december/22/22-december-16.57-trafikolycka-falkenberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
     }
   },
   {
@@ -105,18 +177,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 478609,
-    "datetime": "2023-12-22 15:31:05 +01:00",
-    "name": "22 december 14.47, Trafikolycka, Norsjö",
-    "summary": "Bjurträsk, trafikolycka på länsväg 370/842.",
-    "url": "/aktuellt/handelser/2023/december/22/22-december-14.47-trafikolycka-norsjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norsjö",
-      "gps": "64.913509,19.482641"
     }
   },
   {
@@ -489,18 +549,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 478381,
-    "datetime": "2023-12-21 10:12:30 +01:00",
-    "name": "21 december 07.39, Försvunnen person, Kalmar",
-    "summary": "Försvunnen flicka, Hossmo.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-07.39-forsvunnen-person-kalmar/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 477529,
-    "datetime": "2023-12-15 17:48:56 +01:00",
-    "name": "15 december 17.40, Brand, Munkfors",
-    "summary": "Det brinner enligt uppgifter på en industri",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-17.40-brand-munkfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Munkfors",
-      "gps": "59.835348,13.534415"
-    }
-  },
-  {
-    "id": 477534,
-    "datetime": "2023-12-15 19:06:51 +01:00",
-    "name": "15 december 15.56, Rattfylleri, Sollefteå",
-    "summary": "Misstänkt drograttfylleri i Sollefteå.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-15.56-rattfylleri-solleftea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 477533,
-    "datetime": "2023-12-15 19:04:31 +01:00",
-    "name": "15 december 17.42, Motorfordon, anträffat stulet, Kramfors",
-    "summary": "Stulen bil anträffad i Bollstabruk.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-17.42-motorfordon-antraffat-stulet-kramfors/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 477530,
-    "datetime": "2023-12-15 18:08:17 +01:00",
-    "name": "15 december 17.54, Brand, Malmö",
-    "summary": "Bilbrand, Hyllie.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-17.54-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
