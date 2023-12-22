@@ -1,17 +1,5 @@
 [
   {
-    "id": 478593,
-    "datetime": "2023-12-22 13:10:48 +01:00",
-    "name": "22 december 10.10, Olaga hot, Lindesberg",
-    "summary": "En man i tjugoårsåldern har gripits efter att ha uttalat hot mot en något yngre kvinna.",
-    "url": "/aktuellt/handelser/2023/december/22/22-december-10.10-olaga-hot-lindesberg/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
-    }
-  },
-  {
     "id": 478609,
     "datetime": "2023-12-22 15:31:05 +01:00",
     "name": "22 december 14.47, Trafikolycka, Norsjö",
@@ -24,15 +12,123 @@
     }
   },
   {
+    "id": 478619,
+    "datetime": "2023-12-22 16:17:00 +01:00",
+    "name": "22 december 15.49, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i höjd med Berglunda",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-15.49-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 478618,
+    "datetime": "2023-12-22 16:14:54 +01:00",
+    "name": "22 december 16.14, Fylleri/LOB, Östersund",
+    "summary": "Östersund, personer omhändertagna i centrum.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-16.14-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 478617,
+    "datetime": "2023-12-22 16:10:09 +01:00",
+    "name": "22 december 13.34, Trafikkontroll, Umeå",
+    "summary": "Stöcksjö, resultat från en trafikkontroll på E4.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-13.34-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 478616,
+    "datetime": "2023-12-22 16:01:42 +01:00",
+    "name": "22 december 15.54, Brand, Helsingborg",
+    "summary": "Rökutveckling i byggnad på Östra Fridhemsgatan.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-15.54-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 478615,
+    "datetime": "2023-12-22 16:00:38 +01:00",
+    "name": "22 december 14.29, Brand, Lindesberg",
+    "summary": "Det har brunnit i en lägenhet i Guldsmedshyttan",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-14.29-brand-lindesberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
     "id": 478600,
     "datetime": "2023-12-22 14:48:30 +01:00",
-    "name": "22 december 14.31, Trafikkontroll, Luleå",
+    "name": "22 december 14.31, Trafikolycka, Luleå",
     "summary": "Luleå, trafikolycka vid Notviksrondellen.",
-    "url": "/aktuellt/handelser/2023/december/22/22-december-14.31-trafikkontroll-lulea/",
-    "type": "Trafikkontroll",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-14.31-trafikolycka-lulea/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 478613,
+    "datetime": "2023-12-22 15:51:45 +01:00",
+    "name": "22 december 15.40, Trafikolycka, Växjö",
+    "summary": "Singelolycka på Lv761 vid Lammhult.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-15.40-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 478612,
+    "datetime": "2023-12-22 15:48:37 +01:00",
+    "name": "22 december 15.20, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på E4 norr om Sörmjöle.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-15.20-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 478611,
+    "datetime": "2023-12-22 15:45:18 +01:00",
+    "name": "22 december 11.37, Rattfylleri, Ånge",
+    "summary": "Ånge, misstänkt drograttfylleri.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-11.37-rattfylleri-ange/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ånge",
+      "gps": "62.522874,15.658942"
+    }
+  },
+  {
+    "id": 478593,
+    "datetime": "2023-12-22 13:10:48 +01:00",
+    "name": "22 december 10.10, Olaga hot, Lindesberg",
+    "summary": "En man i tjugoårsåldern har gripits efter att ha uttalat hot mot en något yngre kvinna.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-10.10-olaga-hot-lindesberg/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 477468,
-    "datetime": "2023-12-15 11:54:13 +01:00",
-    "name": "15 december 11.08, Kontroll person/fordon, Nybro",
-    "summary": "Kontroll på skola i Nybro",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-11.08-kontroll-personfordon-nybro/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 477504,
-    "datetime": "2023-12-15 14:11:02 +01:00",
-    "name": "15 december 14.06, Larm Överfall, Södertälje",
-    "summary": "En obehörig på en kommunal social inrättning i Södertälje stökar i sådan omfattning att personalen utlöser öve",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-14.06-larm-overfall-sodertalje/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 477449,
-    "datetime": "2023-12-15 10:26:46 +01:00",
-    "name": "15 december 10.16, Trafikolycka, Kumla",
-    "summary": "En trafikolycka med ett flertal inblandade fordon har inträffat på riksväg 51 strax norr om Kvarntorp.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-10.16-trafikolycka-kumla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 477440,
-    "datetime": "2023-12-15 9:41:11 +01:00",
-    "name": "15 december 06.45, Stöld/inbrott, Nordanstig",
-    "summary": "Lastbil saknas efter inbrott hos företag.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-06.45-stoldinbrott-nordanstig/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Nordanstig",
-      "gps": "62.036668,17.205249"
-    }
-  },
-  {
-    "id": 477492,
-    "datetime": "2023-12-15 13:14:33 +01:00",
-    "name": "15 december 13.12, Övrigt, Dalarnas län",
-    "summary": "Telefonnummer stängs tidigare idag",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-13.12-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 477493,
-    "datetime": "2023-12-15 13:14:28 +01:00",
-    "name": "15 december 13.12, Övrigt, Värmlands län",
-    "summary": "Telefonnummer stängs tidigare",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-13.12-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 477491,
-    "datetime": "2023-12-15 13:14:22 +01:00",
-    "name": "15 december 13.06, Övrigt, Örebro län",
-    "summary": "Telefonnummer stängs tidigare idag",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-13.06-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 477494,
-    "datetime": "2023-12-15 13:14:17 +01:00",
-    "name": "15 december 10.47, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Jämtland, viltolyckor under morgon och förmiddag",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-102.47-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
