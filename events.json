@@ -1,5 +1,41 @@
 [
   {
+    "id": 478643,
+    "datetime": "2023-12-22 20:07:13 +01:00",
+    "name": "22 december 18.24, Mord/dråp, försök, Täby",
+    "summary": "En man har skurits med vad som bedöms vara en kniv. Brottet ägde rum på ett hotellrum i Arninge.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-18.24-morddrap-forsok-taby/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
+    "id": 478642,
+    "datetime": "2023-12-22 20:04:49 +01:00",
+    "name": "22 december 19.19, Brand, Göteborg",
+    "summary": "En person har förts till sjukhus efter en rökutveckling på ett boende i Kallebäck.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-19.19-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 478626,
+    "datetime": "2023-12-22 17:39:38 +01:00",
+    "name": "22 december 17.39, Misshandel, Umeå",
+    "summary": "Umeå kommun, man gripen misstänkt för misshandel.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-17.39-misshandel-umea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 478640,
     "datetime": "2023-12-22 19:41:01 +01:00",
     "name": "22 december 19.23, Trafikolycka, Örnsköldsvik",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 478641,
+    "datetime": "2023-12-22 19:45:37 +01:00",
+    "name": "22 december 19.19, Trafikolycka, Skellefteå",
+    "summary": "Lövånger, trafikolycka på E4.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-19.19-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -213,18 +261,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 478626,
-    "datetime": "2023-12-22 17:39:38 +01:00",
-    "name": "22 december 17.39, Misshandel, Umeå",
-    "summary": "Umeå kommun, man gripen misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2023/december/22/22-december-17.39-misshandel-umea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5958,42 +5994,6 @@
     "summary": "Skadad man hittad utomhus i friluftsområde.",
     "url": "/aktuellt/handelser/2023/december/15/15-december-19.31-ran-stockholm/",
     "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 477543,
-    "datetime": "2023-12-15 21:38:54 +01:00",
-    "name": "15 december 18.35, Arbetsplatsolycka, Gotlands län",
-    "summary": "En man skadas i ett skred.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-18.35-arbetsplatsolycka-gotlands-lan/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 477544,
-    "datetime": "2023-12-15 21:38:46 +01:00",
-    "name": "15 december 15.24, Rån, Stockholm",
-    "summary": "Pojke i tonåren rånad på mössa.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-15.24-ran-stockholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 477545,
-    "datetime": "2023-12-15 21:38:43 +01:00",
-    "name": "15 december 17.57, Skadegörelse, Stockholm",
-    "summary": "En man slår sönder villafönster med ett tillhygge.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-17.57-skadegorelse-stockholm/",
-    "type": "Skadegörelse",
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
