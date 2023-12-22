@@ -1,5 +1,65 @@
 [
   {
+    "id": 478580,
+    "datetime": "2023-12-22 12:12:12 +01:00",
+    "name": "22 december 12.04, Bråk, Malmö",
+    "summary": "Bråk utomhus, Bunkeflostrand.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-12.04-brak-malmo/",
+    "type": "Bråk",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 478577,
+    "datetime": "2023-12-22 11:56:47 +01:00",
+    "name": "22 december 11.00, Stöld, Umeå",
+    "summary": "Misstänkt ringa stöld i matbutik i centrala Umeå.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-11.00-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 478574,
+    "datetime": "2023-12-22 11:54:05 +01:00",
+    "name": "22 december 10.50, Stöld, Boden",
+    "summary": "Misstänkt ringa stöld i matbutik i centrala Boden.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-10.50-stold-boden/",
+    "type": "Stöld",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 478563,
+    "datetime": "2023-12-22 11:51:35 +01:00",
+    "name": "22 december 09.21, Trafikolycka, Luleå",
+    "summary": "Polisen kontaktas om en singelolycka på Kronanområdet.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-09.21-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 478568,
+    "datetime": "2023-12-22 11:46:44 +01:00",
+    "name": "22 december 09.18, Trafikolycka, Östersund",
+    "summary": "Larm om trafikolycka på E14/E45, Brunflo.",
+    "url": "/aktuellt/handelser/2023/december/22/22-december-09.18-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 478566,
     "datetime": "2023-12-22 11:40:18 +01:00",
     "name": "22 december 09.04, Inbrott, Skellefteå",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Ronneby",
       "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 477268,
-    "datetime": "2023-12-15 7:50:25 +01:00",
-    "name": "15 december 07.50, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till fredag polisområde Dalarna",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-07.50-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 477407,
-    "datetime": "2023-12-15 7:41:43 +01:00",
-    "name": "15 december 00.58, Rattfylleri, Västervik",
-    "summary": "Jenny. Fordonsförare misstänks vara påverkad av otillåtet preparat.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-00.58-rattfylleri-vastervik/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 477271,
-    "datetime": "2023-12-15 7:23:46 +01:00",
-    "name": "15 december 04.08, Trafikolycka, vilt, Ljungby",
-    "summary": "Lv615. Kollision mellan mopedist och rådjur.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-04.08-trafikolycka-vilt-ljungby/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 477274,
-    "datetime": "2023-12-15 7:26:10 +01:00",
-    "name": "15 december 06.13, Trafikolycka, singel, Växjö",
-    "summary": "Rv30. Misstanke om rattylleri i samband med trafikolycka.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-06.13-trafikolycka-singel-vaxjo/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 477278,
-    "datetime": "2023-12-15 7:28:23 +01:00",
-    "name": "15 december 04.00, Brand, Lund",
-    "summary": "Norra Fäladen. Brand i fordon i garage under flerfamiljshus.",
-    "url": "/aktuellt/handelser/2023/december/15/15-december-04.00-brand-lund/",
-    "type": "Brand",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   }
 ]
