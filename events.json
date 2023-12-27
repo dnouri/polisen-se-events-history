@@ -1,5 +1,41 @@
 [
   {
+    "id": 479714,
+    "datetime": "2023-12-27 20:02:22 +01:00",
+    "name": "27 december 20.00, Trafikolycka, Linköping",
+    "summary": "Trafikolycka E4 Vikingstad",
+    "url": "/aktuellt/handelser/2023/december/27/27-december-20.00-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 479711,
+    "datetime": "2023-12-27 19:30:27 +01:00",
+    "name": "27 december 17.03, Räddningsinsats, Härjedalen",
+    "summary": "Fjällräddningsinsats vid Svansjön, Tännäs.",
+    "url": "/aktuellt/handelser/2023/december/27/27-december-17.03-raddningsinsats-harjedalen/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 479715,
+    "datetime": "2023-12-27 20:04:33 +01:00",
+    "name": "27 december 19.16, Trafikkontroll, Bräcke",
+    "summary": "Resultat efter trafikkontroll på E14, Bräcke.",
+    "url": "/aktuellt/handelser/2023/december/27/27-december-19.16-trafikkontroll-bracke/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Bräcke",
+      "gps": "62.750741,15.422575"
+    }
+  },
+  {
     "id": 479713,
     "datetime": "2023-12-27 19:43:56 +01:00",
     "name": "27 december 19.42, Stöld, Borlänge",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Varberg",
       "gps": "57.107118,12.252091"
-    }
-  },
-  {
-    "id": 479711,
-    "datetime": "2023-12-27 19:30:27 +01:00",
-    "name": "27 december 17.03, Räddningsinsats, Härjedalen",
-    "summary": "Fjällräddningsinsats vid Svansjön, Tännäs.",
-    "url": "/aktuellt/handelser/2023/december/27/27-december-17.03-raddningsinsats-harjedalen/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 478080,
-    "datetime": "2023-12-19 21:54:02 +01:00",
-    "name": "19 december 21.53, Övrigt, Västra Götalands län",
-    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
-    "url": "/aktuellt/handelser/2023/december/19/19-december-21.53-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 478079,
-    "datetime": "2023-12-19 21:53:42 +01:00",
-    "name": "19 december 21.53, Övrigt, Hallands län",
-    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
-    "url": "/aktuellt/handelser/2023/december/19/19-december-21.53-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
