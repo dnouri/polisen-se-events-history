@@ -1,5 +1,101 @@
 [
   {
+    "id": 480102,
+    "datetime": "2023-12-28 20:49:41 +01:00",
+    "name": "28 december 19.34, Rån, Karlskrona",
+    "summary": "Personrån på Trossö.",
+    "url": "/aktuellt/handelser/2023/december/28/28-december-19.34-ran-karlskrona/",
+    "type": "Rån",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 480123,
+    "datetime": "2023-12-28 21:31:40 +01:00",
+    "name": "28 december 20.00, Rån, Skövde",
+    "summary": "Rån",
+    "url": "/aktuellt/handelser/2023/december/28/28-december-20.00-ran-skovde/",
+    "type": "Rån",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
+    "id": 480121,
+    "datetime": "2023-12-28 21:29:17 +01:00",
+    "name": "28 december 21.28, Rattfylleri, Karlstad",
+    "summary": "Misstänkt påverkad bilist stoppad i Karlstad.",
+    "url": "/aktuellt/handelser/2023/december/28/28-december-21.28-rattfylleri-karlstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 480120,
+    "datetime": "2023-12-28 21:26:44 +01:00",
+    "name": "28 december 17.47, Misshandel, grov, Mark",
+    "summary": "Grov misshandel, Skene",
+    "url": "/aktuellt/handelser/2023/december/28/28-december-17.47-misshandel-grov-mark/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
+    "id": 479945,
+    "datetime": "2023-12-28 21:26:34 +01:00",
+    "name": "28 december 21.26, Trafikolycka, vilt, Västerbottens län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/december/28/28-december-21.26-trafikolycka-vilt-vasterbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 479946,
+    "datetime": "2023-12-28 21:26:25 +01:00",
+    "name": "28 december 21.26, Trafikolycka, vilt, Västernorrlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/december/28/28-december-21.26-trafikolycka-vilt-vasternorrlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 479947,
+    "datetime": "2023-12-28 21:26:14 +01:00",
+    "name": "28 december 21.26, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/december/28/28-december-21.26-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 479943,
+    "datetime": "2023-12-28 21:26:02 +01:00",
+    "name": "28 december 21.25, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2023/december/28/28-december-21.25-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 480117,
     "datetime": "2023-12-28 21:16:48 +01:00",
     "name": "28 december 19.14, Övrigt, Malmö",
@@ -57,18 +153,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 480102,
-    "datetime": "2023-12-28 20:49:41 +01:00",
-    "name": "28 december 19.34, Rån, Karlskrona",
-    "summary": "Personrån på Trossö.",
-    "url": "/aktuellt/handelser/2023/december/28/28-december-19.34-ran-karlskrona/",
-    "type": "Rån",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 478358,
-    "datetime": "2023-12-21 7:20:37 +01:00",
-    "name": "21 december 00.53, Stöld, Stockholm",
-    "summary": "En inringare i Midsommarkransen hör av sig om att två personer misstänks försöka stjäla cyklar.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-00.53-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 478356,
-    "datetime": "2023-12-21 7:16:31 +01:00",
-    "name": "21 december 07.01, Trafikolycka, Karlshamn",
-    "summary": "Två bilar i olycka, Asarum.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-07.01-trafikolycka-karlshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 478355,
-    "datetime": "2023-12-21 7:15:34 +01:00",
-    "name": "21 december 02.27, Häleri, Huddinge",
-    "summary": "En bil med med dieseldunkar påträffades i Sjödalen, två män är misstänkta för häleri.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-02.27-haleri-huddinge/",
-    "type": "Häleri",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 478353,
-    "datetime": "2023-12-21 6:57:10 +01:00",
-    "name": "21 december 03.07, Brand, Hässleholm",
-    "summary": "Flera bilar skadade i brand, Hässleholm.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-03.07-brand-hassleholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 478352,
-    "datetime": "2023-12-21 6:54:46 +01:00",
-    "name": "21 december 02.36, Brand, Höör",
-    "summary": "Brand i villa, Höör.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-02.36-brand-hoor/",
-    "type": "Brand",
-    "location": {
-      "name": "Höör",
-      "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 478351,
-    "datetime": "2023-12-21 6:52:20 +01:00",
-    "name": "21 december 02.19, Brand, Burlöv",
-    "summary": "Bilar skadade i brand, Burlöv.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-02.19-brand-burlov/",
-    "type": "Brand",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 478350,
-    "datetime": "2023-12-21 6:33:51 +01:00",
-    "name": "21 december 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
