@@ -1,5 +1,65 @@
 [
   {
+    "id": 480228,
+    "datetime": "2023-12-29 13:03:04 +01:00",
+    "name": "29 december 12.12, Arbetsplatsolycka, Stockholm",
+    "summary": "Arbetsplatsolycka i Skärholmen",
+    "url": "/aktuellt/handelser/2023/december/29/29-december-12.12-arbetsplatsolycka-stockholm/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 480227,
+    "datetime": "2023-12-29 13:02:34 +01:00",
+    "name": "29 december 13.02, Rattfylleri, Umeå",
+    "summary": "Misstänkt rattfylleri i Umeå.",
+    "url": "/aktuellt/handelser/2023/december/29/29-december-13.02-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 480201,
+    "datetime": "2023-12-29 8:27:18 +01:00",
+    "name": "29 december 07.14, Trafikolycka, Sollefteå",
+    "summary": "Trafikolycka på riksväg 87 i Sollefteå.",
+    "url": "/aktuellt/handelser/2023/december/29/29-december-07.14-trafikolycka-solleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 480226,
+    "datetime": "2023-12-29 12:51:05 +01:00",
+    "name": "29 december 12.29, Stöld, försök, Örebro",
+    "summary": "Personal i livsmedelsbutik stoppade ett stöldförsök på fredagen.",
+    "url": "/aktuellt/handelser/2023/december/29/29-december-12.29-stold-forsok-orebro/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 480225,
+    "datetime": "2023-12-29 12:48:40 +01:00",
+    "name": "29 december 12.48, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2023/december/29/29-december-12.48-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 480224,
     "datetime": "2023-12-29 12:43:33 +01:00",
     "name": "29 december 12.43, Trafikkontroll, Västernorrlands län",
@@ -177,18 +237,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 480201,
-    "datetime": "2023-12-29 8:27:18 +01:00",
-    "name": "29 december 07.14, Trafikolycka, Sollefteå",
-    "summary": "Trafikolycka på riksväg 87 i Sollefteå.",
-    "url": "/aktuellt/handelser/2023/december/29/29-december-07.14-trafikolycka-solleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 478362,
-    "datetime": "2023-12-21 7:37:08 +01:00",
-    "name": "21 december 06.57, Försvunnen person, Lund",
-    "summary": "Försvunnen man, Lund.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-06.57-forsvunnen-person-lund/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 478464,
-    "datetime": "2023-12-21 16:59:53 +01:00",
-    "name": "21 december 16.55, Trafikolycka, Åtvidaberg",
-    "summary": "Buss av riksväg 35",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-16.55-trafikolycka-atvidaberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åtvidaberg",
-      "gps": "58.20079,15.997699"
-    }
-  },
-  {
-    "id": 478465,
-    "datetime": "2023-12-21 17:00:25 +01:00",
-    "name": "21 december 14.36, Fylleri/LOB, Umeå",
-    "summary": "Centrum, två personer omhändertagna under eftermiddagen",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-14.36-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 478461,
-    "datetime": "2023-12-21 16:46:39 +01:00",
-    "name": "21 december 16.28, Trafikolycka, singel, Karlskoga",
-    "summary": "En lastbil med släp har skörts av E18 vid Bodalsbacken och hamnat i diket.",
-    "url": "/aktuellt/handelser/2023/december/21/21-december-16.28-trafikolycka-singel-karlskoga/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   }
 ]
