@@ -1,14 +1,50 @@
 [
   {
-    "id": 480717,
-    "datetime": "2024-01-01 13:02:21 +01:00",
-    "name": "01 januari 13.02, Trafikkontroll, Västernorrlands län",
+    "id": 480721,
+    "datetime": "2024-01-01 14:19:01 +01:00",
+    "name": "01 januari 13.09, Övrigt, Gävleborgs län",
+    "summary": "Två skadade efter liftolycka på Kungsberget.",
+    "url": "/aktuellt/handelser/2024/januari/1/01-januari-13.09-ovrigt-gavleborgs-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 480720,
+    "datetime": "2024-01-01 14:02:12 +01:00",
+    "name": "01 januari 12.48, Rattfylleri, Nacka",
+    "summary": "En bilist har testats positiv i ett alkoholutandningsprov i Insjön.",
+    "url": "/aktuellt/handelser/2024/januari/1/01-januari-12.48-rattfylleri-nacka/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 480719,
+    "datetime": "2024-01-01 13:46:09 +01:00",
+    "name": "01 januari 13.46, Trafikkontroll, Västerbottens län",
     "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/januari/1/01-januari-13.02-trafikkontroll-vasternorrlands-lan/",
+    "url": "/aktuellt/handelser/2024/januari/1/01-januari-13.46-trafikkontroll-vasterbottens-lan/",
     "type": "Trafikkontroll",
     "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 480718,
+    "datetime": "2024-01-01 13:41:04 +01:00",
+    "name": "01 januari 11.19, Rån, Klippan",
+    "summary": "Kvinna rånad i bostad, Klippan.",
+    "url": "/aktuellt/handelser/2024/januari/1/01-januari-11.19-ran-klippan/",
+    "type": "Rån",
+    "location": {
+      "name": "Klippan",
+      "gps": "56.1349,13.129041"
     }
   },
   {
@@ -21,6 +57,18 @@
     "location": {
       "name": "Sundbyberg",
       "gps": "59.367047,17.966309"
+    }
+  },
+  {
+    "id": 480717,
+    "datetime": "2024-01-01 13:02:21 +01:00",
+    "name": "01 januari 13.02, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/januari/1/01-januari-13.02-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 478709,
-    "datetime": "2023-12-23 15:16:21 +01:00",
-    "name": "23 december 14.31, Trafikolycka, Skövde",
-    "summary": "Trafikolycka vid Horsås mellan traktor och personbil allt enligt SOS.",
-    "url": "/aktuellt/handelser/2023/december/23/23-december-14.31-trafikolycka-skovde/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skövde",
-      "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 478708,
-    "datetime": "2023-12-23 14:26:40 +01:00",
-    "name": "23 december 14.08, Trafikolycka, singel, Ängelholm",
-    "summary": "En personbil kör av vägen på E6 i höjd med Skörpinge öster om Ängeholm.",
-    "url": "/aktuellt/handelser/2023/december/23/23-december-14.08-trafikolycka-singel-angelholm/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 478710,
-    "datetime": "2023-12-23 14:47:49 +01:00",
-    "name": "23 december 14.29, Trafikbrott, Umeå",
-    "summary": "Polisen stoppar en personbil som sladdar i centrala stan",
-    "url": "/aktuellt/handelser/2023/december/23/23-december-14.29-trafikbrott-umea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 478707,
-    "datetime": "2023-12-23 14:24:12 +01:00",
-    "name": "23 december 13.20, Brand, Ludvika",
-    "summary": "En brand i en villa norr om Ludvika har hanterats av en uppmärksam granne samt räddningstjänsten.",
-    "url": "/aktuellt/handelser/2023/december/23/23-december-13.20-brand-ludvika/",
-    "type": "Brand",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
     }
   }
 ]
