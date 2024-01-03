@@ -1,14 +1,98 @@
 [
   {
+    "id": 480906,
+    "datetime": "2024-01-03 13:36:48 +01:00",
+    "name": "03 januari 13.28, Trafikolycka, Falun",
+    "summary": "En taxibil har gått ihop med en bilist på länsväg 850",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-13.28-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 480900,
+    "datetime": "2024-01-03 13:33:22 +01:00",
+    "name": "03 januari 10.32, Misshandel, grov, Örebro",
+    "summary": "En man har gripits misstänkt för en grov misshandel",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-10.32-misshandel-grov-orebro/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 480889,
     "datetime": "2024-01-03 12:41:04 +01:00",
-    "name": "03 januari 12.30, Trafikolycka, Vansbro",
+    "name": "03 januari 12.33, Trafikolycka, Vansbro",
     "summary": "En buss och två bilister har kolliderat på E16",
-    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.30-trafikolycka-vansbro/",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.33-trafikolycka-vansbro/",
     "type": "Trafikolycka",
     "location": {
       "name": "Vansbro",
       "gps": "60.509943,14.225342"
+    }
+  },
+  {
+    "id": 480887,
+    "datetime": "2024-01-03 12:33:20 +01:00",
+    "name": "03 januari 12.05, Trafikolycka, Örnsköldsvik",
+    "summary": "Bjästa, trafikolycka i korsningen Nätragatan/Köpmanholmsvägen.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.05-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 480896,
+    "datetime": "2024-01-03 13:17:49 +01:00",
+    "name": "03 januari 13.06, Trafikolycka, Vansbro",
+    "summary": "Ännu en trafikolycka har inträffat på E16",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-13.06-trafikolycka-vansbro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vansbro",
+      "gps": "60.509943,14.225342"
+    }
+  },
+  {
+    "id": 480890,
+    "datetime": "2024-01-03 12:45:01 +01:00",
+    "name": "03 januari 12.38, Brand, Rättvik",
+    "summary": "Det brinner i en villa i Röjeråsen",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.38-brand-rattvik/",
+    "type": "Brand",
+    "location": {
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
+    "id": 480895,
+    "datetime": "2024-01-03 13:09:11 +01:00",
+    "name": "03 januari 13.01, Trafikolycka, Eslöv",
+    "summary": "En personbil kör in i mittärcket på länsväg 113.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-13.01-trafikolycka-eslov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 480891,
+    "datetime": "2024-01-03 13:03:27 +01:00",
+    "name": "03 januari 12.34, Trafikolycka, Karlskrona",
+    "summary": "En lastbil kör av vägen på E22 väster om Nättraby.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.34-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
     }
   },
   {
@@ -33,18 +117,6 @@
     "location": {
       "name": "Hörby",
       "gps": "55.851716,13.661926"
-    }
-  },
-  {
-    "id": 480887,
-    "datetime": "2024-01-03 12:33:20 +01:00",
-    "name": "03 januari 12.05, Trafikolycka, Örnsköldsvik",
-    "summary": "Bjästa, trafikolycka i korsningen Nätragatan/Köpmanholmsvägen.",
-    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.05-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 478827,
-    "datetime": "2023-12-26 7:48:46 +01:00",
-    "name": "26 december 07.48, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-07.48-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 478823,
-    "datetime": "2023-12-26 7:48:04 +01:00",
-    "name": "26 december 07.47, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-07.47-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 478830,
-    "datetime": "2023-12-26 7:16:44 +01:00",
-    "name": "26 december 07.14, Sammanfattning kväll och natt, Blekinge län",
-    "summary": "Lugn kväll och natt",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-07.14-sammanfattning-kvall-och-natt-blekinge-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 478829,
-    "datetime": "2023-12-26 7:14:58 +01:00",
-    "name": "26 december 07.11, Sammanfattning kväll och natt, Kalmar län",
-    "summary": "Inga grövre våldsbrott",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-07.11-sammanfattning-kvall-och-natt-kalmar-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 478828,
-    "datetime": "2023-12-26 7:11:26 +01:00",
-    "name": "26 december 17.34, Brand, Kalmar län",
-    "summary": "Brand i ladugård",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-17.34-brand-kalmar-lan/",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 478826,
-    "datetime": "2023-12-26 7:09:43 +01:00",
-    "name": "25 december 23.46, Misshandel, Växjö",
-    "summary": "Man som misshandlat kvinna",
-    "url": "/aktuellt/handelser/2023/december/25/25-december-23.46-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
