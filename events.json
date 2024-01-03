@@ -1,5 +1,65 @@
 [
   {
+    "id": 480946,
+    "datetime": "2024-01-03 21:09:12 +01:00",
+    "name": "03 januari 20.51, Trafikolycka, Varberg",
+    "summary": "Trafikolycka på E6 vid Tvååker. Tillfälligt stopp i trafiken söderut.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-20.51-trafikolycka-varberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 480930,
+    "datetime": "2024-01-03 16:18:32 +01:00",
+    "name": "03 januari 16.12, Övrigt, Skåne län",
+    "summary": "Trafikläget just nu, Skåne.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-16.12-ovrigt-skane-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 480945,
+    "datetime": "2024-01-03 21:00:25 +01:00",
+    "name": "03 januari 17.53, Stöld/inbrott, Stockholm",
+    "summary": "Polis griper en inbrottstjuv i Tensta.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-17.53-stoldinbrott-stockholm/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 480944,
+    "datetime": "2024-01-03 20:45:53 +01:00",
+    "name": "03 januari 18.45, Rån, Haninge",
+    "summary": "Klockrån i Vega.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-18.45-ran-haninge/",
+    "type": "Rån",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 480943,
+    "datetime": "2024-01-03 20:44:37 +01:00",
+    "name": "03 januari 19.00, Rån, Karlskoga",
+    "summary": "Två män i 40-årsåldern grips och är misstänkta för rån.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-19.00-ran-karlskoga/",
+    "type": "Rån",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
     "id": 480942,
     "datetime": "2024-01-03 20:39:58 +01:00",
     "name": "03 januari 20.24, Trafikolycka, Askersund",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 480930,
-    "datetime": "2024-01-03 16:18:32 +01:00",
-    "name": "03 januari 16.12, Övrigt, Skåne län",
-    "summary": "Trafikläget just nu, Skåne.",
-    "url": "/aktuellt/handelser/2024/januari/3/03-januari-16.12-ovrigt-skane-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 478856,
-    "datetime": "2023-12-26 13:36:31 +01:00",
-    "name": "26 december 13.31, Trafikolycka, Stockholm",
-    "summary": "Trafikolycka på Essingeleden i höjd med Stora Essingen.",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-13.31-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 478858,
-    "datetime": "2023-12-26 13:42:51 +01:00",
-    "name": "26 december 12.20, Trafikolycka, Linköping",
-    "summary": "olycka i centrala Linköping",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-12.20-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 478855,
-    "datetime": "2023-12-26 13:12:00 +01:00",
-    "name": "26 december 12.14, Trafikolycka, Härnösand",
-    "summary": "Polisen kontaktas av en förbipasserande om att en bil kört av vägen vid Högakusten-bron.",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-12.14-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 478853,
-    "datetime": "2023-12-26 12:58:24 +01:00",
-    "name": "26 december 12.39, Stöld, Stockholm",
-    "summary": "Person stal varor i butik på Kungsholmen.",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-12.39-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
