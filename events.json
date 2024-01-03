@@ -1,5 +1,53 @@
 [
   {
+    "id": 480908,
+    "datetime": "2024-01-03 14:13:19 +01:00",
+    "name": "03 januari 13.52, Trafikolycka, Skellefteå",
+    "summary": "Skellefteå, trafikolycka på Eriksberg.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-13.52-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 480888,
+    "datetime": "2024-01-03 12:34:21 +01:00",
+    "name": "03 januari 12.32, Trafikhinder, Hörby",
+    "summary": "Trafikhinder Ekerödsrasten.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.32-trafikhinder-horby/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Hörby",
+      "gps": "55.851716,13.661926"
+    }
+  },
+  {
+    "id": 480907,
+    "datetime": "2024-01-03 14:05:35 +01:00",
+    "name": "03 januari 12.59, Fjällräddning, Älvdalen",
+    "summary": "Fyra personer sitter fast på Fjätervålen",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.59-fjallraddning-alvdalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 480851,
+    "datetime": "2024-01-03 7:55:53 +01:00",
+    "name": "03 januari 07.55, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-07.55-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 480906,
     "datetime": "2024-01-03 13:36:48 +01:00",
     "name": "03 januari 13.28, Trafikolycka, Falun",
@@ -105,18 +153,6 @@
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 480888,
-    "datetime": "2024-01-03 12:34:21 +01:00",
-    "name": "03 januari 12.32, Trafikolycka, Hörby",
-    "summary": "Trafikolycka Ekerödsrasten.",
-    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.32-trafikolycka-horby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
     }
   },
   {
@@ -345,18 +381,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 480851,
-    "datetime": "2024-01-03 7:55:53 +01:00",
-    "name": "03 januari 07.55, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2024/januari/3/03-januari-07.55-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 478832,
-    "datetime": "2023-12-26 7:50:58 +01:00",
-    "name": "26 december 07.50, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-07.50-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 478831,
-    "datetime": "2023-12-26 7:50:36 +01:00",
-    "name": "26 december 07.50, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-07.50-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
