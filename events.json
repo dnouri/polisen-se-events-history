@@ -1,5 +1,53 @@
 [
   {
+    "id": 480889,
+    "datetime": "2024-01-03 12:41:04 +01:00",
+    "name": "03 januari 12.30, Trafikolycka, Vansbro",
+    "summary": "En buss och två bilister har kolliderat på E16",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.30-trafikolycka-vansbro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vansbro",
+      "gps": "60.509943,14.225342"
+    }
+  },
+  {
+    "id": 480852,
+    "datetime": "2024-01-03 8:11:04 +01:00",
+    "name": "03 januari 05.33, Mord/dråp, försök, Hässleholm",
+    "summary": "Polis larmas till Hästveda efter en hög smäll.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-05.33-morddrap-forsok-hassleholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 480888,
+    "datetime": "2024-01-03 12:34:21 +01:00",
+    "name": "03 januari 12.32, Trafikolycka, Hörby",
+    "summary": "Trafikolycka Ekerödsrasten.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.32-trafikolycka-horby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hörby",
+      "gps": "55.851716,13.661926"
+    }
+  },
+  {
+    "id": 480887,
+    "datetime": "2024-01-03 12:33:20 +01:00",
+    "name": "03 januari 12.05, Trafikolycka, Örnsköldsvik",
+    "summary": "Bjästa, trafikolycka i korsningen Nätragatan/Köpmanholmsvägen.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-12.05-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 480886,
     "datetime": "2024-01-03 11:48:11 +01:00",
     "name": "03 januari 11.45, Trafikolycka, Rättvik",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Rättvik",
       "gps": "60.889025,15.123373"
+    }
+  },
+  {
+    "id": 480882,
+    "datetime": "2024-01-03 11:16:13 +01:00",
+    "name": "03 januari 10.51, Trafikolycka, Härnösand",
+    "summary": "Trafikolycka vid Högakustenbron.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-10.51-trafikolycka-harnosand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
     }
   },
   {
@@ -33,18 +93,6 @@
     "location": {
       "name": "Mölndal",
       "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 480882,
-    "datetime": "2024-01-03 11:16:13 +01:00",
-    "name": "03 januari 10.51, Trafikolycka, Härnösand",
-    "summary": "Trafikolycka vid Högakustenbron.",
-    "url": "/aktuellt/handelser/2024/januari/3/03-januari-10.51-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   },
   {
@@ -165,18 +213,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 480852,
-    "datetime": "2024-01-03 8:11:04 +01:00",
-    "name": "03 januari 05.33, Skadegörelse, Hässleholm",
-    "summary": "Polis larmas till Hästveda efter en hög smäll.",
-    "url": "/aktuellt/handelser/2024/januari/3/03-januari-05.33-skadegorelse-hassleholm/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 478825,
-    "datetime": "2023-12-26 7:03:34 +01:00",
-    "name": "26 december 06.59, Sammanfattning kväll och natt, Kronobergs län",
-    "summary": "Lugn kväll och natt",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-06.59-sammanfattning-kvall-och-natt-kronobergs-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 478824,
-    "datetime": "2023-12-26 6:59:41 +01:00",
-    "name": "26 december 06.41, Sammanfattning kväll och natt, Skåne län",
-    "summary": "Inga grövre våldsbrott",
-    "url": "/aktuellt/handelser/2023/december/26/26-december-06.41-sammanfattning-kvall-och-natt-skane-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 478817,
-    "datetime": "2023-12-25 22:50:18 +01:00",
-    "name": "25 december 22.13, Skottlossning, misstänkt, Västerås",
-    "summary": "Samtal om misstänkt skottlossning på Erikslund.",
-    "url": "/aktuellt/handelser/2023/december/25/25-december-22.13-skottlossning-misstankt-vasteras/",
-    "type": "Skottlossning, misstänkt",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
