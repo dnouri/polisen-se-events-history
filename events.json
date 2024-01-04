@@ -1,5 +1,101 @@
 [
   {
+    "id": 481037,
+    "datetime": "2024-01-04 16:19:57 +01:00",
+    "name": "04 januari 15.33, Övrigt, Örnsköldsvik",
+    "summary": "Örnsköldsvik, kvinna omhändertagen.",
+    "url": "/aktuellt/handelser/2024/januari/4/04-januari-15.33-ovrigt-ornskoldsvik/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 481036,
+    "datetime": "2024-01-04 16:16:12 +01:00",
+    "name": "04 januari 14.03, Trafikolycka, Lerum",
+    "summary": "Kollision mellan två personbilar",
+    "url": "/aktuellt/handelser/2024/januari/4/04-januari-14.03-trafikolycka-lerum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 481033,
+    "datetime": "2024-01-04 15:44:53 +01:00",
+    "name": "04 januari 14.37, Trafikolycka, Sundsvall",
+    "summary": "Trafikolycka på E4 söder om Njurundabommen.",
+    "url": "/aktuellt/handelser/2024/januari/4/04-januari-14.37-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 481028,
+    "datetime": "2024-01-04 14:53:37 +01:00",
+    "name": "04 januari 11.54, Trafikolycka, Härnösand",
+    "summary": "Trafikolycka på E4 i höjd med Överdal.",
+    "url": "/aktuellt/handelser/2024/januari/4/04-januari-11.54-trafikolycka-harnosand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 481035,
+    "datetime": "2024-01-04 16:11:05 +01:00",
+    "name": "04 januari 13.53, Trafikbrott, Dorotea",
+    "summary": "Snöskoterförare misstänkt för trafikbrott i trakten av Borgafjäll.",
+    "url": "/aktuellt/handelser/2024/januari/4/04-januari-13.53-trafikbrott-dorotea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Dorotea",
+      "gps": "64.261794,16.415234"
+    }
+  },
+  {
+    "id": 480930,
+    "datetime": "2024-01-03 16:18:32 +01:00",
+    "name": "03 januari 16.12, Övrigt, Skåne län",
+    "summary": "Trafikläget just nu, Skåne.",
+    "url": "/aktuellt/handelser/2024/januari/3/03-januari-16.12-ovrigt-skane-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 481027,
+    "datetime": "2024-01-04 16:01:42 +01:00",
+    "name": "04 januari 12.00, Misshandel, Göteborg",
+    "summary": "Våld i nära relation",
+    "url": "/aktuellt/handelser/2024/januari/4/04-januari-12.00-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 481034,
+    "datetime": "2024-01-04 15:51:38 +01:00",
+    "name": "04 januari 13.12, Stöld, Skellefteå",
+    "summary": "Skellefteå, stöld i butik.",
+    "url": "/aktuellt/handelser/2024/januari/4/04-januari-13.12-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 480949,
     "datetime": "2024-01-03 22:04:27 +01:00",
     "name": "03 januari 20.28, Mord/dråp, Piteå",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 481028,
-    "datetime": "2024-01-04 14:53:37 +01:00",
-    "name": "04 januari 11.54, Trafikolycka, Härnösand",
-    "summary": "Trafikolycka på E4 i höjd med Överdal.",
-    "url": "/aktuellt/handelser/2024/januari/4/04-januari-11.54-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   },
   {
@@ -177,18 +261,6 @@
     "location": {
       "name": "Trelleborg",
       "gps": "55.376243,13.157423"
-    }
-  },
-  {
-    "id": 480930,
-    "datetime": "2024-01-03 16:18:32 +01:00",
-    "name": "03 januari 16.12, Övrigt, Skåne län",
-    "summary": "Trafikläget just nu, Skåne.",
-    "url": "/aktuellt/handelser/2024/januari/3/03-januari-16.12-ovrigt-skane-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 478801,
-    "datetime": "2023-12-25 13:38:25 +01:00",
-    "name": "25 december 09.48, Våldtäkt, Karlskrona",
-    "summary": "Misstänkt sexualbrott",
-    "url": "/aktuellt/handelser/2023/december/25/25-december-09.48-valdtakt-karlskrona/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 478946,
-    "datetime": "2023-12-27 14:55:08 +01:00",
-    "name": "27 december 12.42, Rattfylleri, Stockholms län",
-    "summary": "Polisen är i Värtahamnen för att kontrollera nykterheten bland lastbilschaufförerna som ankommer till Sverige.",
-    "url": "/aktuellt/handelser/2023/december/27/27-december-12.42-rattfylleri-stockholms-lan/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 478944,
-    "datetime": "2023-12-27 14:49:00 +01:00",
-    "name": "27 december 12.46, Räddningsinsats, Härjedalen",
-    "summary": "Larm om att en lavin gått på östra sidan Småhamrarna.",
-    "url": "/aktuellt/handelser/2023/december/27/27-december-12.46-raddningsinsats-harjedalen/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 478943,
-    "datetime": "2023-12-27 14:34:48 +01:00",
-    "name": "27 december 09.51, Trafikkontroll, Ånge",
-    "summary": "Resultat efter trafikkontroll på väg 315, Kölsillre.",
-    "url": "/aktuellt/handelser/2023/december/27/27-december-09.51-trafikkontroll-ange/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Ånge",
-      "gps": "62.522874,15.658942"
-    }
-  },
-  {
-    "id": 478942,
-    "datetime": "2023-12-27 14:12:39 +01:00",
-    "name": "27 december 14.07, Trafikolycka, Mjölby",
-    "summary": "Lastbil körde in i två personbilar.",
-    "url": "/aktuellt/handelser/2023/december/27/27-december-14.07-trafikolycka-mjolby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mjölby",
-      "gps": "58.322691,15.133535"
-    }
-  },
-  {
-    "id": 478941,
-    "datetime": "2023-12-27 14:00:55 +01:00",
-    "name": "27 december 13.16, Trafikolycka, Sundsvall",
-    "summary": "Birsta, två personbilar har kolliderat",
-    "url": "/aktuellt/handelser/2023/december/27/27-december-13.16-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
