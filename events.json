@@ -1,5 +1,65 @@
 [
   {
+    "id": 481103,
+    "datetime": "2024-01-05 8:18:49 +01:00",
+    "name": "05 januari 06.53, Trafikolycka, Oskarshamn",
+    "summary": "En trafikolycka med en lastbil inträffar på E22 vid trafikplats Oskarshamn södra.",
+    "url": "/aktuellt/handelser/2024/januari/5/05-januari-06.53-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 481102,
+    "datetime": "2024-01-05 8:06:59 +01:00",
+    "name": "05 januari 07.34, Trafikbrott, Ragunda",
+    "summary": "En bilförare bötfälls för hastighetsöverträdelse.",
+    "url": "/aktuellt/handelser/2024/januari/5/05-januari-07.34-trafikbrott-ragunda/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Ragunda",
+      "gps": "63.061337,16.396683"
+    }
+  },
+  {
+    "id": 481086,
+    "datetime": "2024-01-05 8:02:52 +01:00",
+    "name": "05 januari 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort nattsammanfattning. Utöver dessa händelser en lugn natt.",
+    "url": "/aktuellt/handelser/2024/januari/5/05-januari-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 481094,
+    "datetime": "2024-01-05 8:02:48 +01:00",
+    "name": "05 januari 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort nattsammanfattning med endast en enstaka notis av intresse. I övrigt en lugn natt.",
+    "url": "/aktuellt/handelser/2024/januari/5/05-januari-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 481100,
+    "datetime": "2024-01-05 8:02:43 +01:00",
+    "name": "05 januari 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "En enstaka notis från natten som är värd att nämna. I lövrigt en lugn natt.",
+    "url": "/aktuellt/handelser/2024/januari/5/05-januari-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 481101,
     "datetime": "2024-01-05 7:40:19 +01:00",
     "name": "04 januari 21.39, Stöld/inbrott, Gävle",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hylte",
       "gps": "56.977313,13.338766"
-    }
-  },
-  {
-    "id": 479770,
-    "datetime": "2023-12-28 12:55:25 +01:00",
-    "name": "28 december 10.39, Våld/hot mot tjänsteman, Vänersborg",
-    "summary": "Utåtagerande person på Migrationsverket",
-    "url": "/aktuellt/handelser/2023/december/28/28-december-10.39-valdhot-mot-tjansteman-vanersborg/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 479750,
-    "datetime": "2023-12-28 10:15:19 +01:00",
-    "name": "28 december 09.39, Arbetsplatsolycka, Mölndal",
-    "summary": "Mölndals torg",
-    "url": "/aktuellt/handelser/2023/december/28/28-december-09.39-arbetsplatsolycka-molndal/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 479760,
-    "datetime": "2023-12-28 11:28:41 +01:00",
-    "name": "28 december 11.01, Trafikkontroll, Sundsvall",
-    "summary": "Stenstan, polisen kontrollerar nykterhet i trafiken",
-    "url": "/aktuellt/handelser/2023/december/28/28-december-11.01-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 479720,
-    "datetime": "2023-12-27 20:47:55 +01:00",
-    "name": "27 december 20.27, Skottlossning, misstänkt, Stockholm",
-    "summary": "Polisen genomför en insats i Vårbergs centrum där en man är anträffad med en skada som misstänks vara en skott",
-    "url": "/aktuellt/handelser/2023/december/27/27-december-20.27-skottlossning-misstankt-stockholm/",
-    "type": "Skottlossning, misstänkt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 479754,
-    "datetime": "2023-12-28 10:35:27 +01:00",
-    "name": "28 december 09.55, Trafikolycka, Malung-Sälen",
-    "summary": "En olycka med en snöskoter har inträffat i Lindvallen.",
-    "url": "/aktuellt/handelser/2023/december/28/28-december-09.55-trafikolycka-malung-salen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
     }
   }
 ]
