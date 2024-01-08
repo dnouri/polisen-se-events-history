@@ -1,14 +1,38 @@
 [
   {
-    "id": 481689,
-    "datetime": "2024-01-08 8:39:06 +01:00",
-    "name": "08 januari 08.38, Övrigt, Jönköping",
-    "summary": "Information till media med anledning av gårdagens händelse där en polis skadades livshotande och en gärningsma",
-    "url": "/aktuellt/handelser/2024/januari/8/08-januari-08.38-ovrigt-jonkoping/",
-    "type": "Övrigt",
+    "id": 481711,
+    "datetime": "2024-01-08 9:25:55 +01:00",
+    "name": "08 januari 07.45, Brand, Sävsjö",
+    "summary": "Rökutveckling i Sävsjöbyggnad",
+    "url": "/aktuellt/handelser/2024/januari/8/08-januari-07.45-brand-savsjo/",
+    "type": "Brand",
     "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
+      "name": "Sävsjö",
+      "gps": "57.398996,14.665814"
+    }
+  },
+  {
+    "id": 481679,
+    "datetime": "2024-01-08 7:19:44 +01:00",
+    "name": "08 januari 06.43, Trafikolycka, Ronneby",
+    "summary": "Två personbilar kolliderar på väg 669 norr om Johannishus.",
+    "url": "/aktuellt/handelser/2024/januari/8/08-januari-06.43-trafikolycka-ronneby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 481707,
+    "datetime": "2024-01-08 9:09:49 +01:00",
+    "name": "08 januari 09.00, Brand, Örebro",
+    "summary": "En lastbil har börjat brinna i samband med start",
+    "url": "/aktuellt/handelser/2024/januari/8/08-januari-09.00-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 481691,
+    "datetime": "2024-01-08 8:53:49 +01:00",
+    "name": "08 januari 08.17, Trafikolycka, Växjö",
+    "summary": "En personbil kör av vägen på riksväg 25 väster om Växjö.",
+    "url": "/aktuellt/handelser/2024/januari/8/08-januari-08.17-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 481689,
+    "datetime": "2024-01-08 8:39:06 +01:00",
+    "name": "08 januari 08.38, Övrigt, Jönköping",
+    "summary": "Information till media med anledning av gårdagens händelse där en polis skadades livshotande och en gärningsma",
+    "url": "/aktuellt/handelser/2024/januari/8/08-januari-08.38-ovrigt-jonkoping/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -105,18 +153,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 481679,
-    "datetime": "2024-01-08 7:19:44 +01:00",
-    "name": "08 januari 06.43, Trafikolycka, Ronneby",
-    "summary": "Två personbilar kolliderar på väg 669 norr om Johannishus.",
-    "url": "/aktuellt/handelser/2024/januari/8/08-januari-06.43-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
     }
   },
   {
@@ -5957,42 +5993,6 @@
     "name": "30 december 10.02, Övrigt, Stockholm",
     "summary": "Avliden person anräffas vid Frescati av förbipasserande",
     "url": "/aktuellt/handelser/2023/december/30/30-december-10.02-ovrigt-stockholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 480597,
-    "datetime": "2023-12-30 9:06:45 +01:00",
-    "name": "30 december 08.18, Trafikolycka, Timrå",
-    "summary": "Trafikolycka i Sörberge, Timrå.",
-    "url": "/aktuellt/handelser/2023/december/30/30-december-08.18-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 480602,
-    "datetime": "2023-12-30 11:05:05 +01:00",
-    "name": "30 december 11.04, Trafikkontroll, Jämtlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2023/december/30/30-december-11.04-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 480601,
-    "datetime": "2023-12-30 10:45:56 +01:00",
-    "name": "30 december 09.05, Övrigt, Stockholm",
-    "summary": "En person hittad avliden utomhus av förbipasserande.",
-    "url": "/aktuellt/handelser/2023/december/30/30-december-09.05-ovrigt-stockholm/",
     "type": "Övrigt",
     "location": {
       "name": "Stockholm",
