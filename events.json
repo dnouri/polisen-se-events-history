@@ -1,5 +1,65 @@
 [
   {
+    "id": 483440,
+    "datetime": "2024-01-11 18:37:42 +01:00",
+    "name": "11 januari 18.29, Trafikolycka, Bromölla",
+    "summary": "Två personbilar i olycka, E22.",
+    "url": "/aktuellt/handelser/2024/januari/11/11-januari-18.29-trafikolycka-bromolla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Bromölla",
+      "gps": "56.074362,14.477659"
+    }
+  },
+  {
+    "id": 483433,
+    "datetime": "2024-01-11 17:10:46 +01:00",
+    "name": "11 januari 16.49, Trafikolycka, Laxå",
+    "summary": "Två personbilar uppges ha kolliderat på Lv204 vid korsningen med Lv533 vid Röfors.",
+    "url": "/aktuellt/handelser/2024/januari/11/11-januari-16.49-trafikolycka-laxa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
+    "id": 483439,
+    "datetime": "2024-01-11 18:36:46 +01:00",
+    "name": "11 januari 17.05, Mord/dråp, Skellefteå",
+    "summary": "Centrala Skellefteå, en avliden kvinna påträffas utomhus",
+    "url": "/aktuellt/handelser/2024/januari/11/11-januari-17.05-morddrap-skelleftea/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 483429,
+    "datetime": "2024-01-11 16:49:20 +01:00",
+    "name": "11 januari 15.24, Vållande till kroppsskada, Halmstad",
+    "summary": "På en adress i kommunen har ett mindre barn fallit ut från ett fönster på andra våningen. Händelseförloppet är",
+    "url": "/aktuellt/handelser/2024/januari/11/11-januari-15.24-vallande-till-kroppsskada-halmstad/",
+    "type": "Vållande till kroppsskada",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 483438,
+    "datetime": "2024-01-11 18:32:59 +01:00",
+    "name": "11 januari 18.17, Brand, Ystad",
+    "summary": "Brand i villa, Sövestadsbygden.",
+    "url": "/aktuellt/handelser/2024/januari/11/11-januari-18.17-brand-ystad/",
+    "type": "Brand",
+    "location": {
+      "name": "Ystad",
+      "gps": "55.429505,13.820031"
+    }
+  },
+  {
     "id": 483432,
     "datetime": "2024-01-11 17:04:41 +01:00",
     "name": "11 januari 16.50, Trafikolycka, Kristinehamn",
@@ -45,30 +105,6 @@
     "location": {
       "name": "Skara",
       "gps": "58.386013,13.439328"
-    }
-  },
-  {
-    "id": 483433,
-    "datetime": "2024-01-11 17:10:46 +01:00",
-    "name": "11 januari 16.49, Trafikolycka, Laxå",
-    "summary": "Två personbilar uppges ha kolliderat på Lv204 vid korsningen med Lv533 vid Röfors.",
-    "url": "/aktuellt/handelser/2024/januari/11/11-januari-16.49-trafikolycka-laxa/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Laxå",
-      "gps": "58.98269,14.62289"
-    }
-  },
-  {
-    "id": 483429,
-    "datetime": "2024-01-11 16:49:20 +01:00",
-    "name": "11 januari 15.24, Vållande till kroppsskada, Halmstad",
-    "summary": "På en adress i kommunen har ett mindre barn fallit ut från ett fönster på andra våningen. Händelseförloppet är",
-    "url": "/aktuellt/handelser/2024/januari/11/11-januari-15.24-vallande-till-kroppsskada-halmstad/",
-    "type": "Vållande till kroppsskada",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 480963,
-    "datetime": "2024-01-04 7:23:12 +01:00",
-    "name": "04 januari 07.18, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/januari/4/04-januari-07.18-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 480962,
-    "datetime": "2024-01-04 7:18:40 +01:00",
-    "name": "04 januari 07.16, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/januari/4/04-januari-07.16-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 480957,
-    "datetime": "2024-01-04 7:15:01 +01:00",
-    "name": "04 januari 07.14, Sammanfattning kväll och natt, Västerbottens län",
-    "summary": "Ett urval av nattens händelser:",
-    "url": "/aktuellt/handelser/2024/januari/4/04-januari-07.14-sammanfattning-kvall-och-natt-vasterbottens-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
