@@ -1,5 +1,17 @@
 [
   {
+    "id": 484063,
+    "datetime": "2024-01-15 14:46:05 +01:00",
+    "name": "15 januari 14.31, Trafikolycka, Trelleborg",
+    "summary": "En trafikolycka inträffar mellan två personbilar på väg 101 utanför Hönsinge.",
+    "url": "/aktuellt/handelser/2024/januari/15/15-januari-14.31-trafikolycka-trelleborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
     "id": 484067,
     "datetime": "2024-01-15 15:24:12 +01:00",
     "name": "15 januari 13.15, Misshandel, Borås",
@@ -9,6 +21,54 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 484072,
+    "datetime": "2024-01-15 16:06:00 +01:00",
+    "name": "15 januari 15.22, Trafikbrott, Luleå",
+    "summary": "Notviken, bilist stoppad efter hastighetsöverträdelse på riksväg 97",
+    "url": "/aktuellt/handelser/2024/januari/15/15-januari-15.22-trafikbrott-lulea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 484071,
+    "datetime": "2024-01-15 16:05:46 +01:00",
+    "name": "15 januari 13.04, Rån väpnat, Askersund",
+    "summary": "En matvarubutik i Åsbro utsattes strax efter lunch för ett väpnat rån.",
+    "url": "/aktuellt/handelser/2024/januari/15/15-januari-13.04-ran-vapnat-askersund/",
+    "type": "Rån väpnat",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 484070,
+    "datetime": "2024-01-15 16:02:46 +01:00",
+    "name": "15 januari 15.08, Trafikolycka, Piteå",
+    "summary": "Zonområdet, larm om påkörd person",
+    "url": "/aktuellt/handelser/2024/januari/15/15-januari-15.08-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 484069,
+    "datetime": "2024-01-15 15:53:02 +01:00",
+    "name": "15 januari 14.18, Trafikbrott, Berg",
+    "summary": "Länsväg 316, trafikant stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/januari/15/15-januari-14.18-trafikbrott-berg/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
     }
   },
   {
@@ -33,18 +93,6 @@
     "location": {
       "name": "Uddevalla",
       "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 484063,
-    "datetime": "2024-01-15 14:46:05 +01:00",
-    "name": "15 januari 14.31, Trafikolycka, Trelleborg",
-    "summary": "En trafikolycka inträffar mellan två personbilar på väg 101 utanför Hönsinge.",
-    "url": "/aktuellt/handelser/2024/januari/15/15-januari-14.31-trafikolycka-trelleborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Trelleborg",
-      "gps": "55.376243,13.157423"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 481683,
-    "datetime": "2024-01-08 7:37:40 +01:00",
-    "name": "07 januari 23.01, Olaga intrång, Gävle",
-    "summary": "Olaga intrång i flerfamiljshus.",
-    "url": "/aktuellt/handelser/2024/januari/7/07-januari-23.01-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 481681,
-    "datetime": "2024-01-08 7:22:10 +01:00",
-    "name": "08 januari 06.17, Trafikolycka, Eslöv",
-    "summary": "En singelolycka med en personbil inträffar på E22 väster om Hurva.",
-    "url": "/aktuellt/handelser/2024/januari/8/08-januari-06.17-trafikolycka-eslov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 481680,
-    "datetime": "2024-01-08 7:21:39 +01:00",
-    "name": "08 januari 07.12, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en lugn natt ur polisiär synvinkel",
-    "url": "/aktuellt/handelser/2024/januari/8/08-januari-07.12-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 481678,
-    "datetime": "2024-01-08 7:13:33 +01:00",
-    "name": "08 januari 04.32, Stöld, Lund",
-    "summary": "Polis larmas till Thulehemsvägen med anledning av en misstänkt stöld ur ett fordon.",
-    "url": "/aktuellt/handelser/2024/januari/8/08-januari-04.32-stold-lund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   }
 ]
