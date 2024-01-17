@@ -1,5 +1,77 @@
 [
   {
+    "id": 484263,
+    "datetime": "2024-01-17 8:07:55 +01:00",
+    "name": "17 januari 07.59, Trafikolycka, Karlstad",
+    "summary": "En trafikolycka mellan två fordon har inträffat på E18 i Karlstad.",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-07.59-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 484261,
+    "datetime": "2024-01-17 7:59:56 +01:00",
+    "name": "17 januari 20.06, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-20.06-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 484260,
+    "datetime": "2024-01-17 7:59:48 +01:00",
+    "name": "17 januari 20.06, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-20.06-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 484262,
+    "datetime": "2024-01-17 7:59:36 +01:00",
+    "name": "17 januari 20.06, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-20.06-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 484257,
+    "datetime": "2024-01-17 7:57:16 +01:00",
+    "name": "17 januari 00.34, Brand, Tyresö",
+    "summary": "Bilbrand i Tyresö",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-00.34-brand-tyreso/",
+    "type": "Brand",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
+    "id": 484259,
+    "datetime": "2024-01-17 7:57:12 +01:00",
+    "name": "17 januari 00.43, Övrigt, Sigtuna",
+    "summary": "En man grips efter att ha uttalat ett bombhot på Arlanda.",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-00.43-ovrigt-sigtuna/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
     "id": 484256,
     "datetime": "2024-01-17 7:24:43 +01:00",
     "name": "17 januari 07.24, Trafikolycka, Sundsvall",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 483053,
-    "datetime": "2024-01-09 19:55:46 +01:00",
-    "name": "09 januari 19.40, Brand, Malmö",
-    "summary": "Brand i fordon på Derbyvägen.",
-    "url": "/aktuellt/handelser/2024/januari/9/09-januari-19.40-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 483051,
-    "datetime": "2024-01-09 19:36:05 +01:00",
-    "name": "09 januari 17.14, Arbetsplatsolycka, Kungsbacka",
-    "summary": "Arbetsplatsolycka vid Hede.",
-    "url": "/aktuellt/handelser/2024/januari/9/09-januari-17.14-arbetsplatsolycka-kungsbacka/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 483045,
-    "datetime": "2024-01-09 18:55:27 +01:00",
-    "name": "09 januari 18.47, Trafikolycka, Östersund",
-    "summary": "Östersund, trafikolycka på Söder.",
-    "url": "/aktuellt/handelser/2024/januari/9/09-januari-18.47-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 483050,
-    "datetime": "2024-01-09 19:34:38 +01:00",
-    "name": "09 januari 19.30, Trafikolycka, Malmö",
-    "summary": "Singelolycka på Geijersgatan.",
-    "url": "/aktuellt/handelser/2024/januari/9/09-januari-19.30-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 483041,
-    "datetime": "2024-01-09 17:34:16 +01:00",
-    "name": "09 januari 17.24, Trafikolycka, Säter",
-    "summary": "En trafikolycka har inträffat på Rv 69/ Lv771.",
-    "url": "/aktuellt/handelser/2024/januari/9/09-januari-17.24-trafikolycka-sater/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Säter",
-      "gps": "60.34665,15.7479"
-    }
-  },
-  {
-    "id": 483044,
-    "datetime": "2024-01-09 18:39:15 +01:00",
-    "name": "09 januari 18.28, Trafikolycka, Skellefteå",
-    "summary": "Singelolycka på E4 söder om Skellefteå",
-    "url": "/aktuellt/handelser/2024/januari/9/09-januari-18.28-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
