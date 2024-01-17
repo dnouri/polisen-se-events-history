@@ -1,14 +1,50 @@
 [
   {
-    "id": 484307,
-    "datetime": "2024-01-17 10:51:06 +01:00",
-    "name": "17 januari 10.47, Trafikolycka, Askersund",
-    "summary": "En trafikolycka har inträffat på Rv 50 i höjd med Stjänsundsslott.",
-    "url": "/aktuellt/handelser/2024/januari/17/17-januari-10.47-trafikolycka-askersund/",
+    "id": 484323,
+    "datetime": "2024-01-17 12:40:19 +01:00",
+    "name": "17 januari 12.39, Åldringsbrott, Örebro",
+    "summary": "Det kommer in flera samtal till polisen om misstänkta åldringsbrott.",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-12.39-aldringsbrott-orebro/",
+    "type": "Åldringsbrott",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 484324,
+    "datetime": "2024-01-17 12:38:56 +01:00",
+    "name": "17 januari 10.14, Ofredande/förargelse, Östersund",
+    "summary": "Polis till campus efter larm om bråk.",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-10.14-ofredandeforargelse-ostersund/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 484322,
+    "datetime": "2024-01-17 12:34:18 +01:00",
+    "name": "17 januari 12.32, Trafikolycka, Eksjö",
+    "summary": "Olycka skapar trafikproblem i Eksjö",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-12.32-trafikolycka-eksjo/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
+      "name": "Eksjö",
+      "gps": "57.665165,14.973221"
+    }
+  },
+  {
+    "id": 484321,
+    "datetime": "2024-01-17 12:27:49 +01:00",
+    "name": "17 januari 10.46, Trafikolycka, Sollefteå",
+    "summary": "Trafikolycka på länsväg 331 Åkroken, Graninge.",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-10.46-trafikolycka-solleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
     }
   },
   {
@@ -21,6 +57,18 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 484307,
+    "datetime": "2024-01-17 10:51:06 +01:00",
+    "name": "17 januari 10.47, Trafikolycka, Askersund",
+    "summary": "En trafikolycka har inträffat på Rv 50 i höjd med Stjänsundsslott.",
+    "url": "/aktuellt/handelser/2024/januari/17/17-januari-10.47-trafikolycka-askersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 483206,
-    "datetime": "2024-01-10 7:43:05 +01:00",
-    "name": "10 januari 07.41, Sammanfattning natt, Värmlands län",
-    "summary": "Det har polisiärt sett varit en lugn natt i länet.",
-    "url": "/aktuellt/handelser/2024/januari/10/10-januari-07.41-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 483205,
-    "datetime": "2024-01-10 7:42:47 +01:00",
-    "name": "10 januari 07.41, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2024/januari/10/10-januari-07.41-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 483204,
-    "datetime": "2024-01-10 7:42:09 +01:00",
-    "name": "10 januari 07.41, Sammanfattning natt, Örebro län",
-    "summary": "Det har polisiärt sett varit en lugn natt i länet.",
-    "url": "/aktuellt/handelser/2024/januari/10/10-januari-07.41-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 483203,
-    "datetime": "2024-01-10 7:22:54 +01:00",
-    "name": "10 januari 07.21, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är i tjänst. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/januari/10/10-januari-07.21-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
