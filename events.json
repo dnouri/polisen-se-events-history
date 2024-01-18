@@ -1,5 +1,65 @@
 [
   {
+    "id": 484473,
+    "datetime": "2024-01-18 14:52:56 +01:00",
+    "name": "18 januari 13.43, Trafikolycka, Sundsvall",
+    "summary": "Larm om trafikolycka på Sidsjövägen.",
+    "url": "/aktuellt/handelser/2024/januari/18/18-januari-13.43-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 484478,
+    "datetime": "2024-01-18 15:16:46 +01:00",
+    "name": "18 januari 14.44, Trafikolycka, personskada, Uddevalla",
+    "summary": "En lastbil och en personbil är involverade i en olycka på länsväg 697.",
+    "url": "/aktuellt/handelser/2024/januari/18/18-januari-14.44-trafikolycka-personskada-uddevalla/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 484476,
+    "datetime": "2024-01-18 15:15:36 +01:00",
+    "name": "18 januari 14.21, Trafikolycka, Östersund",
+    "summary": "Larm om trafikolycka på E45, söder om Brunflo.",
+    "url": "/aktuellt/handelser/2024/januari/18/18-januari-14.21-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 484469,
+    "datetime": "2024-01-18 14:26:25 +01:00",
+    "name": "18 januari 14.10, Trafikolycka, personskada, Kristinehamn",
+    "summary": "En person har blivit påkörd av en bilist på Västgötagatan",
+    "url": "/aktuellt/handelser/2024/januari/18/18-januari-14.10-trafikolycka-personskada-kristinehamn/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 484448,
+    "datetime": "2024-01-18 13:48:22 +01:00",
+    "name": "18 januari 12.17, Trafikhinder, Kramfors",
+    "summary": "Trafikhinder på länsväg 848 Körning, Nordingrå.",
+    "url": "/aktuellt/handelser/2024/januari/18/18-januari-12.17-trafikhinder-kramfors/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
     "id": 484422,
     "datetime": "2024-01-18 10:49:12 +01:00",
     "name": "18 januari 09.57, Trafikolycka, Skellefteå",
@@ -24,18 +84,6 @@
     }
   },
   {
-    "id": 484469,
-    "datetime": "2024-01-18 14:26:25 +01:00",
-    "name": "18 januari 14.10, Trafikolycka, personskada, Kristinehamn",
-    "summary": "En person har blivit påkörd av en bilist på Västgötagatan",
-    "url": "/aktuellt/handelser/2024/januari/18/18-januari-14.10-trafikolycka-personskada-kristinehamn/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
     "id": 484451,
     "datetime": "2024-01-18 13:52:29 +01:00",
     "name": "18 januari 13.43, Trafikolycka, Motala",
@@ -45,18 +93,6 @@
     "location": {
       "name": "Motala",
       "gps": "58.538034,15.047094"
-    }
-  },
-  {
-    "id": 484448,
-    "datetime": "2024-01-18 13:48:22 +01:00",
-    "name": "18 januari 12.17, Trafikhinder, Kramfors",
-    "summary": "Trafikhinder på länsväg 848 Körning, Nordingrå.",
-    "url": "/aktuellt/handelser/2024/januari/18/18-januari-12.17-trafikhinder-kramfors/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 483398,
-    "datetime": "2024-01-11 13:52:13 +01:00",
-    "name": "11 januari 10.50, Övrigt, Uppsala",
-    "summary": "Polisen utreder ett misstänkt farligt föremål i Almunge.",
-    "url": "/aktuellt/handelser/2024/januari/11/11-januari-10.50-ovrigt-uppsala/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 483397,
-    "datetime": "2024-01-11 13:47:20 +01:00",
-    "name": "11 januari 12.57, Trafikkontroll, Skellefteå",
-    "summary": "Resultat efter en trafikkontroll i Bygdsiljum.",
-    "url": "/aktuellt/handelser/2024/januari/11/11-januari-12.57-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 483396,
-    "datetime": "2024-01-11 13:43:50 +01:00",
-    "name": "11 januari 12.52, Hemfridsbrott, Forshaga",
-    "summary": "En man har blivit avvisad från en adress i Forshaga kommun",
-    "url": "/aktuellt/handelser/2024/januari/11/11-januari-12.52-hemfridsbrott-forshaga/",
-    "type": "Hemfridsbrott",
-    "location": {
-      "name": "Forshaga",
-      "gps": "59.529761,13.486084"
     }
   }
 ]
