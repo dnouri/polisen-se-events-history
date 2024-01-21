@@ -1,5 +1,17 @@
 [
   {
+    "id": 484750,
+    "datetime": "2024-01-21 10:17:33 +01:00",
+    "name": "21 januari 02.56, Knivlagen, Karlstad",
+    "summary": "Fylleri m.m. i samband med krogstängning.",
+    "url": "/aktuellt/handelser/2024/januari/21/21-januari-02.56-knivlagen-karlstad/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 484746,
     "datetime": "2024-01-21 9:39:34 +01:00",
     "name": "21 januari 09.18, Trafikolycka, singel, Älvdalen",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Älvdalen",
       "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 484749,
+    "datetime": "2024-01-21 9:57:27 +01:00",
+    "name": "21 januari 01.03, Knivlagen, Karlstad",
+    "summary": "Fylleri samt brott mot knivlagen.",
+    "url": "/aktuellt/handelser/2024/januari/21/21-januari-01.03-knivlagen-karlstad/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 484748,
+    "datetime": "2024-01-21 9:57:05 +01:00",
+    "name": "21 januari 06.19, Stöld, Skellefteå",
+    "summary": "Skellefteå, fem frihetsberövade misstänkta för stöld.",
+    "url": "/aktuellt/handelser/2024/januari/21/21-januari-06.19-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 484747,
+    "datetime": "2024-01-21 9:50:30 +01:00",
+    "name": "21 januari 00.28, Stöld/inbrott, Karlstad",
+    "summary": "Inbrott i kontor i området Våxnäs strax efter midnatt.",
+    "url": "/aktuellt/handelser/2024/januari/21/21-januari-00.28-stoldinbrott-karlstad/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 483721,
-    "datetime": "2024-01-14 8:00:29 +01:00",
-    "name": "14 januari 07.57, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av dygnets händelser.",
-    "url": "/aktuellt/handelser/2024/januari/14/14-januari-07.57-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 483707,
-    "datetime": "2024-01-14 8:00:23 +01:00",
-    "name": "14 januari 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/januari/14/14-januari-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 483720,
-    "datetime": "2024-01-14 8:00:21 +01:00",
-    "name": "14 januari 07.55, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av dygnets händelser.",
-    "url": "/aktuellt/handelser/2024/januari/14/14-januari-07.55-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 483709,
-    "datetime": "2024-01-14 7:59:58 +01:00",
-    "name": "14 januari 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/januari/14/14-januari-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
