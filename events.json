@@ -1,5 +1,29 @@
 [
   {
+    "id": 485080,
+    "datetime": "2024-01-24 15:09:12 +01:00",
+    "name": "24 januari 14.01, Rattfylleri, Piteå",
+    "summary": "Piteå, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2024/januari/24/24-januari-14.01-rattfylleri-pitea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 485059,
+    "datetime": "2024-01-24 12:26:31 +01:00",
+    "name": "24 januari 11.35, Trafikolycka, Sundsvall",
+    "summary": "Trafikolycka på E4 i höjd med Maj.",
+    "url": "/aktuellt/handelser/2024/januari/24/24-januari-11.35-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 485078,
     "datetime": "2024-01-24 14:11:24 +01:00",
     "name": "24 januari 14.03, Övrigt, Avesta",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Avesta",
       "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 485044,
+    "datetime": "2024-01-24 14:55:11 +01:00",
+    "name": "24 januari 14.55, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2024/januari/24/24-januari-14.55-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -114,18 +150,6 @@
     "summary": "Sundsvall, larm om brand i byggnad.",
     "url": "/aktuellt/handelser/2024/januari/24/24-januari-11.20-brand-sundsvall/",
     "type": "Brand",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 485059,
-    "datetime": "2024-01-24 12:26:31 +01:00",
-    "name": "24 januari 11.35, Trafikolycka, Sundsvall",
-    "summary": "Trafikolycka på E4 i höjd med Maj.",
-    "url": "/aktuellt/handelser/2024/januari/24/24-januari-11.35-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Härryda",
       "gps": "57.691744,12.294416"
-    }
-  },
-  {
-    "id": 484267,
-    "datetime": "2024-01-17 8:43:07 +01:00",
-    "name": "17 januari 07.46, Trafikolycka, singel, Arvika",
-    "summary": "En lastbil är dikeskörd påLv 885 Hundviken, Gunnarsskog.",
-    "url": "/aktuellt/handelser/2024/januari/17/17-januari-07.46-trafikolycka-singel-arvika/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 484258,
-    "datetime": "2024-01-17 8:41:05 +01:00",
-    "name": "17 januari 07.21, Trafikolycka, Vårgårda",
-    "summary": "Två fordon i kollision",
-    "url": "/aktuellt/handelser/2024/januari/17/17-januari-07.21-trafikolycka-vargarda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vårgårda",
-      "gps": "58.032304,12.808976"
     }
   }
 ]
