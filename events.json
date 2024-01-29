@@ -1,10 +1,46 @@
 [
   {
-    "id": 486353,
-    "datetime": "2024-01-29 16:38:51 +01:00",
-    "name": "29 januari 13.09, Stöld, Umeå",
-    "summary": "Centrala stan, man misstänks för ringa stöld i butik",
-    "url": "/aktuellt/handelser/2024/januari/29/29-januari-13.09-stold-umea/",
+    "id": 486357,
+    "datetime": "2024-01-29 17:15:06 +01:00",
+    "name": "29 januari 17.08, Trafikolycka, personskada, Eksjö",
+    "summary": "Skogsmaskin och bil i krock - en skadad",
+    "url": "/aktuellt/handelser/2024/januari/29/29-januari-17.08-trafikolycka-personskada-eksjo/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Eksjö",
+      "gps": "57.665165,14.973221"
+    }
+  },
+  {
+    "id": 486356,
+    "datetime": "2024-01-29 17:03:01 +01:00",
+    "name": "29 januari 16.39, Trafikolycka, singel, Falköping",
+    "summary": "En personbil är involverad i en olycka på riksväg 47 vid Marka.",
+    "url": "/aktuellt/handelser/2024/januari/29/29-januari-16.39-trafikolycka-singel-falkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Falköping",
+      "gps": "58.175029,13.553217"
+    }
+  },
+  {
+    "id": 486329,
+    "datetime": "2024-01-29 13:29:45 +01:00",
+    "name": "29 januari 13.29, Brand, Norrköping",
+    "summary": "SOS-larm om brand på Smedstugugatan.",
+    "url": "/aktuellt/handelser/2024/januari/29/29-januari-13.29-brand-norrkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 486355,
+    "datetime": "2024-01-29 16:52:06 +01:00",
+    "name": "29 januari 15.38, Stöld, Umeå",
+    "summary": "Ersboda, ung person stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2024/januari/29/29-januari-15.38-stold-umea/",
     "type": "Stöld",
     "location": {
       "name": "Umeå",
@@ -21,6 +57,18 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 486353,
+    "datetime": "2024-01-29 16:38:51 +01:00",
+    "name": "29 januari 13.09, Stöld, Umeå",
+    "summary": "Centrala stan, man misstänks för ringa stöld i butik",
+    "url": "/aktuellt/handelser/2024/januari/29/29-januari-13.09-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -81,18 +129,6 @@
     "location": {
       "name": "Nordmaling",
       "gps": "63.567106,19.505022"
-    }
-  },
-  {
-    "id": 486329,
-    "datetime": "2024-01-29 13:29:45 +01:00",
-    "name": "29 januari 13.29, Brand, Norrköping",
-    "summary": "SOS-larm om brand på Smedstugugatan.",
-    "url": "/aktuellt/handelser/2024/januari/29/29-januari-13.29-brand-norrkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 484793,
-    "datetime": "2024-01-22 8:59:26 +01:00",
-    "name": "22 januari 08.46, Trafikbrott, Luleå",
-    "summary": "Storheden, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/januari/22/22-januari-08.46-trafikbrott-lulea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 484790,
-    "datetime": "2024-01-22 8:33:21 +01:00",
-    "name": "22 januari 08.29, Trafikolycka, personskada, Nässjö",
-    "summary": "Singelolycka - stor påverkan på vägen.",
-    "url": "/aktuellt/handelser/2024/januari/22/22-januari-08.29-trafikolycka-personskada-nassjo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
-    }
-  },
-  {
-    "id": 484789,
-    "datetime": "2024-01-22 8:33:14 +01:00",
-    "name": "22 januari 08.17, Trafikkontroll, Älvsbyn",
-    "summary": "Centrum, resultat efter trafikkontroll vid Badhusgatan/Idrottsstigen",
-    "url": "/aktuellt/handelser/2024/januari/22/22-januari-08.17-trafikkontroll-alvsbyn/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Älvsbyn",
-      "gps": "65.677136,20.992866"
     }
   }
 ]
