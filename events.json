@@ -1,5 +1,65 @@
 [
   {
+    "id": 486422,
+    "datetime": "2024-01-30 11:11:02 +01:00",
+    "name": "30 januari 09.05, Trafikkontroll, Östersund",
+    "summary": "Länsväg 339, Lit. Polisen kontrollerar nykterhet i trafiken",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-09.05-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 486421,
+    "datetime": "2024-01-30 11:06:55 +01:00",
+    "name": "30 januari 09.16, Trafikkontroll, Sundsvall",
+    "summary": "Stenstan, polisen kontrollerar trafiken",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-09.16-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 486419,
+    "datetime": "2024-01-30 11:01:30 +01:00",
+    "name": "30 januari 10.42, Trafikolycka, Stockholm",
+    "summary": "En personbil och en lastbil har krockat med varandra på Essingeleden vid Kristineberg i norrgående färdriktnin",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-10.42-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 486402,
+    "datetime": "2024-01-30 8:40:40 +01:00",
+    "name": "30 januari 08.19, Brand, Göteborg",
+    "summary": "Brand på gruppboende, Kortedala",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-08.19-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 486401,
+    "datetime": "2024-01-30 10:58:23 +01:00",
+    "name": "30 januari 05.09, Trafikbrott, Tanum",
+    "summary": "E6, Rabbalshede",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-05.09-trafikbrott-tanum/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
     "id": 486417,
     "datetime": "2024-01-30 10:30:19 +01:00",
     "name": "30 januari 08.56, Rattfylleri, Sunne",
@@ -81,18 +141,6 @@
     "location": {
       "name": "Kalix",
       "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 486402,
-    "datetime": "2024-01-30 8:40:40 +01:00",
-    "name": "30 januari 08.19, Brand, Göteborg",
-    "summary": "Brand på gruppboende, Kortedala",
-    "url": "/aktuellt/handelser/2024/januari/30/30-januari-08.19-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 484885,
-    "datetime": "2024-01-22 21:36:21 +01:00",
-    "name": "22 januari 20.00, Rattfylleri, Grums",
-    "summary": "En man i tjugoårsåldern misstänks för rattfylleri efter att ha kontrollerats i Grums.",
-    "url": "/aktuellt/handelser/2024/januari/22/22-januari-20.00-rattfylleri-grums/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
-    }
-  },
-  {
-    "id": 484884,
-    "datetime": "2024-01-22 21:27:40 +01:00",
-    "name": "22 januari 17.23, Trafikolycka, Sollefteå",
-    "summary": "Trafikolycka på länsväg 335 Sollefteå.",
-    "url": "/aktuellt/handelser/2024/januari/22/22-januari-17.23-trafikolycka-solleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 484883,
-    "datetime": "2024-01-22 21:17:01 +01:00",
-    "name": "22 januari 20.56, Rån, Landskrona",
-    "summary": "Ett rån sker i en butik i centrala Landskorna.",
-    "url": "/aktuellt/handelser/2024/januari/22/22-januari-20.56-ran-landskrona/",
-    "type": "Rån",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 484882,
-    "datetime": "2024-01-22 20:35:18 +01:00",
-    "name": "22 januari 20.35, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Flertalet viltolyckor i länet på måndagen.",
-    "url": "/aktuellt/handelser/2024/januari/22/22-januari-20.35-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
