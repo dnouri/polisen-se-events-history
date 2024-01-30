@@ -1,5 +1,89 @@
 [
   {
+    "id": 487734,
+    "datetime": "2024-01-30 13:33:14 +01:00",
+    "name": "30 januari 13.29, Arbetsplatsolycka, Nässjö",
+    "summary": "En avförd med ambulans efter arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-13.29-arbetsplatsolycka-nassjo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 487732,
+    "datetime": "2024-01-30 13:30:01 +01:00",
+    "name": "30 januari 11.38, Narkotikabrott, Umeå",
+    "summary": "Centrala stan, en man uppträder påverkat på ett hotell",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-11.38-narkotikabrott-umea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 487730,
+    "datetime": "2024-01-30 13:16:20 +01:00",
+    "name": "30 januari 13.12, Trafikolycka, personskada, Norrköping",
+    "summary": "Lindriga skador efter frontalkrock",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-13.12-trafikolycka-personskada-norrkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 487729,
+    "datetime": "2024-01-30 13:11:36 +01:00",
+    "name": "30 januari 09.49, Trafikolycka, personskada, Ljusdal",
+    "summary": "Kollision mellan timmerbil och snöskoter.",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-09.49-trafikolycka-personskada-ljusdal/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Ljusdal",
+      "gps": "61.830839,16.08175"
+    }
+  },
+  {
+    "id": 486797,
+    "datetime": "2024-01-30 11:45:52 +01:00",
+    "name": "30 januari 11.32, Trafikolycka, personskada, Eskilstuna",
+    "summary": "Stopp i tågtrafiken",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-11.32-trafikolycka-personskada-eskilstuna/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 487543,
+    "datetime": "2024-01-30 13:05:02 +01:00",
+    "name": "30 januari 12.15, Trafikkontroll, Piteå",
+    "summary": "Nya Älvvägen, Öjebyn. Polisen kontrollerar hastighet",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-12.15-trafikkontroll-pitea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 487170,
+    "datetime": "2024-01-30 12:08:20 +01:00",
+    "name": "30 januari 11.36, Räddningsinsats, Sundbyberg",
+    "summary": "Polisen genomför en räddningsinsats i Rissne. Tågtrafiken har under under denna period stoppats förbi platsen.",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-11.36-raddningsinsats-sundbyberg/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Sundbyberg",
+      "gps": "59.367047,17.966309"
+    }
+  },
+  {
     "id": 487172,
     "datetime": "2024-01-30 12:17:57 +01:00",
     "name": "30 januari 10.02, Sabotage mot blåljusverksamhet, Göteborg",
@@ -24,18 +108,6 @@
     }
   },
   {
-    "id": 487170,
-    "datetime": "2024-01-30 12:08:20 +01:00",
-    "name": "30 januari 11.36, Räddningsinsats, Sundbyberg",
-    "summary": "Polisen genomför en räddningsinsats i Rissne. Tågtrafiken har under under denna period stoppats förbi platsen.",
-    "url": "/aktuellt/handelser/2024/januari/30/30-januari-11.36-raddningsinsats-sundbyberg/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
     "id": 486419,
     "datetime": "2024-01-30 11:01:30 +01:00",
     "name": "30 januari 10.42, Trafikolycka, Stockholm",
@@ -57,18 +129,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 486797,
-    "datetime": "2024-01-30 11:45:52 +01:00",
-    "name": "30 januari 11.32, Trafikolycka, personskada, Eskilstuna",
-    "summary": "Stopp i tågtrafiken",
-    "url": "/aktuellt/handelser/2024/januari/30/30-januari-11.32-trafikolycka-personskada-eskilstuna/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 484896,
-    "datetime": "2024-01-23 7:09:59 +01:00",
-    "name": "23 januari 06.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-06.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 484895,
-    "datetime": "2024-01-23 6:53:10 +01:00",
-    "name": "23 januari 03.51, Stöld, Hässleholm",
-    "summary": "Stöld i Hästveda.",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-03.51-stold-hassleholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 484890,
-    "datetime": "2024-01-23 2:56:11 +01:00",
-    "name": "23 januari 02.47, Rån, Malmö",
-    "summary": "Personrån",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-02.47-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 484894,
-    "datetime": "2024-01-23 6:44:45 +01:00",
-    "name": "23 januari 02.17, Olovlig körning, Eslöv",
-    "summary": "Skåpbil kontrollerad, Föraren saknade körkort",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-02.17-olovlig-korning-eslov/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 484893,
-    "datetime": "2024-01-23 6:42:36 +01:00",
-    "name": "23 januari 02.39, Inbrott, försök, Karlshamn",
-    "summary": "Inbrottsförsök på Transformatorvägen i Mörrum.",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-02.39-inbrott-forsok-karlshamn/",
-    "type": "Inbrott, försök",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
     }
   }
 ]
