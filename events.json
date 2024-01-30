@@ -1,5 +1,65 @@
 [
   {
+    "id": 489493,
+    "datetime": "2024-01-30 21:15:14 +01:00",
+    "name": "30 januari 19.01, Brand, Ängelholm",
+    "summary": "Lägenhetsbrand",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-19.01-brand-angelholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 489492,
+    "datetime": "2024-01-30 20:52:18 +01:00",
+    "name": "30 januari 19.27, Trafikolycka, personskada, Sandviken",
+    "summary": "Olycka vid ett övergångsställe, Sandviken",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-19.27-trafikolycka-personskada-sandviken/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 489491,
+    "datetime": "2024-01-30 20:52:08 +01:00",
+    "name": "30 januari 16.15, Trafikbrott, Gotland",
+    "summary": "Ett privat fordon uppges åka omkring med blåljus.",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-16.15-trafikbrott-gotland/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Gotland",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 489490,
+    "datetime": "2024-01-30 20:51:52 +01:00",
+    "name": "30 januari 19.44, Skadegörelse, Sundsvall",
+    "summary": "Polispatrull beordras till Södermalm med anledning av en skadegörelse.",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-19.44-skadegorelse-sundsvall/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 489489,
+    "datetime": "2024-01-30 20:45:38 +01:00",
+    "name": "30 januari 20.45, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
+    "url": "/aktuellt/handelser/2024/januari/30/30-januari-20.45-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 489108,
     "datetime": "2024-01-30 19:35:38 +01:00",
     "name": "30 januari 19.35, Trafikkontroll, Västerbottens län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 484937,
-    "datetime": "2024-01-23 13:34:19 +01:00",
-    "name": "23 januari 12.28, Fylleri/LOB, Härnösand",
-    "summary": "Bondsjöstaden, man omhändertagen på centralstationen",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-12.28-fyllerilob-harnosand/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 484936,
-    "datetime": "2024-01-23 13:21:29 +01:00",
-    "name": "23 januari 12.17, Stöld, Umeå",
-    "summary": "Centrala stan, tonåring stoppad efter misstänkt stöld i butik",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-12.17-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 484935,
-    "datetime": "2024-01-23 13:09:04 +01:00",
-    "name": "23 januari 10.47, Rattfylleri, Kalix",
-    "summary": "Kalix, bilist kontrollerad av polis",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-10.47-rattfylleri-kalix/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 484934,
-    "datetime": "2024-01-23 11:52:30 +01:00",
-    "name": "23 januari 11.45, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken under morgon och förmiddag",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-11.45-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 484932,
-    "datetime": "2024-01-23 11:27:20 +01:00",
-    "name": "23 januari 11.18, Trafikkontroll, Arvidsjaur",
-    "summary": "E45 Moskosel, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2024/januari/23/23-januari-11.18-trafikkontroll-arvidsjaur/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Arvidsjaur",
-      "gps": "65.592077,19.180283"
     }
   }
 ]
