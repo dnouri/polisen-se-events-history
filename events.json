@@ -1,5 +1,65 @@
 [
   {
+    "id": 499114,
+    "datetime": "2024-01-31 21:09:21 +01:00",
+    "name": "31 januari 20.56, Trafikolycka, Skellefteå",
+    "summary": "Skellefteå, trafikolycka på Bolidenvägen.",
+    "url": "/aktuellt/handelser/2024/januari/31/31-januari-20.56-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 499305,
+    "datetime": "2024-01-31 21:58:22 +01:00",
+    "name": "31 januari 21.13, Stöld, Luleå",
+    "summary": "Luleå, stöld i butik.",
+    "url": "/aktuellt/handelser/2024/januari/31/31-januari-21.13-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 499495,
+    "datetime": "2024-01-31 21:57:44 +01:00",
+    "name": "31 januari 19.22, Narkotikabrott, Östersund",
+    "summary": "Östersund, misstänkt narkotikabrott.",
+    "url": "/aktuellt/handelser/2024/januari/31/31-januari-19.22-narkotikabrott-ostersund/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 499309,
+    "datetime": "2024-01-31 21:49:47 +01:00",
+    "name": "31 januari 21.49, Övrigt, Västra Götalands län",
+    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
+    "url": "/aktuellt/handelser/2024/januari/31/31-januari-21.49-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 499308,
+    "datetime": "2024-01-31 21:49:30 +01:00",
+    "name": "31 januari 21.47, Övrigt, Hallands län",
+    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
+    "url": "/aktuellt/handelser/2024/januari/31/31-januari-21.47-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
     "id": 499306,
     "datetime": "2024-01-31 21:43:08 +01:00",
     "name": "31 januari 20.14, Rattfylleri, Boden",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 499114,
-    "datetime": "2024-01-31 21:09:21 +01:00",
-    "name": "31 januari 20.56, Trafikolycka, Skellefteå",
-    "summary": "Skellefteå, trafikolycka på Bolidenvägen.",
-    "url": "/aktuellt/handelser/2024/januari/31/31-januari-20.56-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 485085,
-    "datetime": "2024-01-24 16:57:33 +01:00",
-    "name": "24 januari 16.36, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på riksväg 97 i Södra Sunderbyn.",
-    "url": "/aktuellt/handelser/2024/januari/24/24-januari-16.36-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 485096,
-    "datetime": "2024-01-24 19:57:58 +01:00",
-    "name": "24 januari 16.06, Rattfylleri, Luleå",
-    "summary": "Misstänkt drograttfylleri i Luleå.",
-    "url": "/aktuellt/handelser/2024/januari/24/24-januari-16.06-rattfylleri-lulea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 485095,
-    "datetime": "2024-01-24 19:55:20 +01:00",
-    "name": "24 januari 17.49, Våld/hot mot tjänsteman, Åre",
-    "summary": "Avlägsnad man misstänks för våldsamt motstånd.",
-    "url": "/aktuellt/handelser/2024/januari/24/24-januari-17.49-valdhot-mot-tjansteman-are/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 485086,
-    "datetime": "2024-01-24 17:23:39 +01:00",
-    "name": "24 januari 17.04, Mord/dråp, försök, Malmö",
-    "summary": "Rosengård. En skadad person anträffas.",
-    "url": "/aktuellt/handelser/2024/januari/24/24-januari-17.04-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
