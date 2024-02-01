@@ -1,5 +1,65 @@
 [
   {
+    "id": 501246,
+    "datetime": "2024-02-01 18:00:37 +01:00",
+    "name": "01 februari 11.44, Knivlagen, Luleå",
+    "summary": "Luleå, person misstänks för brott mot knivlagen.",
+    "url": "/aktuellt/handelser/2024/februari/1/01-februari-11.44-knivlagen-lulea/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 501245,
+    "datetime": "2024-02-01 17:54:02 +01:00",
+    "name": "01 februari 16.38, Sedlighetsbrott, Huddinge",
+    "summary": "Polisen får samtal om att en man på en buss har tagit på en kvinna.",
+    "url": "/aktuellt/handelser/2024/februari/1/01-februari-16.38-sedlighetsbrott-huddinge/",
+    "type": "Sedlighetsbrott",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 501244,
+    "datetime": "2024-02-01 17:51:07 +01:00",
+    "name": "01 februari 17.40, Trafikolycka, Göteborg",
+    "summary": "En person har blivit påkörd på Hjalmar Brantingsgatan.",
+    "url": "/aktuellt/handelser/2024/februari/1/01-februari-17.40-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 501243,
+    "datetime": "2024-02-01 17:44:50 +01:00",
+    "name": "01 februari 17.38, Misshandel, grov, Jönköping",
+    "summary": "Två skadade efter grovt brott",
+    "url": "/aktuellt/handelser/2024/februari/1/01-februari-17.38-misshandel-grov-jonkoping/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 501239,
+    "datetime": "2024-02-01 16:39:29 +01:00",
+    "name": "01 februari 16.23, Trafikolycka, Luleå",
+    "summary": "Trafikolycka söder om Luleå.",
+    "url": "/aktuellt/handelser/2024/februari/1/01-februari-16.23-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 501242,
     "datetime": "2024-02-01 17:37:30 +01:00",
     "name": "01 februari 15.31, Åldringsbrott, Nacka",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 501239,
-    "datetime": "2024-02-01 16:39:29 +01:00",
-    "name": "01 februari 16.23, Trafikolycka, Luleå",
-    "summary": "Trafikolycka söder om Luleå.",
-    "url": "/aktuellt/handelser/2024/februari/1/01-februari-16.23-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 485775,
-    "datetime": "2024-01-25 16:51:57 +01:00",
-    "name": "25 januari 15.22, Trafikolycka, personskada, Göteborg",
-    "summary": "Vid ett övergångsställe i korsningen Musikvägen/Marconigatan blir en kvinna i 80-årsåldern påkörd av en moped.",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-15.22-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 485739,
-    "datetime": "2024-01-25 15:42:24 +01:00",
-    "name": "25 januari 15.09, Brand, Lerum",
-    "summary": "Ett lastbilssläp har fattat eld på E20 i höjd med Hulanmotet, Lerum, i riktning mot Göteborg.",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-15.09-brand-lerum/",
-    "type": "Brand",
-    "location": {
-      "name": "Lerum",
-      "gps": "57.769484,12.26882"
-    }
-  },
-  {
-    "id": 485732,
-    "datetime": "2024-01-25 16:36:22 +01:00",
-    "name": "25 januari 16.36, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat i urval från dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-16.36-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 485743,
-    "datetime": "2024-01-25 15:47:01 +01:00",
-    "name": "25 januari 14.27, Misshandel, Göteborg",
-    "summary": "Polisen får larm om ett större bråk vid Burgårdens gymnasium. Ett 30-tal personer uppges vara involverade.",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-14.27-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
