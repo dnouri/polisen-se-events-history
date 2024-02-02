@@ -1,5 +1,113 @@
 [
   {
+    "id": 501294,
+    "datetime": "2024-02-02 8:12:48 +01:00",
+    "name": "02 februari 07.56, Trafikolycka, Årjäng",
+    "summary": "En trafikolycka har inträffat påE18 Holmedal",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-07.56-trafikolycka-arjang/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Årjäng",
+      "gps": "59.389159,12.132717"
+    }
+  },
+  {
+    "id": 501293,
+    "datetime": "2024-02-02 8:04:38 +01:00",
+    "name": "02 februari 00.00, Våldtäkt, Östersund",
+    "summary": "Polisen har gripit en man i 30-årsåldern i Östersunds kommun, misstänkt för våldtäkt.",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-00.00-valdtakt-ostersund/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 501289,
+    "datetime": "2024-02-02 7:57:58 +01:00",
+    "name": "02 februari 07.57, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-07.57-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 501287,
+    "datetime": "2024-02-02 7:56:55 +01:00",
+    "name": "02 februari 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 501286,
+    "datetime": "2024-02-02 7:56:48 +01:00",
+    "name": "02 februari 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 501285,
+    "datetime": "2024-02-02 7:56:41 +01:00",
+    "name": "02 februari 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 501292,
+    "datetime": "2024-02-02 7:54:54 +01:00",
+    "name": "02 februari 07.50, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer ett urval av nattens händelser i polisområde Örebro",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-07.50-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 501291,
+    "datetime": "2024-02-02 7:54:52 +01:00",
+    "name": "02 februari 07.50, Sammanfattning natt, Dalarnas län",
+    "summary": "Nedan följer ett urval av nattens händelser i polisområde Dalarna",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-07.50-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 501290,
+    "datetime": "2024-02-02 7:54:49 +01:00",
+    "name": "02 februari 07.50, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan följer ett urval av nattens händelser i polisområde Värmland",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-07.50-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 501276,
     "datetime": "2024-02-02 7:29:58 +01:00",
     "name": "02 februari 07.29, Sammanfattning natt, Norrbottens län",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 485989,
-    "datetime": "2024-01-26 3:13:26 +01:00",
-    "name": "26 januari 01.49, Trafikolycka, Örkelljunga",
-    "summary": "Flera fordon kolliderat, E4 Skånes-Fagerhult",
-    "url": "/aktuellt/handelser/2024/januari/26/26-januari-01.49-trafikolycka-orkelljunga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örkelljunga",
-      "gps": "56.283635,13.278832"
-    }
-  },
-  {
-    "id": 485990,
-    "datetime": "2024-01-26 3:34:35 +01:00",
-    "name": "26 januari 02.36, Misshandel, Stockholm",
-    "summary": "Polis kallas till en pub på Kungsgatan med anledning av att entrèvärden gripit en aggressiv gäst.",
-    "url": "/aktuellt/handelser/2024/januari/26/26-januari-02.36-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 485988,
-    "datetime": "2024-01-26 3:02:13 +01:00",
-    "name": "26 januari 01.55, Brand, Södertälje",
-    "summary": "Polis och räddningstjänst kallas till Fornhöjden i Södertälje med anledning av brand i parkerad bilar.",
-    "url": "/aktuellt/handelser/2024/januari/26/26-januari-01.55-brand-sodertalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 485810,
-    "datetime": "2024-01-25 22:52:55 +01:00",
-    "name": "25 januari 19.59, Motorfordon, anträffat stulet, Stockholm",
-    "summary": "Bil som hyrts efter en identitskapning hittas i Kista.",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-19.59-motorfordon-antraffat-stulet-stockholm/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 485809,
-    "datetime": "2024-01-25 22:24:56 +01:00",
-    "name": "25 januari 22.14, Olaga hot, Linköping",
-    "summary": "Polisinsats efter larm om vapenliknande föremål",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-22.14-olaga-hot-linkoping/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 485808,
-    "datetime": "2024-01-25 22:02:14 +01:00",
-    "name": "25 januari 22.01, Övrigt, Hallands län",
-    "summary": "Efter klockan 22.00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-22.01-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 485807,
-    "datetime": "2024-01-25 22:01:57 +01:00",
-    "name": "25 januari 22.01, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22.00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-22.01-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 485791,
-    "datetime": "2024-01-25 21:39:40 +01:00",
-    "name": "25 januari 17.30, Åldringsbrott, Mölndal",
-    "summary": "En kvinna i 70-årsåldern kontaktar polis och uppger att hon har blivit utsatt för ett bedrägeri.",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-17.30-aldringsbrott-molndal/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 485806,
-    "datetime": "2024-01-25 21:23:48 +01:00",
-    "name": "25 januari 18.29, Misshandel, Lycksele",
-    "summary": "Anmälan om misshandel upprättas.",
-    "url": "/aktuellt/handelser/2024/januari/25/25-januari-18.29-misshandel-lycksele/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
     }
   }
 ]
