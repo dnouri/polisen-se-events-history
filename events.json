@@ -1,26 +1,134 @@
 [
   {
-    "id": 501430,
-    "datetime": "2024-02-03 12:42:10 +01:00",
-    "name": "03 februari 08.45, Stöld, Borås",
-    "summary": "Stöld av trailersläp",
-    "url": "/aktuellt/handelser/2024/februari/3/03-februari-08.45-stold-boras/",
-    "type": "Stöld",
+    "id": 501431,
+    "datetime": "2024-02-03 12:51:11 +01:00",
+    "name": "03 februari 12.32, Trafikolycka, Malmö",
+    "summary": "Personbil i olycka, Limhamn.",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-12.32-trafikolycka-malmo/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
     "id": 501429,
     "datetime": "2024-02-03 12:40:10 +01:00",
     "name": "03 februari 12.03, Trafikolycka, personskada, Göteborg",
-    "summary": "Spårvagnsolycka, Saltholmen",
+    "summary": "Spårvagnsolycka, Saltholmsgatan, Saltholmen",
     "url": "/aktuellt/handelser/2024/februari/3/03-februari-12.03-trafikolycka-personskada-goteborg/",
     "type": "Trafikolycka, personskada",
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 501424,
+    "datetime": "2024-02-03 11:47:33 +01:00",
+    "name": "03 februari 05.36, Övrigt, Växjö",
+    "summary": "Misstänkt grovt brott, Hov.",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-05.36-ovrigt-vaxjo/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 501392,
+    "datetime": "2024-02-02 21:56:44 +01:00",
+    "name": "02 februari 20.43, Räddningsinsats, Vänersborg",
+    "summary": "Larm kommer från SOS om att en person har ramlat i vattnet vid bron till Vargön.",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-20.43-raddningsinsats-vanersborg/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Vänersborg",
+      "gps": "58.379728,12.324803"
+    }
+  },
+  {
+    "id": 501422,
+    "datetime": "2024-02-03 11:10:59 +01:00",
+    "name": "02 februari 20.24, Trafikolycka, personskada, Öckerö",
+    "summary": "Hönö, färjeläget",
+    "url": "/aktuellt/handelser/2024/februari/2/02-februari-20.24-trafikolycka-personskada-ockero/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Öckerö",
+      "gps": "57.711741,11.648789"
+    }
+  },
+  {
+    "id": 501435,
+    "datetime": "2024-02-03 13:16:38 +01:00",
+    "name": "03 februari 13.13, Misshandel, Gagnef",
+    "summary": "En man är misstänkt för brott mot en kvinna i deras bostad",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-13.13-misshandel-gagnef/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Gagnef",
+      "gps": "60.590983,15.070049"
+    }
+  },
+  {
+    "id": 501434,
+    "datetime": "2024-02-03 13:14:55 +01:00",
+    "name": "03 februari 11.28, Narkotikabrott, Stockholm",
+    "summary": "En inringare tipsar polisen om en pågående narkotikaförsäljning",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-11.28-narkotikabrott-stockholm/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 501421,
+    "datetime": "2024-02-03 10:33:48 +01:00",
+    "name": "03 februari 10.00, Rattfylleri, Kristinehamn",
+    "summary": "En bilist är misstänkt för brott i Kurlanda",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-10.00-rattfylleri-kristinehamn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 501433,
+    "datetime": "2024-02-03 13:13:17 +01:00",
+    "name": "03 februari 11.41, Fylleri/LOB, Skellefteå",
+    "summary": "Erikslid, allmänheten uppmärksammar polisen på en berusad man",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-11.41-fyllerilob-skelleftea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 501432,
+    "datetime": "2024-02-03 13:07:02 +01:00",
+    "name": "03 februari 11.33, Rattfylleri, Piteå",
+    "summary": "Centrala Piteå, en förare blåser positivt vid en trafikkontroll",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-11.33-rattfylleri-pitea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 501430,
+    "datetime": "2024-02-03 12:42:10 +01:00",
+    "name": "03 februari 08.45, Stöld, Borås",
+    "summary": "Stöld av trailersläp, Viared",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-08.45-stold-boras/",
+    "type": "Stöld",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -45,18 +153,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 501421,
-    "datetime": "2024-02-03 10:33:48 +01:00",
-    "name": "03 februari 10.00, Rattfylleri, Kristinehamn",
-    "summary": "En bilist är misstänkt för brott i Kurlanda",
-    "url": "/aktuellt/handelser/2024/februari/3/03-februari-10.00-rattfylleri-kristinehamn/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   },
   {
@@ -96,18 +192,6 @@
     }
   },
   {
-    "id": 501424,
-    "datetime": "2024-02-03 11:47:33 +01:00",
-    "name": "03 februari 05.36, Övrigt, Växjö",
-    "summary": "Misstänkt grovt brott, Hov.",
-    "url": "/aktuellt/handelser/2024/februari/3/03-februari-05.36-ovrigt-vaxjo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
     "id": 501423,
     "datetime": "2024-02-03 11:45:27 +01:00",
     "name": "03 februari 09.00, Ofredande/förargelse, Stockholm",
@@ -129,18 +213,6 @@
     "location": {
       "name": "Forshaga",
       "gps": "59.529761,13.486084"
-    }
-  },
-  {
-    "id": 501422,
-    "datetime": "2024-02-03 11:10:59 +01:00",
-    "name": "02 februari 20.24, Trafikolycka, personskada, Öckerö",
-    "summary": "Hönö, färjeläget",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-20.24-trafikolycka-personskada-ockero/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Öckerö",
-      "gps": "57.711741,11.648789"
     }
   },
   {
@@ -393,18 +465,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 501392,
-    "datetime": "2024-02-02 21:56:44 +01:00",
-    "name": "02 februari 20.43, Räddningsinsats, Vänersborg",
-    "summary": "Larm kommer från SOS om att en person har ramlat i vattnet vid bron till Vargön.",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-20.43-raddningsinsats-vanersborg/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 486210,
-    "datetime": "2024-01-27 11:01:42 +01:00",
-    "name": "27 januari 11.01, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/januari/27/27-januari-11.01-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 486208,
-    "datetime": "2024-01-27 10:27:30 +01:00",
-    "name": "27 januari 09.43, Trafikolycka, Härnösand",
-    "summary": "Traktor körde av vägen på E4 i Härnösand.",
-    "url": "/aktuellt/handelser/2024/januari/27/27-januari-09.43-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 486207,
-    "datetime": "2024-01-27 10:24:26 +01:00",
-    "name": "27 januari 06.37, Narkotikabrott, Sollefteå",
-    "summary": "Man misstänks för narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/januari/27/27-januari-06.37-narkotikabrott-solleftea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 486184,
-    "datetime": "2024-01-27 4:29:29 +01:00",
-    "name": "27 januari 02.20, Mord/dråp, försök, Enköping",
-    "summary": "Försök till mord, Enköping centrum.",
-    "url": "/aktuellt/handelser/2024/januari/27/27-januari-02.20-morddrap-forsok-enkoping/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 486206,
-    "datetime": "2024-01-27 9:29:17 +01:00",
-    "name": "27 januari 08.48, Misshandel, grov, Järfälla",
-    "summary": "En man har tillfogats en skärskada i Jakobsberg.",
-    "url": "/aktuellt/handelser/2024/januari/27/27-januari-08.48-misshandel-grov-jarfalla/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
     }
   }
 ]
