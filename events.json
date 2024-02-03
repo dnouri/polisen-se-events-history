@@ -1,5 +1,65 @@
 [
   {
+    "id": 501407,
+    "datetime": "2024-02-03 7:42:04 +01:00",
+    "name": "03 februari 05.56, Brand, Örebro",
+    "summary": "Det brinner i en fastighet i Stora Mellösa",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-05.56-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 501406,
+    "datetime": "2024-02-03 7:40:31 +01:00",
+    "name": "03 februari 02.45, Brand, Kävlinge",
+    "summary": "Brand i Hofterup",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-02.45-brand-kavlinge/",
+    "type": "Brand",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 501402,
+    "datetime": "2024-02-03 7:36:20 +01:00",
+    "name": "03 februari 07.26, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-07.26-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 501403,
+    "datetime": "2024-02-03 7:36:15 +01:00",
+    "name": "03 februari 07.29, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-07.29-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 501404,
+    "datetime": "2024-02-03 7:36:10 +01:00",
+    "name": "03 februari 07.34, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2024/februari/3/03-februari-07.34-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 501401,
     "datetime": "2024-02-03 6:57:57 +01:00",
     "name": "03 februari 04.36, Misshandel, Lund",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Oskarshamn",
       "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 486177,
-    "datetime": "2024-01-26 22:03:22 +01:00",
-    "name": "26 januari 22.02, Misshandel, Eskilstuna",
-    "summary": "Man misshandlade person på Kungsgatan",
-    "url": "/aktuellt/handelser/2024/januari/26/26-januari-22.02-misshandel-eskilstuna/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 486172,
-    "datetime": "2024-01-26 21:14:56 +01:00",
-    "name": "26 januari 20.46, Brand, Skellefteå",
-    "summary": "Skellefteå, larm om brand i flerfamiljshus.",
-    "url": "/aktuellt/handelser/2024/januari/26/26-januari-20.46-brand-skelleftea/",
-    "type": "Brand",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 486163,
-    "datetime": "2024-01-26 21:58:08 +01:00",
-    "name": "26 januari 16.57, Narkotikabrott, Robertsfors",
-    "summary": "Ånäset, misstänkt ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/januari/26/26-januari-16.57-narkotikabrott-robertsfors/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 486166,
-    "datetime": "2024-01-26 19:28:41 +01:00",
-    "name": "26 januari 18.41, Fylleri/LOB, Östersund",
-    "summary": "Östersund, person omhändertagen i centrum.",
-    "url": "/aktuellt/handelser/2024/januari/26/26-januari-18.41-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 486175,
-    "datetime": "2024-01-26 21:45:55 +01:00",
-    "name": "26 januari 21.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2024/januari/26/26-januari-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
