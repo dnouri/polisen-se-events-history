@@ -1,5 +1,17 @@
 [
   {
+    "id": 501544,
+    "datetime": "2024-02-05 10:39:45 +01:00",
+    "name": "05 februari 10.27, Rattfylleri, Ludvika",
+    "summary": "En bilist är misstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2024/februari/5/05-februari-10.27-rattfylleri-ludvika/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
     "id": 501539,
     "datetime": "2024-02-05 10:06:54 +01:00",
     "name": "05 februari 09.38, Trafikolycka, singel, Stockholm",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 501543,
+    "datetime": "2024-02-05 10:37:15 +01:00",
+    "name": "05 februari 08.24, Arbetsplatsolycka, Örnsköldsvik",
+    "summary": "Larm om olycka på arbetsplats, Hörnett.",
+    "url": "/aktuellt/handelser/2024/februari/5/05-februari-08.24-arbetsplatsolycka-ornskoldsvik/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 501542,
+    "datetime": "2024-02-05 10:29:08 +01:00",
+    "name": "05 februari 09.26, Trafikolycka, Västerås",
+    "summary": "Kollision mellan två lastbilar.",
+    "url": "/aktuellt/handelser/2024/februari/5/05-februari-09.26-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 485657,
+    "datetime": "2024-01-25 7:05:28 +01:00",
+    "name": "25 januari 07.01, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2024/januari/25/25-januari-07.01-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 486296,
-    "datetime": "2024-01-29 8:05:38 +01:00",
-    "name": "29 januari 02.49, Trafikolycka, Stockholm",
-    "summary": "En personbil har i hög hastighet voltat i Hässelby gård.",
-    "url": "/aktuellt/handelser/2024/januari/29/29-januari-02.49-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 486295,
-    "datetime": "2024-01-29 7:53:28 +01:00",
-    "name": "29 januari 06.58, Trafikolycka, personskada, Trollhättan",
-    "summary": "På Gärdhemsvägen kolliderar en cyklist och en peronsbil.",
-    "url": "/aktuellt/handelser/2024/januari/29/29-januari-06.58-trafikolycka-personskada-trollhattan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 486289,
-    "datetime": "2024-01-29 8:02:19 +01:00",
-    "name": "29 januari 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer ett par notiser från nattens ärendehantering. Inget större ärende i övrigt.",
-    "url": "/aktuellt/handelser/2024/januari/29/29-januari-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 486290,
-    "datetime": "2024-01-29 8:02:07 +01:00",
-    "name": "29 januari 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en enstaka notis från nattens ärendehantering. En lugn natt och nget större ärende i övrigt.",
-    "url": "/aktuellt/handelser/2024/januari/29/29-januari-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
