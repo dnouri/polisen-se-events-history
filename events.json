@@ -1,14 +1,26 @@
 [
   {
-    "id": 503999,
-    "datetime": "2024-02-09 12:43:29 +01:00",
-    "name": "09 februari 11.30, Trafikolycka, Umeå",
-    "summary": "Trafikolycka på Riksvägen, Västteg i Umeå.",
-    "url": "/aktuellt/handelser/2024/februari/9/09-februari-11.30-trafikolycka-umea/",
+    "id": 504007,
+    "datetime": "2024-02-09 13:32:42 +01:00",
+    "name": "09 februari 12.00, Narkotikabrott, Ludvika",
+    "summary": "Kontroll av person medförde misstanke om narkotikabrott.",
+    "url": "/aktuellt/handelser/2024/februari/9/09-februari-12.00-narkotikabrott-ludvika/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 504006,
+    "datetime": "2024-02-09 13:31:46 +01:00",
+    "name": "09 februari 12.31, Trafikolycka, Lycksele",
+    "summary": "Två bilar i olycka i Furuvik.",
+    "url": "/aktuellt/handelser/2024/februari/9/09-februari-12.31-trafikolycka-lycksele/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
     }
   },
   {
@@ -21,6 +33,78 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 503999,
+    "datetime": "2024-02-09 12:43:29 +01:00",
+    "name": "09 februari 11.30, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på Riksvägen, Västteg i Umeå.",
+    "url": "/aktuellt/handelser/2024/februari/9/09-februari-11.30-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 504005,
+    "datetime": "2024-02-09 13:11:31 +01:00",
+    "name": "09 februari 13.11, Trafikkontroll, Östersund",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/februari/9/09-februari-13.11-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 504004,
+    "datetime": "2024-02-09 13:05:24 +01:00",
+    "name": "09 februari 13.05, Trafikkontroll, Gällivare",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/februari/9/09-februari-13.05-trafikkontroll-gallivare/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 504000,
+    "datetime": "2024-02-09 12:46:15 +01:00",
+    "name": "09 februari 12.41, Bråk, Eslöv",
+    "summary": "Bråk på skola, Eslöv.",
+    "url": "/aktuellt/handelser/2024/februari/9/09-februari-12.41-brak-eslov/",
+    "type": "Bråk",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 504002,
+    "datetime": "2024-02-09 12:54:50 +01:00",
+    "name": "09 februari 06.48, Inbrott, Skellefteå",
+    "summary": "Inbrott i servering i Burträsk, Skellefteå.",
+    "url": "/aktuellt/handelser/2024/februari/9/09-februari-06.48-inbrott-skelleftea/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 504001,
+    "datetime": "2024-02-09 12:48:52 +01:00",
+    "name": "09 februari 08.25, Rattfylleri, Luleå",
+    "summary": "Misstänkt drograttfylleri på Örnäset i Luleå.",
+    "url": "/aktuellt/handelser/2024/februari/9/09-februari-08.25-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 501339,
-    "datetime": "2024-02-02 12:46:48 +01:00",
-    "name": "02 februari 08.46, Trafikolycka, personskada, Kungsbacka",
-    "summary": "Vid Agnsjödalsvägen är det en kvinna som blir påkörd av en bilist som smiter från platsen.",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-08.46-trafikolycka-personskada-kungsbacka/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 501336,
-    "datetime": "2024-02-02 12:43:18 +01:00",
-    "name": "02 februari 09.56, Brand, Göteborg",
-    "summary": "POlis och räddningstjänst larmas till Hammerkullen där det ska brinna i ett radhus.",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-09.56-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 501334,
-    "datetime": "2024-02-02 12:39:58 +01:00",
-    "name": "02 februari 10.30, Arbetsplatsolycka, Luleå",
-    "summary": "Larm om olycka på arbetsplats, Svartön.",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-10.30-arbetsplatsolycka-lulea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 501333,
-    "datetime": "2024-02-02 12:28:45 +01:00",
-    "name": "02 februari 12.28, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-12.28-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 501332,
-    "datetime": "2024-02-02 12:27:43 +01:00",
-    "name": "02 februari 12.27, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat efter två trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-12.27-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 501331,
-    "datetime": "2024-02-02 12:12:54 +01:00",
-    "name": "02 februari 12.07, Övrigt, Arvika",
-    "summary": "Polisen efterlyser ägare till motorfordon",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-12.07-ovrigt-arvika/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 501329,
-    "datetime": "2024-02-02 12:01:17 +01:00",
-    "name": "02 februari 11.51, Skottlossning, Norrköping",
-    "summary": "Intensiv utredning efter skotten mot lägenhetsdörr",
-    "url": "/aktuellt/handelser/2024/februari/2/02-februari-11.51-skottlossning-norrkoping/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   }
 ]
