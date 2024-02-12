@@ -1,14 +1,26 @@
 [
   {
-    "id": 504245,
-    "datetime": "2024-02-12 12:36:21 +01:00",
-    "name": "12 februari 09.22, Rattfylleri, Umeå",
-    "summary": "Misstänkt drograttfylleri i Umeå.",
-    "url": "/aktuellt/handelser/2024/februari/12/12-februari-09.22-rattfylleri-umea/",
-    "type": "Rattfylleri",
+    "id": 504252,
+    "datetime": "2024-02-12 13:20:30 +01:00",
+    "name": "12 februari 11.51, Olaga intrång, Stockholm",
+    "summary": "Person i Flemingsberg rapporterades för olaga intrång.",
+    "url": "/aktuellt/handelser/2024/februari/12/12-februari-11.51-olaga-intrang-stockholm/",
+    "type": "Olaga intrång",
     "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 504250,
+    "datetime": "2024-02-12 13:10:59 +01:00",
+    "name": "12 februari 13.10, Trafikolycka, Norrköping",
+    "summary": "SOS-larm om trafikolycka på Söderköpingsvägen.",
+    "url": "/aktuellt/handelser/2024/februari/12/12-februari-13.10-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -21,6 +33,42 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 504249,
+    "datetime": "2024-02-12 12:54:28 +01:00",
+    "name": "12 februari 12.54, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/februari/12/12-februari-12.54-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 504247,
+    "datetime": "2024-02-12 12:45:45 +01:00",
+    "name": "12 februari 07.37, Inbrott, Skellefteå",
+    "summary": "Inbrott i företagslokaler i Burträsk.",
+    "url": "/aktuellt/handelser/2024/februari/12/12-februari-07.37-inbrott-skelleftea/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 504245,
+    "datetime": "2024-02-12 12:36:21 +01:00",
+    "name": "12 februari 09.22, Rattfylleri, Umeå",
+    "summary": "Misstänkt drograttfylleri i Umeå.",
+    "url": "/aktuellt/handelser/2024/februari/12/12-februari-09.22-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Trosa",
       "gps": "58.902655,17.549464"
-    }
-  },
-  {
-    "id": 501570,
-    "datetime": "2024-02-05 13:07:20 +01:00",
-    "name": "05 februari 13.07, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/februari/5/05-februari-13.07-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 501563,
-    "datetime": "2024-02-05 12:45:27 +01:00",
-    "name": "05 februari 12.36, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat i höjd med Östra Fågelvik",
-    "url": "/aktuellt/handelser/2024/februari/5/05-februari-12.36-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 501572,
-    "datetime": "2024-02-05 13:05:17 +01:00",
-    "name": "05 februari 13.05, Trafikolycka, vilt, Västerbottens län",
-    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
-    "url": "/aktuellt/handelser/2024/februari/5/05-februari-13.05-trafikolycka-vilt-vasterbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 501571,
-    "datetime": "2024-02-05 13:04:30 +01:00",
-    "name": "05 februari 13.04, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Viltolyckor anmälda till polisens ledningscentral",
-    "url": "/aktuellt/handelser/2024/februari/5/05-februari-13.04-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
