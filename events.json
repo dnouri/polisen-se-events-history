@@ -1,5 +1,101 @@
 [
   {
+    "id": 504325,
+    "datetime": "2024-02-13 8:17:35 +01:00",
+    "name": "13 februari 23.52, Brand, Stockholm",
+    "summary": "Bilverkstad förstörs vid brand",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-23.52-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 504329,
+    "datetime": "2024-02-13 8:17:31 +01:00",
+    "name": "13 februari 00.16, Brand, Stockholm",
+    "summary": "Villabrand i Mälarhöjden.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-00.16-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 504330,
+    "datetime": "2024-02-13 8:17:27 +01:00",
+    "name": "13 februari 00.45, Brand, Sigtuna",
+    "summary": "Brand i elektronikvaruhus.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-00.45-brand-sigtuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 504328,
+    "datetime": "2024-02-13 8:04:39 +01:00",
+    "name": "13 februari 07.28, Djur, Malmö",
+    "summary": "Förgöringsbrott på Lugna gatan.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-07.28-djur-malmo/",
+    "type": "Djur",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 504327,
+    "datetime": "2024-02-13 7:59:31 +01:00",
+    "name": "13 februari 07.58, Trafikolycka, Hagfors",
+    "summary": "Två inträffade trafikolyckor på Lv246 söder om Hagfors",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-07.58-trafikolycka-hagfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hagfors",
+      "gps": "60.03437,13.694508"
+    }
+  },
+  {
+    "id": 504320,
+    "datetime": "2024-02-13 7:57:10 +01:00",
+    "name": "13 februari 07.54, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-07.54-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 504324,
+    "datetime": "2024-02-13 7:54:43 +01:00",
+    "name": "13 februari 07.54, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-07.54-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 504326,
+    "datetime": "2024-02-13 7:54:16 +01:00",
+    "name": "13 februari 07.54, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-07.54-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 504323,
     "datetime": "2024-02-13 7:37:36 +01:00",
     "name": "13 februari 07.35, Sammanfattning natt, Värmlands län",
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 503629,
-    "datetime": "2024-02-06 6:59:42 +01:00",
-    "name": "06 februari 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats",
-    "url": "/aktuellt/handelser/2024/februari/6/06-februari-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 503627,
-    "datetime": "2024-02-06 6:56:05 +01:00",
-    "name": "06 februari 03.26, Skadegörelse, Helsingborg",
-    "summary": "Skadegörelse på Eslövsgatan.",
-    "url": "/aktuellt/handelser/2024/februari/6/06-februari-03.26-skadegorelse-helsingborg/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 503626,
-    "datetime": "2024-02-06 6:48:08 +01:00",
-    "name": "06 februari 00.05, Våld/hot mot tjänsteman, Tingsryd",
-    "summary": "Stök på ungdomshem, Ryd.",
-    "url": "/aktuellt/handelser/2024/februari/6/06-februari-00.05-valdhot-mot-tjansteman-tingsryd/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Tingsryd",
-      "gps": "56.524745,14.978534"
-    }
-  },
-  {
-    "id": 503625,
-    "datetime": "2024-02-06 6:30:22 +01:00",
-    "name": "06 februari 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats",
-    "url": "/aktuellt/handelser/2024/februari/6/06-februari-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 501622,
-    "datetime": "2024-02-05 22:55:14 +01:00",
-    "name": "05 februari 22.08, Misshandel, Växjö",
-    "summary": "Polis larmas till en bostad i en ort i Växjö kommun där en kvinnan stickskadats med ett vasst föremål i en bos",
-    "url": "/aktuellt/handelser/2024/februari/5/05-februari-22.08-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 503622,
-    "datetime": "2024-02-05 23:30:44 +01:00",
-    "name": "05 februari 21.44, Rattfylleri, Kalmar",
-    "summary": "Man i 20-årsåldern misstänks för drograttfylleri efter kontroll.",
-    "url": "/aktuellt/handelser/2024/februari/5/05-februari-21.44-rattfylleri-kalmar/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 502622,
-    "datetime": "2024-02-05 23:02:15 +01:00",
-    "name": "05 februari 22.49, Brand, Bjuv",
-    "summary": "Två personbilar brinner i Ekeby och polis skickas till platsen.",
-    "url": "/aktuellt/handelser/2024/februari/5/05-februari-22.49-brand-bjuv/",
-    "type": "Brand",
-    "location": {
-      "name": "Bjuv",
-      "gps": "56.087102,12.912505"
-    }
-  },
-  {
-    "id": 501621,
-    "datetime": "2024-02-05 22:01:06 +01:00",
-    "name": "05 februari 21.44, Fylleri/LOB, Örebro",
-    "summary": "Två personer omhändertagna på grund av berusning",
-    "url": "/aktuellt/handelser/2024/februari/5/05-februari-21.44-fyllerilob-orebro/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
