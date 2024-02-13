@@ -1,17 +1,5 @@
 [
   {
-    "id": 504400,
-    "datetime": "2024-02-13 14:04:04 +01:00",
-    "name": "13 februari 14.03, Trafikbrott, Jönköping",
-    "summary": "Polisinsats på riksväg 26/40.",
-    "url": "/aktuellt/handelser/2024/februari/13/13-februari-14.03-trafikbrott-jonkoping/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
     "id": 504406,
     "datetime": "2024-02-13 15:21:14 +01:00",
     "name": "13 februari 15.08, Trafikolycka, Sundsvall",
@@ -21,6 +9,66 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 504408,
+    "datetime": "2024-02-13 15:59:26 +01:00",
+    "name": "13 februari 12.59, Arbetsplatsolycka, Boden",
+    "summary": "Boden, olycka under arbete.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-12.59-arbetsplatsolycka-boden/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 504384,
+    "datetime": "2024-02-13 12:27:19 +01:00",
+    "name": "13 februari 11.38, Miljöbrott, Stenungsund",
+    "summary": "Oljeutsläpp",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-11.38-miljobrott-stenungsund/",
+    "type": "Miljöbrott",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 504407,
+    "datetime": "2024-02-13 15:50:12 +01:00",
+    "name": "13 februari 15.18, Trafikolycka, Krokom",
+    "summary": "Trafikolycka på länsväg 675 utanför Kaxås.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-15.18-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 504329,
+    "datetime": "2024-02-13 8:17:31 +01:00",
+    "name": "13 februari 00.16, Brand, Stockholm",
+    "summary": "Villabrand i Mälarhöjden.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-00.16-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 504400,
+    "datetime": "2024-02-13 14:04:04 +01:00",
+    "name": "13 februari 14.03, Trafikbrott, Jönköping",
+    "summary": "Polisinsats på riksväg 26/40.",
+    "url": "/aktuellt/handelser/2024/februari/13/13-februari-14.03-trafikbrott-jonkoping/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -81,18 +129,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 504384,
-    "datetime": "2024-02-13 12:27:19 +01:00",
-    "name": "13 februari 11.38, Miljöbrott, Stenungsund",
-    "summary": "Oljeutsläpp",
-    "url": "/aktuellt/handelser/2024/februari/13/13-februari-11.38-miljobrott-stenungsund/",
-    "type": "Miljöbrott",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
     }
   },
   {
@@ -353,18 +389,6 @@
     "name": "13 februari 23.52, Brand, Stockholm",
     "summary": "Bilverkstad förstörs vid brand",
     "url": "/aktuellt/handelser/2024/februari/13/13-februari-23.52-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 504329,
-    "datetime": "2024-02-13 8:17:31 +01:00",
-    "name": "13 februari 00.16, Brand, Stockholm",
-    "summary": "Villabrand i Mälarhöjden.",
-    "url": "/aktuellt/handelser/2024/februari/13/13-februari-00.16-brand-stockholm/",
     "type": "Brand",
     "location": {
       "name": "Stockholm",
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Uddevalla",
       "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 503658,
-    "datetime": "2024-02-06 10:42:48 +01:00",
-    "name": "06 februari 08.03, Trafikbrott, Vindeln",
-    "summary": "Vindeln, man misstänkt för grov olovlig körning.",
-    "url": "/aktuellt/handelser/2024/februari/6/06-februari-08.03-trafikbrott-vindeln/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Vindeln",
-      "gps": "64.201953,19.71887"
-    }
-  },
-  {
-    "id": 503657,
-    "datetime": "2024-02-06 10:26:16 +01:00",
-    "name": "06 februari 10.19, Trafikkontroll, Umeå",
-    "summary": "Ersboda, nykterhetskontroll på Formvägen.",
-    "url": "/aktuellt/handelser/2024/februari/6/06-februari-10.19-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
