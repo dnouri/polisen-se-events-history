@@ -1,17 +1,5 @@
 [
   {
-    "id": 504230,
-    "datetime": "2024-02-12 10:37:59 +01:00",
-    "name": "12 februari 10.07, Brand, Göteborg",
-    "summary": "Brand på Lisebergs område",
-    "url": "/aktuellt/handelser/2024/februari/12/12-februari-10.07-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
     "id": 505421,
     "datetime": "2024-02-16 13:34:03 +01:00",
     "name": "16 februari 10.04, Försvunnen person, Malmö",
@@ -21,6 +9,42 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 505418,
+    "datetime": "2024-02-16 13:09:49 +01:00",
+    "name": "16 februari 12.45, Trafikolycka, Umeå",
+    "summary": "Trafikolycka i Ersbodarondellen, Umeå.",
+    "url": "/aktuellt/handelser/2024/februari/16/16-februari-12.45-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 505416,
+    "datetime": "2024-02-16 13:02:15 +01:00",
+    "name": "16 februari 12.50, Arbetsplatsolycka, Svalöv",
+    "summary": "Misstänkt arbetsmiljöbrott i Sireköpinge.",
+    "url": "/aktuellt/handelser/2024/februari/16/16-februari-12.50-arbetsplatsolycka-svalov/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Svalöv",
+      "gps": "55.91293,13.101817"
+    }
+  },
+  {
+    "id": 504230,
+    "datetime": "2024-02-12 10:37:59 +01:00",
+    "name": "12 februari 10.07, Brand, Göteborg",
+    "summary": "Brand på Lisebergs område",
+    "url": "/aktuellt/handelser/2024/februari/12/12-februari-10.07-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -57,30 +81,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 505418,
-    "datetime": "2024-02-16 13:09:49 +01:00",
-    "name": "16 februari 12.45, Trafikolycka, Umeå",
-    "summary": "Trafikolycka i Ersbodarondellen, Umeå.",
-    "url": "/aktuellt/handelser/2024/februari/16/16-februari-12.45-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 505416,
-    "datetime": "2024-02-16 13:02:15 +01:00",
-    "name": "16 februari 12.50, Arbetsplatsolycka, Svalöv",
-    "summary": "Misstänkt arbetsmiljöbrott i Sireköpinge.",
-    "url": "/aktuellt/handelser/2024/februari/16/16-februari-12.50-arbetsplatsolycka-svalov/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Svalöv",
-      "gps": "55.91293,13.101817"
     }
   },
   {
