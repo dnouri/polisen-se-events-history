@@ -1,5 +1,65 @@
 [
   {
+    "id": 505400,
+    "datetime": "2024-02-16 10:18:28 +01:00",
+    "name": "16 februari 06.50, Olaga hot, Sundsvall",
+    "summary": "Anmälan upprättas gällande olaga hot eller ofredande.",
+    "url": "/aktuellt/handelser/2024/februari/16/16-februari-06.50-olaga-hot-sundsvall/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 505399,
+    "datetime": "2024-02-16 10:05:25 +01:00",
+    "name": "16 februari 08.07, Rattfylleri, Umeå",
+    "summary": "Misstänkt rattfylleri på Nydala i Umeå.",
+    "url": "/aktuellt/handelser/2024/februari/16/16-februari-08.07-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 505398,
+    "datetime": "2024-02-16 10:01:41 +01:00",
+    "name": "16 februari 07.50, Stöld/inbrott, Vara",
+    "summary": "Stora Levene, stöld av kött",
+    "url": "/aktuellt/handelser/2024/februari/16/16-februari-07.50-stoldinbrott-vara/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Vara",
+      "gps": "58.261781,12.960194"
+    }
+  },
+  {
+    "id": 505391,
+    "datetime": "2024-02-16 9:27:08 +01:00",
+    "name": "16 februari 08.54, Trafikolycka, Falun",
+    "summary": "En trafikolycka har inträffat på Lugnetleden i Falun.",
+    "url": "/aktuellt/handelser/2024/februari/16/16-februari-08.54-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 505397,
+    "datetime": "2024-02-16 9:51:13 +01:00",
+    "name": "16 februari 06.39, Misshandel, Göteborg",
+    "summary": "Biskopsgården, hållplats Väderilsgatan",
+    "url": "/aktuellt/handelser/2024/februari/16/16-februari-06.39-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 505396,
     "datetime": "2024-02-16 9:39:27 +01:00",
     "name": "16 februari 07.59, Trafikolycka, Luleå",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 505391,
-    "datetime": "2024-02-16 9:27:08 +01:00",
-    "name": "16 februari 08.54, Trafikolycka, Falun",
-    "summary": "En trafikolycka har inträffat på Lugnetleden i Falun.",
-    "url": "/aktuellt/handelser/2024/februari/16/16-februari-08.54-trafikolycka-falun/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Bräcke",
       "gps": "62.750741,15.422575"
-    }
-  },
-  {
-    "id": 503926,
-    "datetime": "2024-02-08 20:35:07 +01:00",
-    "name": "08 februari 20.34, Trafikolycka, Strängnäs",
-    "summary": "Trafikolycka på Tosterön",
-    "url": "/aktuellt/handelser/2024/februari/8/08-februari-20.34-trafikolycka-strangnas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 503931,
-    "datetime": "2024-02-08 21:22:38 +01:00",
-    "name": "08 februari 21.09, Övrigt, Skellefteå",
-    "summary": "Torsgatan, polisen har under eftermiddagen och kvällen samverkat med Tullen",
-    "url": "/aktuellt/handelser/2024/februari/8/08-februari-21.09-ovrigt-skelleftea/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 503930,
-    "datetime": "2024-02-08 21:09:10 +01:00",
-    "name": "08 februari 19.59, Fylleri/LOB, Skellefteå",
-    "summary": "Centrum, polis kontaktas gällande berusad kvinna",
-    "url": "/aktuellt/handelser/2024/februari/8/08-februari-19.59-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 503929,
-    "datetime": "2024-02-08 21:07:45 +01:00",
-    "name": "08 februari 21.06, Åldringsbrott, Katrineholm",
-    "summary": "Tjuvar stal från äldre i Katrineholm",
-    "url": "/aktuellt/handelser/2024/februari/8/08-februari-21.06-aldringsbrott-katrineholm/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
     }
   }
 ]
