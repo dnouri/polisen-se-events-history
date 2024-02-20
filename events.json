@@ -1,5 +1,29 @@
 [
   {
+    "id": 506767,
+    "datetime": "2024-02-20 16:17:37 +01:00",
+    "name": "20 februari 15.34, Fylleri/LOB, Lomma",
+    "summary": "Berusad man vid motorväg, E6.",
+    "url": "/aktuellt/handelser/2024/februari/20/20-februari-15.34-fyllerilob-lomma/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Lomma",
+      "gps": "55.673138,13.067406"
+    }
+  },
+  {
+    "id": 506766,
+    "datetime": "2024-02-20 16:01:49 +01:00",
+    "name": "20 februari 14.14, Brand, Timrå",
+    "summary": "Öster om Timrå, larm om brand i villa",
+    "url": "/aktuellt/handelser/2024/februari/20/20-februari-14.14-brand-timra/",
+    "type": "Brand",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
     "id": 506760,
     "datetime": "2024-02-20 15:39:55 +01:00",
     "name": "20 februari 15.33, Trafikolycka, Eslöv",
@@ -9,6 +33,54 @@
     "location": {
       "name": "Eslöv",
       "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 506765,
+    "datetime": "2024-02-20 15:59:23 +01:00",
+    "name": "20 februari 15.48, Bråk, Simrishamn",
+    "summary": "Stökig kund, Simrishamn.",
+    "url": "/aktuellt/handelser/2024/februari/20/20-februari-15.48-brak-simrishamn/",
+    "type": "Bråk",
+    "location": {
+      "name": "Simrishamn",
+      "gps": "55.557396,14.348965"
+    }
+  },
+  {
+    "id": 506764,
+    "datetime": "2024-02-20 15:57:17 +01:00",
+    "name": "20 februari 13.24, Stöld, Sundsvall",
+    "summary": "Stenstan, polis beordras till en livsmedelsbutik",
+    "url": "/aktuellt/handelser/2024/februari/20/20-februari-13.24-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 506762,
+    "datetime": "2024-02-20 15:51:54 +01:00",
+    "name": "20 februari 14.46, Trafikkontroll, Härnösand",
+    "summary": "Bondsjöstaden, resultat efter nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2024/februari/20/20-februari-14.46-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 506759,
+    "datetime": "2024-02-20 15:47:32 +01:00",
+    "name": "20 februari 13.57, Misshandel, grov, Uppsala",
+    "summary": "Man gripen efter bråk på pizzeria i Gottsunda.",
+    "url": "/aktuellt/handelser/2024/februari/20/20-februari-13.57-misshandel-grov-uppsala/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 504267,
-    "datetime": "2024-02-12 21:45:01 +01:00",
-    "name": "12 februari 21.45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan/händelser uppdateras inte mer i kväll.",
-    "url": "/aktuellt/handelser/2024/februari/12/12-februari-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 504291,
-    "datetime": "2024-02-12 21:22:39 +01:00",
-    "name": "12 februari 20.06, Trafikolycka, Göteborg",
-    "summary": "Trafikolycka mellan Buss och fotgängare vid Bagaregården.",
-    "url": "/aktuellt/handelser/2024/februari/12/12-februari-20.06-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 504288,
-    "datetime": "2024-02-12 19:53:44 +01:00",
-    "name": "12 februari 19.40, Brand, Eskilstuna",
-    "summary": "Källarbrand",
-    "url": "/aktuellt/handelser/2024/februari/12/12-februari-19.40-brand-eskilstuna/",
-    "type": "Brand",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 504293,
-    "datetime": "2024-02-12 20:55:59 +01:00",
-    "name": "12 februari 20.22, Rattfylleri, Leksand",
-    "summary": "Kvinna i trettiofemårsåldern omhändertagen för kroppsbesiktning.",
-    "url": "/aktuellt/handelser/2024/februari/12/12-februari-20.22-rattfylleri-leksand/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Leksand",
-      "gps": "60.730308,14.999892"
-    }
-  },
-  {
-    "id": 504285,
-    "datetime": "2024-02-12 20:43:25 +01:00",
-    "name": "12 februari 16.04, Arbetsplatsolycka, Säffle",
-    "summary": "En man i tjugoårsåldern har förts till sjukhus efter en arbetsplatsolycka på ett företag i Säffle.",
-    "url": "/aktuellt/handelser/2024/februari/12/12-februari-16.04-arbetsplatsolycka-saffle/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
-    }
-  },
-  {
-    "id": 504292,
-    "datetime": "2024-02-12 20:41:57 +01:00",
-    "name": "12 februari 19.59, Stöld, försök, Järfälla",
-    "summary": "Försökt stjäla en grävmaskin.",
-    "url": "/aktuellt/handelser/2024/februari/12/12-februari-19.59-stold-forsok-jarfalla/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
     }
   }
 ]
