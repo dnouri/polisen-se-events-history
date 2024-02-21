@@ -1,5 +1,101 @@
 [
   {
+    "id": 506924,
+    "datetime": "2024-02-21 21:19:15 +01:00",
+    "name": "21 februari 18.28, Försvunnen person, Västervik",
+    "summary": "Försvunnen man, Karstorp.",
+    "url": "/aktuellt/handelser/2024/februari/21/21-februari-18.28-forsvunnen-person-vastervik/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 506925,
+    "datetime": "2024-02-21 21:18:12 +01:00",
+    "name": "21 februari 16.54, Stöld, Umeå",
+    "summary": "Misstänkt stöld i butik på Sandbäcken-området.",
+    "url": "/aktuellt/handelser/2024/februari/21/21-februari-16.54-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 506917,
+    "datetime": "2024-02-21 19:52:42 +01:00",
+    "name": "21 februari 17.58, Misshandel, Norrköping",
+    "summary": "Misshandel i Norrköping",
+    "url": "/aktuellt/handelser/2024/februari/21/21-februari-17.58-misshandel-norrkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 506923,
+    "datetime": "2024-02-21 21:08:00 +01:00",
+    "name": "21 februari 20.26, Trafikolycka, vilt, Sundsvall",
+    "summary": "Polisen får in en anmälan om en viltolycka på Södra Alnö.",
+    "url": "/aktuellt/handelser/2024/februari/21/21-februari-20.26-trafikolycka-vilt-sundsvall/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 506922,
+    "datetime": "2024-02-21 21:04:13 +01:00",
+    "name": "21 februari 19.48, Narkotikabrott, Härnösand",
+    "summary": "Misstänkt ringa narkotikabrott, Bondsjöstaden.",
+    "url": "/aktuellt/handelser/2024/februari/21/21-februari-19.48-narkotikabrott-harnosand/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 506902,
+    "datetime": "2024-02-21 17:32:11 +01:00",
+    "name": "21 februari 16.58, Trafikolycka, Sundsvall",
+    "summary": "Larm om trafikolycka i Gångviken.",
+    "url": "/aktuellt/handelser/2024/februari/21/21-februari-16.58-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 506921,
+    "datetime": "2024-02-21 20:48:21 +01:00",
+    "name": "21 februari 19.01, Försvunnen person, Båstad",
+    "summary": "Försvunnen kvinna, Östra Karup.",
+    "url": "/aktuellt/handelser/2024/februari/21/21-februari-19.01-forsvunnen-person-bastad/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Båstad",
+      "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 506920,
+    "datetime": "2024-02-21 20:44:06 +01:00",
+    "name": "21 februari 20.08, Bråk, Sundsvall",
+    "summary": "Polisen kontaktas om att det varit någon typ av bråk vid Stora torget.",
+    "url": "/aktuellt/handelser/2024/februari/21/21-februari-20.08-brak-sundsvall/",
+    "type": "Bråk",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 506919,
     "datetime": "2024-02-21 20:41:42 +01:00",
     "name": "21 februari 17.09, Övrigt, Sundsvall",
@@ -18,18 +114,6 @@
     "summary": "Kraftig kollison på länsväg 209 öster om Norrköping",
     "url": "/aktuellt/handelser/2024/februari/21/21-februari-16.58-trafikolycka-personskada-norrkoping/",
     "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 506917,
-    "datetime": "2024-02-21 19:52:42 +01:00",
-    "name": "21 februari 17.58, Misshandel, Norrköping",
-    "summary": "Misshandel i Norrköping",
-    "url": "/aktuellt/handelser/2024/februari/21/21-februari-17.58-misshandel-norrkoping/",
-    "type": "Misshandel",
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
@@ -102,18 +186,6 @@
     "summary": "Polisen får in en anmälan om en viltolycka på Juniskärsvägen, Essvik.",
     "url": "/aktuellt/handelser/2024/februari/21/21-februari-17.33-trafikolycka-vilt-sundsvall/",
     "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 506902,
-    "datetime": "2024-02-21 17:32:11 +01:00",
-    "name": "21 februari 16.58, Trafikolycka, Sundsvall",
-    "summary": "Larm om trafikolycka i Gångviken.",
-    "url": "/aktuellt/handelser/2024/februari/21/21-februari-16.58-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 504461,
-    "datetime": "2024-02-14 8:10:43 +01:00",
-    "name": "14 februari 07.34, Trafikolycka, Kalix",
-    "summary": "Larm om trafikolycka på länsväg 709, Risögrund.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-07.34-trafikolycka-kalix/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 504455,
-    "datetime": "2024-02-14 8:07:24 +01:00",
-    "name": "14 februari 00.47, Stöld/inbrott, Sundbyberg",
-    "summary": "Försök till villainbrott.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-00.47-stoldinbrott-sundbyberg/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 504458,
-    "datetime": "2024-02-14 8:07:20 +01:00",
-    "name": "14 februari 00.50, Misshandel, Sigtuna",
-    "summary": "En man misstänks ha slagit en kvinna.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-00.50-misshandel-sigtuna/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 504447,
-    "datetime": "2024-02-14 8:00:39 +01:00",
-    "name": "14 februari 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 504446,
-    "datetime": "2024-02-14 8:00:29 +01:00",
-    "name": "14 februari 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 504448,
-    "datetime": "2024-02-14 8:00:20 +01:00",
-    "name": "14 februari 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
