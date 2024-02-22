@@ -1,14 +1,86 @@
 [
   {
-    "id": 506939,
-    "datetime": "2024-02-22 6:40:19 +01:00",
-    "name": "22 februari 05.23, Rattfylleri, Eslöv",
-    "summary": "Man misstänkt för rattfylleri",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-05.23-rattfylleri-eslov/",
-    "type": "Rattfylleri",
+    "id": 506947,
+    "datetime": "2024-02-22 7:15:11 +01:00",
+    "name": "22 februari 07.14, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-07.14-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
     "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 506946,
+    "datetime": "2024-02-22 7:02:57 +01:00",
+    "name": "22 februari 00.49, Brand, Sigtuna",
+    "summary": "En däcksverkstad i Märsta har brunnit ned. Polisen utreder händelsen som misstänkt mordbrand.",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-00.49-brand-sigtuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 506942,
+    "datetime": "2024-02-22 6:59:50 +01:00",
+    "name": "22 februari 06.00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-06.00-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 506945,
+    "datetime": "2024-02-22 6:59:39 +01:00",
+    "name": "22 februari 06.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-06.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 506944,
+    "datetime": "2024-02-22 6:59:22 +01:00",
+    "name": "22 februari 06.59, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-06.59-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 506943,
+    "datetime": "2024-02-22 6:56:12 +01:00",
+    "name": "22 februari 01.34, Kontroll person/fordon, Trelleborg",
+    "summary": "Larm om smällar, ingen misstanke om brott",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-01.34-kontroll-personfordon-trelleborg/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 506941,
+    "datetime": "2024-02-22 6:53:36 +01:00",
+    "name": "22 februari 06.53, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-06.53-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -21,6 +93,30 @@
     "location": {
       "name": "Båstad",
       "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 506940,
+    "datetime": "2024-02-22 6:46:51 +01:00",
+    "name": "22 februari 02.41, Stöld/inbrott, Höganäs",
+    "summary": "Inbrott i gatukök",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-02.41-stoldinbrott-hoganas/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Höganäs",
+      "gps": "56.200639,12.555329"
+    }
+  },
+  {
+    "id": 506939,
+    "datetime": "2024-02-22 6:40:19 +01:00",
+    "name": "22 februari 05.23, Rattfylleri, Eslöv",
+    "summary": "Man misstänkt för rattfylleri",
+    "url": "/aktuellt/handelser/2024/februari/22/22-februari-05.23-rattfylleri-eslov/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 504490,
-    "datetime": "2024-02-14 13:04:36 +01:00",
-    "name": "14 februari 12.56, Brand, Kristianstad",
-    "summary": "Larm om brand i lägenhet",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-12.56-brand-kristianstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 504468,
-    "datetime": "2024-02-14 9:59:13 +01:00",
-    "name": "14 februari 09.50, Trafikolycka, Motala",
-    "summary": "Sidokrock på riksväg 34.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-09.50-trafikolycka-motala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Motala",
-      "gps": "58.538034,15.047094"
-    }
-  },
-  {
-    "id": 504488,
-    "datetime": "2024-02-14 12:43:50 +01:00",
-    "name": "14 februari 08.07, Övrigt, Stockholm",
-    "summary": "Åhörare stör i riksdagen. Flera personer frihetsberövas.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-08.07-ovrigt-stockholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 504478,
-    "datetime": "2024-02-14 12:42:25 +01:00",
-    "name": "14 februari 12.42, Brand, Luleå",
-    "summary": "Polispatrull beordras under förmiddagen till en industrilokal på Bergnäset där det brunnit tidigare under morg",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-12.42-brand-lulea/",
-    "type": "Brand",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 504484,
-    "datetime": "2024-02-14 12:16:50 +01:00",
-    "name": "14 februari 12.14, Trafikolycka, Sundsvall",
-    "summary": "Larm om trafikolycka på Skönsbergsvägen, Haga.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-12.14-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 504483,
-    "datetime": "2024-02-14 12:16:06 +01:00",
-    "name": "14 februari 09.55, Trafikolycka, Ånge",
-    "summary": "Larm om singelolycka på riksväg 83, Ensillre.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-09.55-trafikolycka-ange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ånge",
-      "gps": "62.522874,15.658942"
-    }
-  },
-  {
-    "id": 504482,
-    "datetime": "2024-02-14 12:07:23 +01:00",
-    "name": "14 februari 11.57, Övrigt, Göteborg",
-    "summary": "Beslut om flygförbud, vid Oceanea, Liseberg",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-11.57-ovrigt-goteborg/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 504476,
-    "datetime": "2024-02-14 10:31:58 +01:00",
-    "name": "14 februari 09.52, Trafikolycka, Umeå",
-    "summary": "Polispatrull uppmärksammar en personbil som kört in i en refug i Nydalarondellen.",
-    "url": "/aktuellt/handelser/2024/februari/14/14-februari-09.52-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
