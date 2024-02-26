@@ -1,14 +1,74 @@
 [
   {
-    "id": 507274,
-    "datetime": "2024-02-26 7:39:49 +01:00",
-    "name": "26 februari 07.39, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till måndag polisområde Värmland",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-07.39-sammanfattning-natt-varmlands-lan/",
+    "id": 507295,
+    "datetime": "2024-02-26 8:07:54 +01:00",
+    "name": "26 februari 08.05, Trafikolycka, singel, Vetlanda",
+    "summary": "En till sjukhus efter olycka.",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-08.05-trafikolycka-singel-vetlanda/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
+    "id": 507279,
+    "datetime": "2024-02-26 8:00:09 +01:00",
+    "name": "26 februari 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-08.00-sammanfattning-natt-jonkopings-lan/",
     "type": "Sammanfattning natt",
     "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 507278,
+    "datetime": "2024-02-26 7:59:59 +01:00",
+    "name": "26 februari 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 507277,
+    "datetime": "2024-02-26 7:59:42 +01:00",
+    "name": "26 februari 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 507294,
+    "datetime": "2024-02-26 7:58:23 +01:00",
+    "name": "26 februari 07.03, Trafikolycka, Robertsfors",
+    "summary": "E4 Gumboda, en personbil har kört in i vajerräcket",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-07.03-trafikolycka-robertsfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 507293,
+    "datetime": "2024-02-26 7:55:41 +01:00",
+    "name": "26 februari 07.52, Trafikolycka, Lerum",
+    "summary": "På E20, i höjd med Jerikotunneln och i riktning mot Göteborg, är två personbilar inblandade i en olycka.",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-07.52-trafikolycka-lerum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
     }
   },
   {
@@ -21,6 +81,54 @@
     "location": {
       "name": "Heby",
       "gps": "59.939637,16.858759"
+    }
+  },
+  {
+    "id": 507290,
+    "datetime": "2024-02-26 7:52:08 +01:00",
+    "name": "26 februari 07.16, Djur, Malmö",
+    "summary": "Misstänkt förgöringsbrott i Almhög.",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-07.16-djur-malmo/",
+    "type": "Djur",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 507291,
+    "datetime": "2024-02-26 7:49:04 +01:00",
+    "name": "26 februari 07.48, Sammanfattning natt, Dalarnas län",
+    "summary": "Natt till måndag polisområde Dalarna",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-07.48-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 507292,
+    "datetime": "2024-02-26 7:46:51 +01:00",
+    "name": "26 februari 06.50, Trafikolycka, Knivsta",
+    "summary": "Trafikolycka på länväg 273.",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-06.50-trafikolycka-knivsta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Knivsta",
+      "gps": "59.72612,17.792036"
+    }
+  },
+  {
+    "id": 507274,
+    "datetime": "2024-02-26 7:39:49 +01:00",
+    "name": "26 februari 07.39, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till måndag polisområde Värmland",
+    "url": "/aktuellt/handelser/2024/februari/26/26-februari-07.39-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 505544,
-    "datetime": "2024-02-18 7:58:28 +01:00",
-    "name": "18 februari 07.57, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer ett urval av nattens operativa händelser i länet",
-    "url": "/aktuellt/handelser/2024/februari/18/18-februari-07.57-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 505502,
-    "datetime": "2024-02-17 11:59:59 +01:00",
-    "name": "17 februari 11.31, Mord/dråp, försök, Göteborg",
-    "summary": "Skottlossning i Skälltorp. En person skottskadad.",
-    "url": "/aktuellt/handelser/2024/februari/17/17-februari-11.31-morddrap-forsok-goteborg/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 505519,
-    "datetime": "2024-02-17 21:35:52 +01:00",
-    "name": "17 februari 21.14, Trafikolycka, Kristianstad",
-    "summary": "Personbil i olycka, Everöd.",
-    "url": "/aktuellt/handelser/2024/februari/17/17-februari-21.14-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 505541,
-    "datetime": "2024-02-18 7:37:58 +01:00",
-    "name": "18 februari 07.37, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer ett urval av nattens operativa händelser i länet",
-    "url": "/aktuellt/handelser/2024/februari/18/18-februari-07.37-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 505540,
-    "datetime": "2024-02-18 7:19:41 +01:00",
-    "name": "18 februari 07.18, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer ett urval av nattens operativa händelser i länet",
-    "url": "/aktuellt/handelser/2024/februari/18/18-februari-07.18-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 505536,
-    "datetime": "2024-02-18 7:01:28 +01:00",
-    "name": "18 februari 02.11, Rattfylleri, Växjö",
-    "summary": "Handelsvägen. Misstanke om rattfylleri i samband med kontroll av fordon och förare.",
-    "url": "/aktuellt/handelser/2024/februari/18/18-februari-02.11-rattfylleri-vaxjo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 505535,
-    "datetime": "2024-02-18 7:00:12 +01:00",
-    "name": "18 februari 01.00, Brand, Osby",
-    "summary": "Marklundavägen. Brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/februari/18/18-februari-01.00-brand-osby/",
-    "type": "Brand",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
-    }
-  },
-  {
-    "id": 505534,
-    "datetime": "2024-02-18 6:59:15 +01:00",
-    "name": "18 februari 00.49, Skadegörelse, Landskrona",
-    "summary": "Skolallén. Brand i fordon.",
-    "url": "/aktuellt/handelser/2024/februari/18/18-februari-00.49-skadegorelse-landskrona/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 505526,
-    "datetime": "2024-02-18 4:39:25 +01:00",
-    "name": "18 februari 03.00, Detonation, Tyresö",
-    "summary": "Ett föremål med brännbar vätska har antänts och exploderat vid en flerfamiljsfastighet i Öringe.",
-    "url": "/aktuellt/handelser/2024/februari/18/18-februari-03.00-detonation-tyreso/",
-    "type": "Detonation",
-    "location": {
-      "name": "Tyresö",
-      "gps": "59.242595,18.283392"
     }
   }
 ]
