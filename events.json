@@ -1,5 +1,41 @@
 [
   {
+    "id": 507934,
+    "datetime": "2024-03-01 19:41:25 +01:00",
+    "name": "01 mars 19.24, Bråk, Kalmar",
+    "summary": "Bråk i fastighet, Tegelviken.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-19.24-brak-kalmar/",
+    "type": "Bråk",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 507933,
+    "datetime": "2024-03-01 19:39:39 +01:00",
+    "name": "01 mars 18.09, Trafikolycka, Härjedalen",
+    "summary": "Sveg, olycka med skoter.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-18.09-trafikolycka-harjedalen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 507932,
+    "datetime": "2024-03-01 19:35:51 +01:00",
+    "name": "01 mars 18.46, Brand, Umeå",
+    "summary": "Umeå, larm om röklukt i byggnad på Tomtebo.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-18.46-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 507931,
     "datetime": "2024-03-01 19:16:44 +01:00",
     "name": "01 mars 18.55, Brand, Skellefteå",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 507061,
-    "datetime": "2024-02-23 7:04:18 +01:00",
-    "name": "23 februari 07.04, Sammanfattning natt, Örebro län",
-    "summary": "Natt till fredag polisområde Örebro",
-    "url": "/aktuellt/handelser/2024/februari/23/23-februari-07.04-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 507062,
-    "datetime": "2024-02-23 6:56:26 +01:00",
-    "name": "23 februari 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/februari/23/23-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 507063,
-    "datetime": "2024-02-23 6:44:18 +01:00",
-    "name": "23 februari 04.21, Trafikolycka, smitning från, Staffanstorp",
-    "summary": "Smitningsolycka, E22:an Hjärup",
-    "url": "/aktuellt/handelser/2024/februari/23/23-februari-04.21-trafikolycka-smitning-fran-staffanstorp/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Staffanstorp",
-      "gps": "55.641065,13.212229"
     }
   }
 ]
