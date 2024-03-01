@@ -1,5 +1,113 @@
 [
   {
+    "id": 507838,
+    "datetime": "2024-03-01 7:24:48 +01:00",
+    "name": "01 mars 07.01, Trafikolycka, Lekeberg",
+    "summary": "Polisen är på väg till en trafikolycka i Lekeberg.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-07.01-trafikolycka-lekeberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lekeberg",
+      "gps": "59.16539,14.743407"
+    }
+  },
+  {
+    "id": 507837,
+    "datetime": "2024-03-01 7:22:21 +01:00",
+    "name": "01 mars 07.18, Trafikolycka, vilt, Köping",
+    "summary": "Bil väjde för älg och körde av vägen.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-07.18-trafikolycka-vilt-koping/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 507836,
+    "datetime": "2024-03-01 7:21:28 +01:00",
+    "name": "01 mars 06.36, Trafikolycka, Filipstad",
+    "summary": "Polisen är beordrade till en trafikolycka på riksväg 63.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-06.36-trafikolycka-filipstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 507834,
+    "datetime": "2024-03-01 7:18:06 +01:00",
+    "name": "01 mars 03.46, Stöld/inbrott, Sandviken",
+    "summary": "Inbrott i företagslokal.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-03.46-stoldinbrott-sandviken/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 507829,
+    "datetime": "2024-03-01 7:01:25 +01:00",
+    "name": "01 mars 06.00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-06.00-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 507831,
+    "datetime": "2024-03-01 7:01:13 +01:00",
+    "name": "01 mars 06.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-06.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 507833,
+    "datetime": "2024-03-01 6:59:54 +01:00",
+    "name": "01 mars 03.29, Brand, Södertälje",
+    "summary": "En man har gripits för grov mordbrand i samband med en brand i ett flerfamiljshus i Fornhöjden.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-03.29-brand-sodertalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 507832,
+    "datetime": "2024-03-01 6:54:48 +01:00",
+    "name": "01 mars 03.26, Stöld/inbrott, Helsingborg",
+    "summary": "Inbrott i villa på Bankogårdsgatan.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-03.26-stoldinbrott-helsingborg/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 507830,
+    "datetime": "2024-03-01 6:47:59 +01:00",
+    "name": "01 mars 00.00, Misshandel, Lund",
+    "summary": "Ringa misshandel på Stora Tomegatan.",
+    "url": "/aktuellt/handelser/2024/mars/1/01-mars-00.00-misshandel-lund/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
     "id": 507828,
     "datetime": "2024-03-01 6:38:04 +01:00",
     "name": "01 mars 00.45, Knivlagen, Karlskrona",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 506985,
-    "datetime": "2024-02-22 12:50:11 +01:00",
-    "name": "22 februari 12.50, Övrigt, Hallands län",
-    "summary": "Är på möte och återkommer vid 15-tiden.",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-12.50-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 506988,
-    "datetime": "2024-02-22 12:47:26 +01:00",
-    "name": "22 februari 09.55, Brand, Umeå",
-    "summary": "Brand i garage i Umeå.",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-09.55-brand-umea/",
-    "type": "Brand",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 506975,
-    "datetime": "2024-02-22 10:53:37 +01:00",
-    "name": "22 februari 10.52, Trafikolycka, Nässjö",
-    "summary": "Trafikolycka i Nässjö",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-10.52-trafikolycka-nassjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
-    }
-  },
-  {
-    "id": 506977,
-    "datetime": "2024-02-22 11:14:13 +01:00",
-    "name": "22 februari 11.13, Övrigt, Jönköping",
-    "summary": "Avliden person hittad utomhus",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-11.13-ovrigt-jonkoping/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 506976,
-    "datetime": "2024-02-22 10:56:03 +01:00",
-    "name": "22 februari 10.30, Rattfylleri, Lindesberg",
-    "summary": "En bilist är misstänkt för brott i Gusselby",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-10.30-rattfylleri-lindesberg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
-    }
-  },
-  {
-    "id": 506974,
-    "datetime": "2024-02-22 10:39:18 +01:00",
-    "name": "22 februari 10.02, Arbetsplatsolycka, Ekerö",
-    "summary": "En byggnadsarbetare på Lovö har skadat sin hand svårt och får åka ambulans till sjukhus.",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-10.02-arbetsplatsolycka-ekero/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 506973,
-    "datetime": "2024-02-22 10:36:10 +01:00",
-    "name": "22 februari 06.32, Rattfylleri, Östersund",
-    "summary": "Misstänkt rattfylleri i Karlslund, Östersund.",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-06.32-rattfylleri-ostersund/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 506972,
-    "datetime": "2024-02-22 10:17:35 +01:00",
-    "name": "22 februari 04.35, Brand, Vilhelmina",
-    "summary": "Larm om brand i flerfamiljshus i Vilhelmina.",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-04.35-brand-vilhelmina/",
-    "type": "Brand",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 506969,
-    "datetime": "2024-02-22 10:07:53 +01:00",
-    "name": "22 februari 08.28, Olaga intrång, Uppsala",
-    "summary": "Personer bröt sig in i hotellrum.",
-    "url": "/aktuellt/handelser/2024/februari/22/22-februari-08.28-olaga-intrang-uppsala/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
