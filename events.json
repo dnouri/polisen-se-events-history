@@ -1,5 +1,77 @@
 [
   {
+    "id": 508004,
+    "datetime": "2024-03-03 7:15:58 +01:00",
+    "name": "03 mars 01.52, Skadegörelse, Köping",
+    "summary": "Skadegörelse på skyltfönster.",
+    "url": "/aktuellt/handelser/2024/mars/3/03-mars-01.52-skadegorelse-koping/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 508002,
+    "datetime": "2024-03-03 7:06:40 +01:00",
+    "name": "03 mars 07.00, Sammanfattning natt, Västerbottens län",
+    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/mars/3/03-mars-07.00-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 508001,
+    "datetime": "2024-03-03 7:00:20 +01:00",
+    "name": "03 mars 00.54, Rattfylleri, Skurup",
+    "summary": "Misstänkt rattfylleri på Kyrkgatan.",
+    "url": "/aktuellt/handelser/2024/mars/3/03-mars-00.54-rattfylleri-skurup/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skurup",
+      "gps": "55.48045,13.502349"
+    }
+  },
+  {
+    "id": 508000,
+    "datetime": "2024-03-03 6:53:59 +01:00",
+    "name": "03 mars 02.03, Brand, Båstad",
+    "summary": "Brand i förråd på Norra Ringvägen.",
+    "url": "/aktuellt/handelser/2024/mars/3/03-mars-02.03-brand-bastad/",
+    "type": "Brand",
+    "location": {
+      "name": "Båstad",
+      "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 507999,
+    "datetime": "2024-03-03 6:47:49 +01:00",
+    "name": "03 mars 06.39, Sammanfattning natt, Norrbottens län",
+    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/mars/3/03-mars-06.39-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 507998,
+    "datetime": "2024-03-03 6:46:29 +01:00",
+    "name": "03 mars 01.07, Rattfylleri, Ljungby",
+    "summary": "Misstäkt rattfylleri på Lv124 vid Södra Ljunga.",
+    "url": "/aktuellt/handelser/2024/mars/3/03-mars-01.07-rattfylleri-ljungby/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
     "id": 507997,
     "datetime": "2024-03-03 6:38:59 +01:00",
     "name": "03 mars 04.10, Narkotikabrott, Vimmerby",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 507179,
-    "datetime": "2024-02-24 7:38:18 +01:00",
-    "name": "24 februari 04.39, Rattfylleri, Haninge",
-    "summary": "Fordonsförare i Haninge misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2024/februari/24/24-februari-04.39-rattfylleri-haninge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 507178,
-    "datetime": "2024-02-24 7:32:57 +01:00",
-    "name": "24 februari 07.12, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2024/februari/24/24-februari-07.12-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 507177,
-    "datetime": "2024-02-24 7:28:07 +01:00",
-    "name": "23 februari 23.36, Olaga hot, Hallstahammar",
-    "summary": "Polis beordras till Hallstahammar.",
-    "url": "/aktuellt/handelser/2024/februari/23/23-februari-23.36-olaga-hot-hallstahammar/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Hallstahammar",
-      "gps": "59.613204,16.229476"
-    }
-  },
-  {
-    "id": 507176,
-    "datetime": "2024-02-24 7:16:55 +01:00",
-    "name": "24 februari 03.48, Misshandel, Stockholm",
-    "summary": "Man greps misstänkt för misshandel av kvinna han har relation med.",
-    "url": "/aktuellt/handelser/2024/februari/24/24-februari-03.48-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 507174,
-    "datetime": "2024-02-24 7:12:27 +01:00",
-    "name": "24 februari 07.00, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2024/februari/24/24-februari-07.00-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 507173,
-    "datetime": "2024-02-24 7:10:57 +01:00",
-    "name": "24 februari 00.39, Brand, Uppsala",
-    "summary": "Brand i trapphus i Nyby.",
-    "url": "/aktuellt/handelser/2024/februari/24/24-februari-00.39-brand-uppsala/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
