@@ -1,5 +1,89 @@
 [
   {
+    "id": 508313,
+    "datetime": "2024-03-04 21:18:35 +01:00",
+    "name": "04 mars 20.57, Brand, Alingsås",
+    "summary": "SOS får larm om en lägenhetsbrand på Södra Ringgatan, Alingsås.",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-20.57-brand-alingsas/",
+    "type": "Brand",
+    "location": {
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
+    }
+  },
+  {
+    "id": 508293,
+    "datetime": "2024-03-04 18:53:05 +01:00",
+    "name": "04 mars 18.40, Försvunnen person, Jönköping",
+    "summary": "Försvunnen person",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-18.40-forsvunnen-person-jonkoping/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 508312,
+    "datetime": "2024-03-04 21:10:31 +01:00",
+    "name": "04 mars 18.07, Våld/hot mot tjänsteman, Örebro",
+    "summary": "En man i sjuttioårsåldern misstänks för flera brott, bland annat hot mot tjänsteman.",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-18.07-valdhot-mot-tjansteman-orebro/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 508307,
+    "datetime": "2024-03-04 20:48:05 +01:00",
+    "name": "04 mars 20.29, Detonation, Stockholm",
+    "summary": "Larm om explosion i Fagersjö.",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-20.29-detonation-stockholm/",
+    "type": "Detonation",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 508311,
+    "datetime": "2024-03-04 21:03:52 +01:00",
+    "name": "04 mars 19.50, Trafikkontroll, Härnösand",
+    "summary": "Resultat efter en trafikkontroll på E4, Fröland.",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-19.50-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 508310,
+    "datetime": "2024-03-04 20:58:20 +01:00",
+    "name": "04 mars 15.18, Rattfylleri, Jokkmokk",
+    "summary": "Misstänkt drograttfylleri på riksväg 97.",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-15.18-rattfylleri-jokkmokk/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Jokkmokk",
+      "gps": "66.606961,19.822921"
+    }
+  },
+  {
+    "id": 508308,
+    "datetime": "2024-03-04 20:49:24 +01:00",
+    "name": "04 mars 17.58, Skadegörelse, Umeå",
+    "summary": "Polispatrull beordras till centrala Umeå med anledning av en misstänkt skadegörelse.",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-17.58-skadegorelse-umea/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 508306,
     "datetime": "2024-03-04 20:38:24 +01:00",
     "name": "04 mars 18.36, Narkotikabrott, Östersund",
@@ -153,18 +237,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 508293,
-    "datetime": "2024-03-04 18:53:05 +01:00",
-    "name": "04 mars 18.40, Försvunnen person, Jönköping",
-    "summary": "Försvunnen person",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-18.40-forsvunnen-person-jonkoping/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 507290,
-    "datetime": "2024-02-26 7:52:08 +01:00",
-    "name": "26 februari 07.16, Djur, Malmö",
-    "summary": "Misstänkt förgöringsbrott i Almhög.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-07.16-djur-malmo/",
-    "type": "Djur",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 507295,
-    "datetime": "2024-02-26 8:07:54 +01:00",
-    "name": "26 februari 08.05, Trafikolycka, singel, Vetlanda",
-    "summary": "En till sjukhus efter olycka.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-08.05-trafikolycka-singel-vetlanda/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
-    }
-  },
-  {
-    "id": 507279,
-    "datetime": "2024-02-26 8:00:09 +01:00",
-    "name": "26 februari 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 507278,
-    "datetime": "2024-02-26 7:59:59 +01:00",
-    "name": "26 februari 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 507277,
-    "datetime": "2024-02-26 7:59:42 +01:00",
-    "name": "26 februari 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 507289,
-    "datetime": "2024-02-26 7:32:17 +01:00",
-    "name": "26 februari 04.42, Trafikhinder, Heby",
-    "summary": "Stillastående och tom bil skapar köer på riksväg 56.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-04.42-trafikhinder-heby/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
     }
   }
 ]
