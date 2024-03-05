@@ -1,14 +1,26 @@
 [
   {
-    "id": 509483,
-    "datetime": "2024-03-05 19:56:51 +01:00",
-    "name": "05 mars 17.06, Misshandel, Avesta",
-    "summary": "Flera personer är inblandade i ett bråk i centrum",
-    "url": "/aktuellt/handelser/2024/mars/5/05-mars-17.06-misshandel-avesta/",
+    "id": 509452,
+    "datetime": "2024-03-05 17:05:15 +01:00",
+    "name": "05 mars 12.48, Farligt föremål, misstänkt, Västerås",
+    "summary": "Polisen undersöker misstänkt farligt föremål.",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-12.48-farligt-foremal-misstankt-vasteras/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 509490,
+    "datetime": "2024-03-05 20:39:10 +01:00",
+    "name": "05 mars 14.50, Misshandel, Kiruna",
+    "summary": "Polisen kontaktas om att en man misshandlat en annan man vid en adress öster om Kiruna.",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-14.50-misshandel-kiruna/",
     "type": "Misshandel",
     "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
     }
   },
   {
@@ -21,6 +33,42 @@
     "location": {
       "name": "Lekeberg",
       "gps": "59.16539,14.743407"
+    }
+  },
+  {
+    "id": 509489,
+    "datetime": "2024-03-05 20:25:26 +01:00",
+    "name": "05 mars 19.33, Brand, Karlstad",
+    "summary": "Det har varit rökutveckling i en lägenhet på Norrstrand",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-19.33-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 509487,
+    "datetime": "2024-03-05 20:16:22 +01:00",
+    "name": "05 mars 17.16, Trafikbrott, Haninge",
+    "summary": "Förföljande i Haninge.",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-17.16-trafikbrott-haninge/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 509483,
+    "datetime": "2024-03-05 19:56:51 +01:00",
+    "name": "05 mars 17.06, Misshandel, Avesta",
+    "summary": "Flera personer är inblandade i ett bråk i centrum",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-17.06-misshandel-avesta/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
     }
   },
   {
@@ -153,18 +201,6 @@
     "location": {
       "name": "Essunga",
       "gps": "58.195507,12.778158"
-    }
-  },
-  {
-    "id": 509452,
-    "datetime": "2024-03-05 17:05:15 +01:00",
-    "name": "05 mars 12.48, Farligt föremål, misstänkt, Västerås",
-    "summary": "Polisen undersöker misstänkt farligt föremål.",
-    "url": "/aktuellt/handelser/2024/mars/5/05-mars-12.48-farligt-foremal-misstankt-vasteras/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 507428,
-    "datetime": "2024-02-27 8:00:32 +01:00",
-    "name": "27 februari 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "En lugn natt med endast någon enstaka notis värd att notera.",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 507425,
-    "datetime": "2024-02-27 7:31:29 +01:00",
-    "name": "27 februari 07.30, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-07.30-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 507424,
-    "datetime": "2024-02-27 7:30:29 +01:00",
-    "name": "27 februari 07.29, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-07.29-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
