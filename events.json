@@ -1,5 +1,101 @@
 [
   {
+    "id": 509338,
+    "datetime": "2024-03-05 7:23:45 +01:00",
+    "name": "05 mars 00.12, Rattfylleri, Växjö",
+    "summary": "Man misstänkt för rattfylleri samt grov olovlig körning",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-00.12-rattfylleri-vaxjo/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 509336,
+    "datetime": "2024-03-05 7:19:05 +01:00",
+    "name": "04 mars 21.19, Vållande till kroppsskada, Enköping",
+    "summary": "Man misstänks för vållande till kroppsskada.",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-21.19-vallande-till-kroppsskada-enkoping/",
+    "type": "Vållande till kroppsskada",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 509335,
+    "datetime": "2024-03-05 7:15:38 +01:00",
+    "name": "05 mars 00.55, Skadegörelse, Lund",
+    "summary": "Olaga intrång i gymlokal",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-00.55-skadegorelse-lund/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 509334,
+    "datetime": "2024-03-05 7:06:05 +01:00",
+    "name": "05 mars 06.41, Trafikolycka, Båstad",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-06.41-trafikolycka-bastad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Båstad",
+      "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 509332,
+    "datetime": "2024-03-05 6:59:08 +01:00",
+    "name": "05 mars 02.54, Trafikolycka, smitning från, Svedala",
+    "summary": "17-åring misstänkt för olovlig körning samt smitning från trafikolycksplats, Klågerup",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-02.54-trafikolycka-smitning-fran-svedala/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Svedala",
+      "gps": "55.508908,13.23711"
+    }
+  },
+  {
+    "id": 508307,
+    "datetime": "2024-03-04 20:48:05 +01:00",
+    "name": "04 mars 20.29, Detonation, Stockholm",
+    "summary": "Larm om explosion i Fagersjö.",
+    "url": "/aktuellt/handelser/2024/mars/4/04-mars-20.29-detonation-stockholm/",
+    "type": "Detonation",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 509331,
+    "datetime": "2024-03-05 6:51:18 +01:00",
+    "name": "05 mars 02.49, Skadegörelse, Svedala",
+    "summary": "Ruta krossad på frisörsalong",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-02.49-skadegorelse-svedala/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Svedala",
+      "gps": "55.508908,13.23711"
+    }
+  },
+  {
+    "id": 509330,
+    "datetime": "2024-03-05 6:48:23 +01:00",
+    "name": "05 mars 00.21, Narkotikabrott, Kristianstad",
+    "summary": "Kvinna misstänkt för narkotikabrott",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-00.21-narkotikabrott-kristianstad/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
     "id": 509328,
     "datetime": "2024-03-05 6:17:25 +01:00",
     "name": "05 mars 05.47, Sammanfattning kväll och natt, Västra Götalands län",
@@ -57,18 +153,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 508307,
-    "datetime": "2024-03-04 20:48:05 +01:00",
-    "name": "04 mars 20.29, Detonation, Stockholm",
-    "summary": "Larm om explosion i Fagersjö.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-20.29-detonation-stockholm/",
-    "type": "Detonation",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 507345,
-    "datetime": "2024-02-26 13:02:41 +01:00",
-    "name": "26 februari 12.50, Trafikolycka, Hässleholm",
-    "summary": "Trafikolycka mellan bil och cykel på Stobyvägen.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-12.50-trafikolycka-hassleholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 507344,
-    "datetime": "2024-02-26 12:35:49 +01:00",
-    "name": "26 februari 11.47, Stöld/inbrott, Upplands-bro",
-    "summary": "Polis kallas till en bostad i Håbo-Tibble kommundel med anledning av pågående inbrott.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-11.47-stoldinbrott-upplands-bro/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Upplands-bro",
-      "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 507342,
-    "datetime": "2024-02-26 12:22:23 +01:00",
-    "name": "26 februari 10.31, Arbetsplatsolycka, Luleå",
-    "summary": "Porsön, en man har skadat foten i samband med arbete",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-10.31-arbetsplatsolycka-lulea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 507264,
-    "datetime": "2024-02-25 19:22:47 +01:00",
-    "name": "25 februari 19.19, Polisinsats/kommendering, Sundsvall",
-    "summary": "Polis har skjutit verkanseld mot en man i Sundsvall.",
-    "url": "/aktuellt/handelser/2024/februari/25/25-februari-19.19-polisinsatskommendering-sundsvall/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 507341,
-    "datetime": "2024-02-26 11:57:01 +01:00",
-    "name": "26 februari 11.18, Trafikolycka, Norrtälje",
-    "summary": "Polis och räddningstjänst kallas till Lövdalsvägen/Odenslundsvägen med anledning av en trafikolycka.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-11.18-trafikolycka-norrtalje/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 507340,
-    "datetime": "2024-02-26 11:55:31 +01:00",
-    "name": "26 februari 11.01, Trafikolycka, personskada, Eda",
-    "summary": "En person har förts till sjukhus efter en trafikolycka på riksväg 61 i Charlottenberg.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-11.01-trafikolycka-personskada-eda/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Eda",
-      "gps": "59.83754,12.314031"
-    }
-  },
-  {
-    "id": 507339,
-    "datetime": "2024-02-26 11:53:14 +01:00",
-    "name": "26 februari 11.53, Övrigt, Kiruna",
-    "summary": "Polisen utreder tågurspårning vid Vassijaure i lördags.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-11.53-ovrigt-kiruna/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
     }
   }
 ]
