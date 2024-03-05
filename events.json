@@ -1,17 +1,5 @@
 [
   {
-    "id": 509327,
-    "datetime": "2024-03-05 5:10:10 +01:00",
-    "name": "05 mars 03.48, Detonation, Stockholm",
-    "summary": "Polis kallas till ett flerbostadshus i Larsberg på Lidingö med anledning av en detonation.",
-    "url": "/aktuellt/handelser/2024/mars/5/05-mars-03.48-detonation-stockholm/",
-    "type": "Detonation",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 509405,
     "datetime": "2024-03-05 12:19:38 +01:00",
     "name": "05 mars 11.59, Trafikolycka, Tingsryd",
@@ -21,6 +9,30 @@
     "location": {
       "name": "Tingsryd",
       "gps": "56.524745,14.978534"
+    }
+  },
+  {
+    "id": 509378,
+    "datetime": "2024-03-05 14:57:13 +01:00",
+    "name": "05 mars 10.27, Trafikolycka, Halmstad",
+    "summary": "Trafikolycka vid Hallands sjukhus, barn och personbil.",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-10.27-trafikolycka-halmstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 509327,
+    "datetime": "2024-03-05 5:10:10 +01:00",
+    "name": "05 mars 03.48, Detonation, Stockholm",
+    "summary": "Polis kallas till ett flerbostadshus i Larsberg på Lidingö med anledning av en detonation.",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-03.48-detonation-stockholm/",
+    "type": "Detonation",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 507378,
-    "datetime": "2024-02-26 19:14:37 +01:00",
-    "name": "26 februari 17.32, Fylleri/LOB, Skellefteå",
-    "summary": "Centrum, berusad man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-17.32-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
