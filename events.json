@@ -1,5 +1,101 @@
 [
   {
+    "id": 509351,
+    "datetime": "2024-03-05 8:15:55 +01:00",
+    "name": "05 mars 08.05, Trafikolycka, Ljungby",
+    "summary": "Larm om trafikolycka, Ljungby",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-08.05-trafikolycka-ljungby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 509339,
+    "datetime": "2024-03-05 8:00:00 +01:00",
+    "name": "05 mars 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "En lugn natt. Här följer ett utdrag från de händelser som ändå sticker ut.",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 509343,
+    "datetime": "2024-03-05 7:59:42 +01:00",
+    "name": "05 mars 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Ingen större händelse som inträffat under natten. Någon enstaka notis värd att nämna.",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 509348,
+    "datetime": "2024-03-05 7:59:34 +01:00",
+    "name": "05 mars 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "En förhållandevis lugn natt utan större händelser. Ett ärende från Linköping som sticker ut något.",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 509349,
+    "datetime": "2024-03-05 7:55:37 +01:00",
+    "name": "05 mars 07.54, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-07.54-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 509347,
+    "datetime": "2024-03-05 7:54:44 +01:00",
+    "name": "05 mars 07.53, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-07.53-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 509346,
+    "datetime": "2024-03-05 7:53:50 +01:00",
+    "name": "05 mars 07.52, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-07.52-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 509345,
+    "datetime": "2024-03-05 7:52:49 +01:00",
+    "name": "05 mars 07.52, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-07.52-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 509333,
     "datetime": "2024-03-05 7:25:40 +01:00",
     "name": "05 mars 06.27, Djur, Malmö",
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 507364,
-    "datetime": "2024-02-26 16:49:11 +01:00",
-    "name": "26 februari 16.39, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat i Örebro",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-16.39-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 507367,
-    "datetime": "2024-02-26 17:12:14 +01:00",
-    "name": "26 februari 13.49, Rattfylleri, Kramfors",
-    "summary": "Riksväg 90, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-13.49-rattfylleri-kramfors/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 507365,
-    "datetime": "2024-02-26 16:51:58 +01:00",
-    "name": "26 februari 14.57, Åldringsbrott, Nacka",
-    "summary": "Äldre kvinna utsatt för bedrägeri.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-14.57-aldringsbrott-nacka/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 507363,
-    "datetime": "2024-02-26 16:24:44 +01:00",
-    "name": "26 februari 15.54, Trafikolycka, Växjö",
-    "summary": "En buss och en personbil kolliderar på Evedalsvägen i höjd med Evedalsåsens naturreservat.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-15.54-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 507362,
-    "datetime": "2024-02-26 16:08:23 +01:00",
-    "name": "26 februari 14.15, Stöld, Umeå",
-    "summary": "Centrala stan, tonåring stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-14.15-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 507354,
-    "datetime": "2024-02-26 14:50:28 +01:00",
-    "name": "26 februari 14.16, Trafikolycka, personskada, Ulricehamn",
-    "summary": "På länsväg 157 i Skottek har en bilist kört av vägen och voltat.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-14.16-trafikolycka-personskada-ulricehamn/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Ulricehamn",
-      "gps": "57.794789,13.420516"
-    }
-  },
-  {
-    "id": 507360,
-    "datetime": "2024-02-26 16:01:28 +01:00",
-    "name": "26 februari 14.28, Trafikbrott, Härjedalen",
-    "summary": "Sveg, trafikant med släp stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-14.28-trafikbrott-harjedalen/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 507352,
-    "datetime": "2024-02-26 14:16:19 +01:00",
-    "name": "26 februari 13.52, Trafikolycka, Malmö",
-    "summary": "Trafikolycka på Inre Ringvägen vid Rosengård.",
-    "url": "/aktuellt/handelser/2024/februari/26/26-februari-13.52-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
