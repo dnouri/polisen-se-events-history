@@ -1,14 +1,50 @@
 [
   {
-    "id": 509530,
-    "datetime": "2024-03-06 9:04:06 +01:00",
-    "name": "06 mars 08.56, Trafikolycka, Lomma",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2024/mars/6/06-mars-08.56-trafikolycka-lomma/",
+    "id": 509539,
+    "datetime": "2024-03-06 10:17:57 +01:00",
+    "name": "06 mars 10.01, Trafikkontroll, Sundsvall",
+    "summary": "E14 Nacksta, resultat efter nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-10.01-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 509538,
+    "datetime": "2024-03-06 10:15:58 +01:00",
+    "name": "06 mars 09.52, Trafikolycka, Skellefteå",
+    "summary": "Eriksberg, en trafikolycka har inträffat vid Mossgatan/Slalomvägen",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-09.52-trafikolycka-skelleftea/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Lomma",
-      "gps": "55.673138,13.067406"
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 509537,
+    "datetime": "2024-03-06 10:13:16 +01:00",
+    "name": "06 mars 09.26, Trafikkontroll, Storuman",
+    "summary": "E45, resultat efter trafikkontroll vid Skarvsjöby",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-09.26-trafikkontroll-storuman/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 509536,
+    "datetime": "2024-03-06 10:11:45 +01:00",
+    "name": "06 mars 08.13, Trafikkontroll, Skellefteå",
+    "summary": "Gammelstaden, resultat efter trafikkontroll på Bolidenvägen",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-08.13-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -24,11 +60,47 @@
     }
   },
   {
+    "id": 509533,
+    "datetime": "2024-03-06 9:48:19 +01:00",
+    "name": "06 mars 08.49, Trafikkontroll, Haparanda",
+    "summary": "Centrum, resultat efter trafikkontroll vid Storgatan/Södra Esplanaden",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-08.49-trafikkontroll-haparanda/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 509532,
+    "datetime": "2024-03-06 9:46:44 +01:00",
+    "name": "06 mars 07.46, Rattfylleri, Arjeplog",
+    "summary": "Öberget, bilist stoppad i samband med nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-07.46-rattfylleri-arjeplog/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arjeplog",
+      "gps": "66.051505,17.890054"
+    }
+  },
+  {
+    "id": 509530,
+    "datetime": "2024-03-06 9:04:06 +01:00",
+    "name": "06 mars 08.56, Trafikolycka, Lomma",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-08.56-trafikolycka-lomma/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lomma",
+      "gps": "55.673138,13.067406"
+    }
+  },
+  {
     "id": 509531,
     "datetime": "2024-03-06 9:12:16 +01:00",
-    "name": "06 mars 03.52, Misshandel, Sandviken",
+    "name": "06 mars 07.00, Misshandel, Sandviken",
     "summary": "Man gripen efter att ha misshandlat kvinna.",
-    "url": "/aktuellt/handelser/2024/mars/6/06-mars-03.52-misshandel-sandviken/",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-07.00-misshandel-sandviken/",
     "type": "Misshandel",
     "location": {
       "name": "Sandviken",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 507500,
-    "datetime": "2024-02-27 19:13:16 +01:00",
-    "name": "27 februari 18.21, Rån, Laholm",
-    "summary": "Grovt rån",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-18.21-ran-laholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Laholm",
-      "gps": "56.505756,13.045605"
-    }
-  },
-  {
-    "id": 507499,
-    "datetime": "2024-02-27 18:26:17 +01:00",
-    "name": "27 februari 16.43, Trafikbrott, Umeå",
-    "summary": "E4 Sörmjöle, bilist stoppad efter hastighetsöverträdelse",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-16.43-trafikbrott-umea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 507498,
-    "datetime": "2024-02-27 18:23:30 +01:00",
-    "name": "27 februari 16.51, Trafikkontroll, Skellefteå",
-    "summary": "Tuvan, resultat efter trafikkontroll vid Bockholmsvägen",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-16.51-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 507497,
-    "datetime": "2024-02-27 18:11:23 +01:00",
-    "name": "27 februari 00.00, Misshandel, Västra Götalands län",
-    "summary": "Misshandel, relation",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-002.00-misshandel-vastra-gotalands-lan/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 507496,
-    "datetime": "2024-02-27 17:35:47 +01:00",
-    "name": "27 februari 16.25, Brand, Malmö",
-    "summary": "Oxie. Brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-16.25-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 507495,
-    "datetime": "2024-02-27 17:20:59 +01:00",
-    "name": "27 februari 00.00, Misshandel, Västra Götalands län",
-    "summary": "Misshandel, relation",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-00.00-misshandel-vastra-gotalands-lan/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
