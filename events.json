@@ -1,5 +1,53 @@
 [
   {
+    "id": 509326,
+    "datetime": "2024-03-05 3:24:56 +01:00",
+    "name": "05 mars 01.33, Mord/dråp, försök, Skellefteå",
+    "summary": "Tre personer förda till sjukhus med allvarliga skador, en person gripen som misstänkt för Försök till Mord. Ut",
+    "url": "/aktuellt/handelser/2024/mars/5/05-mars-01.33-morddrap-forsok-skelleftea/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 509565,
+    "datetime": "2024-03-06 12:42:20 +01:00",
+    "name": "06 mars 12.05, Trafikolycka, singel, Sorsele",
+    "summary": "Söder om Ammarnäs, en person skadad i samband med skotertur",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-12.05-trafikolycka-singel-sorsele/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Sorsele",
+      "gps": "65.534938,17.542175"
+    }
+  },
+  {
+    "id": 509578,
+    "datetime": "2024-03-06 13:39:59 +01:00",
+    "name": "06 mars 13.23, Brand, Sjöbo",
+    "summary": "Larm om brand i ladugård",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-13.23-brand-sjobo/",
+    "type": "Brand",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 509577,
+    "datetime": "2024-03-06 13:38:52 +01:00",
+    "name": "06 mars 11.54, Bedrägeri, Göteborg",
+    "summary": "Drottningtorget, Östra Nordstaden",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-11.54-bedrageri-goteborg/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 509576,
     "datetime": "2024-03-06 13:31:48 +01:00",
     "name": "06 mars 07.48, Misshandel, Umeå",
@@ -129,18 +177,6 @@
     "location": {
       "name": "Botkyrka",
       "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 509565,
-    "datetime": "2024-03-06 12:42:20 +01:00",
-    "name": "06 mars 12.05, Trafikolycka, singel, Sorsele",
-    "summary": "Söder om Ammarnäs, en person skadad i samband med skotertur",
-    "url": "/aktuellt/handelser/2024/mars/6/06-mars-12.05-trafikolycka-singel-sorsele/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Sorsele",
-      "gps": "65.534938,17.542175"
     }
   },
   {
@@ -1173,18 +1209,6 @@
     "location": {
       "name": "Haparanda",
       "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 509326,
-    "datetime": "2024-03-05 3:24:56 +01:00",
-    "name": "05 mars 01.33, Mord/dråp, försök, Skellefteå",
-    "summary": "Tre personer förda till sjukhus med allvarliga skador, en person gripen som misstänkt för Försök till Mord. Ut",
-    "url": "/aktuellt/handelser/2024/mars/5/05-mars-01.33-morddrap-forsok-skelleftea/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 507525,
-    "datetime": "2024-02-27 21:45:09 +01:00",
-    "name": "27 februari 21.44, Övrigt, Västra Götalands län",
-    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-21.44-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 507524,
-    "datetime": "2024-02-27 21:44:54 +01:00",
-    "name": "27 februari 21.44, Övrigt, Hallands län",
-    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-21.44-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
