@@ -1,14 +1,38 @@
 [
   {
-    "id": 509607,
-    "datetime": "2024-03-06 17:30:00 +01:00",
-    "name": "06 mars 16.31, Trafikolycka, Botkyrka",
-    "summary": "Trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2024/mars/6/06-mars-16.31-trafikolycka-botkyrka/",
-    "type": "Trafikolycka",
+    "id": 509610,
+    "datetime": "2024-03-06 18:17:15 +01:00",
+    "name": "06 mars 16.47, Rattfylleri, Lerum",
+    "summary": "Vittnen ringer polisen om en bilist som kör vingligt på E20.",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-16.47-rattfylleri-lerum/",
+    "type": "Rattfylleri",
     "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 509609,
+    "datetime": "2024-03-06 18:06:18 +01:00",
+    "name": "06 mars 18.06, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat från polisens arbete i vägtrafiken.",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-18.06-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 509608,
+    "datetime": "2024-03-06 18:01:04 +01:00",
+    "name": "06 mars 17.15, Trafikolycka, personskada, Solna",
+    "summary": "Trafikolycka i Råsunda.",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-17.15-trafikolycka-personskada-solna/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Hörby",
       "gps": "55.851716,13.661926"
+    }
+  },
+  {
+    "id": 509607,
+    "datetime": "2024-03-06 17:30:00 +01:00",
+    "name": "06 mars 16.31, Trafikolycka, Botkyrka",
+    "summary": "Trafikolycka på E4.",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-16.31-trafikolycka-botkyrka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 507548,
-    "datetime": "2024-02-28 7:20:22 +01:00",
-    "name": "28 februari 07.20, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en lugn natt ur polisiär synvinkel",
-    "url": "/aktuellt/handelser/2024/februari/28/28-februari-07.20-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 507547,
-    "datetime": "2024-02-28 7:20:06 +01:00",
-    "name": "28 februari 07.19, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt ur polisiär synvinkel",
-    "url": "/aktuellt/handelser/2024/februari/28/28-februari-07.19-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 507545,
-    "datetime": "2024-02-28 7:14:49 +01:00",
-    "name": "28 februari 00.05, Inbrott, Karlskrona",
-    "summary": "Inbrott i lägenhet, Kungsmarken",
-    "url": "/aktuellt/handelser/2024/februari/28/28-februari-00.05-inbrott-karlskrona/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   }
 ]
