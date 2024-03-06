@@ -1,5 +1,65 @@
 [
   {
+    "id": 509555,
+    "datetime": "2024-03-06 11:21:55 +01:00",
+    "name": "06 mars 08.49, Trafikolycka, singel, Härjedalen",
+    "summary": "Norr om Överhogdal, bilist har kört av vägen och voltat",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-08.49-trafikolycka-singel-harjedalen/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 509552,
+    "datetime": "2024-03-06 11:18:07 +01:00",
+    "name": "06 mars 10.45, Trafikolycka, personskada, Lerum",
+    "summary": "Gråbovägen, Gråbo",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-10.45-trafikolycka-personskada-lerum/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 509550,
+    "datetime": "2024-03-06 11:17:27 +01:00",
+    "name": "06 mars 11.08, Trafikkontroll, Örnsköldsvik",
+    "summary": "Själevad, resultat efter trafikkontroll vid Hörnäsvägen/Prästsundsvägen",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-11.08-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 509549,
+    "datetime": "2024-03-06 11:15:42 +01:00",
+    "name": "06 mars 10.07, Övrigt, Göteborg",
+    "summary": "Polisinsats gällande ett misstänkt farligt föremål som visade sig vara ofarligt.",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-10.07-ovrigt-goteborg/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 509545,
+    "datetime": "2024-03-06 10:54:00 +01:00",
+    "name": "06 mars 09.32, Arbetsplatsolycka, Göteborg",
+    "summary": "Önnered, byggföretag",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-09.32-arbetsplatsolycka-goteborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 509538,
     "datetime": "2024-03-06 10:15:58 +01:00",
     "name": "06 mars 09.52, Trafikolycka, Skellefteå",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 507509,
-    "datetime": "2024-02-27 20:17:49 +01:00",
-    "name": "27 februari 20.16, Brand, Gislaved",
-    "summary": "Blåljuspersonal ryckte ut till flerfamiljshus.",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-20.16-brand-gislaved/",
-    "type": "Brand",
-    "location": {
-      "name": "Gislaved",
-      "gps": "57.2985,13.54326"
-    }
-  },
-  {
-    "id": 507508,
-    "datetime": "2024-02-27 20:05:21 +01:00",
-    "name": "27 februari 18.50, Trafikbrott, Örebro",
-    "summary": "Grov olovlig körning m.m. på väster i Örebro.",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-18.50-trafikbrott-orebro/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 507503,
-    "datetime": "2024-02-27 19:30:02 +01:00",
-    "name": "27 februari 16.47, Försvunnen person, Håbo",
-    "summary": "Polisen letar efter en försvunnen person i Bålsta.",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-16.47-forsvunnen-person-habo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Håbo",
-      "gps": "59.627071,17.452298"
-    }
-  },
-  {
-    "id": 507488,
-    "datetime": "2024-02-27 15:55:07 +01:00",
-    "name": "27 februari 14.43, Stöld, Örebro",
-    "summary": "Man i 25-årsåldern gripen av väktare efter stölder i butiker i centrala Örebro.",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-14.43-stold-orebro/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 507504,
-    "datetime": "2024-02-27 19:33:46 +01:00",
-    "name": "27 februari 14.01, Vapenlagen, Göteborg",
-    "summary": "Grovt brott mot vapenlagen",
-    "url": "/aktuellt/handelser/2024/februari/27/27-februari-14.01-vapenlagen-goteborg/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
