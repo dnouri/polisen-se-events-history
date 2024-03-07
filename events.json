@@ -1,5 +1,41 @@
 [
   {
+    "id": 509505,
+    "datetime": "2024-03-06 2:23:04 +01:00",
+    "name": "06 mars 01.32, Detonation, Göteborg",
+    "summary": "Två st detonationer i Västra Frölunda.",
+    "url": "/aktuellt/handelser/2024/mars/6/06-mars-01.32-detonation-goteborg/",
+    "type": "Detonation",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 509697,
+    "datetime": "2024-03-07 12:16:50 +01:00",
+    "name": "07 mars 12.16, Övrigt, Kronobergs län",
+    "summary": "Mediecenter obemannat 12:30-15:15",
+    "url": "/aktuellt/handelser/2024/mars/7/07-mars-12.16-ovrigt-kronobergs-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 509696,
+    "datetime": "2024-03-07 12:16:27 +01:00",
+    "name": "07 mars 12.16, Övrigt, Kalmar län",
+    "summary": "Mediecenter obemannat 12:30-15:15",
+    "url": "/aktuellt/handelser/2024/mars/7/07-mars-12.16-ovrigt-kalmar-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
     "id": 509695,
     "datetime": "2024-03-07 12:16:05 +01:00",
     "name": "07 mars 12.15, Övrigt, Blekinge län",
@@ -1389,18 +1425,6 @@
     "location": {
       "name": "Degerfors",
       "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 509505,
-    "datetime": "2024-03-06 2:23:04 +01:00",
-    "name": "06 mars 01.32, Detonation, Göteborg",
-    "summary": "Två st detonationer i Västra Frölunda.",
-    "url": "/aktuellt/handelser/2024/mars/6/06-mars-01.32-detonation-goteborg/",
-    "type": "Detonation",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 507643,
-    "datetime": "2024-02-29 7:08:03 +01:00",
-    "name": "29 februari 02.34, Rattfylleri, Uppsala",
-    "summary": "Förare testades positiv på E4.",
-    "url": "/aktuellt/handelser/2024/februari/29/29-februari-02.34-rattfylleri-uppsala/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 507641,
-    "datetime": "2024-02-29 6:56:39 +01:00",
-    "name": "29 februari 04.32, Stöld/inbrott, Karlshamn",
-    "summary": "Ett inbrott sker i en butik i Svängsta.",
-    "url": "/aktuellt/handelser/2024/februari/29/29-februari-04.32-stoldinbrott-karlshamn/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
     }
   }
 ]
