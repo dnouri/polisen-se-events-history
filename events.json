@@ -1,5 +1,53 @@
 [
   {
+    "id": 509875,
+    "datetime": "2024-03-08 20:40:54 +01:00",
+    "name": "08 mars 20.11, Rån väpnat, Stockholm",
+    "summary": "En man skadad vid rånförsök i Kista",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-20.11-ran-vapnat-stockholm/",
+    "type": "Rån väpnat",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 509873,
+    "datetime": "2024-03-08 20:34:19 +01:00",
+    "name": "08 mars 18.58, Fylleri/LOB, Sundsvall",
+    "summary": "Sundsvall, polis kontaktas gällande berusad man på en adress",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-18.58-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 509871,
+    "datetime": "2024-03-08 20:27:43 +01:00",
+    "name": "08 mars 19.52, Trafikbrott, Kalix",
+    "summary": "Centrum, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-19.52-trafikbrott-kalix/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 509870,
+    "datetime": "2024-03-08 20:17:23 +01:00",
+    "name": "08 mars 19.31, Fylleri/LOB, Umeå",
+    "summary": "Ålidhems centrum, polis kontaktas gällande berusad man utanför butik",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-19.31-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 509864,
     "datetime": "2024-03-08 20:15:32 +01:00",
     "name": "08 mars 17.58, Misshandel, Skellefteå",
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Härjedalen",
       "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 507903,
-    "datetime": "2024-03-01 13:38:37 +01:00",
-    "name": "01 mars 11.19, Rattfylleri, Sollefteå",
-    "summary": "Ramsele, vid en trafikkontroll blåser en man positivt i polisens sållningsinstrument",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-11.19-rattfylleri-solleftea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 507901,
-    "datetime": "2024-03-01 13:32:19 +01:00",
-    "name": "01 mars 10.44, Brand, Härnösand",
-    "summary": "Centrum, räddningstjänst och polis kallas till ett flerfamiljshus",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-10.44-brand-harnosand/",
-    "type": "Brand",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 507896,
-    "datetime": "2024-03-01 13:26:07 +01:00",
-    "name": "01 mars 10.49, Mord/dråp, Göteborg",
-    "summary": "Polis larmas till ett boende vid Gunnebo där personal anträffat en avliden man boende på stället.",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-10.49-morddrap-goteborg/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 507898,
-    "datetime": "2024-03-01 13:20:12 +01:00",
-    "name": "01 mars 11.09, Olovlig körning, Luleå",
-    "summary": "Antnäs, polisen påträffar en personbil",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-11.09-olovlig-korning-lulea/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
