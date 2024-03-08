@@ -1,5 +1,77 @@
 [
   {
+    "id": 509812,
+    "datetime": "2024-03-08 12:42:13 +01:00",
+    "name": "08 mars 12.00, Farligt föremål, misstänkt, Göteborg",
+    "summary": "Misstänkt farligt föremål inomhus i entrén till en fastighet på Speldosegatan.",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.00-farligt-foremal-misstankt-goteborg/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 509813,
+    "datetime": "2024-03-08 12:37:08 +01:00",
+    "name": "08 mars 12.10, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat i Vålberg",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.10-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 509805,
+    "datetime": "2024-03-08 12:29:46 +01:00",
+    "name": "08 mars 12.29, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.29-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 509803,
+    "datetime": "2024-03-08 12:27:19 +01:00",
+    "name": "08 mars 12.27, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.27-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 509804,
+    "datetime": "2024-03-08 12:27:06 +01:00",
+    "name": "08 mars 12.27, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.27-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 509802,
+    "datetime": "2024-03-08 12:26:50 +01:00",
+    "name": "08 mars 12.26, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.26-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 509811,
     "datetime": "2024-03-08 12:06:32 +01:00",
     "name": "08 mars 10.43, Fjällräddning, Härjedalen",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 507845,
-    "datetime": "2024-03-01 7:37:09 +01:00",
-    "name": "01 mars 02.09, Stöld, försök, Västerås",
-    "summary": "Försök till stöld av kopparplåtar.",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-02.09-stold-forsok-vasteras/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 507843,
-    "datetime": "2024-03-01 7:28:56 +01:00",
-    "name": "01 mars 07.28, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-07.28-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 507842,
-    "datetime": "2024-03-01 7:28:01 +01:00",
-    "name": "01 mars 07.26, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-07.26-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 507840,
-    "datetime": "2024-03-01 7:26:59 +01:00",
-    "name": "01 mars 07.26, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-07.26-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 507839,
-    "datetime": "2024-03-01 7:26:13 +01:00",
-    "name": "01 mars 07.25, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-07.25-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 507837,
-    "datetime": "2024-03-01 7:22:21 +01:00",
-    "name": "01 mars 07.18, Trafikolycka, vilt, Köping",
-    "summary": "Bil väjde för älg och körde av vägen.",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-07.18-trafikolycka-vilt-koping/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
     }
   }
 ]
