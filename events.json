@@ -1,5 +1,77 @@
 [
   {
+    "id": 509889,
+    "datetime": "2024-03-09 7:23:04 +01:00",
+    "name": "09 mars 02.03, Trafikbrott, Tierp",
+    "summary": "Man blåste positivt efter stopp på E4.",
+    "url": "/aktuellt/handelser/2024/mars/9/09-mars-02.03-trafikbrott-tierp/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Tierp",
+      "gps": "60.347587,17.520509"
+    }
+  },
+  {
+    "id": 509888,
+    "datetime": "2024-03-09 7:15:51 +01:00",
+    "name": "09 mars 04.49, Rån, Lund",
+    "summary": "Personrån",
+    "url": "/aktuellt/handelser/2024/mars/9/09-mars-04.49-ran-lund/",
+    "type": "Rån",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 509887,
+    "datetime": "2024-03-09 7:14:35 +01:00",
+    "name": "09 mars 04.51, Brand, Sandviken",
+    "summary": "Brand i en maskinhall.",
+    "url": "/aktuellt/handelser/2024/mars/9/09-mars-04.51-brand-sandviken/",
+    "type": "Brand",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 509886,
+    "datetime": "2024-03-09 7:14:11 +01:00",
+    "name": "09 mars 05.26, Våldtäkt, Botkyrka",
+    "summary": "Polisen har gripit en man i Norsborg som är misstänkt för en våldtäkt av en kvinna som har genomförts i en bos",
+    "url": "/aktuellt/handelser/2024/mars/9/09-mars-05.26-valdtakt-botkyrka/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 509885,
+    "datetime": "2024-03-09 7:06:28 +01:00",
+    "name": "09 mars 01.42, Brand, Vellinge",
+    "summary": "Brand i container, Skanör",
+    "url": "/aktuellt/handelser/2024/mars/9/09-mars-01.42-brand-vellinge/",
+    "type": "Brand",
+    "location": {
+      "name": "Vellinge",
+      "gps": "55.470893,13.01999"
+    }
+  },
+  {
+    "id": 509884,
+    "datetime": "2024-03-09 7:02:17 +01:00",
+    "name": "09 mars 00.46, Våld/hot mot tjänsteman, Växjö",
+    "summary": "Våld mot tjänsteman, Växjö",
+    "url": "/aktuellt/handelser/2024/mars/9/09-mars-00.46-valdhot-mot-tjansteman-vaxjo/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
     "id": 509882,
     "datetime": "2024-03-09 0:25:18 +01:00",
     "name": "08 mars 22.35, Misshandel, Solna",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Kalix",
       "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 507933,
-    "datetime": "2024-03-01 19:39:39 +01:00",
-    "name": "01 mars 18.09, Trafikolycka, Härjedalen",
-    "summary": "Sveg, olycka med skoter.",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-18.09-trafikolycka-harjedalen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 507931,
-    "datetime": "2024-03-01 19:16:44 +01:00",
-    "name": "01 mars 18.55, Brand, Skellefteå",
-    "summary": "Skelleftehamn, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-18.55-brand-skelleftea/",
-    "type": "Brand",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 507930,
-    "datetime": "2024-03-01 19:11:21 +01:00",
-    "name": "01 mars 15.16, Misshandel, Örebro",
-    "summary": "En anmälan och en motanmälan om misshandel har upprättats",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-15.16-misshandel-orebro/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 507929,
-    "datetime": "2024-03-01 19:05:42 +01:00",
-    "name": "01 mars 15.53, Olovlig körning, Falun",
-    "summary": "En bilist är misstänkt för flera brott",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-15.53-olovlig-korning-falun/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 507928,
-    "datetime": "2024-03-01 18:44:47 +01:00",
-    "name": "01 mars 17.05, Stöld, Sundsvall",
-    "summary": "Sundsvall, ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-17.05-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 507914,
-    "datetime": "2024-03-01 16:55:17 +01:00",
-    "name": "01 mars 16.45, Trafikolycka, personskada, Borås",
-    "summary": "I Tullenområdet har två cyklister blivit påkörda av en bilist.",
-    "url": "/aktuellt/handelser/2024/mars/1/01-mars-16.45-trafikolycka-personskada-boras/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
