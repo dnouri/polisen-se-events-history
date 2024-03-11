@@ -1,5 +1,41 @@
 [
   {
+    "id": 510013,
+    "datetime": "2024-03-11 8:23:50 +01:00",
+    "name": "11 mars 07.29, Trafikolycka, Kristinehamn",
+    "summary": "En olycka har inträffat i Ölme",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-07.29-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 510022,
+    "datetime": "2024-03-11 9:15:20 +01:00",
+    "name": "11 mars 08.30, Brand, Kiruna",
+    "summary": "Larm om brand i en butik i centrala Kiruna.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.30-brand-kiruna/",
+    "type": "Brand",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 510016,
+    "datetime": "2024-03-11 8:57:51 +01:00",
+    "name": "11 mars 07.57, Skadegörelse, Malmö",
+    "summary": "Klotter på skylt",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-07.57-skadegorelse-malmo/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 510012,
     "datetime": "2024-03-11 8:43:26 +01:00",
     "name": "11 mars 07.48, Trafikolycka, Varberg",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Mönsterås",
       "gps": "57.04158,16.44312"
-    }
-  },
-  {
-    "id": 510013,
-    "datetime": "2024-03-11 8:23:50 +01:00",
-    "name": "11 mars 07.29, Trafikolycka, Kristinehamn",
-    "summary": "En olycka har inträffat i Ölme",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-07.29-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 508051,
-    "datetime": "2024-03-04 7:36:04 +01:00",
-    "name": "04 mars 07.35, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-07.35-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 508050,
-    "datetime": "2024-03-04 7:25:25 +01:00",
-    "name": "04 mars 03.14, Olaga intrång, Gävle",
-    "summary": "Man misstänks för olaga intrång.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-03.14-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
