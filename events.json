@@ -1,17 +1,5 @@
 [
   {
-    "id": 510042,
-    "datetime": "2024-03-11 11:42:44 +01:00",
-    "name": "11 mars 11.08, Räddningsinsats, Stockholm",
-    "summary": "Polisen biträder räddningstjänsten i samband med konstig lukt på Södermalm.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-11.08-raddningsinsats-stockholm/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 510025,
     "datetime": "2024-03-11 10:39:17 +01:00",
     "name": "11 mars 10.23, Trafikolycka, Askersund",
@@ -21,6 +9,90 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 510037,
+    "datetime": "2024-03-11 12:09:44 +01:00",
+    "name": "11 mars 12.09, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken – en del av polisens nationella trafikvecka",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-12.09-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 510041,
+    "datetime": "2024-03-11 12:07:22 +01:00",
+    "name": "11 mars 11.01, Trafikolycka, Stenungsund",
+    "summary": "Flera bilar i kollision på länsväg 160, Stenungsund.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-11.01-trafikolycka-stenungsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 510038,
+    "datetime": "2024-03-11 12:06:03 +01:00",
+    "name": "11 mars 12.05, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken – en del av polisens nationella trafikvecka",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-12.05-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 510039,
+    "datetime": "2024-03-11 12:04:21 +01:00",
+    "name": "11 mars 12.04, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken – en del av polisens nationella trafikvecka",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-12.04-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 510044,
+    "datetime": "2024-03-11 11:53:19 +01:00",
+    "name": "11 mars 10.51, Rån, Avesta",
+    "summary": "Ett brott har skett i centrum",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-10.51-ran-avesta/",
+    "type": "Rån",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 510022,
+    "datetime": "2024-03-11 9:15:20 +01:00",
+    "name": "11 mars 08.30, Brand, Kiruna",
+    "summary": "Larm om brand i en butik i centrala Kiruna.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.30-brand-kiruna/",
+    "type": "Brand",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 510042,
+    "datetime": "2024-03-11 11:42:44 +01:00",
+    "name": "11 mars 11.08, Räddningsinsats, Stockholm",
+    "summary": "Polisen biträder räddningstjänsten i samband med konstig lukt på Södermalm.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-11.08-raddningsinsats-stockholm/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -57,18 +129,6 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 510022,
-    "datetime": "2024-03-11 9:15:20 +01:00",
-    "name": "11 mars 08.30, Brand, Kiruna",
-    "summary": "Larm om brand i en butik i centrala Kiruna.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.30-brand-kiruna/",
-    "type": "Brand",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 508067,
-    "datetime": "2024-03-04 8:44:23 +01:00",
-    "name": "03 mars 18.24, Mord/dråp, försök, Södertälje",
-    "summary": "En person har blivit knivhuggen i Stadsparken i centrala Södertälje. En person grips som misstänkt.",
-    "url": "/aktuellt/handelser/2024/mars/3/03-mars-18.24-morddrap-forsok-sodertalje/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 508059,
-    "datetime": "2024-03-04 8:05:28 +01:00",
-    "name": "04 mars 01.02, Rattfylleri, Stockholm",
-    "summary": "En förare i centrala Stockholm kontrolleras och misstänks för rattfylleri. Mannen tas med för provtagning.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-01.02-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 508055,
-    "datetime": "2024-03-04 7:47:12 +01:00",
-    "name": "04 mars 07.36, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-07.36-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 508056,
-    "datetime": "2024-03-04 7:46:32 +01:00",
-    "name": "04 mars 07.39, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-07.39-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 508057,
-    "datetime": "2024-03-04 7:45:44 +01:00",
-    "name": "04 mars 07.43, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-07.43-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
