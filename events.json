@@ -1,5 +1,113 @@
 [
   {
+    "id": 510011,
+    "datetime": "2024-03-11 8:17:33 +01:00",
+    "name": "11 mars 08.14, Trafikolycka, personskada, Åtvidaberg",
+    "summary": "Bil voltat ut i terrängen",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.14-trafikolycka-personskada-atvidaberg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Åtvidaberg",
+      "gps": "58.20079,15.997699"
+    }
+  },
+  {
+    "id": 510006,
+    "datetime": "2024-03-11 7:45:04 +01:00",
+    "name": "11 mars 07.23, Trafikolycka, Boden",
+    "summary": "Larm om trafikolycka på länsväg 356/länsväg 589, Heden.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-07.23-trafikolycka-boden/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 510003,
+    "datetime": "2024-03-11 8:04:36 +01:00",
+    "name": "11 mars 00.35, Stöld/inbrott, Värmdö",
+    "summary": "Stöld på byggarbetsplats.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-00.35-stoldinbrott-varmdo/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 510010,
+    "datetime": "2024-03-11 8:04:32 +01:00",
+    "name": "11 mars 00.42, Rån, Danderyd",
+    "summary": "Misshandlad man i Danderyd har rånats.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-00.42-ran-danderyd/",
+    "type": "Rån",
+    "location": {
+      "name": "Danderyd",
+      "gps": "59.407905,18.019075"
+    }
+  },
+  {
+    "id": 510004,
+    "datetime": "2024-03-11 7:56:20 +01:00",
+    "name": "11 mars 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 510005,
+    "datetime": "2024-03-11 7:56:09 +01:00",
+    "name": "11 mars 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 510009,
+    "datetime": "2024-03-11 7:56:02 +01:00",
+    "name": "11 mars 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 510008,
+    "datetime": "2024-03-11 7:54:03 +01:00",
+    "name": "11 mars 07.39, Trafikolycka, Kumla",
+    "summary": "En olycka har inträffat i Kvarnparken",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-07.39-trafikolycka-kumla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 510007,
+    "datetime": "2024-03-11 7:53:00 +01:00",
+    "name": "11 mars 07.22, Trafikolycka, vilt, Kramfors",
+    "summary": "Polisen får in en anmälan om en viltolycka vid Hammarsbron, Nyland.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-07.22-trafikolycka-vilt-kramfors/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
     "id": 510001,
     "datetime": "2024-03-11 7:05:41 +01:00",
     "name": "11 mars 06.18, Trafikolycka, Karlstad",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 508046,
-    "datetime": "2024-03-04 7:16:49 +01:00",
-    "name": "04 mars 04.55, Vapenlagen, Täby",
-    "summary": "Någon har skjutit in genom ett fönster i en bostad i Gribbylund. Ingen har varit hemma vid brottet.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-04.55-vapenlagen-taby/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Täby",
-      "gps": "59.4419,18.07033"
-    }
-  },
-  {
-    "id": 508045,
-    "datetime": "2024-03-04 7:12:44 +01:00",
-    "name": "04 mars 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är i tjänst. Nedan följer ett urval av kvällens och nattens händelser.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 508044,
-    "datetime": "2024-03-04 7:09:56 +01:00",
-    "name": "04 mars 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalensperson är på plats. Nedan är ett urval av kvällens och nattens händelser.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 508043,
-    "datetime": "2024-03-04 6:43:10 +01:00",
-    "name": "04 mars 01.19, Skadegörelse, Malmö",
-    "summary": "Skadegörelse på Bergsgatan.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-01.19-skadegorelse-malmo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 508035,
-    "datetime": "2024-03-03 19:42:39 +01:00",
-    "name": "03 mars 19.36, Försvunnen person, Umeå",
-    "summary": "Försvunnen kvinna i Umeå",
-    "url": "/aktuellt/handelser/2024/mars/3/03-mars-19.36-forsvunnen-person-umea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 508038,
-    "datetime": "2024-03-03 22:00:40 +01:00",
-    "name": "03 mars 20.31, Mord/dråp, Jönköping",
-    "summary": "Polis kallas till en adress efter att ambulanspersonal anträffat en avliden person.",
-    "url": "/aktuellt/handelser/2024/mars/3/03-mars-202.31-morddrap-jonkoping/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 508037,
-    "datetime": "2024-03-03 21:09:07 +01:00",
-    "name": "03 mars 20.47, Stöld/inbrott, Skurup",
-    "summary": "Misstänkt inbrottstjuv gripen, Skurup.",
-    "url": "/aktuellt/handelser/2024/mars/3/03-mars-20.47-stoldinbrott-skurup/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Skurup",
-      "gps": "55.48045,13.502349"
-    }
-  },
-  {
-    "id": 508036,
-    "datetime": "2024-03-03 21:07:38 +01:00",
-    "name": "03 mars 20.31, Mord/dråp, Jönköping",
-    "summary": "Polis kallas till en adress efter att ambulanspersonal anträffat en avliden person.",
-    "url": "/aktuellt/handelser/2024/mars/3/03-mars-20.31-morddrap-jonkoping/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 508034,
-    "datetime": "2024-03-03 19:20:39 +01:00",
-    "name": "03 mars 18.58, Rattfylleri, Vellinge",
-    "summary": "Vinglig färd, E6.",
-    "url": "/aktuellt/handelser/2024/mars/3/03-mars-18.58-rattfylleri-vellinge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Vellinge",
-      "gps": "55.470893,13.01999"
     }
   }
 ]
