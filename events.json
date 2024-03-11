@@ -1,5 +1,17 @@
 [
   {
+    "id": 510042,
+    "datetime": "2024-03-11 11:42:44 +01:00",
+    "name": "11 mars 11.08, Räddningsinsats, Stockholm",
+    "summary": "Polisen biträder räddningstjänsten i samband med konstig lukt på Södermalm.",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-11.08-raddningsinsats-stockholm/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 510025,
     "datetime": "2024-03-11 10:39:17 +01:00",
     "name": "11 mars 10.23, Trafikolycka, Askersund",
@@ -9,6 +21,18 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 510024,
+    "datetime": "2024-03-11 11:41:53 +01:00",
+    "name": "11 mars 07.19, Rattfylleri, Örnsköldsvik",
+    "summary": "Polispatrull beordras till en arbetsplats där en person som kört bil uppges ha blåst positivt i en nykterhetsk",
+    "url": "/aktuellt/handelser/2024/mars/11/11-mars-07.19-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 508054,
-    "datetime": "2024-03-04 7:38:19 +01:00",
-    "name": "04 mars 07.37, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-07.37-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 508053,
-    "datetime": "2024-03-04 7:37:42 +01:00",
-    "name": "04 mars 07.36, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22:00-07:00",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-07.36-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
