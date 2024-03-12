@@ -1,5 +1,53 @@
 [
   {
+    "id": 512139,
+    "datetime": "2024-03-12 12:42:38 +01:00",
+    "name": "12 mars 12.33, Brand, Falun",
+    "summary": "Det brinner i ett flerfastighetshus i Sågmyra",
+    "url": "/aktuellt/handelser/2024/mars/12/12-mars-12.33-brand-falun/",
+    "type": "Brand",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 512121,
+    "datetime": "2024-03-12 9:42:37 +01:00",
+    "name": "12 mars 09.40, Försvunnen person, Östergötlands län",
+    "summary": "Man i 80-årsåldern försvunnen sedan måndag kväll.",
+    "url": "/aktuellt/handelser/2024/mars/12/12-mars-09.40-forsvunnen-person-ostergotlands-lan/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 512122,
+    "datetime": "2024-03-12 9:43:20 +01:00",
+    "name": "12 mars 09.40, Försvunnen person, Södermanlands län",
+    "summary": "Man i 80-årsåldern försvunnen på måndag kväll.",
+    "url": "/aktuellt/handelser/2024/mars/12/12-mars-09.40-forsvunnen-person-sodermanlands-lan/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 512137,
+    "datetime": "2024-03-12 12:16:55 +01:00",
+    "name": "12 mars 11.36, Stöld, Sundsvall",
+    "summary": "Misstänkt ringa stöld i matbutik, Bosvedjan.",
+    "url": "/aktuellt/handelser/2024/mars/12/12-mars-11.36-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 512136,
     "datetime": "2024-03-12 12:07:59 +01:00",
     "name": "12 mars 11.21, Övrigt, Munkfors",
@@ -93,30 +141,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 512122,
-    "datetime": "2024-03-12 9:43:20 +01:00",
-    "name": "12 mars 09.40, Försvunnen person, Södermanlands län",
-    "summary": "Man i 80-årsåldern försvunnen på måndag kväll.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-09.40-forsvunnen-person-sodermanlands-lan/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 512121,
-    "datetime": "2024-03-12 9:42:37 +01:00",
-    "name": "12 mars 09.40, Försvunnen person, Östergötlands län",
-    "summary": "Man i 80-årsåldern försvunnen sedan måndag kväll.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-09.40-forsvunnen-person-ostergotlands-lan/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 509336,
-    "datetime": "2024-03-05 7:19:05 +01:00",
-    "name": "04 mars 21.19, Vållande till kroppsskada, Enköping",
-    "summary": "Man misstänks för vållande till kroppsskada.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-21.19-vallande-till-kroppsskada-enkoping/",
-    "type": "Vållande till kroppsskada",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 509335,
-    "datetime": "2024-03-05 7:15:38 +01:00",
-    "name": "05 mars 00.55, Skadegörelse, Lund",
-    "summary": "Olaga intrång i gymlokal",
-    "url": "/aktuellt/handelser/2024/mars/5/05-mars-00.55-skadegorelse-lund/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   }
 ]
