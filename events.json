@@ -1,5 +1,41 @@
 [
   {
+    "id": 512181,
+    "datetime": "2024-03-12 20:36:37 +01:00",
+    "name": "12 mars 20.36, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2024/mars/12/12-mars-20.36-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 512173,
+    "datetime": "2024-03-12 19:13:18 +01:00",
+    "name": "12 mars 17.53, Trafikolycka, Kalix",
+    "summary": "Trafikolycka i Morjärv.",
+    "url": "/aktuellt/handelser/2024/mars/12/12-mars-17.53-trafikolycka-kalix/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 512180,
+    "datetime": "2024-03-12 20:21:31 +01:00",
+    "name": "12 mars 19.04, Brand, Stockholm",
+    "summary": "Lägenhetsbrand i Råcksta.",
+    "url": "/aktuellt/handelser/2024/mars/12/12-mars-19.04-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 512179,
     "datetime": "2024-03-12 20:15:32 +01:00",
     "name": "12 mars 18.39, Larm Överfall, Upplands väsby",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Jokkmokk",
       "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 512173,
-    "datetime": "2024-03-12 19:13:18 +01:00",
-    "name": "12 mars 17.53, Trafikolycka, Kalix",
-    "summary": "Trafikolycka i Morjärv.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-17.53-trafikolycka-kalix/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 509409,
-    "datetime": "2024-03-05 12:42:42 +01:00",
-    "name": "04 mars 13.54, Vapenlagen, Uppsala",
-    "summary": "Två skjutvapen hittades i trapphus.",
-    "url": "/aktuellt/handelser/2024/mars/4/04-mars-13.54-vapenlagen-uppsala/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 509407,
-    "datetime": "2024-03-05 12:37:44 +01:00",
-    "name": "05 mars 11.44, Trafikbrott, Kalix",
-    "summary": "E10 Töre, polisen stoppar en personbil",
-    "url": "/aktuellt/handelser/2024/mars/5/05-mars-11.44-trafikbrott-kalix/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   }
 ]
