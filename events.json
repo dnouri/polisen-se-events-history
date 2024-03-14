@@ -1,14 +1,26 @@
 [
   {
-    "id": 512374,
-    "datetime": "2024-03-14 10:43:57 +01:00",
-    "name": "14 mars 10.40, Trafikolycka, Linköping",
-    "summary": "Påkörd person i Linköping.",
-    "url": "/aktuellt/handelser/2024/mars/14/14-mars-10.40-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
+    "id": 512380,
+    "datetime": "2024-03-14 12:05:44 +01:00",
+    "name": "14 mars 10.50, Arbetsplatsolycka, Göteborg",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2024/mars/14/14-mars-10.50-arbetsplatsolycka-goteborg/",
+    "type": "Arbetsplatsolycka",
     "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 512409,
+    "datetime": "2024-03-14 12:03:26 +01:00",
+    "name": "14 mars 10.55, Brand, Lerum",
+    "summary": "Larm om brand",
+    "url": "/aktuellt/handelser/2024/mars/14/14-mars-10.55-brand-lerum/",
+    "type": "Brand",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Hammarö",
       "gps": "59.311466,13.529854"
+    }
+  },
+  {
+    "id": 512374,
+    "datetime": "2024-03-14 10:43:57 +01:00",
+    "name": "14 mars 10.40, Trafikolycka, Linköping",
+    "summary": "Påkörd person i Linköping.",
+    "url": "/aktuellt/handelser/2024/mars/14/14-mars-10.40-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 509555,
-    "datetime": "2024-03-06 11:21:55 +01:00",
-    "name": "06 mars 08.49, Trafikolycka, singel, Härjedalen",
-    "summary": "Norr om Överhogdal, bilist har kört av vägen och voltat",
-    "url": "/aktuellt/handelser/2024/mars/6/06-mars-08.49-trafikolycka-singel-harjedalen/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 509550,
-    "datetime": "2024-03-06 11:17:27 +01:00",
-    "name": "06 mars 11.08, Trafikkontroll, Örnsköldsvik",
-    "summary": "Själevad, resultat efter trafikkontroll vid Hörnäsvägen/Prästsundsvägen",
-    "url": "/aktuellt/handelser/2024/mars/6/06-mars-11.08-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
