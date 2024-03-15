@@ -1,14 +1,38 @@
 [
   {
-    "id": 512501,
-    "datetime": "2024-03-15 12:38:22 +01:00",
-    "name": "15 mars 10.44, Trafikbrott, Örebro",
-    "summary": "Ett trafikbrott har skett vid järnvägsövergången i Brickeberg",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-10.44-trafikbrott-orebro/",
-    "type": "Trafikbrott",
+    "id": 512428,
+    "datetime": "2024-03-14 16:00:31 +01:00",
+    "name": "14 mars 15.56, Övrigt, Karlstad",
+    "summary": "Man avviken från tingsrätten i Karlstad efter häktningsförhandling",
+    "url": "/aktuellt/handelser/2024/mars/14/14-mars-15.56-ovrigt-karlstad/",
+    "type": "Övrigt",
     "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 512505,
+    "datetime": "2024-03-15 13:01:23 +01:00",
+    "name": "15 mars 13.01, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från trafikkontroller.",
+    "url": "/aktuellt/handelser/2024/mars/15/15-mars-13.01-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 512475,
+    "datetime": "2024-03-15 12:52:21 +01:00",
+    "name": "15 mars 12.52, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från trafikkontroller.",
+    "url": "/aktuellt/handelser/2024/mars/15/15-mars-12.52-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -24,6 +48,18 @@
     }
   },
   {
+    "id": 512501,
+    "datetime": "2024-03-15 12:38:22 +01:00",
+    "name": "15 mars 10.44, Trafikbrott, Örebro",
+    "summary": "Ett trafikbrott har skett vid järnvägsövergången i Brickeberg",
+    "url": "/aktuellt/handelser/2024/mars/15/15-mars-10.44-trafikbrott-orebro/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 512498,
     "datetime": "2024-03-15 12:24:09 +01:00",
     "name": "15 mars 10.51, Trafikolycka, Östhammar",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Östhammar",
       "gps": "60.259302,18.365341"
-    }
-  },
-  {
-    "id": 512428,
-    "datetime": "2024-03-14 16:00:31 +01:00",
-    "name": "14 mars 15.56, Övrigt, Karlstad",
-    "summary": "Man avviken från tingsrätten i Karlstad efter häktningsförhandling",
-    "url": "/aktuellt/handelser/2024/mars/14/14-mars-15.56-ovrigt-karlstad/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 509640,
-    "datetime": "2024-03-07 7:01:38 +01:00",
-    "name": "07 mars 01.08, Våld/hot mot tjänsteman, Västervik",
-    "summary": "Man misstänkt för våldsamt motstånd",
-    "url": "/aktuellt/handelser/2024/mars/7/07-mars-01.08-valdhot-mot-tjansteman-vastervik/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 509639,
-    "datetime": "2024-03-07 7:01:32 +01:00",
-    "name": "07 mars 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/mars/7/07-mars-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
