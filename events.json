@@ -1,14 +1,50 @@
 [
   {
+    "id": 512591,
+    "datetime": "2024-03-16 11:42:57 +01:00",
+    "name": "16 mars 08.20, Skadegörelse, Överkalix",
+    "summary": "Polispatrull beordras till en adress norr om Överkalix med anledning av skadegörelse på en bil.",
+    "url": "/aktuellt/handelser/2024/mars/16/16-mars-08.20-skadegorelse-overkalix/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Överkalix",
+      "gps": "66.327176,22.842752"
+    }
+  },
+  {
+    "id": 512597,
+    "datetime": "2024-03-16 11:32:28 +01:00",
+    "name": "16 mars 09.33, Rån, Malmö",
+    "summary": "Polis larmas till en butik södergatan efter ett rån.",
+    "url": "/aktuellt/handelser/2024/mars/16/16-mars-09.33-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 512595,
     "datetime": "2024-03-16 11:10:33 +01:00",
     "name": "16 mars 10.58, Trafikolycka, singel, Borlänge",
-    "summary": "En perosnbil uppges ha körts i diket utefter Rv50 strax norr om länsgränsen mot Örebro län.",
+    "summary": "En perosnbil uppges ha körts i diket utefter Rv50 strax norr om kommungränsen mot Säter.",
     "url": "/aktuellt/handelser/2024/mars/16/16-mars-10.58-trafikolycka-singel-borlange/",
     "type": "Trafikolycka, singel",
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 512596,
+    "datetime": "2024-03-16 11:26:25 +01:00",
+    "name": "15 mars 10.50, Trafikolycka, Stockholm",
+    "summary": "Polis och ambulans kallas till station Karlsbodavägen med anledning av en trafikolycka.",
+    "url": "/aktuellt/handelser/2024/mars/15/15-mars-10.50-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 509732,
-    "datetime": "2024-03-07 16:55:36 +01:00",
-    "name": "07 mars 16.32, Narkotikabrott, Hagfors",
-    "summary": "En man misstänks för narkotikabrott",
-    "url": "/aktuellt/handelser/2024/mars/7/07-mars-16.32-narkotikabrott-hagfors/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Hagfors",
-      "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 509731,
-    "datetime": "2024-03-07 16:54:29 +01:00",
-    "name": "07 mars 15.17, Olovlig körning, Haparanda",
-    "summary": "Grov olovlig körning i Haparanda.",
-    "url": "/aktuellt/handelser/2024/mars/7/07-mars-15.17-olovlig-korning-haparanda/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 509730,
-    "datetime": "2024-03-07 16:47:58 +01:00",
-    "name": "07 mars 16.17, Trafikolycka, Säffle",
-    "summary": "En kollision mellan två fordon har inträffat på E45",
-    "url": "/aktuellt/handelser/2024/mars/7/07-mars-16.17-trafikolycka-saffle/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
     }
   }
 ]
