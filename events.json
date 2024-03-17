@@ -1,5 +1,113 @@
 [
   {
+    "id": 512640,
+    "datetime": "2024-03-17 8:14:08 +01:00",
+    "name": "17 mars 05.45, Motorfordon, anträffat stulet, Arvika",
+    "summary": "En stulen personbil anträffad dikeskörd utefter Lv172 i höjd med Prästängen, Arvika.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-05.45-motorfordon-antraffat-stulet-arvika/",
+    "type": "Motorfordon, anträffat stulet",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 512639,
+    "datetime": "2024-03-17 8:04:00 +01:00",
+    "name": "17 mars 08.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-08.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 512633,
+    "datetime": "2024-03-17 7:59:41 +01:00",
+    "name": "17 mars 08.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-08.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 512638,
+    "datetime": "2024-03-17 7:57:19 +01:00",
+    "name": "17 mars 01.49, Rattfylleri, Karlstad",
+    "summary": "Man i 30-årsåldern misstänkt för drograttfylleri i Karlstad.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-01.49-rattfylleri-karlstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 512637,
+    "datetime": "2024-03-17 7:50:49 +01:00",
+    "name": "17 mars 07.50, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-07.50-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 512632,
+    "datetime": "2024-03-17 7:50:40 +01:00",
+    "name": "17 mars 07.50, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-07.50-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 512630,
+    "datetime": "2024-03-17 7:50:29 +01:00",
+    "name": "17 mars 07.50, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-07.50-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 512631,
+    "datetime": "2024-03-17 7:50:15 +01:00",
+    "name": "17 mars 07.50, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-07.50-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 512634,
+    "datetime": "2024-03-17 7:35:27 +01:00",
+    "name": "17 mars 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 512636,
     "datetime": "2024-03-17 7:35:48 +01:00",
     "name": "17 mars 08.00, Sammanfattning natt, Jönköpings län",
@@ -21,18 +129,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 512634,
-    "datetime": "2024-03-17 7:35:27 +01:00",
-    "name": "17 mars 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 509775,
-    "datetime": "2024-03-08 7:57:35 +01:00",
-    "name": "08 mars 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Det har varit en lugn natt i Jönköpings län. Inga större händelser eller allvarliga våldsbrott har kommit till",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 509774,
-    "datetime": "2024-03-08 7:39:39 +01:00",
-    "name": "08 mars 02.26, Stöld/inbrott, Hallstahammar",
-    "summary": "Inbrott i företagslokal.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-02.26-stoldinbrott-hallstahammar/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Hallstahammar",
-      "gps": "59.613204,16.229476"
-    }
-  },
-  {
-    "id": 509773,
-    "datetime": "2024-03-08 7:25:37 +01:00",
-    "name": "08 mars 07.25, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-07.25-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 509772,
-    "datetime": "2024-03-08 7:25:24 +01:00",
-    "name": "08 mars 07.25, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-07.25-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 509768,
-    "datetime": "2024-03-08 7:24:51 +01:00",
-    "name": "08 mars 07.24, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-07.24-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 509765,
-    "datetime": "2024-03-08 7:24:27 +01:00",
-    "name": "08 mars 07.24, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-07.24-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 509770,
-    "datetime": "2024-03-08 7:13:11 +01:00",
-    "name": "08 mars 07.10, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en lugn natt i länet utan några större händelser. Nedan följer ett urval av händelser som vi har",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-07.10-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 509771,
-    "datetime": "2024-03-08 7:13:05 +01:00",
-    "name": "08 mars 07.11, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en mycket lugn natt i länet utan några större händelser. Nedan följer ett urval av händelser som",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-07.11-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
