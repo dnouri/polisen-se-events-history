@@ -1,5 +1,53 @@
 [
   {
+    "id": 512654,
+    "datetime": "2024-03-17 13:31:23 +01:00",
+    "name": "17 mars 13.04, Trafikolycka, Östersund",
+    "summary": "Larm om trafikolycka på E14/E45, Rannåsen.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-13.04-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 512658,
+    "datetime": "2024-03-17 14:01:33 +01:00",
+    "name": "16 mars 18.35, Mord/dråp, försök, Askersund",
+    "summary": "En kvinna i 55-årsåldern allvarligt skadad under oklara omständigheter.",
+    "url": "/aktuellt/handelser/2024/mars/16/16-mars-18.35-morddrap-forsok-askersund/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 512646,
+    "datetime": "2024-03-17 12:59:22 +01:00",
+    "name": "17 mars 12.59, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.59-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 512657,
+    "datetime": "2024-03-17 13:57:02 +01:00",
+    "name": "17 mars 13.34, Trafikolycka, Stockholm",
+    "summary": "Polis och ambulans kallas till Nynäsvägen, riksväg 73, i höjd med Skogskyrkogården norrut med anledning av en ",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-13.34-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 512653,
     "datetime": "2024-03-17 13:14:51 +01:00",
     "name": "17 mars 12.47, Brand, Göteborg",
@@ -36,18 +84,6 @@
     }
   },
   {
-    "id": 512654,
-    "datetime": "2024-03-17 13:31:23 +01:00",
-    "name": "17 mars 13.04, Trafikolycka, Östersund",
-    "summary": "Larm om trafikolycka på E14/E45, Rannåsen.",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-13.04-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
     "id": 512652,
     "datetime": "2024-03-17 13:14:40 +01:00",
     "name": "17 mars 12.51, Fjällräddning, Älvdalen",
@@ -81,18 +117,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 512646,
-    "datetime": "2024-03-17 12:59:22 +01:00",
-    "name": "17 mars 12.59, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.59-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 509822,
-    "datetime": "2024-03-08 13:38:41 +01:00",
-    "name": "08 mars 12.29, Fjällräddning, Sorsele",
-    "summary": "Fjällräddningsinsats, nordvästra Tärnasjön.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.29-fjallraddning-sorsele/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Sorsele",
-      "gps": "65.534938,17.542175"
-    }
-  },
-  {
-    "id": 509802,
-    "datetime": "2024-03-08 12:26:50 +01:00",
-    "name": "08 mars 12.26, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.26-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
