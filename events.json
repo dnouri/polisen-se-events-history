@@ -1,5 +1,77 @@
 [
   {
+    "id": 512654,
+    "datetime": "2024-03-17 13:31:23 +01:00",
+    "name": "17 mars 13.04, Trafikolycka, Östersund",
+    "summary": "Larm om trafikolycka på E14/E45, Rannåsen.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-13.04-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 512653,
+    "datetime": "2024-03-17 13:14:51 +01:00",
+    "name": "17 mars 12.47, Brand, Göteborg",
+    "summary": "Det brinner i ett sopkärl i ett boende på Smörkärnegatan i Kallebäck.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.47-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 512652,
+    "datetime": "2024-03-17 13:14:40 +01:00",
+    "name": "17 mars 12.51, Fjällräddning, Älvdalen",
+    "summary": "Fjällräddning initierad för att undsätta en äldre man som insjuknat utefter skidspår i Grövelsjöområdet.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.51-fjallraddning-alvdalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 512649,
+    "datetime": "2024-03-17 12:59:45 +01:00",
+    "name": "17 mars 12.59, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.59-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 512647,
+    "datetime": "2024-03-17 12:59:36 +01:00",
+    "name": "17 mars 12.59, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.59-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 512646,
+    "datetime": "2024-03-17 12:59:22 +01:00",
+    "name": "17 mars 12.59, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.59-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 512651,
     "datetime": "2024-03-17 12:39:57 +01:00",
     "name": "17 mars 10.27, Rattfylleri, Sollefteå",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Sunne",
       "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 509805,
-    "datetime": "2024-03-08 12:29:46 +01:00",
-    "name": "08 mars 12.29, Trafikkontroll, Jämtlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.29-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 509803,
-    "datetime": "2024-03-08 12:27:19 +01:00",
-    "name": "08 mars 12.27, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.27-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 509804,
-    "datetime": "2024-03-08 12:27:06 +01:00",
-    "name": "08 mars 12.27, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-12.27-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 509811,
-    "datetime": "2024-03-08 12:06:32 +01:00",
-    "name": "08 mars 10.43, Fjällräddning, Härjedalen",
-    "summary": "Fjällräddningsinsats. Funäsdalen.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-10.43-fjallraddning-harjedalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 509809,
-    "datetime": "2024-03-08 11:45:42 +01:00",
-    "name": "08 mars 10.43, Skadegörelse, Boden",
-    "summary": "Polispatrull beordras till centrala Boden med anledning av en misstänkt skadegörelse.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-10.43-skadegorelse-boden/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 509778,
-    "datetime": "2024-03-08 7:54:34 +01:00",
-    "name": "08 mars 07.30, Trafikolycka, Ystad",
-    "summary": "E65",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-07.30-trafikolycka-ystad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
     }
   }
 ]
