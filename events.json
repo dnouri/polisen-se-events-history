@@ -1,5 +1,53 @@
 [
   {
+    "id": 512666,
+    "datetime": "2024-03-17 15:35:38 +01:00",
+    "name": "17 mars 15.27, Brand, Perstorp",
+    "summary": "Brand i lastbil, Perstorp.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-15.27-brand-perstorp/",
+    "type": "Brand",
+    "location": {
+      "name": "Perstorp",
+      "gps": "56.137972,13.394986"
+    }
+  },
+  {
+    "id": 512660,
+    "datetime": "2024-03-17 14:35:04 +01:00",
+    "name": "17 mars 13.57, Fjällräddning, Malung-Sälen",
+    "summary": "En kvinna skadad vid skoterolycka öster om Lima.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-13.57-fjallraddning-malung-salen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 512652,
+    "datetime": "2024-03-17 13:14:40 +01:00",
+    "name": "17 mars 12.51, Fjällräddning, Älvdalen",
+    "summary": "Fjällräddning initierad för att undsätta en äldre man som insjuknat utefter skidspår i Grövelsjöområdet.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.51-fjallraddning-alvdalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 512665,
+    "datetime": "2024-03-17 15:29:47 +01:00",
+    "name": "17 mars 14.52, Trafikolycka, Älvdalen",
+    "summary": "Två personbilar inblandade i en olycka på Rv70 sydost om Idre.",
+    "url": "/aktuellt/handelser/2024/mars/17/17-mars-14.52-trafikolycka-alvdalen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
     "id": 512662,
     "datetime": "2024-03-17 15:14:17 +01:00",
     "name": "17 mars 15.15, Djur, Lidköping",
@@ -69,30 +117,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 512652,
-    "datetime": "2024-03-17 13:14:40 +01:00",
-    "name": "17 mars 12.51, Fjällräddning, Älvdalen",
-    "summary": "Fjällräddning initierad för att undsätta en äldre man som insjuknat utefter skidspår i Grövelsjöområdet.",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.51-fjallraddning-alvdalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Älvdalen",
-      "gps": "61.227306,14.041987"
-    }
-  },
-  {
-    "id": 512660,
-    "datetime": "2024-03-17 14:35:04 +01:00",
-    "name": "17 mars 13.57, Fjällräddning, Malung-Sälen",
-    "summary": "En kvinna skadad vid skoterolycka öster om Lima.",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-13.57-fjallraddning-malung-salen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 509831,
-    "datetime": "2024-03-08 14:57:18 +01:00",
-    "name": "08 mars 14.26, Försvunnen person, Arvika",
-    "summary": "Polisen söker efter en försvunnen man i Arvika.",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-14.26-forsvunnen-person-arvika/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 509842,
-    "datetime": "2024-03-08 15:18:16 +01:00",
-    "name": "08 mars 14.14, Fylleri/LOB, Luleå",
-    "summary": "Innerstaden, polis kontaktas gällande berusad man på centralstationen",
-    "url": "/aktuellt/handelser/2024/mars/8/08-mars-14.14-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
