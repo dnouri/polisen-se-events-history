@@ -1,5 +1,65 @@
 [
   {
+    "id": 512778,
+    "datetime": "2024-03-18 17:22:55 +01:00",
+    "name": "18 mars 16.36, Brand, Salem",
+    "summary": "Det brinner i en lägenhet i ett flerfamiljshus och polisen är på plats för att biträda räddningstjänsten i arb",
+    "url": "/aktuellt/handelser/2024/mars/18/18-mars-16.36-brand-salem/",
+    "type": "Brand",
+    "location": {
+      "name": "Salem",
+      "gps": "59.20768,17.774222"
+    }
+  },
+  {
+    "id": 512775,
+    "datetime": "2024-03-18 17:11:35 +01:00",
+    "name": "18 mars 16.45, Trafikkontroll, Skellefteå",
+    "summary": "Centrala Skellefteå, polisen har kontrollerat trafiken vid ett gångfartsområde vid Strandgatan",
+    "url": "/aktuellt/handelser/2024/mars/18/18-mars-16.45-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 512773,
+    "datetime": "2024-03-18 17:06:18 +01:00",
+    "name": "18 mars 15.59, Trafikolycka, Svedala",
+    "summary": "Skabersjö by. Kollision mellan bilist och mopedist.",
+    "url": "/aktuellt/handelser/2024/mars/18/18-mars-15.59-trafikolycka-svedala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Svedala",
+      "gps": "55.508908,13.23711"
+    }
+  },
+  {
+    "id": 512772,
+    "datetime": "2024-03-18 16:58:51 +01:00",
+    "name": "18 mars 14.08, Rattfylleri, Piteå",
+    "summary": "Piteå, bilist kontrollerad av polis",
+    "url": "/aktuellt/handelser/2024/mars/18/18-mars-14.08-rattfylleri-pitea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 512738,
+    "datetime": "2024-03-18 13:06:24 +01:00",
+    "name": "18 mars 12.58, Försvunnen person, Mark",
+    "summary": "Den 14 mars 2024 klockan 18.21 inkom en anmälan om en försvunnen flicka till polisen.",
+    "url": "/aktuellt/handelser/2024/mars/18/18-mars-12.58-forsvunnen-person-mark/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
     "id": 512771,
     "datetime": "2024-03-18 16:42:02 +01:00",
     "name": "18 mars 16.20, Trafikolycka, Stockholm",
@@ -165,18 +225,6 @@
     "location": {
       "name": "Eda",
       "gps": "59.83754,12.314031"
-    }
-  },
-  {
-    "id": 512738,
-    "datetime": "2024-03-18 13:06:24 +01:00",
-    "name": "18 mars 12.58, Försvunnen person, Mark",
-    "summary": "Den 14 mars 2024 klockan 18.21 inkom en anmälan om en försvunnen flicka till polisen.",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-12.58-forsvunnen-person-mark/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 509922,
-    "datetime": "2024-03-09 12:55:35 +01:00",
-    "name": "09 mars 12.49, Trafikkontroll, Östersund",
-    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen",
-    "url": "/aktuellt/handelser/2024/mars/9/09-mars-12.49-trafikkontroll-ostersund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 509921,
-    "datetime": "2024-03-09 12:29:34 +01:00",
-    "name": "09 mars 12.02, Rattfylleri, Karlskoga",
-    "summary": "En bilist är misstänkt för brott i Rävåsen",
-    "url": "/aktuellt/handelser/2024/mars/9/09-mars-12.02-rattfylleri-karlskoga/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 509920,
-    "datetime": "2024-03-09 12:28:42 +01:00",
-    "name": "09 mars 10.39, Trafikkontroll, Haparanda",
-    "summary": "Riksväg 99, Mattila. Polisen kontrollerar nykterhet i trafiken",
-    "url": "/aktuellt/handelser/2024/mars/9/09-mars-10.39-trafikkontroll-haparanda/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 509919,
-    "datetime": "2024-03-09 12:25:03 +01:00",
-    "name": "09 mars 09.42, Skadegörelse, Kalix",
-    "summary": "Polisen uppmärksammas på två skadade bilar",
-    "url": "/aktuellt/handelser/2024/mars/9/09-mars-09.42-skadegorelse-kalix/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
     }
   }
 ]
