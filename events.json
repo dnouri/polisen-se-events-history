@@ -1,5 +1,65 @@
 [
   {
+    "id": 512924,
+    "datetime": "2024-03-19 19:47:54 +01:00",
+    "name": "19 mars 19.46, Försvunnen person, Trelleborg",
+    "summary": "Polisen behöver hjälp att hitta en försvunnen pojke.",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-19.46-forsvunnen-person-trelleborg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 512925,
+    "datetime": "2024-03-19 20:07:14 +01:00",
+    "name": "19 mars 19.51, Trafikkontroll, Luleå",
+    "summary": "Innerstaden, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-19.51-trafikkontroll-lulea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 512917,
+    "datetime": "2024-03-19 19:27:44 +01:00",
+    "name": "19 mars 19.22, Brand, Karlstad",
+    "summary": "En luktar rök i ett trapphus till ett flerfamiljshus i Karlstad",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-19.22-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 512923,
+    "datetime": "2024-03-19 19:45:20 +01:00",
+    "name": "19 mars 19.28, Rattfylleri, Arvika",
+    "summary": "Misstänkt påverkad bilist stoppad",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-19.28-rattfylleri-arvika/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 512922,
+    "datetime": "2024-03-19 19:44:20 +01:00",
+    "name": "19 mars 19.14, Trafikbrott, Umeå",
+    "summary": "Fridhem, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-19.14-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 512921,
     "datetime": "2024-03-19 19:40:37 +01:00",
     "name": "19 mars 18.36, Olovlig körning, Östersund",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 512917,
-    "datetime": "2024-03-19 19:27:44 +01:00",
-    "name": "19 mars 19.22, Brand, Karlstad",
-    "summary": "En luktar rök i ett trapphus till ett flerfamiljshus i Karlstad",
-    "url": "/aktuellt/handelser/2024/mars/19/19-mars-19.22-brand-karlstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 510003,
-    "datetime": "2024-03-11 8:04:36 +01:00",
-    "name": "11 mars 00.35, Stöld/inbrott, Värmdö",
-    "summary": "Stöld på byggarbetsplats.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-00.35-stoldinbrott-varmdo/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 510010,
-    "datetime": "2024-03-11 8:04:32 +01:00",
-    "name": "11 mars 00.42, Rån, Danderyd",
-    "summary": "Misshandlad man i Danderyd har rånats.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-00.42-ran-danderyd/",
-    "type": "Rån",
-    "location": {
-      "name": "Danderyd",
-      "gps": "59.407905,18.019075"
-    }
-  },
-  {
-    "id": 510004,
-    "datetime": "2024-03-11 7:56:20 +01:00",
-    "name": "11 mars 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 510005,
-    "datetime": "2024-03-11 7:56:09 +01:00",
-    "name": "11 mars 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
