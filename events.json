@@ -1,5 +1,53 @@
 [
   {
+    "id": 512911,
+    "datetime": "2024-03-19 17:43:00 +01:00",
+    "name": "19 mars 15.56, Fylleri/LOB, Sundsvall",
+    "summary": "Stenstan, berusad man omhändertagen",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-15.56-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 512862,
+    "datetime": "2024-03-19 15:20:58 +01:00",
+    "name": "19 mars 13.52, Försvunnen person, Kristianstad",
+    "summary": "Försvunnen kvinna, Kristianstad.",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-13.52-forsvunnen-person-kristianstad/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 512910,
+    "datetime": "2024-03-19 17:40:48 +01:00",
+    "name": "19 mars 15.00, Fylleri/LOB, Härnösand",
+    "summary": "Centralstationen, polis tillkallas gällande berusad man",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-15.00-fyllerilob-harnosand/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 512908,
+    "datetime": "2024-03-19 17:33:40 +01:00",
+    "name": "19 mars 17.16, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, ett urval av polisens arbete i trafiken under dagen",
+    "url": "/aktuellt/handelser/2024/mars/19/19-mars-17.16-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 512906,
     "datetime": "2024-03-19 17:16:53 +01:00",
     "name": "19 mars 14.01, Trafikkontroll, Luleå",
@@ -93,18 +141,6 @@
     "location": {
       "name": "Årjäng",
       "gps": "59.389159,12.132717"
-    }
-  },
-  {
-    "id": 512862,
-    "datetime": "2024-03-19 15:20:58 +01:00",
-    "name": "19 mars 13.52, Försvunnen person, Kristianstad",
-    "summary": "Försvunnen kvinna, Kristianstad.",
-    "url": "/aktuellt/handelser/2024/mars/19/19-mars-13.52-forsvunnen-person-kristianstad/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 509995,
-    "datetime": "2024-03-11 6:52:49 +01:00",
-    "name": "11 mars 02.10, Stöld, försök, Bjuv",
-    "summary": "Man gripen för förberedelse till stöld",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-02.10-stold-forsok-bjuv/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Bjuv",
-      "gps": "56.087102,12.912505"
-    }
-  },
-  {
-    "id": 509991,
-    "datetime": "2024-03-11 6:52:42 +01:00",
-    "name": "11 mars 06.52, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-06.52-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 509992,
-    "datetime": "2024-03-11 6:52:32 +01:00",
-    "name": "11 mars 06.52, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-06.52-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
