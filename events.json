@@ -1,5 +1,53 @@
 [
   {
+    "id": 513031,
+    "datetime": "2024-03-20 19:24:24 +01:00",
+    "name": "20 mars 17.28, Misshandel, Borås",
+    "summary": "Polis kallas till en återvinningscentral med anledning av ett bråk mellan personal och kunder.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-17.28-misshandel-boras/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 513038,
+    "datetime": "2024-03-20 19:15:08 +01:00",
+    "name": "20 mars 14.39, Rattfylleri, Östersund",
+    "summary": "Lugnvik, polisen stoppar en personbil",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-14.39-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 513037,
+    "datetime": "2024-03-20 19:11:52 +01:00",
+    "name": "20 mars 18.42, Rån, Göteborg",
+    "summary": "Polisen larmas om att en man, maskerad med en halsduk, har rånat en restaurang på Doktor Bex gata, Guldheden.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-18.42-ran-goteborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 513036,
+    "datetime": "2024-03-20 19:08:04 +01:00",
+    "name": "20 mars 19.00, Fylleri/LOB, Västernorrlands län",
+    "summary": "Under dagen har polisen uppmärksammats på ett antal berusade personer",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-19.00-fyllerilob-vasternorrlands-lan/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 513033,
     "datetime": "2024-03-20 18:39:44 +01:00",
     "name": "20 mars 17.35, Trafikolycka, personskada, Sigtuna",
@@ -9,6 +57,42 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 513035,
+    "datetime": "2024-03-20 19:03:45 +01:00",
+    "name": "20 mars 17.33, Rattfylleri, Ludvika",
+    "summary": "Misstänkt drograttfylleri i Ludvika.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-17.33-rattfylleri-ludvika/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 513030,
+    "datetime": "2024-03-20 18:56:44 +01:00",
+    "name": "20 mars 16.33, Rattfylleri, Umeå",
+    "summary": "E4, Sävar. Polisen stoppar en lastbil",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-16.33-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 513034,
+    "datetime": "2024-03-20 18:55:20 +01:00",
+    "name": "20 mars 18.32, Trafikbrott, Karlstad",
+    "summary": "Grov olovlig körning och drograttfylleri i Karlstad.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-18.32-trafikbrott-karlstad/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 512112,
-    "datetime": "2024-03-12 7:20:09 +01:00",
-    "name": "12 mars 07.20, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en lugn natt i polisområde Dalarna",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-07.20-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 512111,
-    "datetime": "2024-03-12 7:20:06 +01:00",
-    "name": "12 mars 07.20, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt i polisområde Värmland",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-07.20-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 512110,
-    "datetime": "2024-03-12 7:14:55 +01:00",
-    "name": "12 mars 07.14, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-07.14-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 512108,
-    "datetime": "2024-03-12 7:13:51 +01:00",
-    "name": "12 mars 07.13, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-07.13-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 512107,
-    "datetime": "2024-03-12 7:13:36 +01:00",
-    "name": "12 mars 00.38, Rattfylleri, Enköping",
-    "summary": "Misstänkt visade sig ha skulder till Kronofogden.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-00.38-rattfylleri-enkoping/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 512106,
-    "datetime": "2024-03-12 7:12:47 +01:00",
-    "name": "12 mars 07.12, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-07.12-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 512105,
-    "datetime": "2024-03-12 7:11:19 +01:00",
-    "name": "12 mars 07.11, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-07.11-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
