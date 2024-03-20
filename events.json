@@ -1,5 +1,53 @@
 [
   {
+    "id": 513043,
+    "datetime": "2024-03-20 20:36:38 +01:00",
+    "name": "20 mars 17.09, Narkotikabrott, Malung-Sälen",
+    "summary": "Narkotika vid krog i Sälenområdet.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-17.09-narkotikabrott-malung-salen/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 513039,
+    "datetime": "2024-03-20 19:35:01 +01:00",
+    "name": "20 mars 19.14, Vapenlagen, Göteborg",
+    "summary": "En man i 35-årsåldern kommer inspringande på en bensinstation vid Fiskebäcksmotet.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-19.14-vapenlagen-goteborg/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 513042,
+    "datetime": "2024-03-20 20:29:37 +01:00",
+    "name": "20 mars 20.02, Rattfylleri, Karlstad",
+    "summary": "Misstänkt drograttfylleri norr om Karlstad.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-20.02-rattfylleri-karlstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 513041,
+    "datetime": "2024-03-20 20:25:15 +01:00",
+    "name": "20 mars 20.15, Brand, Malmö",
+    "summary": "Brand i sophus.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-20.15-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 513040,
     "datetime": "2024-03-20 20:11:21 +01:00",
     "name": "20 mars 19.03, Våld/hot mot tjänsteman, Malung-Sälen",
@@ -18,18 +66,6 @@
     "summary": "Polisen larmas om att en man, maskerad med en halsduk, har rånat en restaurang på Doktor Bex gata, Guldheden.",
     "url": "/aktuellt/handelser/2024/mars/20/20-mars-18.42-ran-goteborg/",
     "type": "Rån",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 513039,
-    "datetime": "2024-03-20 19:35:01 +01:00",
-    "name": "20 mars 19.14, Misshandel, grov, Göteborg",
-    "summary": "En man i 35-årsåldern kommer inspringande på en bensinstation vid Fiskebäcksmotet.",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-19.14-misshandel-grov-goteborg/",
-    "type": "Misshandel, grov",
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 511099,
-    "datetime": "2024-03-11 23:02:55 +01:00",
-    "name": "11 mars 22.41, Skottlossning, Kristianstad",
-    "summary": "Polis larmas till Gamlegården med anledning av att höga smällar hörts i området.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-22.41-skottlossning-kristianstad/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 512109,
-    "datetime": "2024-03-12 7:14:27 +01:00",
-    "name": "12 mars 04.34, Bedrägeri, Sigtuna",
-    "summary": "En ankommande resenär till Arlanda hade valt att inte betala för sig på flyget.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-04.34-bedrageri-sigtuna/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 512115,
-    "datetime": "2024-03-12 7:23:58 +01:00",
-    "name": "12 mars 01.40, Narkotikabrott, Stockholms län",
-    "summary": "Tre personer i en hotellobby i Alvik misstänktes för att köpa och sälja narkotika.",
-    "url": "/aktuellt/handelser/2024/mars/12/12-mars-01.40-narkotikabrott-stockholms-lan/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
