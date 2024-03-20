@@ -1,5 +1,53 @@
 [
   {
+    "id": 512953,
+    "datetime": "2024-03-20 7:27:32 +01:00",
+    "name": "20 mars 05.46, Brand, Sorsele",
+    "summary": "Sorsele, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-05.46-brand-sorsele/",
+    "type": "Brand",
+    "location": {
+      "name": "Sorsele",
+      "gps": "65.534938,17.542175"
+    }
+  },
+  {
+    "id": 513027,
+    "datetime": "2024-03-20 17:02:12 +01:00",
+    "name": "20 mars 16.50, Rån, Lund",
+    "summary": "Polis larmas till Bangatan med anledning av ett rån.",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-16.50-ran-lund/",
+    "type": "Rån",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 513025,
+    "datetime": "2024-03-20 16:52:46 +01:00",
+    "name": "20 mars 12.25, Fjällräddning, Åre",
+    "summary": "Gullfinn, Hensjön. En man har voltat med skoter",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-12.25-fjallraddning-are/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 513023,
+    "datetime": "2024-03-20 16:46:02 +01:00",
+    "name": "20 mars 15.33, Trafikolycka, Tjörn",
+    "summary": "SOS larmas efter att en personbil kört ner i ett dike. Vittnen på platsen upplever föraren, en man i 20-årsåld",
+    "url": "/aktuellt/handelser/2024/mars/20/20-mars-15.33-trafikolycka-tjorn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tjörn",
+      "gps": "58.04102,11.683671"
+    }
+  },
+  {
     "id": 513022,
     "datetime": "2024-03-20 16:43:33 +01:00",
     "name": "20 mars 15.39, Trafikbrott, Timrå",
@@ -117,18 +165,6 @@
     "location": {
       "name": "Trollhättan",
       "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 512953,
-    "datetime": "2024-03-20 7:27:32 +01:00",
-    "name": "20 mars 05.46, Brand, Sorsele",
-    "summary": "Sorsele, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-05.46-brand-sorsele/",
-    "type": "Brand",
-    "location": {
-      "name": "Sorsele",
-      "gps": "65.534938,17.542175"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Staffanstorp",
       "gps": "55.641065,13.212229"
-    }
-  },
-  {
-    "id": 510097,
-    "datetime": "2024-03-11 22:39:36 +01:00",
-    "name": "11 mars 22.18, Trafikolycka, Karlskrona",
-    "summary": "En singelolycka med en personbil inträffar på E22 strax norr om Fågelmara.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-22.18-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 510096,
-    "datetime": "2024-03-11 22:32:57 +01:00",
-    "name": "11 mars 21.30, Övrigt, Stockholm",
-    "summary": "Polis larmas till Sundby med anledning av doft i bostadshus.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-21.30-ovrigt-stockholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 510094,
-    "datetime": "2024-03-11 22:04:28 +01:00",
-    "name": "11 mars 22.00, Övrigt, Västra Götalands län",
-    "summary": "Ingen presstalesperson i tjänst efter klockan 22:00.",
-    "url": "/aktuellt/handelser/2024/mars/11/11-mars-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
