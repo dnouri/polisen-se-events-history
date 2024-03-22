@@ -1,14 +1,50 @@
 [
   {
-    "id": 513292,
-    "datetime": "2024-03-22 14:42:23 +01:00",
-    "name": "22 mars 12.57, Trafikolycka, Östersund",
-    "summary": "Larm om trafikolycka i Torvalla by.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-12.57-trafikolycka-ostersund/",
+    "id": 513303,
+    "datetime": "2024-03-22 15:18:37 +01:00",
+    "name": "22 mars 15.06, Brand, Staffanstorp",
+    "summary": "Larm om brand i radhus, Staffanstorp.",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-15.06-brand-staffanstorp/",
+    "type": "Brand",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 513272,
+    "datetime": "2024-03-22 13:09:17 +01:00",
+    "name": "22 mars 12.34, Trafikolycka, Östersund",
+    "summary": "E14 Lugnviks industriområde, två bilister inblandad i olycka",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-12.34-trafikolycka-ostersund/",
     "type": "Trafikolycka",
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 513300,
+    "datetime": "2024-03-22 15:06:44 +01:00",
+    "name": "22 mars 11.44, Arbetsplatsolycka, Göteborg",
+    "summary": "Byggarbetsplats, Torslanda",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-11.44-arbetsplatsolycka-goteborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 513298,
+    "datetime": "2024-03-22 14:54:42 +01:00",
+    "name": "22 mars 14.48, Stöld, Kungsör",
+    "summary": "Dubbla stölder från BMW-bilar.",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-14.48-stold-kungsor/",
+    "type": "Stöld",
+    "location": {
+      "name": "Kungsör",
+      "gps": "59.422397,16.097786"
     }
   },
   {
@@ -21,6 +57,18 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 513292,
+    "datetime": "2024-03-22 14:42:23 +01:00",
+    "name": "22 mars 12.57, Trafikolycka, Östersund",
+    "summary": "Larm om trafikolycka i Torvalla by.",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-12.57-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -57,18 +105,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 513272,
-    "datetime": "2024-03-22 13:09:17 +01:00",
-    "name": "22 mars 12.34, Trafikolycka, Östersund",
-    "summary": "E14 Lugnviks industriområde, två bilister inblandad i olycka",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-12.34-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 512448,
-    "datetime": "2024-03-15 6:41:41 +01:00",
-    "name": "15 mars 01.19, Misshandel, Malmö",
-    "summary": "En man i 25-årsåldern grips misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-01.19-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 512444,
-    "datetime": "2024-03-14 21:35:02 +01:00",
-    "name": "14 mars 21.20, Larm Överfall, Stockholm",
-    "summary": "En chaufför till en lastbil som levererar post har utlöst ett överfallslarm.",
-    "url": "/aktuellt/handelser/2024/mars/14/14-mars-21.20-larm-overfall-stockholm/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 512443,
-    "datetime": "2024-03-14 20:30:51 +01:00",
-    "name": "14 mars 18.56, Trafikolycka, personskada, Göteborg",
-    "summary": "En kvinna i sextioårsåldern har blivit påkörd vid en trafikolycka vid Slottskogen i Göteborg.",
-    "url": "/aktuellt/handelser/2024/mars/14/14-mars-18.56-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
