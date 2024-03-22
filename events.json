@@ -1,17 +1,5 @@
 [
   {
-    "id": 513312,
-    "datetime": "2024-03-22 15:57:26 +01:00",
-    "name": "22 mars 15.49, Trafikolycka, Kristinehamn",
-    "summary": "En trafikolycka mellan två fordon har inträffat på E18 vid Ölme",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-15.49-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
     "id": 513309,
     "datetime": "2024-03-22 15:49:02 +01:00",
     "name": "22 mars 15.24, Trafikolycka, Mora",
@@ -24,6 +12,30 @@
     }
   },
   {
+    "id": 513330,
+    "datetime": "2024-03-22 16:30:18 +01:00",
+    "name": "22 mars 16.11, Brand, Kristianstad",
+    "summary": "Brand i villa, Träne-Djurröd.",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-16.11-brand-kristianstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 512738,
+    "datetime": "2024-03-18 13:06:24 +01:00",
+    "name": "18 mars 12.58, Försvunnen person, Mark",
+    "summary": "Den 14 mars 2024 klockan 18.21 inkom en anmälan om en försvunnen flicka till polisen.",
+    "url": "/aktuellt/handelser/2024/mars/18/18-mars-12.58-forsvunnen-person-mark/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
     "id": 513303,
     "datetime": "2024-03-22 15:18:37 +01:00",
     "name": "22 mars 15.06, Brand, Staffanstorp",
@@ -33,6 +45,54 @@
     "location": {
       "name": "Staffanstorp",
       "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 513331,
+    "datetime": "2024-03-22 16:30:44 +01:00",
+    "name": "22 mars 16.25, Trafikolycka, Askersund",
+    "summary": "En trafikolycka har inträffat på Rv 50 vid Ingelsbyn",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-16.25-trafikolycka-askersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 513326,
+    "datetime": "2024-03-22 16:25:13 +01:00",
+    "name": "22 mars 15.00, Rattfylleri, Sunne",
+    "summary": "Misstänkt påverkad bilist stoppad",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-15.00-rattfylleri-sunne/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 513223,
+    "datetime": "2024-03-22 8:08:00 +01:00",
+    "name": "22 mars 06.28, Misshandel, grov, Borås",
+    "summary": "Polis larmas till en adress i kommunen där förbipasserade påträffat en kvinna och en man, liggandes utomhus på",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-06.28-misshandel-grov-boras/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 513312,
+    "datetime": "2024-03-22 15:57:26 +01:00",
+    "name": "22 mars 15.49, Trafikolycka, Kristinehamn",
+    "summary": "En trafikolycka mellan två fordon har inträffat på E18 vid Ölme",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-15.49-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
     }
   },
   {
@@ -273,18 +333,6 @@
     "location": {
       "name": "Mellerud",
       "gps": "58.702568,12.451842"
-    }
-  },
-  {
-    "id": 513223,
-    "datetime": "2024-03-22 8:08:00 +01:00",
-    "name": "22 mars 06.28, Misshandel, grov, Borås",
-    "summary": "Polis larmas till en adress i kommunen där förbipasserade påträffat en kvinna och en man, liggandes utomhus på",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-06.28-misshandel-grov-boras/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -2961,18 +3009,6 @@
     "location": {
       "name": "Lycksele",
       "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 512738,
-    "datetime": "2024-03-18 13:06:24 +01:00",
-    "name": "18 mars 12.58, Försvunnen person, Mark",
-    "summary": "Den 14 mars 2024 klockan 18.21 inkom en anmälan om en försvunnen flicka till polisen.",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-12.58-forsvunnen-person-mark/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 512454,
-    "datetime": "2024-03-15 7:03:12 +01:00",
-    "name": "15 mars 06.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-06.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 512453,
-    "datetime": "2024-03-15 6:52:17 +01:00",
-    "name": "15 mars 06.52, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-06.52-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 512451,
-    "datetime": "2024-03-15 6:47:44 +01:00",
-    "name": "15 mars 04.28, Skadegörelse, Kristianstad",
-    "summary": "Bilbrand, Linderöd.",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-04.28-skadegorelse-kristianstad/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   }
 ]
