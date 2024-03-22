@@ -1,5 +1,77 @@
 [
   {
+    "id": 513385,
+    "datetime": "2024-03-22 20:10:17 +01:00",
+    "name": "22 mars 19.55, Brand, Skurup",
+    "summary": "Brand i villa, Skurup.",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-19.55-brand-skurup/",
+    "type": "Brand",
+    "location": {
+      "name": "Skurup",
+      "gps": "55.48045,13.502349"
+    }
+  },
+  {
+    "id": 513386,
+    "datetime": "2024-03-22 20:17:00 +01:00",
+    "name": "22 mars 19.00, Misshandel, Borlänge",
+    "summary": "Två män var varit oense i Bullermuren i Borlänge",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-19.00-misshandel-borlange/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 513384,
+    "datetime": "2024-03-22 20:03:54 +01:00",
+    "name": "22 mars 19.44, Trafikolycka, vilt, Umeå",
+    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 363, Forslunda.",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-19.44-trafikolycka-vilt-umea/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 513383,
+    "datetime": "2024-03-22 20:01:02 +01:00",
+    "name": "22 mars 20.00, Rattfylleri, Lindesberg",
+    "summary": "Misstänkt påverkad mopedist stoppad",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-20.00-rattfylleri-lindesberg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 513382,
+    "datetime": "2024-03-22 19:58:49 +01:00",
+    "name": "22 mars 19.58, Anträffad död, Finspång",
+    "summary": "En kropp har anträffats i Skutbosjön.",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-19.58-antraffad-dod-finspang/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Finspång",
+      "gps": "58.707488,15.773595"
+    }
+  },
+  {
+    "id": 512738,
+    "datetime": "2024-03-18 13:06:24 +01:00",
+    "name": "18 mars 12.58, Försvunnen person, Mark",
+    "summary": "Den 14 mars 2024 klockan 18.21 inkom en anmälan om en försvunnen flicka till polisen.",
+    "url": "/aktuellt/handelser/2024/mars/18/18-mars-12.58-forsvunnen-person-mark/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
     "id": 513381,
     "datetime": "2024-03-22 19:39:47 +01:00",
     "name": "22 mars 19.39, Rån, försök, Sundsvall",
@@ -297,18 +369,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 512738,
-    "datetime": "2024-03-18 13:06:24 +01:00",
-    "name": "18 mars 12.58, Försvunnen person, Mark",
-    "summary": "Den 14 mars 2024 klockan 18.21 inkom en anmälan om en försvunnen flicka till polisen.",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-12.58-forsvunnen-person-mark/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 512512,
-    "datetime": "2024-03-15 13:42:52 +01:00",
-    "name": "15 mars 07.42, Försvunnen person, Sundsvall",
-    "summary": "Njurunda, personen är inte längre försvunnen.",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-07.42-forsvunnen-person-sundsvall/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 512498,
-    "datetime": "2024-03-15 12:24:09 +01:00",
-    "name": "15 mars 10.51, Trafikolycka, Östhammar",
-    "summary": "Lastbil med släp kör av vägen på riksväg 76.",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-10.51-trafikolycka-osthammar/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östhammar",
-      "gps": "60.259302,18.365341"
-    }
-  },
-  {
-    "id": 512513,
-    "datetime": "2024-03-15 13:44:57 +01:00",
-    "name": "15 mars 13.33, Trafikolycka, Ljungby",
-    "summary": "En personbil kör av vägen på länsävg 582 i höjd med Kånna.",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-13.33-trafikolycka-ljungby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 512511,
-    "datetime": "2024-03-15 13:39:18 +01:00",
-    "name": "15 mars 08.27, Rattfylleri, Ludvika",
-    "summary": "En manlig bilist är misstänkt för flera brott",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-08.27-rattfylleri-ludvika/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 512505,
-    "datetime": "2024-03-15 13:01:23 +01:00",
-    "name": "15 mars 13.01, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/mars/15/15-mars-13.01-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
