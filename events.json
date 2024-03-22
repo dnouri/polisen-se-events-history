@@ -1,5 +1,53 @@
 [
   {
+    "id": 513256,
+    "datetime": "2024-03-22 11:14:42 +01:00",
+    "name": "22 mars 09.45, Trafikolycka, Strömsund",
+    "summary": "Länsväg 345, singelolycka ett par mil söder om Strömsund",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-09.45-trafikolycka-stromsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 513255,
+    "datetime": "2024-03-22 11:10:13 +01:00",
+    "name": "22 mars 10.54, Trafikkontroll, Pajala",
+    "summary": "Länsväg 392, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-10.54-trafikkontroll-pajala/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 513241,
+    "datetime": "2024-03-22 9:29:52 +01:00",
+    "name": "22 mars 09.00, Trafikolycka, Umeå",
+    "summary": "Carlslidrondellen, två bilister har kolliderat i rondell",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-09.00-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 513253,
+    "datetime": "2024-03-22 10:59:34 +01:00",
+    "name": "22 mars 10.33, Misshandel, Malmö",
+    "summary": "Två skadade män",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-10.33-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 513251,
     "datetime": "2024-03-22 10:41:00 +01:00",
     "name": "22 mars 09.45, Olaga hot, Stockholm",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 513241,
-    "datetime": "2024-03-22 9:29:52 +01:00",
-    "name": "22 mars 09.00, Trafikolycka, Umeå",
-    "summary": "Carlslidrondellen, två bilister har kolliderat i rondell",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-09.00-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Färgelanda",
       "gps": "58.567559,11.994926"
-    }
-  },
-  {
-    "id": 512424,
-    "datetime": "2024-03-14 15:34:41 +01:00",
-    "name": "14 mars 15.31, Övrigt, Gnosjö",
-    "summary": "Polisen söker tips efter dödsfallet i Gnosjö",
-    "url": "/aktuellt/handelser/2024/mars/14/14-mars-15.31-ovrigt-gnosjo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Gnosjö",
-      "gps": "57.35804,13.73719"
-    }
-  },
-  {
-    "id": 512277,
-    "datetime": "2024-03-13 12:36:36 +01:00",
-    "name": "13 mars 08.17, Mord/dråp, Stockholm",
-    "summary": "En avliden person har anträffats utomhus vid Järvafältet.",
-    "url": "/aktuellt/handelser/2024/mars/12/13-mars-08.17-morddrap-stockholm/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 512417,
-    "datetime": "2024-03-14 12:58:27 +01:00",
-    "name": "14 mars 12.41, Trafikolycka, Orsa",
-    "summary": "En olycka har inträffat i höjd med Viborg",
-    "url": "/aktuellt/handelser/2024/mars/14/14-mars-12.41-trafikolycka-orsa/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
     }
   }
 ]
