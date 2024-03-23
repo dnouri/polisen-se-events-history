@@ -1,5 +1,101 @@
 [
   {
+    "id": 513427,
+    "datetime": "2024-03-23 8:17:47 +01:00",
+    "name": "23 mars 08.16, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.16-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 513426,
+    "datetime": "2024-03-23 8:16:20 +01:00",
+    "name": "23 mars 08.13, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.13-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 513409,
+    "datetime": "2024-03-23 4:08:06 +01:00",
+    "name": "23 mars 04.06, Brand, Mjölby",
+    "summary": "Detination i trapphus.",
+    "url": "/aktuellt/handelser/2024/mars/23/23-mars-04.06-brand-mjolby/",
+    "type": "Brand",
+    "location": {
+      "name": "Mjölby",
+      "gps": "58.322691,15.133535"
+    }
+  },
+  {
+    "id": 513425,
+    "datetime": "2024-03-23 8:06:53 +01:00",
+    "name": "23 mars 08.06, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
+    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.06-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 513424,
+    "datetime": "2024-03-23 8:02:43 +01:00",
+    "name": "23 mars 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 513423,
+    "datetime": "2024-03-23 8:01:16 +01:00",
+    "name": "23 mars 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 513418,
+    "datetime": "2024-03-23 8:00:56 +01:00",
+    "name": "23 mars 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 513422,
+    "datetime": "2024-03-23 7:58:18 +01:00",
+    "name": "23 mars 07.58, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till lördag polisområde Värmland.",
+    "url": "/aktuellt/handelser/2024/mars/23/23-mars-07.58-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 513420,
     "datetime": "2024-03-23 7:43:27 +01:00",
     "name": "23 mars 07.43, Sammanfattning natt, Dalarnas län",
@@ -129,18 +225,6 @@
     "location": {
       "name": "Västmanlands län",
       "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 513409,
-    "datetime": "2024-03-23 4:08:06 +01:00",
-    "name": "23 mars 04.06, Brand, Mjölby",
-    "summary": "Detination i trapphus.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-04.06-brand-mjolby/",
-    "type": "Brand",
-    "location": {
-      "name": "Mjölby",
-      "gps": "58.322691,15.133535"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 512574,
-    "datetime": "2024-03-16 7:21:09 +01:00",
-    "name": "16 mars 07.21, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/16/16-mars-07.21-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 512575,
-    "datetime": "2024-03-16 7:20:55 +01:00",
-    "name": "16 mars 07.20, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/16/16-mars-07.20-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 512572,
-    "datetime": "2024-03-16 7:20:39 +01:00",
-    "name": "16 mars 07.20, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/16/16-mars-07.20-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 512569,
-    "datetime": "2024-03-16 7:20:15 +01:00",
-    "name": "16 mars 07.20, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/mars/16/16-mars-07.20-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 512573,
-    "datetime": "2024-03-16 7:08:38 +01:00",
-    "name": "16 mars 04.25, Trafikolycka, smitning från, Västervik",
-    "summary": "En personbil kör in i en trädgård i Gamleby.",
-    "url": "/aktuellt/handelser/2024/mars/16/16-mars-04.25-trafikolycka-smitning-fran-vastervik/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 512571,
-    "datetime": "2024-03-16 7:04:33 +01:00",
-    "name": "16 mars 02.27, Våld/hot mot tjänsteman, Helsingborg",
-    "summary": "En taxichaufför blir utsatt för en misshandel i centrala Helsingborg.",
-    "url": "/aktuellt/handelser/2024/mars/16/16-mars-02.27-valdhot-mot-tjansteman-helsingborg/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 512570,
-    "datetime": "2024-03-16 7:00:30 +01:00",
-    "name": "16 mars 02.11, Rattfylleri, Mörbylånga",
-    "summary": "Man i 18-årsåldern misstänks för drograttfylleri efter kontroll.",
-    "url": "/aktuellt/handelser/2024/mars/16/16-mars-02.11-rattfylleri-morbylanga/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Mörbylånga",
-      "gps": "56.523757,16.386916"
     }
   }
 ]
