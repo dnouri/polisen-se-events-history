@@ -1,5 +1,77 @@
 [
   {
+    "id": 513519,
+    "datetime": "2024-03-24 15:11:59 +01:00",
+    "name": "24 mars 13.50, Vapenlagen, Ludvika",
+    "summary": "Två personer under femton år misstänks för vapenbrott.",
+    "url": "/aktuellt/handelser/2024/mars/24/24-mars-13.50-vapenlagen-ludvika/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 513518,
+    "datetime": "2024-03-24 15:01:13 +01:00",
+    "name": "24 mars 12.17, Trafikolycka, Lycksele",
+    "summary": "Skoterolycka utanför Lycksele.",
+    "url": "/aktuellt/handelser/2024/mars/24/24-mars-12.17-trafikolycka-lycksele/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 513253,
+    "datetime": "2024-03-22 10:59:34 +01:00",
+    "name": "22 mars 10.33, Mord/dråp, Malmö",
+    "summary": "Två skadade män",
+    "url": "/aktuellt/handelser/2024/mars/22/22-mars-10.33-morddrap-malmo/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 513517,
+    "datetime": "2024-03-24 14:58:14 +01:00",
+    "name": "24 mars 14.23, Trafikolycka, Kiruna",
+    "summary": "Tarfikolycka på E10 Krokvik, Kiruna.",
+    "url": "/aktuellt/handelser/2024/mars/24/24-mars-14.23-trafikolycka-kiruna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 513516,
+    "datetime": "2024-03-24 14:51:37 +01:00",
+    "name": "24 mars 13.29, Trafikolycka, Eda",
+    "summary": "Två personbilar har kolliderat på riksväg 61 i Charlottenberg.",
+    "url": "/aktuellt/handelser/2024/mars/24/24-mars-13.29-trafikolycka-eda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eda",
+      "gps": "59.83754,12.314031"
+    }
+  },
+  {
+    "id": 513515,
+    "datetime": "2024-03-24 14:49:14 +01:00",
+    "name": "24 mars 13.16, Räddningsinsats, Borlänge",
+    "summary": "Ett barn i femårsåldern har undsatts ur ett vattendrag vid Tjärna Ängar i Borlänge.",
+    "url": "/aktuellt/handelser/2024/mars/24/24-mars-13.16-raddningsinsats-borlange/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 513480,
     "datetime": "2024-03-24 7:07:35 +01:00",
     "name": "24 mars 01.30, Olaga hot, Vimmerby",
@@ -837,18 +909,6 @@
     "location": {
       "name": "Malung-Sälen",
       "gps": "60.900926,13.322618"
-    }
-  },
-  {
-    "id": 513253,
-    "datetime": "2024-03-22 10:59:34 +01:00",
-    "name": "22 mars 10.33, Mord/dråp, Malmö",
-    "summary": "Två skadade män",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-10.33-morddrap-malmo/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Älvdalen",
       "gps": "61.227306,14.041987"
-    }
-  },
-  {
-    "id": 512665,
-    "datetime": "2024-03-17 15:29:47 +01:00",
-    "name": "17 mars 14.52, Trafikolycka, Älvdalen",
-    "summary": "Två personbilar inblandade i en olycka på Rv70 sydost om Idre.",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-14.52-trafikolycka-alvdalen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Älvdalen",
-      "gps": "61.227306,14.041987"
-    }
-  },
-  {
-    "id": 512662,
-    "datetime": "2024-03-17 15:14:17 +01:00",
-    "name": "17 mars 15.15, Djur, Lidköping",
-    "summary": "En papegoja är på rymmen i Lidköping.",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-15.15-djur-lidkoping/",
-    "type": "Djur",
-    "location": {
-      "name": "Lidköping",
-      "gps": "58.503505,13.157077"
-    }
-  },
-  {
-    "id": 512661,
-    "datetime": "2024-03-17 14:49:59 +01:00",
-    "name": "17 mars 14.23, Trafikolycka, Malmö",
-    "summary": "Två personbilar kolliderar vid Lindeborgsrondellen på Inre Ringvägen.",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-14.23-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 512646,
-    "datetime": "2024-03-17 12:59:22 +01:00",
-    "name": "17 mars 12.59, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-12.59-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 512657,
-    "datetime": "2024-03-17 13:57:02 +01:00",
-    "name": "17 mars 13.34, Trafikolycka, Stockholm",
-    "summary": "Polis och ambulans kallas till Nynäsvägen, riksväg 73, i höjd med Skogskyrkogården norrut med anledning av en ",
-    "url": "/aktuellt/handelser/2024/mars/17/17-mars-13.34-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
