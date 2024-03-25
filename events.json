@@ -1,5 +1,89 @@
 [
   {
+    "id": 513611,
+    "datetime": "2024-03-25 13:33:41 +01:00",
+    "name": "25 mars 12.21, Fjällräddning, Härjedalen",
+    "summary": "Fjällräddning i trakten av Funäsdalen.",
+    "url": "/aktuellt/handelser/2024/mars/25/25-mars-12.21-fjallraddning-harjedalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 513497,
+    "datetime": "2024-03-24 12:59:55 +01:00",
+    "name": "24 mars 12.59, Mord/dråp, Torsby",
+    "summary": "Polisen utreder ett grovt våldsbrott i Torsby.",
+    "url": "/aktuellt/handelser/2024/mars/24/24-mars-12.59-morddrap-torsby/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 513610,
+    "datetime": "2024-03-25 13:27:00 +01:00",
+    "name": "25 mars 10.13, Rattfylleri, Umeå",
+    "summary": "Umeå, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2024/mars/25/25-mars-10.13-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 513607,
+    "datetime": "2024-03-25 13:18:00 +01:00",
+    "name": "25 mars 11.51, Stöld, Luleå",
+    "summary": "Luleå, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2024/mars/25/25-mars-11.51-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 513606,
+    "datetime": "2024-03-25 13:13:45 +01:00",
+    "name": "25 mars 12.09, Brand, Timrå",
+    "summary": "Timrå, brand utan misstanke om brott.",
+    "url": "/aktuellt/handelser/2024/mars/25/25-mars-12.09-brand-timra/",
+    "type": "Brand",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 513605,
+    "datetime": "2024-03-25 13:06:46 +01:00",
+    "name": "25 mars 12.35, Försvunnen person, Sunne",
+    "summary": "Polisen söker en försvunnen person.",
+    "url": "/aktuellt/handelser/2024/mars/25/25-mars-12.35-forsvunnen-person-sunne/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 513602,
+    "datetime": "2024-03-25 12:47:02 +01:00",
+    "name": "25 mars 10.51, Trafikbrott, Arjeplog",
+    "summary": "Laisvall, olovlig körning på snöskoter.",
+    "url": "/aktuellt/handelser/2024/mars/25/25-mars-10.51-trafikbrott-arjeplog/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Arjeplog",
+      "gps": "66.051505,17.890054"
+    }
+  },
+  {
     "id": 513582,
     "datetime": "2024-03-25 12:43:31 +01:00",
     "name": "25 mars 10.01, Vapenlagen, Göteborg",
@@ -573,18 +657,6 @@
     "location": {
       "name": "Ludvika",
       "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 513497,
-    "datetime": "2024-03-24 12:59:55 +01:00",
-    "name": "24 mars 12.59, Mord/dråp, Torsby",
-    "summary": "Polisen utreder ett grovt våldsbrott i Torsby.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-12.59-morddrap-torsby/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Vännäs",
       "gps": "63.908007,19.752965"
-    }
-  },
-  {
-    "id": 512760,
-    "datetime": "2024-03-18 15:50:19 +01:00",
-    "name": "18 mars 10.35, Trafikbrott, Dorotea",
-    "summary": "Dorotea, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-10.35-trafikbrott-dorotea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Dorotea",
-      "gps": "64.261794,16.415234"
-    }
-  },
-  {
-    "id": 512748,
-    "datetime": "2024-03-18 14:39:23 +01:00",
-    "name": "18 mars 13.43, Trafikolycka, Halmstad",
-    "summary": "Trafikolycka på E6, Getinge. Polisfordon inblandat.",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-13.43-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 512713,
-    "datetime": "2024-03-18 10:36:40 +01:00",
-    "name": "18 mars 10.24, Trafikolycka, Eda",
-    "summary": "En frontalkrock har inträffat i Eda",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-10.24-trafikolycka-eda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eda",
-      "gps": "59.83754,12.314031"
-    }
-  },
-  {
-    "id": 512741,
-    "datetime": "2024-03-18 13:26:15 +01:00",
-    "name": "18 mars 11.28, Stöld, Södertälje",
-    "summary": "Person greps misstänkt för stöld i butik.",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-11.28-stold-sodertalje/",
-    "type": "Stöld",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 512740,
-    "datetime": "2024-03-18 13:12:22 +01:00",
-    "name": "18 mars 12.00, Arbetsplatsolycka, Örebro",
-    "summary": "En arbetsplatsolycka har inträffat i Pilängen",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-12.00-arbetsplatsolycka-orebro/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 512736,
-    "datetime": "2024-03-18 12:50:47 +01:00",
-    "name": "18 mars 12.50, Trafikkontroll, Jämtlands län",
-    "summary": "Ett urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-12.50-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
