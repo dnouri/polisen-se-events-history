@@ -1,5 +1,65 @@
 [
   {
+    "id": 513854,
+    "datetime": "2024-03-26 18:20:26 +01:00",
+    "name": "26 mars 16.30, Mord/dråp, försök, Göteborg",
+    "summary": "Polisen får larm om att en man riktat ett pistollikande föremål mot en annan man vid Transportgatan, Bäckebol.",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-16.30-morddrap-forsok-goteborg/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 513857,
+    "datetime": "2024-03-26 18:13:59 +01:00",
+    "name": "26 mars 16.02, Rån, försök, Helsingborg",
+    "summary": "Personrån",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-16.02-ran-forsok-helsingborg/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 513840,
+    "datetime": "2024-03-26 16:40:02 +01:00",
+    "name": "26 mars 16.22, Trafikolycka, Svedala",
+    "summary": "E65 mellan Börringe och Sturupsrondellen",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-16.22-trafikolycka-svedala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Svedala",
+      "gps": "55.508908,13.23711"
+    }
+  },
+  {
+    "id": 513856,
+    "datetime": "2024-03-26 18:04:30 +01:00",
+    "name": "26 mars 11.19, Rattfylleri, Berg",
+    "summary": "Länsväg 316, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-11.19-rattfylleri-berg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
+    "id": 513855,
+    "datetime": "2024-03-26 17:53:15 +01:00",
+    "name": "26 mars 16.19, Vållande till kroppsskada, Falköping",
+    "summary": "En kvinna i 65-årsåldern kontaktar polisen och uppger att hon och en hund hon rastade har blivit bitna av en l",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-16.19-vallande-till-kroppsskada-falkoping/",
+    "type": "Vållande till kroppsskada",
+    "location": {
+      "name": "Falköping",
+      "gps": "58.175029,13.553217"
+    }
+  },
+  {
     "id": 513845,
     "datetime": "2024-03-26 17:11:06 +01:00",
     "name": "26 mars 14.26, Försvunnen person, Borlänge",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 513840,
-    "datetime": "2024-03-26 16:40:02 +01:00",
-    "name": "26 mars 16.22, Trafikolycka, Svedala",
-    "summary": "E65 mellan Börringe och Sturupsrondellen",
-    "url": "/aktuellt/handelser/2024/mars/26/26-mars-16.22-trafikolycka-svedala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Svedala",
-      "gps": "55.508908,13.23711"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 512918,
-    "datetime": "2024-03-19 19:30:44 +01:00",
-    "name": "19 mars 16.59, Fylleri/LOB, Sollefteå",
-    "summary": "Sollefteå station, polis kontaktas gällande berusad man",
-    "url": "/aktuellt/handelser/2024/mars/19/19-mars-16.59-fyllerilob-solleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 512899,
-    "datetime": "2024-03-19 16:34:10 +01:00",
-    "name": "19 mars 16.23, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har intreäfat på E18, trafikplats Hedgatan",
-    "url": "/aktuellt/handelser/2024/mars/19/19-mars-16.23-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 512916,
-    "datetime": "2024-03-19 19:18:32 +01:00",
-    "name": "19 mars 17.47, Fylleri/LOB, Umeå",
-    "summary": "Vasaplan, man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/19/19-mars-17.47-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 512915,
-    "datetime": "2024-03-19 19:15:03 +01:00",
-    "name": "19 mars 17.09, Stöld, Luleå",
-    "summary": "Innerstaden, man stoppad efter misstänkt ringa stöld i klädbutik",
-    "url": "/aktuellt/handelser/2024/mars/19/19-mars-17.09-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
