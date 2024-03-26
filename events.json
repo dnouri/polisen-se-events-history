@@ -1,17 +1,5 @@
 [
   {
-    "id": 513736,
-    "datetime": "2024-03-26 9:28:09 +01:00",
-    "name": "26 mars 01.46, Brand, Huddinge",
-    "summary": "Stuvsta, polis och räddningstjänst larmas till en villabrand",
-    "url": "/aktuellt/handelser/2024/mars/26/26-mars-01.46-brand-huddinge/",
-    "type": "Brand",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
     "id": 513735,
     "datetime": "2024-03-26 9:20:35 +01:00",
     "name": "26 mars 08.46, Fjällräddning, Malung-Sälen",
@@ -24,6 +12,18 @@
     }
   },
   {
+    "id": 513741,
+    "datetime": "2024-03-26 10:03:50 +01:00",
+    "name": "26 mars 07.56, Trafikkontroll, Kiruna",
+    "summary": "Kiruna, två körkort omhändertagna.",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-07.56-trafikkontroll-kiruna/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
     "id": 513734,
     "datetime": "2024-03-26 9:17:53 +01:00",
     "name": "26 mars 09.09, Trafikolycka, Sundsvall",
@@ -33,6 +33,42 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 513739,
+    "datetime": "2024-03-26 9:47:03 +01:00",
+    "name": "26 mars 09.27, Trafikolycka, Falun",
+    "summary": "En bilist har krockat med ett träd",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-09.27-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 513738,
+    "datetime": "2024-03-26 9:44:47 +01:00",
+    "name": "26 mars 09.22, Trafikolycka, Älvdalen",
+    "summary": "En bilist har kört in i en husvägg",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-09.22-trafikolycka-alvdalen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 513736,
+    "datetime": "2024-03-26 9:28:09 +01:00",
+    "name": "26 mars 01.46, Brand, Huddinge",
+    "summary": "Stuvsta, polis och räddningstjänst larmas till en villabrand",
+    "url": "/aktuellt/handelser/2024/mars/26/26-mars-01.46-brand-huddinge/",
+    "type": "Brand",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 512833,
-    "datetime": "2024-03-19 10:07:01 +01:00",
-    "name": "19 mars 08.42, Stöld, Boden",
-    "summary": "Man misstänks för ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2024/mars/19/19-mars-08.42-stold-boden/",
-    "type": "Stöld",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 512821,
-    "datetime": "2024-03-19 8:41:35 +01:00",
-    "name": "19 mars 00.03, Våld/hot mot tjänsteman, Stockholm",
-    "summary": "Två poliser skadas när en utåtagerande man ska kontrolleras.",
-    "url": "/aktuellt/handelser/2024/mars/19/19-mars-00.03-valdhot-mot-tjansteman-stockholm/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 512778,
-    "datetime": "2024-03-18 17:22:55 +01:00",
-    "name": "18 mars 16.36, Brand, Salem",
-    "summary": "Det brinner i en lägenhet i ett flerfamiljshus och polisen är på plats för att biträda räddningstjänsten i arb",
-    "url": "/aktuellt/handelser/2024/mars/18/18-mars-16.36-brand-salem/",
-    "type": "Brand",
-    "location": {
-      "name": "Salem",
-      "gps": "59.20768,17.774222"
     }
   }
 ]
