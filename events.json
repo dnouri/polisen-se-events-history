@@ -1,5 +1,77 @@
 [
   {
+    "id": 513998,
+    "datetime": "2024-03-27 18:43:05 +01:00",
+    "name": "27 mars 18.02, Stöld/inbrott, Helsingborg",
+    "summary": "Inbrott hos företag",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.02-stoldinbrott-helsingborg/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 513997,
+    "datetime": "2024-03-27 18:40:31 +01:00",
+    "name": "27 mars 18.00, Rån, Malmö",
+    "summary": "Personrån, Sorgenfri",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.00-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 513996,
+    "datetime": "2024-03-27 18:36:51 +01:00",
+    "name": "27 mars 18.11, Trafikolycka, Malmö",
+    "summary": "Bil som kört in i garage",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.11-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 513995,
+    "datetime": "2024-03-27 18:33:10 +01:00",
+    "name": "27 mars 12.06, Stöld, Stockholm",
+    "summary": "En man misstänks för flera brott efter att ha krockat med en stulen bil på Södermalm.",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-12.06-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 513994,
+    "datetime": "2024-03-27 18:30:48 +01:00",
+    "name": "27 mars 18.20, Övrigt, Katrineholm",
+    "summary": "Polisinsats i Katrineholm.",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.20-ovrigt-katrineholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
+    }
+  },
+  {
+    "id": 513993,
+    "datetime": "2024-03-27 18:21:11 +01:00",
+    "name": "27 mars 16.26, Inbrott, Skellefteå",
+    "summary": "Polispatrull beordras till Anderstorp med anledning av ett misstänkt inbrott.",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-16.26-inbrott-skelleftea/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 513990,
     "datetime": "2024-03-27 18:14:04 +01:00",
     "name": "27 mars 17.17, Trafikkontroll, Älvsbyn",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 513047,
-    "datetime": "2024-03-20 21:27:09 +01:00",
-    "name": "20 mars 21.13, Trafikolycka, vilt, Västerbottens län",
-    "summary": "Ett antal viltolyckor och renpåkörningar har rapporterats in till polisens ledningscentral under kvällen",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-21.13-trafikolycka-vilt-vasterbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 513046,
-    "datetime": "2024-03-20 21:23:40 +01:00",
-    "name": "20 mars 19.59, Misshandel, Karlstad",
-    "summary": "Polisen har gripit en man som misstänks för att ha misshandlat en närstående kvinna.",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-19.59-misshandel-karlstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 513029,
-    "datetime": "2024-03-20 17:27:07 +01:00",
-    "name": "20 mars 16.11, Motorfordon, anträffat stulet, Falun",
-    "summary": "Polisen har gripit två män efter att ha stoppat en anmält stulen personbil",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-16.11-motorfordon-antraffat-stulet-falun/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 513045,
-    "datetime": "2024-03-20 20:54:49 +01:00",
-    "name": "20 mars 19.28, Trafikkontroll, Härnösand",
-    "summary": "Skeppsbron, centrum. Polisen kontrollerar nykterhet i trafiken",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-19.28-trafikkontroll-harnosand/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 513044,
-    "datetime": "2024-03-20 20:53:02 +01:00",
-    "name": "20 mars 20.29, Trafikolycka, Malmö",
-    "summary": "En motorcyklist försöker köra från polisen på Inre ringvägen.",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-20.29-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 513043,
-    "datetime": "2024-03-20 20:36:38 +01:00",
-    "name": "20 mars 17.09, Narkotikabrott, Malung-Sälen",
-    "summary": "Narkotika vid krog i Sälenområdet.",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-17.09-narkotikabrott-malung-salen/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
     }
   }
 ]
