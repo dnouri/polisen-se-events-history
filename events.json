@@ -1,5 +1,53 @@
 [
   {
+    "id": 514000,
+    "datetime": "2024-03-27 19:06:52 +01:00",
+    "name": "27 mars 18.40, Trafikolycka, vilt, Kramfors",
+    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 332 i närheten av Sandöbron.",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.40-trafikolycka-vilt-kramfors/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 513999,
+    "datetime": "2024-03-27 19:06:21 +01:00",
+    "name": "27 mars 18.35, Trafikolycka, Malmö",
+    "summary": "Personbil och motorcykel i kollision",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.35-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 513997,
+    "datetime": "2024-03-27 18:40:31 +01:00",
+    "name": "27 mars 18.11, Rån, Malmö",
+    "summary": "Personrån, Sorgenfri",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.11-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 513983,
+    "datetime": "2024-03-27 17:01:03 +01:00",
+    "name": "27 mars 16.47, Trafikolycka, singel, Askersund",
+    "summary": "Personbil har körts in i mitträcket på Rv50 vid Skyllberg i norrgående riktning.",
+    "url": "/aktuellt/handelser/2024/mars/27/27-mars-16.47-trafikolycka-singel-askersund/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
     "id": 513998,
     "datetime": "2024-03-27 18:43:05 +01:00",
     "name": "27 mars 18.02, Stöld/inbrott, Helsingborg",
@@ -9,18 +57,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 513997,
-    "datetime": "2024-03-27 18:40:31 +01:00",
-    "name": "27 mars 18.00, Rån, Malmö",
-    "summary": "Personrån, Sorgenfri",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.00-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -129,18 +165,6 @@
     "location": {
       "name": "Sunne",
       "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 513983,
-    "datetime": "2024-03-27 17:01:03 +01:00",
-    "name": "27 mars 16.47, Trafikolycka, singel, Askersund",
-    "summary": "Personbil har körts in i mitträcket på Rv50 vid Skyllberg i norrgående riktning.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-16.47-trafikolycka-singel-askersund/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 513048,
-    "datetime": "2024-03-20 21:35:45 +01:00",
-    "name": "20 mars 20.48, Skadegörelse, Uppsala",
-    "summary": "Bil brinner på parkering i Gottsunda.",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-20.48-skadegorelse-uppsala/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 513032,
-    "datetime": "2024-03-20 18:25:17 +01:00",
-    "name": "20 mars 06.58, Brand, Stockholm",
-    "summary": "Man och kvinna avlidna efter brand i lägenhet.",
-    "url": "/aktuellt/handelser/2024/mars/20/20-mars-06.58-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
