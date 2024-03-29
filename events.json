@@ -1,5 +1,41 @@
 [
   {
+    "id": 514231,
+    "datetime": "2024-03-29 14:10:24 +01:00",
+    "name": "29 mars 13.58, Trafikolycka, vilt, Oskarshamn",
+    "summary": "En personbil kolliderar med ett rådjur på E22 i höjd med Oskarshamn.",
+    "url": "/aktuellt/handelser/2024/mars/29/29-mars-13.58-trafikolycka-vilt-oskarshamn/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 514230,
+    "datetime": "2024-03-29 13:57:26 +01:00",
+    "name": "29 mars 13.57, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från två trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2024/mars/29/29-mars-13.57-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 514225,
+    "datetime": "2024-03-29 13:48:43 +01:00",
+    "name": "29 mars 13.48, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2024/mars/29/29-mars-13.48-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 514227,
     "datetime": "2024-03-29 13:33:28 +01:00",
     "name": "29 mars 07.53, Stöld, Tjörn",
@@ -468,18 +504,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -489,6 +513,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 513261,
-    "datetime": "2024-03-22 11:49:05 +01:00",
-    "name": "22 mars 11.40, Trafikolycka, Värnamo",
-    "summary": "Trafikolycka på riksväg 27.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-11.40-trafikolycka-varnamo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 513255,
-    "datetime": "2024-03-22 11:10:13 +01:00",
-    "name": "22 mars 10.54, Trafikkontroll, Pajala",
-    "summary": "Länsväg 392, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-10.54-trafikkontroll-pajala/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Pajala",
-      "gps": "67.212782,23.367392"
-    }
-  },
-  {
-    "id": 513241,
-    "datetime": "2024-03-22 9:29:52 +01:00",
-    "name": "22 mars 09.00, Trafikolycka, Umeå",
-    "summary": "Carlslidrondellen, två bilister har kolliderat i rondell",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-09.00-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
