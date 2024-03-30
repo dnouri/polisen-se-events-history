@@ -1,5 +1,101 @@
 [
   {
+    "id": 514243,
+    "datetime": "2024-03-30 3:15:23 +01:00",
+    "name": "30 mars 03.00, Detonation, Värnamo",
+    "summary": "Detonation i Värnamo",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-03.00-detonation-varnamo/",
+    "type": "Detonation",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 514252,
+    "datetime": "2024-03-30 8:04:12 +01:00",
+    "name": "30 mars 08.02, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-08.02-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 514259,
+    "datetime": "2024-03-30 8:03:31 +01:00",
+    "name": "30 mars 08.02, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-08.02-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 514254,
+    "datetime": "2024-03-30 8:03:26 +01:00",
+    "name": "30 mars 03.53, Brand, Nynäshamn",
+    "summary": "Ett flertal bilbränder har skett i Nynäshamn under natten.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-03.53-brand-nynashamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Nynäshamn",
+      "gps": "58.902926,17.946529"
+    }
+  },
+  {
+    "id": 514261,
+    "datetime": "2024-03-30 8:03:07 +01:00",
+    "name": "30 mars 08.02, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-08.02-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 514236,
+    "datetime": "2024-03-30 7:50:58 +01:00",
+    "name": "30 mars 07.00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-07.00-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 514235,
+    "datetime": "2024-03-30 7:50:49 +01:00",
+    "name": "30 mars 07.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-07.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 514260,
+    "datetime": "2024-03-30 7:45:50 +01:00",
+    "name": "30 mars 05.34, Rattfylleri, Karlskrona",
+    "summary": "Man i 40-årsåldern misstäks för rattfylleri efter kontroll.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-05.34-rattfylleri-karlskrona/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
     "id": 514256,
     "datetime": "2024-03-30 7:40:11 +01:00",
     "name": "30 mars 07.40, Sammanfattning natt, Jämtlands län",
@@ -141,18 +237,6 @@
     "location": {
       "name": "Österåker",
       "gps": "59.500058,18.352485"
-    }
-  },
-  {
-    "id": 514243,
-    "datetime": "2024-03-30 3:15:23 +01:00",
-    "name": "30 mars 03.00, Detonation, Värnamo",
-    "summary": "Detonation i Värnamo",
-    "url": "/aktuellt/handelser/2024/mars/30/30-mars-03.00-detonation-varnamo/",
-    "type": "Detonation",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
     }
   },
   {
@@ -780,18 +864,6 @@
     }
   },
   {
-    "id": 514167,
-    "datetime": "2024-03-28 17:20:23 +01:00",
-    "name": "28 mars 17.09, Trafikolycka, Borlänge",
-    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
     "id": 514171,
     "datetime": "2024-03-28 18:57:09 +01:00",
     "name": "28 mars 18.07, Fylleri/LOB, Åre",
@@ -801,6 +873,18 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 514167,
+    "datetime": "2024-03-28 17:20:23 +01:00",
+    "name": "28 mars 17.09, Trafikolycka, Borlänge",
+    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 513372,
-    "datetime": "2024-03-22 18:52:28 +01:00",
-    "name": "22 mars 18.10, Stöld/inbrott, Västerås",
-    "summary": "Inbrott i flera förråd.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-18.10-stoldinbrott-vasteras/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 513371,
-    "datetime": "2024-03-22 18:52:19 +01:00",
-    "name": "22 mars 17.11, Misshandel, Göteborg",
-    "summary": "En man misstänks för misshandel, Gamlestaden",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-17.11-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 513346,
-    "datetime": "2024-03-22 17:14:22 +01:00",
-    "name": "22 mars 17.06, Trafikolycka, Malung-Sälen",
-    "summary": "En skoterolycka har inträffat i Hemfjällstangen",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-17.06-trafikolycka-malung-salen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
-    }
-  },
-  {
-    "id": 513344,
-    "datetime": "2024-03-22 17:09:05 +01:00",
-    "name": "22 mars 16.53, Trafikolycka, Östersund",
-    "summary": "Larm om trafikolycka på Rödvägen/Lövstavägen, Mjälle.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-16.53-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 513369,
-    "datetime": "2024-03-22 18:37:33 +01:00",
-    "name": "22 mars 17.34, Stöld, Härnösand",
-    "summary": "Misstänkt ringa stöld i matbutik, Kronholmen.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-17.34-stold-harnosand/",
-    "type": "Stöld",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 513345,
-    "datetime": "2024-03-22 18:34:33 +01:00",
-    "name": "22 mars 16.43, Bråk, Umeå",
-    "summary": "Polispatrull berodras till Vasaplan med anledning av ett bråk med två män inblandade.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-16.43-brak-umea/",
-    "type": "Bråk",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 513312,
-    "datetime": "2024-03-22 15:57:26 +01:00",
-    "name": "22 mars 15.49, Trafikolycka, Kristinehamn",
-    "summary": "En trafikolycka mellan två fordon har inträffat på E18 vid Ölme",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-15.49-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   }
 ]
