@@ -1,5 +1,41 @@
 [
   {
+    "id": 514280,
+    "datetime": "2024-03-30 13:14:31 +01:00",
+    "name": "30 mars 12.40, Trafikolycka, Göteborg",
+    "summary": "I närheten av Bräckemotet har en bilist kört in i ett träd.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-12.40-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 514285,
+    "datetime": "2024-03-30 14:01:24 +01:00",
+    "name": "30 mars 11.45, Olaga intrång, Västerås",
+    "summary": "Berusad man klättrade upp på byggnadsställning, kastade ner förmål från taket, hamnade i handgemäng och omhänd",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-11.45-olaga-intrang-vasteras/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 514282,
+    "datetime": "2024-03-30 13:50:23 +01:00",
+    "name": "30 mars 09.51, Mord/dråp, Mariestad",
+    "summary": "I en bostad på en mindre ort i Mariestads kommun har en man i 70-årsåldern antäffats död.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-09.51-morddrap-mariestad/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Mariestad",
+      "gps": "58.710112,13.821333"
+    }
+  },
+  {
     "id": 514283,
     "datetime": "2024-03-30 13:44:47 +01:00",
     "name": "30 mars 11.12, Rattfylleri, Östersund",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Storuman",
       "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 514280,
-    "datetime": "2024-03-30 13:14:31 +01:00",
-    "name": "30 mars 12.40, Trafikolycka, Göteborg",
-    "summary": "I närheten av Bräckemotet har en bilist kört in i ett träd.",
-    "url": "/aktuellt/handelser/2024/mars/30/30-mars-12.40-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -1068,18 +1092,6 @@
     }
   },
   {
-    "id": 514167,
-    "datetime": "2024-03-28 17:20:23 +01:00",
-    "name": "28 mars 17.09, Trafikolycka, Borlänge",
-    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
     "id": 514171,
     "datetime": "2024-03-28 18:57:09 +01:00",
     "name": "28 mars 18.07, Fylleri/LOB, Åre",
@@ -1089,6 +1101,18 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 514167,
+    "datetime": "2024-03-28 17:20:23 +01:00",
+    "name": "28 mars 17.09, Trafikolycka, Borlänge",
+    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 513396,
-    "datetime": "2024-03-22 21:15:39 +01:00",
-    "name": "22 mars 20.38, Trafikolycka, vilt, Östersund",
-    "summary": "Polisen får in en anmälan om en viltolycka på E45, Nyvik.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-20.38-trafikolycka-vilt-ostersund/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 513390,
-    "datetime": "2024-03-22 20:34:12 +01:00",
-    "name": "22 mars 18.19, Försvunnen person, Landskrona",
-    "summary": "Försvunnen man, Landskrona.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-18.19-forsvunnen-person-landskrona/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
     }
   }
 ]
