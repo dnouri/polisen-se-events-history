@@ -1,5 +1,41 @@
 [
   {
+    "id": 514290,
+    "datetime": "2024-03-30 15:59:54 +01:00",
+    "name": "30 mars 15.32, Trafikolycka, Stockholm",
+    "summary": "Flera personbilar har kolliderat vid Gullmarsplan.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-15.32-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 514274,
+    "datetime": "2024-03-30 15:47:20 +01:00",
+    "name": "30 mars 15.45, Övrigt, Hallands län",
+    "summary": "Efter klockan 16.00 finns ingen presstalesperson i tjänst. Vakthavande befäl svarar på frågor från media i mån",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-15.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 514272,
+    "datetime": "2024-03-30 15:47:12 +01:00",
+    "name": "30 mars 15.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 16.00 finns ingen presstalesperson i tjänst. Vakthavande befäl svarar på frågor från media i mån",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-15.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 514289,
     "datetime": "2024-03-30 15:38:00 +01:00",
     "name": "30 mars 11.28, Rattfylleri, Stockholm",
@@ -1128,18 +1164,6 @@
     }
   },
   {
-    "id": 514167,
-    "datetime": "2024-03-28 17:20:23 +01:00",
-    "name": "28 mars 17.09, Trafikolycka, Borlänge",
-    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
     "id": 514171,
     "datetime": "2024-03-28 18:57:09 +01:00",
     "name": "28 mars 18.07, Fylleri/LOB, Åre",
@@ -1149,6 +1173,18 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 514167,
+    "datetime": "2024-03-28 17:20:23 +01:00",
+    "name": "28 mars 17.09, Trafikolycka, Borlänge",
+    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västmanlands län",
       "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 513398,
-    "datetime": "2024-03-22 22:21:08 +01:00",
-    "name": "22 mars 21.48, Farligt föremål, misstänkt, Göteborg",
-    "summary": "Polisinsats i Billdal Norra",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-21.48-farligt-foremal-misstankt-goteborg/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 513388,
-    "datetime": "2024-03-22 20:24:55 +01:00",
-    "name": "22 mars 18.58, Fjällräddning, Malung-Sälen",
-    "summary": "En skidåkare har skadat sig under offpiståkning",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-18.58-fjallraddning-malung-salen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
-    }
-  },
-  {
-    "id": 513397,
-    "datetime": "2024-03-22 22:05:28 +01:00",
-    "name": "22 mars 21.48, Trafikolycka, Ängelholm",
-    "summary": "Lastbil och personbil i olycka, Ängelholm.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-21.48-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   }
 ]
