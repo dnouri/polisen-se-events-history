@@ -1,5 +1,29 @@
 [
   {
+    "id": 514299,
+    "datetime": "2024-03-30 23:49:16 +01:00",
+    "name": "30 mars 23.28, Trafikolycka, Eslöv",
+    "summary": "Rv17/lv1271. Kollision mellan två personbilar.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-23.28-trafikolycka-eslov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 514298,
+    "datetime": "2024-03-30 23:45:29 +01:00",
+    "name": "30 mars 22.00, Rattfylleri, Kävlinge",
+    "summary": "Lv925, Stävie. En personbil framförs vingligt.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-22.00-rattfylleri-kavlinge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
     "id": 514297,
     "datetime": "2024-03-30 21:58:45 +01:00",
     "name": "30 mars 20.31, Djur, Malmö",
@@ -1236,18 +1260,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -1257,6 +1269,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 513413,
-    "datetime": "2024-03-23 7:25:12 +01:00",
-    "name": "23 mars 07.25, Sammanfattning natt, Örebro län",
-    "summary": "Natt till lördag polisområde Örebro",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-07.25-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 513419,
-    "datetime": "2024-03-23 7:23:28 +01:00",
-    "name": "23 mars 07.09, Fylleri/LOB, Stockholms län",
-    "summary": "Tio personer har under natten - vid olika tillfällen - tagits om hand för tillnyktring.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-07.09-fyllerilob-stockholms-lan/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
