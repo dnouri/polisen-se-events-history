@@ -1,5 +1,29 @@
 [
   {
+    "id": 514287,
+    "datetime": "2024-03-30 14:23:50 +01:00",
+    "name": "30 mars 14.07, Trafikolycka, Östersund",
+    "summary": "Singelolycka på E45/Kougstavägen i trakten av Ollsta.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-14.07-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 514266,
+    "datetime": "2024-03-30 10:50:11 +01:00",
+    "name": "30 mars 10.42, Trafikolycka, Markaryd",
+    "summary": "En personbil kör in i mitträcket på E4.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-10.42-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
     "id": 514280,
     "datetime": "2024-03-30 13:14:31 +01:00",
     "name": "30 mars 12.40, Trafikolycka, Göteborg",
@@ -27,7 +51,7 @@
     "id": 514282,
     "datetime": "2024-03-30 13:50:23 +01:00",
     "name": "30 mars 09.51, Mord/dråp, Mariestad",
-    "summary": "I en bostad på en mindre ort i Mariestads kommun har en man i 70-årsåldern antäffats död.",
+    "summary": "I en bostad på en mindre ort i Mariestads kommun har en man i 70-årsåldern anträffats död.",
     "url": "/aktuellt/handelser/2024/mars/30/30-mars-09.51-morddrap-mariestad/",
     "type": "Mord/dråp",
     "location": {
@@ -189,18 +213,6 @@
     "location": {
       "name": "Botkyrka",
       "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 514266,
-    "datetime": "2024-03-30 10:50:11 +01:00",
-    "name": "30 mars 10.42, Trafikolycka, Markaryd",
-    "summary": "En personbil kör in i mitträcket på E4.",
-    "url": "/aktuellt/handelser/2024/mars/30/30-mars-10.42-trafikolycka-markaryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
     }
   },
   {
@@ -1092,18 +1104,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -1113,6 +1113,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 513395,
-    "datetime": "2024-03-22 21:56:46 +01:00",
-    "name": "22 mars 21.56, Övrigt, Västra Götalands län",
-    "summary": "Presstelefonen stängs för natten.",
-    "url": "/aktuellt/handelser/2024/mars/22/22-mars-21.56-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
