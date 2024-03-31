@@ -1,5 +1,53 @@
 [
   {
+    "id": 514325,
+    "datetime": "2024-03-31 12:23:40 +02:00",
+    "name": "31 mars 11.52, Trafikhinder, Kristianstad",
+    "summary": "En bil kör in i en tågbom på Nosabyvägen/Balsbyvägen.",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-11.52-trafikhinder-kristianstad/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 514324,
+    "datetime": "2024-03-31 12:21:06 +02:00",
+    "name": "31 mars 12.11, Trafikolycka, Skellefteå",
+    "summary": "Skellefteå, trafikolycka på Anderstorp.",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-12.11-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 514323,
+    "datetime": "2024-03-31 12:15:13 +02:00",
+    "name": "31 mars 11.46, Rattfylleri, Norrtälje",
+    "summary": "En bilförare som stoppas på Rådmansö misstänks för rattfylleri och tas med för provtagning.",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-11.46-rattfylleri-norrtalje/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 514322,
+    "datetime": "2024-03-31 11:45:01 +02:00",
+    "name": "31 mars 11.36, Trafikolycka, Kävlinge",
+    "summary": "En trafikolycka mellan en motorcyklist och en cyklist inträffar på Stävie bygata väster om Stävie.",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-11.36-trafikolycka-kavlinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
     "id": 514315,
     "datetime": "2024-03-31 8:28:43 +02:00",
     "name": "31 mars 08.28, Sammanfattning natt, Jämtlands län",
@@ -1500,18 +1548,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -1521,6 +1557,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Härjedalen",
       "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 513441,
-    "datetime": "2024-03-23 13:08:02 +01:00",
-    "name": "23 mars 11.46, Stöld, Skellefteå",
-    "summary": "Ringa stöld i klädbutik.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-11.46-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 513440,
-    "datetime": "2024-03-23 12:49:26 +01:00",
-    "name": "23 mars 09.32, Trafikkontroll, Malung-Sälen",
-    "summary": "Under fredagen genomfördes en omfattande kontroll av snöskotertrafik i Sälenfjällen.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-09.32-trafikkontroll-malung-salen/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
-    }
-  },
-  {
-    "id": 513439,
-    "datetime": "2024-03-23 12:09:49 +01:00",
-    "name": "23 mars 10.34, Rattfylleri, Boden",
-    "summary": "Misstänkt rattfylleri i samband med trafikkontroll.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-10.34-rattfylleri-boden/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 513438,
-    "datetime": "2024-03-23 11:27:26 +01:00",
-    "name": "23 mars 09.29, Räddningsinsats, Kramfors",
-    "summary": "Skoter genom isen i Nyland, Kramfors.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-09.29-raddningsinsats-kramfors/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   }
 ]
