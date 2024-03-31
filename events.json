@@ -1,5 +1,41 @@
 [
   {
+    "id": 514309,
+    "datetime": "2024-03-31 7:34:34 +02:00",
+    "name": "31 mars 06.09, Trafikolycka, personskada, Enköping",
+    "summary": "Kollision mellan personbil och a-traktor.",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-06.09-trafikolycka-personskada-enkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 514308,
+    "datetime": "2024-03-31 7:29:32 +02:00",
+    "name": "31 mars 06.28, Skadegörelse, Kävlinge",
+    "summary": "Det brinner i ett sophus på Jakobsgatan och polis skickas till platsen.",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-06.28-skadegorelse-kavlinge/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 514305,
+    "datetime": "2024-03-31 7:23:15 +02:00",
+    "name": "30 mars 23.51, Misshandel, grov, Osby",
+    "summary": "Polis larmas till Osby med anledning av ett pågående bråk i en bostad.",
+    "url": "/aktuellt/handelser/2024/mars/30/30-mars-23.51-misshandel-grov-osby/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Osby",
+      "gps": "56.381536,13.992941"
+    }
+  },
+  {
     "id": 514304,
     "datetime": "2024-03-31 7:14:32 +02:00",
     "name": "31 mars 04.19, Misshandel, Hässleholm",
@@ -1308,18 +1344,6 @@
     }
   },
   {
-    "id": 514167,
-    "datetime": "2024-03-28 17:20:23 +01:00",
-    "name": "28 mars 17.09, Trafikolycka, Borlänge",
-    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
     "id": 514171,
     "datetime": "2024-03-28 18:57:09 +01:00",
     "name": "28 mars 18.07, Fylleri/LOB, Åre",
@@ -1329,6 +1353,18 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 514167,
+    "datetime": "2024-03-28 17:20:23 +01:00",
+    "name": "28 mars 17.09, Trafikolycka, Borlänge",
+    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 513425,
-    "datetime": "2024-03-23 8:06:53 +01:00",
-    "name": "23 mars 08.06, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.06-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 513424,
-    "datetime": "2024-03-23 8:02:43 +01:00",
-    "name": "23 mars 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 513423,
-    "datetime": "2024-03-23 8:01:16 +01:00",
-    "name": "23 mars 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
