@@ -1,17 +1,5 @@
 [
   {
-    "id": 514325,
-    "datetime": "2024-03-31 12:23:40 +02:00",
-    "name": "31 mars 11.52, Trafikhinder, Kristianstad",
-    "summary": "En bil kör in i en tågbom på Nosabyvägen/Balsbyvägen.",
-    "url": "/aktuellt/handelser/2024/mars/31/31-mars-11.52-trafikhinder-kristianstad/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
     "id": 514324,
     "datetime": "2024-03-31 12:21:06 +02:00",
     "name": "31 mars 12.11, Trafikolycka, Skellefteå",
@@ -21,6 +9,42 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 514327,
+    "datetime": "2024-03-31 12:36:24 +02:00",
+    "name": "31 mars 11.00, Våldtäkt, Åmål",
+    "summary": "En vuxen kvinna ringer till polisen och uppgeratt hon under natten blivit våldtagen av en okänd man i sin egen",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-11.00-valdtakt-amal/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Åmål",
+      "gps": "59.051117,12.697732"
+    }
+  },
+  {
+    "id": 514326,
+    "datetime": "2024-03-31 12:32:56 +02:00",
+    "name": "31 mars 11.35, Trafikolycka, vilt, Nynäshamn",
+    "summary": "En bilförare har kört på en örn på länsväg 73 i södergående riktning. Inga personskador men örnen är skadad.",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-11.35-trafikolycka-vilt-nynashamn/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Nynäshamn",
+      "gps": "58.902926,17.946529"
+    }
+  },
+  {
+    "id": 514325,
+    "datetime": "2024-03-31 12:23:40 +02:00",
+    "name": "31 mars 11.52, Trafikhinder, Kristianstad",
+    "summary": "En bil kör in i en tågbom på Nosabyvägen/Balsbyvägen.",
+    "url": "/aktuellt/handelser/2024/mars/31/31-mars-11.52-trafikhinder-kristianstad/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -1548,18 +1572,6 @@
     }
   },
   {
-    "id": 514167,
-    "datetime": "2024-03-28 17:20:23 +01:00",
-    "name": "28 mars 17.09, Trafikolycka, Borlänge",
-    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
     "id": 514171,
     "datetime": "2024-03-28 18:57:09 +01:00",
     "name": "28 mars 18.07, Fylleri/LOB, Åre",
@@ -1569,6 +1581,18 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 514167,
+    "datetime": "2024-03-28 17:20:23 +01:00",
+    "name": "28 mars 17.09, Trafikolycka, Borlänge",
+    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 513445,
-    "datetime": "2024-03-23 13:50:17 +01:00",
-    "name": "23 mars 13.39, Trafikolycka, Stockholm",
-    "summary": "Fyra bilar har krockat i norrgående riktning på E4 i höjd med Lilla Essingen.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-13.39-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 513442,
-    "datetime": "2024-03-23 13:12:51 +01:00",
-    "name": "23 mars 10.41, Arbetsplatsolycka, Härjedalen",
-    "summary": "Man skadad i arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-10.41-arbetsplatsolycka-harjedalen/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
     }
   }
 ]
