@@ -1,5 +1,65 @@
 [
   {
+    "id": 514358,
+    "datetime": "2024-04-01 7:40:45 +02:00",
+    "name": "01 april 01.23, Brand, Norrtälje",
+    "summary": "Polis har biträtt räddningstjänst med brand i Norrtälje.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-01.23-brand-norrtalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 514367,
+    "datetime": "2024-04-01 9:35:00 +02:00",
+    "name": "01 april 09.13, Trafikolycka, Skellefteå",
+    "summary": "Larm om trafikolycka på väg 95, Varuträsk.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-09.13-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 514366,
+    "datetime": "2024-04-01 9:28:51 +02:00",
+    "name": "01 april 07.00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-07.00-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 514362,
+    "datetime": "2024-04-01 8:08:45 +02:00",
+    "name": "01 april 07.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-07.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 514363,
+    "datetime": "2024-04-01 9:24:09 +02:00",
+    "name": "01 april 09.24, Trafikkontroll, Jämtlands län",
+    "summary": "Trafikgruppen i Jämtland har under helgen utfört kontroller av skotertrafik på ett flertal platser.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-09.24-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 514365,
     "datetime": "2024-04-01 8:57:34 +02:00",
     "name": "01 april 04.28, Rattfylleri, Sigtuna",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 514362,
-    "datetime": "2024-04-01 8:08:45 +02:00",
-    "name": "01 april 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -129,18 +177,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 514358,
-    "datetime": "2024-04-01 7:40:45 +02:00",
-    "name": "01 april 01.23, Brand, Norrtälje",
-    "summary": "Polis har biträtt räddningstjänst med brand i Norrtälje.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-01.23-brand-norrtalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 513486,
-    "datetime": "2024-03-24 7:20:36 +01:00",
-    "name": "24 mars 03.08, Stöld/inbrott, Arboga",
-    "summary": "Krossad ruta på restauranglokal i Arboga.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-03.08-stoldinbrott-arboga/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Arboga",
-      "gps": "59.393688,15.838175"
-    }
-  },
-  {
-    "id": 513471,
-    "datetime": "2024-03-24 7:18:23 +01:00",
-    "name": "24 mars 07.18, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till söndag polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-07.18-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 513484,
-    "datetime": "2024-03-24 7:16:08 +01:00",
-    "name": "24 mars 01.29, Våldtäkt, Stockholm",
-    "summary": "En man grips på en restaurang på Södermalm där han misstänks ha utsatt en kvinna för en våldtäkt.",
-    "url": "/aktuellt/handelser/2024/mars/23/24-mars-01.29-valdtakt-stockholm/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
