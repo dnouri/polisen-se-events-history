@@ -1,5 +1,29 @@
 [
   {
+    "id": 514373,
+    "datetime": "2024-04-01 11:10:01 +02:00",
+    "name": "01 april 10.09, Trafikkontroll, Pajala",
+    "summary": "Resultat efter trafikkontroll på länsväg 403/länsväg 880, Pajala.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-10.09-trafikkontroll-pajala/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 514371,
+    "datetime": "2024-04-01 10:45:09 +02:00",
+    "name": "01 april 08.03, Narkotikabrott, Östersund",
+    "summary": "Misstänkt ringa narkotikabrott i centrala Östersund.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-08.03-narkotikabrott-ostersund/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 514367,
     "datetime": "2024-04-01 9:35:00 +02:00",
     "name": "01 april 09.13, Trafikolycka, Skellefteå",
@@ -2028,18 +2052,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -2049,6 +2061,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 513476,
-    "datetime": "2024-03-24 7:59:41 +01:00",
-    "name": "24 mars 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 513475,
-    "datetime": "2024-03-24 7:59:12 +01:00",
-    "name": "24 mars 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
