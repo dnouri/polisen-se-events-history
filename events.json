@@ -1,5 +1,41 @@
 [
   {
+    "id": 514367,
+    "datetime": "2024-04-01 9:35:00 +02:00",
+    "name": "01 april 09.13, Trafikolycka, Skellefteå",
+    "summary": "Larm om trafikolycka på väg 95, Varuträsk.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-09.13-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 514377,
+    "datetime": "2024-04-01 11:30:13 +02:00",
+    "name": "01 april 10.15, Stöld, Stockholm",
+    "summary": "Man avlägsnad efter stöld i mataffär i Kista.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-10.15-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 514376,
+    "datetime": "2024-04-01 11:26:34 +02:00",
+    "name": "01 april 09.25, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter en trafikkontroll på E14, Töva.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-09.25-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 514373,
     "datetime": "2024-04-01 11:10:01 +02:00",
     "name": "01 april 10.09, Trafikkontroll, Pajala",
@@ -21,18 +57,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 514367,
-    "datetime": "2024-04-01 9:35:00 +02:00",
-    "name": "01 april 09.13, Trafikolycka, Skellefteå",
-    "summary": "Larm om trafikolycka på väg 95, Varuträsk.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-09.13-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 513490,
-    "datetime": "2024-03-24 8:08:58 +01:00",
-    "name": "24 mars 08.05, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-08.05-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 513477,
-    "datetime": "2024-03-24 8:03:44 +01:00",
-    "name": "24 mars 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
