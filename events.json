@@ -1,17 +1,5 @@
 [
   {
-    "id": 514358,
-    "datetime": "2024-04-01 7:40:45 +02:00",
-    "name": "01 april 01.23, Brand, Norrtälje",
-    "summary": "Polis har biträtt räddningstjänst med brand i Norrtälje.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-01.23-brand-norrtalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
     "id": 514367,
     "datetime": "2024-04-01 9:35:00 +02:00",
     "name": "01 april 09.13, Trafikolycka, Skellefteå",
@@ -21,6 +9,54 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 514370,
+    "datetime": "2024-04-01 10:03:44 +02:00",
+    "name": "01 april 07.37, Trafikkontroll, Örnsköldsvik",
+    "summary": "Resultat efter trafikkontroll på Björnavägen, Gullänget.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-07.37-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 514369,
+    "datetime": "2024-04-01 9:55:59 +02:00",
+    "name": "01 april 02.19, Misshandel, Östra göinge",
+    "summary": "Man i 25-årsåldern utsätts för misshandel i Broby.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-02.19-misshandel-ostra-goinge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Östra göinge",
+      "gps": "56.237877,14.216166"
+    }
+  },
+  {
+    "id": 514368,
+    "datetime": "2024-04-01 9:53:47 +02:00",
+    "name": "01 april 09.53, Brand, Norrköping",
+    "summary": "Brand i en mindre kiosk på Saltängsgatan.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-09.53-brand-norrkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 514358,
+    "datetime": "2024-04-01 7:40:45 +02:00",
+    "name": "01 april 01.23, Brand, Norrtälje",
+    "summary": "Polis har biträtt räddningstjänst med brand i Norrtälje.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-01.23-brand-norrtalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 513485,
-    "datetime": "2024-03-24 7:44:15 +01:00",
-    "name": "24 mars 07.18, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till söndag polisområde Värmland.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-07.18-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 513488,
-    "datetime": "2024-03-24 7:36:18 +01:00",
-    "name": "24 mars 01.53, Misshandel, Stockholm",
-    "summary": "En kvinna misstänks ha utsatt en man för en misshandel på en fest på Östermalm.",
-    "url": "/aktuellt/handelser/2024/mars/23/24-mars-01.53-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 513487,
-    "datetime": "2024-03-24 7:20:44 +01:00",
-    "name": "24 mars 04.29, Stöld, försök, Malmö",
-    "summary": "Stöld som avbryts",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-04.29-stold-forsok-malmo/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
