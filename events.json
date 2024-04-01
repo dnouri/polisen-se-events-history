@@ -1,5 +1,65 @@
 [
   {
+    "id": 514393,
+    "datetime": "2024-04-01 14:27:05 +02:00",
+    "name": "01 april 13.54, Trafikolycka, Skellefteå",
+    "summary": "Larm om trafikolycka på länsväg 814, Skråmträsk.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-13.54-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 514385,
+    "datetime": "2024-04-01 14:18:08 +02:00",
+    "name": "01 april 13.28, Trafikolycka, Krokom",
+    "summary": "Larm om trafikolycka på väg 339, nordost om Lundsjön.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-13.28-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 514390,
+    "datetime": "2024-04-01 13:54:11 +02:00",
+    "name": "01 april 13.41, Trafikolycka, Ljungby",
+    "summary": "Två personbilar kolliderar på Kungsgatan/Villagatan i Ljungby.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-13.41-trafikolycka-ljungby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 514391,
+    "datetime": "2024-04-01 14:01:49 +02:00",
+    "name": "01 april 13.37, Brand, Umeå",
+    "summary": "Larm om brand i en tvättstuga i källaren i ett flerfamiljshus på Carlshem.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-13.37-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 514387,
+    "datetime": "2024-04-01 13:47:53 +02:00",
+    "name": "01 april 10.54, Vapenlagen, Malmö",
+    "summary": "Misstänkta skotthål upptäckts i ett fönster till ett flerfamiljshus i södra Sofielund.",
+    "url": "/aktuellt/handelser/2024/april/1/01-april-10.54-vapenlagen-malmo/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 514383,
     "datetime": "2024-04-01 13:34:55 +02:00",
     "name": "01 april 10.33, Inbrott, Östersund",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 513501,
-    "datetime": "2024-03-24 10:42:32 +01:00",
-    "name": "24 mars 10.01, Rattfylleri, Lund",
-    "summary": "Södra Sandby",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-10.01-rattfylleri-lund/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 513500,
-    "datetime": "2024-03-24 10:01:35 +01:00",
-    "name": "24 mars 06.27, Skadegörelse, Göteborg",
-    "summary": "Polisen får samtal från allmänhet som ser en man och en kvinna riva upp en Postnordpåse utanför ett flerfamilj",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-06.27-skadegorelse-goteborg/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 513498,
-    "datetime": "2024-03-24 9:23:43 +01:00",
-    "name": "24 mars 09.23, Narkotikabrott, Sundsvall",
-    "summary": "Två anhållna misstänkta för narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-09.23-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 513493,
-    "datetime": "2024-03-24 9:17:26 +01:00",
-    "name": "23 mars 04.57, Mord/dråp, försök, Stockholm",
-    "summary": "Ett larm kommer om ett sjukdomsfall i en bostad i västra Stockholm. Ärendet leder till att en man grips som mi",
-    "url": "/aktuellt/handelser/2024/mars/23/23-mars-04.57-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 513495,
-    "datetime": "2024-03-24 9:06:23 +01:00",
-    "name": "24 mars 09.06, Inbrott, Skellefteå",
-    "summary": "En man anhållen efter inbrott.",
-    "url": "/aktuellt/handelser/2024/mars/24/24-mars-09.06-inbrott-skelleftea/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
