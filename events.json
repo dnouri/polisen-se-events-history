@@ -1,5 +1,41 @@
 [
   {
+    "id": 514619,
+    "datetime": "2024-04-02 16:02:17 +02:00",
+    "name": "02 april 15.51, Trafikolycka, Karlskrona",
+    "summary": "Personbil i olycka, Kättilsmåla.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-15.51-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 514624,
+    "datetime": "2024-04-02 16:29:00 +02:00",
+    "name": "02 april 15.09, Brand, Malmö",
+    "summary": "Brand i miljöhus, Borgmästaregården.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-15.09-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 514623,
+    "datetime": "2024-04-02 16:26:08 +02:00",
+    "name": "02 april 16.11, Trafikolycka, Vimmerby",
+    "summary": "Personbil i olycka, Vimmerby.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-16.11-trafikolycka-vimmerby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vimmerby",
+      "gps": "57.669034,15.858857"
+    }
+  },
+  {
     "id": 514621,
     "datetime": "2024-04-02 16:18:12 +02:00",
     "name": "02 april 15.52, Trafikolycka, Falköping",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Vingåker",
       "gps": "59.043375,15.870939"
-    }
-  },
-  {
-    "id": 514619,
-    "datetime": "2024-04-02 16:02:17 +02:00",
-    "name": "02 april 15.51, Trafikolycka, Karlskrona",
-    "summary": "Personbil i olycka, Kättilsmåla.",
-    "url": "/aktuellt/handelser/2024/april/2/02-april-15.51-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   },
   {
@@ -2844,18 +2868,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -2865,6 +2877,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 513572,
-    "datetime": "2024-03-25 9:32:47 +01:00",
-    "name": "25 mars 07.44, Rattfylleri, Örnsköldsvik",
-    "summary": "Örnsköldsvik, misstänkt drograttfylleri.",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-07.44-rattfylleri-ornskoldsvik/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 513568,
-    "datetime": "2024-03-25 9:08:51 +01:00",
-    "name": "25 mars 09.04, Trafikolycka, Karlshamn",
-    "summary": "Larm om trafikolycka, Åryd",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-09.04-trafikolycka-karlshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
     }
   }
 ]
