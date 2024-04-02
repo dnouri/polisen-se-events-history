@@ -1,5 +1,41 @@
 [
   {
+    "id": 514453,
+    "datetime": "2024-04-02 11:40:51 +02:00",
+    "name": "02 april 10.47, Knivlagen, Umeå",
+    "summary": "Umeå, misstänkt brott mot knivlagen.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-10.47-knivlagen-umea/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 514449,
+    "datetime": "2024-04-02 11:31:16 +02:00",
+    "name": "02 april 11.31, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från trafikkontroller.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-11.31-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 514448,
+    "datetime": "2024-04-02 11:29:00 +02:00",
+    "name": "02 april 11.28, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-11.28-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 514452,
     "datetime": "2024-04-02 10:56:04 +02:00",
     "name": "02 april 08.24, Trafikkontroll, Östersund",
@@ -2580,18 +2616,6 @@
     }
   },
   {
-    "id": 514167,
-    "datetime": "2024-03-28 17:20:23 +01:00",
-    "name": "28 mars 17.09, Trafikolycka, Borlänge",
-    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
     "id": 514171,
     "datetime": "2024-03-28 18:57:09 +01:00",
     "name": "28 mars 18.07, Fylleri/LOB, Åre",
@@ -2601,6 +2625,18 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 514167,
+    "datetime": "2024-03-28 17:20:23 +01:00",
+    "name": "28 mars 17.09, Trafikolycka, Borlänge",
+    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 513542,
-    "datetime": "2024-03-25 7:08:29 +01:00",
-    "name": "25 mars 06.30, Övrigt, Göteborg",
-    "summary": "Polisen kontaktas efter att en lokalvårdare hittat ett misstänkt farligt föremål i en trappuppgång i Bergsjön.",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-06.30-ovrigt-goteborg/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 513539,
-    "datetime": "2024-03-25 7:06:19 +01:00",
-    "name": "25 mars 07.05, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-07.05-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 513541,
-    "datetime": "2024-03-25 7:06:07 +01:00",
-    "name": "25 mars 07.05, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-07.05-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
