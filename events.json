@@ -1,5 +1,65 @@
 [
   {
+    "id": 514632,
+    "datetime": "2024-04-02 17:16:30 +02:00",
+    "name": "02 april 14.45, Trafikolycka, Mjölby",
+    "summary": "Bil gick av vägen och voltade",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-14.45-trafikolycka-mjolby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mjölby",
+      "gps": "58.322691,15.133535"
+    }
+  },
+  {
+    "id": 514620,
+    "datetime": "2024-04-02 16:12:54 +02:00",
+    "name": "02 april 14.55, Trafikolycka, Alingsås",
+    "summary": "På E20, strax söder om Ingared och i norrgående riktning, kör en lastbil in i ett vägräcke.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-14.55-trafikolycka-alingsas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
+    }
+  },
+  {
+    "id": 514631,
+    "datetime": "2024-04-02 17:07:42 +02:00",
+    "name": "02 april 16.36, Trafikolycka, Uddevalla",
+    "summary": "SOS larmas om en trafikolycka på länsväg 694 utanför Uddevalla.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-16.36-trafikolycka-uddevalla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 514629,
+    "datetime": "2024-04-02 16:59:40 +02:00",
+    "name": "02 april 16.46, Trafikolycka, Eslöv",
+    "summary": "Två personbilar i olycka, Örtofta.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-16.46-trafikolycka-eslov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 514628,
+    "datetime": "2024-04-02 16:56:00 +02:00",
+    "name": "02 april 15.55, Bedrägeri, Sigtuna",
+    "summary": "När en man på Arlanda kontrollerades påträffades en större summa kontanter.",
+    "url": "/aktuellt/handelser/2024/april/2/02-april-15.55-bedrageri-sigtuna/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
     "id": 514619,
     "datetime": "2024-04-02 16:02:17 +02:00",
     "name": "02 april 15.51, Trafikolycka, Karlskrona",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Trollhättan",
       "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 514620,
-    "datetime": "2024-04-02 16:12:54 +02:00",
-    "name": "02 april 14.55, Trafikolycka, Alingsås",
-    "summary": "På E20, strax söder om Ingared och i norrgående riktning, kör en lastbil in i ett vägräcke.",
-    "url": "/aktuellt/handelser/2024/april/2/02-april-14.55-trafikolycka-alingsas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 513591,
-    "datetime": "2024-03-25 11:35:18 +01:00",
-    "name": "25 mars 11.35, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-11.35-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 513583,
-    "datetime": "2024-03-25 11:07:40 +01:00",
-    "name": "25 mars 11.07, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-11.07-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 513574,
-    "datetime": "2024-03-25 10:01:32 +01:00",
-    "name": "25 mars 09.35, Trafikolycka, Berg",
-    "summary": "Singelolycka på länsväg 580 i höjd med Side.",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-09.35-trafikolycka-berg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 513573,
-    "datetime": "2024-03-25 9:47:07 +01:00",
-    "name": "25 mars 09.17, Olaga hot, Borås",
-    "summary": "Personal från Borås stads Aktivitetshus kontaktar polisen då man hittat lappar med ett hotfullt meddelande i r",
-    "url": "/aktuellt/handelser/2024/mars/25/25-mars-09.17-olaga-hot-boras/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
