@@ -1,5 +1,53 @@
 [
   {
+    "id": 514877,
+    "datetime": "2024-04-04 17:14:24 +02:00",
+    "name": "04 april 16.20, Misshandel, Nyköping",
+    "summary": "Man misstänkt för misshandel i Nyköping",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-16.20-misshandel-nykoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 514881,
+    "datetime": "2024-04-04 17:31:14 +02:00",
+    "name": "04 april 16.02, Fylleri/LOB, Östersund",
+    "summary": "Berusad man omhändertagen från Busstorget.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-16.02-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 514876,
+    "datetime": "2024-04-04 17:08:23 +02:00",
+    "name": "04 april 16.45, Trafikolycka, singel, Lidköping",
+    "summary": "På riksväg 44 i utkanten av Lidköping har en singelolycka inträffat.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-16.45-trafikolycka-singel-lidkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Lidköping",
+      "gps": "58.503505,13.157077"
+    }
+  },
+  {
+    "id": 514880,
+    "datetime": "2024-04-04 17:24:21 +02:00",
+    "name": "04 april 16.01, Våld/hot mot tjänsteman, Skellefteå",
+    "summary": "Omhändertagen man misstänks för våld mot tjänsteman.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-16.01-valdhot-mot-tjansteman-skelleftea/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 514879,
     "datetime": "2024-04-04 17:18:06 +02:00",
     "name": "04 april 15.22, Rattfylleri, Umeå",
@@ -21,30 +69,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 514877,
-    "datetime": "2024-04-04 17:14:24 +02:00",
-    "name": "04 april 16.20, Misshandel, Nyköping",
-    "summary": "Man misstänkt för misshandel i Nyköping",
-    "url": "/aktuellt/handelser/2024/april/4/04-april-16.20-misshandel-nykoping/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 514876,
-    "datetime": "2024-04-04 17:08:23 +02:00",
-    "name": "04 april 16.45, Trafikolycka, singel, Lidköping",
-    "summary": "På riksväg 44 i utkanten av Lidköping har en singelolycka inträffat.",
-    "url": "/aktuellt/handelser/2024/april/4/04-april-16.45-trafikolycka-singel-lidkoping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Lidköping",
-      "gps": "58.503505,13.157077"
     }
   },
   {
@@ -4764,18 +4788,6 @@
     }
   },
   {
-    "id": 514167,
-    "datetime": "2024-03-28 17:20:23 +01:00",
-    "name": "28 mars 17.09, Trafikolycka, Borlänge",
-    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
     "id": 514171,
     "datetime": "2024-03-28 18:57:09 +01:00",
     "name": "28 mars 18.07, Fylleri/LOB, Åre",
@@ -4785,6 +4797,18 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 514167,
+    "datetime": "2024-03-28 17:20:23 +01:00",
+    "name": "28 mars 17.09, Trafikolycka, Borlänge",
+    "summary": "Två personbilar uppges ha kolliderat vid Domnarvsrondellen i Borlängen",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-17.09-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Malung-Sälen",
       "gps": "60.900926,13.322618"
-    }
-  },
-  {
-    "id": 513944,
-    "datetime": "2024-03-27 13:27:12 +01:00",
-    "name": "27 mars 12.15, Trafikolycka, Åsele",
-    "summary": "Trafikolycka på riksväg 90/länsväg 558 Åsele.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-12.15-trafikolycka-asele/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åsele",
-      "gps": "64.160234,17.353615"
-    }
-  },
-  {
-    "id": 513955,
-    "datetime": "2024-03-27 14:15:36 +01:00",
-    "name": "27 mars 14.15, Trafikkontroll, Jämtlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-14.15-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
