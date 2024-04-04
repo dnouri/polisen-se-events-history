@@ -1,5 +1,41 @@
 [
   {
+    "id": 514884,
+    "datetime": "2024-04-04 18:09:22 +02:00",
+    "name": "04 april 17.24, Rån, Malmö",
+    "summary": "Personrån",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-17.24-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 514883,
+    "datetime": "2024-04-04 18:07:10 +02:00",
+    "name": "04 april 16.06, Rattfylleri, Sundsvall",
+    "summary": "Misstänkt drograttfylleri i Sundsvall.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-16.06-rattfylleri-sundsvall/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 514882,
+    "datetime": "2024-04-04 18:04:04 +02:00",
+    "name": "04 april 14.18, Stöld, Östersund",
+    "summary": "Stöld i matvarubutik i Östersund.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-14.18-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 514877,
     "datetime": "2024-04-04 17:14:24 +02:00",
     "name": "04 april 16.20, Misshandel, Nyköping",
@@ -4788,18 +4824,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -4809,6 +4833,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 513961,
-    "datetime": "2024-03-27 15:29:31 +01:00",
-    "name": "27 mars 11.39, Trafikolycka, Kungälv",
-    "summary": "Marstrandsvägen, Gärdet",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-11.39-trafikolycka-kungalv/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 513958,
-    "datetime": "2024-03-27 14:58:33 +01:00",
-    "name": "27 mars 14.53, Trafikolycka, Karlskrona",
-    "summary": "Två personbilar i olycka, Lyckeby.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-14.53-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 513957,
-    "datetime": "2024-03-27 14:23:42 +01:00",
-    "name": "27 mars 12.08, Fjällräddning, Malung-Sälen",
-    "summary": "En kvinna i femtioårsåldern och en jämnårig man har förts till sjukhus efter en olycka med en snöskoter i Säle",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-12.08-fjallraddning-malung-salen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
     }
   }
 ]
