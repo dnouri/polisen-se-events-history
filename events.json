@@ -1,5 +1,89 @@
 [
   {
+    "id": 514879,
+    "datetime": "2024-04-04 17:18:06 +02:00",
+    "name": "04 april 15.22, Rattfylleri, Umeå",
+    "summary": "Misstänkt rattfylleri i Umeå.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-15.22-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 514878,
+    "datetime": "2024-04-04 17:16:40 +02:00",
+    "name": "04 april 15.15, Trafikbrott, Solna",
+    "summary": "Bilförare och cyklist krockar med varandra – två gånger.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-15.15-trafikbrott-solna/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 514877,
+    "datetime": "2024-04-04 17:14:24 +02:00",
+    "name": "04 april 16.20, Misshandel, Nyköping",
+    "summary": "Man misstänkt för misshandel i Nyköping",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-16.20-misshandel-nykoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 514876,
+    "datetime": "2024-04-04 17:08:23 +02:00",
+    "name": "04 april 16.45, Trafikolycka, singel, Lidköping",
+    "summary": "På riksväg 44 i utkanten av Lidköping har en singelolycka inträffat.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-16.45-trafikolycka-singel-lidkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Lidköping",
+      "gps": "58.503505,13.157077"
+    }
+  },
+  {
+    "id": 514875,
+    "datetime": "2024-04-04 17:05:53 +02:00",
+    "name": "04 april 15.51, Trafikbrott, Stockholm",
+    "summary": "Bilförare kör genom stan med öppen motorhuv och punktering.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-15.51-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 514874,
+    "datetime": "2024-04-04 17:01:30 +02:00",
+    "name": "04 april 17.01, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-17.01-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 514873,
+    "datetime": "2024-04-04 16:46:25 +02:00",
+    "name": "04 april 15.28, Olovlig körning, Bjurholm",
+    "summary": "Grov olovlig körning utanför Bjurholm.",
+    "url": "/aktuellt/handelser/2024/april/4/04-april-15.28-olovlig-korning-bjurholm/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Bjurholm",
+      "gps": "63.930406,19.219213"
+    }
+  },
+  {
     "id": 514872,
     "datetime": "2024-04-04 16:33:31 +02:00",
     "name": "04 april 13.52, Brand, Malmö",
@@ -4680,18 +4764,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -4701,6 +4773,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 513951,
-    "datetime": "2024-03-27 13:56:07 +01:00",
-    "name": "27 mars 13.55, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-13.55-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 513949,
-    "datetime": "2024-03-27 13:51:15 +01:00",
-    "name": "27 mars 09.59, Trafikkontroll, Umeå",
-    "summary": "Resultat av trafikkontroll på Ersboda i Umeå.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-09.59-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 513947,
-    "datetime": "2024-03-27 13:32:26 +01:00",
-    "name": "27 mars 12.10, Fjällräddning, Kiruna",
-    "summary": "Fjällräddning i Abisko, Kiruna kommun.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-12.10-fjallraddning-kiruna/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 513940,
-    "datetime": "2024-03-27 13:01:47 +01:00",
-    "name": "27 mars 12.11, Trafikolycka, Skellefteå",
-    "summary": "Trafikolycka på Svedjevägen/Torsgatan i Skellefteå.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-12.11-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 513913,
-    "datetime": "2024-03-27 10:45:40 +01:00",
-    "name": "27 mars 10.10, Trafikolycka, Gällivare",
-    "summary": "Trafikolycka på E45 Nietsak, Gällivare.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-10.10-trafikolycka-gallivare/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 513938,
-    "datetime": "2024-03-27 12:53:40 +01:00",
-    "name": "27 mars 10.08, Narkotikabrott, Lycksele",
-    "summary": "Man misstänks för narkotikabruk.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-10.08-narkotikabrott-lycksele/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 513929,
-    "datetime": "2024-03-27 12:25:49 +01:00",
-    "name": "27 mars 12.15, Trafikolycka, Kävlinge",
-    "summary": "Larm om trafikolycka, Löddeköpinge",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-12.15-trafikolycka-kavlinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kävlinge",
-      "gps": "55.794,13.110429"
     }
   }
 ]
