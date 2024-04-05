@@ -1,5 +1,77 @@
 [
   {
+    "id": 515068,
+    "datetime": "2024-04-05 22:11:53 +02:00",
+    "name": "05 april 21.56, Detonation, Ängelholm",
+    "summary": "Detonation vid port",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-21.56-detonation-angelholm/",
+    "type": "Detonation",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 515067,
+    "datetime": "2024-04-05 22:09:16 +02:00",
+    "name": "05 april 14.56, Fjällräddning, Härjedalen",
+    "summary": "Man undsattes från Storskarven, Tännäs.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-14.56-fjallraddning-harjedalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 515066,
+    "datetime": "2024-04-05 22:06:18 +02:00",
+    "name": "05 april 21.34, Trafikbrott, Malmö",
+    "summary": "Förföljande",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-21.34-trafikbrott-malmo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 515064,
+    "datetime": "2024-04-05 22:01:27 +02:00",
+    "name": "05 april 22.00, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-22.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 515065,
+    "datetime": "2024-04-05 22:01:17 +02:00",
+    "name": "05 april 22.00, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-22.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 515063,
+    "datetime": "2024-04-05 21:57:17 +02:00",
+    "name": "05 april 18.36, Rattfylleri, Sundsvall",
+    "summary": "Misstänkt drograttfylleri i Birsta.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-18.36-rattfylleri-sundsvall/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 515060,
     "datetime": "2024-04-05 21:29:19 +02:00",
     "name": "05 april 15.51, Narkotikabrott, Umeå",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 514166,
-    "datetime": "2024-03-28 17:19:39 +01:00",
-    "name": "28 mars 15.33, Fylleri/LOB, Sollefteå",
-    "summary": "Stadsparken, polis kontaktas gällande berusad man",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-15.33-fyllerilob-solleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 514165,
-    "datetime": "2024-03-28 17:17:50 +01:00",
-    "name": "28 mars 15.24, Fylleri/LOB, Sundsvall",
-    "summary": "Stenstan, man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-15.24-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 514164,
-    "datetime": "2024-03-28 17:15:06 +01:00",
-    "name": "28 mars 14.51, Rattfylleri, Härnösand",
-    "summary": "Centrum, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-14.51-rattfylleri-harnosand/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 514163,
-    "datetime": "2024-03-28 17:08:25 +01:00",
-    "name": "28 mars 13.24, Våld/hot mot tjänsteman, Timrå",
-    "summary": "Timrå, misstänkt hot och våld mot tjänsteman",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-13.24-valdhot-mot-tjansteman-timra/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 514162,
-    "datetime": "2024-03-28 16:54:16 +01:00",
-    "name": "28 mars 16.20, Trafikolycka, Vaggeryd",
-    "summary": "Flera polispatruller på plats vid trafikolycka.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-16.20-trafikolycka-vaggeryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vaggeryd",
-      "gps": "57.498962,14.14863"
-    }
-  },
-  {
-    "id": 514161,
-    "datetime": "2024-03-28 16:47:27 +01:00",
-    "name": "28 mars 13.55, Trafikolycka, Lycksele",
-    "summary": "Länsväg 360, trafikolycka några mil väster om Lycksele",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-13.55-trafikolycka-lycksele/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
     }
   }
 ]
