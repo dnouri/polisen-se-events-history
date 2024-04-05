@@ -1,5 +1,65 @@
 [
   {
+    "id": 515018,
+    "datetime": "2024-04-05 14:16:22 +02:00",
+    "name": "05 april 07.58, Trafikolycka, Malmö",
+    "summary": "En lastbil och en personbil kolliderar i närheten av trafikplats Sege.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-07.58-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 514970,
+    "datetime": "2024-04-05 14:10:11 +02:00",
+    "name": "05 april 14.10, Trafikkontroll, Umeå",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-14.10-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 514966,
+    "datetime": "2024-04-05 12:03:14 +02:00",
+    "name": "05 april 12.03, Trafikkontroll, Skellefteå",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-12.03-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 515016,
+    "datetime": "2024-04-05 14:04:28 +02:00",
+    "name": "05 april 14.00, Trafikolycka, Ludvika",
+    "summary": "En busschaufför har kört i diket strax norr om Grängesberg på LV 604.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-14.00-trafikolycka-ludvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 515015,
+    "datetime": "2024-04-05 13:46:22 +02:00",
+    "name": "05 april 13.42, Brand, Borlänge",
+    "summary": "Det ryker från en källare i ett flerfamiljshus i Borlänge",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-13.42-brand-borlange/",
+    "type": "Brand",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 514969,
     "datetime": "2024-04-05 13:09:35 +02:00",
     "name": "05 april 13.09, Trafikkontroll, Vindeln",
@@ -93,18 +153,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 514966,
-    "datetime": "2024-04-05 12:03:14 +02:00",
-    "name": "05 april 12.03, Trafikkontroll, Skellefteå",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/april/5/05-april-12.03-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5520,18 +5568,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -5541,6 +5577,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 514104,
-    "datetime": "2024-03-28 11:11:13 +01:00",
-    "name": "28 mars 08.42, Fylleri/LOB, Sundsvall",
-    "summary": "Man omhändertagen i Sidsjö, Sundsvall.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-08.42-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 513952,
-    "datetime": "2024-03-27 14:00:50 +01:00",
-    "name": "27 mars 12.24, Övrigt, Gävle",
-    "summary": "Polisen utreder ett grovt brott på Brynäs.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-12.24-ovrigt-gavle/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 514006,
-    "datetime": "2024-03-27 20:17:14 +01:00",
-    "name": "27 mars 18.34, Misshandel, grov, Västerås",
-    "summary": "Man skadas med tillhygge.",
-    "url": "/aktuellt/handelser/2024/mars/27/27-mars-18.34-misshandel-grov-vasteras/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 514097,
-    "datetime": "2024-03-28 10:02:49 +01:00",
-    "name": "28 mars 10.02, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-10.02-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
