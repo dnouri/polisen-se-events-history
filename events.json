@@ -1,5 +1,41 @@
 [
   {
+    "id": 515051,
+    "datetime": "2024-04-05 17:27:48 +02:00",
+    "name": "05 april 14.13, Narkotikabrott, Örnsköldsvik",
+    "summary": "Man misstänks för ringa narkotikainnehav.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-14.13-narkotikabrott-ornskoldsvik/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 515050,
+    "datetime": "2024-04-05 17:27:10 +02:00",
+    "name": "05 april 16.20, Misshandel, Eskilstuna",
+    "summary": "Man misstänks för misshandel",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-16.20-misshandel-eskilstuna/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 515049,
+    "datetime": "2024-04-05 17:25:00 +02:00",
+    "name": "05 april 13.08, Skadegörelse, Sundsvall",
+    "summary": "Skadegörelse i gångtunnel i Stenstan.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-13.08-skadegorelse-sundsvall/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 514916,
     "datetime": "2024-04-05 7:12:01 +02:00",
     "name": "05 april 05.47, Mord/dråp, Helsingborg",
@@ -5724,18 +5760,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -5745,6 +5769,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Höör",
       "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 514139,
-    "datetime": "2024-03-28 13:31:41 +01:00",
-    "name": "28 mars 11.28, Fjällräddning, Storuman",
-    "summary": "Fjällräddningen undsätter skadad man.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-11.28-fjallraddning-storuman/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 514137,
-    "datetime": "2024-03-28 13:29:40 +01:00",
-    "name": "28 mars 10.19, Rattfylleri, Lycksele",
-    "summary": "Misstänkt rattfylleri i centrum.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-10.19-rattfylleri-lycksele/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 514135,
-    "datetime": "2024-03-28 13:23:06 +01:00",
-    "name": "28 mars 12.41, Skadegörelse, Vimmerby",
-    "summary": "Pågående skadegörelse, Vimmerby.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-12.41-skadegorelse-vimmerby/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Vimmerby",
-      "gps": "57.669034,15.858857"
     }
   }
 ]
