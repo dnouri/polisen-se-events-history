@@ -1,5 +1,41 @@
 [
   {
+    "id": 515062,
+    "datetime": "2024-04-05 21:05:03 +02:00",
+    "name": "05 april 20.22, Skadegörelse, Göteborg",
+    "summary": "SOS larmas om en brand i en personbil på Eketrägatan, Kyrkbyn.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-20.22-skadegorelse-goteborg/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 515061,
+    "datetime": "2024-04-05 21:01:37 +02:00",
+    "name": "05 april 19.39, Trafikolycka, Berg",
+    "summary": "Trafikolycka i trakterna av Oviken, Bergs kommun.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-19.39-trafikolycka-berg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
+    "id": 515059,
+    "datetime": "2024-04-05 20:43:34 +02:00",
+    "name": "05 april 19.45, Narkotikabrott, Upplands-bro",
+    "summary": "En inringare i en butik i Kungsängen ringer in till polisen angående att de hittat ett par påsar innehållande ",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-19.45-narkotikabrott-upplands-bro/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Upplands-bro",
+      "gps": "59.49068,17.752277"
+    }
+  },
+  {
     "id": 515056,
     "datetime": "2024-04-05 19:51:19 +02:00",
     "name": "05 april 18.21, Försvunnen person, Höganäs",
@@ -5820,18 +5856,6 @@
     }
   },
   {
-    "id": 514171,
-    "datetime": "2024-03-28 18:57:09 +01:00",
-    "name": "28 mars 18.07, Fylleri/LOB, Åre",
-    "summary": "Centrala Åre, ung man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
     "id": 514167,
     "datetime": "2024-03-28 17:20:23 +01:00",
     "name": "28 mars 17.09, Trafikolycka, Borlänge",
@@ -5841,6 +5865,18 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 514171,
+    "datetime": "2024-03-28 18:57:09 +01:00",
+    "name": "28 mars 18.07, Fylleri/LOB, Åre",
+    "summary": "Centrala Åre, ung man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/mars/28/28-mars-18.07-fyllerilob-are/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 514159,
-    "datetime": "2024-03-28 16:21:33 +01:00",
-    "name": "28 mars 13.52, Trafikolycka, singel, Storuman",
-    "summary": "E12, singelolycka cirka en mil norr om Storuman",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-13.52-trafikolycka-singel-storuman/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 514158,
-    "datetime": "2024-03-28 16:15:46 +01:00",
-    "name": "28 mars 11.18, Stöld, Umeå",
-    "summary": "Holmsund, polis kontaktas gällande en påverkad kvinna som olovligen tagit sig in till en kommunal verksamhet",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-11.18-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 514157,
-    "datetime": "2024-03-28 15:56:45 +01:00",
-    "name": "28 mars 15.06, Knivlagen, Göteborg",
-    "summary": "Två personer bråkar på Nils Erikssonsplatsen. En av dem ska enligt de första uppgifterna bära kniv.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-15.06-knivlagen-goteborg/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
