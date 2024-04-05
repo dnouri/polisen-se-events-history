@@ -1,5 +1,77 @@
 [
   {
+    "id": 514964,
+    "datetime": "2024-04-05 12:20:42 +02:00",
+    "name": "05 april 10.28, Stöld, Skellefteå",
+    "summary": "Misstänkt ringa stöld i matbutik, Sörböle.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-10.28-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 514959,
+    "datetime": "2024-04-05 10:30:59 +02:00",
+    "name": "05 april 09.29, Trafikolycka, Vallentuna",
+    "summary": "Frontalkrock med två personbilar i Brottby.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-09.29-trafikolycka-vallentuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 514967,
+    "datetime": "2024-04-05 12:11:24 +02:00",
+    "name": "05 april 10.30, Rattfylleri, Huddinge",
+    "summary": "Fordonsförare i Huddinge misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-10.30-rattfylleri-huddinge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 514966,
+    "datetime": "2024-04-05 12:03:14 +02:00",
+    "name": "05 april 12.03, Trafikkontroll, Skellefteå",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-12.03-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 514963,
+    "datetime": "2024-04-05 11:57:09 +02:00",
+    "name": "05 april 11.57, Trafikkontroll, Gällivare",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-11.57-trafikkontroll-gallivare/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 514962,
+    "datetime": "2024-04-05 11:52:50 +02:00",
+    "name": "05 april 11.26, Trafikolycka, vilt, Härnösand",
+    "summary": "Polisen får in an anmälan om en olycka med en personbil och en ren.",
+    "url": "/aktuellt/handelser/2024/april/5/05-april-11.26-trafikolycka-vilt-harnosand/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
     "id": 514954,
     "datetime": "2024-04-05 10:44:28 +02:00",
     "name": "05 april 09.49, Trafikolycka, Kramfors",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 514959,
-    "datetime": "2024-04-05 10:30:59 +02:00",
-    "name": "05 april 09.29, Trafikolycka, Vallentuna",
-    "summary": "Frontalkrock med två personbilar i Brottby.",
-    "url": "/aktuellt/handelser/2024/april/5/05-april-09.29-trafikolycka-vallentuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vallentuna",
-      "gps": "59.5357,18.078017"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 514086,
-    "datetime": "2024-03-28 7:54:25 +01:00",
-    "name": "28 mars 07.53, Sammanfattning natt, Jönköpings län",
-    "summary": "Polisen har hanterat ett 40-tal ärenden i Jönköpings län mellan klockan 22:00 och 07:00.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-07.53-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 514085,
-    "datetime": "2024-03-28 7:53:17 +01:00",
-    "name": "28 mars 07.53, Sammanfattning natt, Östergötlands län",
-    "summary": "En polisiärt lugn natt i Östergötland.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-07.53-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 514084,
-    "datetime": "2024-03-28 7:52:23 +01:00",
-    "name": "28 mars 07.52, Sammanfattning natt, Katrineholm",
-    "summary": "En polisiärt lugn natt i Södermanland.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-07.52-sammanfattning-natt-katrineholm/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 514083,
-    "datetime": "2024-03-28 7:52:22 +01:00",
-    "name": "28 mars 06.52, Trafikolycka, personskada, Stenungsund",
-    "summary": "På Kristinedalsvägen blir ett mindre barn påbackad av en personbil.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-06.52-trafikolycka-personskada-stenungsund/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 514069,
-    "datetime": "2024-03-28 7:13:07 +01:00",
-    "name": "28 mars 07.13, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
-    "url": "/aktuellt/handelser/2024/mars/28/28-mars-07.13-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
