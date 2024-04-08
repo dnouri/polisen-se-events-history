@@ -1,9 +1,93 @@
 [
   {
+    "id": 516287,
+    "datetime": "2024-04-08 18:44:12 +02:00",
+    "name": "08 april 18.44, Brand, Katrineholm",
+    "summary": "Utvecklad brand i Värmbol",
+    "url": "/aktuellt/handelser/2024/april/8/08-april-18.44-brand-katrineholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
+    }
+  },
+  {
+    "id": 516286,
+    "datetime": "2024-04-08 18:35:14 +02:00",
+    "name": "08 april 17.30, Brand, Sigtuna",
+    "summary": "Brand på taxistation.",
+    "url": "/aktuellt/handelser/2024/april/8/08-april-17.30-brand-sigtuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 516285,
+    "datetime": "2024-04-08 18:32:07 +02:00",
+    "name": "08 april 17.07, Narkotikabrott, Örnsköldsvik",
+    "summary": "Misstänkt ringa narkotikabrott, Örnsköldsvik.",
+    "url": "/aktuellt/handelser/2024/april/8/08-april-17.07-narkotikabrott-ornskoldsvik/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 516284,
+    "datetime": "2024-04-08 18:29:38 +02:00",
+    "name": "08 april 17.03, Olovlig körning, Timrå",
+    "summary": "Misstänkt grov olovlig körning, Söråker.",
+    "url": "/aktuellt/handelser/2024/april/8/08-april-17.03-olovlig-korning-timra/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 516282,
+    "datetime": "2024-04-08 18:27:37 +02:00",
+    "name": "08 april 16.09, Trafikolycka, personskada, Huddinge",
+    "summary": "Tre bilförare i krock på Lännavägen.",
+    "url": "/aktuellt/handelser/2024/april/8/08-april-16.09-trafikolycka-personskada-huddinge/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 516283,
+    "datetime": "2024-04-08 18:27:33 +02:00",
+    "name": "08 april 17.23, Rattfylleri, Stockholm",
+    "summary": "Misstänkt rattfull förare kör in i räcket på Nynäsvägen.",
+    "url": "/aktuellt/handelser/2024/april/8/08-april-17.23-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 516281,
+    "datetime": "2024-04-08 18:27:29 +02:00",
+    "name": "08 april 15.50, Trafikolycka, personskada, Stockholm",
+    "summary": "Cyklist påkörd av bilförare.",
+    "url": "/aktuellt/handelser/2024/april/8/08-april-15.50-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 516245,
     "datetime": "2024-04-08 18:20:57 +02:00",
     "name": "08 april 13.42, Stöld, Skellefteå",
-    "summary": "Misstänkt ringa stöld i butik i centrala Umeå.",
+    "summary": "Misstänkt ringa stöld i butik i centrala Skellefteå.",
     "url": "/aktuellt/handelser/2024/april/8/08-april-13.42-stold-skelleftea/",
     "type": "Stöld",
     "location": {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 514364,
-    "datetime": "2024-04-01 8:22:10 +02:00",
-    "name": "01 april 07.45, Trafikbrott, Umeå",
-    "summary": "Bilförare stoppad på Sofiehem efter att ha kört mot rött ljus.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-07.45-trafikbrott-umea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 514357,
-    "datetime": "2024-04-01 7:53:05 +02:00",
-    "name": "01 april 07.52, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-07.52-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 514360,
-    "datetime": "2024-04-01 7:52:52 +02:00",
-    "name": "01 april 07.52, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-07.52-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 514350,
-    "datetime": "2024-04-01 7:52:39 +02:00",
-    "name": "01 april 07.52, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-07.52-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 514354,
-    "datetime": "2024-04-01 7:46:50 +02:00",
-    "name": "01 april 07.44, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-07.44-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 514359,
-    "datetime": "2024-04-01 7:44:08 +02:00",
-    "name": "01 april 07.44, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-07.44-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 514355,
-    "datetime": "2024-04-01 7:18:39 +02:00",
-    "name": "01 april 04.02, Trafikolycka, Växjö",
-    "summary": "En singelolycka med en personbil inträffar på länsväg 122.",
-    "url": "/aktuellt/handelser/2024/april/1/01-april-04.02-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
