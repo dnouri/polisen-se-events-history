@@ -1,5 +1,65 @@
 [
   {
+    "id": 518038,
+    "datetime": "2024-04-15 19:13:15 +02:00",
+    "name": "15 april 18.29, Misshandel, grov, Sundbyberg",
+    "summary": "En person hittad stickskadad.",
+    "url": "/aktuellt/handelser/2024/april/15/15-april-18.29-misshandel-grov-sundbyberg/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Sundbyberg",
+      "gps": "59.367047,17.966309"
+    }
+  },
+  {
+    "id": 518037,
+    "datetime": "2024-04-15 19:11:07 +02:00",
+    "name": "15 april 17.19, Stöld, Arvika",
+    "summary": "Tre ynglingar gripna för ringa stöld",
+    "url": "/aktuellt/handelser/2024/april/15/15-april-17.19-stold-arvika/",
+    "type": "Stöld",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 518036,
+    "datetime": "2024-04-15 19:10:02 +02:00",
+    "name": "15 april 19.09, Bedrägeri, Sundsvall",
+    "summary": "Misstänkt försök till åldringsbrott i Sundsvall.",
+    "url": "/aktuellt/handelser/2024/april/15/15-april-19.09-bedrageri-sundsvall/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 518035,
+    "datetime": "2024-04-15 19:02:46 +02:00",
+    "name": "15 april 16.55, Olovlig körning, Karlstad",
+    "summary": "En man samt en yngling misstänks för olovlig körning",
+    "url": "/aktuellt/handelser/2024/april/15/15-april-16.55-olovlig-korning-karlstad/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 518034,
+    "datetime": "2024-04-15 18:46:23 +02:00",
+    "name": "15 april 17.22, Olovlig körning, Borlänge",
+    "summary": "Pojke misstänkt för trafikbrott efter att ha framfört moped",
+    "url": "/aktuellt/handelser/2024/april/15/15-april-17.22-olovlig-korning-borlange/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 518014,
     "datetime": "2024-04-15 15:17:53 +02:00",
     "name": "15 april 14.10, Farligt föremål, misstänkt, Linköping",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 516235,
-    "datetime": "2024-04-08 13:34:32 +02:00",
-    "name": "08 april 13.00, Trafikkontroll, Jämtlands län",
-    "summary": "Polisen har under förmiddagen genomfört ett antal trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/april/8/08-april-13.00-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 516228,
-    "datetime": "2024-04-08 13:12:24 +02:00",
-    "name": "08 april 12.55, Larm Överfall, Tyresö",
-    "summary": "Polispatrull är på väg till en bensinmack i Tyresö som har utlöst överfallslarm.",
-    "url": "/aktuellt/handelser/2024/april/8/08-april-12.55-larm-overfall-tyreso/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Tyresö",
-      "gps": "59.242595,18.283392"
-    }
-  },
-  {
-    "id": 516225,
-    "datetime": "2024-04-08 12:40:23 +02:00",
-    "name": "08 april 12.30, Narkotikabrott, Boden",
-    "summary": "Man omhändertagen enligt LOB.",
-    "url": "/aktuellt/handelser/2024/april/8/08-april-12.30-narkotikabrott-boden/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 516224,
-    "datetime": "2024-04-08 12:37:28 +02:00",
-    "name": "08 april 11.35, Sedlighetsbrott, Sundbyberg",
-    "summary": "En man har tafsat på en kvinna i centrala Sundbyberg.",
-    "url": "/aktuellt/handelser/2024/april/8/08-april-11.35-sedlighetsbrott-sundbyberg/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 516223,
-    "datetime": "2024-04-08 12:30:22 +02:00",
-    "name": "08 april 12.10, Arbetsplatsolycka, Sundsvall",
-    "summary": "En arbetsplatsolycka inträffade på Essviksverken, Njurunda",
-    "url": "/aktuellt/handelser/2024/april/8/08-april-12.10-arbetsplatsolycka-sundsvall/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
