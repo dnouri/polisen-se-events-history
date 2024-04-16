@@ -1,5 +1,65 @@
 [
   {
+    "id": 518154,
+    "datetime": "2024-04-16 14:18:12 +02:00",
+    "name": "16 april 13.45, Vapenlagen, Norrköping",
+    "summary": "Misstänkt skottlossning i Norrköping.",
+    "url": "/aktuellt/handelser/2024/april/16/16-april-13.45-vapenlagen-norrkoping/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 518103,
+    "datetime": "2024-04-16 12:39:51 +02:00",
+    "name": "16 april 12.39, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
+    "url": "/aktuellt/handelser/2024/april/16/16-april-12.39-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 518101,
+    "datetime": "2024-04-16 12:38:20 +02:00",
+    "name": "16 april 12.38, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
+    "url": "/aktuellt/handelser/2024/april/16/16-april-12.38-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 518100,
+    "datetime": "2024-04-16 12:38:40 +02:00",
+    "name": "16 april 12.38, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
+    "url": "/aktuellt/handelser/2024/april/16/16-april-12.38-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 518152,
+    "datetime": "2024-04-16 13:49:28 +02:00",
+    "name": "16 april 13.35, Trafikolycka, singel, Hällefors",
+    "summary": "En singelolycka har inträffat på Rv63 vid Sikfors.",
+    "url": "/aktuellt/handelser/2024/april/16/16-april-13.35-trafikolycka-singel-hallefors/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Hällefors",
+      "gps": "59.783688,14.522569"
+    }
+  },
+  {
     "id": 518150,
     "datetime": "2024-04-16 13:37:39 +02:00",
     "name": "16 april 13.18, Trafikolycka, Kumla",
@@ -60,18 +120,6 @@
     }
   },
   {
-    "id": 518103,
-    "datetime": "2024-04-16 12:39:51 +02:00",
-    "name": "16 april 12.39, Trafikkontroll, Jämtlands län",
-    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
-    "url": "/aktuellt/handelser/2024/april/16/16-april-12.39-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
     "id": 518102,
     "datetime": "2024-04-16 12:38:53 +02:00",
     "name": "16 april 12.38, Trafikkontroll, Västernorrlands län",
@@ -81,30 +129,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 518100,
-    "datetime": "2024-04-16 12:38:40 +02:00",
-    "name": "16 april 12.38, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
-    "url": "/aktuellt/handelser/2024/april/16/16-april-12.38-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 518101,
-    "datetime": "2024-04-16 12:38:20 +02:00",
-    "name": "16 april 12.38, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
-    "url": "/aktuellt/handelser/2024/april/16/16-april-12.38-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 516333,
-    "datetime": "2024-04-09 7:40:38 +02:00",
-    "name": "09 april 07.40, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av natten i Östergötland. Polisen söker försvunnen person.",
-    "url": "/aktuellt/handelser/2024/april/9/09-april-07.40-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 516332,
-    "datetime": "2024-04-09 7:39:28 +02:00",
-    "name": "09 april 07.40, Sammanfattning natt, Södermanlands län",
-    "summary": "Sammanfattning av natten i Södermanlands län.",
-    "url": "/aktuellt/handelser/2024/april/9/09-april-07.40-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
