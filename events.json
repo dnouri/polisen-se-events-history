@@ -1,5 +1,65 @@
 [
   {
+    "id": 518360,
+    "datetime": "2024-04-18 7:38:28 +02:00",
+    "name": "18 april 07.30, Trafikolycka, Lund",
+    "summary": "Flera bilar i olycka, E22.",
+    "url": "/aktuellt/handelser/2024/april/18/18-april-07.30-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 518346,
+    "datetime": "2024-04-18 7:31:38 +02:00",
+    "name": "18 april 07.31, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2024/april/18/18-april-07.31-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 518348,
+    "datetime": "2024-04-18 7:31:04 +02:00",
+    "name": "18 april 07.31, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2024/april/18/18-april-07.31-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 518357,
+    "datetime": "2024-04-18 7:30:36 +02:00",
+    "name": "18 april 07.30, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2024/april/18/18-april-07.30-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 518359,
+    "datetime": "2024-04-18 7:30:15 +02:00",
+    "name": "18 april 07.30, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2024/april/18/18-april-07.30-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 518358,
     "datetime": "2024-04-18 7:20:30 +02:00",
     "name": "18 april 00.57, Skadegörelse, Österåker",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 516582,
-    "datetime": "2024-04-10 16:31:44 +02:00",
-    "name": "10 april 15.57, Övrigt, Örebro",
-    "summary": "Ett tak har blåst av och landat på ett annat tak vid Järnvägsgatan.",
-    "url": "/aktuellt/handelser/2024/april/10/10-april-15.57-ovrigt-orebro/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 516585,
-    "datetime": "2024-04-10 17:04:20 +02:00",
-    "name": "10 april 16.13, Trafikolycka, personskada, Stockholm",
-    "summary": "Två cyklister har krockat.",
-    "url": "/aktuellt/handelser/2024/april/10/10-april-16.13-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 516581,
-    "datetime": "2024-04-10 17:01:37 +02:00",
-    "name": "10 april 16.11, Trafikolycka, Uppsala",
-    "summary": "Flertalet fordon i kollision.",
-    "url": "/aktuellt/handelser/2024/april/10/10-april-16.11-trafikolycka-uppsala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 516583,
-    "datetime": "2024-04-10 16:39:59 +02:00",
-    "name": "10 april 16.09, Trafikolycka, Luleå",
-    "summary": "Luleå, singelolycka på Bergnäsbron.",
-    "url": "/aktuellt/handelser/2024/april/10/10-april-16.09-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 516577,
-    "datetime": "2024-04-10 15:33:32 +02:00",
-    "name": "10 april 14.33, Trafikolycka, Mölndal",
-    "summary": "På E6, vid Mölndalsbron och i norrgående färdriktning, har en lastbil och en personbil kolliderat.",
-    "url": "/aktuellt/handelser/2024/april/10/10-april-14.33-trafikolycka-molndal/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
     }
   }
 ]
