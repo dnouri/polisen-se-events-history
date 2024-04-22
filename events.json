@@ -1,14 +1,50 @@
 [
   {
-    "id": 518775,
-    "datetime": "2024-04-22 11:47:40 +02:00",
-    "name": "22 april 10.13, Arbetsplatsolycka, Göteborg",
-    "summary": "Polis och räddningstjänst larmas till en skola på Molinsgatan med anledning av en eventuell hissolycka.",
-    "url": "/aktuellt/handelser/2024/april/22/22-april-10.13-arbetsplatsolycka-goteborg/",
-    "type": "Arbetsplatsolycka",
+    "id": 518798,
+    "datetime": "2024-04-22 15:15:03 +02:00",
+    "name": "22 april 14.24, Farligt föremål, misstänkt, Munkedal",
+    "summary": "Vi är larmade till centrala Munkedal med anledning av ett misstänkt farligt föremål.",
+    "url": "/aktuellt/handelser/2024/april/22/22-april-14.24-farligt-foremal-misstankt-munkedal/",
+    "type": "Farligt föremål, misstänkt",
     "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
+      "name": "Munkedal",
+      "gps": "58.471505,11.680192"
+    }
+  },
+  {
+    "id": 518796,
+    "datetime": "2024-04-22 14:49:46 +02:00",
+    "name": "22 april 12.22, Bedrägeri, Karlstad",
+    "summary": "En man hemmahörande i ett annat EU-land misstänks för bedrägeri.",
+    "url": "/aktuellt/handelser/2024/april/22/22-april-12.22-bedrageri-karlstad/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 518795,
+    "datetime": "2024-04-22 14:49:19 +02:00",
+    "name": "22 april 14.35, Trafikolycka, Lerum",
+    "summary": "En cyklist och bilist är involverad i en olycka på Andersvägen/Nyebrostigen.",
+    "url": "/aktuellt/handelser/2024/april/22/22-april-14.35-trafikolycka-lerum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 518793,
+    "datetime": "2024-04-22 14:44:51 +02:00",
+    "name": "22 april 13.16, Trafikolycka, personskada, Ludvika",
+    "summary": "Det råder begränsad framkomlighet i nordgående riktning på riksväg 50 i Ludvika efter en trafikolycka.",
+    "url": "/aktuellt/handelser/2024/april/22/22-april-13.16-trafikolycka-personskada-ludvika/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
     }
   },
   {
@@ -21,6 +57,18 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 518775,
+    "datetime": "2024-04-22 11:47:40 +02:00",
+    "name": "22 april 10.13, Arbetsplatsolycka, Göteborg",
+    "summary": "Polis och räddningstjänst larmas till en skola på Molinsgatan med anledning av en eventuell hissolycka.",
+    "url": "/aktuellt/handelser/2024/april/22/22-april-10.13-arbetsplatsolycka-goteborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Säter",
       "gps": "60.34665,15.7479"
-    }
-  },
-  {
-    "id": 517962,
-    "datetime": "2024-04-15 8:57:20 +02:00",
-    "name": "14 april 12.45, Bedrägeri, Sigtuna",
-    "summary": "Tullpersonal på Arlanda anträffar en resenär med stora mängder guld i väskan.",
-    "url": "/aktuellt/handelser/2024/april/14/14-april-12.45-bedrageri-sigtuna/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 517943,
-    "datetime": "2024-04-15 7:20:59 +02:00",
-    "name": "15 april 07.20, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/april/15/15-april-07.20-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 517961,
-    "datetime": "2024-04-15 8:28:02 +02:00",
-    "name": "14 april 23.19, Misshandel, Stockholm",
-    "summary": "Två yngre män misshandlar en annan man på Södermalm.",
-    "url": "/aktuellt/handelser/2024/april/14/14-april-23.19-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 517959,
-    "datetime": "2024-04-15 8:07:18 +02:00",
-    "name": "15 april 07.53, Trafikolycka, Malmö",
-    "summary": "En personbil och cyklist kolliderar på John Ericssons väg i höjd med Stadion.",
-    "url": "/aktuellt/handelser/2024/april/15/15-april-07.53-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
