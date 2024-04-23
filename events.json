@@ -1,5 +1,53 @@
 [
   {
+    "id": 518901,
+    "datetime": "2024-04-23 11:23:19 +02:00",
+    "name": "23 april 11.20, Brand, Örebro",
+    "summary": "Det ryker från en fläkt på taket till ett flerfamiljshus på väster i Örebro.",
+    "url": "/aktuellt/handelser/2024/april/23/23-april-11.20-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 518907,
+    "datetime": "2024-04-23 12:13:20 +02:00",
+    "name": "23 april 07.26, Övrigt, Halmstad",
+    "summary": "Egenmäktigt förfarande och olaga hot",
+    "url": "/aktuellt/handelser/2024/april/23/23-april-07.26-ovrigt-halmstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 518700,
+    "datetime": "2024-04-21 15:58:06 +02:00",
+    "name": "21 april 10.05, Mord/dråp, Strömstad",
+    "summary": "Benrester anträffade utomhus som misstänks komma från en människa",
+    "url": "/aktuellt/handelser/2024/april/21/21-april-10.05-morddrap-stromstad/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 518906,
+    "datetime": "2024-04-23 12:02:40 +02:00",
+    "name": "23 april 08.53, Rattfylleri, Umeå",
+    "summary": "Misstänkt drograttfylleri Öst på stan i Umeå.",
+    "url": "/aktuellt/handelser/2024/april/23/23-april-08.53-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 518902,
     "datetime": "2024-04-23 11:29:11 +02:00",
     "name": "23 april 10.41, Övrigt, Göteborg",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Degerfors",
       "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 518901,
-    "datetime": "2024-04-23 11:23:19 +02:00",
-    "name": "23 april 11.20, Brand, Örebro",
-    "summary": "Det ryker från en fläkt på taket till ett flerfamiljshus på väster i Örebro.",
-    "url": "/aktuellt/handelser/2024/april/23/23-april-11.20-brand-orebro/",
-    "type": "Brand",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -1257,18 +1293,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 518700,
-    "datetime": "2024-04-21 15:58:06 +02:00",
-    "name": "21 april 10.05, Mord/dråp, Strömstad",
-    "summary": "Benrester anträffade utomhus som misstänks komma från en människa",
-    "url": "/aktuellt/handelser/2024/april/21/21-april-10.05-morddrap-stromstad/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Strömstad",
-      "gps": "58.938346,11.179187"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 518046,
-    "datetime": "2024-04-15 20:30:30 +02:00",
-    "name": "15 april 20.24, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträfat på Propellervägen/ Stenbackevägen i Örebro",
-    "url": "/aktuellt/handelser/2024/april/15/15-april-20.24-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 518056,
-    "datetime": "2024-04-15 21:31:18 +02:00",
-    "name": "15 april 18.41, Misshandel, grov, Ale",
-    "summary": "Smitning från trafikolycksplats och grov misshandel",
-    "url": "/aktuellt/handelser/2024/april/15/15-april-18.41-misshandel-grov-ale/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Ale",
-      "gps": "57.841175,12.029249"
     }
   }
 ]
