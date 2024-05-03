@@ -1,5 +1,65 @@
 [
   {
+    "id": 521297,
+    "datetime": "2024-05-03 16:41:49 +02:00",
+    "name": "03 maj 15.54, Brand, Lidingö",
+    "summary": "En brand uppstod på en båt.",
+    "url": "/aktuellt/handelser/2024/maj/3/03-maj-15.54-brand-lidingo/",
+    "type": "Brand",
+    "location": {
+      "name": "Lidingö",
+      "gps": "59.36296,18.1468"
+    }
+  },
+  {
+    "id": 521296,
+    "datetime": "2024-05-03 16:41:31 +02:00",
+    "name": "03 maj 13.37, Stöld, Umeå",
+    "summary": "Man misstänks för stöld i butik.",
+    "url": "/aktuellt/handelser/2024/maj/3/03-maj-13.37-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 521001,
+    "datetime": "2024-05-01 19:44:20 +02:00",
+    "name": "01 maj 19.40, Skyddslagen, Norrbottens län",
+    "summary": "Utländska medborgare greps för brott mot skyddslagen",
+    "url": "/aktuellt/handelser/2024/maj/1/01-maj-19.40-skyddslagen-norrbottens-lan/",
+    "type": "Skyddslagen",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 521295,
+    "datetime": "2024-05-03 16:25:10 +02:00",
+    "name": "03 maj 15.22, Trafikolycka, Södertälje",
+    "summary": "Två bilar inblande i trafikolycka på Mälarbron.",
+    "url": "/aktuellt/handelser/2024/maj/3/03-maj-15.22-trafikolycka-sodertalje/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 521294,
+    "datetime": "2024-05-03 16:24:37 +02:00",
+    "name": "03 maj 13.37, Rattfylleri, Gällivare",
+    "summary": "Rattfylleri på E10 Skaulo, Gällivare kommun.",
+    "url": "/aktuellt/handelser/2024/maj/3/03-maj-13.37-rattfylleri-gallivare/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
     "id": 521242,
     "datetime": "2024-05-03 12:24:40 +02:00",
     "name": "03 maj 12.23, Trafikolycka, Valdemarsvik",
@@ -1653,18 +1713,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 521001,
-    "datetime": "2024-05-01 19:44:20 +02:00",
-    "name": "01 maj 19.40, Skyddslagen, Norrbottens län",
-    "summary": "Utländska medborgare greps för brott mot skyddslagen",
-    "url": "/aktuellt/handelser/2024/maj/1/01-maj-19.40-skyddslagen-norrbottens-lan/",
-    "type": "Skyddslagen",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 519328,
-    "datetime": "2024-04-26 13:02:07 +02:00",
-    "name": "26 april 12.10, Brand, Skellefteå",
-    "summary": "Skelleftehamn, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/april/26/26-april-12.10-brand-skelleftea/",
-    "type": "Brand",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 519336,
-    "datetime": "2024-04-26 13:32:13 +02:00",
-    "name": "26 april 13.32, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/april/26/26-april-13.32-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 519335,
-    "datetime": "2024-04-26 13:26:13 +02:00",
-    "name": "26 april 13.26, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/april/26/26-april-13.26-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 519314,
-    "datetime": "2024-04-26 13:22:43 +02:00",
-    "name": "26 april 13.22, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/april/26/26-april-13.22-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
