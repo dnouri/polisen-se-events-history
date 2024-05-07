@@ -1,9 +1,57 @@
 [
   {
+    "id": 521732,
+    "datetime": "2024-05-07 15:45:49 +02:00",
+    "name": "07 maj 15.03, Trafikolycka, personskada, Vårgårda",
+    "summary": "Polis larmas efter att en person blivit påkörd av en bil.",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-15.03-trafikolycka-personskada-vargarda/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Vårgårda",
+      "gps": "58.032304,12.808976"
+    }
+  },
+  {
+    "id": 521734,
+    "datetime": "2024-05-07 15:58:42 +02:00",
+    "name": "07 maj 14.55, Fylleri/LOB, Sundsvall",
+    "summary": "Polispatrull i Stenstan omhändertar en kvinna som är berusad/påverkad.",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-14.55-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 521733,
+    "datetime": "2024-05-07 15:53:46 +02:00",
+    "name": "07 maj 15.41, Brand, Sjöbo",
+    "summary": "Larm om brand i radhus, Blentarp",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-15.41-brand-sjobo/",
+    "type": "Brand",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 521725,
+    "datetime": "2024-05-07 14:53:55 +02:00",
+    "name": "07 maj 14.47, Trafikolycka, Karlstad",
+    "summary": "En bilist har kolliderat med ett räcke på Mossgatan/Östra infarten",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-14.47-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 521731,
     "datetime": "2024-05-07 15:35:32 +02:00",
     "name": "07 maj 10.12, Olovlig körning, Västerås",
-    "summary": "En man i 75-års åldern rapporterad för grov olovlig körning två gånger inom tre timmar.",
+    "summary": "En man i 75-års åldern rapporterades för grov olovlig körning två gånger inom tre timmar.",
     "url": "/aktuellt/handelser/2024/maj/7/07-maj-10.12-olovlig-korning-vasteras/",
     "type": "Olovlig körning",
     "location": {
@@ -57,18 +105,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 521725,
-    "datetime": "2024-05-07 14:53:55 +02:00",
-    "name": "07 maj 14.47, Trafikolycka, Karlstad",
-    "summary": "En bilist har kolliderat med ett räcke på Mossgatan/Östra infarten",
-    "url": "/aktuellt/handelser/2024/maj/7/07-maj-14.47-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 520724,
-    "datetime": "2024-04-30 8:21:42 +02:00",
-    "name": "30 april 02.00, Stöld, Stockholm",
-    "summary": "En sovande man blir bestulen på sina skor.",
-    "url": "/aktuellt/handelser/2024/april/30/30-april-02.00-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 520676,
-    "datetime": "2024-04-29 21:35:59 +02:00",
-    "name": "29 april 20.52, Brand, Göteborg",
-    "summary": "Rökutveckling från lägenhet på Guldheden.",
-    "url": "/aktuellt/handelser/2024/april/29/29-april-20.52-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 520713,
-    "datetime": "2024-04-30 8:01:56 +02:00",
-    "name": "30 april 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2024/april/30/30-april-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
