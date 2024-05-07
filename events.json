@@ -1,5 +1,65 @@
 [
   {
+    "id": 521776,
+    "datetime": "2024-05-07 21:38:30 +02:00",
+    "name": "07 maj 20.28, Trafikbrott, Västerås",
+    "summary": "Polispatrull rapporterar förare för användning av mobiltelefon då denne framfört sin personbil.",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-20.28-trafikbrott-vasteras/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 521775,
+    "datetime": "2024-05-07 21:30:47 +02:00",
+    "name": "07 maj 21.01, Narkotikabrott, Örebro län",
+    "summary": "Flera narkotikabrott uppdagade efter personkontroller i Örebro län",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-21.01-narkotikabrott-orebro-lan/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 521774,
+    "datetime": "2024-05-07 21:23:52 +02:00",
+    "name": "07 maj 21.08, Brand, Västervik",
+    "summary": "Brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-21.08-brand-vastervik/",
+    "type": "Brand",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 521772,
+    "datetime": "2024-05-07 21:19:01 +02:00",
+    "name": "07 maj 20.42, Trafikkontroll, Skellefteå",
+    "summary": "Resultat efter nykterhetskontroll på riksväg 95, Stämningsgården.",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-20.42-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 521773,
+    "datetime": "2024-05-07 21:18:56 +02:00",
+    "name": "07 maj 20.40, Trafikkontroll, Umeå",
+    "summary": "Resultat efter trafikkontroll på Lärarstråket, Ålidhem.",
+    "url": "/aktuellt/handelser/2024/maj/7/07-maj-20.40-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 521771,
     "datetime": "2024-05-07 21:04:45 +02:00",
     "name": "07 maj 18.55, Skadegörelse, Luleå",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 520934,
-    "datetime": "2024-04-30 21:49:00 +02:00",
-    "name": "30 april 18.39, Rån, Mora",
-    "summary": "En man i femtioårsåldern utsattes vid halv åttatiden för ett rån i centrala Mora.",
-    "url": "/aktuellt/handelser/2024/april/30/30-april-18.39-ran-mora/",
-    "type": "Rån",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 520931,
-    "datetime": "2024-04-30 21:00:49 +02:00",
-    "name": "30 april 20.21, Kontroll person/fordon, Stockholm",
-    "summary": "Uppgifter om att en man springer runt med ett svärd på Skinnarviksberget visar sig vara videoinspelning.",
-    "url": "/aktuellt/handelser/2024/april/30/30-april-20.21-kontroll-personfordon-stockholm/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 520930,
-    "datetime": "2024-04-30 20:37:34 +02:00",
-    "name": "30 april 16.41, Alkohollagen, Stockholm",
-    "summary": "Polis larmas till centralstationen med anledning av alkoholförsäljning.",
-    "url": "/aktuellt/handelser/2024/april/30/30-april-16.41-alkohollagen-stockholm/",
-    "type": "Alkohollagen",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 520929,
-    "datetime": "2024-04-30 20:08:15 +02:00",
-    "name": "30 april 18.39, Rattfylleri, Gagnef",
-    "summary": "En kvinna i femtioårsåldern har omhändertagits misstänkt för rattfylleri.",
-    "url": "/aktuellt/handelser/2024/april/30/30-april-18.39-rattfylleri-gagnef/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Gagnef",
-      "gps": "60.590983,15.070049"
-    }
-  },
-  {
-    "id": 520928,
-    "datetime": "2024-04-30 19:26:41 +02:00",
-    "name": "30 april 13.36, Brand, Falun",
-    "summary": "En anmälan om allmänfarlig vårdslöshet har upprättats efter en brand i Falun under eftermiddagen.",
-    "url": "/aktuellt/handelser/2024/april/30/30-april-13.36-brand-falun/",
-    "type": "Brand",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   }
 ]
