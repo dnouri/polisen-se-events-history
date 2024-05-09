@@ -1,5 +1,89 @@
 [
   {
+    "id": 521956,
+    "datetime": "2024-05-09 7:24:00 +02:00",
+    "name": "09 maj 04.00, Misshandel, Stockholm",
+    "summary": "En patrull påträffar en man på Södermalm. Mannen uppger att han har blivit misshandlad.",
+    "url": "/aktuellt/handelser/2024/maj/9/09-maj-04.00-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 521954,
+    "datetime": "2024-05-09 7:20:09 +02:00",
+    "name": "09 maj 05.22, Knivlagen, Stockholm",
+    "summary": "En man i Liljeholmen frihetsberövades enligt lagen om omhändertagande av berusade personer.",
+    "url": "/aktuellt/handelser/2024/maj/9/09-maj-05.22-knivlagen-stockholm/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 521953,
+    "datetime": "2024-05-09 7:09:23 +02:00",
+    "name": "09 maj 03.22, Stöld/inbrott, Uppsala",
+    "summary": "Inbrott i nationsbyggnad.",
+    "url": "/aktuellt/handelser/2024/maj/9/09-maj-03.22-stoldinbrott-uppsala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 521952,
+    "datetime": "2024-05-09 7:06:33 +02:00",
+    "name": "09 maj 06.21, Brand, Malmö",
+    "summary": "Det brinner i ett garage och en villa norr om Åsljunga.",
+    "url": "/aktuellt/handelser/2024/maj/9/09-maj-06.21-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 521951,
+    "datetime": "2024-05-09 7:06:00 +02:00",
+    "name": "09 maj 06.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Nedan följer en sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2024/maj/9/09-maj-062.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 521949,
+    "datetime": "2024-05-09 6:51:31 +02:00",
+    "name": "09 maj 02.17, Misshandel, Helsingborg",
+    "summary": "Polis larmas till Billeplatsen med anledning av ett pågående slagsmål.",
+    "url": "/aktuellt/handelser/2024/maj/9/09-maj-02.17-misshandel-helsingborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 521948,
+    "datetime": "2024-05-09 6:45:21 +02:00",
+    "name": "09 maj 04.34, Brand, Malmö",
+    "summary": "Man i 55-årsåldern grips efter bilbrand.",
+    "url": "/aktuellt/handelser/2024/maj/9/09-maj-04.34-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 521947,
     "datetime": "2024-05-09 6:41:14 +02:00",
     "name": "09 maj 06.00, Sammanfattning kväll och natt, Hallands län",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Borgholm",
       "gps": "56.88023,16.656236"
-    }
-  },
-  {
-    "id": 521003,
-    "datetime": "2024-05-01 21:06:55 +02:00",
-    "name": "01 maj 18.12, Häleri, Eslöv",
-    "summary": "Man och kvinna som bråkat",
-    "url": "/aktuellt/handelser/2024/maj/1/01-maj-18.12-haleri-eslov/",
-    "type": "Häleri",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 521002,
-    "datetime": "2024-05-01 19:51:55 +02:00",
-    "name": "01 maj 19.44, Försvunnen person, Västerås",
-    "summary": "Man försvunnen i Skultuna.",
-    "url": "/aktuellt/handelser/2024/maj/1/01-maj-19.44-forsvunnen-person-vasteras/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 520998,
-    "datetime": "2024-05-01 15:56:10 +02:00",
-    "name": "01 maj 15.28, Skottlossning, Helsingborg",
-    "summary": "Kontroll efter höga smällar",
-    "url": "/aktuellt/handelser/2024/maj/1/01-maj-15.28-skottlossning-helsingborg/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 521000,
-    "datetime": "2024-05-01 19:03:50 +02:00",
-    "name": "01 maj 17.41, Stöld, Botkyrka",
-    "summary": "Polisen griper en man som stulit hemma hos en äldre kvinna.",
-    "url": "/aktuellt/handelser/2024/maj/1/01-maj-17.41-stold-botkyrka/",
-    "type": "Stöld",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 520971,
-    "datetime": "2024-05-01 10:49:03 +02:00",
-    "name": "01 maj 10.42, Polisinsats/kommendering, Malmö",
-    "summary": "Final Svenska Cupen fotboll mellan Malmö FF (MFF) och Djurgårdens IF (DIF) på Eleda Stadion i Malmö, 1 maj 202",
-    "url": "/aktuellt/handelser/2024/maj/1/01-maj-10.42-polisinsatskommendering-malmo/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 520999,
-    "datetime": "2024-05-01 16:40:11 +02:00",
-    "name": "01 maj 16.37, Övrigt, Norrköping",
-    "summary": "Polisen genomför en planerad insats i Hageby och Navestad",
-    "url": "/aktuellt/handelser/2024/maj/1/01-maj-16.37-ovrigt-norrkoping/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 520988,
-    "datetime": "2024-05-01 14:18:37 +02:00",
-    "name": "01 maj 14.07, Övrigt, Gislaved",
-    "summary": "Polis på plats efter stök vid allmän sammankomst",
-    "url": "/aktuellt/handelser/2024/maj/1/01-maj-14.07-ovrigt-gislaved/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Gislaved",
-      "gps": "57.2985,13.54326"
     }
   }
 ]
