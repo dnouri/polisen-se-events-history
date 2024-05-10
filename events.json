@@ -1,14 +1,74 @@
 [
   {
+    "id": 522111,
+    "datetime": "2024-05-10 19:09:21 +02:00",
+    "name": "10 maj 18.21, Trafikolycka, vilt, Krokom",
+    "summary": "Viltolycka på länsväg 339 i trakten av Lundsjön.",
+    "url": "/aktuellt/handelser/2024/maj/10/10-maj-18.21-trafikolycka-vilt-krokom/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
     "id": 522106,
     "datetime": "2024-05-10 18:36:32 +02:00",
-    "name": "10 maj 18.40, Skottlossning, misstänkt, Nyköping",
+    "name": "10 maj 18.40, Skottlossning, Nyköping",
     "summary": "Polisinsats i Nyköping efter misstänkt skottlossning.",
-    "url": "/aktuellt/handelser/2024/maj/10/10-maj-18.40-skottlossning-misstankt-nykoping/",
-    "type": "Skottlossning, misstänkt",
+    "url": "/aktuellt/handelser/2024/maj/10/10-maj-18.40-skottlossning-nykoping/",
+    "type": "Skottlossning",
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 522110,
+    "datetime": "2024-05-10 19:05:10 +02:00",
+    "name": "10 maj 17.37, Narkotikabrott, Stockholm",
+    "summary": "Person i Observatorielunden rapporterades för narkotikabrott.",
+    "url": "/aktuellt/handelser/2024/maj/10/10-maj-17.37-narkotikabrott-stockholm/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 522109,
+    "datetime": "2024-05-10 19:02:02 +02:00",
+    "name": "10 maj 18.07, Fylleri/LOB, Kiruna",
+    "summary": "Kiruna, person omhändertagen.",
+    "url": "/aktuellt/handelser/2024/maj/10/10-maj-18.07-fyllerilob-kiruna/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 522108,
+    "datetime": "2024-05-10 18:54:41 +02:00",
+    "name": "10 maj 09.30, Mord/dråp, Göteborg",
+    "summary": "Mord/dråp",
+    "url": "/aktuellt/handelser/2024/maj/10/10-maj-09.30-morddrap-goteborg/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 522107,
+    "datetime": "2024-05-10 18:45:00 +02:00",
+    "name": "10 maj 18.04, Trafikolycka, Malmö",
+    "summary": "Falsterboplan. Kollision mellan bilist och cyklist.",
+    "url": "/aktuellt/handelser/2024/maj/10/10-maj-18.04-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Berg",
       "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 521209,
-    "datetime": "2024-05-03 10:20:36 +02:00",
-    "name": "03 maj 10.20, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-10.20-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 521205,
-    "datetime": "2024-05-03 10:01:14 +02:00",
-    "name": "03 maj 10.01, Övrigt, Örebro län",
-    "summary": "Det regionala mediecentrer är i dag stängt mellan 10-11.30.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-10.01-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 521204,
-    "datetime": "2024-05-03 10:01:01 +02:00",
-    "name": "03 maj 10.00, Övrigt, Dalarnas län",
-    "summary": "Det regionala mediecentrer är i dag stängt mellan 10-11.30.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-10.00-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 521203,
-    "datetime": "2024-05-03 10:00:44 +02:00",
-    "name": "03 maj 10.00, Övrigt, Värmlands län",
-    "summary": "Det regionala mediecentrer är i dag stängt mellan 10-11.30.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-10.00-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 521202,
-    "datetime": "2024-05-03 9:54:14 +02:00",
-    "name": "03 maj 08.32, Trafikkontroll, Härnösand",
-    "summary": "Hovsgatan, resultat av trafikkontroll",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-08.32-trafikkontroll-harnosand/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   }
 ]
