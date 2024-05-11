@@ -1,5 +1,113 @@
 [
   {
+    "id": 522163,
+    "datetime": "2024-05-11 13:12:32 +02:00",
+    "name": "11 maj 12.17, Trafikolycka, personskada, Göteborg",
+    "summary": "Kollision mellan cyklist och bilist",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-12.17-trafikolycka-personskada-goteborg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 522162,
+    "datetime": "2024-05-11 13:12:10 +02:00",
+    "name": "11 maj 12.55, Trafikolycka, Ängelholm",
+    "summary": "MC i olycka med traktor, Ängelholm.",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-12.55-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 522161,
+    "datetime": "2024-05-11 13:09:28 +02:00",
+    "name": "11 maj 08.50, Skadegörelse, Sundsvall",
+    "summary": "Nacksta, polis kontaktas gällande klotter vid en hiss i en fastighet",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-08.50-skadegorelse-sundsvall/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 522160,
+    "datetime": "2024-05-11 13:06:26 +02:00",
+    "name": "11 maj 12.22, Stöld, Falun",
+    "summary": "Fyrhjulig stulen i Falu kommun",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-12.22-stold-falun/",
+    "type": "Stöld",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 522159,
+    "datetime": "2024-05-11 13:02:54 +02:00",
+    "name": "11 maj 08.42, Trafikkontroll, Sollefteå",
+    "summary": "Riksväg 90 Remsle, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-08.42-trafikkontroll-solleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 522143,
+    "datetime": "2024-05-11 8:02:59 +02:00",
+    "name": "11 maj 07.46, Farligt föremål, misstänkt, Malmö",
+    "summary": "Misstänkt farligt föremål, Rosengård.",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-07.46-farligt-foremal-misstankt-malmo/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 522158,
+    "datetime": "2024-05-11 12:58:51 +02:00",
+    "name": "11 maj 08.37, Trafikkontroll, Härnösand",
+    "summary": "Granudden, resultat efter trafikkontroll vid Södra vägen",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-08.37-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 522157,
+    "datetime": "2024-05-11 12:57:15 +02:00",
+    "name": "11 maj 09.37, Anträffad död, Karlshamn",
+    "summary": "Avliden man anträffad, Dalgången.",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-09.37-antraffad-dod-karlshamn/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 522156,
+    "datetime": "2024-05-11 12:52:03 +02:00",
+    "name": "11 maj 12.45, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, ett urval av polisens arbete i trafiken under morgon och förmiddag",
+    "url": "/aktuellt/handelser/2024/maj/11/11-maj-12.45-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 522155,
     "datetime": "2024-05-11 12:32:36 +02:00",
     "name": "11 maj 12.15, Rån, Haninge",
@@ -81,18 +189,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 522143,
-    "datetime": "2024-05-11 8:02:59 +02:00",
-    "name": "11 maj 07.46, Farligt föremål, misstänkt, Malmö",
-    "summary": "Misstänkt farligt föremål, Rosengård.",
-    "url": "/aktuellt/handelser/2024/maj/11/11-maj-07.46-farligt-foremal-misstankt-malmo/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 521327,
-    "datetime": "2024-05-03 20:51:40 +02:00",
-    "name": "03 maj 18.43, Fylleri/LOB, Östersund",
-    "summary": "Omhändertagen man misstänks för ringa narkotikabrott och våldsamt motstånd.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-18.43-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 521323,
-    "datetime": "2024-05-03 20:48:57 +02:00",
-    "name": "03 maj 18.50, Mord/dråp, försök, Örebro",
-    "summary": "En man i trettioårsåldern har gripits misstänkt för försök till mord.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-18.50-morddrap-forsok-orebro/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 521316,
-    "datetime": "2024-05-03 19:31:33 +02:00",
-    "name": "03 maj 16.21, Olaga hot, Arvidsjaur",
-    "summary": "Man gripen misstänkt för grovt olaga hot.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-16.21-olaga-hot-arvidsjaur/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Arvidsjaur",
-      "gps": "65.592077,19.180283"
-    }
-  },
-  {
-    "id": 521320,
-    "datetime": "2024-05-03 19:44:46 +02:00",
-    "name": "03 maj 19.44, Motorfordon, anträffat stulet, Norrbottens län",
-    "summary": "Polisen söker iakttagelser av stulen bil.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-19.44-motorfordon-antraffat-stulet-norrbottens-lan/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 521237,
-    "datetime": "2024-05-03 11:38:32 +02:00",
-    "name": "03 maj 11.10, Trafikolycka, personskada, Östhammar",
-    "summary": "Frontalkollision mellan lastbil och personbil.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-11.10-trafikolycka-personskada-osthammar/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Östhammar",
-      "gps": "60.259302,18.365341"
-    }
-  },
-  {
-    "id": 521314,
-    "datetime": "2024-05-03 19:05:32 +02:00",
-    "name": "03 maj 18.58, Trafikolycka, Landskrona",
-    "summary": "Personbil och motorcykel i olycka, Landskrona.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-18.58-trafikolycka-landskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 521313,
-    "datetime": "2024-05-03 18:57:45 +02:00",
-    "name": "03 maj 17.20, Stöld, Umeå",
-    "summary": "Ringa stöld ur matbutik på Ersboda.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-17.20-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 521312,
-    "datetime": "2024-05-03 18:46:28 +02:00",
-    "name": "03 maj 15.36, Rattfylleri, Orsa",
-    "summary": "Man i sjuttioårsåldern misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2024/maj/3/03-maj-15.36-rattfylleri-orsa/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
     }
   }
 ]
