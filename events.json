@@ -1,5 +1,101 @@
 [
   {
+    "id": 522233,
+    "datetime": "2024-05-12 14:24:06 +02:00",
+    "name": "12 maj 12.20, Skadegörelse, Karlstad",
+    "summary": "Två pojkar i yngre tonåringar misstänks ha klottrat i Karlstad",
+    "url": "/aktuellt/handelser/2024/maj/12/12-maj-12.20-skadegorelse-karlstad/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 522232,
+    "datetime": "2024-05-12 14:18:20 +02:00",
+    "name": "12 maj 14.02, Misshandel, Örebro",
+    "summary": "Man misstänkt för misshandel av kvinna",
+    "url": "/aktuellt/handelser/2024/maj/12/12-maj-14.02-misshandel-orebro/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 522231,
+    "datetime": "2024-05-12 14:04:18 +02:00",
+    "name": "12 maj 14.00, Övrigt, Luleå",
+    "summary": "Mjölkudden, under lördagseftermiddagen kontaktades polisen gällande misstänkt narkotika utomhus",
+    "url": "/aktuellt/handelser/2024/maj/12/12-maj-14.00-ovrigt-lulea/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 522230,
+    "datetime": "2024-05-12 14:02:00 +02:00",
+    "name": "12 maj 13.57, Trafikolycka, Örebro",
+    "summary": "Två bilister ha kolliderat på Vivallaringen",
+    "url": "/aktuellt/handelser/2024/maj/12/12-maj-13.57-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 522229,
+    "datetime": "2024-05-12 13:58:54 +02:00",
+    "name": "12 maj 13.57, Stöld, Värmlands län",
+    "summary": "Tre gärningsmän frihetsberövade misstänkta för stöld av fyrhjulingar",
+    "url": "/aktuellt/handelser/2024/maj/12/12-maj-13.57-stold-varmlands-lan/",
+    "type": "Stöld",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 522210,
+    "datetime": "2024-05-12 7:45:55 +02:00",
+    "name": "12 maj 07.45, Sammanfattning natt, Dalarnas län",
+    "summary": "Nedan följer ett urval av nattens händelser i polisområde Dalarna",
+    "url": "/aktuellt/handelser/2024/maj/11/12-maj-07.45-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 522211,
+    "datetime": "2024-05-12 7:46:02 +02:00",
+    "name": "12 maj 07.45, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer ett urval av nattens händelser i polisområde Örebro",
+    "url": "/aktuellt/handelser/2024/maj/11/12-maj-07.45-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 522215,
+    "datetime": "2024-05-12 8:38:20 +02:00",
+    "name": "12 maj 06.42, Rattfylleri, Skövde",
+    "summary": "Rattfylleri",
+    "url": "/aktuellt/handelser/2024/maj/12/12-maj-06.42-rattfylleri-skovde/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
     "id": 522228,
     "datetime": "2024-05-12 13:23:50 +02:00",
     "name": "12 maj 12.51, Trafikolycka, Göteborg",
@@ -240,18 +336,6 @@
     }
   },
   {
-    "id": 522215,
-    "datetime": "2024-05-12 8:38:20 +02:00",
-    "name": "12 maj 06.42, Rattfylleri, Mariestad",
-    "summary": "Rattfylleri",
-    "url": "/aktuellt/handelser/2024/maj/12/12-maj-06.42-rattfylleri-mariestad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Mariestad",
-      "gps": "58.710112,13.821333"
-    }
-  },
-  {
     "id": 522214,
     "datetime": "2024-05-12 8:13:10 +02:00",
     "name": "11 maj 21.56, Brand, Umeå",
@@ -285,30 +369,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 522211,
-    "datetime": "2024-05-12 7:46:02 +02:00",
-    "name": "11 maj 07.45, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer ett urval av nattens händelser i polisområde Örebro",
-    "url": "/aktuellt/handelser/2024/maj/11/11-maj-072.45-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 522210,
-    "datetime": "2024-05-12 7:45:55 +02:00",
-    "name": "11 maj 07.45, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer ett urval av nattens händelser i polisområde Dalarna",
-    "url": "/aktuellt/handelser/2024/maj/11/11-maj-072.45-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 521393,
-    "datetime": "2024-05-04 20:33:25 +02:00",
-    "name": "04 maj 17.31, Ekobrott, Sigtuna",
-    "summary": "Person på Arlanda påträffas med en klocka som tas i beslag.",
-    "url": "/aktuellt/handelser/2024/maj/4/04-maj-17.31-ekobrott-sigtuna/",
-    "type": "Ekobrott",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 521386,
-    "datetime": "2024-05-04 14:39:57 +02:00",
-    "name": "04 maj 14.10, Trafikolycka, Dals-ed",
-    "summary": "En personbil är involverad i en olycka på länsväg 164 vid Loviseholm.",
-    "url": "/aktuellt/handelser/2024/maj/4/04-maj-14.10-trafikolycka-dals-ed/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dals-ed",
-      "gps": "58.974388,11.865175"
-    }
-  },
-  {
-    "id": 521390,
-    "datetime": "2024-05-04 16:39:31 +02:00",
-    "name": "04 maj 14.19, Misshandel, Stockholm",
-    "summary": "En man grips misstänkt för att ha misshandlat sin fru.",
-    "url": "/aktuellt/handelser/2024/maj/4/04-maj-14.19-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 521389,
-    "datetime": "2024-05-04 16:17:06 +02:00",
-    "name": "04 maj 14.50, Misshandel, Göteborg",
-    "summary": "Vi får larm om ett bråk vid en loppis i anslutning till Slottsskogen.",
-    "url": "/aktuellt/handelser/2024/maj/4/04-maj-14.50-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 521388,
-    "datetime": "2024-05-04 15:47:46 +02:00",
-    "name": "04 maj 13.52, Misshandel, Södertälje",
-    "summary": "En man gripen misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2024/maj/4/04-maj-13.52-misshandel-sodertalje/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
