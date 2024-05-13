@@ -1,5 +1,89 @@
 [
   {
+    "id": 523428,
+    "datetime": "2024-05-13 15:16:22 +02:00",
+    "name": "13 maj 14.35, Trafikolycka, Göteborg",
+    "summary": "En bilist och en fotgängare är involverade i en olycka på Marconigatan.",
+    "url": "/aktuellt/handelser/2024/maj/13/13-maj-14.35-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 523426,
+    "datetime": "2024-05-13 15:12:33 +02:00",
+    "name": "13 maj 13.05, Stöld, Umeå",
+    "summary": "Misstänkt ringa stöld i klädbutik i centrala Umeå.",
+    "url": "/aktuellt/handelser/2024/maj/13/13-maj-13.05-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 523425,
+    "datetime": "2024-05-13 15:11:20 +02:00",
+    "name": "13 maj 14.34, Trafikolycka, Hässleholm",
+    "summary": "En trafikolycka inträffar på Norra vägen/Ringvägen i Bjärnum.",
+    "url": "/aktuellt/handelser/2024/maj/13/13-maj-14.34-trafikolycka-hassleholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 523417,
+    "datetime": "2024-05-13 14:56:09 +02:00",
+    "name": "13 maj 14.54, Övrigt, Norrköping",
+    "summary": "Uppdatering gällande grovt brott i Norrköping",
+    "url": "/aktuellt/handelser/2024/maj/13/13-maj-14.54-ovrigt-norrkoping/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 523415,
+    "datetime": "2024-05-13 14:50:13 +02:00",
+    "name": "13 maj 12.33, Trafikolycka, Stockholm",
+    "summary": "En personbilsförare körde på flera andra personbilar i Älvsjö.",
+    "url": "/aktuellt/handelser/2024/maj/13/13-maj-12.33-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 523414,
+    "datetime": "2024-05-13 14:46:58 +02:00",
+    "name": "13 maj 14.09, Trafikolycka, Falun",
+    "summary": "En cyklist och bilist är inblandade i en olycka i Falun",
+    "url": "/aktuellt/handelser/2024/maj/13/13-maj-14.09-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 523413,
+    "datetime": "2024-05-13 14:43:09 +02:00",
+    "name": "13 maj 14.14, Trafikolycka, personskada, Säffle",
+    "summary": "Personbil och MC har kolliderat i Säffle",
+    "url": "/aktuellt/handelser/2024/maj/13/13-maj-14.14-trafikolycka-personskada-saffle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
     "id": 523412,
     "datetime": "2024-05-13 14:34:31 +02:00",
     "name": "13 maj 13.43, Stöld, försök, Malmö",
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 521450,
-    "datetime": "2024-05-05 18:59:00 +02:00",
-    "name": "05 maj 17.26, Försvunnen person, Uppsala",
-    "summary": "Försvunnen kvinna i Uppsala anträffad efter mindre sökinsats",
-    "url": "/aktuellt/handelser/2024/maj/5/05-maj-17.26-forsvunnen-person-uppsala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 521443,
-    "datetime": "2024-05-05 15:07:03 +02:00",
-    "name": "05 maj 13.31, Försvunnen person, Eskilstuna",
-    "summary": "Kvinna försvunnen i Årby, Eskilstuna",
-    "url": "/aktuellt/handelser/2024/maj/5/05-maj-13.31-forsvunnen-person-eskilstuna/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 521449,
-    "datetime": "2024-05-05 17:28:04 +02:00",
-    "name": "05 maj 11.55, Arbetsplatsolycka, Ängelholm",
-    "summary": "Misstänkt arbetsmiljöbrott i Munka-Ljungby.",
-    "url": "/aktuellt/handelser/2024/maj/5/05-maj-11.55-arbetsplatsolycka-angelholm/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 521438,
-    "datetime": "2024-05-05 15:00:16 +02:00",
-    "name": "05 maj 15.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 15.00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/maj/5/05-maj-15.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 521437,
-    "datetime": "2024-05-05 15:00:10 +02:00",
-    "name": "05 maj 15.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 15.00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/maj/5/05-maj-15.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 521431,
-    "datetime": "2024-05-05 12:04:49 +02:00",
-    "name": "05 maj 11.38, Brand, Vänersborg",
-    "summary": "En villa som inhyser en restaurang brinner i Frändefors.",
-    "url": "/aktuellt/handelser/2024/maj/5/05-maj-11.38-brand-vanersborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 521439,
-    "datetime": "2024-05-05 14:42:19 +02:00",
-    "name": "05 maj 13.19, Misshandel, Växjö",
-    "summary": "Polis larmas till Sommarvägen med anledning av en misshandel.",
-    "url": "/aktuellt/handelser/2024/maj/5/05-maj-13.19-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
