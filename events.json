@@ -1,14 +1,26 @@
 [
   {
-    "id": 523525,
-    "datetime": "2024-05-14 12:23:03 +02:00",
-    "name": "14 maj 11.48, Trafikolycka, Båstad",
-    "summary": "Larm om trafikolycka, Ö Karup",
-    "url": "/aktuellt/handelser/2024/maj/14/14-maj-11.48-trafikolycka-bastad/",
+    "id": 523541,
+    "datetime": "2024-05-14 12:42:19 +02:00",
+    "name": "14 maj 12.42, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/maj/14/14-maj-12.42-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 523534,
+    "datetime": "2024-05-14 12:39:51 +02:00",
+    "name": "14 maj 12.25, Trafikolycka, Borlänge",
+    "summary": "A-traktor uppges ha körts in i ett parkerat fordon på Gyllhemsvägen i Borlänge.",
+    "url": "/aktuellt/handelser/2024/maj/14/14-maj-12.25-trafikolycka-borlange/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Båstad",
-      "gps": "56.427389,12.847722"
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -21,6 +33,30 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 523533,
+    "datetime": "2024-05-14 12:37:55 +02:00",
+    "name": "14 maj 12.16, Narkotikabrott, Östersund",
+    "summary": "Man misstänks för ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2024/maj/14/14-maj-12.16-narkotikabrott-ostersund/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 523525,
+    "datetime": "2024-05-14 12:23:03 +02:00",
+    "name": "14 maj 11.48, Trafikolycka, Båstad",
+    "summary": "Larm om trafikolycka, Ö Karup",
+    "url": "/aktuellt/handelser/2024/maj/14/14-maj-11.48-trafikolycka-bastad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Båstad",
+      "gps": "56.427389,12.847722"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 521590,
-    "datetime": "2024-05-06 17:58:58 +02:00",
-    "name": "06 maj 16.49, Brand, Köping",
-    "summary": "Brand i buss.",
-    "url": "/aktuellt/handelser/2024/maj/6/06-maj-16.49-brand-koping/",
-    "type": "Brand",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 521589,
-    "datetime": "2024-05-06 17:54:20 +02:00",
-    "name": "06 maj 16.16, Rattfylleri, Sundsvall",
-    "summary": "Sundsvall, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/maj/6/06-maj-16.16-rattfylleri-sundsvall/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 521581,
-    "datetime": "2024-05-06 16:19:35 +02:00",
-    "name": "06 maj 15.44, Trafikolycka, Sundsvall",
-    "summary": "Gudmundsbyn, larm om påkörd person",
-    "url": "/aktuellt/handelser/2024/maj/6/06-maj-15.44-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
