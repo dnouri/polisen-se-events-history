@@ -1,5 +1,101 @@
 [
   {
+    "id": 524102,
+    "datetime": "2024-05-17 12:22:52 +02:00",
+    "name": "17 maj 11.49, Arbetsplatsolycka, Karlshamn",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2024/maj/17/17-maj-11.49-arbetsplatsolycka-karlshamn/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 524100,
+    "datetime": "2024-05-17 12:18:48 +02:00",
+    "name": "17 maj 08.35, Stöld/inbrott, Enköping",
+    "summary": "Stulna värmepumpar från förskola.",
+    "url": "/aktuellt/handelser/2024/maj/17/17-maj-08.35-stoldinbrott-enkoping/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 524099,
+    "datetime": "2024-05-17 12:15:52 +02:00",
+    "name": "17 maj 12.12, Övrigt, Värmlands län",
+    "summary": "Polisens regionala mediecenter stänger vid 14.",
+    "url": "/aktuellt/handelser/2024/maj/17/17-maj-12.12-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 524098,
+    "datetime": "2024-05-17 12:15:42 +02:00",
+    "name": "17 maj 12.12, Övrigt, Dalarnas län",
+    "summary": "Polisens regionala mediecenter stänger vid 14.",
+    "url": "/aktuellt/handelser/2024/maj/17/17-maj-12.12-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 524097,
+    "datetime": "2024-05-17 12:15:22 +02:00",
+    "name": "17 maj 12.12, Övrigt, Örebro län",
+    "summary": "Polisens regionala mediecenter stänger vid 14.",
+    "url": "/aktuellt/handelser/2024/maj/17/17-maj-12.12-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 524070,
+    "datetime": "2024-05-17 8:51:26 +02:00",
+    "name": "17 maj 08.38, Arbetsplatsolycka, Sölvesborg",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2024/maj/17/17-maj-08.38-arbetsplatsolycka-solvesborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 524095,
+    "datetime": "2024-05-17 12:03:21 +02:00",
+    "name": "17 maj 10.17, Fylleri/LOB, Luleå",
+    "summary": "Innerstaden, polis beordras till Innerstaden med anledning av påverkad, högljudd man",
+    "url": "/aktuellt/handelser/2024/maj/17/17-maj-10.17-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 524094,
+    "datetime": "2024-05-17 11:56:31 +02:00",
+    "name": "17 maj 07.52, Trafikkontroll, Östersund",
+    "summary": "Torvalla, resultat efter nykterhetskontroll vid Fäboleden/Storfjällvägen",
+    "url": "/aktuellt/handelser/2024/maj/17/17-maj-07.52-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 524084,
     "datetime": "2024-05-17 11:19:53 +02:00",
     "name": "17 maj 09.55, Brand, Kungsbacka",
@@ -45,18 +141,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 524070,
-    "datetime": "2024-05-17 8:51:26 +02:00",
-    "name": "17 maj 08.38, Arbetsplatsolycka, Sölvesborg",
-    "summary": "Larm om misstänkt arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2024/maj/17/17-maj-08.38-arbetsplatsolycka-solvesborg/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Ekerö",
       "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 521986,
-    "datetime": "2024-05-09 15:02:12 +02:00",
-    "name": "09 maj 15.00, Övrigt, Hallands län",
-    "summary": "Efter kl.15.00 idag besvaras medias frågor av vakthavande befäl, i mån av tid,",
-    "url": "/aktuellt/handelser/2024/maj/9/09-maj-15.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 521985,
-    "datetime": "2024-05-09 15:01:32 +02:00",
-    "name": "09 maj 15.00, Övrigt, Västra Götalands län",
-    "summary": "Efter kl.15.00 idag besvaras medias frågor av vakthavande befäl, i mån av tid,",
-    "url": "/aktuellt/handelser/2024/maj/9/09-maj-15.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 521983,
-    "datetime": "2024-05-09 14:30:41 +02:00",
-    "name": "09 maj 14.30, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från kontroller i trafiken.",
-    "url": "/aktuellt/handelser/2024/maj/9/09-maj-14.30-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 521978,
-    "datetime": "2024-05-09 14:27:32 +02:00",
-    "name": "08 maj 13.05, Mord/dråp, Filipstad",
-    "summary": "En förundersökning om mord har inletts",
-    "url": "/aktuellt/handelser/2024/maj/8/08-maj-13.05-morddrap-filipstad/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Filipstad",
-      "gps": "59.713997,14.169845"
-    }
-  },
-  {
-    "id": 521977,
-    "datetime": "2024-05-09 14:13:13 +02:00",
-    "name": "09 maj 09.10, Stöld/inbrott, Vänersborg",
-    "summary": "Två personer grips misstänkta för stöld av cyklar.",
-    "url": "/aktuellt/handelser/2024/maj/9/09-maj-09.10-stoldinbrott-vanersborg/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 521982,
-    "datetime": "2024-05-09 14:18:11 +02:00",
-    "name": "09 maj 14.18, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/maj/9/09-maj-14.18-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 521981,
-    "datetime": "2024-05-09 14:16:37 +02:00",
-    "name": "09 maj 14.16, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/maj/9/09-maj-14.16-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
