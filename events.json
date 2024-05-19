@@ -1,5 +1,41 @@
 [
   {
+    "id": 524306,
+    "datetime": "2024-05-19 12:20:21 +02:00",
+    "name": "19 maj 12.12, Brand, Hagfors",
+    "summary": "Larm om brand i byggnad",
+    "url": "/aktuellt/handelser/2024/maj/19/19-maj-12.12-brand-hagfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Hagfors",
+      "gps": "60.03437,13.694508"
+    }
+  },
+  {
+    "id": 524305,
+    "datetime": "2024-05-19 12:19:39 +02:00",
+    "name": "19 maj 12.06, Brand, Göteborg",
+    "summary": "Vi har fått in ett larm om brand i Högsbo.",
+    "url": "/aktuellt/handelser/2024/maj/19/19-maj-12.06-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 524300,
+    "datetime": "2024-05-19 10:39:16 +02:00",
+    "name": "19 maj 10.35, Trafikolycka, Jönköping",
+    "summary": "Trafikolycka med två personbilar på riksväg 40.",
+    "url": "/aktuellt/handelser/2024/maj/19/19-maj-10.35-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
     "id": 524304,
     "datetime": "2024-05-19 11:40:36 +02:00",
     "name": "19 maj 11.40, Försvunnen person, Sundsvall",
@@ -57,18 +93,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 524300,
-    "datetime": "2024-05-19 10:39:16 +02:00",
-    "name": "19 maj 10.35, Trafikolycka, Jönköping",
-    "summary": "Trafikolycka med två personbilar på riksväg 40.",
-    "url": "/aktuellt/handelser/2024/maj/19/19-maj-10.35-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 522202,
-    "datetime": "2024-05-12 7:18:05 +02:00",
-    "name": "12 maj 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats",
-    "url": "/aktuellt/handelser/2024/maj/12/12-maj-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 522201,
-    "datetime": "2024-05-12 7:14:41 +02:00",
-    "name": "12 maj 04.00, Trafikbrott, Ronneby",
-    "summary": "Förföljande, Listerby.",
-    "url": "/aktuellt/handelser/2024/maj/12/12-maj-04.00-trafikbrott-ronneby/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
     }
   }
 ]
