@@ -1,5 +1,101 @@
 [
   {
+    "id": 525424,
+    "datetime": "2024-05-20 13:32:57 +02:00",
+    "name": "20 maj 12.50, Trafikolycka, Malå",
+    "summary": "Larm om trafikolycka i Malå.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-12.50-trafikolycka-mala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malå",
+      "gps": "65.18512,18.74907"
+    }
+  },
+  {
+    "id": 525423,
+    "datetime": "2024-05-20 13:31:51 +02:00",
+    "name": "20 maj 13.18, Trafikhinder, Karlstad",
+    "summary": "En lastbil blockerar allt trafik",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-13.18-trafikhinder-karlstad/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 525422,
+    "datetime": "2024-05-20 13:30:26 +02:00",
+    "name": "20 maj 09.39, Misshandel, grov, Borlänge",
+    "summary": "En man har gripits misstänkt för grov misshandel",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-09.39-misshandel-grov-borlange/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 525421,
+    "datetime": "2024-05-20 13:30:17 +02:00",
+    "name": "20 maj 11.59, Arbetsplatsolycka, Hudiksvall",
+    "summary": "Man skadad på arbetsplats.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-11.59-arbetsplatsolycka-hudiksvall/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 525410,
+    "datetime": "2024-05-20 12:43:19 +02:00",
+    "name": "20 maj 12.12, Trafikolycka, Umeå",
+    "summary": "Trafikolycka i rondellen E4/länsväg 541, Alvik.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-12.12-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 525418,
+    "datetime": "2024-05-20 13:28:34 +02:00",
+    "name": "20 maj 07.17, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer ett urval av nattens operativa händelser i länet",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-072.17-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 525417,
+    "datetime": "2024-05-20 13:23:08 +02:00",
+    "name": "20 maj 11.19, Trafikolycka, personskada, Gävle",
+    "summary": "Kollision mellan personbil och MC.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-11.19-trafikolycka-personskada-gavle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 525409,
+    "datetime": "2024-05-20 12:45:03 +02:00",
+    "name": "20 maj 10.09, Rattfylleri, Kungsbacka",
+    "summary": "Allmänhet kontaktar polisen om ett misstänkt rattfylleri på väg 976, Tölö.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-10.09-rattfylleri-kungsbacka/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
     "id": 525397,
     "datetime": "2024-05-20 13:18:06 +02:00",
     "name": "20 maj 09.12, Knivlagen, Umeå",
@@ -33,30 +129,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 525409,
-    "datetime": "2024-05-20 12:45:03 +02:00",
-    "name": "20 maj 10.09, Rattfylleri, Kungsbacka",
-    "summary": "Allmänhet kontaktar polisen om ett misstänkt rattfylleri på väg 976, Tölö.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-10.09-rattfylleri-kungsbacka/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 525410,
-    "datetime": "2024-05-20 12:43:19 +02:00",
-    "name": "20 maj 12.12, Trafikolycka, Umeå",
-    "summary": "Trafikolycka i rondellen E4/länsväg 541, Alvik.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-12.12-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 523322,
-    "datetime": "2024-05-13 10:09:02 +02:00",
-    "name": "13 maj 06.14, Stöld, Österåker",
-    "summary": "Samtal kom in om en stulen båt som drev i Trälhavet.",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-06.14-stold-osteraker/",
-    "type": "Stöld",
-    "location": {
-      "name": "Österåker",
-      "gps": "59.500058,18.352485"
-    }
-  },
-  {
-    "id": 523268,
-    "datetime": "2024-05-13 8:12:12 +02:00",
-    "name": "13 maj 07.44, Trafikolycka, Skellefteå",
-    "summary": "Trafikolycka på E4 söder om Kåge, Skellefteå.",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-07.44-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 523254,
-    "datetime": "2024-05-13 7:00:23 +02:00",
-    "name": "13 maj 06.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-06.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 523265,
-    "datetime": "2024-05-13 7:34:59 +02:00",
-    "name": "13 maj 07.03, Trafikolycka, Örebro",
-    "summary": "Cyklist påkörd av bilist",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-07.03-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 522234,
-    "datetime": "2024-05-12 15:09:36 +02:00",
-    "name": "12 maj 15.07, Övrigt, Lessebo",
-    "summary": "Polisen efterlyser tips i mordutredning.",
-    "url": "/aktuellt/handelser/2024/maj/12/12-maj-15.07-ovrigt-lessebo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Lessebo",
-      "gps": "56.751264,15.270001"
-    }
-  },
-  {
-    "id": 523259,
-    "datetime": "2024-05-13 7:58:49 +02:00",
-    "name": "13 maj 07.58, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-07.58-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
