@@ -1,14 +1,26 @@
 [
   {
-    "id": 525356,
-    "datetime": "2024-05-20 8:36:21 +02:00",
-    "name": "20 maj 08.22, Trafikolycka, Lerum",
-    "summary": "Tre lastbilar som kolliderat i norrgående riktning mot Alingsås, E20.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-08.22-trafikolycka-lerum/",
+    "id": 525366,
+    "datetime": "2024-05-20 9:19:07 +02:00",
+    "name": "20 maj 08.00, Trafikkontroll, Skellefteå",
+    "summary": "Resultat efter trafikkontroll på Bolidenvägen, Degerbyn.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-08.00-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 525344,
+    "datetime": "2024-05-20 7:53:19 +02:00",
+    "name": "20 maj 07.29, Trafikolycka, Örnsköldsvik",
+    "summary": "Larm om trafikolycka på Ångermanlandsgatan, Gullänget.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-07.29-trafikolycka-ornskoldsvik/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Lerum",
-      "gps": "57.769484,12.26882"
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -21,6 +33,42 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 525364,
+    "datetime": "2024-05-20 8:56:36 +02:00",
+    "name": "20 maj 07.21, Brand, Uppsala",
+    "summary": "Brand på avfallsanläggning.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-07.21-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 525356,
+    "datetime": "2024-05-20 8:36:21 +02:00",
+    "name": "20 maj 08.22, Trafikolycka, Lerum",
+    "summary": "Tre lastbilar som kolliderat i norrgående riktning mot Alingsås, E20.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-08.22-trafikolycka-lerum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 525361,
+    "datetime": "2024-05-20 8:46:40 +02:00",
+    "name": "20 maj 07.46, Trafikkontroll, Krokom",
+    "summary": "Resultat efter nykterhetskontroll på E14, Ås.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-07.46-trafikkontroll-krokom/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
     }
   },
   {
@@ -93,18 +141,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 525344,
-    "datetime": "2024-05-20 7:53:19 +02:00",
-    "name": "20 maj 07.29, Trafikolycka, Örnsköldsvik",
-    "summary": "Larm om trafikolycka på Ångermanlandsgatan, Gullänget.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-07.29-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Ronneby",
       "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 523248,
-    "datetime": "2024-05-13 6:31:43 +02:00",
-    "name": "13 maj 02.48, Rattfylleri, Kalmar",
-    "summary": "Misstänkt rattfylleri på Norra vägen.",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-02.48-rattfylleri-kalmar/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 523247,
-    "datetime": "2024-05-13 4:13:58 +02:00",
-    "name": "13 maj 03.49, Stöld, Uppsala",
-    "summary": "Cykel stals med hjälp av vinkelslip",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-03.49-stold-uppsala/",
-    "type": "Stöld",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 523246,
-    "datetime": "2024-05-13 0:26:57 +02:00",
-    "name": "13 maj 18.09, Våld/hot mot tjänsteman, Uppsala",
-    "summary": "Man började bråka med väktare i parkeringshus och blev hundbiten",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-18.09-valdhot-mot-tjansteman-uppsala/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
