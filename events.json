@@ -1,5 +1,65 @@
 [
   {
+    "id": 525379,
+    "datetime": "2024-05-20 10:23:48 +02:00",
+    "name": "20 maj 10.12, Trafikolycka, vilt, Östersund",
+    "summary": "Polisen får in en anmälan om en viltolycka på E45, Ångsta.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-10.12-trafikolycka-vilt-ostersund/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 525380,
+    "datetime": "2024-05-20 10:22:33 +02:00",
+    "name": "20 maj 08.58, Brand, Hjo",
+    "summary": "Det brinner i en byggnad söder om Hjo.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-08.58-brand-hjo/",
+    "type": "Brand",
+    "location": {
+      "name": "Hjo",
+      "gps": "58.30707,14.287466"
+    }
+  },
+  {
+    "id": 525356,
+    "datetime": "2024-05-20 8:36:21 +02:00",
+    "name": "20 maj 08.22, Trafikolycka, Lerum",
+    "summary": "Tre lastbilar som kolliderat i norrgående riktning mot Alingsås, E20.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-08.22-trafikolycka-lerum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 525375,
+    "datetime": "2024-05-20 9:55:22 +02:00",
+    "name": "20 maj 09.52, Övrigt, Eskilstuna",
+    "summary": "Höga smällar i Torshälla",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-09.52-ovrigt-eskilstuna/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 525354,
+    "datetime": "2024-05-20 8:11:03 +02:00",
+    "name": "20 maj 07.35, Trafikolycka, Göteborg",
+    "summary": "Två personbilar har kolliderat på Hisingsleden, Tuve.",
+    "url": "/aktuellt/handelser/2024/maj/20/20-maj-07.35-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 525366,
     "datetime": "2024-05-20 9:19:07 +02:00",
     "name": "20 maj 08.00, Trafikkontroll, Skellefteå",
@@ -48,18 +108,6 @@
     }
   },
   {
-    "id": 525356,
-    "datetime": "2024-05-20 8:36:21 +02:00",
-    "name": "20 maj 08.22, Trafikolycka, Lerum",
-    "summary": "Tre lastbilar som kolliderat i norrgående riktning mot Alingsås, E20.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-08.22-trafikolycka-lerum/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lerum",
-      "gps": "57.769484,12.26882"
-    }
-  },
-  {
     "id": 525361,
     "datetime": "2024-05-20 8:46:40 +02:00",
     "name": "20 maj 07.46, Trafikkontroll, Krokom",
@@ -81,18 +129,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 525354,
-    "datetime": "2024-05-20 8:11:03 +02:00",
-    "name": "20 maj 07.35, Trafikolycka, Göteborg",
-    "summary": "Två personbilar har kolliderat på Hisingsleden, Tuve.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-07.35-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 523252,
-    "datetime": "2024-05-13 6:51:02 +02:00",
-    "name": "13 maj 00.53, Brand, Eslöv",
-    "summary": "Brand i byggnad på Gustavslundsvägen.",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-00.53-brand-eslov/",
-    "type": "Brand",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 523251,
-    "datetime": "2024-05-13 6:48:02 +02:00",
-    "name": "13 maj 06.47, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-06.47-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 523250,
-    "datetime": "2024-05-13 6:41:08 +02:00",
-    "name": "13 maj 03.10, Trafikolycka, Ronneby",
-    "summary": "Singelolycka på Rv27 vid trafikplats Kallinge.",
-    "url": "/aktuellt/handelser/2024/maj/13/13-maj-03.10-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
     }
   }
 ]
