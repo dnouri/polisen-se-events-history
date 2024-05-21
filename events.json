@@ -1,5 +1,65 @@
 [
   {
+    "id": 525583,
+    "datetime": "2024-05-21 17:20:00 +02:00",
+    "name": "21 maj 14.15, Narkotikabrott, Umeå",
+    "summary": "Väst på stan, polisen kontrollerar en man i 20-årsåldern",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-14.15-narkotikabrott-umea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 525582,
+    "datetime": "2024-05-21 17:15:14 +02:00",
+    "name": "21 maj 15.09, Stöld, Luleå",
+    "summary": "Polisen larmas om stöld i butiker vid två tillfällen under eftermiddagen",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-15.09-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 525581,
+    "datetime": "2024-05-21 17:14:54 +02:00",
+    "name": "21 maj 16.45, Misshandel, Göteborg",
+    "summary": "En ordningsvakt kontaktar polisen och uppger att en person blivit skuren med ett vasst föremål. Oklart skadelä",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-16.45-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 525580,
+    "datetime": "2024-05-21 17:05:43 +02:00",
+    "name": "21 maj 15.52, Brand, Uppsala",
+    "summary": "Brand vid bensinstation.",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-15.52-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 525566,
+    "datetime": "2024-05-21 15:04:47 +02:00",
+    "name": "21 maj 14.26, Trafikolycka, Mölndal",
+    "summary": "På E6, mellan Torrekullamotet och Åbromotet i norrgående färdriktning, har en lastbil kört sönder en del av et",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-14.26-trafikolycka-molndal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
     "id": 525578,
     "datetime": "2024-05-21 16:38:53 +02:00",
     "name": "21 maj 16.37, Brand, Eskilstuna",
@@ -9,6 +69,18 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 525568,
+    "datetime": "2024-05-21 15:27:58 +02:00",
+    "name": "21 maj 15.21, Trafikolycka, Malung-Sälen",
+    "summary": "En person påbackad av A-traktor vid skola i Malung",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-15.21-trafikolycka-malung-salen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
     }
   },
   {
@@ -60,18 +132,6 @@
     }
   },
   {
-    "id": 525568,
-    "datetime": "2024-05-21 15:27:58 +02:00",
-    "name": "21 maj 15.21, Trafikolycka, Malung-Sälen",
-    "summary": "En person påbackad av A-traktor vid skola i Malung",
-    "url": "/aktuellt/handelser/2024/maj/21/21-maj-15.21-trafikolycka-malung-salen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
-    }
-  },
-  {
     "id": 525571,
     "datetime": "2024-05-21 15:54:04 +02:00",
     "name": "21 maj 14.38, Rån, Kävlinge",
@@ -105,18 +165,6 @@
     "location": {
       "name": "Bräcke",
       "gps": "62.750741,15.422575"
-    }
-  },
-  {
-    "id": 525566,
-    "datetime": "2024-05-21 15:04:47 +02:00",
-    "name": "21 maj 14.26, Trafikolycka, Mölndal",
-    "summary": "På E6, mellan Torrekullamotet och Åbromotet i norrgående färdriktning, har en lastbil kört sönder en del av et",
-    "url": "/aktuellt/handelser/2024/maj/21/21-maj-14.26-trafikolycka-molndal/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 523521,
-    "datetime": "2024-05-14 12:11:35 +02:00",
-    "name": "14 maj 12.11, Trafikolycka, singel, Jönköping",
-    "summary": "Bilist körde in i mitträcket på E4:an i höjd med Ekhagen.",
-    "url": "/aktuellt/handelser/2024/maj/14/14-maj-12.11-trafikolycka-singel-jonkoping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 523533,
-    "datetime": "2024-05-14 12:37:55 +02:00",
-    "name": "14 maj 12.16, Narkotikabrott, Östersund",
-    "summary": "Man misstänks för ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/maj/14/14-maj-12.16-narkotikabrott-ostersund/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 523525,
-    "datetime": "2024-05-14 12:23:03 +02:00",
-    "name": "14 maj 11.48, Trafikolycka, Båstad",
-    "summary": "Larm om trafikolycka, Ö Karup",
-    "url": "/aktuellt/handelser/2024/maj/14/14-maj-11.48-trafikolycka-bastad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Båstad",
-      "gps": "56.427389,12.847722"
-    }
-  },
-  {
-    "id": 523515,
-    "datetime": "2024-05-14 11:25:55 +02:00",
-    "name": "14 maj 07.45, Övrigt, Lund",
-    "summary": "Icke tillståndsgiven allmän sammankomst, Lundagård",
-    "url": "/aktuellt/handelser/2024/maj/14/14-maj-07.45-ovrigt-lund/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   }
 ]
