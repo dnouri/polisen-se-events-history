@@ -1,5 +1,65 @@
 [
   {
+    "id": 525594,
+    "datetime": "2024-05-21 19:13:01 +02:00",
+    "name": "21 maj 19.07, Trafikolycka, Norrköping",
+    "summary": "Trafikolycka i Kimstad",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-19.07-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 525613,
+    "datetime": "2024-05-21 22:01:24 +02:00",
+    "name": "21 maj 21.05, Trafikolycka, Umeå",
+    "summary": "Väst på stan, en personbil har kolliderat med en cyklist",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-21.05-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 525611,
+    "datetime": "2024-05-21 22:00:30 +02:00",
+    "name": "21 maj 22.00, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-22.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 525612,
+    "datetime": "2024-05-21 22:00:26 +02:00",
+    "name": "21 maj 22.00, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-22.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 525610,
+    "datetime": "2024-05-21 21:46:46 +02:00",
+    "name": "21 maj 20.29, Knivlagen, Kristinehamn",
+    "summary": "Man i 40-årsåldern gripen misstänkt för bl.a. grovt brott mot knivlagen",
+    "url": "/aktuellt/handelser/2024/maj/21/21-maj-20.29-knivlagen-kristinehamn/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
     "id": 525609,
     "datetime": "2024-05-21 21:42:02 +02:00",
     "name": "21 maj 20.03, Trafikolycka, personskada, Gävle",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Ekerö",
       "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 525607,
-    "datetime": "2024-05-21 21:31:53 +02:00",
-    "name": "21 maj 21.20, Djur, Borås",
-    "summary": "På riksväg 27, någon kilometer norr om Limmaredskorset, har en älg hamnat på fel sida viltstängslet.",
-    "url": "/aktuellt/handelser/2024/maj/21/21-maj-21.20-djur-boras/",
-    "type": "Djur",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -177,18 +225,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 525594,
-    "datetime": "2024-05-21 19:13:01 +02:00",
-    "name": "21 maj 19.07, Trafikolycka, Norrköping",
-    "summary": "Trafikolycka i Kimstad",
-    "url": "/aktuellt/handelser/2024/maj/21/21-maj-19.07-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 523626,
-    "datetime": "2024-05-14 21:46:42 +02:00",
-    "name": "14 maj 21.45, Övrigt, Hallands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2024/maj/14/14-maj-21.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 523625,
-    "datetime": "2024-05-14 21:46:36 +02:00",
-    "name": "14 maj 21.45, Övrigt, Västra Götalands län",
-    "summary": "Hemsidan uppdateras inte mer idag. Samtal från media besvaras av vakthavande befäl i mån av tid.",
-    "url": "/aktuellt/handelser/2024/maj/14/14-maj-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 523632,
-    "datetime": "2024-05-14 20:39:46 +02:00",
-    "name": "14 maj 19.53, Bråk, Båstad",
-    "summary": "Polis larmas till Musterivägen med anledning av ett pågående bråk.",
-    "url": "/aktuellt/handelser/2024/maj/14/14-maj-19.53-brak-bastad/",
-    "type": "Bråk",
-    "location": {
-      "name": "Båstad",
-      "gps": "56.427389,12.847722"
     }
   }
 ]
