@@ -1,5 +1,65 @@
 [
   {
+    "id": 525682,
+    "datetime": "2024-05-22 10:15:04 +02:00",
+    "name": "22 maj 08.46, Kontroll person/fordon, Södertälje",
+    "summary": "Polis utför en kontroll vid skolor i Brunnsäng men inget brott kan konstateras.",
+    "url": "/aktuellt/handelser/2024/maj/22/22-maj-08.46-kontroll-personfordon-sodertalje/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 525675,
+    "datetime": "2024-05-22 10:10:31 +02:00",
+    "name": "22 maj 07.43, Brand, Lindesberg",
+    "summary": "Polisen är på plats vid en brand vid en badplats i Frövi.",
+    "url": "/aktuellt/handelser/2024/maj/22/22-maj-07.43-brand-lindesberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 525674,
+    "datetime": "2024-05-22 10:09:30 +02:00",
+    "name": "22 maj 10.09, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/maj/22/22-maj-10.09-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 525663,
+    "datetime": "2024-05-22 10:01:32 +02:00",
+    "name": "22 maj 07.24, Brand, Luleå",
+    "summary": "Bilbrand vid Rutviksvägen, Kyrkbyn, Luleå.",
+    "url": "/aktuellt/handelser/2024/maj/22/22-maj-07.24-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 525656,
+    "datetime": "2024-05-22 9:44:20 +02:00",
+    "name": "22 maj 09.44, Anträffad död, Nordmaling",
+    "summary": "Avliden person anträffad utomhus.",
+    "url": "/aktuellt/handelser/2024/maj/22/22-maj-09.44-antraffad-dod-nordmaling/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
     "id": 525645,
     "datetime": "2024-05-22 8:44:33 +02:00",
     "name": "22 maj 08.44, Polisinsats/kommendering, Umeå",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 523725,
-    "datetime": "2024-05-15 16:05:44 +02:00",
-    "name": "15 maj 15.44, Trafikolycka, Växjö",
-    "summary": "Singelolycka på Lv685 vid Kalvsvik.",
-    "url": "/aktuellt/handelser/2024/maj/15/15-maj-15.44-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 523723,
-    "datetime": "2024-05-15 15:54:38 +02:00",
-    "name": "15 maj 14.25, Rattfylleri, Borlänge",
-    "summary": "Misstänkt påverkad bilist stoppad i centrala Borlänge",
-    "url": "/aktuellt/handelser/2024/maj/15/15-maj-14.25-rattfylleri-borlange/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 523673,
-    "datetime": "2024-05-15 15:44:43 +02:00",
-    "name": "15 maj 08.14, Anträffad död, Halmstad",
-    "summary": "Oklart dödsfall utreds som vållande till annans död.",
-    "url": "/aktuellt/handelser/2024/maj/15/15-maj-08.14-antraffad-dod-halmstad/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 523713,
-    "datetime": "2024-05-15 14:45:09 +02:00",
-    "name": "15 maj 14.30, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/maj/15/15-maj-14.30-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 523667,
-    "datetime": "2024-05-15 9:52:56 +02:00",
-    "name": "15 maj 08.21, Farligt föremål, misstänkt, Timrå",
-    "summary": "Tallnäs, polisen kontaktas gällande ett föremål utomhus i bostadsområde",
-    "url": "/aktuellt/handelser/2024/maj/15/15-maj-08.21-farligt-foremal-misstankt-timra/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
     }
   }
 ]
