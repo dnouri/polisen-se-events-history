@@ -1,5 +1,113 @@
 [
   {
+    "id": 526118,
+    "datetime": "2024-05-23 17:18:10 +02:00",
+    "name": "23 maj 15.15, Brand, Göteborg",
+    "summary": "Larm inkommer från SOS att det brinner med öppna lågor och svart rök på taket till ett hyreshus och en förskol",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-15.15-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 526101,
+    "datetime": "2024-05-23 16:33:31 +02:00",
+    "name": "23 maj 15.54, Trafikolycka, personskada, Nora",
+    "summary": "En trafikolycka med personskada har inträffat på länsväg 244 cirka en mil väster om Gyttorp.",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-15.54-trafikolycka-personskada-nora/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Nora",
+      "gps": "59.519206,15.037867"
+    }
+  },
+  {
+    "id": 526116,
+    "datetime": "2024-05-23 17:10:44 +02:00",
+    "name": "23 maj 16.53, Trafikolycka, personskada, Falun",
+    "summary": "En personbil har kört på en mopedist i Hosjö, Falun.",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-16.53-trafikolycka-personskada-falun/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 525928,
+    "datetime": "2024-05-23 14:16:38 +02:00",
+    "name": "23 maj 12.11, Försvunnen person, Skurup",
+    "summary": "Polisen letar efter en försvunnen man i Skurup med omnejd",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-12.11-forsvunnen-person-skurup/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skurup",
+      "gps": "55.48045,13.502349"
+    }
+  },
+  {
+    "id": 526113,
+    "datetime": "2024-05-23 16:55:03 +02:00",
+    "name": "23 maj 14.41, Trafikolycka, Helsingborg",
+    "summary": "Flera bilar inblande i trafikolycka på E6 vid Råå.",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-14.41-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 526112,
+    "datetime": "2024-05-23 16:54:23 +02:00",
+    "name": "23 maj 15.15, Trafikbrott, Robertsfors",
+    "summary": "E4 Ånäset, bilist stoppad efter hastighetsöverträdelse",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-15.15-trafikbrott-robertsfors/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 526110,
+    "datetime": "2024-05-23 16:50:10 +02:00",
+    "name": "23 maj 15.54, Trafikbrott, Krokom",
+    "summary": "E14, bilförare stoppad efter att ha använt mobiltelefon i samband med färd",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-15.54-trafikbrott-krokom/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 526108,
+    "datetime": "2024-05-23 16:48:48 +02:00",
+    "name": "23 maj 14.39, Trafikkontroll, Härjedalen",
+    "summary": "Fjällnäs, resultat efter nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-14.39-trafikkontroll-harjedalen/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 526107,
+    "datetime": "2024-05-23 16:47:04 +02:00",
+    "name": "23 maj 13.28, Rattfylleri, Åre",
+    "summary": "Väster om Åre, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/maj/23/23-maj-13.28-rattfylleri-are/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
     "id": 526102,
     "datetime": "2024-05-23 16:36:21 +02:00",
     "name": "23 maj 15.45, Trafikolycka, Sundsvall",
@@ -9,18 +117,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 526101,
-    "datetime": "2024-05-23 16:33:31 +02:00",
-    "name": "23 maj 21.27, Trafikolycka, personskada, Nora",
-    "summary": "En trafikolycka med personskada har inträffat på länsväg 244 cirka en mil väster om Gyttorp.",
-    "url": "/aktuellt/handelser/2024/maj/23/23-maj-21.27-trafikolycka-personskada-nora/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Nora",
-      "gps": "59.519206,15.037867"
     }
   },
   {
@@ -129,18 +225,6 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 525928,
-    "datetime": "2024-05-23 14:16:38 +02:00",
-    "name": "23 maj 12.11, Försvunnen person, Skurup",
-    "summary": "Polisen letar efter en försvunnen man i Skurup med omnejd",
-    "url": "/aktuellt/handelser/2024/maj/23/23-maj-12.11-forsvunnen-person-skurup/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Skurup",
-      "gps": "55.48045,13.502349"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Vimmerby",
       "gps": "57.669034,15.858857"
-    }
-  },
-  {
-    "id": 524044,
-    "datetime": "2024-05-17 6:10:35 +02:00",
-    "name": "16 maj 22.08, Misshandel, Ystad",
-    "summary": "En tonårspojke blir usatt för en misshandel på Österportstorg.",
-    "url": "/aktuellt/handelser/2024/maj/16/16-maj-22.08-misshandel-ystad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 524043,
-    "datetime": "2024-05-17 4:27:30 +02:00",
-    "name": "17 maj 01.24, Misshandel, Stockholm",
-    "summary": "Polis kallas till en Kungsträdgården i Stockholm med anledning av att en person blivit misshandlad.",
-    "url": "/aktuellt/handelser/2024/maj/17/17-maj-01.24-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 524038,
-    "datetime": "2024-05-16 22:06:38 +02:00",
-    "name": "16 maj 22.06, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2024/maj/16/16-maj-22.06-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 524037,
-    "datetime": "2024-05-16 22:06:22 +02:00",
-    "name": "16 maj 22.06, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2024/maj/16/16-maj-22.06-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 524036,
-    "datetime": "2024-05-16 21:58:09 +02:00",
-    "name": "16 maj 21.39, Brand, Karlskoga",
-    "summary": "Det brinner vid en bilverkstad i Karlskoga",
-    "url": "/aktuellt/handelser/2024/maj/16/16-maj-21.39-brand-karlskoga/",
-    "type": "Brand",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 524035,
-    "datetime": "2024-05-16 21:53:01 +02:00",
-    "name": "16 maj 21.48, Våld/hot mot tjänsteman, Nora",
-    "summary": "Försök till grovt våld mot tjänsteman, kvinna gripen",
-    "url": "/aktuellt/handelser/2024/maj/16/16-maj-21.48-valdhot-mot-tjansteman-nora/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Nora",
-      "gps": "59.519206,15.037867"
-    }
-  },
-  {
-    "id": 524034,
-    "datetime": "2024-05-16 21:49:33 +02:00",
-    "name": "16 maj 20.28, Rattfylleri, Göteborg",
-    "summary": "Polisen får samtal om att en man kört på en bil och därefter kört ner en brevlåda. Händelsen inträffade i Örgr",
-    "url": "/aktuellt/handelser/2024/maj/16/16-maj-20.28-rattfylleri-goteborg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
