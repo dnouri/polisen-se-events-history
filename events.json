@@ -1,5 +1,65 @@
 [
   {
+    "id": 526246,
+    "datetime": "2024-05-24 21:42:45 +02:00",
+    "name": "24 maj 16.32, Rattfylleri, Krokom",
+    "summary": "Nälden, polisen stoppar en personbil",
+    "url": "/aktuellt/handelser/2024/maj/24/24-maj-16.32-rattfylleri-krokom/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 526245,
+    "datetime": "2024-05-24 21:38:40 +02:00",
+    "name": "24 maj 20.55, Övrigt, Uppsala",
+    "summary": "Person skadad efter fall från hög höjd.",
+    "url": "/aktuellt/handelser/2024/maj/24/24-maj-20.55-ovrigt-uppsala/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 526242,
+    "datetime": "2024-05-24 21:33:38 +02:00",
+    "name": "24 maj 21.28, Misshandel, Lund",
+    "summary": "Man nedslagen, Lund.",
+    "url": "/aktuellt/handelser/2024/maj/24/24-maj-21.28-misshandel-lund/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 526229,
+    "datetime": "2024-05-24 19:05:10 +02:00",
+    "name": "24 maj 16.33, Försvunnen person, Malmö",
+    "summary": "Försvunnen man, Kulladal.",
+    "url": "/aktuellt/handelser/2024/maj/24/24-maj-16.33-forsvunnen-person-malmo/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 526241,
+    "datetime": "2024-05-24 21:26:26 +02:00",
+    "name": "24 maj 19.13, Olovlig körning, Jokkmokk",
+    "summary": "E45, polisen kontrollerar en A-traktor",
+    "url": "/aktuellt/handelser/2024/maj/24/24-maj-19.13-olovlig-korning-jokkmokk/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Jokkmokk",
+      "gps": "66.606961,19.822921"
+    }
+  },
+  {
     "id": 526240,
     "datetime": "2024-05-24 21:16:09 +02:00",
     "name": "24 maj 18.09, Arbetsplatsolycka, Kiruna",
@@ -117,18 +177,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 526229,
-    "datetime": "2024-05-24 19:05:10 +02:00",
-    "name": "24 maj 16.33, Försvunnen person, Malmö",
-    "summary": "Försvunnen man, Kulladal.",
-    "url": "/aktuellt/handelser/2024/maj/24/24-maj-16.33-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 524185,
-    "datetime": "2024-05-17 22:19:16 +02:00",
-    "name": "17 maj 19.53, Misshandel, grov, Västerås",
-    "summary": "Två personer misshandlade i bostad.",
-    "url": "/aktuellt/handelser/2024/maj/17/17-maj-19.53-misshandel-grov-vasteras/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 524184,
-    "datetime": "2024-05-17 22:05:34 +02:00",
-    "name": "17 maj 20.06, Olovlig körning, Sundsvall",
-    "summary": "Olovlig körning med A-traktor i Sundsvall.",
-    "url": "/aktuellt/handelser/2024/maj/17/17-maj-20.06-olovlig-korning-sundsvall/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 524180,
-    "datetime": "2024-05-17 22:02:12 +02:00",
-    "name": "17 maj 22.00, Övrigt, Västra Götalands län",
-    "summary": "Presstelefonen kopplas om för natten.",
-    "url": "/aktuellt/handelser/2024/maj/17/17-maj-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 524181,
-    "datetime": "2024-05-17 22:02:07 +02:00",
-    "name": "17 maj 22.00, Övrigt, Hallands län",
-    "summary": "Presstelefonen kopplas om för natten.",
-    "url": "/aktuellt/handelser/2024/maj/17/17-maj-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
