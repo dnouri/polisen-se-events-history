@@ -1,14 +1,38 @@
 [
   {
-    "id": 526295,
-    "datetime": "2024-05-25 13:38:21 +02:00",
-    "name": "25 maj 13.20, Trafikolycka, personskada, Borås",
-    "summary": "På Regementsgatan har en personbil och en motorcykel kolliderat.",
-    "url": "/aktuellt/handelser/2024/maj/25/25-maj-13.20-trafikolycka-personskada-boras/",
-    "type": "Trafikolycka, personskada",
+    "id": 526294,
+    "datetime": "2024-05-25 14:12:54 +02:00",
+    "name": "25 maj 12.22, Stöld, Härnösand",
+    "summary": "Misstänkt ringa stöld i matbutik, Gådeåstaden.",
+    "url": "/aktuellt/handelser/2024/maj/25/25-maj-12.22-stold-harnosand/",
+    "type": "Stöld",
     "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 526297,
+    "datetime": "2024-05-25 14:10:15 +02:00",
+    "name": "25 maj 14.01, Brand, Laxå",
+    "summary": "Det brinner i en villa i Hasselfors",
+    "url": "/aktuellt/handelser/2024/maj/25/25-maj-14.01-brand-laxa/",
+    "type": "Brand",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
+    "id": 526296,
+    "datetime": "2024-05-25 14:07:57 +02:00",
+    "name": "25 maj 13.00, Brand, Gävle",
+    "summary": "Brand i sophög.",
+    "url": "/aktuellt/handelser/2024/maj/25/25-maj-13.00-brand-gavle/",
+    "type": "Brand",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 526258,
+    "datetime": "2024-05-25 7:34:32 +02:00",
+    "name": "24 maj 20.07, Misshandel, grov, Gävle",
+    "summary": "Två frihetsberövade för grov misshandel.",
+    "url": "/aktuellt/handelser/2024/maj/24/24-maj-20.07-misshandel-grov-gavle/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 526295,
+    "datetime": "2024-05-25 13:38:21 +02:00",
+    "name": "25 maj 13.20, Trafikolycka, personskada, Borås",
+    "summary": "På Regementsgatan har en personbil och en motorcykel kolliderat.",
+    "url": "/aktuellt/handelser/2024/maj/25/25-maj-13.20-trafikolycka-personskada-boras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -453,18 +501,6 @@
     "location": {
       "name": "Hallstahammar",
       "gps": "59.613204,16.229476"
-    }
-  },
-  {
-    "id": 526258,
-    "datetime": "2024-05-25 7:34:32 +02:00",
-    "name": "24 maj 20.07, Misshandel, grov, Gävle",
-    "summary": "Två frihetsberövade för grov misshandel.",
-    "url": "/aktuellt/handelser/2024/maj/24/24-maj-20.07-misshandel-grov-gavle/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stenungsund",
       "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 524241,
-    "datetime": "2024-05-18 16:08:56 +02:00",
-    "name": "18 maj 14.53, Trafikolycka, personskada, Stockholm",
-    "summary": "En motorcykel och en bil har kolliderat på E4.",
-    "url": "/aktuellt/handelser/2024/maj/18/18-maj-14.53-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 524233,
-    "datetime": "2024-05-18 13:23:00 +02:00",
-    "name": "18 maj 13.13, Trafikolycka, Lomma",
-    "summary": "En personbil och en motorcykel kolliderar på länsväg 103.",
-    "url": "/aktuellt/handelser/2024/maj/18/18-maj-13.13-trafikolycka-lomma/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lomma",
-      "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 524239,
-    "datetime": "2024-05-18 14:40:52 +02:00",
-    "name": "18 maj 13.25, Övrigt, Falun",
-    "summary": "Kontroll av föremål i centrala Falun",
-    "url": "/aktuellt/handelser/2024/maj/18/18-maj-13.25-ovrigt-falun/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   }
 ]
