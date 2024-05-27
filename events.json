@@ -1,14 +1,74 @@
 [
   {
+    "id": 526520,
+    "datetime": "2024-05-27 18:20:40 +02:00",
+    "name": "27 maj 16.53, Stöld, Luleå",
+    "summary": "Misstänkt ringa stöld i matbutik, Porsön.",
+    "url": "/aktuellt/handelser/2024/maj/27/27-maj-16.53-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 526521,
+    "datetime": "2024-05-27 18:12:00 +02:00",
+    "name": "27 maj 16.48, Trafikkontroll, Kramfors",
+    "summary": "Resultat efter trafikkontroll på riksväg 90, Gubbmyran.",
+    "url": "/aktuellt/handelser/2024/maj/27/27-maj-16.48-trafikkontroll-kramfors/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 526519,
+    "datetime": "2024-05-27 18:08:55 +02:00",
+    "name": "27 maj 16.28, Häleri, Lund",
+    "summary": "Anträffad mobiltelefon",
+    "url": "/aktuellt/handelser/2024/maj/27/27-maj-16.28-haleri-lund/",
+    "type": "Häleri",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 526518,
+    "datetime": "2024-05-27 18:07:30 +02:00",
+    "name": "27 maj 15.15, Narkotikabrott, Piteå",
+    "summary": "Misstänkt ringa narkotikabrott, Öjebyn.",
+    "url": "/aktuellt/handelser/2024/maj/27/27-maj-15.15-narkotikabrott-pitea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
     "id": 526516,
     "datetime": "2024-05-27 17:37:23 +02:00",
-    "name": "27 maj 17.10, Mord/dråp, försök, Göteborg",
+    "name": "27 maj 17.10, Misshandel, grov, Göteborg",
     "summary": "En person skadad av ett vasst föremål",
-    "url": "/aktuellt/handelser/2024/maj/27/27-maj-17.10-morddrap-forsok-goteborg/",
-    "type": "Mord/dråp, försök",
+    "url": "/aktuellt/handelser/2024/maj/27/27-maj-17.10-misshandel-grov-goteborg/",
+    "type": "Misshandel, grov",
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 526517,
+    "datetime": "2024-05-27 17:53:43 +02:00",
+    "name": "27 maj 17.13, Arbetsplatsolycka, Malmö",
+    "summary": "Fall från höjd",
+    "url": "/aktuellt/handelser/2024/maj/27/27-maj-17.13-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 525495,
-    "datetime": "2024-05-20 21:55:03 +02:00",
-    "name": "20 maj 21.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-21.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 525498,
-    "datetime": "2024-05-20 21:52:48 +02:00",
-    "name": "20 maj 20.23, Fylleri/LOB, Sundsvall",
-    "summary": "Stenstan, polisen har påträffat berusade män vid två tillfällen under kvällen",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-20.23-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 525497,
-    "datetime": "2024-05-20 21:23:10 +02:00",
-    "name": "20 maj 21.05, Trafikolycka, singel, Degerfors",
-    "summary": "Mopedist har kört av vägen vid korsningen LV555/Stubbängsvägen i Degerfors.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-21.05-trafikolycka-singel-degerfors/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Degerfors",
-      "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 525486,
-    "datetime": "2024-05-20 19:17:33 +02:00",
-    "name": "20 maj 19.07, Brand, Kumla",
-    "summary": "Villabrand i Hällabrottet, Kumla kommun.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-19.07-brand-kumla/",
-    "type": "Brand",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 525493,
-    "datetime": "2024-05-20 20:40:48 +02:00",
-    "name": "20 maj 16.33, Inbrott, Stockholm",
-    "summary": "Polisen får samtal av en kvinna som haft inbrott i sin lägenhet i Kista.",
-    "url": "/aktuellt/handelser/2024/maj/20/20-maj-16.33-inbrott-stockholm/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
