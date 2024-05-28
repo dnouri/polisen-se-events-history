@@ -1,5 +1,53 @@
 [
   {
+    "id": 526673,
+    "datetime": "2024-05-28 19:14:14 +02:00",
+    "name": "28 maj 18.22, Trafikkontroll, Luleå",
+    "summary": "Bälinge, resultat efter trafikkontroll vid Bälingevägen",
+    "url": "/aktuellt/handelser/2024/maj/28/28-maj-18.22-trafikkontroll-lulea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 526669,
+    "datetime": "2024-05-28 19:03:25 +02:00",
+    "name": "28 maj 18.37, Försvunnen person, Uppsala",
+    "summary": "Pojke försvunnen.",
+    "url": "/aktuellt/handelser/2024/maj/28/28-maj-18.37-forsvunnen-person-uppsala/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 526645,
+    "datetime": "2024-05-28 15:38:32 +02:00",
+    "name": "28 maj 15.23, Trafikolycka, Sölvesborg",
+    "summary": "Karlshamnsvägen, Norje. Kollision mellan två fordon.",
+    "url": "/aktuellt/handelser/2024/maj/28/28-maj-15.23-trafikolycka-solvesborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 526668,
+    "datetime": "2024-05-28 18:44:16 +02:00",
+    "name": "28 maj 17.30, Trafikolycka, personskada, Danderyd",
+    "summary": "På E18 vid trafikplats Danderyds sjukhus är en bil och en lastbil inblandad i en trafikolycka.",
+    "url": "/aktuellt/handelser/2024/maj/28/28-maj-17.30-trafikolycka-personskada-danderyd/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Danderyd",
+      "gps": "59.407905,18.019075"
+    }
+  },
+  {
     "id": 526667,
     "datetime": "2024-05-28 18:21:23 +02:00",
     "name": "28 maj 16.41, Trafikolycka, personskada, Sigtuna",
@@ -141,18 +189,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 526645,
-    "datetime": "2024-05-28 15:38:32 +02:00",
-    "name": "28 maj 15.23, Trafikolycka, Sölvesborg",
-    "summary": "Karlshamnsvägen, Norje. Kollision mellan två fordon.",
-    "url": "/aktuellt/handelser/2024/maj/28/28-maj-15.23-trafikolycka-solvesborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Nordmaling",
       "gps": "63.567106,19.505022"
-    }
-  },
-  {
-    "id": 525645,
-    "datetime": "2024-05-22 8:44:33 +02:00",
-    "name": "22 maj 08.44, Polisinsats/kommendering, Umeå",
-    "summary": "Resultat av polisens insats gällande motorburna i Umeå.",
-    "url": "/aktuellt/handelser/2024/maj/22/22-maj-08.44-polisinsatskommendering-umea/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 525644,
-    "datetime": "2024-05-22 8:34:12 +02:00",
-    "name": "22 maj 08.33, Övrigt, Blekinge län",
-    "summary": "Polisens presstelefon på ledningscentralen är obemannad 09:00-15:30.",
-    "url": "/aktuellt/handelser/2024/maj/22/22-maj-08.33-ovrigt-blekinge-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 525643,
-    "datetime": "2024-05-22 8:33:41 +02:00",
-    "name": "22 maj 08.32, Övrigt, Kronobergs län",
-    "summary": "Polisens presstelefon på ledningscentralen är obemannad 09:00-15:30.",
-    "url": "/aktuellt/handelser/2024/maj/22/22-maj-08.32-ovrigt-kronobergs-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   }
 ]
