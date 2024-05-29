@@ -1,5 +1,65 @@
 [
   {
+    "id": 526715,
+    "datetime": "2024-05-29 7:36:56 +02:00",
+    "name": "29 maj 04.43, Brand, Uppsala",
+    "summary": "Polisen utreder brott efter brand i lägenhet.",
+    "url": "/aktuellt/handelser/2024/maj/29/29-maj-04.43-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 526708,
+    "datetime": "2024-05-29 7:32:39 +02:00",
+    "name": "29 maj 07.32, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/maj/29/29-maj-07.32-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 526705,
+    "datetime": "2024-05-29 7:32:26 +02:00",
+    "name": "29 maj 07.32, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/maj/29/29-maj-07.32-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 526702,
+    "datetime": "2024-05-29 7:32:13 +02:00",
+    "name": "29 maj 07.32, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/maj/29/29-maj-07.32-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 526713,
+    "datetime": "2024-05-29 7:31:09 +02:00",
+    "name": "29 maj 07.31, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/maj/29/29-maj-07.31-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 526711,
     "datetime": "2024-05-29 7:16:24 +02:00",
     "name": "29 maj 07.15, Sammanfattning natt, Örebro län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Botkyrka",
       "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 525828,
-    "datetime": "2024-05-22 17:16:07 +02:00",
-    "name": "22 maj 16.34, Djur, Malmö",
-    "summary": "Död hund i väska, Dockan.",
-    "url": "/aktuellt/handelser/2024/maj/22/22-maj-16.34-djur-malmo/",
-    "type": "Djur",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 525827,
-    "datetime": "2024-05-22 17:14:12 +02:00",
-    "name": "22 maj 16.20, Fylleri/LOB, Umeå",
-    "summary": "Centrala stan, berusad person påträffad",
-    "url": "/aktuellt/handelser/2024/maj/22/22-maj-16.20-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 525822,
-    "datetime": "2024-05-22 16:05:36 +02:00",
-    "name": "22 maj 15.25, Trafikolycka, Skövde",
-    "summary": "På riksväg 26, strax norr om Skövde, är en personbil och en lastbil involverade i en olycka.",
-    "url": "/aktuellt/handelser/2024/maj/22/22-maj-15.25-trafikolycka-skovde/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skövde",
-      "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 525826,
-    "datetime": "2024-05-22 17:03:13 +02:00",
-    "name": "22 maj 16.12, Fylleri/LOB, Sundsvall",
-    "summary": "Stenstan, berusad man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/maj/22/22-maj-16.12-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 525823,
-    "datetime": "2024-05-22 16:10:15 +02:00",
-    "name": "22 maj 15.41, Trafikolycka, personskada, Göteborg",
-    "summary": "På ett övergångsställe vid Munkebäckstorget har en lätt lastbil kört på en fotgängare.",
-    "url": "/aktuellt/handelser/2024/maj/22/22-maj-15.41-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
