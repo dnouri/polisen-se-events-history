@@ -1,5 +1,29 @@
 [
   {
+    "id": 527230,
+    "datetime": "2024-05-31 15:22:11 +02:00",
+    "name": "31 maj 15.07, Misshandel, Malmö",
+    "summary": "Pojke misshandlad, Södervärn.",
+    "url": "/aktuellt/handelser/2024/maj/31/31-maj-15.07-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 527229,
+    "datetime": "2024-05-31 15:21:30 +02:00",
+    "name": "31 maj 12.42, Fylleri/LOB, Luleå",
+    "summary": "Berusad kvinna omhändertagen på Björkskatan, Luleå.",
+    "url": "/aktuellt/handelser/2024/maj/31/31-maj-12.42-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 527224,
     "datetime": "2024-05-31 14:34:33 +02:00",
     "name": "31 maj 14.01, Trafikolycka, Växjö",
@@ -9,6 +33,30 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 527228,
+    "datetime": "2024-05-31 15:06:36 +02:00",
+    "name": "31 maj 14.01, Bedrägeri, Malmö",
+    "summary": "Åldringsbrott, Stenkällan.",
+    "url": "/aktuellt/handelser/2024/maj/31/31-maj-14.01-bedrageri-malmo/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 527226,
+    "datetime": "2024-05-31 14:56:59 +02:00",
+    "name": "31 maj 14.25, Trafikolycka, smitning från, Göteborg",
+    "summary": "Via SOS får polisen larm om att en person blivit påkörd av en bil i en gatukorsning i Lorensberg.",
+    "url": "/aktuellt/handelser/2024/maj/31/31-maj-14.25-trafikolycka-smitning-fran-goteborg/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 526269,
-    "datetime": "2024-05-25 8:29:45 +02:00",
-    "name": "25 maj 07.21, Trafikolycka, Skellefteå",
-    "summary": "Larm om trafikolycka på Torsgatan, Norra Bersgbyn.",
-    "url": "/aktuellt/handelser/2024/maj/25/25-maj-07.21-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 526268,
-    "datetime": "2024-05-25 8:19:41 +02:00",
-    "name": "25 maj 08.19, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/maj/25/25-maj-08.19-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 526267,
-    "datetime": "2024-05-25 8:16:29 +02:00",
-    "name": "25 maj 08.16, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/maj/25/25-maj-08.16-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 526257,
-    "datetime": "2024-05-25 8:05:57 +02:00",
-    "name": "25 maj 08.05, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/maj/25/25-maj-08.05-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
