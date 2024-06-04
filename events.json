@@ -1,5 +1,53 @@
 [
   {
+    "id": 527627,
+    "datetime": "2024-06-04 16:59:25 +02:00",
+    "name": "04 juni 16.42, Brand, Skellefteå",
+    "summary": "Skellefteå, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/juni/4/04-juni-16.42-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 527625,
+    "datetime": "2024-06-04 16:48:32 +02:00",
+    "name": "04 juni 08.48, Trafikbrott, Umeå",
+    "summary": "Umeå, resultat från trafikinsats riktad mot taxiverksamhet.",
+    "url": "/aktuellt/handelser/2024/juni/4/04-juni-08.48-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 527624,
+    "datetime": "2024-06-04 16:47:06 +02:00",
+    "name": "04 juni 15.20, Trafikolycka, Söderhamn",
+    "summary": "Singellycka på Skogsvägen i Bergvik.",
+    "url": "/aktuellt/handelser/2024/juni/4/04-juni-15.20-trafikolycka-soderhamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
+    "id": 527619,
+    "datetime": "2024-06-04 16:03:17 +02:00",
+    "name": "04 juni 15.11, Trafikolycka, Karlskoga",
+    "summary": "En trafikolycka har inträffat på E18 i Karlskoga",
+    "url": "/aktuellt/handelser/2024/juni/4/04-juni-15.11-trafikolycka-karlskoga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
     "id": 527622,
     "datetime": "2024-06-04 16:35:20 +02:00",
     "name": "04 juni 14.39, Trafikolycka, Säter",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Arvidsjaur",
       "gps": "65.592077,19.180283"
-    }
-  },
-  {
-    "id": 527619,
-    "datetime": "2024-06-04 16:03:17 +02:00",
-    "name": "04 juni 15.11, Trafikolycka, Karlskoga",
-    "summary": "En trafikolycka har inträffat på E18 i Karlskoga",
-    "url": "/aktuellt/handelser/2024/juni/4/04-juni-15.11-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Dorotea",
       "gps": "64.261794,16.415234"
-    }
-  },
-  {
-    "id": 526650,
-    "datetime": "2024-05-28 16:09:11 +02:00",
-    "name": "28 maj 14.05, Fylleri/LOB, Umeå",
-    "summary": "Vänortsparken, berusad man påträffad",
-    "url": "/aktuellt/handelser/2024/maj/28/28-maj-14.05-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 526649,
-    "datetime": "2024-05-28 16:05:34 +02:00",
-    "name": "28 maj 14.20, Stöld, Kiruna",
-    "summary": "Kiruna, två unga personer har stoppats efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2024/maj/28/28-maj-14.20-stold-kiruna/",
-    "type": "Stöld",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 526639,
-    "datetime": "2024-05-28 14:54:49 +02:00",
-    "name": "28 maj 14.35, Trafikolycka, Borås",
-    "summary": "Två personbilar som krockat på Skaraborgsvägen, Borås",
-    "url": "/aktuellt/handelser/2024/maj/28/28-maj-14.35-trafikolycka-boras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
