@@ -1,5 +1,77 @@
 [
   {
+    "id": 527782,
+    "datetime": "2024-06-05 13:15:50 +02:00",
+    "name": "05 juni 12.38, Stöld, Sundsvall",
+    "summary": "Stöld av elcykel på Västermalm.",
+    "url": "/aktuellt/handelser/2024/juni/5/05-juni-12.38-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 527745,
+    "datetime": "2024-06-05 12:54:16 +02:00",
+    "name": "05 juni 12.05, Trafikolycka, Robertsfors",
+    "summary": "Singelolycka med personbil i Överklinten.",
+    "url": "/aktuellt/handelser/2024/juni/5/05-juni-12.05-trafikolycka-robertsfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 527729,
+    "datetime": "2024-06-05 12:21:32 +02:00",
+    "name": "05 juni 11.38, Övrigt, Växjö",
+    "summary": "Demonstranter inne på universitetets huvudentré.",
+    "url": "/aktuellt/handelser/2024/juni/5/05-juni-11.38-ovrigt-vaxjo/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 527781,
+    "datetime": "2024-06-05 13:09:50 +02:00",
+    "name": "05 juni 13.09, Trafikolycka, Motala",
+    "summary": "Två personbilar i kollision.",
+    "url": "/aktuellt/handelser/2024/juni/5/05-juni-13.09-trafikolycka-motala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
+    }
+  },
+  {
+    "id": 527780,
+    "datetime": "2024-06-05 13:08:39 +02:00",
+    "name": "05 juni 11.10, Stöld, Umeå",
+    "summary": "Kvinna misstänks för stöld i butik.",
+    "url": "/aktuellt/handelser/2024/juni/5/05-juni-11.10-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 527721,
+    "datetime": "2024-06-05 11:12:10 +02:00",
+    "name": "05 juni 10.42, Brand, Arvika",
+    "summary": "En trailer med järnvägsspår brinner",
+    "url": "/aktuellt/handelser/2024/juni/5/05-juni-10.42-brand-arvika/",
+    "type": "Brand",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
     "id": 527737,
     "datetime": "2024-06-05 12:43:29 +02:00",
     "name": "05 juni 11.56, Trafikolycka, Göteborg",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Kalix",
       "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 527729,
-    "datetime": "2024-06-05 12:21:32 +02:00",
-    "name": "05 juni 11.38, Övrigt, Växjö",
-    "summary": "Demonstranter inne på universitetets huvudentré.",
-    "url": "/aktuellt/handelser/2024/juni/5/05-juni-11.38-ovrigt-vaxjo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -69,18 +129,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 527721,
-    "datetime": "2024-06-05 11:12:10 +02:00",
-    "name": "05 juni 10.42, Brand, Arvika",
-    "summary": "En trailer med järnvägsspår brinner",
-    "url": "/aktuellt/handelser/2024/juni/5/05-juni-10.42-brand-arvika/",
-    "type": "Brand",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 526755,
-    "datetime": "2024-05-29 11:20:26 +02:00",
-    "name": "29 maj 10.07, Trafikolycka, Timrå",
-    "summary": "Larm om trafikolycka, Tynderö.",
-    "url": "/aktuellt/handelser/2024/maj/29/29-maj-10.07-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 526750,
-    "datetime": "2024-05-29 11:15:36 +02:00",
-    "name": "29 maj 10.50, Trafikolycka, vilt, Malå",
-    "summary": "Polisen får in en anmäöan om en olycka med en personbil och en ren.",
-    "url": "/aktuellt/handelser/2024/maj/29/29-maj-10.50-trafikolycka-vilt-mala/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Malå",
-      "gps": "65.18512,18.74907"
-    }
-  },
-  {
-    "id": 526731,
-    "datetime": "2024-05-29 10:31:55 +02:00",
-    "name": "29 maj 10.04, Trafikolycka, Östersund",
-    "summary": "Larm om trafikolycka Fagerbacken/Odensalavägen, Odenslund.",
-    "url": "/aktuellt/handelser/2024/maj/29/29-maj-10.04-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 526727,
-    "datetime": "2024-05-29 10:05:46 +02:00",
-    "name": "29 maj 07.46, Trafikolycka, personskada, Botkyrka",
-    "summary": "Trafikolycka med cyklist och traktorförare.",
-    "url": "/aktuellt/handelser/2024/maj/29/29-maj-07.46-trafikolycka-personskada-botkyrka/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
     }
   }
 ]
