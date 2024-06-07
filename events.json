@@ -1,5 +1,101 @@
 [
   {
+    "id": 527952,
+    "datetime": "2024-06-07 15:23:44 +02:00",
+    "name": "07 juni 12.41, Bråk, Umeå",
+    "summary": "Marieberg, polis beordas till ett gym med anledning av bråk",
+    "url": "/aktuellt/handelser/2024/juni/7/07-juni-12.41-brak-umea/",
+    "type": "Bråk",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 527951,
+    "datetime": "2024-06-07 15:16:36 +02:00",
+    "name": "07 juni 11.55, Våld/hot mot tjänsteman, Skellefteå",
+    "summary": "Centrum, polis beordras till ett hotell",
+    "url": "/aktuellt/handelser/2024/juni/7/07-juni-11.55-valdhot-mot-tjansteman-skelleftea/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 527950,
+    "datetime": "2024-06-07 15:13:52 +02:00",
+    "name": "07 juni 14.53, Trafikolycka, Örebro",
+    "summary": "En påkörningsolycka har inträffat i Lillån på riksväg 50",
+    "url": "/aktuellt/handelser/2024/juni/7/07-juni-14.53-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 527935,
+    "datetime": "2024-06-07 13:39:45 +02:00",
+    "name": "07 juni 13.00, Misshandel, Kristianstad",
+    "summary": "Man misshandlad, Kristianstad.",
+    "url": "/aktuellt/handelser/2024/juni/7/07-juni-13.00-misshandel-kristianstad/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 527927,
+    "datetime": "2024-06-07 12:20:19 +02:00",
+    "name": "07 juni 11.39, Trafikolycka, Lycksele",
+    "summary": "Lycksele, trafikolycka på Vilhelminavägen.",
+    "url": "/aktuellt/handelser/2024/juni/7/07-juni-11.39-trafikolycka-lycksele/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 527949,
+    "datetime": "2024-06-07 15:07:44 +02:00",
+    "name": "07 juni 13.38, Narkotikabrott, Uppsala",
+    "summary": "Soft air gun förverkades.",
+    "url": "/aktuellt/handelser/2024/juni/7/07-juni-13.38-narkotikabrott-uppsala/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 527948,
+    "datetime": "2024-06-07 15:05:13 +02:00",
+    "name": "07 juni 11.57, Olaga intrång, Stockholm",
+    "summary": "Ett 20-tal personer tog sig in i en byggnad på Östermalm. Samtidigt pågick en allmän sammankomst utanför byggn",
+    "url": "/aktuellt/handelser/2024/juni/7/07-juni-11.57-olaga-intrang-stockholm/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 527947,
+    "datetime": "2024-06-07 15:04:58 +02:00",
+    "name": "07 juni 14.13, Trafikkontroll, Kiruna",
+    "summary": "Lombololeden, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2024/juni/7/07-juni-14.13-trafikkontroll-kiruna/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
     "id": 527942,
     "datetime": "2024-06-07 14:31:22 +02:00",
     "name": "07 juni 11.52, Vållande till kroppsskada, Arvika",
@@ -36,18 +132,6 @@
     }
   },
   {
-    "id": 527935,
-    "datetime": "2024-06-07 13:39:45 +02:00",
-    "name": "07 juni 13.00, Misshandel, Kristianstad",
-    "summary": "Man misshandlad, Kristianstad.",
-    "url": "/aktuellt/handelser/2024/juni/7/07-juni-13.00-misshandel-kristianstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
     "id": 527933,
     "datetime": "2024-06-07 13:15:41 +02:00",
     "name": "07 juni 10.07, Trafikbrott, Östersund",
@@ -81,18 +165,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 527927,
-    "datetime": "2024-06-07 12:20:19 +02:00",
-    "name": "07 juni 11.39, Trafikolycka, Lycksele",
-    "summary": "Lycksele, trafikolycka på Vilhelminavägen.",
-    "url": "/aktuellt/handelser/2024/juni/7/07-juni-11.39-trafikolycka-lycksele/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 527123,
-    "datetime": "2024-05-30 20:35:54 +02:00",
-    "name": "30 maj 18.22, Stöld, Luleå",
-    "summary": "Örnäset, polisen larmas till en matbutik",
-    "url": "/aktuellt/handelser/2024/maj/30/30-maj-18.22-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 527122,
-    "datetime": "2024-05-30 20:29:04 +02:00",
-    "name": "30 maj 18.32, Misshandel, Stenungsund",
-    "summary": "En gärningsperson kastade kaffe på två andra personer",
-    "url": "/aktuellt/handelser/2024/maj/30/30-maj-18.32-misshandel-stenungsund/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 527121,
-    "datetime": "2024-05-30 20:28:49 +02:00",
-    "name": "30 maj 19.13, Trafikolycka, personskada, Stockholm",
-    "summary": "Buss och lastbil inblandad i trafikolycka i Gamla Stan.",
-    "url": "/aktuellt/handelser/2024/maj/30/30-maj-19.13-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 527120,
-    "datetime": "2024-05-30 19:49:47 +02:00",
-    "name": "30 maj 19.42, Trafikkontroll, Jämtlands län",
-    "summary": "Ett urval av polisen arbete i trafiken under eftermiddagen",
-    "url": "/aktuellt/handelser/2024/maj/30/30-maj-19.42-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 527119,
-    "datetime": "2024-05-30 19:37:36 +02:00",
-    "name": "30 maj 18.53, Trafikolycka, personskada, Halmstad",
-    "summary": "En person påkörd av en bilist",
-    "url": "/aktuellt/handelser/2024/maj/30/30-maj-18.53-trafikolycka-personskada-halmstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 527118,
-    "datetime": "2024-05-30 19:35:00 +02:00",
-    "name": "30 maj 18.13, Trafikolycka, Sundsvall",
-    "summary": "Sundsbruk, en motorcykel har kört ner i diket",
-    "url": "/aktuellt/handelser/2024/maj/30/30-maj-18.13-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
