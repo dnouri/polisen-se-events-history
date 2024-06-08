@@ -1,14 +1,50 @@
 [
   {
-    "id": 528036,
-    "datetime": "2024-06-08 12:11:48 +02:00",
-    "name": "08 juni 11.59, Arbetsplatsolycka, Malmö",
-    "summary": "Fallolycka, Fosie.",
-    "url": "/aktuellt/handelser/2024/juni/8/08-juni-11.59-arbetsplatsolycka-malmo/",
-    "type": "Arbetsplatsolycka",
+    "id": 528045,
+    "datetime": "2024-06-08 13:17:18 +02:00",
+    "name": "08 juni 11.58, Trafikolycka, Sigtuna",
+    "summary": "Två till sjukhus efter krock med mc och personbil i Sigtuna.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-11.58-trafikolycka-sigtuna/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 528044,
+    "datetime": "2024-06-08 13:10:11 +02:00",
+    "name": "08 juni 13.03, Försvunnen person, Västerås",
+    "summary": "Polisen sökte försvunnen man.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-13.03-forsvunnen-person-vasteras/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 528043,
+    "datetime": "2024-06-08 13:04:46 +02:00",
+    "name": "08 juni 12.54, Trafikolycka, Botkyrka",
+    "summary": "Trafikolycka på E4 i höjd med Hallunda, norrgående.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-12.54-trafikolycka-botkyrka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 528042,
+    "datetime": "2024-06-08 13:02:58 +02:00",
+    "name": "08 juni 10.43, Stöld/inbrott, Håbo",
+    "summary": "Inbrott i bostad.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-10.43-stoldinbrott-habo/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
     }
   },
   {
@@ -24,6 +60,30 @@
     }
   },
   {
+    "id": 528041,
+    "datetime": "2024-06-08 12:56:24 +02:00",
+    "name": "08 juni 10.13, Stöld, Sandviken",
+    "summary": "Företag utsatt för stöld.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-10.13-stold-sandviken/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 528040,
+    "datetime": "2024-06-08 12:52:16 +02:00",
+    "name": "08 juni 10.24, Rattfylleri, Huddinge",
+    "summary": "Misstänkt rattfylleri i Skogås.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-10.24-rattfylleri-huddinge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
     "id": 528037,
     "datetime": "2024-06-08 12:32:30 +02:00",
     "name": "08 juni 12.31, Brand, Norrköping",
@@ -33,6 +93,30 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 528039,
+    "datetime": "2024-06-08 12:45:51 +02:00",
+    "name": "08 juni 12.45, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-12.45-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 528036,
+    "datetime": "2024-06-08 12:11:48 +02:00",
+    "name": "08 juni 11.59, Arbetsplatsolycka, Malmö",
+    "summary": "Fallolycka, Fosie.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-11.59-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Haparanda",
       "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 527272,
-    "datetime": "2024-05-31 20:29:38 +02:00",
-    "name": "31 maj 20.23, Trafikolycka, Sölvesborg",
-    "summary": "Fyrhjuling i olycka, Norje.",
-    "url": "/aktuellt/handelser/2024/maj/31/31-maj-20.23-trafikolycka-solvesborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
-    }
-  },
-  {
-    "id": 527275,
-    "datetime": "2024-05-31 20:53:25 +02:00",
-    "name": "31 maj 20.53, Våldtäkt, Östersund",
-    "summary": "Man anhållen misstänkt för våldtäkt.",
-    "url": "/aktuellt/handelser/2024/maj/31/31-maj-20.53-valdtakt-ostersund/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 527268,
-    "datetime": "2024-05-31 20:50:53 +02:00",
-    "name": "31 maj 20.50, Stöld, Oxelösund",
-    "summary": "Man i 50-årsåldern utsatt för grov stöld.",
-    "url": "/aktuellt/handelser/2024/maj/31/31-maj-20.50-stold-oxelosund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Oxelösund",
-      "gps": "58.675485,17.074955"
-    }
-  },
-  {
-    "id": 527274,
-    "datetime": "2024-05-31 20:42:20 +02:00",
-    "name": "31 maj 19.30, Stöld, Sundsvall",
-    "summary": "Man misstänks för stöld i butik.",
-    "url": "/aktuellt/handelser/2024/maj/31/31-maj-19.30-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 527273,
-    "datetime": "2024-05-31 20:36:39 +02:00",
-    "name": "31 maj 18.20, Trafikbrott, Umeå",
-    "summary": "A-traktorförare fick ordningsbot för körförbud.",
-    "url": "/aktuellt/handelser/2024/maj/31/31-maj-18.20-trafikbrott-umea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 527264,
-    "datetime": "2024-05-31 20:35:25 +02:00",
-    "name": "31 maj 18.26, Trafikolycka, Kungsbacka",
-    "summary": "SOS får larm om en singelolycka i centrala Frillesås och kontaktar polisen.",
-    "url": "/aktuellt/handelser/2024/maj/31/31-maj-18.26-trafikolycka-kungsbacka/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 527265,
-    "datetime": "2024-05-31 19:52:35 +02:00",
-    "name": "31 maj 19.40, Trafikolycka, Kungsbacka",
-    "summary": "På E6 i höjd med Hanhals har en personbil kört in i ett mitträcke.",
-    "url": "/aktuellt/handelser/2024/maj/31/31-maj-19.40-trafikolycka-kungsbacka/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
     }
   }
 ]
