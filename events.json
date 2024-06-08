@@ -1,5 +1,41 @@
 [
   {
+    "id": 528051,
+    "datetime": "2024-06-08 15:21:20 +02:00",
+    "name": "08 juni 15.17, Mord/dråp, försök, Malmö",
+    "summary": "Man gripen, Malmö.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-15.17-morddrap-forsok-malmo/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 528050,
+    "datetime": "2024-06-08 14:59:33 +02:00",
+    "name": "08 juni 14.46, Brand, Tomelilla",
+    "summary": "Brand i lägenhet, Tomelilla.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-14.46-brand-tomelilla/",
+    "type": "Brand",
+    "location": {
+      "name": "Tomelilla",
+      "gps": "55.54355,13.95484"
+    }
+  },
+  {
+    "id": 528047,
+    "datetime": "2024-06-08 14:03:53 +02:00",
+    "name": "08 juni 09.53, Djur, Uppsala",
+    "summary": "Lösa kor på länsväg 255.",
+    "url": "/aktuellt/handelser/2024/juni/8/08-juni-09.53-djur-uppsala/",
+    "type": "Djur",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 528049,
     "datetime": "2024-06-08 14:35:09 +02:00",
     "name": "08 juni 14.35, Trafikkontroll, Östersund",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 528047,
-    "datetime": "2024-06-08 14:03:53 +02:00",
-    "name": "08 juni 09.53, Djur, Uppsala",
-    "summary": "Lösa kor på länsväg 255.",
-    "url": "/aktuellt/handelser/2024/juni/8/08-juni-09.53-djur-uppsala/",
-    "type": "Djur",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Alvesta",
       "gps": "56.89921,14.556001"
-    }
-  },
-  {
-    "id": 527282,
-    "datetime": "2024-06-01 6:27:06 +02:00",
-    "name": "01 juni 01.00, Misshandel, Kalmar",
-    "summary": "Man gripen för mishandel.",
-    "url": "/aktuellt/handelser/2024/juni/1/01-juni-01.00-misshandel-kalmar/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 527278,
-    "datetime": "2024-05-31 22:00:27 +02:00",
-    "name": "31 maj 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl",
-    "url": "/aktuellt/handelser/2024/maj/31/31-maj-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
