@@ -1,5 +1,53 @@
 [
   {
+    "id": 529660,
+    "datetime": "2024-06-12 13:03:19 +02:00",
+    "name": "12 juni 12.39, Brand, Skellefteå",
+    "summary": "Skellefteå, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/juni/12/12-juni-12.39-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 529659,
+    "datetime": "2024-06-12 12:57:02 +02:00",
+    "name": "12 juni 12.56, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från nykterhetskontroller i dag.",
+    "url": "/aktuellt/handelser/2024/juni/12/12-juni-12.56-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 529657,
+    "datetime": "2024-06-12 12:51:12 +02:00",
+    "name": "12 juni 12.51, Trafikkontroll, Åre",
+    "summary": "Åre kommun, resultat från trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2024/juni/12/12-juni-12.51-trafikkontroll-are/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 529651,
+    "datetime": "2024-06-12 12:26:50 +02:00",
+    "name": "12 juni 11.45, Trafikolycka, Luleå",
+    "summary": "Luleå, trafikolycka på Hertsön",
+    "url": "/aktuellt/handelser/2024/juni/12/12-juni-11.45-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 529654,
     "datetime": "2024-06-12 12:37:56 +02:00",
     "name": "12 juni 12.35, Rattfylleri, Falun",
@@ -33,18 +81,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 529651,
-    "datetime": "2024-06-12 12:26:50 +02:00",
-    "name": "12 juni 11.45, Trafikolycka, Luleå",
-    "summary": "Luleå, trafikolycka på Hertsön",
-    "url": "/aktuellt/handelser/2024/juni/12/12-juni-11.45-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 527745,
-    "datetime": "2024-06-05 12:54:16 +02:00",
-    "name": "05 juni 12.05, Trafikolycka, Robertsfors",
-    "summary": "Singelolycka med personbil i Överklinten.",
-    "url": "/aktuellt/handelser/2024/juni/5/05-juni-12.05-trafikolycka-robertsfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 527780,
-    "datetime": "2024-06-05 13:08:39 +02:00",
-    "name": "05 juni 11.10, Stöld, Umeå",
-    "summary": "Kvinna misstänks för stöld i butik.",
-    "url": "/aktuellt/handelser/2024/juni/5/05-juni-11.10-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 527721,
-    "datetime": "2024-06-05 11:12:10 +02:00",
-    "name": "05 juni 10.42, Brand, Arvika",
-    "summary": "En trailer med järnvägsspår brinner",
-    "url": "/aktuellt/handelser/2024/juni/5/05-juni-10.42-brand-arvika/",
-    "type": "Brand",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   }
 ]
