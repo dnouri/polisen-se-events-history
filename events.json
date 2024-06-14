@@ -1,5 +1,65 @@
 [
   {
+    "id": 530022,
+    "datetime": "2024-06-14 10:13:30 +02:00",
+    "name": "14 juni 07.45, Trafikolycka, Jönköping",
+    "summary": "Lastbilschaufför somnade vid ratten - misstänks för trafikbrott.",
+    "url": "/aktuellt/handelser/2024/juni/14/14-juni-07.45-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 530013,
+    "datetime": "2024-06-14 10:04:33 +02:00",
+    "name": "14 juni 08.09, Vapenlagen, Sollentuna",
+    "summary": "Vid ett grävningsarbete i Sjötorp hittades ett vapenliknande föremål.",
+    "url": "/aktuellt/handelser/2024/juni/14/14-juni-08.09-vapenlagen-sollentuna/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 530021,
+    "datetime": "2024-06-14 10:01:40 +02:00",
+    "name": "14 juni 09.55, Ordningslagen, Stockholm",
+    "summary": "Polisen är på plats på och vid Norrbro med anledning av en allmän sammankomst.",
+    "url": "/aktuellt/handelser/2024/juni/14/14-juni-09.55-ordningslagen-stockholm/",
+    "type": "Ordningslagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 530014,
+    "datetime": "2024-06-14 9:55:07 +02:00",
+    "name": "13 juni 18.42, Stöld, Uppsala",
+    "summary": "Ungdomar stal flagga i samband med prisutdelning på Virtus-EM.",
+    "url": "/aktuellt/handelser/2024/juni/13/13-juni-18.42-stold-uppsala/",
+    "type": "Stöld",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 529961,
+    "datetime": "2024-06-13 21:49:59 +02:00",
+    "name": "13 juni 20.40, Mord/dråp, försök, Nacka",
+    "summary": "Larm om våldsbrott i Lännersta.",
+    "url": "/aktuellt/handelser/2024/juni/13/13-juni-20.40-morddrap-forsok-nacka/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
     "id": 529973,
     "datetime": "2024-06-14 7:01:46 +02:00",
     "name": "14 juni 07.00, Sammanfattning kväll och natt, Västra Götalands län",
@@ -309,18 +369,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 529961,
-    "datetime": "2024-06-13 21:49:59 +02:00",
-    "name": "13 juni 20.40, Mord/dråp, försök, Nacka",
-    "summary": "Larm om våldsbrott i Lännersta.",
-    "url": "/aktuellt/handelser/2024/juni/13/13-juni-20.40-morddrap-forsok-nacka/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Klippan",
       "gps": "56.1349,13.129041"
-    }
-  },
-  {
-    "id": 528008,
-    "datetime": "2024-06-08 6:36:41 +02:00",
-    "name": "07 juni 22.49, Våld/hot mot tjänsteman, Malmö",
-    "summary": "Stök i samband med studentfirande, centrum.",
-    "url": "/aktuellt/handelser/2024/juni/7/07-juni-22.49-valdhot-mot-tjansteman-malmo/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 528006,
-    "datetime": "2024-06-08 6:28:20 +02:00",
-    "name": "08 juni 04.15, Stöld/inbrott, Landskrona",
-    "summary": "Inbrott i butik, Landskrona.",
-    "url": "/aktuellt/handelser/2024/juni/8/08-juni-04.15-stoldinbrott-landskrona/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 528005,
-    "datetime": "2024-06-08 6:21:51 +02:00",
-    "name": "08 juni 01.38, Rattfylleri, Malmö",
-    "summary": "Misstänkt påverkad förare, centrum.",
-    "url": "/aktuellt/handelser/2024/juni/8/08-juni-01.38-rattfylleri-malmo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 528004,
-    "datetime": "2024-06-08 6:14:25 +02:00",
-    "name": "08 juni 01.11, Rattfylleri, Osby",
-    "summary": "Misstänkt påverkad förare, Osby.",
-    "url": "/aktuellt/handelser/2024/juni/8/08-juni-01.11-rattfylleri-osby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
     }
   }
 ]
