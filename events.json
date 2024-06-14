@@ -1,5 +1,29 @@
 [
   {
+    "id": 530081,
+    "datetime": "2024-06-14 19:25:41 +02:00",
+    "name": "14 juni 18.58, Brand, Kramfors",
+    "summary": "Nyland, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/juni/14/14-juni-18.58-brand-kramfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 530077,
+    "datetime": "2024-06-14 18:22:30 +02:00",
+    "name": "14 juni 18.01, Trafikolycka, Haparanda",
+    "summary": "Haparanda, trafikolycka i centrum.",
+    "url": "/aktuellt/handelser/2024/juni/14/14-juni-18.01-trafikolycka-haparanda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
     "id": 530080,
     "datetime": "2024-06-14 18:38:12 +02:00",
     "name": "14 juni 17.56, Trafikolycka, Torsby",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Torsby",
       "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 530076,
+    "datetime": "2024-06-14 18:14:40 +02:00",
+    "name": "14 juni 17.37, Brand, Skövde",
+    "summary": "En brand i en lägenhet på Kilbacksvägen är under kontroll.",
+    "url": "/aktuellt/handelser/2024/juni/14/14-juni-17.37-brand-skovde/",
+    "type": "Brand",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
     }
   },
   {
@@ -36,18 +72,6 @@
     }
   },
   {
-    "id": 530077,
-    "datetime": "2024-06-14 18:22:30 +02:00",
-    "name": "14 juni 18.01, Trafikolycka, Haparanda",
-    "summary": "Haparanda, trafikolycka i centrum.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-18.01-trafikolycka-haparanda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
-    }
-  },
-  {
     "id": 530075,
     "datetime": "2024-06-14 18:13:54 +02:00",
     "name": "14 juni 17.51, Trafikolycka, Karlskoga",
@@ -57,18 +81,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 530076,
-    "datetime": "2024-06-14 18:14:40 +02:00",
-    "name": "14 juni 17.37, Brand, Skövde",
-    "summary": "En brand i en lägenhet på Kilbacksvägen är under kontroll.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-17.37-brand-skovde/",
-    "type": "Brand",
-    "location": {
-      "name": "Skövde",
-      "gps": "58.390278,13.846121"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 528049,
-    "datetime": "2024-06-08 14:35:09 +02:00",
-    "name": "08 juni 14.35, Trafikkontroll, Östersund",
-    "summary": "Östersund, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/juni/8/08-juni-14.35-trafikkontroll-ostersund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
