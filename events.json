@@ -1,5 +1,89 @@
 [
   {
+    "id": 530154,
+    "datetime": "2024-06-15 14:36:16 +02:00",
+    "name": "15 juni 12.24, Rattfylleri, Filipstad",
+    "summary": "Man i 20-årsåldern misstänkt för drograttfylleri i Filipstad.",
+    "url": "/aktuellt/handelser/2024/juni/15/15-juni-12.24-rattfylleri-filipstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 530153,
+    "datetime": "2024-06-15 14:16:44 +02:00",
+    "name": "15 juni 12.58, Misshandel, Skellefteå",
+    "summary": "Anmälan upprättas efter bråk i tvättstuga.",
+    "url": "/aktuellt/handelser/2024/juni/15/15-juni-12.58-misshandel-skelleftea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 530152,
+    "datetime": "2024-06-15 14:14:13 +02:00",
+    "name": "15 juni 11.10, Stöld, Umeå",
+    "summary": "Okänd person gripen misstänkt för butiksstöld.",
+    "url": "/aktuellt/handelser/2024/juni/15/15-juni-11.10-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 530151,
+    "datetime": "2024-06-15 14:07:26 +02:00",
+    "name": "15 juni 13.38, Rån, Borlänge",
+    "summary": "Väskryckning i området Tallmoheden, Borlänge",
+    "url": "/aktuellt/handelser/2024/juni/15/15-juni-13.38-ran-borlange/",
+    "type": "Rån",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 530124,
+    "datetime": "2024-06-15 9:26:04 +02:00",
+    "name": "15 juni 08.10, Trafikolycka, Härnösand",
+    "summary": "Trafikolycka på länsväg 331 Villola, Viksjö, Härnösand.",
+    "url": "/aktuellt/handelser/2024/juni/15/15-juni-08.10-trafikolycka-harnosand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 530150,
+    "datetime": "2024-06-15 14:04:17 +02:00",
+    "name": "15 juni 14.00, Kontroll person/fordon, Stockholm",
+    "summary": "Sjöpolisen har under förmiddagen varit vid Hornsbergs strand och i samband med det kontrollerades tre förare a",
+    "url": "/aktuellt/handelser/2024/juni/15/15-juni-14.00-kontroll-personfordon-stockholm/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 530104,
+    "datetime": "2024-06-15 7:05:17 +02:00",
+    "name": "15 juni 07.01, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats, nedan följer en sammanfattning från kvällen/natten.",
+    "url": "/aktuellt/handelser/2024/juni/15/15-juni-07.01-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 530149,
     "datetime": "2024-06-15 13:40:49 +02:00",
     "name": "15 juni 13.41, Trafikkontroll, Västerbottens län",
@@ -21,18 +105,6 @@
     "location": {
       "name": "Sollentuna",
       "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 530124,
-    "datetime": "2024-06-15 9:26:04 +02:00",
-    "name": "15 juni 08.10, Trafikolycka, Härnösand",
-    "summary": "Trafikolycka på länsväg 331 Villola, Viksjö, Härnösand.",
-    "url": "/aktuellt/handelser/2024/juni/15/15-juni-08.10-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   },
   {
@@ -525,18 +597,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 530104,
-    "datetime": "2024-06-15 7:05:17 +02:00",
-    "name": "15 juni 07.01, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats, nedan följer en sammanfattning från kvällen/natten.",
-    "url": "/aktuellt/handelser/2024/juni/15/15-juni-07.01-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 528119,
-    "datetime": "2024-06-09 14:56:10 +02:00",
-    "name": "09 juni 12.59, Ofredande/förargelse, Skellefteå",
-    "summary": "Skellefteå, man misstänks för kränkande fotografering.",
-    "url": "/aktuellt/handelser/2024/juni/9/09-juni-12.59-ofredandeforargelse-skelleftea/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 528117,
-    "datetime": "2024-06-09 14:55:40 +02:00",
-    "name": "09 juni 14.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/juni/9/09-juni-14.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 528118,
-    "datetime": "2024-06-09 14:55:31 +02:00",
-    "name": "09 juni 14.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/juni/9/09-juni-14.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 528116,
-    "datetime": "2024-06-09 14:22:58 +02:00",
-    "name": "09 juni 10.56, Misshandel, Avesta",
-    "summary": "Polisen har gripit en man i fyrtioårsåldern misstänkt för misshandel och barnfridsbrott.",
-    "url": "/aktuellt/handelser/2024/juni/9/09-juni-10.56-misshandel-avesta/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 528115,
-    "datetime": "2024-06-09 14:16:32 +02:00",
-    "name": "09 juni 12.19, Olaga hot, Mora",
-    "summary": "En man i fyrtiofemårsåldern har gripits misstänkt för olaga hot.",
-    "url": "/aktuellt/handelser/2024/juni/9/09-juni-12.19-olaga-hot-mora/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
     }
   }
 ]
