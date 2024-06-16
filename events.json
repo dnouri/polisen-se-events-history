@@ -1,5 +1,65 @@
 [
   {
+    "id": 530176,
+    "datetime": "2024-06-16 6:42:33 +02:00",
+    "name": "15 juni 23.45, Misshandel, Malmö",
+    "summary": "Polis beordras till Folkets Park med anledning av en misshandel.",
+    "url": "/aktuellt/handelser/2024/juni/15/15-juni-23.45-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 530175,
+    "datetime": "2024-06-16 6:36:19 +02:00",
+    "name": "16 juni 04.41, Rattfylleri, Markaryd",
+    "summary": "Man i 25-årsåldern blir misstänkt för rattfylleri.",
+    "url": "/aktuellt/handelser/2024/juni/16/16-juni-04.41-rattfylleri-markaryd/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 529769,
+    "datetime": "2024-06-13 5:56:19 +02:00",
+    "name": "15 juni 07.00, Övrigt, Örebro län",
+    "summary": "Presstelefonen Region Bergslagen söndag 07:00 t.o.m.16:00",
+    "url": "/aktuellt/handelser/2024/juni/13/15-juni-07.00-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 529770,
+    "datetime": "2024-06-13 6:01:22 +02:00",
+    "name": "15 juni 07.00, Övrigt, Dalarnas län",
+    "summary": "Presstelefonen Region Bergslagen söndag 07:00 t.o.m. 16:00",
+    "url": "/aktuellt/handelser/2024/juni/13/15-juni-07.00-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 529771,
+    "datetime": "2024-06-13 6:06:35 +02:00",
+    "name": "13 juni 07.00, Övrigt, Värmlands län",
+    "summary": "Presstelefonen Region Bergslagen söndag 07:00 t.o.m. 16:00.",
+    "url": "/aktuellt/handelser/2024/juni/13/13-juni-07.00-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 530174,
     "datetime": "2024-06-16 6:16:59 +02:00",
     "name": "16 juni 01.52, Misshandel, Oskarshamn",
@@ -789,42 +849,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 529771,
-    "datetime": "2024-06-13 6:06:35 +02:00",
-    "name": "13 juni 07.00, Övrigt, Värmlands län",
-    "summary": "Presstelefonen Region Bergslagen lördag 07:00 t.o.m. 15:30.",
-    "url": "/aktuellt/handelser/2024/juni/13/13-juni-07.00-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 529770,
-    "datetime": "2024-06-13 6:01:22 +02:00",
-    "name": "15 juni 07.00, Övrigt, Dalarnas län",
-    "summary": "Presstelefonen Region Bergslagen lördag 07:00 t.o.m. 15:30",
-    "url": "/aktuellt/handelser/2024/juni/13/15-juni-07.00-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 529769,
-    "datetime": "2024-06-13 5:56:19 +02:00",
-    "name": "15 juni 07.00, Övrigt, Örebro län",
-    "summary": "Presstelefonen Region Bergslagen lördag 07:00 t.o.m.15:30",
-    "url": "/aktuellt/handelser/2024/juni/13/15-juni-07.00-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 529134,
-    "datetime": "2024-06-10 7:22:32 +02:00",
-    "name": "10 juni 07.22, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till måndag polisområde Värmland.",
-    "url": "/aktuellt/handelser/2024/juni/10/10-juni-07.22-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 529140,
-    "datetime": "2024-06-10 7:22:03 +02:00",
-    "name": "10 juni 07.21, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till måndag polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2024/juni/10/10-juni-07.21-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
