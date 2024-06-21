@@ -1,5 +1,65 @@
 [
   {
+    "id": 530903,
+    "datetime": "2024-06-21 20:59:34 +02:00",
+    "name": "21 juni 20.16, Misshandel, Bromölla",
+    "summary": "En man blir slagen och sparkad på Ågatan och polis skickas till platsen.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-20.16-misshandel-bromolla/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Bromölla",
+      "gps": "56.074362,14.477659"
+    }
+  },
+  {
+    "id": 530762,
+    "datetime": "2024-06-20 11:38:58 +02:00",
+    "name": "20 juni 09.55, Arbetsplatsolycka, Södertälje",
+    "summary": "En person har fallit från en hög ställning och får åka ambulans till sjukhus.",
+    "url": "/aktuellt/handelser/2024/juni/20/20-juni-09.55-arbetsplatsolycka-sodertalje/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 530901,
+    "datetime": "2024-06-21 20:54:29 +02:00",
+    "name": "21 juni 19.09, Brand, Vallentuna",
+    "summary": "Inga misstankar om brott i samband med brand i Lövsättra.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-19.09-brand-vallentuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 530902,
+    "datetime": "2024-06-21 20:54:25 +02:00",
+    "name": "21 juni 18.46, Brand, Stockholm",
+    "summary": "Misstänkt anlagd brand i flerbostadshus i Blackeberg.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-18.46-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 530900,
+    "datetime": "2024-06-21 20:54:22 +02:00",
+    "name": "21 juni 19.47, Rattfylleri, Haninge",
+    "summary": "Rattfylla i Rudan.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-19.47-rattfylleri-haninge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
     "id": 530899,
     "datetime": "2024-06-21 20:07:45 +02:00",
     "name": "21 juni 18.46, Sedlighetsbrott, Stockholm",
@@ -1197,18 +1257,6 @@
     "location": {
       "name": "Bollebygd",
       "gps": "57.668969,12.570143"
-    }
-  },
-  {
-    "id": 530762,
-    "datetime": "2024-06-20 11:38:58 +02:00",
-    "name": "20 juni 09.55, Arbetsplatsolycka, Södertälje",
-    "summary": "En person har fallit från en hög ställning och får åka ambulans till sjukhus.",
-    "url": "/aktuellt/handelser/2024/juni/20/20-juni-09.55-arbetsplatsolycka-sodertalje/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 530073,
-    "datetime": "2024-06-14 17:03:34 +02:00",
-    "name": "14 juni 16.35, Fylleri/LOB, Umeå",
-    "summary": "Umeå, person omhändertagen i centrala stan.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-16.35-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 530072,
-    "datetime": "2024-06-14 16:59:24 +02:00",
-    "name": "14 juni 16.26, Trafikkontroll, Piteå",
-    "summary": "Piteå, resultat från en trafikkontroll på länsväg 506.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-16.26-trafikkontroll-pitea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 530071,
-    "datetime": "2024-06-14 16:46:07 +02:00",
-    "name": "14 juni 16.34, Trafikolycka, Landskrona",
-    "summary": "Trafikolycka på E6 i höjd med Axeltofta.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-16.34-trafikolycka-landskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 530062,
-    "datetime": "2024-06-14 15:18:15 +02:00",
-    "name": "14 juni 15.17, Trafikolycka, Kumla",
-    "summary": "Mopedist och bilist har kolliderat i Kumla",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-15.17-trafikolycka-kumla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
     }
   }
 ]
