@@ -1,5 +1,113 @@
 [
   {
+    "id": 530863,
+    "datetime": "2024-06-21 11:22:18 +02:00",
+    "name": "21 juni 10.25, Trafikkontroll, Örnsköldsvik",
+    "summary": "Resultat efter trafikkontroll på E4, Idbyn.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-10.25-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 530862,
+    "datetime": "2024-06-21 11:22:07 +02:00",
+    "name": "21 juni 09.55, Trafikkontroll, Överkalix",
+    "summary": "Resultat efter nykterhetskontroll på Smedvägen, Tallvik.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-09.55-trafikkontroll-overkalix/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Överkalix",
+      "gps": "66.327176,22.842752"
+    }
+  },
+  {
+    "id": 530865,
+    "datetime": "2024-06-21 11:21:29 +02:00",
+    "name": "21 juni 03.40, Misshandel, grov, Tidaholm",
+    "summary": "En person gripen under natten",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-03.40-misshandel-grov-tidaholm/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Tidaholm",
+      "gps": "58.181769,13.959474"
+    }
+  },
+  {
+    "id": 530864,
+    "datetime": "2024-06-21 11:12:55 +02:00",
+    "name": "21 juni 11.16, Trafikkontroll, Östersund",
+    "summary": "Resultat efter trafikkontroll på Färjemansgatan i centrala Östersund.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-11.16-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 530853,
+    "datetime": "2024-06-21 9:51:47 +02:00",
+    "name": "21 juni 09.39, Trafikolycka, Olofström",
+    "summary": "Personbil och cyklist i olycka, Jämshög.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-09.39-trafikolycka-olofstrom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Olofström",
+      "gps": "56.277708,14.530938"
+    }
+  },
+  {
+    "id": 530861,
+    "datetime": "2024-06-21 10:58:50 +02:00",
+    "name": "21 juni 10.50, Trafikolycka, Hultsfred",
+    "summary": "Två personbilar i olycka, Bockara.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-10.50-trafikolycka-hultsfred/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
+    }
+  },
+  {
+    "id": 530860,
+    "datetime": "2024-06-21 10:55:09 +02:00",
+    "name": "21 juni 09.41, Arbetsplatsolycka, Täby",
+    "summary": "En hantverkare skadade sig under ett arbete inomhus i Täby centrum.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-09.41-arbetsplatsolycka-taby/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
+    "id": 530859,
+    "datetime": "2024-06-21 10:50:08 +02:00",
+    "name": "21 juni 10.31, Misshandel, Stockholm",
+    "summary": "Allmänhet ringer in om ett slagsmål på Odenplan.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-10.31-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 530857,
+    "datetime": "2024-06-21 10:47:40 +02:00",
+    "name": "21 juni 09.44, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter nykterhetskontroll på Örnsköldsallén, Västermalm.",
+    "url": "/aktuellt/handelser/2024/juni/21/21-juni-09.44-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 530856,
     "datetime": "2024-06-21 10:40:47 +02:00",
     "name": "21 juni 09.37, Trafikkontroll, Skellefteå",
@@ -33,18 +141,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 530853,
-    "datetime": "2024-06-21 9:51:47 +02:00",
-    "name": "21 juni 09.39, Trafikolycka, Olofström",
-    "summary": "Personbil och cyklist i olycka, Jämshög.",
-    "url": "/aktuellt/handelser/2024/juni/21/21-juni-09.39-trafikolycka-olofstrom/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Olofström",
-      "gps": "56.277708,14.530938"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 530039,
-    "datetime": "2024-06-14 11:55:05 +02:00",
-    "name": "14 juni 10.29, Trafikbrott, Södertälje",
-    "summary": "Samtal om att en lastbil med tillkopplat släp framförs vingligt på E4 norrut vid trafikplats Hölö.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-10.29-trafikbrott-sodertalje/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 530028,
-    "datetime": "2024-06-14 10:50:54 +02:00",
-    "name": "14 juni 09.49, Knivlagen, Uddevalla",
-    "summary": "Brott mot knivlagen",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-09.49-knivlagen-uddevalla/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Uddevalla",
-      "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 530020,
-    "datetime": "2024-06-14 10:50:25 +02:00",
-    "name": "14 juni 09.54, Knivlagen, Västerås",
-    "summary": "Man hade kniv med sig in på tingsrätten.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-09.54-knivlagen-vasteras/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 530026,
-    "datetime": "2024-06-14 10:42:34 +02:00",
-    "name": "14 juni 09.58, Trafikhinder, Enköping",
-    "summary": "Stillastående bil med husvagn på E18.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-09.58-trafikhinder-enkoping/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 530022,
-    "datetime": "2024-06-14 10:13:30 +02:00",
-    "name": "14 juni 07.45, Trafikolycka, Jönköping",
-    "summary": "Lastbilschaufför somnade vid ratten - misstänks för trafikbrott.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-07.45-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 530014,
-    "datetime": "2024-06-14 9:55:07 +02:00",
-    "name": "13 juni 18.42, Stöld, Uppsala",
-    "summary": "Ungdomar stal flagga i samband med prisutdelning på Virtus-EM.",
-    "url": "/aktuellt/handelser/2024/juni/13/13-juni-18.42-stold-uppsala/",
-    "type": "Stöld",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 529961,
-    "datetime": "2024-06-13 21:49:59 +02:00",
-    "name": "13 juni 20.40, Mord/dråp, försök, Nacka",
-    "summary": "Larm om våldsbrott i Lännersta.",
-    "url": "/aktuellt/handelser/2024/juni/13/13-juni-20.40-morddrap-forsok-nacka/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 529973,
-    "datetime": "2024-06-14 7:01:46 +02:00",
-    "name": "14 juni 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats, nedan följer en sammanfattning från kvällen/natten.",
-    "url": "/aktuellt/handelser/2024/juni/14/14-juni-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
