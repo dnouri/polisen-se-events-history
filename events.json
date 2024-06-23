@@ -1,5 +1,89 @@
 [
   {
+    "id": 530985,
+    "datetime": "2024-06-23 12:03:59 +02:00",
+    "name": "23 juni 08.14, Rån, Göteborg",
+    "summary": "En person rånad på sin cykel i Kvillebäcken",
+    "url": "/aktuellt/handelser/2024/juni/23/23-juni-08.14-ran-goteborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 530975,
+    "datetime": "2024-06-23 10:29:04 +02:00",
+    "name": "23 juni 02.14, Sjukdom/olycksfall, Stockholm",
+    "summary": "Polisen utreder brott efter att en äldre kvinna hittats livlös i södra Stockholm.",
+    "url": "/aktuellt/handelser/2024/juni/23/23-juni-02.14-sjukdomolycksfall-stockholm/",
+    "type": "Sjukdom/olycksfall",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 530984,
+    "datetime": "2024-06-23 12:01:48 +02:00",
+    "name": "23 juni 09.44, Arbetsplatsolycka, Skellefteå",
+    "summary": "Skelleftehamn, en man ska ha kommit i kontakt med kemikalier",
+    "url": "/aktuellt/handelser/2024/juni/23/23-juni-09.44-arbetsplatsolycka-skelleftea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 530983,
+    "datetime": "2024-06-23 11:53:14 +02:00",
+    "name": "23 juni 11.45, Trafikolycka, Hallsberg",
+    "summary": "En lastbil har vält i en kurva på Lv 530",
+    "url": "/aktuellt/handelser/2024/juni/23/23-juni-11.45-trafikolycka-hallsberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
+    }
+  },
+  {
+    "id": 530982,
+    "datetime": "2024-06-23 11:53:12 +02:00",
+    "name": "23 juni 11.52, Trafikkontroll, Västernorrlands län",
+    "summary": "Ett urval av polisens arbete i trafiken under dagen",
+    "url": "/aktuellt/handelser/2024/juni/23/23-juni-11.52-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 530981,
+    "datetime": "2024-06-23 11:49:35 +02:00",
+    "name": "23 juni 11.39, Trafikolycka, Säffle",
+    "summary": "Kollision mellan två bilister har inträffat p åSommarrovägeni Säffle",
+    "url": "/aktuellt/handelser/2024/juni/23/23-juni-11.39-trafikolycka-saffle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 530980,
+    "datetime": "2024-06-23 11:45:46 +02:00",
+    "name": "23 juni 10.07, Olaga hot, Laxå",
+    "summary": "Misstänkt påverkad man har varit våldsam på ett tåg",
+    "url": "/aktuellt/handelser/2024/juni/23/23-juni-10.07-olaga-hot-laxa/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
     "id": 530979,
     "datetime": "2024-06-23 11:34:28 +02:00",
     "name": "23 juni 08.39, Misshandel, Täby",
@@ -81,18 +165,6 @@
     "location": {
       "name": "Gotlands län",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 530975,
-    "datetime": "2024-06-23 10:29:04 +02:00",
-    "name": "23 juni 02.14, Sjukdom/olycksfall, Stockholm",
-    "summary": "Polisen utreder brott efter att en äldre kvinna hittats livlös i södra Stockholm.",
-    "url": "/aktuellt/handelser/2024/juni/23/23-juni-02.14-sjukdomolycksfall-stockholm/",
-    "type": "Sjukdom/olycksfall",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5922,78 +5994,6 @@
     "summary": "Avslutad övning.",
     "url": "/aktuellt/handelser/2024/juni/15/15-juni-16.28-ovrigt-umea/",
     "type": "Övrigt",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 530158,
-    "datetime": "2024-06-15 16:01:57 +02:00",
-    "name": "15 juni 15.18, Brand, Nynäshamn",
-    "summary": "Det har brunnit i ett bostadshus.",
-    "url": "/aktuellt/handelser/2024/juni/15/15-juni-15.18-brand-nynashamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 530157,
-    "datetime": "2024-06-15 15:34:14 +02:00",
-    "name": "15 juni 15.05, Brand, Kalmar",
-    "summary": "Brand i husbil på Stensö.",
-    "url": "/aktuellt/handelser/2024/juni/15/15-juni-15.05-brand-kalmar/",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 530155,
-    "datetime": "2024-06-15 14:45:49 +02:00",
-    "name": "15 juni 14.20, Trafikolycka, Klippan",
-    "summary": "Påkörd cyklist på Rv13 vid Lilla Kloster, Ljungbyhed.",
-    "url": "/aktuellt/handelser/2024/juni/15/15-juni-14.20-trafikolycka-klippan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Klippan",
-      "gps": "56.1349,13.129041"
-    }
-  },
-  {
-    "id": 530154,
-    "datetime": "2024-06-15 14:36:16 +02:00",
-    "name": "15 juni 12.24, Rattfylleri, Filipstad",
-    "summary": "Man i 20-årsåldern misstänkt för drograttfylleri i Filipstad.",
-    "url": "/aktuellt/handelser/2024/juni/15/15-juni-12.24-rattfylleri-filipstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Filipstad",
-      "gps": "59.713997,14.169845"
-    }
-  },
-  {
-    "id": 530153,
-    "datetime": "2024-06-15 14:16:44 +02:00",
-    "name": "15 juni 12.58, Misshandel, Skellefteå",
-    "summary": "Anmälan upprättas efter bråk i tvättstuga.",
-    "url": "/aktuellt/handelser/2024/juni/15/15-juni-12.58-misshandel-skelleftea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 530152,
-    "datetime": "2024-06-15 14:14:13 +02:00",
-    "name": "15 juni 11.10, Stöld, Umeå",
-    "summary": "Okänd person gripen misstänkt för butiksstöld.",
-    "url": "/aktuellt/handelser/2024/juni/15/15-juni-11.10-stold-umea/",
-    "type": "Stöld",
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
