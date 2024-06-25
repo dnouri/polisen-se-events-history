@@ -1,5 +1,41 @@
 [
   {
+    "id": 531388,
+    "datetime": "2024-06-25 10:20:05 +02:00",
+    "name": "25 juni 08.46, Trafikolycka, smitning från, Borås",
+    "summary": "På en kyrkogård kör en äldre man in i en lyktstolpe och vidare ut på en gräsmatta.",
+    "url": "/aktuellt/handelser/2024/juni/25/25-juni-08.46-trafikolycka-smitning-fran-boras/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 531370,
+    "datetime": "2024-06-25 7:56:38 +02:00",
+    "name": "25 juni 07.56, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00",
+    "url": "/aktuellt/handelser/2024/juni/25/25-juni-07.56-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 531387,
+    "datetime": "2024-06-25 10:12:11 +02:00",
+    "name": "25 juni 02.38, Trafikbrott, Töreboda",
+    "summary": "På länsväg 202, Halna, signalerar en polispatrull åt en bil med släp att stanna.",
+    "url": "/aktuellt/handelser/2024/juni/25/25-juni-02.38-trafikbrott-toreboda/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Töreboda",
+      "gps": "58.705509,14.126147"
+    }
+  },
+  {
     "id": 531385,
     "datetime": "2024-06-25 9:42:21 +02:00",
     "name": "25 juni 08.06, Brand, Nordmaling",
@@ -9,6 +45,54 @@
     "location": {
       "name": "Nordmaling",
       "gps": "63.567106,19.505022"
+    }
+  },
+  {
+    "id": 531386,
+    "datetime": "2024-06-25 9:58:25 +02:00",
+    "name": "25 juni 07.56, Trafikolycka, personskada, Göteborg",
+    "summary": "På Mölndalsvägen, i närheten av hållplats Lisberg, kolliderar en personbil och en spårvagn.",
+    "url": "/aktuellt/handelser/2024/juni/25/25-juni-07.56-trafikolycka-personskada-goteborg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 531377,
+    "datetime": "2024-06-25 8:12:21 +02:00",
+    "name": "25 juni 07.37, Trafikolycka, Falköping",
+    "summary": "På Göteborgsvägen i utkanten av Falköping, har en personbil krockat med ett släp som uppges ha lossnat från dr",
+    "url": "/aktuellt/handelser/2024/juni/25/25-juni-07.37-trafikolycka-falkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falköping",
+      "gps": "58.175029,13.553217"
+    }
+  },
+  {
+    "id": 531374,
+    "datetime": "2024-06-25 8:08:19 +02:00",
+    "name": "25 juni 08.05, Övrigt, Västra Götalands län",
+    "summary": "Det är för närvarande problem med presstelefonen och svarstiden kan därför vara längre än normalt. Vi jobbar p",
+    "url": "/aktuellt/handelser/2024/juni/25/25-juni-08.05-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 531375,
+    "datetime": "2024-06-25 8:08:30 +02:00",
+    "name": "25 juni 08.08, Övrigt, Hallands län",
+    "summary": "Det är för närvarande problem med presstelefonen och svarstiden kan därför vara längre än normalt. Vi jobbar p",
+    "url": "/aktuellt/handelser/2024/juni/25/25-juni-08.08-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -72,18 +156,6 @@
     }
   },
   {
-    "id": 531377,
-    "datetime": "2024-06-25 8:12:21 +02:00",
-    "name": "25 juni 07.37, Trafikolycka, Falköping",
-    "summary": "På Göteborgsvägen i utkanten av Falköping, har en personbil krockat med ett släp som uppges ha lossnat från dr",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-07.37-trafikolycka-falkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falköping",
-      "gps": "58.175029,13.553217"
-    }
-  },
-  {
     "id": 531376,
     "datetime": "2024-06-25 8:09:12 +02:00",
     "name": "25 juni 07.12, Vapenlagen, Sigtuna",
@@ -93,42 +165,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 531375,
-    "datetime": "2024-06-25 8:08:30 +02:00",
-    "name": "25 juni 08.08, Övrigt, Hallands län",
-    "summary": "Det är för närvarande problem med presstelefonen och svarstiden kan därför vara längre än normalt. Vi jobbar p",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-08.08-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 531374,
-    "datetime": "2024-06-25 8:08:19 +02:00",
-    "name": "25 juni 08.05, Övrigt, Västra Götalands län",
-    "summary": "Det är för närvarande problem med presstelefonen och svarstiden kan därför vara längre än normalt. Vi jobbar p",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-08.05-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 531370,
-    "datetime": "2024-06-25 7:56:38 +02:00",
-    "name": "25 juni 07.56, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-07.56-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 530377,
-    "datetime": "2024-06-17 17:03:25 +02:00",
-    "name": "17 juni 16.34, Brand, Nacka",
-    "summary": "Brand i bostadshus i Saltsjöbaden.",
-    "url": "/aktuellt/handelser/2024/juni/17/17-juni-16.34-brand-nacka/",
-    "type": "Brand",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 530380,
-    "datetime": "2024-06-17 17:49:21 +02:00",
-    "name": "17 juni 16.38, Trafikolycka, Ragunda",
-    "summary": "Larm om trafikolycka på väg 323, mellan Ragunda och Hammarstrand.",
-    "url": "/aktuellt/handelser/2024/juni/17/17-juni-16.38-trafikolycka-ragunda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ragunda",
-      "gps": "63.061337,16.396683"
-    }
-  },
-  {
-    "id": 530381,
-    "datetime": "2024-06-17 17:48:22 +02:00",
-    "name": "17 juni 17.18, Trafikolycka, Åstorp",
-    "summary": "Trafikolycka på Malmövägen.",
-    "url": "/aktuellt/handelser/2024/juni/17/17-juni-17.18-trafikolycka-astorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
     }
   }
 ]
