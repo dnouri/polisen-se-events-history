@@ -1,14 +1,26 @@
 [
   {
-    "id": 532089,
-    "datetime": "2024-06-28 15:28:46 +02:00",
-    "name": "28 juni 15.00, Trafikolycka, Hallands län",
-    "summary": "Två personbilar är involverade i en olycka vid E6 i höjd med Getinge.",
-    "url": "/aktuellt/handelser/2024/juni/28/28-juni-15.00-trafikolycka-hallands-lan/",
-    "type": "Trafikolycka",
+    "id": 532098,
+    "datetime": "2024-06-28 15:51:52 +02:00",
+    "name": "28 juni 15.35, Brand, Lerum",
+    "summary": "Vi får larm om en brand i en industrilokal i Floda.",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-15.35-brand-lerum/",
+    "type": "Brand",
     "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 532113,
+    "datetime": "2024-06-28 16:09:03 +02:00",
+    "name": "28 juni 16.03, Bråk, Västervik",
+    "summary": "Bråk på järnvägsstationen, Västervik.",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-16.03-brak-vastervik/",
+    "type": "Bråk",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
     }
   },
   {
@@ -21,6 +33,30 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 532095,
+    "datetime": "2024-06-28 15:46:46 +02:00",
+    "name": "28 juni 14.35, Trafikolycka, Göteborg",
+    "summary": "Två personbilar är involverade i en olycka på Bergsjövägen/Ljusårsvägen.",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-14.35-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 532089,
+    "datetime": "2024-06-28 15:28:46 +02:00",
+    "name": "28 juni 15.00, Trafikolycka, Hallands län",
+    "summary": "Två personbilar är involverade i en olycka vid E6 i höjd med Getinge.",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-15.00-trafikolycka-hallands-lan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 530812,
-    "datetime": "2024-06-20 20:03:12 +02:00",
-    "name": "20 juni 16.43, Trafikbrott, Lycksele",
-    "summary": "Lycksele, ordningsbot (böter) utfärdas till bilist.",
-    "url": "/aktuellt/handelser/2024/juni/20/20-juni-162.43-trafikbrott-lycksele/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 530810,
-    "datetime": "2024-06-20 18:48:03 +02:00",
-    "name": "20 juni 17.18, Trafikolycka, personskada, Västerås",
-    "summary": "Cyklist påkörd i Västerås.",
-    "url": "/aktuellt/handelser/2024/juni/20/20-juni-17.18-trafikolycka-personskada-vasteras/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 530809,
-    "datetime": "2024-06-20 18:45:43 +02:00",
-    "name": "20 juni 18.35, Brand, Helsingborg",
-    "summary": "Det brinner på Måndagsgatan och polis skickas tillsammans med räddningstjänst till platsen.",
-    "url": "/aktuellt/handelser/2024/juni/20/20-juni-18.35-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   }
 ]
