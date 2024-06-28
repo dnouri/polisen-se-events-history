@@ -1,21 +1,45 @@
 [
   {
-    "id": 532154,
-    "datetime": "2024-06-28 18:15:03 +02:00",
-    "name": "28 juni 18.02, Trafikolycka, Staffanstorp",
-    "summary": "Två personbilar i olycka, Kyrkheddinge.",
-    "url": "/aktuellt/handelser/2024/juni/28/28-juni-18.02-trafikolycka-staffanstorp/",
-    "type": "Trafikolycka",
+    "id": 532161,
+    "datetime": "2024-06-28 19:23:57 +02:00",
+    "name": "28 juni 17.45, Brand, Kiruna",
+    "summary": "Brand i industribyggnad",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-17.45-brand-kiruna/",
+    "type": "Brand",
     "location": {
-      "name": "Staffanstorp",
-      "gps": "55.641065,13.212229"
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 532160,
+    "datetime": "2024-06-28 19:09:34 +02:00",
+    "name": "28 juni 18.29, Fylleri/LOB, Umeå",
+    "summary": "Centrala stan, polisen kontrollerar en berusad man",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-18.29-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 532111,
+    "datetime": "2024-06-28 19:08:37 +02:00",
+    "name": "28 juni 15.51, Mord/dråp, Mölndal",
+    "summary": "En person är gripen misstänkt för mord.",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-15.51-morddrap-molndal/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
     }
   },
   {
     "id": 532148,
     "datetime": "2024-06-28 17:49:33 +02:00",
     "name": "28 juni 15.50, Försvunnen person, Kiruna",
-    "summary": "Polisen söker iakttagelser av en försvunnen kvinna",
+    "summary": "ÅTERFUNNEN Polisen söker iakttagelser av en försvunnen kvinna",
     "url": "/aktuellt/handelser/2024/juni/28/28-juni-15.50-forsvunnen-person-kiruna/",
     "type": "Försvunnen person",
     "location": {
@@ -26,13 +50,25 @@
   {
     "id": 532140,
     "datetime": "2024-06-28 17:07:03 +02:00",
-    "name": "28 juni 16.59, Fylleri/LOB, Norrköping",
-    "summary": "Kontroll av utåtagerande person",
-    "url": "/aktuellt/handelser/2024/juni/28/28-juni-16.59-fyllerilob-norrkoping/",
-    "type": "Fylleri/LOB",
+    "name": "28 juni 16.59, Knivlagen, Norrköping",
+    "summary": "Utåtagerande man misstänks för flera brott",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-16.59-knivlagen-norrkoping/",
+    "type": "Knivlagen",
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 532154,
+    "datetime": "2024-06-28 18:15:03 +02:00",
+    "name": "28 juni 18.02, Trafikolycka, Staffanstorp",
+    "summary": "Två personbilar i olycka, Kyrkheddinge.",
+    "url": "/aktuellt/handelser/2024/juni/28/28-juni-18.02-trafikolycka-staffanstorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 530823,
-    "datetime": "2024-06-20 21:24:55 +02:00",
-    "name": "20 juni 20.56, Försvunnen person, Säffle",
-    "summary": "Polisen söker en försvunnen pojke i femårsåldern i Säffle.",
-    "url": "/aktuellt/handelser/2024/juni/20/20-juni-20.56-forsvunnen-person-saffle/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
-    }
-  },
-  {
-    "id": 530824,
-    "datetime": "2024-06-20 21:18:43 +02:00",
-    "name": "20 juni 20.40, Trafikolycka, Linköping",
-    "summary": "Personbil i mitträcke.",
-    "url": "/aktuellt/handelser/2024/juni/20/20-juni-20.40-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 530811,
-    "datetime": "2024-06-20 19:50:09 +02:00",
-    "name": "20 juni 19.40, Trafikolycka, Skurup",
-    "summary": "En singelolycka med en motorcykel inträffar på Föreningsgatan i Skurup.",
-    "url": "/aktuellt/handelser/2024/juni/20/20-juni-19.40-trafikolycka-skurup/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skurup",
-      "gps": "55.48045,13.502349"
     }
   }
 ]
