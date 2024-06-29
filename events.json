@@ -1,5 +1,77 @@
 [
   {
+    "id": 532225,
+    "datetime": "2024-06-29 11:41:57 +02:00",
+    "name": "29 juni 11.21, Trafikolycka, singel, Ludvika",
+    "summary": "En singelolycka med MC har inträffat i Ludvika kommun, strax norr om Gravendal",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-11.21-trafikolycka-singel-ludvika/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 532224,
+    "datetime": "2024-06-29 11:39:09 +02:00",
+    "name": "29 juni 10.04, Rattfylleri, Härnösand",
+    "summary": "Misstänkt rattfylleri i centrala Härnösand.",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-10.04-rattfylleri-harnosand/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 532223,
+    "datetime": "2024-06-29 11:36:41 +02:00",
+    "name": "29 juni 07.31, Hemfridsbrott, Strömstad",
+    "summary": "En person kontaktar polisen och uppger att en närboende man i 45-årsåldern tagit sig in i inringarens bostad g",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-07.31-hemfridsbrott-stromstad/",
+    "type": "Hemfridsbrott",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 532221,
+    "datetime": "2024-06-29 11:28:27 +02:00",
+    "name": "29 juni 10.27, Trafikkontroll, Umeå",
+    "summary": "Resultat efter trafikkontroll på E12, Brännland.",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-10.27-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 532203,
+    "datetime": "2024-06-29 8:03:05 +02:00",
+    "name": "29 juni 08.03, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-08.03-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 532220,
+    "datetime": "2024-06-29 11:24:41 +02:00",
+    "name": "29 juni 08.54, Farligt föremål, misstänkt, Täby",
+    "summary": "Ett misstänkt farligt föremål har påträffats i Hägernäs. Därför har man spärrat av området för att kontrollera",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-08.54-farligt-foremal-misstankt-taby/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
     "id": 532219,
     "datetime": "2024-06-29 11:10:56 +02:00",
     "name": "29 juni 09.24, Rattfylleri, Boden",
@@ -177,18 +249,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 532203,
-    "datetime": "2024-06-29 8:03:05 +02:00",
-    "name": "29 juni 08.03, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00-07.00.",
-    "url": "/aktuellt/handelser/2024/juni/29/29-juni-08.03-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 530900,
-    "datetime": "2024-06-21 20:54:22 +02:00",
-    "name": "21 juni 19.47, Rattfylleri, Haninge",
-    "summary": "Rattfylla i Rudan.",
-    "url": "/aktuellt/handelser/2024/juni/21/21-juni-19.47-rattfylleri-haninge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 530899,
-    "datetime": "2024-06-21 20:07:45 +02:00",
-    "name": "21 juni 18.46, Sedlighetsbrott, Stockholm",
-    "summary": "Man onanerar i Tantolunden.",
-    "url": "/aktuellt/handelser/2024/juni/21/21-juni-18.46-sedlighetsbrott-stockholm/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 530890,
-    "datetime": "2024-06-21 17:41:02 +02:00",
-    "name": "21 juni 17.24, Trafikolycka, Örkelljunga",
-    "summary": "En singelolycka med en personbil inträffar på Ängelholmsvägen norr om Örkelljunga.",
-    "url": "/aktuellt/handelser/2024/juni/21/21-juni-17.24-trafikolycka-orkelljunga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örkelljunga",
-      "gps": "56.283635,13.278832"
-    }
-  },
-  {
-    "id": 530897,
-    "datetime": "2024-06-21 19:11:02 +02:00",
-    "name": "21 juni 16.05, Misshandel, Sigtuna",
-    "summary": "Kvinna med skador ringer 112.",
-    "url": "/aktuellt/handelser/2024/juni/21/21-juni-16.05-misshandel-sigtuna/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 530894,
-    "datetime": "2024-06-21 19:03:59 +02:00",
-    "name": "21 juni 18.53, Försvunnen person, Uppsala",
-    "summary": "ANTRÄFFAD Polisen söker en 15-årig pojke som försvunnit från sin hemadress i Ultuna i Uppsala",
-    "url": "/aktuellt/handelser/2024/juni/21/21-juni-183.53-forsvunnen-person-uppsala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
