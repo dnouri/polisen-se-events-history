@@ -1,5 +1,89 @@
 [
   {
+    "id": 532233,
+    "datetime": "2024-06-29 14:32:22 +02:00",
+    "name": "29 juni 14.20, Trafikolycka, Malmö",
+    "summary": "Personbil och person i olycka, Möllevången.",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-14.20-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 532230,
+    "datetime": "2024-06-29 14:13:33 +02:00",
+    "name": "29 juni 14.10, Trafikolycka, personskada, Jönköping",
+    "summary": "Motorcykel i krock med personbil",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-14.10-trafikolycka-personskada-jonkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 532232,
+    "datetime": "2024-06-29 14:19:35 +02:00",
+    "name": "29 juni 14.08, Trafikolycka, Karlstad",
+    "summary": "En kollision mellan buss och personbil har inträffat på Hamngatan i Karlstad.",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-14.08-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 532231,
+    "datetime": "2024-06-29 14:16:47 +02:00",
+    "name": "29 juni 13.59, Trafikolycka, Skurup",
+    "summary": "MC i olycka med rådjur, Skurup.",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-13.59-trafikolycka-skurup/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skurup",
+      "gps": "55.48045,13.502349"
+    }
+  },
+  {
+    "id": 532225,
+    "datetime": "2024-06-29 11:41:57 +02:00",
+    "name": "29 juni 11.21, Trafikolycka, singel, Ludvika",
+    "summary": "En singelolycka med MC har inträffat i Ludvika kommun, strax norr om Gravendal",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-11.21-trafikolycka-singel-ludvika/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 532227,
+    "datetime": "2024-06-29 12:58:51 +02:00",
+    "name": "29 juni 12.49, Brand, Hagfors",
+    "summary": "Det ryker från en ödegård söder om Råda i Hagfors kommun.",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-12.49-brand-hagfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Hagfors",
+      "gps": "60.03437,13.694508"
+    }
+  },
+  {
+    "id": 532229,
+    "datetime": "2024-06-29 14:02:00 +02:00",
+    "name": "29 juni 12.35, Rattfylleri, Lycksele",
+    "summary": "Misstänkt drograttfylleri i Lycksele.",
+    "url": "/aktuellt/handelser/2024/juni/29/29-juni-12.35-rattfylleri-lycksele/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
     "id": 532228,
     "datetime": "2024-06-29 13:43:32 +02:00",
     "name": "29 juni 12.43, Misshandel, Göteborg",
@@ -33,30 +117,6 @@
     "location": {
       "name": "Täby",
       "gps": "59.4419,18.07033"
-    }
-  },
-  {
-    "id": 532227,
-    "datetime": "2024-06-29 12:58:51 +02:00",
-    "name": "29 juni 12.49, Brand, Hagfors",
-    "summary": "Det ryker från en ödegård söder om Råda i Hagfors kommun.",
-    "url": "/aktuellt/handelser/2024/juni/29/29-juni-12.49-brand-hagfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Hagfors",
-      "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 532225,
-    "datetime": "2024-06-29 11:41:57 +02:00",
-    "name": "29 juni 11.21, Trafikolycka, singel, Ludvika",
-    "summary": "En singelolycka med MC har inträffat i Ludvika kommun, strax norr om Gravendal",
-    "url": "/aktuellt/handelser/2024/juni/29/29-juni-11.21-trafikolycka-singel-ludvika/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Tingsryd",
       "gps": "56.524745,14.978534"
-    }
-  },
-  {
-    "id": 530907,
-    "datetime": "2024-06-22 6:30:58 +02:00",
-    "name": "22 juni 01.34, Trafikolycka, Åstorp",
-    "summary": "Personbil i olycka, Åstorp.",
-    "url": "/aktuellt/handelser/2024/juni/22/22-juni-01.34-trafikolycka-astorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 530906,
-    "datetime": "2024-06-22 6:25:22 +02:00",
-    "name": "22 juni 00.29, Rattfylleri, Malmö",
-    "summary": "Påverkad förare, centrum.",
-    "url": "/aktuellt/handelser/2024/juni/22/22-juni-00.29-rattfylleri-malmo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 530905,
-    "datetime": "2024-06-22 6:20:18 +02:00",
-    "name": "22 juni 00.10, Rån, Eslöv",
-    "summary": "Pojkar rånade, Eslöv.",
-    "url": "/aktuellt/handelser/2024/juni/22/22-juni-00.10-ran-eslov/",
-    "type": "Rån",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 530870,
-    "datetime": "2024-06-21 12:29:23 +02:00",
-    "name": "21 juni 12.29, Försvunnen person, Pajala",
-    "summary": "Uppdatring. Mannen är hittat. Polisen önskar allmänhetens hjälp att hitta en försvunnen man.",
-    "url": "/aktuellt/handelser/2024/juni/21/21-juni-12.29-forsvunnen-person-pajala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Pajala",
-      "gps": "67.212782,23.367392"
-    }
-  },
-  {
-    "id": 530898,
-    "datetime": "2024-06-21 19:48:48 +02:00",
-    "name": "21 juni 19.40, Mord/dråp, försök, Eslöv",
-    "summary": "Polis och ambulans larmas till Storgatan med anledning av en misstänkt misshandel.",
-    "url": "/aktuellt/handelser/2024/juni/21/21-juni-19.40-morddrap-forsok-eslov/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
     }
   }
 ]
