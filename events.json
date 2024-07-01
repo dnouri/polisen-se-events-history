@@ -1,5 +1,101 @@
 [
   {
+    "id": 533373,
+    "datetime": "2024-07-01 12:24:50 +02:00",
+    "name": "01 juli 10.23, Trafikolycka, Berg",
+    "summary": "Centrala Åsarna, en bil har krockat med ett träd",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-10.23-trafikolycka-berg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
+    "id": 533331,
+    "datetime": "2024-07-01 8:20:46 +02:00",
+    "name": "01 juli 08.13, Trafikolycka, Kalmar",
+    "summary": "Trafikolycka i korsningen Brunnslätsvägen och Norra vägen.",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-08.13-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 533372,
+    "datetime": "2024-07-01 12:18:15 +02:00",
+    "name": "01 juli 08.24, Stöld, Sundsvall",
+    "summary": "Stenstan, polisen kontrollerar en man",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-08.24-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 533371,
+    "datetime": "2024-07-01 12:14:33 +02:00",
+    "name": "01 juli 12.14, Övrigt, Örebro län",
+    "summary": "Information gällande det regionala mediecentret tisdag 2 juli",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-12.14-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 533370,
+    "datetime": "2024-07-01 12:14:08 +02:00",
+    "name": "01 juli 12.13, Övrigt, Dalarnas län",
+    "summary": "Information gällande det regionala mediecentret tisdag 2 juli",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-12.13-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 533369,
+    "datetime": "2024-07-01 12:13:50 +02:00",
+    "name": "01 juli 12.08, Övrigt, Värmlands län",
+    "summary": "Information gällande det regionala mediecentret tisdag 2 juli",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-12.08-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 533368,
+    "datetime": "2024-07-01 12:11:18 +02:00",
+    "name": "01 juli 12.06, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Två viltolyckor har rapporterats in till polisens ledningscentral under förmiddagen",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-12.06-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 532305,
+    "datetime": "2024-06-30 17:26:07 +02:00",
+    "name": "30 juni 17.20, Mord/dråp, försök, Eskilstuna",
+    "summary": "Polisinsats efter skottlossning i Eskilstuna.",
+    "url": "/aktuellt/handelser/2024/juni/30/30-juni-17.20-morddrap-forsok-eskilstuna/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 533343,
     "datetime": "2024-07-01 10:02:17 +02:00",
     "name": "01 juli 09.22, Trafikolycka, Bromölla",
@@ -81,18 +177,6 @@
     "location": {
       "name": "Botkyrka",
       "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 533331,
-    "datetime": "2024-07-01 8:20:46 +02:00",
-    "name": "01 juli 08.13, Trafikolycka, Kalmar",
-    "summary": "Trafikolycka i korsningen Brunnslätsvägen och Norra vägen.",
-    "url": "/aktuellt/handelser/2024/juli/1/01-juli-08.13-trafikolycka-kalmar/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -369,18 +453,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 532305,
-    "datetime": "2024-06-30 17:26:07 +02:00",
-    "name": "30 juni 17.20, Mord/dråp, försök, Eskilstuna",
-    "summary": "Polisinsats efter skottlossning i Eskilstuna.",
-    "url": "/aktuellt/handelser/2024/juni/30/30-juni-17.20-morddrap-forsok-eskilstuna/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 531017,
-    "datetime": "2024-06-24 7:04:58 +02:00",
-    "name": "24 juni 07.03, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en lugn natt operativt i länet",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-07.03-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 531024,
-    "datetime": "2024-06-24 7:23:55 +02:00",
-    "name": "24 juni 03.27, Trafikolycka, personskada, Järfälla",
-    "summary": "En bil har kört in i en villaträdgård vid Skälbyvägen i Barkarby. En person har skadats lindrigt i olyckan.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-03.27-trafikolycka-personskada-jarfalla/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 531023,
-    "datetime": "2024-06-24 7:19:38 +02:00",
-    "name": "24 juni 03.30, Brand, Västervik",
-    "summary": "Brand i kolonistuga",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-03.30-brand-vastervik/",
-    "type": "Brand",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 531020,
-    "datetime": "2024-06-24 7:16:07 +02:00",
-    "name": "24 juni 07.04, Övrigt, Värmlands län",
-    "summary": "Pressnumret fungerar igen",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-07.04-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 531015,
-    "datetime": "2024-06-24 7:11:44 +02:00",
-    "name": "24 juni 07.11, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-07.11-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 531008,
-    "datetime": "2024-06-24 7:11:18 +02:00",
-    "name": "24 juni 07.11, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-07.11-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
