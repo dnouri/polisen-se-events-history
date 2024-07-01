@@ -1,5 +1,89 @@
 [
   {
+    "id": 533432,
+    "datetime": "2024-07-01 21:56:57 +02:00",
+    "name": "01 juli 20.20, Brand, Malmö",
+    "summary": "Det brinner i en industribyggnad på Norra Neptuniagatan.",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-20.20-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 533417,
+    "datetime": "2024-07-01 17:49:20 +02:00",
+    "name": "01 juli 15.00, Kontroll person/fordon, Vallentuna",
+    "summary": "Polis letar efter en person i Karby/Brottby.",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-15.00-kontroll-personfordon-vallentuna/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 533431,
+    "datetime": "2024-07-01 21:45:32 +02:00",
+    "name": "01 juli 21.45, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-21.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 533430,
+    "datetime": "2024-07-01 21:45:21 +02:00",
+    "name": "01 juli 21.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-21.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 533426,
+    "datetime": "2024-07-01 21:44:39 +02:00",
+    "name": "01 juli 20.29, Misshandel, Stockholm",
+    "summary": "En man förs till sjukhus efter att ha blivit skadad i en misshandel.",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-20.29-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 533428,
+    "datetime": "2024-07-01 21:44:36 +02:00",
+    "name": "01 juli 14.37, Misshandel, Stockholm",
+    "summary": "Misshandel med sparkar och slag på Surbrunnsgatan.",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-14.37-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 533429,
+    "datetime": "2024-07-01 21:44:32 +02:00",
+    "name": "01 juli 18.30, Trafikolycka, personskada, Södertälje",
+    "summary": "En polisbil blir påkörd på E4.",
+    "url": "/aktuellt/handelser/2024/juli/1/01-juli-18.30-trafikolycka-personskada-sodertalje/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 533427,
     "datetime": "2024-07-01 21:22:35 +02:00",
     "name": "01 juli 21.22, Fylleri/LOB, Östersund",
@@ -129,18 +213,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 533417,
-    "datetime": "2024-07-01 17:49:20 +02:00",
-    "name": "01 juli 15.00, Kontroll person/fordon, Vallentuna",
-    "summary": "Polis letar efter en person i Karby/Brottby.",
-    "url": "/aktuellt/handelser/2024/juli/1/01-juli-15.00-kontroll-personfordon-vallentuna/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Vallentuna",
-      "gps": "59.5357,18.078017"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 531090,
-    "datetime": "2024-06-24 14:01:33 +02:00",
-    "name": "24 juni 12.55, Trafikkontroll, Kalix",
-    "summary": "Resultat efter trafikkontroll på Järnvägsgatan i Kalix.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-12.55-trafikkontroll-kalix/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 531087,
-    "datetime": "2024-06-24 13:53:56 +02:00",
-    "name": "24 juni 12.02, Olovlig körning, Umeå",
-    "summary": "Misstänkt grov olovlig körning på Klockarbäcken.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-12.02-olovlig-korning-umea/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 531083,
-    "datetime": "2024-06-24 13:42:44 +02:00",
-    "name": "24 juni 13.09, Brand, Skara",
-    "summary": "En brand har av okänd anledning utbrutit i en industrifastighet på På Ängatorpsgatan, Skara.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-13.09-brand-skara/",
-    "type": "Brand",
-    "location": {
-      "name": "Skara",
-      "gps": "58.386013,13.439328"
-    }
-  },
-  {
-    "id": 531077,
-    "datetime": "2024-06-24 13:25:00 +02:00",
-    "name": "24 juni 13.20, Trafikolycka, Nyköping",
-    "summary": "Lastbil i diket",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-13.20-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 531076,
-    "datetime": "2024-06-24 13:24:34 +02:00",
-    "name": "24 juni 10.24, Försvunnen person, Norrtälje",
-    "summary": "Polisen letar efter en försvunnen person på Rådmansö och i det arbetet används bland annat polishelikoptern.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-10.24-forsvunnen-person-norrtalje/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 531061,
-    "datetime": "2024-06-24 10:30:29 +02:00",
-    "name": "24 juni 10.20, Trafikolycka, Katrineholm",
-    "summary": "Hund påkörd i centrala Katrineholm",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-10.20-trafikolycka-katrineholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
     }
   }
 ]
