@@ -1,5 +1,65 @@
 [
   {
+    "id": 533531,
+    "datetime": "2024-07-02 17:20:49 +02:00",
+    "name": "02 juli 15.13, Misshandel, Stockholm",
+    "summary": "Larm om misshandel leder till att en efterlyst man frihetsberövas.",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-15.13-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 533530,
+    "datetime": "2024-07-02 17:18:17 +02:00",
+    "name": "02 juli 16.37, Trafikolycka, personskada, Stockholm",
+    "summary": "Kvinna på elsparkcykel skadas i en krock.",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-16.37-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 533529,
+    "datetime": "2024-07-02 17:06:36 +02:00",
+    "name": "02 juli 17.00, Trafikolycka, Hultsfred",
+    "summary": "Två personbilar i kollision på RV23 i höjd med TPL Hultsfred",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-17.00-trafikolycka-hultsfred/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
+    }
+  },
+  {
+    "id": 533527,
+    "datetime": "2024-07-02 16:29:11 +02:00",
+    "name": "02 juli 16.01, Trafikolycka, Södertälje",
+    "summary": "Polisen förföljer en bilförare som krockar på E4 vid Moraberg.",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-16.01-trafikolycka-sodertalje/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 533528,
+    "datetime": "2024-07-02 16:51:41 +02:00",
+    "name": "02 juli 14.53, Skadegörelse, Luleå",
+    "summary": "Tonåring misstänks för skadegörelse i klädbutik.",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-14.53-skadegorelse-lulea/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 533490,
     "datetime": "2024-07-02 12:20:58 +02:00",
     "name": "02 juli 09.16, Brand, Östersund",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Mörbylånga",
       "gps": "56.523757,16.386916"
-    }
-  },
-  {
-    "id": 533527,
-    "datetime": "2024-07-02 16:29:11 +02:00",
-    "name": "02 juli 16.01, Trafikolycka, Södertälje",
-    "summary": "Polisen förföljer en bilförare som krockar på E4 vid Moraberg.",
-    "url": "/aktuellt/handelser/2024/juli/2/02-juli-16.01-trafikolycka-sodertalje/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Lycksele",
       "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 531379,
-    "datetime": "2024-06-25 8:38:08 +02:00",
-    "name": "25 juni 08.38, Försvunnen person, Robertsfors",
-    "summary": "Polisen önskar allmänhetens hjälp att hitta en försvunnen man.",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-08.38-forsvunnen-person-robertsfors/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 531381,
-    "datetime": "2024-06-25 8:56:54 +02:00",
-    "name": "25 juni 08.03, Trafikolycka, vilt, Boden",
-    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 356, Vändträsk.",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-08.03-trafikolycka-vilt-boden/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 531380,
-    "datetime": "2024-06-25 8:47:31 +02:00",
-    "name": "25 juni 07.45, Trafikkontroll, Skellefteå",
-    "summary": "Resultat efter trafikkontroll på Dalgatan, Kåge.",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-07.45-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 531376,
-    "datetime": "2024-06-25 8:09:12 +02:00",
-    "name": "25 juni 07.12, Vapenlagen, Sigtuna",
-    "summary": "Misstänkt revolver i ett incheckat bagage var en replika.",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-07.12-vapenlagen-sigtuna/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
     }
   }
 ]
