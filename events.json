@@ -1,5 +1,53 @@
 [
   {
+    "id": 533451,
+    "datetime": "2024-07-02 7:20:48 +02:00",
+    "name": "02 juli 07.20, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av polisens arbete klockan 22:00-07:00",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-07.20-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 533450,
+    "datetime": "2024-07-02 7:20:13 +02:00",
+    "name": "02 juli 07.19, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av polisens arbete klockan 22:00-07:00",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-07.19-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 533449,
+    "datetime": "2024-07-02 7:19:29 +02:00",
+    "name": "02 juli 07.18, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av polisens arbete klockan 22:00-07:00",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-07.18-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 533448,
+    "datetime": "2024-07-02 7:18:28 +02:00",
+    "name": "02 juli 07.17, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av polisens arbete klockan 22:00-07:00",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-07.17-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 533439,
     "datetime": "2024-07-02 6:27:23 +02:00",
     "name": "02 juli 02.10, Försvunnen person, Svalöv",
@@ -12,18 +60,6 @@
     }
   },
   {
-    "id": 533438,
-    "datetime": "2024-07-02 5:50:55 +02:00",
-    "name": "02 juli 02.37, Brand, Stockholm",
-    "summary": "Polis och räddningstjänst kallas till Birger Jarlsgatan med anledning av rökutveckling i en fastighet.",
-    "url": "/aktuellt/handelser/2024/juli/2/02-juli-02.37-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 533437,
     "datetime": "2024-07-02 4:33:58 +02:00",
     "name": "02 juli 04.02, Mord/dråp, försök, Södertälje",
@@ -33,6 +69,54 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 533444,
+    "datetime": "2024-07-02 7:00:16 +02:00",
+    "name": "02 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 533443,
+    "datetime": "2024-07-02 7:00:08 +02:00",
+    "name": "02 juli 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 533442,
+    "datetime": "2024-07-02 6:52:57 +02:00",
+    "name": "02 juli 06.43, Trafikolycka, Oskarshamn",
+    "summary": "Trafikolycka på Stora vägen i Bockara.",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-06.43-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 533438,
+    "datetime": "2024-07-02 5:50:55 +02:00",
+    "name": "02 juli 02.37, Brand, Stockholm",
+    "summary": "Polis och räddningstjänst kallas till Birger Jarlsgatan med anledning av rökutveckling i en fastighet.",
+    "url": "/aktuellt/handelser/2024/juli/2/02-juli-02.37-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 531331,
-    "datetime": "2024-06-24 17:28:15 +02:00",
-    "name": "24 juni 13.18, Knivlagen, Sundsvall",
-    "summary": "Man misstänks för brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-13.18-knivlagen-sundsvall/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 531330,
-    "datetime": "2024-06-24 17:16:00 +02:00",
-    "name": "24 juni 12.38, Stöld, Timrå",
-    "summary": "Stöld från bil vid Midlanda, Timrå.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-12.38-stold-timra/",
-    "type": "Stöld",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 531329,
-    "datetime": "2024-06-24 17:10:48 +02:00",
-    "name": "24 juni 15.59, Ofredande/förargelse, Skellefteå",
-    "summary": "Ordningsbot utfärdades för offentlig urinering.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-15.59-ofredandeforargelse-skelleftea/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 531109,
-    "datetime": "2024-06-24 15:45:02 +02:00",
-    "name": "24 juni 15.22, Trafikolycka, Mölndal",
-    "summary": "Flera fordon har kolliderat på Riksväg 40 i riktning mot Borås.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-15.22-trafikolycka-molndal/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 531327,
-    "datetime": "2024-06-24 16:42:16 +02:00",
-    "name": "24 juni 15.41, Arbetsplatsolycka, Ronneby",
-    "summary": "Man som fallit",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-15.41-arbetsplatsolycka-ronneby/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 531113,
-    "datetime": "2024-06-24 16:18:55 +02:00",
-    "name": "24 juni 14.55, Trafikolycka, Skellefteå",
-    "summary": "Trafikolycka i Södra Kusmark, Skellefteå.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-14.55-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 531100,
-    "datetime": "2024-06-24 14:48:04 +02:00",
-    "name": "24 juni 14.32, Trafikolycka, Växjö",
-    "summary": "Trafikolycka med flera fordon.",
-    "url": "/aktuellt/handelser/2024/juni/24/24-juni-14.32-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
