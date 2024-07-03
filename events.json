@@ -1,5 +1,41 @@
 [
   {
+    "id": 533664,
+    "datetime": "2024-07-03 13:10:25 +02:00",
+    "name": "03 juli 13.10, Brand, Luleå",
+    "summary": "Klockan 02.27 inkom larm om brand i en villa i Klöverträsk.",
+    "url": "/aktuellt/handelser/2024/juli/3/03-juli-13.10-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 533631,
+    "datetime": "2024-07-03 11:39:48 +02:00",
+    "name": "03 juli 11.13, Trafikolycka, Hultsfred",
+    "summary": "Singelolycka på Rv34 vid Målilla.",
+    "url": "/aktuellt/handelser/2024/juli/3/03-juli-11.13-trafikolycka-hultsfred/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
+    }
+  },
+  {
+    "id": 533585,
+    "datetime": "2024-07-03 9:36:54 +02:00",
+    "name": "03 juli 09.36, Försvunnen person, Haparanda",
+    "summary": "Polisen och Sjöfartsverket önskar allmänhetens hjälp att hitta en försvunnen man.",
+    "url": "/aktuellt/handelser/2024/juli/3/03-juli-09.36-forsvunnen-person-haparanda/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
     "id": 533650,
     "datetime": "2024-07-03 12:42:50 +02:00",
     "name": "03 juli 12.34, Trafikolycka, Karlskoga",
@@ -57,18 +93,6 @@
     "location": {
       "name": "Robertsfors",
       "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 533631,
-    "datetime": "2024-07-03 11:39:48 +02:00",
-    "name": "03 juli 11.13, Trafikolycka, Hultsfred",
-    "summary": "Singelolycka på Rv34 vid Målilla.",
-    "url": "/aktuellt/handelser/2024/juli/3/03-juli-11.13-trafikolycka-hultsfred/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hultsfred",
-      "gps": "57.49484,15.841651"
     }
   },
   {
@@ -177,18 +201,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 533585,
-    "datetime": "2024-07-03 9:36:54 +02:00",
-    "name": "03 juli 09.36, Försvunnen person, Haparanda",
-    "summary": "Polisen och Sjöfartsverket önskar allmänhetens hjälp att hitta en försvunnen man.",
-    "url": "/aktuellt/handelser/2024/juli/3/03-juli-09.36-forsvunnen-person-haparanda/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 531564,
-    "datetime": "2024-06-26 6:44:35 +02:00",
-    "name": "26 juni 06.44, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-06.44-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
