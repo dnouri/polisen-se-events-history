@@ -1,5 +1,41 @@
 [
   {
+    "id": 533553,
+    "datetime": "2024-07-03 6:39:45 +02:00",
+    "name": "03 juli 00.59, Rattfylleri, Vellinge",
+    "summary": "Misstänkt rattfylleri på Frans Gustavsgatan.",
+    "url": "/aktuellt/handelser/2024/juli/3/03-juli-00.59-rattfylleri-vellinge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Vellinge",
+      "gps": "55.470893,13.01999"
+    }
+  },
+  {
+    "id": 533551,
+    "datetime": "2024-07-03 6:36:12 +02:00",
+    "name": "03 juli 04.05, Brand, Malmö",
+    "summary": "Brand i cykelförråd på Hårds väg.",
+    "url": "/aktuellt/handelser/2024/juli/3/03-juli-04.05-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 533550,
+    "datetime": "2024-07-03 6:27:02 +02:00",
+    "name": "03 juli 00.16, Skadegörelse, Helsingborg",
+    "summary": "Skadegörelse på Bruksgatan.",
+    "url": "/aktuellt/handelser/2024/juli/3/03-juli-00.16-skadegorelse-helsingborg/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 533548,
     "datetime": "2024-07-02 21:57:33 +02:00",
     "name": "02 juli 19.42, Misshandel, Sollefteå",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 530962,
-    "datetime": "2024-06-23 7:25:24 +02:00",
-    "name": "22 juni 20.39, Trafikolycka, personskada, Kungsbacka",
-    "summary": "Två personer har avlidit till följd av en trafikolycka",
-    "url": "/aktuellt/handelser/2024/juni/22/22-juni-20.39-trafikolycka-personskada-kungsbacka/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 531466,
-    "datetime": "2024-06-25 13:12:31 +02:00",
-    "name": "25 juni 08.34, Arbetsplatsolycka, Åre",
-    "summary": "Larm om arbetsplatsolycka i Järpen.",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-08.34-arbetsplatsolycka-are/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 531443,
-    "datetime": "2024-06-25 12:54:54 +02:00",
-    "name": "25 juni 10.44, Trafikolycka, personskada, Filipstad",
-    "summary": "På riksväg 26 vid Påland, östra Filipstad är det två bilister som kolliderar.",
-    "url": "/aktuellt/handelser/2024/juni/25/25-juni-10.44-trafikolycka-personskada-filipstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Filipstad",
-      "gps": "59.713997,14.169845"
     }
   }
 ]
