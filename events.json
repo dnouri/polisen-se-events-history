@@ -1,5 +1,113 @@
 [
   {
+    "id": 533699,
+    "datetime": "2024-07-04 7:22:34 +02:00",
+    "name": "04 juli 07.22, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-07.22-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 533709,
+    "datetime": "2024-07-04 7:22:24 +02:00",
+    "name": "04 juli 07.22, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-07.22-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 533710,
+    "datetime": "2024-07-04 7:19:22 +02:00",
+    "name": "04 juli 02.19, Misshandel, Stockholm",
+    "summary": "En taxichufför på Södermalm körde två kunder. Efter resan attackerade en av kunderna chauffören med knytnävsla",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-02.19-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 533708,
+    "datetime": "2024-07-04 7:15:06 +02:00",
+    "name": "04 juli 04.43, Rattfylleri, Stockholm",
+    "summary": "Flera bilister uppmärksammar en bilist som kör mycket vingligt på E4 vid Kista.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-04.43-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 533700,
+    "datetime": "2024-07-04 7:04:39 +02:00",
+    "name": "04 juli 06.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är  på plats.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-06.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 533701,
+    "datetime": "2024-07-04 7:04:23 +02:00",
+    "name": "04 juli 06.00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-06.00-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 533704,
+    "datetime": "2024-07-04 7:00:22 +02:00",
+    "name": "04 juli 07.00, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en lugn natt ur polisiär synvinkel i polisområde Örebro.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-07.00-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 533703,
+    "datetime": "2024-07-04 7:00:19 +02:00",
+    "name": "04 juli 07.00, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en lugn natt ur polisiär synvinkel i polisområde Dalarna.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-07.00-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 533702,
+    "datetime": "2024-07-04 7:00:17 +02:00",
+    "name": "04 juli 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en lugn natt ur polisiär synvinkel i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 533686,
     "datetime": "2024-07-03 19:21:01 +02:00",
     "name": "03 juli 19.07, Trafikolycka, Kävlinge",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 531603,
-    "datetime": "2024-06-26 10:45:38 +02:00",
-    "name": "26 juni 10.37, Brand, Trelleborg",
-    "summary": "Brand i villa, Torshög.",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-10.37-brand-trelleborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Trelleborg",
-      "gps": "55.376243,13.157423"
-    }
-  },
-  {
-    "id": 531729,
-    "datetime": "2024-06-26 17:10:40 +02:00",
-    "name": "26 juni 14.30, Trafikolycka, Ekerö",
-    "summary": "Bil och moped inblandad i trafikolycka på Drottningholm.",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-14.30-trafikolycka-ekero/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 531728,
-    "datetime": "2024-06-26 17:03:58 +02:00",
-    "name": "26 juni 13.23, Motorfordon, stöld, Umeå",
-    "summary": "Öst på stan, polisen kontaktas angående en stulen personbil",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-13.23-motorfordon-stold-umea/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 531727,
-    "datetime": "2024-06-26 16:35:54 +02:00",
-    "name": "26 juni 16.00, Trafikolycka, Karlshamn",
-    "summary": "Elsparcykel och personbil i kollision",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-16.00-trafikolycka-karlshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 531726,
-    "datetime": "2024-06-26 16:28:48 +02:00",
-    "name": "26 juni 16.25, Fylleri/LOB, Sundsvall",
-    "summary": "Stenstan, två män har om händertagits för fylleri under eftermiddagen",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-16.25-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 531717,
-    "datetime": "2024-06-26 16:02:07 +02:00",
-    "name": "26 juni 16.00, Misshandel, Norrköping",
-    "summary": "Man misstänks för misshandel i centrala Norrköping.",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-16.00-misshandel-norrkoping/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 531714,
-    "datetime": "2024-06-26 15:48:51 +02:00",
-    "name": "26 juni 14.44, Stöld, Sundsvall",
-    "summary": "Stenstan, polisen larmas till en matbutik",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-14.44-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 531690,
-    "datetime": "2024-06-26 15:13:33 +02:00",
-    "name": "26 juni 15.05, Trafikolycka, Lomma",
-    "summary": "E6. Två personbilar i kollision cirka 1000 meter innan TPL Borgeby i norrgående riktning",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-15.05-trafikolycka-lomma/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lomma",
-      "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 531608,
-    "datetime": "2024-06-26 10:53:06 +02:00",
-    "name": "26 juni 10.31, Trafikolycka, Helsingborg",
-    "summary": "Påkörd person på Christer Boijes väg.",
-    "url": "/aktuellt/handelser/2024/juni/26/26-juni-10.31-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   }
 ]
