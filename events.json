@@ -1,5 +1,89 @@
 [
   {
+    "id": 533909,
+    "datetime": "2024-07-04 17:18:06 +02:00",
+    "name": "04 juli 17.01, Trafikolycka, Mariestad",
+    "summary": "En trafikolycka har inträffat på E20, norrgående riktning i höjd med Hassle.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-17.01-trafikolycka-mariestad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mariestad",
+      "gps": "58.710112,13.821333"
+    }
+  },
+  {
+    "id": 533908,
+    "datetime": "2024-07-04 17:13:38 +02:00",
+    "name": "04 juli 15.14, Stöld, Malmö",
+    "summary": "Per Albin Hanssons väg. Stöld av verktyg från företagsbil",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-15.14-stold-malmo/",
+    "type": "Stöld",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 533907,
+    "datetime": "2024-07-04 17:10:12 +02:00",
+    "name": "04 juli 17.07, Rån övrigt, Värnamo",
+    "summary": "Rån under hot med tillhygge",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-17.07-ran-ovrigt-varnamo/",
+    "type": "Rån övrigt",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 533823,
+    "datetime": "2024-07-04 14:31:19 +02:00",
+    "name": "04 juli 13.47, Arbetsplatsolycka, Simrishamn",
+    "summary": "Marknadsfältet Kivik. Anställd fått sopkärl över sig",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-13.47-arbetsplatsolycka-simrishamn/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Simrishamn",
+      "gps": "55.557396,14.348965"
+    }
+  },
+  {
+    "id": 533906,
+    "datetime": "2024-07-04 17:03:17 +02:00",
+    "name": "04 juli 15.30, Trafikolycka, Vimmerby",
+    "summary": "RV34, strax norr om Södra Vi. Personbil i singelolycka",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-15.30-trafikolycka-vimmerby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vimmerby",
+      "gps": "57.669034,15.858857"
+    }
+  },
+  {
+    "id": 533782,
+    "datetime": "2024-07-04 12:58:34 +02:00",
+    "name": "04 juli 12.29, Brand, Malmö",
+    "summary": "Håkanstorp. Brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-12.29-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 533905,
+    "datetime": "2024-07-04 16:54:34 +02:00",
+    "name": "04 juli 15.37, Fylleri/LOB, Östersund",
+    "summary": "Centrum, polisen uppmärksammas på en berusad man",
+    "url": "/aktuellt/handelser/2024/juli/4/04-juli-15.37-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 533900,
     "datetime": "2024-07-04 16:31:58 +02:00",
     "name": "04 juli 14.57, Rattfylleri, Härnösand",
@@ -69,18 +153,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 533823,
-    "datetime": "2024-07-04 14:31:19 +02:00",
-    "name": "04 juli 13.47, Arbetsplatsolycka, Simrishamn",
-    "summary": "Marknadsfältet Kivik. Anställd fått sopkärl över sig",
-    "url": "/aktuellt/handelser/2024/juli/4/04-juli-13.47-arbetsplatsolycka-simrishamn/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Simrishamn",
-      "gps": "55.557396,14.348965"
     }
   },
   {
@@ -225,18 +297,6 @@
     "location": {
       "name": "Partille",
       "gps": "57.73665,12.125197"
-    }
-  },
-  {
-    "id": 533782,
-    "datetime": "2024-07-04 12:58:34 +02:00",
-    "name": "04 juli 12.29, Brand, Malmö",
-    "summary": "Håkanstorp. Brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/juli/4/04-juli-12.29-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Klippan",
       "gps": "56.1349,13.129041"
-    }
-  },
-  {
-    "id": 531792,
-    "datetime": "2024-06-27 13:01:06 +02:00",
-    "name": "27 juni 12.55, Fjällräddning, Härjedalen",
-    "summary": "Fjällräddningen undsatte skadad kvinna i Funäsdalen.",
-    "url": "/aktuellt/handelser/2024/juni/27/27-juni-12.55-fjallraddning-harjedalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 531781,
-    "datetime": "2024-06-27 11:08:38 +02:00",
-    "name": "27 juni 09.11, Vapenlagen, Värmdö",
-    "summary": "Flera rutor skadas på en buss.",
-    "url": "/aktuellt/handelser/2024/juni/27/27-juni-09.11-vapenlagen-varmdo/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 531780,
-    "datetime": "2024-06-27 11:02:29 +02:00",
-    "name": "27 juni 09.59, Trafikbrott, Skellefteå",
-    "summary": "Förlorade körkortet på grund av överlastat släp.",
-    "url": "/aktuellt/handelser/2024/juni/27/27-juni-09.59-trafikbrott-skelleftea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 531777,
-    "datetime": "2024-06-27 10:28:31 +02:00",
-    "name": "27 juni 10.22, Rån, Malmö",
-    "summary": "Rån mot butik, Värnhem.",
-    "url": "/aktuellt/handelser/2024/juni/27/27-juni-10.22-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 531778,
-    "datetime": "2024-06-27 10:34:31 +02:00",
-    "name": "27 juni 10.33, Olaga hot, Umeå",
-    "summary": "Man gripen misstänkt för grovt olaga hot.",
-    "url": "/aktuellt/handelser/2024/juni/27/27-juni-10.33-olaga-hot-umea/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
