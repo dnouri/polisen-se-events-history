@@ -1,11 +1,35 @@
 [
   {
+    "id": 533958,
+    "datetime": "2024-07-05 9:30:07 +02:00",
+    "name": "05 juli 09.17, Trafikolycka, Karlskoga",
+    "summary": "En lastbil har vält på E18 och orsakar stor trafikpåverkan",
+    "url": "/aktuellt/handelser/2024/juli/5/05-juli-09.17-trafikolycka-karlskoga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 533974,
+    "datetime": "2024-07-05 13:01:20 +02:00",
+    "name": "05 juli 10.12, Trafikkontroll, Pajala",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/juli/5/05-juli-10.12-trafikkontroll-pajala/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
     "id": 533972,
     "datetime": "2024-07-05 11:41:41 +02:00",
-    "name": "05 juli 11.35, Trafikolycka, Värnamo",
+    "name": "05 juli 11.35, Trafikolycka, personskada, Värnamo",
     "summary": "Vägen avstängd efter olycka mellan personbil och motorcykel.",
-    "url": "/aktuellt/handelser/2024/juli/5/05-juli-11.35-trafikolycka-varnamo/",
-    "type": "Trafikolycka",
+    "url": "/aktuellt/handelser/2024/juli/5/05-juli-11.35-trafikolycka-personskada-varnamo/",
+    "type": "Trafikolycka, personskada",
     "location": {
       "name": "Värnamo",
       "gps": "57.183161,14.047821"
@@ -93,18 +117,6 @@
     "location": {
       "name": "Enköping",
       "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 533958,
-    "datetime": "2024-07-05 9:30:07 +02:00",
-    "name": "05 juli 09.17, Trafikolycka, Karlskoga",
-    "summary": "En lastbil har vält på E18 och orsakar stor trafikpåverkan",
-    "url": "/aktuellt/handelser/2024/juli/5/05-juli-09.17-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 531976,
-    "datetime": "2024-06-28 7:06:22 +02:00",
-    "name": "28 juni 07.04, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en lugn natt i polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2024/juni/28/28-juni-07.04-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
