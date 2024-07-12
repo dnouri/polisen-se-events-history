@@ -1,5 +1,65 @@
 [
   {
+    "id": 534803,
+    "datetime": "2024-07-12 8:08:33 +02:00",
+    "name": "12 juli 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/juli/12/12-juli-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 534802,
+    "datetime": "2024-07-12 8:03:49 +02:00",
+    "name": "12 juli 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/juli/12/12-juli-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 534801,
+    "datetime": "2024-07-12 8:03:11 +02:00",
+    "name": "12 juli 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/juli/12/12-juli-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 534800,
+    "datetime": "2024-07-12 7:57:43 +02:00",
+    "name": "12 juli 02.05, Rattfylleri, Stockholm",
+    "summary": "Polis stoppar en bil efter misstanke om rattfylla.",
+    "url": "/aktuellt/handelser/2024/juli/12/12-juli-02.05-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 534799,
+    "datetime": "2024-07-12 7:54:10 +02:00",
+    "name": "12 juli 07.32, Trafikolycka, Åstorp",
+    "summary": "RV21, strax öster om Åstorp. Två personbilar i kollision.",
+    "url": "/aktuellt/handelser/2024/juli/12/12-juli-07.32-trafikolycka-astorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åstorp",
+      "gps": "56.134262,12.945908"
+    }
+  },
+  {
     "id": 534798,
     "datetime": "2024-07-12 7:25:26 +02:00",
     "name": "12 juli 07.24, Sammanfattning natt, Norrbottens län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Arvika",
       "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 533583,
-    "datetime": "2024-07-03 9:28:57 +02:00",
-    "name": "03 juli 09.26, Trafikolycka, personskada, Jönköping",
-    "summary": "Motorcykel och bil i olycka",
-    "url": "/aktuellt/handelser/2024/juli/3/03-juli-09.26-trafikolycka-personskada-jonkoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 533626,
-    "datetime": "2024-07-03 11:14:05 +02:00",
-    "name": "03 juli 10.50, Trafikolycka, Danderyd",
-    "summary": "Polis, ambulans och räddningstjänst kallas Danderyd med anledning att en bil har kört in i ett flerbostadshus.",
-    "url": "/aktuellt/handelser/2024/juli/3/03-juli-10.50-trafikolycka-danderyd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Danderyd",
-      "gps": "59.407905,18.019075"
-    }
-  },
-  {
-    "id": 533623,
-    "datetime": "2024-07-03 10:54:24 +02:00",
-    "name": "03 juli 09.46, Trafikkontroll, Örnsköldsvik",
-    "summary": "Resultat efter en trafikkontroll på länsväg 908, Bjästa.",
-    "url": "/aktuellt/handelser/2024/juli/3/03-juli-09.46-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 533621,
-    "datetime": "2024-07-03 10:49:47 +02:00",
-    "name": "03 juli 09.48, Trafikkontroll, Älvsbyn",
-    "summary": "Resultat efter trafikkontroll på Korsträskvägen, Västermalm.",
-    "url": "/aktuellt/handelser/2024/juli/3/03-juli-09.48-trafikkontroll-alvsbyn/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Älvsbyn",
-      "gps": "65.677136,20.992866"
-    }
-  },
-  {
-    "id": 533600,
-    "datetime": "2024-07-03 9:59:27 +02:00",
-    "name": "03 juli 09.37, Trafikolycka, Ludvika",
-    "summary": "En trafikolycka mellan MC och personbil har inträffat i Ludvika på Rv 50/ Östra Storgatan",
-    "url": "/aktuellt/handelser/2024/juli/3/03-juli-09.37-trafikolycka-ludvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
     }
   }
 ]
