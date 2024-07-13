@@ -1,5 +1,65 @@
 [
   {
+    "id": 534930,
+    "datetime": "2024-07-13 11:35:15 +02:00",
+    "name": "13 juli 11.08, Misshandel, grov, Gävle",
+    "summary": "Man slog förbipasserande med tillhygge.",
+    "url": "/aktuellt/handelser/2024/juli/13/13-juli-11.08-misshandel-grov-gavle/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 534940,
+    "datetime": "2024-07-13 14:12:15 +02:00",
+    "name": "13 juli 13.59, Trafikolycka, Linköping",
+    "summary": "Trafikolycka utanför Linköping.",
+    "url": "/aktuellt/handelser/2024/juli/13/13-juli-13.59-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 534938,
+    "datetime": "2024-07-13 12:52:57 +02:00",
+    "name": "13 juli 12.43, Trafikolycka, Växjö",
+    "summary": "LV707, sydväst om Växjö. Personbil och sparkcykel i kollision.",
+    "url": "/aktuellt/handelser/2024/juli/13/13-juli-12.43-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 534941,
+    "datetime": "2024-07-13 14:02:48 +02:00",
+    "name": "13 juli 13.06, Trafikolycka, personskada, Hallands län",
+    "summary": "Pojk på cyckel i kollsion med Husbil",
+    "url": "/aktuellt/handelser/2024/juli/13/13-juli-13.06-trafikolycka-personskada-hallands-lan/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 534933,
+    "datetime": "2024-07-13 13:50:27 +02:00",
+    "name": "13 juli 09.47, Fjällräddning, Berg",
+    "summary": "Fjällräddningsinsats, öster om Helags fjällstation.",
+    "url": "/aktuellt/handelser/2024/juli/13/13-juli-09.47-fjallraddning-berg/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
     "id": 534929,
     "datetime": "2024-07-13 12:23:42 +02:00",
     "name": "13 juli 10.49, Trafikolycka, Robertsfors",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 534938,
-    "datetime": "2024-07-13 12:52:57 +02:00",
-    "name": "13 juli 12.43, Trafikolycka, Växjö",
-    "summary": "LV707, sydväst om Växjö. Personbil och sparkcykel i kollision.",
-    "url": "/aktuellt/handelser/2024/juli/13/13-juli-12.43-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -93,18 +141,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 534930,
-    "datetime": "2024-07-13 11:35:15 +02:00",
-    "name": "13 juli 11.08, Misshandel, grov, Gävle",
-    "summary": "Man slog förbipasserande med tillhygge.",
-    "url": "/aktuellt/handelser/2024/juli/13/13-juli-11.08-misshandel-grov-gavle/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 533781,
-    "datetime": "2024-07-04 15:43:06 +02:00",
-    "name": "04 juli 12.19, Trafikolycka, Sollefteå",
-    "summary": "Larm om trafikolycka öster om Junsele.",
-    "url": "/aktuellt/handelser/2024/juli/4/04-juli-12.19-trafikolycka-solleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 533865,
-    "datetime": "2024-07-04 15:20:45 +02:00",
-    "name": "04 juli 10.51, Trafikbrott, Örnsköldsvik",
-    "summary": "Gideå, polisen stoppar en personbil",
-    "url": "/aktuellt/handelser/2024/juli/4/04-juli-10.51-trafikbrott-ornskoldsvik/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 533864,
-    "datetime": "2024-07-04 15:20:24 +02:00",
-    "name": "04 juli 14.29, Trafikolycka, smitning från, Gävle",
-    "summary": "Cyklande kvinna påkörd av smitande bil.",
-    "url": "/aktuellt/handelser/2024/juli/4/04-juli-14.29-trafikolycka-smitning-fran-gavle/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
