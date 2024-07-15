@@ -1,5 +1,65 @@
 [
   {
+    "id": 536083,
+    "datetime": "2024-07-15 12:23:59 +02:00",
+    "name": "15 juli 12.15, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, ett urval av polisens arbete i trafiken under morgon och förmiddag",
+    "url": "/aktuellt/handelser/2024/juli/15/15-juli-12.15-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 536079,
+    "datetime": "2024-07-15 12:12:41 +02:00",
+    "name": "15 juli 10.54, Försvunnen person, Oskarshamn",
+    "summary": "Polisen söker efter en försvunnen pojke väster om Måckebo.",
+    "url": "/aktuellt/handelser/2024/juli/15/15-juli-10.54-forsvunnen-person-oskarshamn/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 536043,
+    "datetime": "2024-07-15 7:42:20 +02:00",
+    "name": "14 juli 22.01, Försvunnen person, Heby",
+    "summary": "Anträffad försvunnen person.Polisen har letat efter en kvinna i 65-årsåldern som varit försvunnit från en adre",
+    "url": "/aktuellt/handelser/2024/juli/14/14-juli-22.01-forsvunnen-person-heby/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Heby",
+      "gps": "59.939637,16.858759"
+    }
+  },
+  {
+    "id": 536078,
+    "datetime": "2024-07-15 11:51:38 +02:00",
+    "name": "15 juli 11.12, Stöld/inbrott, Huddinge",
+    "summary": "En vaktmästare på ett boende i Vårby har fått ett syraliknande preparat i ögat då han utförde ett arbete med e",
+    "url": "/aktuellt/handelser/2024/juli/15/15-juli-11.12-stoldinbrott-huddinge/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 536077,
+    "datetime": "2024-07-15 11:44:19 +02:00",
+    "name": "15 juli 11.03, Trafikolycka, Växjö",
+    "summary": "En buss och en personbil kolliderar på länsväg 890 söder om Rottne.",
+    "url": "/aktuellt/handelser/2024/juli/15/15-juli-11.03-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
     "id": 536076,
     "datetime": "2024-07-15 11:29:48 +02:00",
     "name": "15 juli 10.43, Trafikolycka, Vindeln",
@@ -213,18 +273,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 536043,
-    "datetime": "2024-07-15 7:42:20 +02:00",
-    "name": "14 juli 22.01, Försvunnen person, Heby",
-    "summary": "Polisen letar efter en kvinna i 65-årsåldern som försvunnit från en adress i Östa.",
-    "url": "/aktuellt/handelser/2024/juli/14/14-juli-22.01-forsvunnen-person-heby/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 534038,
-    "datetime": "2024-07-06 10:45:18 +02:00",
-    "name": "06 juli 09.52, Olovlig körning, Skellefteå",
-    "summary": "Man misstänks för olovlig körning.",
-    "url": "/aktuellt/handelser/2024/juli/6/06-juli-09.52-olovlig-korning-skelleftea/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 534037,
-    "datetime": "2024-07-06 10:43:03 +02:00",
-    "name": "06 juli 07.31, Stöld, Umeå",
-    "summary": "Omhändertagen man misstänks för brott.",
-    "url": "/aktuellt/handelser/2024/juli/6/06-juli-07.31-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 534036,
-    "datetime": "2024-07-06 10:18:14 +02:00",
-    "name": "05 juli 19.19, Rån, försök, Västerås",
-    "summary": "Tonåring gripen.",
-    "url": "/aktuellt/handelser/2024/juli/5/05-juli-19.19-ran-forsok-vasteras/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 534035,
-    "datetime": "2024-07-06 10:11:16 +02:00",
-    "name": "06 juli 09.53, Trafikolycka, Trelleborg",
-    "summary": "En singelolycka med en motorcykel inträffar på Strandgatan.",
-    "url": "/aktuellt/handelser/2024/juli/6/06-juli-09.53-trafikolycka-trelleborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Trelleborg",
-      "gps": "55.376243,13.157423"
     }
   }
 ]
