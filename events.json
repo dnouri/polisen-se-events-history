@@ -1,5 +1,41 @@
 [
   {
+    "id": 536336,
+    "datetime": "2024-07-18 6:42:14 +02:00",
+    "name": "18 juli 04.50, Skadegörelse, Helsingborg",
+    "summary": "Det brinner i en häck på Pring Kristians gata.",
+    "url": "/aktuellt/handelser/2024/juli/18/18-juli-04.50-skadegorelse-helsingborg/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 536335,
+    "datetime": "2024-07-18 6:36:13 +02:00",
+    "name": "18 juli 00.59, Stöld, Kävlinge",
+    "summary": "Polis larmas till Malmgatan med anlending av en pågående stöld.",
+    "url": "/aktuellt/handelser/2024/juli/18/18-juli-00.59-stold-kavlinge/",
+    "type": "Stöld",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 536334,
+    "datetime": "2024-07-18 6:27:39 +02:00",
+    "name": "18 juli 00.00, Stöld/inbrott, Helsingborg",
+    "summary": "Ett inbrott sker i en företagslokal i centrala Helsingborg.",
+    "url": "/aktuellt/handelser/2024/juli/18/18-juli-00.00-stoldinbrott-helsingborg/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 536333,
     "datetime": "2024-07-18 6:19:21 +02:00",
     "name": "18 juli 23.52, Motorfordon, stöld, Åstorp",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 534243,
-    "datetime": "2024-07-09 11:08:23 +02:00",
-    "name": "09 juli 10.18, Fylleri/LOB, Skellefteå",
-    "summary": "Berusad man omhändertagen i centrum.",
-    "url": "/aktuellt/handelser/2024/juli/9/09-juli-10.18-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 534242,
-    "datetime": "2024-07-09 10:52:09 +02:00",
-    "name": "09 juli 09.37, Trafikhinder, Sundsvall",
-    "summary": "Trafikhinder på E4 Stockvik.",
-    "url": "/aktuellt/handelser/2024/juli/9/09-juli-09.37-trafikhinder-sundsvall/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 534240,
-    "datetime": "2024-07-09 10:31:57 +02:00",
-    "name": "09 juli 10.31, Trafikkontroll, Jämtlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/juli/9/09-juli-10.31-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
