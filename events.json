@@ -1,5 +1,65 @@
 [
   {
+    "id": 536567,
+    "datetime": "2024-07-20 13:41:07 +02:00",
+    "name": "20 juli 12.37, Rattfylleri, Stockholm",
+    "summary": "Misstänkt rattfylleri nät fordonsförare vid Stadsgårdsleden kontrollerades.",
+    "url": "/aktuellt/handelser/2024/juli/20/20-juli-12.37-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 536517,
+    "datetime": "2024-07-20 6:15:17 +02:00",
+    "name": "20 juli 04.05, Rån, Helsingborg",
+    "summary": "Personrån",
+    "url": "/aktuellt/handelser/2024/juli/20/20-juli-04.05-ran-helsingborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 536566,
+    "datetime": "2024-07-20 13:34:11 +02:00",
+    "name": "20 juli 11.16, Stöld, Umeå",
+    "summary": "Öst på stan, man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2024/juli/20/20-juli-11.16-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 536561,
+    "datetime": "2024-07-20 12:34:27 +02:00",
+    "name": "20 juli 11.32, Trafikolycka, Vellinge",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/juli/20/20-juli-11.32-trafikolycka-vellinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vellinge",
+      "gps": "55.470893,13.01999"
+    }
+  },
+  {
+    "id": 536565,
+    "datetime": "2024-07-20 13:28:43 +02:00",
+    "name": "20 juli 10.23, Stöld, Boden",
+    "summary": "Sävast, polis kontaktas gällande ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2024/juli/20/20-juli-10.23-stold-boden/",
+    "type": "Stöld",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 536564,
     "datetime": "2024-07-20 13:17:40 +02:00",
     "name": "20 juli 13.15, Trafikkontroll, Västerbottens län",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 536561,
-    "datetime": "2024-07-20 12:34:27 +02:00",
-    "name": "20 juli 11.32, Trafikolycka, Vellinge",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2024/juli/20/20-juli-11.32-trafikolycka-vellinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vellinge",
-      "gps": "55.470893,13.01999"
     }
   },
   {
@@ -573,18 +621,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 536517,
-    "datetime": "2024-07-20 6:15:17 +02:00",
-    "name": "20 juli 04.05, Rån, Helsingborg",
-    "summary": "Personrån",
-    "url": "/aktuellt/handelser/2024/juli/20/20-juli-04.05-ran-helsingborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 534852,
-    "datetime": "2024-07-12 14:59:56 +02:00",
-    "name": "12 juli 13.42, Rattfylleri, Torsby",
-    "summary": "Misstänkt rattfylleri i samband med trafikolycka",
-    "url": "/aktuellt/handelser/2024/juli/12/12-juli-13.42-rattfylleri-torsby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
-    }
-  },
-  {
-    "id": 534850,
-    "datetime": "2024-07-12 14:48:45 +02:00",
-    "name": "12 juli 14.48, Försvunnen person, Lycksele",
-    "summary": "Sökinsats i Umeälven ska avslutas.",
-    "url": "/aktuellt/handelser/2024/juli/12/12-juli-14.48-forsvunnen-person-lycksele/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 534839,
-    "datetime": "2024-07-12 13:42:55 +02:00",
-    "name": "12 juli 13.28, Trafikolycka, Växjö",
-    "summary": "En trafikolycka med en motorcykel inträffar på länsväg 845 öster om Ingelstad.",
-    "url": "/aktuellt/handelser/2024/juli/12/12-juli-13.28-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
