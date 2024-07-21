@@ -1,5 +1,65 @@
 [
   {
+    "id": 536611,
+    "datetime": "2024-07-21 10:18:11 +02:00",
+    "name": "21 juli 09.54, Trafikkontroll, Sollefteå",
+    "summary": "Riksväg 90, resultat efter nykterhetskontroll i trafiken",
+    "url": "/aktuellt/handelser/2024/juli/21/21-juli-09.54-trafikkontroll-solleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 536608,
+    "datetime": "2024-07-21 9:50:48 +02:00",
+    "name": "21 juli 09.29, Sammanfattning natt, Jämtlands län",
+    "summary": "Jämtland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/juli/21/21-juli-09.29-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 536610,
+    "datetime": "2024-07-21 9:45:05 +02:00",
+    "name": "21 juli 09.41, Trafikolycka, Örkelljunga",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/juli/21/21-juli-09.41-trafikolycka-orkelljunga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örkelljunga",
+      "gps": "56.283635,13.278832"
+    }
+  },
+  {
+    "id": 536600,
+    "datetime": "2024-07-21 8:08:38 +02:00",
+    "name": "21 juli 08.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2024/juli/21/21-juli-08.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 536607,
+    "datetime": "2024-07-21 9:44:13 +02:00",
+    "name": "21 juli 09.00, Sammanfattning natt, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/juli/21/21-juli-09.00-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 536609,
     "datetime": "2024-07-21 9:39:36 +02:00",
     "name": "21 juli 03.05, Stöld, Ovanåker",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 536600,
-    "datetime": "2024-07-21 8:08:38 +02:00",
-    "name": "21 juli 08.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Här följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/juli/21/21-juli-08.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Arvidsjaur",
       "gps": "65.592077,19.180283"
-    }
-  },
-  {
-    "id": 534919,
-    "datetime": "2024-07-13 8:58:10 +02:00",
-    "name": "12 juli 11.06, Brand, Enköping",
-    "summary": "Man greps i samband med brand i en villa.",
-    "url": "/aktuellt/handelser/2024/juli/12/12-juli-11.06-brand-enkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 534918,
-    "datetime": "2024-07-13 8:56:32 +02:00",
-    "name": "13 juli 08.55, Motorfordon, stöld, Eskilstuna",
-    "summary": "Man gripen i Skiftinge.",
-    "url": "/aktuellt/handelser/2024/juli/13/13-juli-08.55-motorfordon-stold-eskilstuna/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 534917,
-    "datetime": "2024-07-13 8:45:27 +02:00",
-    "name": "13 juli 07.53, Trafikolycka, smitning från, Enköping",
-    "summary": "Förare vägrade stanna efter kollision.",
-    "url": "/aktuellt/handelser/2024/juli/13/13-juli-07.53-trafikolycka-smitning-fran-enkoping/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 534916,
-    "datetime": "2024-07-13 8:30:33 +02:00",
-    "name": "13 juli 07.50, Ofredande/förargelse, Västerås",
-    "summary": "Ungdomar brukade lustgas vid förskola.",
-    "url": "/aktuellt/handelser/2024/juli/13/13-juli-07.50-ofredandeforargelse-vasteras/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
