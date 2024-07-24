@@ -1,5 +1,113 @@
 [
   {
+    "id": 537972,
+    "datetime": "2024-07-24 8:13:04 +02:00",
+    "name": "24 juli 08.06, Sammanfattning natt, Jämtlands län",
+    "summary": "Jämtland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-08.06-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 537950,
+    "datetime": "2024-07-24 6:24:35 +02:00",
+    "name": "24 juli 00.53, Trafikolycka, Västervik",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-00.53-trafikolycka-vastervik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 537970,
+    "datetime": "2024-07-24 8:08:35 +02:00",
+    "name": "24 juli 07.06, Trafikolycka, personskada, Knivsta",
+    "summary": "En singelolycka med personbil inträffade på rv 77 vid Husby-Långhundra. Föraren tog sig själv ur bilen som ham",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-07.06-trafikolycka-personskada-knivsta/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Knivsta",
+      "gps": "59.72612,17.792036"
+    }
+  },
+  {
+    "id": 537971,
+    "datetime": "2024-07-24 8:06:22 +02:00",
+    "name": "24 juli 08.00, Sammanfattning natt, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-08.00-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 537965,
+    "datetime": "2024-07-24 7:58:21 +02:00",
+    "name": "24 juli 07.35, Arbetsplatsolycka, Malmö",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-07.35-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 537969,
+    "datetime": "2024-07-24 7:52:18 +02:00",
+    "name": "24 juli 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 537968,
+    "datetime": "2024-07-24 7:52:04 +02:00",
+    "name": "24 juli 05.10, Skadegörelse, Östhammar",
+    "summary": "Två unga män greps efter att det misstänks för skadegörelse i centrala Östhammar.",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-05.10-skadegorelse-osthammar/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Östhammar",
+      "gps": "60.259302,18.365341"
+    }
+  },
+  {
+    "id": 537967,
+    "datetime": "2024-07-24 7:50:48 +02:00",
+    "name": "24 juli 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 537966,
+    "datetime": "2024-07-24 7:48:21 +02:00",
+    "name": "24 juli 07.30, Sammanfattning natt, Västerbottens län",
+    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/juli/24/24-juli-07.30-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 537964,
     "datetime": "2024-07-24 7:33:09 +02:00",
     "name": "24 juli 01.19, Brand, Stockholm",
@@ -165,18 +273,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 537950,
-    "datetime": "2024-07-24 6:24:35 +02:00",
-    "name": "24 juli 00.53, Trafikolycka, Västervik",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2024/juli/24/24-juli-00.53-trafikolycka-vastervik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Ljungby",
       "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 536095,
-    "datetime": "2024-07-15 14:02:35 +02:00",
-    "name": "15 juli 12.09, Trafikkontroll, Lycksele",
-    "summary": "Norrmalm, resultat efter nykterhetskontroll vid Sommarvägen",
-    "url": "/aktuellt/handelser/2024/juli/15/15-juli-12.09-trafikkontroll-lycksele/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 536094,
-    "datetime": "2024-07-15 13:59:53 +02:00",
-    "name": "15 juli 12.09, Trafikolycka, singel, Piteå",
-    "summary": "Djupviken, bilist har kört in i en stolpe",
-    "url": "/aktuellt/handelser/2024/juli/15/15-juli-12.09-trafikolycka-singel-pitea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 536069,
-    "datetime": "2024-07-15 9:12:34 +02:00",
-    "name": "15 juli 08.15, Stöld/inbrott, Uppsala",
-    "summary": "Inbrott i flera containrar på Seminariegatan vid en byggarbetsplats. Stora värden på maskiner och verktyg som ",
-    "url": "/aktuellt/handelser/2024/juli/15/15-juli-08.15-stoldinbrott-uppsala/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 536093,
-    "datetime": "2024-07-15 13:31:01 +02:00",
-    "name": "15 juli 12.00, Stöld, Gävle",
-    "summary": "En målsägare kontaktade polisen och berättade att han såg en man stjäla hans cykel på Ruddamsgatan.",
-    "url": "/aktuellt/handelser/2024/juli/15/15-juli-12.00-stold-gavle/",
-    "type": "Stöld",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 536091,
-    "datetime": "2024-07-15 13:18:18 +02:00",
-    "name": "15 juli 13.18, Bråk, Linköping",
-    "summary": "En gripen efter bråk i Skäggetorp.",
-    "url": "/aktuellt/handelser/2024/juli/15/15-juli-13.18-brak-linkoping/",
-    "type": "Bråk",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 536079,
-    "datetime": "2024-07-15 12:12:41 +02:00",
-    "name": "15 juli 10.54, Försvunnen person, Oskarshamn",
-    "summary": "Den pojke som anmäldes försvunnen på måndagen har hittats.",
-    "url": "/aktuellt/handelser/2024/juli/15/15-juli-10.54-forsvunnen-person-oskarshamn/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 536090,
-    "datetime": "2024-07-15 12:51:06 +02:00",
-    "name": "15 juli 12.23, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/juli/15/15-juli-12.23-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 536083,
-    "datetime": "2024-07-15 12:23:59 +02:00",
-    "name": "15 juli 12.15, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete i trafiken under morgon och förmiddag",
-    "url": "/aktuellt/handelser/2024/juli/15/15-juli-12.15-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
