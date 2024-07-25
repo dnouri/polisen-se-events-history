@@ -1,5 +1,53 @@
 [
   {
+    "id": 538128,
+    "datetime": "2024-07-25 10:42:25 +02:00",
+    "name": "25 juli 07.42, Trafikkontroll, Östersund",
+    "summary": "Östersund, resultat från en trafikkontroll.",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-07.42-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 538089,
+    "datetime": "2024-07-25 7:11:33 +02:00",
+    "name": "25 juli 05.56, Farligt föremål, misstänkt, Perstorp",
+    "summary": "Larm om misstänkt farligt föremål",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-05.56-farligt-foremal-misstankt-perstorp/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Perstorp",
+      "gps": "56.137972,13.394986"
+    }
+  },
+  {
+    "id": 538127,
+    "datetime": "2024-07-25 10:34:49 +02:00",
+    "name": "25 juli 10.14, Motorfordon, anträffat stulet, Hudiksvall",
+    "summary": "Under natten har någon stulit en golfbil och kört omkring med den på Hudiksvalls Golfklubb.",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-10.14-motorfordon-antraffat-stulet-hudiksvall/",
+    "type": "Motorfordon, anträffat stulet",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 538126,
+    "datetime": "2024-07-25 10:30:25 +02:00",
+    "name": "25 juli 08.28, Rattfylleri, Hallstahammar",
+    "summary": "Det kom till polisens kännedom att en bil framfördes vingligt i Hallstahammars centrala delar.",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-08.28-rattfylleri-hallstahammar/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Hallstahammar",
+      "gps": "59.613204,16.229476"
+    }
+  },
+  {
     "id": 538113,
     "datetime": "2024-07-25 9:48:05 +02:00",
     "name": "25 juli 09.28, Trafikolycka, personskada, Göteborg",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 538089,
-    "datetime": "2024-07-25 7:11:33 +02:00",
-    "name": "25 juli 05.56, Farligt föremål, misstänkt, Perstorp",
-    "summary": "Larm om misstänkt farligt föremål",
-    "url": "/aktuellt/handelser/2024/juli/25/25-juli-05.56-farligt-foremal-misstankt-perstorp/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Perstorp",
-      "gps": "56.137972,13.394986"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 536228,
-    "datetime": "2024-07-16 22:09:34 +02:00",
-    "name": "16 juli 21.58, Fjällräddning, Norrbottens län",
-    "summary": "Fjällräddningsinsats i området Mavas, Arjeplogs kommun, vid gränsen till Norge.",
-    "url": "/aktuellt/handelser/2024/juli/16/16-juli-21.58-fjallraddning-norrbottens-lan/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 536226,
-    "datetime": "2024-07-16 22:00:20 +02:00",
-    "name": "16 juli 22.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/juli/16/16-juli-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 536227,
-    "datetime": "2024-07-16 22:00:15 +02:00",
-    "name": "16 juli 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/juli/16/16-juli-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
