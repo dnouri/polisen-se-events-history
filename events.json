@@ -1,17 +1,5 @@
 [
   {
-    "id": 538145,
-    "datetime": "2024-07-25 13:35:41 +02:00",
-    "name": "25 juli 08.31, Fjällräddning, Kiruna",
-    "summary": "Abisko, fjällräddning.",
-    "url": "/aktuellt/handelser/2024/juli/25/25-juli-08.31-fjallraddning-kiruna/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
     "id": 538140,
     "datetime": "2024-07-25 12:57:55 +02:00",
     "name": "25 juli 12.24, Trafikolycka, Luleå",
@@ -21,6 +9,78 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 538155,
+    "datetime": "2024-07-25 14:11:04 +02:00",
+    "name": "25 juli 13.58, Trafikolycka, personskada, Örebro",
+    "summary": "Trafikolycka med motorcykel",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-13.58-trafikolycka-personskada-orebro/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 538162,
+    "datetime": "2024-07-25 14:29:24 +02:00",
+    "name": "25 juli 11.45, Arbetsplatsolycka, Skellefteå",
+    "summary": "Arbetsplatsolycka i trakten av Åsträsk.",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-11.45-arbetsplatsolycka-skelleftea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 538161,
+    "datetime": "2024-07-25 14:26:40 +02:00",
+    "name": "25 juli 08.00, Trafikolycka, Nyköping",
+    "summary": "Trafikolycka på E4 med flera personbilar.",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-08.00-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 538151,
+    "datetime": "2024-07-25 13:49:33 +02:00",
+    "name": "25 juli 12.14, Misshandel, Malmö",
+    "summary": "Man till sjukhus efter larm om misshandel",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-12.14-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 538152,
+    "datetime": "2024-07-25 13:58:30 +02:00",
+    "name": "25 juli 13.53, Brand, Orsa",
+    "summary": "Brand i fritidshus",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-13.53-brand-orsa/",
+    "type": "Brand",
+    "location": {
+      "name": "Orsa",
+      "gps": "61.116937,14.628071"
+    }
+  },
+  {
+    "id": 538145,
+    "datetime": "2024-07-25 13:35:41 +02:00",
+    "name": "25 juli 08.31, Fjällräddning, Kiruna",
+    "summary": "Abisko, fjällräddning.",
+    "url": "/aktuellt/handelser/2024/juli/25/25-juli-08.31-fjallraddning-kiruna/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 536250,
-    "datetime": "2024-07-17 7:35:02 +02:00",
-    "name": "17 juli 07.01, Sammanfattning natt, Örebro län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/juli/17/17-juli-07.01-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 536249,
-    "datetime": "2024-07-17 7:34:03 +02:00",
-    "name": "17 juli 07.01, Sammanfattning natt, Dalarnas län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/juli/17/17-juli-07.01-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 536248,
-    "datetime": "2024-07-17 7:32:44 +02:00",
-    "name": "17 juli 07.01, Sammanfattning natt, Värmlands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/juli/17/17-juli-07.01-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 536246,
-    "datetime": "2024-07-17 7:22:50 +02:00",
-    "name": "17 juli 07.00, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2024/juli/17/17-juli-07.00-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 536234,
-    "datetime": "2024-07-17 7:08:02 +02:00",
-    "name": "17 juli 06.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/juli/17/17-juli-06.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
