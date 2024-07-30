@@ -1,14 +1,26 @@
 [
   {
-    "id": 538489,
-    "datetime": "2024-07-30 13:24:34 +02:00",
-    "name": "30 juli 11.59, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat i korsningen Östra Bangatan/Dalbygatan.",
-    "url": "/aktuellt/handelser/2024/juli/30/30-juli-11.59-trafikolycka-orebro/",
-    "type": "Trafikolycka",
+    "id": 538494,
+    "datetime": "2024-07-30 14:41:13 +02:00",
+    "name": "30 juli 13.34, Trafikbrott, Krokom",
+    "summary": "E45 Ås, bilist stoppad efter hastighetsöverträdelse",
+    "url": "/aktuellt/handelser/2024/juli/30/30-juli-13.34-trafikbrott-krokom/",
+    "type": "Trafikbrott",
     "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 538493,
+    "datetime": "2024-07-30 14:40:00 +02:00",
+    "name": "30 juli 13.53, Trafikkontroll, Östersund",
+    "summary": "E14 Svedje, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2024/juli/30/30-juli-13.53-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -21,6 +33,54 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 538492,
+    "datetime": "2024-07-30 14:37:06 +02:00",
+    "name": "30 juli 14.02, Trafikolycka, Strömstad",
+    "summary": "På länsväg 1040 i Hogdal har en motorcykel och personbil varit inblandade i en olycka.",
+    "url": "/aktuellt/handelser/2024/juli/30/30-juli-14.02-trafikolycka-stromstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 538491,
+    "datetime": "2024-07-30 14:12:06 +02:00",
+    "name": "30 juli 13.27, Trafikolycka, Västerås",
+    "summary": "Kvinna på elsparkcykel påkörd.",
+    "url": "/aktuellt/handelser/2024/juli/30/30-juli-13.27-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 538490,
+    "datetime": "2024-07-30 13:51:55 +02:00",
+    "name": "30 juli 10.24, Mord/dråp, Vännäs",
+    "summary": "Strax öster om Vännäs, larm inkommer om skadad person",
+    "url": "/aktuellt/handelser/2024/juli/30/30-juli-10.24-morddrap-vannas/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Vännäs",
+      "gps": "63.908007,19.752965"
+    }
+  },
+  {
+    "id": 538489,
+    "datetime": "2024-07-30 13:24:34 +02:00",
+    "name": "30 juli 11.59, Trafikolycka, Örebro",
+    "summary": "En trafikolycka har inträffat i korsningen Östra Bangatan/Dalbygatan.",
+    "url": "/aktuellt/handelser/2024/juli/30/30-juli-11.59-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 536603,
-    "datetime": "2024-07-21 8:07:12 +02:00",
-    "name": "21 juli 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/juli/21/21-juli-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 536602,
-    "datetime": "2024-07-21 7:59:28 +02:00",
-    "name": "21 juli 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammafattning",
-    "url": "/aktuellt/handelser/2024/juli/21/21-juli-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 536601,
-    "datetime": "2024-07-21 7:58:39 +02:00",
-    "name": "21 juli 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/juli/21/21-juli-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 536599,
-    "datetime": "2024-07-21 7:55:09 +02:00",
-    "name": "20 juli 23.15, Misshandel, grov, Västerås",
-    "summary": "Man grips misstänkt för grov misshandel.",
-    "url": "/aktuellt/handelser/2024/juli/20/20-juli-23.15-misshandel-grov-vasteras/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 536598,
-    "datetime": "2024-07-21 7:52:32 +02:00",
-    "name": "21 juli 07.20, Misshandel, grov, Södertälje",
-    "summary": "Kvinna gripen efter att ha kastat sten mot personer.",
-    "url": "/aktuellt/handelser/2024/juli/21/21-juli-07.20-misshandel-grov-sodertalje/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
