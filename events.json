@@ -1,5 +1,53 @@
 [
   {
+    "id": 538561,
+    "datetime": "2024-07-31 11:12:39 +02:00",
+    "name": "31 juli 11.02, Brand, Sundsvall",
+    "summary": "Sundsvall, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/juli/31/31-juli-11.02-brand-sundsvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 538566,
+    "datetime": "2024-07-31 13:15:50 +02:00",
+    "name": "31 juli 11.50, Trafikolycka, singel, Munkedal",
+    "summary": "På länsväg 924 har en mototcykel kört vält i en kurva.",
+    "url": "/aktuellt/handelser/2024/juli/31/31-juli-11.50-trafikolycka-singel-munkedal/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Munkedal",
+      "gps": "58.471505,11.680192"
+    }
+  },
+  {
+    "id": 538490,
+    "datetime": "2024-07-30 13:51:55 +02:00",
+    "name": "30 juli 10.24, Mord/dråp, Vännäs",
+    "summary": "Strax öster om Vännäs, larm inkommer om skadad person",
+    "url": "/aktuellt/handelser/2024/juli/30/30-juli-10.24-morddrap-vannas/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Vännäs",
+      "gps": "63.908007,19.752965"
+    }
+  },
+  {
+    "id": 538565,
+    "datetime": "2024-07-31 12:57:02 +02:00",
+    "name": "31 juli 12.29, Trafikolycka, Växjö",
+    "summary": "Två personbilar kolliderar på Skolgatan i Braås.",
+    "url": "/aktuellt/handelser/2024/juli/31/31-juli-12.29-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
     "id": 538559,
     "datetime": "2024-07-31 10:44:56 +02:00",
     "name": "31 juli 10.33, Trafikolycka, Höör",
@@ -45,18 +93,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 538561,
-    "datetime": "2024-07-31 11:12:39 +02:00",
-    "name": "31 juli 11.02, Brand, Sundsvall",
-    "summary": "Sundsvall, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/juli/31/31-juli-11.02-brand-sundsvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -141,18 +177,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 538490,
-    "datetime": "2024-07-30 13:51:55 +02:00",
-    "name": "30 juli 10.24, Mord/dråp, Vännäs",
-    "summary": "Strax öster om Vännäs, larm inkommer om skadad person",
-    "url": "/aktuellt/handelser/2024/juli/30/30-juli-10.24-morddrap-vannas/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Vännäs",
-      "gps": "63.908007,19.752965"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Skövde",
       "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 537697,
-    "datetime": "2024-07-22 16:33:45 +02:00",
-    "name": "22 juli 16.20, Trafikolycka, Burlöv",
-    "summary": "En singelolycka med en personbil inträffar på E22 i närheten av trafikplats Sege.",
-    "url": "/aktuellt/handelser/2024/juli/22/22-juli-16.20-trafikolycka-burlov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 537695,
-    "datetime": "2024-07-22 15:56:22 +02:00",
-    "name": "22 juli 15.32, Trafikolycka, personskada, Göteborg",
-    "summary": "På Norra Säterigatan har en cyklist och en bilist varit inblandade i en olycka.",
-    "url": "/aktuellt/handelser/2024/juli/22/22-juli-15.32-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
