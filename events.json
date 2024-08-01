@@ -1,5 +1,29 @@
 [
   {
+    "id": 538624,
+    "datetime": "2024-08-01 10:24:10 +02:00",
+    "name": "01 augusti 08.23, Rattfylleri, Växjö",
+    "summary": "Man i 50-årsåldern misstänks för rattfylleri efter kontroll.",
+    "url": "/aktuellt/handelser/2024/augusti/1/01-augusti-08.23-rattfylleri-vaxjo/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 538622,
+    "datetime": "2024-08-01 10:22:15 +02:00",
+    "name": "01 augusti 04.30, Skadegörelse, Hultsfred",
+    "summary": "10 bilar vandaliserars på Aspedalsvägen.",
+    "url": "/aktuellt/handelser/2024/augusti/1/01-augusti-04.30-skadegorelse-hultsfred/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
+    }
+  },
+  {
     "id": 538620,
     "datetime": "2024-08-01 9:17:44 +02:00",
     "name": "01 augusti 07.50, Brand, Åsele",
@@ -9,6 +33,30 @@
     "location": {
       "name": "Åsele",
       "gps": "64.160234,17.353615"
+    }
+  },
+  {
+    "id": 538621,
+    "datetime": "2024-08-01 9:54:23 +02:00",
+    "name": "01 augusti 06.52, Trafikolycka, singel, Umeå",
+    "summary": "E12 Obbola, bilist har kört in i en skylt",
+    "url": "/aktuellt/handelser/2024/augusti/1/01-augusti-06.52-trafikolycka-singel-umea/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 538581,
+    "datetime": "2024-07-31 19:40:58 +02:00",
+    "name": "31 juli 17.47, Misshandel, grov, Västerås",
+    "summary": "Man misshandlad.",
+    "url": "/aktuellt/handelser/2024/juli/31/31-juli-17.47-misshandel-grov-vasteras/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -417,18 +465,6 @@
     "location": {
       "name": "Enköping",
       "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 538581,
-    "datetime": "2024-07-31 19:40:58 +02:00",
-    "name": "31 juli 17.47, Misshandel, grov, Västerås",
-    "summary": "Man misshandlad.",
-    "url": "/aktuellt/handelser/2024/juli/31/31-juli-17.47-misshandel-grov-vasteras/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 537837,
-    "datetime": "2024-07-23 14:36:29 +02:00",
-    "name": "23 juli 13.17, Trafikolycka, Enköping",
-    "summary": "Trafikolycka i Örsundsbro.",
-    "url": "/aktuellt/handelser/2024/juli/23/23-juli-13.17-trafikolycka-enkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 537836,
-    "datetime": "2024-07-23 14:23:14 +02:00",
-    "name": "23 juli 14.00, Trafikbrott, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/juli/23/23-juli-14.00-trafikbrott-vasterbottens-lan/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 537787,
-    "datetime": "2024-07-23 13:03:48 +02:00",
-    "name": "23 juli 12.56, Trafikolycka, Västervik",
-    "summary": "Två personbilar kolliderar på E22 i höjd med Almvik.",
-    "url": "/aktuellt/handelser/2024/juli/23/23-juli-12.56-trafikolycka-vastervik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
     }
   }
 ]
