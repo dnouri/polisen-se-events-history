@@ -1,5 +1,29 @@
 [
   {
+    "id": 538702,
+    "datetime": "2024-08-01 20:47:24 +02:00",
+    "name": "01 augusti 20.46, Försvunnen person, Lund",
+    "summary": "Polisen behöver hjälp med att hitta en försvunnen person i Lund med omnejd.",
+    "url": "/aktuellt/handelser/2024/augusti/1/01-augusti-20.46-forsvunnen-person-lund/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 538732,
+    "datetime": "2024-08-02 7:55:59 +02:00",
+    "name": "02 augusti 06.46, Arbetsplatsolycka, Haninge",
+    "summary": "En anställd vid ett företag i Jorbro har ramlat ned från en lastbil när han skulle lasta och lossa.",
+    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-06.46-arbetsplatsolycka-haninge/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
     "id": 538726,
     "datetime": "2024-08-02 7:32:12 +02:00",
     "name": "02 augusti 06.36, Brand, Vilhelmina",
@@ -9,6 +33,90 @@
     "location": {
       "name": "Vilhelmina",
       "gps": "64.624471,16.655497"
+    }
+  },
+  {
+    "id": 538722,
+    "datetime": "2024-08-02 7:24:36 +02:00",
+    "name": "02 augusti 07.24, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.24-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 538723,
+    "datetime": "2024-08-02 7:56:22 +02:00",
+    "name": "02 augusti 07.55, Sammanfattning natt, Örebro län",
+    "summary": "Natt till fredag polisområde Örebro",
+    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.55-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 538727,
+    "datetime": "2024-08-02 7:56:08 +02:00",
+    "name": "02 augusti 07.55, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till fredag polisområde Värmland.",
+    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.55-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 538728,
+    "datetime": "2024-08-02 7:54:07 +02:00",
+    "name": "02 augusti 07.50, Sammanfattning natt, Östergötlands län",
+    "summary": "Sammanfattning av nattens händelser i Östergötlands län.",
+    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.50-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 538731,
+    "datetime": "2024-08-02 7:54:02 +02:00",
+    "name": "02 augusti 07.50, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av nattens händelser i Södermanlands län.",
+    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.50-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 538724,
+    "datetime": "2024-08-02 7:53:56 +02:00",
+    "name": "02 augusti 07.50, Sammanfattning natt, Jönköpings län",
+    "summary": "Sammanfattning av nattens händelser i Jönköpings län",
+    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.50-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 538730,
+    "datetime": "2024-08-02 7:44:38 +02:00",
+    "name": "02 augusti 07.36, Trafikolycka, Västervik",
+    "summary": "Larm om trafikolycka, Överum",
+    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.36-trafikolycka-vastervik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
     }
   },
   {
@@ -45,18 +153,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 538722,
-    "datetime": "2024-08-02 7:24:36 +02:00",
-    "name": "02 augusti 07.24, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.24-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -141,18 +237,6 @@
     "location": {
       "name": "Sjöbo",
       "gps": "55.634822,13.70337"
-    }
-  },
-  {
-    "id": 538702,
-    "datetime": "2024-08-01 20:47:24 +02:00",
-    "name": "01 augusti 20.46, Försvunnen person, Lund",
-    "summary": "Polisen behöver hjälp med att hitta en försvunnen person i Lund med omnejd.",
-    "url": "/aktuellt/handelser/2024/augusti/1/01-augusti-20.46-forsvunnen-person-lund/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 538037,
-    "datetime": "2024-07-24 13:26:50 +02:00",
-    "name": "24 juli 12.14, Stöld/inbrott, Enköping",
-    "summary": "Ett larm om inbrott i en villa Brunsoppsgatan i Gånsta kom till polisens ledningscentral via en anhörig till f",
-    "url": "/aktuellt/handelser/2024/juli/24/24-juli-12.14-stoldinbrott-enkoping/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 538036,
-    "datetime": "2024-07-24 13:22:37 +02:00",
-    "name": "24 juli 13.22, Övrigt, Dalarnas län",
-    "summary": "Men anledning av personalbrist stänger Regionalt Mediacenter Bergslagen idag 13.00. Ärenden hänvisas till medi",
-    "url": "/aktuellt/handelser/2024/juli/24/24-juli-13.22-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 538035,
-    "datetime": "2024-07-24 13:22:18 +02:00",
-    "name": "24 juli 13.21, Övrigt, Värmlands län",
-    "summary": "Men anledning av personalbrist stänger Regionalt Mediacenter Bergslagen idag 13.00. Ärenden hänvisas till medi",
-    "url": "/aktuellt/handelser/2024/juli/24/24-juli-13.21-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 538034,
-    "datetime": "2024-07-24 13:21:59 +02:00",
-    "name": "24 juli 13.00, Övrigt, Örebro län",
-    "summary": "Men anledning av personalbrist stänger Regionalt Mediacenter Bergslagen idag 13.00. Ärenden hänvisas till medi",
-    "url": "/aktuellt/handelser/2024/juli/24/24-juli-13.00-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 538033,
-    "datetime": "2024-07-24 13:04:07 +02:00",
-    "name": "24 juli 09.18, Trafikkontroll, Kramfors",
-    "summary": "Jättesta, resultat efter nykterhetskontroll vid riksväg 90",
-    "url": "/aktuellt/handelser/2024/juli/24/24-juli-09.18-trafikkontroll-kramfors/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 538032,
-    "datetime": "2024-07-24 13:02:36 +02:00",
-    "name": "24 juli 12.39, Trafikolycka, vilt, Tierp",
-    "summary": "En personbil kolliderade med en älg. Föraren lindrigt skadad och chockad. Älgen försvann från platsen och efte",
-    "url": "/aktuellt/handelser/2024/juli/24/24-juli-12.39-trafikolycka-vilt-tierp/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Tierp",
-      "gps": "60.347587,17.520509"
-    }
-  },
-  {
-    "id": 538031,
-    "datetime": "2024-07-24 13:02:27 +02:00",
-    "name": "24 juli 12.54, Trafikolycka, Vellinge",
-    "summary": "Larm om trafikolycka, Stora Hammar",
-    "url": "/aktuellt/handelser/2024/juli/24/24-juli-12.54-trafikolycka-vellinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vellinge",
-      "gps": "55.470893,13.01999"
     }
   }
 ]
