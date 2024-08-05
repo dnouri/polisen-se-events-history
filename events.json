@@ -1,5 +1,65 @@
 [
   {
+    "id": 540006,
+    "datetime": "2024-08-05 14:31:12 +02:00",
+    "name": "05 augusti 14.09, Trafikolycka, Kävlinge",
+    "summary": "E6, i höjd med Löddeköpinge. Kollision mellan lastbil och personbil.",
+    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-14.09-trafikolycka-kavlinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 539963,
+    "datetime": "2024-08-05 14:27:39 +02:00",
+    "name": "05 augusti 14.27, Trafikkontroll, Lycksele",
+    "summary": "Lycksele kommun, resultat från kontroller i trafiken.",
+    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-14.27-trafikkontroll-lycksele/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 540005,
+    "datetime": "2024-08-05 14:25:50 +02:00",
+    "name": "05 augusti 09.56, Skadegörelse, Haparanda",
+    "summary": "Haparanda, skadegörelse i trappuppgång.",
+    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-09.56-skadegorelse-haparanda/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 539960,
+    "datetime": "2024-08-05 12:09:38 +02:00",
+    "name": "05 augusti 11.36, Arbetsplatsolycka, Gotlands län",
+    "summary": "En person har skadats allvarligt i samband med en arbetsplatsolycka i Västerhejde.",
+    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-11.36-arbetsplatsolycka-gotlands-lan/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 539927,
+    "datetime": "2024-08-05 7:22:43 +02:00",
+    "name": "05 augusti 06.44, Anträffad död, Stockholm",
+    "summary": "En person är anträffad drunknad i vattnet under tunnelbandebron mellan Slussen och G:a Stan. Troligtvis har kr",
+    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-06.44-antraffad-dod-stockholm/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 539964,
     "datetime": "2024-08-05 13:35:18 +02:00",
     "name": "05 augusti 13.17, Rattfylleri, Sotenäs",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 539960,
-    "datetime": "2024-08-05 12:09:38 +02:00",
-    "name": "05 augusti 11.36, Arbetsplatsolycka, Gotlands län",
-    "summary": "En person har skadats allvarligt i samband med en arbetsplatsolycka i Västerhejde.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-11.36-arbetsplatsolycka-gotlands-lan/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
     }
   },
   {
@@ -285,18 +333,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 539927,
-    "datetime": "2024-08-05 7:22:43 +02:00",
-    "name": "05 augusti 06.44, Anträffad död, Stockholm",
-    "summary": "En person är anträffad drunknad i vattnet under tunnelbandebron mellan Slussen och G:a Stan. Troligtvis har kr",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-06.44-antraffad-dod-stockholm/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Tjörn",
       "gps": "58.04102,11.683671"
-    }
-  },
-  {
-    "id": 538304,
-    "datetime": "2024-07-27 14:44:29 +02:00",
-    "name": "27 juli 13.27, Rattfylleri, Östersund",
-    "summary": "Östersund, misstänkt drograttfylleri.",
-    "url": "/aktuellt/handelser/2024/juli/27/27-juli-13.27-rattfylleri-ostersund/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 538303,
-    "datetime": "2024-07-27 14:41:25 +02:00",
-    "name": "27 juli 10.38, Fjällräddning, Jokkmokk",
-    "summary": "Fjällräddning i området kring Staloluokta.",
-    "url": "/aktuellt/handelser/2024/juli/27/27-juli-10.38-fjallraddning-jokkmokk/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 538300,
-    "datetime": "2024-07-27 13:58:13 +02:00",
-    "name": "27 juli 13.58, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/juli/27/27-juli-13.58-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
