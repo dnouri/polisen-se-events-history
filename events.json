@@ -1,5 +1,53 @@
 [
   {
+    "id": 540234,
+    "datetime": "2024-08-08 15:12:47 +02:00",
+    "name": "08 augusti 11.15, Rattfylleri, Umeå",
+    "summary": "Teg, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/augusti/8/08-augusti-11.15-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 540178,
+    "datetime": "2024-08-08 7:01:30 +02:00",
+    "name": "08 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/augusti/8/08-augusti-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 540233,
+    "datetime": "2024-08-08 14:51:05 +02:00",
+    "name": "08 augusti 14.13, Trafikolycka, Örebro",
+    "summary": "En personbilsförare har kört igenom ett mitträcke och sammanstött med två andra bilar på riksväg 50 vid Hovsta",
+    "url": "/aktuellt/handelser/2024/augusti/8/08-augusti-14.13-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 540232,
+    "datetime": "2024-08-08 14:47:41 +02:00",
+    "name": "08 augusti 13.21, Brand, Örebro",
+    "summary": "Polisen biträder räddningstjänsten vid en brand i ett förråd intill bostad på Ladugårdsängen i Örebro.",
+    "url": "/aktuellt/handelser/2024/augusti/8/08-augusti-13.21-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 540226,
     "datetime": "2024-08-08 13:57:36 +02:00",
     "name": "08 augusti 06.55, Stöld/inbrott, Örebro",
@@ -381,18 +429,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 540178,
-    "datetime": "2024-08-08 7:01:30 +02:00",
-    "name": "08 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/augusti/8/08-augusti-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 538495,
-    "datetime": "2024-07-30 14:51:11 +02:00",
-    "name": "30 juli 13.10, Fylleri/LOB, Sundsvall",
-    "summary": "Granloholm, polis kontaktas gällande en påverkad man i en butik",
-    "url": "/aktuellt/handelser/2024/juli/30/30-juli-13.10-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 538494,
-    "datetime": "2024-07-30 14:41:13 +02:00",
-    "name": "30 juli 13.34, Trafikbrott, Krokom",
-    "summary": "E45 Ås, bilist stoppad efter hastighetsöverträdelse",
-    "url": "/aktuellt/handelser/2024/juli/30/30-juli-13.34-trafikbrott-krokom/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 538493,
-    "datetime": "2024-07-30 14:40:00 +02:00",
-    "name": "30 juli 13.53, Trafikkontroll, Östersund",
-    "summary": "E14 Svedje, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2024/juli/30/30-juli-13.53-trafikkontroll-ostersund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
