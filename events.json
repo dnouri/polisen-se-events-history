@@ -1,5 +1,113 @@
 [
   {
+    "id": 541876,
+    "datetime": "2024-08-12 18:17:58 +02:00",
+    "name": "12 augusti 17.32, Trafikolycka, singel, Umeå",
+    "summary": "E12/Vännäsvägen, en bilist uppges ha kört rakt igenom en rondell vid Umedalen",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-17.32-trafikolycka-singel-umea/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 541875,
+    "datetime": "2024-08-12 18:13:59 +02:00",
+    "name": "12 augusti 16.14, Rattfylleri, Östersund",
+    "summary": "E45, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-16.14-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 541874,
+    "datetime": "2024-08-12 18:08:53 +02:00",
+    "name": "12 augusti 17.05, Mord/dråp, försök, Stockholm",
+    "summary": "En man har hittats stickskadad på Södermalm.",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-17.05-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 541873,
+    "datetime": "2024-08-12 18:08:39 +02:00",
+    "name": "12 augusti 15.01, Rattfylleri, Östersund",
+    "summary": "Söder, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-15.01-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 541857,
+    "datetime": "2024-08-12 15:39:36 +02:00",
+    "name": "12 augusti 15.17, Trafikolycka, personskada, Göteborg",
+    "summary": "Två personer är skadad efter att ha blivit påkörda av en bilist på Ramberget.",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-15.17-trafikolycka-personskada-goteborg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 541872,
+    "datetime": "2024-08-12 18:02:19 +02:00",
+    "name": "12 augusti 15.57, Trafikbrott, Örnsköldsvik",
+    "summary": "Själevad, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-15.57-trafikbrott-ornskoldsvik/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 541871,
+    "datetime": "2024-08-12 17:59:00 +02:00",
+    "name": "12 augusti 17.47, Trafikkontroll, Härnösand",
+    "summary": "Franzéngatan, resultat efter trafikkontroll i centrum",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-17.47-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 541870,
+    "datetime": "2024-08-12 17:56:16 +02:00",
+    "name": "12 augusti 16.19, Fylleri/LOB, Sundsvall",
+    "summary": "Stenstan, berusad man påträffad",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-16.19-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 541869,
+    "datetime": "2024-08-12 17:48:23 +02:00",
+    "name": "12 augusti 14.08, Övrigt, Kalix",
+    "summary": "Kalix, kvinna gripen misstänkt för överträdelse av kontaktförbud",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-14.08-ovrigt-kalix/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
     "id": 541868,
     "datetime": "2024-08-12 17:03:43 +02:00",
     "name": "12 augusti 15.21, Narkotikabrott, Luleå",
@@ -18,18 +126,6 @@
     "summary": "Det brinner i en lägenhet på Distansgatan i Flatås.",
     "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-14.59-brand-goteborg/",
     "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 541857,
-    "datetime": "2024-08-12 15:39:36 +02:00",
-    "name": "12 augusti 15.17, Trafikolycka, personskada, Göteborg",
-    "summary": "Två personer är skadad efter att ha blivit påkörda av en bilist på Ramberget.",
-    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-15.17-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 538784,
-    "datetime": "2024-08-02 18:37:29 +02:00",
-    "name": "02 augusti 17.23, Trafikolycka, Gävle",
-    "summary": "Bilist körde av vägen.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-17.23-trafikolycka-gavle/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 538781,
-    "datetime": "2024-08-02 18:25:38 +02:00",
-    "name": "02 augusti 17.33, Rattfylleri, Haninge",
-    "summary": "Fordonsförare i Brandbergen rapporterades för drograttfylleri.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-17.33-rattfylleri-haninge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 538779,
-    "datetime": "2024-08-02 18:12:01 +02:00",
-    "name": "02 augusti 14.54, Brand, Kungsör",
-    "summary": "Brand i lägenhet.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-14.54-brand-kungsor/",
-    "type": "Brand",
-    "location": {
-      "name": "Kungsör",
-      "gps": "59.422397,16.097786"
-    }
-  },
-  {
-    "id": 538778,
-    "datetime": "2024-08-02 18:08:59 +02:00",
-    "name": "02 augusti 15.23, Stöld, Västerås",
-    "summary": "Två gripna efter grov stöld.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-15.23-stold-vasteras/",
-    "type": "Stöld",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 538777,
-    "datetime": "2024-08-02 18:06:45 +02:00",
-    "name": "02 augusti 12.04, Inbrott, Västerås",
-    "summary": "Inbrott i villa.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-12.04-inbrott-vasteras/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 538776,
-    "datetime": "2024-08-02 17:42:26 +02:00",
-    "name": "02 augusti 15.01, Trafikolycka, personskada, Trollhättan",
-    "summary": "Vid ett övergångsställe på Gärdhemsvägen har en cyklist blivit påkörd av en personbil.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-15.01-trafikolycka-personskada-trollhattan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 538774,
-    "datetime": "2024-08-02 16:23:02 +02:00",
-    "name": "02 augusti 16.17, Trafikolycka, Helsingborg",
-    "summary": "Olycka i rondell, Stattena.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-16.17-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 538773,
-    "datetime": "2024-08-02 16:22:29 +02:00",
-    "name": "02 augusti 13.51, Brand, Hallstahammar",
-    "summary": "Brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-13.51-brand-hallstahammar/",
-    "type": "Brand",
-    "location": {
-      "name": "Hallstahammar",
-      "gps": "59.613204,16.229476"
     }
   }
 ]
