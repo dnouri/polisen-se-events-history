@@ -1,5 +1,53 @@
 [
   {
+    "id": 541829,
+    "datetime": "2024-08-12 10:21:01 +02:00",
+    "name": "12 augusti 10.20, Brand, Eksjö",
+    "summary": "SOS-larm om villabrand i Mariannelund.",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-10.20-brand-eksjo/",
+    "type": "Brand",
+    "location": {
+      "name": "Eksjö",
+      "gps": "57.665165,14.973221"
+    }
+  },
+  {
+    "id": 541840,
+    "datetime": "2024-08-12 12:20:53 +02:00",
+    "name": "12 augusti 11.20, Trafikolycka, Robertsfors",
+    "summary": "E4 Rickleå, en buss och en lastbil har kolliderat",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-11.20-trafikolycka-robertsfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 541839,
+    "datetime": "2024-08-12 12:12:56 +02:00",
+    "name": "12 augusti 09.31, Vapenlagen, Göteborg",
+    "summary": "Man med luftvapen frihetsberövad",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-09.31-vapenlagen-goteborg/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 541838,
+    "datetime": "2024-08-12 12:05:01 +02:00",
+    "name": "12 augusti 09.06, Inbrott, Göteborg",
+    "summary": "Inbrott i radhus, Gårdstensbergen",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-09.06-inbrott-goteborg/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 541836,
     "datetime": "2024-08-12 11:29:09 +02:00",
     "name": "12 augusti 09.14, Knivlagen, Stockholm",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 541829,
-    "datetime": "2024-08-12 10:21:01 +02:00",
-    "name": "12 augusti 10.20, Brand, Eksjö",
-    "summary": "SOS-larm om villabrand i Mariannelund.",
-    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-10.20-brand-eksjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Eksjö",
-      "gps": "57.665165,14.973221"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Tingsryd",
       "gps": "56.524745,14.978534"
-    }
-  },
-  {
-    "id": 538744,
-    "datetime": "2024-08-02 12:15:08 +02:00",
-    "name": "02 augusti 11.49, Trafikolycka, Säter",
-    "summary": "En personbil har voltat av riksväg 70 strax norr om Säter i södergående riktning.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-11.49-trafikolycka-sater/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Säter",
-      "gps": "60.34665,15.7479"
-    }
-  },
-  {
-    "id": 538742,
-    "datetime": "2024-08-02 10:39:26 +02:00",
-    "name": "02 augusti 09.58, Brand, Malmö",
-    "summary": "Larm om bilbrand",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-09.58-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 538741,
-    "datetime": "2024-08-02 10:38:40 +02:00",
-    "name": "02 augusti 09.47, Trafikolycka, personskada, Hudiksvall",
-    "summary": "Två personer till sjukhus efter trafikolycka.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-09.47-trafikolycka-personskada-hudiksvall/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
     }
   }
 ]
