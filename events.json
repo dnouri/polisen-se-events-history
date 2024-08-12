@@ -1,9 +1,81 @@
 [
   {
+    "id": 541865,
+    "datetime": "2024-08-12 16:23:24 +02:00",
+    "name": "12 augusti 12.06, Stöld/inbrott, Strömsund",
+    "summary": "Solbacken, inbrott i lägenhet i centrala Strömsund",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-12.06-stoldinbrott-stromsund/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 541864,
+    "datetime": "2024-08-12 16:16:26 +02:00",
+    "name": "12 augusti 15.30, Misshandel, Jönköping",
+    "summary": "Misshandlade med trubbigt tillhygge",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-15.30-misshandel-jonkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 541863,
+    "datetime": "2024-08-12 16:09:37 +02:00",
+    "name": "12 augusti 15.00, Brand, Landskrona",
+    "summary": "Viktoriagatan. Brand i flerfamiljshus.",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-15.00-brand-landskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 541862,
+    "datetime": "2024-08-12 16:04:51 +02:00",
+    "name": "12 augusti 15.38, Räddningsinsats, Ängelholm",
+    "summary": "Tåstrupsgatan, Rönne å. Drunkningstillbud.",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-15.38-raddningsinsats-angelholm/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 541861,
+    "datetime": "2024-08-12 15:59:40 +02:00",
+    "name": "12 augusti 14.17, Fylleri/LOB, Umeå",
+    "summary": "Ersboda, polis kontaktas gällande högljudd, berusad man vid bussar",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-14.17-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 541840,
+    "datetime": "2024-08-12 12:20:53 +02:00",
+    "name": "12 augusti 11.20, Trafikolycka, Robertsfors",
+    "summary": "E4 Rickleå, en buss och en lastbil har kolliderat",
+    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-11.20-trafikolycka-robertsfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
     "id": 541857,
     "datetime": "2024-08-12 15:39:36 +02:00",
     "name": "12 augusti 15.17, Trafikolycka, personskada, Göteborg",
-    "summary": "En person är skadad efter att ha blivit påkörd av en bilist på Ramberget.",
+    "summary": "Två personer är skadad efter att ha blivit påkörda av en bilist på Ramberget.",
     "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-15.17-trafikolycka-personskada-goteborg/",
     "type": "Trafikolycka, personskada",
     "location": {
@@ -57,18 +129,6 @@
     "location": {
       "name": "Eksjö",
       "gps": "57.665165,14.973221"
-    }
-  },
-  {
-    "id": 541840,
-    "datetime": "2024-08-12 12:20:53 +02:00",
-    "name": "12 augusti 11.20, Trafikolycka, Robertsfors",
-    "summary": "E4 Rickleå, en buss och en lastbil har kolliderat",
-    "url": "/aktuellt/handelser/2024/augusti/12/12-augusti-11.20-trafikolycka-robertsfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Gotlands län",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 538754,
-    "datetime": "2024-08-02 14:09:44 +02:00",
-    "name": "02 augusti 14.09, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-14.09-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 538763,
-    "datetime": "2024-08-02 14:05:20 +02:00",
-    "name": "02 augusti 13.11, Brand, Stockholm",
-    "summary": "Polis och räddningstjänst befinner sig i Vasastaden m a a en brand i en restauranglokal. En person rapporteras",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-13.11-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 538757,
-    "datetime": "2024-08-02 13:31:00 +02:00",
-    "name": "02 augusti 12.44, Försvunnen person, Karlskrona",
-    "summary": "Polisen söker efter försvunnen pojke",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-12.44-forsvunnen-person-karlskrona/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 538758,
-    "datetime": "2024-08-02 13:37:56 +02:00",
-    "name": "02 augusti 07.50, Trafikolycka, personskada, Eskilstuna",
-    "summary": "En trafikolycka i Eskilstuna och vägen avstängd.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-07.50-trafikolycka-personskada-eskilstuna/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 538749,
-    "datetime": "2024-08-02 12:37:01 +02:00",
-    "name": "02 augusti 12.20, Trafikolycka, Sollentuna",
-    "summary": "För andra dagen i rad har en lastbil kört in i ett brofundament i Norrviken.",
-    "url": "/aktuellt/handelser/2024/augusti/2/02-augusti-12.20-trafikolycka-sollentuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
     }
   }
 ]
