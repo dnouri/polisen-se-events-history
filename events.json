@@ -1,5 +1,65 @@
 [
   {
+    "id": 541996,
+    "datetime": "2024-08-13 16:43:40 +02:00",
+    "name": "13 augusti 16.09, Trafikkontroll, Sollefteå",
+    "summary": "Remsle, resultat efter nykterhetskontroll vid riksväg 90",
+    "url": "/aktuellt/handelser/2024/augusti/13/13-augusti-16.09-trafikkontroll-solleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 541995,
+    "datetime": "2024-08-13 16:42:11 +02:00",
+    "name": "13 augusti 15.47, Fylleri/LOB, Sundsvall",
+    "summary": "Norrmalm, man omhändertagen av polis",
+    "url": "/aktuellt/handelser/2024/augusti/13/13-augusti-15.47-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 541979,
+    "datetime": "2024-08-13 16:07:46 +02:00",
+    "name": "13 augusti 15.39, Trafikolycka, personskada, Halmstad",
+    "summary": "I korsningen Gamletullsgatan - Wrangelsgatan har en pojke på cykel och en bilist kolliderat.",
+    "url": "/aktuellt/handelser/2024/augusti/13/13-augusti-15.39-trafikolycka-personskada-halmstad/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 541984,
+    "datetime": "2024-08-13 16:27:16 +02:00",
+    "name": "13 augusti 16.17, Trafikolycka, Uppsala",
+    "summary": "Stillastående bil påkört av annat fordon.",
+    "url": "/aktuellt/handelser/2024/augusti/13/13-augusti-16.17-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 541986,
+    "datetime": "2024-08-13 16:25:39 +02:00",
+    "name": "13 augusti 11.19, Miljöbrott, Örnsköldsvik",
+    "summary": "Örnsköldsvik, utsläpp av gas från fabrik",
+    "url": "/aktuellt/handelser/2024/augusti/13/13-augusti-11.19-miljobrott-ornskoldsvik/",
+    "type": "Miljöbrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 541975,
     "datetime": "2024-08-13 16:15:30 +02:00",
     "name": "13 augusti 15.32, Trafikolycka, personskada, Östhammar",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Enköping",
       "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 541979,
-    "datetime": "2024-08-13 16:07:46 +02:00",
-    "name": "13 augusti 15.39, Trafikolycka, personskada, Halmstad",
-    "summary": "I korsningen Gamletullsgatan - Wrangelsgatan har en pojke på cykel och en bilist kolliderat.",
-    "url": "/aktuellt/handelser/2024/augusti/13/13-augusti-15.39-trafikolycka-personskada-halmstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 538847,
-    "datetime": "2024-08-04 7:16:23 +02:00",
-    "name": "04 augusti 07.16, Sammanfattning natt, Örebro län",
-    "summary": "Natt till söndag polisområde Örebro.",
-    "url": "/aktuellt/handelser/2024/augusti/4/04-augusti-07.16-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 538839,
-    "datetime": "2024-08-03 23:58:36 +02:00",
-    "name": "03 augusti 22.59, Skottlossning, Stockholm",
-    "summary": "En person träffades av flera skott från skjutvapen inne på en restaurang vid Midsommarkransen.",
-    "url": "/aktuellt/handelser/2024/augusti/3/03-augusti-22.59-skottlossning-stockholm/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 538843,
-    "datetime": "2024-08-04 7:00:52 +02:00",
-    "name": "04 augusti 05.41, Stöld/inbrott, Eslöv",
-    "summary": "Inbrott i skola",
-    "url": "/aktuellt/handelser/2024/augusti/4/04-augusti-05.41-stoldinbrott-eslov/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 538851,
-    "datetime": "2024-08-04 6:55:46 +02:00",
-    "name": "04 augusti 00.06, Rattfylleri, Karlskrona",
-    "summary": "Man misstänkt för rattfylleri efter fordonskontroll",
-    "url": "/aktuellt/handelser/2024/augusti/4/04-augusti-00.06-rattfylleri-karlskrona/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   }
 ]
