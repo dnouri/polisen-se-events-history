@@ -1,5 +1,77 @@
 [
   {
+    "id": 542131,
+    "datetime": "2024-08-14 13:19:30 +02:00",
+    "name": "14 augusti 11.34, Trafikolycka, singel, Sorsele",
+    "summary": "Länsväg 1132/Vällingträskvägen, en bilist har kört av vägen",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-11.34-trafikolycka-singel-sorsele/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Sorsele",
+      "gps": "65.534938,17.542175"
+    }
+  },
+  {
+    "id": 542129,
+    "datetime": "2024-08-14 13:10:37 +02:00",
+    "name": "14 augusti 12.58, Trafikolycka, Grums",
+    "summary": "Polisen är på plats vid en trafikolycka på E18 i Grums.",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-12.58-trafikolycka-grums/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Grums",
+      "gps": "59.353179,13.111732"
+    }
+  },
+  {
+    "id": 542128,
+    "datetime": "2024-08-14 13:08:02 +02:00",
+    "name": "14 augusti 07.03, Stöld, Skellefteå",
+    "summary": "Byske, polis beordras till en kyrkogård för att kontrollera två personer som uppges sova där",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-07.03-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 542125,
+    "datetime": "2024-08-14 12:56:35 +02:00",
+    "name": "14 augusti 12.49, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-12.49-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 542124,
+    "datetime": "2024-08-14 12:51:00 +02:00",
+    "name": "14 augusti 09.24, Arbetsplatsolycka, Uppsala",
+    "summary": "Man skadade sin hand i arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-09.24-arbetsplatsolycka-uppsala/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 542123,
+    "datetime": "2024-08-14 12:49:06 +02:00",
+    "name": "14 augusti 09.37, Trafikbrott, Umeå",
+    "summary": "Väst på stan, bilist stoppad på länsväg 503",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-092.37-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 542113,
     "datetime": "2024-08-14 10:35:16 +02:00",
     "name": "14 augusti 08.57, Djur, Norberg",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Mora",
       "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 539957,
-    "datetime": "2024-08-05 11:38:54 +02:00",
-    "name": "05 augusti 06.44, Brand, Stockholm",
-    "summary": "En lägenhet är rökfylld i Vårberg. Polis och räddningstjänst är på plats.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-06.44-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 539946,
-    "datetime": "2024-08-05 10:13:55 +02:00",
-    "name": "05 augusti 09.56, Trafikolycka, Kiruna",
-    "summary": "Kiruna, trafikolycka på Österleden.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-09.56-trafikolycka-kiruna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 539954,
-    "datetime": "2024-08-05 10:48:57 +02:00",
-    "name": "05 augusti 10.09, Trafikolycka, Malmö",
-    "summary": "Två personbilar kolliderar på Nobelvägen/Ystadvägen.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-10.09-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 539950,
-    "datetime": "2024-08-05 10:20:44 +02:00",
-    "name": "05 augusti 09.46, Trafikbrott, Borlänge",
-    "summary": "En förare i yrkesmässig trafik, en man i tjugofemårsåldern misstänks för trafikbrott.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-09.46-trafikbrott-borlange/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 539942,
-    "datetime": "2024-08-05 9:54:54 +02:00",
-    "name": "05 augusti 07.38, Trafikolycka, Norsjö",
-    "summary": "Trafikolycka i Norsjö.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-07.38-trafikolycka-norsjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norsjö",
-      "gps": "64.913509,19.482641"
-    }
-  },
-  {
-    "id": 539944,
-    "datetime": "2024-08-05 10:11:06 +02:00",
-    "name": "05 augusti 09.33, Trafikbrott, Örnsköldsvik",
-    "summary": "Örnsköldsvik, misstänkt trafikbrott.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-09.33-trafikbrott-ornskoldsvik/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
