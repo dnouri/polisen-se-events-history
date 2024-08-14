@@ -1,5 +1,77 @@
 [
   {
+    "id": 542135,
+    "datetime": "2024-08-14 14:59:19 +02:00",
+    "name": "14 augusti 14.15, Brand, Västerås",
+    "summary": "Fullt utvecklad brand i radhuslänga på Bäckby.",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-14.15-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 542148,
+    "datetime": "2024-08-14 16:06:25 +02:00",
+    "name": "14 augusti 14.23, Brand, Boden",
+    "summary": "Boden, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-14.23-brand-boden/",
+    "type": "Brand",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 542147,
+    "datetime": "2024-08-14 15:57:36 +02:00",
+    "name": "14 augusti 15.31, Brand, Gävle",
+    "summary": "Brand i växtlighet nära en byggnad.",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-15.31-brand-gavle/",
+    "type": "Brand",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 542145,
+    "datetime": "2024-08-14 15:49:46 +02:00",
+    "name": "14 augusti 13.02, Skadegörelse, Gävle",
+    "summary": "Fönsterrutor till restaurang utsatt för skadegörelse.",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-13.02-skadegorelse-gavle/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 542144,
+    "datetime": "2024-08-14 15:48:44 +02:00",
+    "name": "14 augusti 15.48, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat från trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-15.48-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 542142,
+    "datetime": "2024-08-14 15:45:55 +02:00",
+    "name": "14 augusti 14.43, Trafikolycka, Stockholm",
+    "summary": "Flera fordon inblandade i trafikolycka i Årstatunneln.",
+    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-14.43-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 542138,
     "datetime": "2024-08-14 15:30:08 +02:00",
     "name": "14 augusti 08.16, Fjällräddning, Jokkmokk",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Sorsele",
       "gps": "65.534938,17.542175"
-    }
-  },
-  {
-    "id": 542135,
-    "datetime": "2024-08-14 14:59:19 +02:00",
-    "name": "14 augusti 14.15, Brand, Västerås",
-    "summary": "Fullt utvecklad brand i radhuslänga på Bäckby.",
-    "url": "/aktuellt/handelser/2024/augusti/14/14-augusti-14.15-brand-vasteras/",
-    "type": "Brand",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 540009,
-    "datetime": "2024-08-05 16:10:27 +02:00",
-    "name": "05 augusti 14.13, Djur, Malmö",
-    "summary": "Limhamns sjöstad. En hund biter en person och en annan hund.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-14.13-djur-malmo/",
-    "type": "Djur",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 540008,
-    "datetime": "2024-08-05 15:12:49 +02:00",
-    "name": "05 augusti 14.43, Våld/hot mot tjänsteman, Malmö",
-    "summary": "Limhamn. En polisman skadas i samband med ingripande.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-14.43-valdhot-mot-tjansteman-malmo/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 539965,
-    "datetime": "2024-08-05 15:00:50 +02:00",
-    "name": "05 augusti 08.16, Fjällräddning, Berg",
-    "summary": "Fjällräddning vid Storådörren.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-08.16-fjallraddning-berg/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 540007,
-    "datetime": "2024-08-05 14:59:01 +02:00",
-    "name": "05 augusti 11.25, Motorfordon, stöld, Borlänge",
-    "summary": "En man trettiofemårsåldern har gripits bland annat misstänkt för tillgrepp av fortskaffningsmedel.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-11.25-motorfordon-stold-borlange/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 540006,
-    "datetime": "2024-08-05 14:31:12 +02:00",
-    "name": "05 augusti 14.09, Trafikolycka, Kävlinge",
-    "summary": "E6, i höjd med Löddeköpinge. Kollision mellan lastbil och personbil.",
-    "url": "/aktuellt/handelser/2024/augusti/5/05-augusti-14.09-trafikolycka-kavlinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kävlinge",
-      "gps": "55.794,13.110429"
     }
   }
 ]
