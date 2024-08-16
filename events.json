@@ -1,5 +1,41 @@
 [
   {
+    "id": 542301,
+    "datetime": "2024-08-16 6:41:51 +02:00",
+    "name": "16 augusti 00.57, Brand, Staffanstorp",
+    "summary": "Brand i halmbalar, Hjärup",
+    "url": "/aktuellt/handelser/2024/augusti/16/16-augusti-00.57-brand-staffanstorp/",
+    "type": "Brand",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 542300,
+    "datetime": "2024-08-16 6:33:43 +02:00",
+    "name": "15 augusti 22.50, Trafikbrott, Helsingborg",
+    "summary": "Larm om trafikolycka, personbil kört in i husvägg",
+    "url": "/aktuellt/handelser/2024/augusti/15/15-augusti-22.50-trafikbrott-helsingborg/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 542299,
+    "datetime": "2024-08-16 6:27:47 +02:00",
+    "name": "16 augusti 00.31, Trafikolycka, Perstorp",
+    "summary": "Larm om trafikolycka, LV1873 Perstorp",
+    "url": "/aktuellt/handelser/2024/augusti/16/16-augusti-00.31-trafikolycka-perstorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Perstorp",
+      "gps": "56.137972,13.394986"
+    }
+  },
+  {
     "id": 542298,
     "datetime": "2024-08-16 6:21:50 +02:00",
     "name": "16 augusti 04.24, Rån, försök, Helsingborg",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Trollhättan",
       "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 540152,
-    "datetime": "2024-08-07 15:49:51 +02:00",
-    "name": "07 augusti 15.08, Ofredande/förargelse, Kungälv",
-    "summary": "Man blottade sig vid motionsspår",
-    "url": "/aktuellt/handelser/2024/augusti/7/07-augusti-15.08-ofredandeforargelse-kungalv/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 540158,
-    "datetime": "2024-08-07 17:19:42 +02:00",
-    "name": "07 augusti 16.52, Trafikolycka, Stockholm",
-    "summary": "Två personbilar har krockat på Centralbron i södergående riktning. En person har fått lindriga skador.",
-    "url": "/aktuellt/handelser/2024/augusti/7/07-augusti-16.52-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 540153,
-    "datetime": "2024-08-07 15:50:45 +02:00",
-    "name": "07 augusti 15.26, Trafikolycka, Alvesta",
-    "summary": "Lv126/Husebyvägen, Vislanda. Kollision mellan lastbil och personbil.",
-    "url": "/aktuellt/handelser/2024/augusti/7/07-augusti-15.26-trafikolycka-alvesta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
     }
   }
 ]
