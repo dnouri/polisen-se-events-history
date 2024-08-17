@@ -1,5 +1,53 @@
 [
   {
+    "id": 542484,
+    "datetime": "2024-08-17 12:37:03 +02:00",
+    "name": "17 augusti 12.31, Trafikolycka, Kristinehamn",
+    "summary": "Trafikolycka har inträffat på E18 i höjd med Ölme",
+    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-12.31-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 542490,
+    "datetime": "2024-08-17 14:17:58 +02:00",
+    "name": "17 augusti 12.56, Trafikolycka, personskada, Partille",
+    "summary": "SOS larmar om en trafikolycka på Kåhögsvägen i Partille.",
+    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-12.56-trafikolycka-personskada-partille/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Partille",
+      "gps": "57.73665,12.125197"
+    }
+  },
+  {
+    "id": 542491,
+    "datetime": "2024-08-17 14:17:48 +02:00",
+    "name": "17 augusti 13.38, Skottlossning, misstänkt, Uppsala",
+    "summary": "Misstänkt skottlossning var bröllop och fyrverkerier.",
+    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-13.38-skottlossning-misstankt-uppsala/",
+    "type": "Skottlossning, misstänkt",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 542489,
+    "datetime": "2024-08-17 13:45:57 +02:00",
+    "name": "17 augusti 13.45, Trafikolycka, singel, Gnesta",
+    "summary": "Motorcyklist körde omkull på länsväg 223.",
+    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-13.45-trafikolycka-singel-gnesta/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Gnesta",
+      "gps": "59.048348,17.307228"
+    }
+  },
+  {
     "id": 542481,
     "datetime": "2024-08-17 13:32:53 +02:00",
     "name": "17 augusti 13.00, Övrigt, Borås",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Övertorneå",
       "gps": "66.388444,23.639283"
-    }
-  },
-  {
-    "id": 542484,
-    "datetime": "2024-08-17 12:37:03 +02:00",
-    "name": "17 augusti 12.31, Trafikolycka, Kristinehamn",
-    "summary": "Trafikolycka har inträffat på E18 i höjd med Ölme",
-    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-12.31-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 540715,
-    "datetime": "2024-08-10 8:19:08 +02:00",
-    "name": "10 augusti 08.19, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2024/augusti/10/10-augusti-08.19-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 540704,
-    "datetime": "2024-08-10 7:44:52 +02:00",
-    "name": "10 augusti 07.45, Sammanfattning natt, Jönköpings län",
-    "summary": "En lugn natt i Jönköpings län.",
-    "url": "/aktuellt/handelser/2024/augusti/10/10-augusti-07.45-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 540709,
-    "datetime": "2024-08-10 7:44:39 +02:00",
-    "name": "10 augusti 07.45, Sammanfattning natt, Östergötlands län",
-    "summary": "En lugn natt i Östergötlands län.",
-    "url": "/aktuellt/handelser/2024/augusti/10/10-augusti-07.45-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
