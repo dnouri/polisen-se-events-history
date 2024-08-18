@@ -1,5 +1,65 @@
 [
   {
+    "id": 542552,
+    "datetime": "2024-08-18 12:21:47 +02:00",
+    "name": "18 augusti 12.14, Trafikolycka, Askersund",
+    "summary": "Två bilister har kolliderat på Rv 50 vid lilla hammarsundsbron.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-12.14-trafikolycka-askersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 542551,
+    "datetime": "2024-08-18 12:21:19 +02:00",
+    "name": "18 augusti 10.53, Stöld/inbrott, Norberg",
+    "summary": "Förening utsatt för inbrott.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-10.53-stoldinbrott-norberg/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Norberg",
+      "gps": "60.065042,15.923796"
+    }
+  },
+  {
+    "id": 542547,
+    "datetime": "2024-08-18 11:30:01 +02:00",
+    "name": "18 augusti 10.53, Trafikolycka, Kristinehamn",
+    "summary": "Två bilister har kolliderat på Rv26/ Stationsgatan i Storfors.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-10.53-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 542550,
+    "datetime": "2024-08-18 11:56:03 +02:00",
+    "name": "18 augusti 11.52, Trafikkontroll, Västernorrlands län",
+    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-11.52-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 542549,
+    "datetime": "2024-08-18 11:50:14 +02:00",
+    "name": "18 augusti 11.44, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Ett antal viltolyckor har rapporterats in till polisens ledningscentral under förmiddagen",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-11.44-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 542548,
     "datetime": "2024-08-18 11:43:44 +02:00",
     "name": "18 augusti 10.02, Trafikkontroll, Gällivare",
@@ -9,18 +69,6 @@
     "location": {
       "name": "Gällivare",
       "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 542547,
-    "datetime": "2024-08-18 11:30:01 +02:00",
-    "name": "18 augusti 10.53, Trafikolycka, Kristinehamn",
-    "summary": "Två bilister har kolliderat på Rv26/ Stationsgatan i Kristinehamn.",
-    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-10.53-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 540779,
-    "datetime": "2024-08-11 15:53:14 +02:00",
-    "name": "11 augusti 15.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 16.00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-15.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 540778,
-    "datetime": "2024-08-11 14:47:42 +02:00",
-    "name": "11 augusti 10.13, Stöld, Sollefteå",
-    "summary": "Sollefteå, misstänkt cykelstöld.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-10.13-stold-solleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 540777,
-    "datetime": "2024-08-11 14:40:29 +02:00",
-    "name": "11 augusti 12.35, Stöld/inbrott, Östersund",
-    "summary": "Östersund, inbrott i företagslokal.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-12.35-stoldinbrott-ostersund/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 540776,
-    "datetime": "2024-08-11 14:23:50 +02:00",
-    "name": "11 augusti 10.29, Fjällräddning, Jokkmokk",
-    "summary": "Fjällräddning i Jokkmokksfjällen.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-10.29-fjallraddning-jokkmokk/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
     }
   }
 ]
