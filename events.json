@@ -1,5 +1,65 @@
 [
   {
+    "id": 542511,
+    "datetime": "2024-08-18 7:00:42 +02:00",
+    "name": "18 augusti 03.07, Rån, Helsingborg",
+    "summary": "Man gripen för rån i centrala Helsingborg",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-03.07-ran-helsingborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 542510,
+    "datetime": "2024-08-18 6:56:37 +02:00",
+    "name": "18 augusti 03.55, Misshandel, Landskrona",
+    "summary": "Man gripen för misshandel i relation",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-03.55-misshandel-landskrona/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 542509,
+    "datetime": "2024-08-18 6:54:48 +02:00",
+    "name": "18 augusti 05.40, Trafikolycka, Växjö",
+    "summary": "Larm om trafikolycka, RV23",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-05.40-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 542508,
+    "datetime": "2024-08-18 6:52:10 +02:00",
+    "name": "17 augusti 22.27, Motorfordon, stöld, Växjö",
+    "summary": "Man gripen efter larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-22.27-motorfordon-stold-vaxjo/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 542507,
+    "datetime": "2024-08-18 6:45:52 +02:00",
+    "name": "18 augusti 00.47, Våld/hot mot tjänsteman, Vimmerby",
+    "summary": "Man misstänkt för våld mot tjänsteman i samband med ingripande",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-00.47-valdhot-mot-tjansteman-vimmerby/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Vimmerby",
+      "gps": "57.669034,15.858857"
+    }
+  },
+  {
     "id": 542506,
     "datetime": "2024-08-18 6:41:25 +02:00",
     "name": "18 augusti 02.49, Brand, Helsingborg",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 540737,
-    "datetime": "2024-08-10 15:47:54 +02:00",
-    "name": "10 augusti 15.45, Övrigt, Värmlands län",
-    "summary": "Efter klockan 16:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/augusti/10/10-augusti-15.45-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 540738,
-    "datetime": "2024-08-10 15:47:43 +02:00",
-    "name": "10 augusti 15.45, Övrigt, Örebro län",
-    "summary": "Efter klockan 16:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/augusti/10/10-augusti-15.45-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 540739,
-    "datetime": "2024-08-10 15:37:01 +02:00",
-    "name": "10 augusti 13.00, Misshandel, Stockholm",
-    "summary": "En pojke ringer sin mamma och säger att hans pappa misshandlar honom.",
-    "url": "/aktuellt/handelser/2024/augusti/10/10-augusti-13.00-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 540733,
-    "datetime": "2024-08-10 15:19:25 +02:00",
-    "name": "10 augusti 14.02, Övrigt, Borås",
-    "summary": "Händelse i samband med demonstration i centrala Borås.",
-    "url": "/aktuellt/handelser/2024/augusti/10/10-augusti-14.02-ovrigt-boras/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 540732,
-    "datetime": "2024-08-10 14:50:31 +02:00",
-    "name": "10 augusti 14.13, Trafikbrott, Skellefteå",
-    "summary": "Skellefteå, ordningsbot (böter) utfärdas.",
-    "url": "/aktuellt/handelser/2024/augusti/10/10-augusti-14.13-trafikbrott-skelleftea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
