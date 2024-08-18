@@ -1,5 +1,125 @@
 [
   {
+    "id": 542536,
+    "datetime": "2024-08-18 9:12:54 +02:00",
+    "name": "18 augusti 07.12, Olovlig körning, Västerås",
+    "summary": "Övningskörare misstänkt för brott.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-07.12-olovlig-korning-vasteras/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 542512,
+    "datetime": "2024-08-18 9:00:10 +02:00",
+    "name": "17 augusti 22.41, Brand, Nynäshamn",
+    "summary": "Brand i garagelänga.",
+    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-22.41-brand-nynashamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Nynäshamn",
+      "gps": "58.902926,17.946529"
+    }
+  },
+  {
+    "id": 542518,
+    "datetime": "2024-08-18 9:00:05 +02:00",
+    "name": "17 augusti 23.25, Olaga intrång, Österåker",
+    "summary": "Obehöriga personer har tagit sig in i en kursgård.",
+    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-23.25-olaga-intrang-osteraker/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Österåker",
+      "gps": "59.500058,18.352485"
+    }
+  },
+  {
+    "id": 542520,
+    "datetime": "2024-08-18 9:00:01 +02:00",
+    "name": "18 augusti 03.02, Skadegörelse, Södertälje",
+    "summary": "En man sparkar sönder en hotelldörr.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-03.02-skadegorelse-sodertalje/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 542522,
+    "datetime": "2024-08-18 8:59:57 +02:00",
+    "name": "18 augusti 03.21, Brand, Nykvarn",
+    "summary": "Bilbrand på Hökmossvägen.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-03.21-brand-nykvarn/",
+    "type": "Brand",
+    "location": {
+      "name": "Nykvarn",
+      "gps": "59.178177,17.427816"
+    }
+  },
+  {
+    "id": 542533,
+    "datetime": "2024-08-18 8:59:53 +02:00",
+    "name": "18 augusti 00.50, Skadegörelse, Gotland",
+    "summary": "Okänd person kör sönder stolar och bord på en fordonsträff.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-00.50-skadegorelse-gotland/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Gotland",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 542535,
+    "datetime": "2024-08-18 8:59:49 +02:00",
+    "name": "17 augusti 23.53, Brand, Nacka",
+    "summary": "Bilbrand riskerar att sprida sig till byggnad.",
+    "url": "/aktuellt/handelser/2024/augusti/17/17-augusti-23.53-brand-nacka/",
+    "type": "Brand",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 542537,
+    "datetime": "2024-08-18 8:59:46 +02:00",
+    "name": "18 augusti 02.43, Motorfordon, stöld, Nacka",
+    "summary": "En person försöker ta tillbaka sin stulna moped.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-02.43-motorfordon-stold-nacka/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 542539,
+    "datetime": "2024-08-18 8:59:42 +02:00",
+    "name": "18 augusti 01.10, Brand, Österåker",
+    "summary": "Två bilar förstörs vid en brand.",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-01.10-brand-osteraker/",
+    "type": "Brand",
+    "location": {
+      "name": "Österåker",
+      "gps": "59.500058,18.352485"
+    }
+  },
+  {
+    "id": 542538,
+    "datetime": "2024-08-18 8:58:23 +02:00",
+    "name": "18 augusti 05.33, Stöld/inbrott, Boden",
+    "summary": "Polisen larmas om ett pågående inbrott på en återvinningscentral",
+    "url": "/aktuellt/handelser/2024/augusti/18/18-augusti-05.33-stoldinbrott-boden/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 542534,
     "datetime": "2024-08-18 8:41:34 +02:00",
     "name": "17 augusti 18.45, Trafikolycka, personskada, Uppsala",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 540768,
-    "datetime": "2024-08-11 9:38:30 +02:00",
-    "name": "11 augusti 08.59, Bedrägeri, Solna",
-    "summary": "Bedrägerierna mot äldre fortsätter och denna gång har en person ringt upp och sagt sig ringa från en bank.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-08.59-bedrageri-solna/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 540767,
-    "datetime": "2024-08-11 9:26:27 +02:00",
-    "name": "11 augusti 08.10, Misshandel, Stockholm",
-    "summary": "Personer ringer om bråk i bostad i södra Stockholm. En kvinna har blivit misshandlad och två män i bostaden gr",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-08.10-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 540765,
-    "datetime": "2024-08-11 8:33:38 +02:00",
-    "name": "11 augusti 08.33, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-08.33-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 540761,
-    "datetime": "2024-08-11 8:27:48 +02:00",
-    "name": "11 augusti 08.27, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-08.27-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 540762,
-    "datetime": "2024-08-11 8:27:40 +02:00",
-    "name": "11 augusti 08.27, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-08.27-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 540753,
-    "datetime": "2024-08-11 8:27:08 +02:00",
-    "name": "11 augusti 08.27, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-08.27-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 540731,
-    "datetime": "2024-08-11 8:06:40 +02:00",
-    "name": "11 augusti 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 540756,
-    "datetime": "2024-08-11 7:46:38 +02:00",
-    "name": "11 augusti 07.50, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av nattens händelser i Östergötlands län.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-07.50-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 540760,
-    "datetime": "2024-08-11 7:46:32 +02:00",
-    "name": "11 augusti 07.50, Sammanfattning natt, Södermanlands län",
-    "summary": "Sammanfattning av nattens händelser i Södermanland.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-07.50-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 540755,
-    "datetime": "2024-08-11 7:46:26 +02:00",
-    "name": "11 augusti 07.50, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser i Jönköping.",
-    "url": "/aktuellt/handelser/2024/augusti/11/11-augusti-07.50-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
