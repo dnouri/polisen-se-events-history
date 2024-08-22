@@ -1,5 +1,89 @@
 [
   {
+    "id": 543007,
+    "datetime": "2024-08-22 19:44:15 +02:00",
+    "name": "22 augusti 15.54, Farligt föremål, misstänkt, Kalmar",
+    "summary": "Bragegatan. Misstänkt farligt föremål.",
+    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-15.54-farligt-foremal-misstankt-kalmar/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 543029,
+    "datetime": "2024-08-22 22:03:34 +02:00",
+    "name": "22 augusti 18.57, Skadegörelse, Uppsala",
+    "summary": "Skadegörelse i skolbyggnad.",
+    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-18.57-skadegorelse-uppsala/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 543028,
+    "datetime": "2024-08-22 21:56:36 +02:00",
+    "name": "22 augusti 19.54, Stöld, Skellefteå",
+    "summary": "Man misstänks för stöld alternativt häleri.",
+    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-19.54-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 543026,
+    "datetime": "2024-08-22 21:55:21 +02:00",
+    "name": "22 augusti 21.02, Rån, Skövde",
+    "summary": "I närheten av Resecentrum har en 16-årig pojke blivit rånad på mobil och bankkort.",
+    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-21.02-ran-skovde/",
+    "type": "Rån",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
+    "id": 542990,
+    "datetime": "2024-08-22 14:18:22 +02:00",
+    "name": "22 augusti 13.42, Trafikolycka, personskada, Årjäng",
+    "summary": "En trafikolycka mellan två personbilar har inträffat på länsväg 505 väster om Årjäng.",
+    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-13.42-trafikolycka-personskada-arjang/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Årjäng",
+      "gps": "59.389159,12.132717"
+    }
+  },
+  {
+    "id": 543001,
+    "datetime": "2024-08-22 21:47:55 +02:00",
+    "name": "22 augusti 21.45, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-21.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 543000,
+    "datetime": "2024-08-22 21:47:49 +02:00",
+    "name": "22 augusti 21.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-21.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 543025,
     "datetime": "2024-08-22 21:23:02 +02:00",
     "name": "22 augusti 21.22, Rattfylleri, Kumla",
@@ -141,18 +225,6 @@
     "location": {
       "name": "Degerfors",
       "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 543007,
-    "datetime": "2024-08-22 19:44:15 +02:00",
-    "name": "22 augusti 15.54, Farligt föremål, misstänkt, Kalmar",
-    "summary": "Bragegatan. Misstänkt farligt föremål.",
-    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-15.54-farligt-foremal-misstankt-kalmar/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -309,18 +381,6 @@
     "location": {
       "name": "Jokkmokk",
       "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 542990,
-    "datetime": "2024-08-22 14:18:22 +02:00",
-    "name": "22 augusti 13.42, Trafikolycka, personskada, Årjäng",
-    "summary": "En trafikolycka mellan två personbilar har inträffat på länsväg 505 väster om Årjäng.",
-    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-13.42-trafikolycka-personskada-arjang/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Årjäng",
-      "gps": "59.389159,12.132717"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 542279,
-    "datetime": "2024-08-15 21:03:25 +02:00",
-    "name": "15 augusti 21.03, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/augusti/15/15-augusti-21.03-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 542284,
-    "datetime": "2024-08-15 20:40:05 +02:00",
-    "name": "15 augusti 19.49, Brand, Solna",
-    "summary": "Brand på balkong i Bergshamra.",
-    "url": "/aktuellt/handelser/2024/augusti/15/15-augusti-19.49-brand-solna/",
-    "type": "Brand",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 542256,
-    "datetime": "2024-08-15 16:26:08 +02:00",
-    "name": "15 augusti 14.56, Misshandel, grov, Stockholm",
-    "summary": "En man har hittats med skärsår inomhus på Södermalm.",
-    "url": "/aktuellt/handelser/2024/augusti/15/15-augusti-14.56-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 542277,
-    "datetime": "2024-08-15 20:26:43 +02:00",
-    "name": "15 augusti 18.36, Brand, Trollhättan",
-    "summary": "Brand",
-    "url": "/aktuellt/handelser/2024/augusti/15/15-augusti-18.36-brand-trollhattan/",
-    "type": "Brand",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 542283,
-    "datetime": "2024-08-15 20:14:18 +02:00",
-    "name": "15 augusti 18.27, Trafikolycka, Danderyd",
-    "summary": "Flera fordon inblandade i trafikolycka i Djursholmen.",
-    "url": "/aktuellt/handelser/2024/augusti/15/15-augusti-18.27-trafikolycka-danderyd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Danderyd",
-      "gps": "59.407905,18.019075"
     }
   }
 ]
