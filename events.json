@@ -1,5 +1,53 @@
 [
   {
+    "id": 543068,
+    "datetime": "2024-08-23 12:43:38 +02:00",
+    "name": "23 augusti 12.12, Trafikbrott, Haparanda",
+    "summary": "Centrum, polisen stoppar en personbil",
+    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-12.12-trafikbrott-haparanda/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 543059,
+    "datetime": "2024-08-23 11:18:42 +02:00",
+    "name": "23 augusti 11.16, Arbetsplatsolycka, Vetlanda",
+    "summary": "En allvarlig arbetsplats olycka har inträffat.",
+    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-11.16-arbetsplatsolycka-vetlanda/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
+    "id": 543067,
+    "datetime": "2024-08-23 12:37:00 +02:00",
+    "name": "23 augusti 12.33, Trafikolycka, personskada, Linköping",
+    "summary": "En allvarlig trafikolycka utanför Linköping.",
+    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-12.33-trafikolycka-personskada-linkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 543066,
+    "datetime": "2024-08-23 12:36:02 +02:00",
+    "name": "23 augusti 12.27, Bedrägeri, Luleå",
+    "summary": "Hertsön, polisen kallas till en matbutik",
+    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-12.27-bedrageri-lulea/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 543065,
     "datetime": "2024-08-23 12:25:16 +02:00",
     "name": "23 augusti 09.51, Trafikkontroll, Härjedalen",
@@ -39,7 +87,7 @@
     "id": 543062,
     "datetime": "2024-08-23 11:40:50 +02:00",
     "name": "23 augusti 10.06, Trafikolycka, Sundsvall",
-    "summary": "E14 Stöde, en personbil och en motrocykel har kolliderat",
+    "summary": "E14 Stöde, en personbil och en motorcykel har kolliderat",
     "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-10.06-trafikolycka-sundsvall/",
     "type": "Trafikolycka",
     "location": {
@@ -69,18 +117,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 543059,
-    "datetime": "2024-08-23 11:18:42 +02:00",
-    "name": "23 augusti 11.16, Arbetsplatsolycka, Vetlanda",
-    "summary": "En allvarlig arbetsplats olycka har inträffat.",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-11.16-arbetsplatsolycka-vetlanda/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 542320,
-    "datetime": "2024-08-16 7:45:42 +02:00",
-    "name": "16 augusti 07.43, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/augusti/16/16-augusti-07.43-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 542319,
-    "datetime": "2024-08-16 7:43:37 +02:00",
-    "name": "16 augusti 07.42, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/augusti/16/16-augusti-07.42-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 542318,
-    "datetime": "2024-08-16 7:36:49 +02:00",
-    "name": "16 augusti 07.36, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
-    "url": "/aktuellt/handelser/2024/augusti/16/16-augusti-07.36-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
