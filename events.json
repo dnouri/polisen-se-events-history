@@ -1,14 +1,50 @@
 [
   {
-    "id": 544363,
-    "datetime": "2024-08-27 3:52:09 +02:00",
-    "name": "27 augusti 01.53, Brand, Stockholm",
-    "summary": "Polis och räddningstjänst kallas till Östberga med anledning av brand i parkerade bilar.",
-    "url": "/aktuellt/handelser/2024/augusti/27/27-augusti-01.53-brand-stockholm/",
-    "type": "Brand",
+    "id": 544367,
+    "datetime": "2024-08-27 6:24:25 +02:00",
+    "name": "26 augusti 22.25, Rattfylleri, Växjö",
+    "summary": "Man i 25-årsåldern misstänkt för drograttfylleri",
+    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-22.25-rattfylleri-vaxjo/",
+    "type": "Rattfylleri",
     "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 544366,
+    "datetime": "2024-08-27 6:20:12 +02:00",
+    "name": "26 augusti 23.49, Knivlagen, Ronneby",
+    "summary": "Man i 35-årsåldern misstänkt för brott mot knivlagen",
+    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-23.49-knivlagen-ronneby/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 544365,
+    "datetime": "2024-08-27 6:15:57 +02:00",
+    "name": "27 augusti 01.21, Stöld, Bromölla",
+    "summary": "Stöld av värmepumpar",
+    "url": "/aktuellt/handelser/2024/augusti/27/27-augusti-01.21-stold-bromolla/",
+    "type": "Stöld",
+    "location": {
+      "name": "Bromölla",
+      "gps": "56.074362,14.477659"
+    }
+  },
+  {
+    "id": 544364,
+    "datetime": "2024-08-27 6:11:28 +02:00",
+    "name": "26 augusti 23.50, Olovlig körning, Åstorp",
+    "summary": "Man i 20-årsåldern misstänks för olovlig körning",
+    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-23.50-olovlig-korning-astorp/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Åstorp",
+      "gps": "56.134262,12.945908"
     }
   },
   {
@@ -18,6 +54,18 @@
     "summary": "Polis kallas till ett sjukhus i Stockholm med anledning av att två män inkommit till akutmottagningen med skot",
     "url": "/aktuellt/handelser/2024/augusti/27/27-augusti-01.37-morddrap-forsok-stockholm/",
     "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 544363,
+    "datetime": "2024-08-27 3:52:09 +02:00",
+    "name": "27 augusti 01.53, Brand, Stockholm",
+    "summary": "Polis och räddningstjänst kallas till Östberga med anledning av brand i parkerade bilar.",
+    "url": "/aktuellt/handelser/2024/augusti/27/27-augusti-01.53-brand-stockholm/",
+    "type": "Brand",
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 542654,
-    "datetime": "2024-08-19 16:31:48 +02:00",
-    "name": "19 augusti 16.15, Trafikolycka, Helsingborg",
-    "summary": "Christinelundsvägen (lv 111). Kollision mellan flera fordon.",
-    "url": "/aktuellt/handelser/2024/augusti/19/19-augusti-16.15-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 542653,
-    "datetime": "2024-08-19 16:12:43 +02:00",
-    "name": "19 augusti 15.12, Trafikolycka, personskada, Skara",
-    "summary": "I närheten av Viktoriaskolan har en kvinna blivit påkörd av en motorcykel.",
-    "url": "/aktuellt/handelser/2024/augusti/19/19-augusti-15.12-trafikolycka-personskada-skara/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Skara",
-      "gps": "58.386013,13.439328"
-    }
-  },
-  {
-    "id": 542651,
-    "datetime": "2024-08-19 16:08:36 +02:00",
-    "name": "19 augusti 15.09, Trafikolycka, Timrå",
-    "summary": "Larm om trafikolycka på E4, Sörberge.",
-    "url": "/aktuellt/handelser/2024/augusti/19/19-augusti-15.09-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 542650,
-    "datetime": "2024-08-19 15:57:18 +02:00",
-    "name": "19 augusti 12.00, Olaga hot, Karlstad",
-    "summary": "En man i trettiofemårsåldern har gripits misstänkt för olaga hot samt olaga intrång.",
-    "url": "/aktuellt/handelser/2024/augusti/19/19-augusti-12.00-olaga-hot-karlstad/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
