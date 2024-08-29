@@ -1,5 +1,65 @@
 [
   {
+    "id": 544704,
+    "datetime": "2024-08-29 13:53:31 +02:00",
+    "name": "29 augusti 12.22, Trafikolycka, Pajala",
+    "summary": "Söder om Tärendö, två fordon har kolliderat på länsväg 394",
+    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-12.22-trafikolycka-pajala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 544728,
+    "datetime": "2024-08-29 16:53:51 +02:00",
+    "name": "29 augusti 16.21, Misshandel, Göteborg",
+    "summary": "En yngre man på elspark ska ha kört på en man inne på en livsmedelsbutik i Flatås.",
+    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-16.21-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 544727,
+    "datetime": "2024-08-29 16:49:57 +02:00",
+    "name": "29 augusti 14.54, Stöld/inbrott, Vara",
+    "summary": "Polisen kontaktas om ett inbrott på Notarievägen i Vara.",
+    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-14.54-stoldinbrott-vara/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Vara",
+      "gps": "58.261781,12.960194"
+    }
+  },
+  {
+    "id": 544726,
+    "datetime": "2024-08-29 16:48:45 +02:00",
+    "name": "29 augusti 14.31, Trafikolycka, personskada, Nacka",
+    "summary": "Cyklist blev påkörd i Mensättra.",
+    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-14.31-trafikolycka-personskada-nacka/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 544628,
+    "datetime": "2024-08-28 18:15:35 +02:00",
+    "name": "28 augusti 12.17, Försvunnen person, Malmö",
+    "summary": "Man försvunnen från boende",
+    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-12.17-forsvunnen-person-malmo/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 544724,
     "datetime": "2024-08-29 16:34:02 +02:00",
     "name": "29 augusti 16.33, Övrigt, Örebro län",
@@ -105,18 +165,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 544704,
-    "datetime": "2024-08-29 13:53:31 +02:00",
-    "name": "29 augusti 12.22, Trafikolycka, Pajala",
-    "summary": "Söder om Tärendö, två fordon har kolliderat på länsväg 394",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-12.22-trafikolycka-pajala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Pajala",
-      "gps": "67.212782,23.367392"
     }
   },
   {
@@ -801,18 +849,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 544628,
-    "datetime": "2024-08-28 18:15:35 +02:00",
-    "name": "28 augusti 12.17, Försvunnen person, Malmö",
-    "summary": "Man försvunnen från boende",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-12.17-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Mariestad",
       "gps": "58.710112,13.821333"
-    }
-  },
-  {
-    "id": 543012,
-    "datetime": "2024-08-22 19:14:14 +02:00",
-    "name": "22 augusti 17.56, Misshandel, grov, Stockholm",
-    "summary": "Polisen får samtal om slagsmål vid Odenplan.",
-    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-17.56-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 543011,
-    "datetime": "2024-08-22 19:06:29 +02:00",
-    "name": "22 augusti 15.11, Narkotikabrott, Örnsköldsvik",
-    "summary": "Två misstänks för ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-15.11-narkotikabrott-ornskoldsvik/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 543010,
-    "datetime": "2024-08-22 19:00:37 +02:00",
-    "name": "22 augusti 15.43, Trafikbrott, Alvesta",
-    "summary": "Vislanda. Förare av personbil misstänks för brott efter att ha avvikit i samband med en kontroll.",
-    "url": "/aktuellt/handelser/2024/augusti/22/22-augusti-15.43-trafikbrott-alvesta/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
     }
   }
 ]
