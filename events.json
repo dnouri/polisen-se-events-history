@@ -12,6 +12,90 @@
     }
   },
   {
+    "id": 544957,
+    "datetime": "2024-08-30 20:20:20 +02:00",
+    "name": "30 augusti 19.09, Fylleri/LOB, Umeå",
+    "summary": "Centrala stan, polis kontaktas gällande sovande, berusad man på Vasaplan",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-19.09-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 544956,
+    "datetime": "2024-08-30 20:17:50 +02:00",
+    "name": "30 augusti 17.59, Misshandel, Stockholm",
+    "summary": "Polisen får larm om bråk på Södermalm.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-17.59-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 544955,
+    "datetime": "2024-08-30 20:11:31 +02:00",
+    "name": "30 augusti 18.43, Brand, Tierp",
+    "summary": "Husbil/husvagn i brand.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-18.43-brand-tierp/",
+    "type": "Brand",
+    "location": {
+      "name": "Tierp",
+      "gps": "60.347587,17.520509"
+    }
+  },
+  {
+    "id": 544954,
+    "datetime": "2024-08-30 20:06:51 +02:00",
+    "name": "30 augusti 19.05, Fylleri/LOB, Härnösand",
+    "summary": "Centrum, polis kontaktas gällande berusad, sovande man på parkering",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-19.05-fyllerilob-harnosand/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 544953,
+    "datetime": "2024-08-30 20:04:10 +02:00",
+    "name": "30 augusti 19.17, Räddningsinsats, Sundsvall",
+    "summary": "Nya hamnen, en person har hamnat i vattnet",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-19.17-raddningsinsats-sundsvall/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 544947,
+    "datetime": "2024-08-30 19:13:32 +02:00",
+    "name": "30 augusti 19.07, Misshandel, Malmö",
+    "summary": "Misshandlad man, centrum.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-19.07-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 544778,
+    "datetime": "2024-08-30 7:31:38 +02:00",
+    "name": "30 augusti 06.39, Brand, Värmdö",
+    "summary": "Polisen biträder räddningstjänsten vid en lägenhetsbrand i Hästhagen.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-06.39-brand-varmdo/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
     "id": 544951,
     "datetime": "2024-08-30 19:31:26 +02:00",
     "name": "30 augusti 19.30, Motorfordon, stöld, Säter",
@@ -81,18 +165,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 544947,
-    "datetime": "2024-08-30 19:13:32 +02:00",
-    "name": "30 augusti 19.07, Misshandel, Malmö",
-    "summary": "Misshandlad man, centrum.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-19.07-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -417,18 +489,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 544778,
-    "datetime": "2024-08-30 7:31:38 +02:00",
-    "name": "30 augusti 06.39, Brand, Värmdö",
-    "summary": "Polisen biträder räddningstjänsten vid en lägenhetsbrand i Hästhagen.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-06.39-brand-varmdo/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 543162,
-    "datetime": "2024-08-24 13:46:59 +02:00",
-    "name": "23 augusti 20.49, Fjällräddning, Jokkmokk",
-    "summary": "Sarek, två personer i 20-årsåldern har gått vilse under fredagskvällen",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-20.49-fjallraddning-jokkmokk/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 543163,
-    "datetime": "2024-08-24 13:38:53 +02:00",
-    "name": "24 augusti 12.28, Arbetsplatsolycka, Trollhättan",
-    "summary": "På en gård utanför Trollhättan har en man blivit klämd i en timmerkran.",
-    "url": "/aktuellt/handelser/2024/augusti/24/24-augusti-12.28-arbetsplatsolycka-trollhattan/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 543137,
-    "datetime": "2024-08-24 7:43:53 +02:00",
-    "name": "24 augusti 07.13, Trafikolycka, Helsingborg",
-    "summary": "Påkörd person, Vallåkra",
-    "url": "/aktuellt/handelser/2024/augusti/24/24-augusti-07.13-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 543161,
-    "datetime": "2024-08-24 12:53:28 +02:00",
-    "name": "24 augusti 05.45, Försvunnen person, Pajala",
-    "summary": "Strax utanför Muodoslompolo, under morgonen kontaktas polis gällande en man som igår åkt ut för att fiska",
-    "url": "/aktuellt/handelser/2024/augusti/24/24-augusti-05.45-forsvunnen-person-pajala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Pajala",
-      "gps": "67.212782,23.367392"
-    }
-  },
-  {
-    "id": 543160,
-    "datetime": "2024-08-24 12:40:06 +02:00",
-    "name": "24 augusti 12.30, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/augusti/24/24-augusti-12.30-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
