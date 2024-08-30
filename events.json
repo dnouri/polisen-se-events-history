@@ -1,5 +1,113 @@
 [
   {
+    "id": 544860,
+    "datetime": "2024-08-30 14:42:53 +02:00",
+    "name": "30 augusti 13.53, Trafikbrott, Lycksele",
+    "summary": "Nära Ruskträsk, en bilist har stoppats vid länsväg 363",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.53-trafikbrott-lycksele/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 544859,
+    "datetime": "2024-08-30 14:37:23 +02:00",
+    "name": "30 augusti 13.35, Trafikbrott, Pajala",
+    "summary": "Riksväg 99, trafikant stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.35-trafikbrott-pajala/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 544858,
+    "datetime": "2024-08-30 14:34:51 +02:00",
+    "name": "30 augusti 13.04, Skadegörelse, Karlstad",
+    "summary": "Skadegörelse på gymnasieskola i Karlstad.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.04-skadegorelse-karlstad/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 544857,
+    "datetime": "2024-08-30 14:33:12 +02:00",
+    "name": "30 augusti 13.43, Trafikkontroll, Piteå",
+    "summary": "Mossen, resultat efter trafikkontroll vid Munksundsvägen",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.43-trafikkontroll-pitea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 544852,
+    "datetime": "2024-08-30 14:29:16 +02:00",
+    "name": "30 augusti 13.21, Trafikolycka, Bollnäs",
+    "summary": "Lätt lastbil har voltat.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.21-trafikolycka-bollnas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Bollnäs",
+      "gps": "61.34838,16.394269"
+    }
+  },
+  {
+    "id": 544855,
+    "datetime": "2024-08-30 14:11:23 +02:00",
+    "name": "30 augusti 12.26, Stöld/inbrott, Örebro",
+    "summary": "En villa i Adolfsberg söder om Glomman utsattes på förmiddagen för ett inbrott.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-12.26-stoldinbrott-orebro/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 544839,
+    "datetime": "2024-08-30 13:02:05 +02:00",
+    "name": "30 augusti 13.01, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.01-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 544851,
+    "datetime": "2024-08-30 13:50:35 +02:00",
+    "name": "30 augusti 13.37, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.37-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 544849,
+    "datetime": "2024-08-30 13:44:47 +02:00",
+    "name": "30 augusti 11.46, Bedrägeri, Järfälla",
+    "summary": "En kvinna i 90-årsåldern ringde polisen och berättade att hon utsatts för ett bedrägeriförsök.",
+    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-11.46-bedrageri-jarfalla/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
     "id": 544814,
     "datetime": "2024-08-30 11:05:38 +02:00",
     "name": "30 augusti 10.57, Trafikolycka, Osby",
@@ -21,18 +129,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 544839,
-    "datetime": "2024-08-30 13:02:05 +02:00",
-    "name": "30 augusti 13.01, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.01-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 543059,
-    "datetime": "2024-08-23 11:18:42 +02:00",
-    "name": "23 augusti 11.16, Arbetsplatsolycka, Vetlanda",
-    "summary": "En allvarlig arbetsplats olycka har inträffat.",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-11.16-arbetsplatsolycka-vetlanda/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
-    }
-  },
-  {
-    "id": 543109,
-    "datetime": "2024-08-23 19:41:11 +02:00",
-    "name": "23 augusti 19.32, Trafikolycka, Malmö",
-    "summary": "Jägersrovägen. Personbil och cykel i kollision.",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-19.32-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 543107,
-    "datetime": "2024-08-23 19:28:40 +02:00",
-    "name": "23 augusti 16.03, Narkotikabrott, Lycksele",
-    "summary": "Lycksele, man misstänks vara narkotikapåverkad.",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-16.03-narkotikabrott-lycksele/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 543106,
-    "datetime": "2024-08-23 19:28:03 +02:00",
-    "name": "23 augusti 19.18, Brand, Malmö",
-    "summary": "Rådmansgatan. Rök i lägenhet.",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-19.18-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 543105,
-    "datetime": "2024-08-23 19:23:51 +02:00",
-    "name": "23 augusti 17.04, Stöld, Boden",
-    "summary": "Boden, misstänkt ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-17.04-stold-boden/",
-    "type": "Stöld",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 543104,
-    "datetime": "2024-08-23 19:04:04 +02:00",
-    "name": "23 augusti 19.01, Rattfylleri, Avesta",
-    "summary": "Lastbilschaufför misstänkt för rattfylleri",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-19.01-rattfylleri-avesta/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 543103,
-    "datetime": "2024-08-23 18:50:41 +02:00",
-    "name": "23 augusti 18.50, Stöld/inbrott, Ljusnarsberg",
-    "summary": "Villainbrott utreds i  Ljusnarsbergs kommun.",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-18.50-stoldinbrott-ljusnarsberg/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Ljusnarsberg",
-      "gps": "59.877447,14.998849"
-    }
-  },
-  {
-    "id": 543101,
-    "datetime": "2024-08-23 18:24:29 +02:00",
-    "name": "23 augusti 18.05, Misshandel, Örebro",
-    "summary": "Kvinna gripen för misshandel",
-    "url": "/aktuellt/handelser/2024/augusti/23/23-augusti-18.05-misshandel-orebro/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
