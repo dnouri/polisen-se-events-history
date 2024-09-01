@@ -1,14 +1,38 @@
 [
   {
-    "id": 545035,
-    "datetime": "2024-09-01 10:35:38 +02:00",
-    "name": "01 september 09.01, Rattfylleri, Vilhelmina",
-    "summary": "E45, Vilhelmina. Vid en trafikkontroll blåser en man positivt i polisens sållningsinstrument",
-    "url": "/aktuellt/handelser/2024/september/1/01-september-09.01-rattfylleri-vilhelmina/",
+    "id": 545038,
+    "datetime": "2024-09-01 11:23:20 +02:00",
+    "name": "01 september 03.54, Brand, Borlänge",
+    "summary": "Brand i husvagn på Torsångs camping.",
+    "url": "/aktuellt/handelser/2024/september/1/01-september-03.54-brand-borlange/",
+    "type": "Brand",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 545037,
+    "datetime": "2024-09-01 11:16:47 +02:00",
+    "name": "01 september 10.06, Rattfylleri, Övertorneå",
+    "summary": "Centrum, vid en trafikkontroll blåser en man positivt i polisens sållningsinstrument",
+    "url": "/aktuellt/handelser/2024/september/1/01-september-10.06-rattfylleri-overtornea/",
     "type": "Rattfylleri",
     "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
+      "name": "Övertorneå",
+      "gps": "66.388444,23.639283"
+    }
+  },
+  {
+    "id": 545036,
+    "datetime": "2024-09-01 10:56:47 +02:00",
+    "name": "01 september 10.47, Trafikolycka, Landskrona",
+    "summary": "Påkörd cyklist i korsningen Ringvägen och Österleden.",
+    "url": "/aktuellt/handelser/2024/september/1/01-september-10.47-trafikolycka-landskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 545035,
+    "datetime": "2024-09-01 10:35:38 +02:00",
+    "name": "01 september 09.01, Rattfylleri, Vilhelmina",
+    "summary": "E45, Vilhelmina. Vid en trafikkontroll blåser en man positivt i polisens sållningsinstrument",
+    "url": "/aktuellt/handelser/2024/september/1/01-september-09.01-rattfylleri-vilhelmina/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 543251,
-    "datetime": "2024-08-25 21:41:09 +02:00",
-    "name": "25 augusti 18.00, Brand, Malmö",
-    "summary": "Köpenhamnsvägen. Rök i lägenhet.",
-    "url": "/aktuellt/handelser/2024/augusti/25/25-augusti-18.00-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 543248,
-    "datetime": "2024-08-25 20:17:17 +02:00",
-    "name": "25 augusti 19.43, Rattfylleri, Malmö",
-    "summary": "Öresundsförbindelsen. Misstänkt påverkad förare.",
-    "url": "/aktuellt/handelser/2024/augusti/25/25-augusti-19.43-rattfylleri-malmo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 543245,
-    "datetime": "2024-08-25 18:05:14 +02:00",
-    "name": "25 augusti 16.00, Försvunnen person, Västerås",
-    "summary": "Polisen sökte försvunnen kvinna.",
-    "url": "/aktuellt/handelser/2024/augusti/25/25-augusti-16.00-forsvunnen-person-vasteras/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
