@@ -1,5 +1,65 @@
 [
   {
+    "id": 546114,
+    "datetime": "2024-09-02 10:01:11 +02:00",
+    "name": "02 september 09.41, Trafikolycka, Lund",
+    "summary": "Larm om trafikolycka, RV11 Veberöd",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-09.41-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 546089,
+    "datetime": "2024-09-02 7:41:03 +02:00",
+    "name": "02 september 07.09, Trafikolycka, Tanum",
+    "summary": "En singelolycka har inträffat på E6, mellan Tanumshede och Rabbalshede.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-07.09-trafikolycka-tanum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 546116,
+    "datetime": "2024-09-02 10:08:08 +02:00",
+    "name": "02 september 09.43, Rattfylleri, Härryda",
+    "summary": "En moped stannar inte vid en trafikkontroll och kör ut på tågspåret i närheten av Grandalsmotet.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-09.43-rattfylleri-harryda/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Härryda",
+      "gps": "57.691744,12.294416"
+    }
+  },
+  {
+    "id": 546115,
+    "datetime": "2024-09-02 10:05:58 +02:00",
+    "name": "02 september 05.07, Stöld, Örebro",
+    "summary": "Stöld av kopparrör inom spårområdet vid Södra stationen, Örebro.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-05.07-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 546113,
+    "datetime": "2024-09-02 9:59:08 +02:00",
+    "name": "02 september 02.33, Stöld/inbrott, Karlstad",
+    "summary": "Inbrott i ett flertal källarförråd i en flerfamiljsfastighet i området Norrstrand natten mot söndag.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-02.33-stoldinbrott-karlstad/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 546099,
     "datetime": "2024-09-02 9:15:16 +02:00",
     "name": "02 september 08.16, Trafikolycka, Umeå",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Säffle",
       "gps": "59.132661,12.930107"
-    }
-  },
-  {
-    "id": 546089,
-    "datetime": "2024-09-02 7:41:03 +02:00",
-    "name": "02 september 07.09, Trafikolycka, Tanum",
-    "summary": "En singelolycka har inträffat på E6, mellan Tanumshede och Rabbalshede.",
-    "url": "/aktuellt/handelser/2024/september/2/02-september-07.09-trafikolycka-tanum/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Tanum",
-      "gps": "58.732727,11.457819"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 544313,
-    "datetime": "2024-08-26 16:11:13 +02:00",
-    "name": "26 augusti 13.24, Rattfylleri, Kiruna",
-    "summary": "Misstänkt rattfylleri öster om Kiruna.",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-13.24-rattfylleri-kiruna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 544316,
-    "datetime": "2024-08-26 14:52:53 +02:00",
-    "name": "26 augusti 14.41, Skadegörelse, Värmdö",
-    "summary": "En okänd man i Gustavsbergs centrum har krossat fönstret på en parkerad bil.",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-14.41-skadegorelse-varmdo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Värmdö",
-      "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 544321,
-    "datetime": "2024-08-26 15:21:31 +02:00",
-    "name": "26 augusti 14.50, Våld/hot mot tjänsteman, Sundbyberg",
-    "summary": "En parkeringsvakt har bötfällt en bilist. Bilisten väljer att köra på parkeringsvakten och parkera in dennes b",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-14.50-valdhot-mot-tjansteman-sundbyberg/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 544325,
-    "datetime": "2024-08-26 15:55:11 +02:00",
-    "name": "26 augusti 14.40, Olaga hot, Varberg",
-    "summary": "Fyra personer är gripna för grovt olaga hot.",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-14.40-olaga-hot-varberg/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Varberg",
-      "gps": "57.107118,12.252091"
     }
   }
 ]
