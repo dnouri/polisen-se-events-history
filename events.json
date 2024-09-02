@@ -1,5 +1,113 @@
 [
   {
+    "id": 546083,
+    "datetime": "2024-09-02 7:23:56 +02:00",
+    "name": "02 september 07.23, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-07.23-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 546082,
+    "datetime": "2024-09-02 7:16:43 +02:00",
+    "name": "02 september 01.42, Stöld/inbrott, Gävle",
+    "summary": "Inbrott i företagsfastighet.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-01.42-stoldinbrott-gavle/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 546081,
+    "datetime": "2024-09-02 7:10:08 +02:00",
+    "name": "02 september 06.20, Rattfylleri, Huddinge",
+    "summary": "Fordonsförare i Länna misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-06.20-rattfylleri-huddinge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 546080,
+    "datetime": "2024-09-02 7:07:18 +02:00",
+    "name": "01 september 21.50, Misshandel, grov, Enköping",
+    "summary": "Tonåring misshandlades i Enköping.",
+    "url": "/aktuellt/handelser/2024/september/1/01-september-21.50-misshandel-grov-enkoping/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 546078,
+    "datetime": "2024-09-02 7:03:05 +02:00",
+    "name": "02 september 07.02, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-07.02-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 546079,
+    "datetime": "2024-09-02 7:02:55 +02:00",
+    "name": "02 september 07.01, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-07.01-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 546077,
+    "datetime": "2024-09-02 7:01:47 +02:00",
+    "name": "02 september 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalersperson är på plats.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 546075,
+    "datetime": "2024-09-02 6:52:31 +02:00",
+    "name": "02 september 06.52, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-06.52-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 546074,
+    "datetime": "2024-09-02 6:50:17 +02:00",
+    "name": "02 september 00.05, Farligt föremål, misstänkt, Malmö",
+    "summary": "Undersökt föremål visade sig vara ofarligt",
+    "url": "/aktuellt/handelser/2024/september/2/02-september-00.05-farligt-foremal-misstankt-malmo/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 546072,
     "datetime": "2024-09-02 6:40:14 +02:00",
     "name": "02 september 02.52, Rån, Ronneby",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Åre",
       "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 544292,
-    "datetime": "2024-08-26 12:31:34 +02:00",
-    "name": "26 augusti 12.25, Trafikkontroll, Västernorrlands län",
-    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-12.25-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 544290,
-    "datetime": "2024-08-26 12:25:02 +02:00",
-    "name": "26 augusti 10.42, Trafikolycka, Örnsköldsvik",
-    "summary": "Remmarbäcken, Solberg. En mindre lastbil har kört av vägen",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-10.42-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 544289,
-    "datetime": "2024-08-26 12:13:46 +02:00",
-    "name": "26 augusti 09.11, Arbetsplatsolycka, Gällivare",
-    "summary": "Under ett arbetsmoment ska en man ha fått tunga föremål på ryggen",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-09.11-arbetsplatsolycka-gallivare/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 544287,
-    "datetime": "2024-08-26 11:31:14 +02:00",
-    "name": "26 augusti 09.02, Olovlig körning, Mark",
-    "summary": "Polisen får samtal om en A-traktor på länsväg 156, Skene, som enligt inringaren kör fortare än tillåtet.",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-09.02-olovlig-korning-mark/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
-    }
-  },
-  {
-    "id": 544286,
-    "datetime": "2024-08-26 11:11:44 +02:00",
-    "name": "26 augusti 10.58, Trafikkontroll, Västerbottens län",
-    "summary": "Ett urval av polisens arbete i trafiken under morgonen/förmiddagen",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-10.58-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 544285,
-    "datetime": "2024-08-26 11:09:16 +02:00",
-    "name": "26 augusti 08.42, Misshandel, Dals-ed",
-    "summary": "En kvinna i 65-årsåldern kontaktar polisen och uppger att hon har blivit misshandlad av en man vid en återvinn",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-08.42-misshandel-dals-ed/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Dals-ed",
-      "gps": "58.974388,11.865175"
-    }
-  },
-  {
-    "id": 544282,
-    "datetime": "2024-08-26 10:57:09 +02:00",
-    "name": "26 augusti 10.10, Narkotikabrott, Örebro",
-    "summary": "Två personer kontrolleras i Örebro och blir misstänkta för narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-10.10-narkotikabrott-orebro/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 544281,
-    "datetime": "2024-08-26 10:50:30 +02:00",
-    "name": "26 augusti 06.42, Rattfylleri, Lycksele",
-    "summary": "Furuvik, vid en trafikkontroll blåser en man positivt i polisens sållningsinstrument",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-06.42-rattfylleri-lycksele/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 544278,
-    "datetime": "2024-08-26 10:17:45 +02:00",
-    "name": "26 augusti 08.56, Mord/dråp, försök, Nacka",
-    "summary": "Polis kallas till en lägenhet i flerbostadshus i Fisksätra med anledning av misstänkt skotthål i en lägenhetsd",
-    "url": "/aktuellt/handelser/2024/augusti/26/26-augusti-08.56-morddrap-forsok-nacka/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
     }
   }
 ]
