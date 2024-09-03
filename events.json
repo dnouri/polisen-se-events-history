@@ -1,5 +1,29 @@
 [
   {
+    "id": 546237,
+    "datetime": "2024-09-03 10:15:22 +02:00",
+    "name": "03 september 08.02, Rattfylleri, Luleå",
+    "summary": "Misstänkt rattfylleri, Bergviken.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-08.02-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 546234,
+    "datetime": "2024-09-03 9:49:41 +02:00",
+    "name": "03 september 08.25, Brand, Stockholm",
+    "summary": "Hantverkare larmar om brand i villa i Enskededalen.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-08.25-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 546219,
     "datetime": "2024-09-03 8:06:35 +02:00",
     "name": "03 september 07.46, Trafikolycka, Malmö",
@@ -96,18 +120,6 @@
     }
   },
   {
-    "id": 546214,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
     "id": 546213,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
@@ -117,6 +129,18 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546214,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hagfors",
       "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 544460,
-    "datetime": "2024-08-27 12:34:51 +02:00",
-    "name": "27 augusti 12.28, Trafikkontroll, Sundsvall",
-    "summary": "Ett urval av polisens arbete i trafiken under morgonen/förmiddagen",
-    "url": "/aktuellt/handelser/2024/augusti/27/27-augusti-12.28-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 544458,
-    "datetime": "2024-08-27 12:14:08 +02:00",
-    "name": "27 augusti 11.59, Trafikkontroll, Västerbottens län",
-    "summary": "Ett urval av polisens arbete i trafiken under morgonen/förmiddagen",
-    "url": "/aktuellt/handelser/2024/augusti/27/27-augusti-11.59-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
