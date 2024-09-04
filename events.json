@@ -1,5 +1,101 @@
 [
   {
+    "id": 546414,
+    "datetime": "2024-09-04 16:25:13 +02:00",
+    "name": "04 september 13.12, Fjällräddning, Åre",
+    "summary": "Sylarna, kvinna kan inte fortsätta påbörjad vandring",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-13.12-fjallraddning-are/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 546412,
+    "datetime": "2024-09-04 16:15:59 +02:00",
+    "name": "04 september 15.57, Trafikkontroll, Sundsvall",
+    "summary": "Korsta, resultat efter trafikkontroll vid Ortviksvägen",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-15.57-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 546411,
+    "datetime": "2024-09-04 16:12:55 +02:00",
+    "name": "04 september 15.57, Trafikolycka, Växjö",
+    "summary": "Personbil och mc i kollision.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-15.57-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 546410,
+    "datetime": "2024-09-04 16:08:08 +02:00",
+    "name": "04 september 13.39, Stöld, Örnsköldsvik",
+    "summary": "Husum, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-13.39-stold-ornskoldsvik/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 546381,
+    "datetime": "2024-09-04 13:51:13 +02:00",
+    "name": "04 september 12.58, Farligt föremål, misstänkt, Sigtuna",
+    "summary": "Polis undersöker uppgifter om ett eventuellt farligt föremål i Märsta centrum.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-12.58-farligt-foremal-misstankt-sigtuna/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 546408,
+    "datetime": "2024-09-04 15:58:13 +02:00",
+    "name": "04 september 13.10, Arbetsplatsolycka, Örnsköldsvik",
+    "summary": "Husum, en man uppges ha skadats i samband med arbete",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-13.10-arbetsplatsolycka-ornskoldsvik/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 546407,
+    "datetime": "2024-09-04 15:55:06 +02:00",
+    "name": "04 september 11.36, Bedrägeri, Härnösand",
+    "summary": "Härnösand, man misstänks fuska på teoriprov hos Trafikverket",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-11.36-bedrageri-harnosand/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 546401,
+    "datetime": "2024-09-04 15:49:58 +02:00",
+    "name": "04 september 12.15, Trafikbrott, Håbo",
+    "summary": "Flicka påkörd vid skola.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-12.15-trafikbrott-habo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
     "id": 546393,
     "datetime": "2024-09-04 15:08:46 +02:00",
     "name": "04 september 15.00, Trafikolycka, personskada, Göteborg",
@@ -105,18 +201,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 546381,
-    "datetime": "2024-09-04 13:51:13 +02:00",
-    "name": "04 september 12.58, Farligt föremål, misstänkt, Sigtuna",
-    "summary": "Polis undersöker uppgifter om ett eventuellt farligt föremål i Märsta centrum.",
-    "url": "/aktuellt/handelser/2024/september/4/04-september-12.58-farligt-foremal-misstankt-sigtuna/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 544629,
-    "datetime": "2024-08-28 18:41:21 +02:00",
-    "name": "28 augusti 17.15, Trafikbrott, Örebro",
-    "summary": "En bilist har kört mot rött i område Rosta",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-17.15-trafikbrott-orebro/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 544627,
-    "datetime": "2024-08-28 18:12:16 +02:00",
-    "name": "28 augusti 17.18, Försvunnen person, Mora",
-    "summary": "Den kvinna som försvann från Sollerön är anträffad",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-17.18-forsvunnen-person-mora/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 544626,
-    "datetime": "2024-08-28 18:07:40 +02:00",
-    "name": "28 augusti 16.28, Trafikolycka, personskada, Sollentuna",
-    "summary": "Två bilar inblandade i trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-16.28-trafikolycka-personskada-sollentuna/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 544623,
-    "datetime": "2024-08-28 17:25:59 +02:00",
-    "name": "28 augusti 17.13, Trafikolycka, Göteborg",
-    "summary": "Vid Järntorgsmotet har en trafikolycka inträffat.",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-17.13-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 544624,
-    "datetime": "2024-08-28 17:54:16 +02:00",
-    "name": "28 augusti 15.59, Trafikolycka, Luleå",
-    "summary": "Trafikolycka mellan Klöverträsk och Avan",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-15.59-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 544587,
-    "datetime": "2024-08-28 13:03:22 +02:00",
-    "name": "28 augusti 06.35, Anträffad död, Vilhelmina",
-    "summary": "Vilhelmina, en livlös person har påträffats utomhus under morgonen",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-06.35-antraffad-dod-vilhelmina/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 544622,
-    "datetime": "2024-08-28 17:18:29 +02:00",
-    "name": "28 augusti 15.30, Rattfylleri, Eda",
-    "summary": "En man är misstänkt för drograttfylleri",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-15.30-rattfylleri-eda/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Eda",
-      "gps": "59.83754,12.314031"
     }
   }
 ]
