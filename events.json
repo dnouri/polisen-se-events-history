@@ -1,5 +1,89 @@
 [
   {
+    "id": 546439,
+    "datetime": "2024-09-04 18:27:49 +02:00",
+    "name": "04 september 17.57, Trafikkontroll, Skellefteå",
+    "summary": "E4 Norrböle, resultat efter nykterhetskontroll",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-17.57-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 546438,
+    "datetime": "2024-09-04 18:26:13 +02:00",
+    "name": "04 september 18.17, Trafikkontroll, Vindeln",
+    "summary": "Finnfälldiesvägen/länsväg 363, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-18.17-trafikkontroll-vindeln/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Vindeln",
+      "gps": "64.201953,19.71887"
+    }
+  },
+  {
+    "id": 546403,
+    "datetime": "2024-09-04 15:37:55 +02:00",
+    "name": "04 september 13.42, Trafikolycka, singel, Robertsfors",
+    "summary": "E4 Ånäset, lastbil har kört in under viadukt och fastnat",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-13.42-trafikolycka-singel-robertsfors/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 546429,
+    "datetime": "2024-09-04 18:15:00 +02:00",
+    "name": "04 september 16.47, Rattfylleri, Arvika",
+    "summary": "En polispatrull stoppar en personbil där föraren kan misstänkas för rattfylleri.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-16.47-rattfylleri-arvika/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 546437,
+    "datetime": "2024-09-04 18:07:39 +02:00",
+    "name": "04 september 18.03, Trafikolycka, Jönköping",
+    "summary": "SOS-larm om påkörd person. En förd till sjukhus.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-18.03-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 546436,
+    "datetime": "2024-09-04 18:05:06 +02:00",
+    "name": "04 september 15.02, Knivlagen, Stockholm",
+    "summary": "Polisen får samtal om att en man går runt med kniv vid Zinkensdamm på Södermalm.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-15.02-knivlagen-stockholm/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 546435,
+    "datetime": "2024-09-04 17:52:00 +02:00",
+    "name": "04 september 16.20, Trafikkontroll, Timrå",
+    "summary": "Söråker, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-16.20-trafikkontroll-timra/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
     "id": 546434,
     "datetime": "2024-09-04 17:38:51 +02:00",
     "name": "04 september 17.35, Trafikkontroll, Vindeln",
@@ -81,18 +165,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 546403,
-    "datetime": "2024-09-04 15:37:55 +02:00",
-    "name": "04 september 13.42, Trafikolycka, singel, Robertsfors",
-    "summary": "E4 Ånäset, lastbil har kört in under viadukt och fastnat",
-    "url": "/aktuellt/handelser/2024/september/4/04-september-13.42-trafikolycka-singel-robertsfors/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
     }
   },
   {
@@ -1536,18 +1608,6 @@
     }
   },
   {
-    "id": 546214,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
     "id": 546213,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
@@ -1557,6 +1617,18 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546214,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 544647,
-    "datetime": "2024-08-29 6:54:02 +02:00",
-    "name": "29 augusti 00.32, Övrigt, Malmö",
-    "summary": "Kastat brandfarlig vätska mot hus.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-00.32-ovrigt-malmo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 544646,
-    "datetime": "2024-08-29 6:42:13 +02:00",
-    "name": "29 augusti 02.59, Våld/hot mot tjänsteman, Malmö",
-    "summary": "Stökig person vid Stortorget.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-02.59-valdhot-mot-tjansteman-malmo/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 544645,
-    "datetime": "2024-08-29 6:33:28 +02:00",
-    "name": "28 augusti 23.58, Rattfylleri, Karlskrona",
-    "summary": "Misstänkt påverkad förare.",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-23.58-rattfylleri-karlskrona/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 544641,
-    "datetime": "2024-08-29 6:23:13 +02:00",
-    "name": "28 augusti 23.08, Trafikolycka, Uppvidinge",
-    "summary": "Singelolycka med personbil.",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-23.08-trafikolycka-uppvidinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Uppvidinge",
-      "gps": "57.014575,15.381174"
-    }
-  },
-  {
-    "id": 544640,
-    "datetime": "2024-08-29 6:17:24 +02:00",
-    "name": "28 augusti 22.56, Stöld, Kalmar",
-    "summary": "Stöld av elsparkcykel.",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-22.56-stold-kalmar/",
-    "type": "Stöld",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 544637,
-    "datetime": "2024-08-28 22:00:08 +02:00",
-    "name": "28 augusti 22.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
