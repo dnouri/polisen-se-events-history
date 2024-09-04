@@ -1,5 +1,89 @@
 [
   {
+    "id": 546468,
+    "datetime": "2024-09-04 22:09:28 +02:00",
+    "name": "04 september 21.36, Varningslarm/haveri, Uppsala",
+    "summary": "Brittiskt militärflyg larmade om fel på planet.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-21.36-varningslarmhaveri-uppsala/",
+    "type": "Varningslarm/haveri",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 546466,
+    "datetime": "2024-09-04 22:00:30 +02:00",
+    "name": "04 september 22.00, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-22.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 546467,
+    "datetime": "2024-09-04 22:00:25 +02:00",
+    "name": "04 september 22.00, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-22.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 546459,
+    "datetime": "2024-09-04 20:46:09 +02:00",
+    "name": "04 september 20.00, Rån, Uddevalla",
+    "summary": "Polisen får samtal från allmänhet om ett pågående rån på Dalaberg.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-20.00-ran-uddevalla/",
+    "type": "Rån",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 546460,
+    "datetime": "2024-09-04 21:55:39 +02:00",
+    "name": "04 september 21.55, Övrigt, Dalarnas län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-21.55-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 546461,
+    "datetime": "2024-09-04 21:55:26 +02:00",
+    "name": "04 september 21.55, Övrigt, Värmlands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-21.55-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 546462,
+    "datetime": "2024-09-04 21:55:19 +02:00",
+    "name": "04 september 21.55, Övrigt, Örebro län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-21.55-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 546454,
     "datetime": "2024-09-04 21:38:55 +02:00",
     "name": "04 september 20.20, Rån väpnat, Eslöv",
@@ -69,18 +153,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 546459,
-    "datetime": "2024-09-04 20:46:09 +02:00",
-    "name": "04 september 20.00, Rån, Uddevalla",
-    "summary": "Polisen får samtal från allmänhet om ett pågående rån på Dalaberg.",
-    "url": "/aktuellt/handelser/2024/september/4/04-september-20.00-ran-uddevalla/",
-    "type": "Rån",
-    "location": {
-      "name": "Uddevalla",
-      "gps": "58.3498,11.935649"
     }
   },
   {
@@ -1836,18 +1908,6 @@
     }
   },
   {
-    "id": 546214,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
     "id": 546213,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
@@ -1857,6 +1917,18 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546214,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 544676,
-    "datetime": "2024-08-29 10:04:41 +02:00",
-    "name": "29 augusti 07.31, Trafikolycka, singel, Kalix",
-    "summary": "Kalix, en person inblandad i olycka med fyrhjuling",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-07.31-trafikolycka-singel-kalix/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 544670,
-    "datetime": "2024-08-29 8:31:50 +02:00",
-    "name": "29 augusti 08.18, Arbetsplatsolycka, Oskarshamn",
-    "summary": "Skadad person på arbetsplats.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-08.18-arbetsplatsolycka-oskarshamn/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 544666,
-    "datetime": "2024-08-29 8:02:25 +02:00",
-    "name": "29 augusti 07.51, Trafikolycka, Kävlinge",
-    "summary": "E6, Tpl Löddeköpinge. Flera fordon i kollision.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-07.51-trafikolycka-kavlinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kävlinge",
-      "gps": "55.794,13.110429"
-    }
-  },
-  {
-    "id": 544667,
-    "datetime": "2024-08-29 8:46:50 +02:00",
-    "name": "29 augusti 06.54, Trafikolycka, Robertsfors",
-    "summary": "Inre Ringvägen/Jenningsgatan, två bilister har kolliderat i tätorten",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-06.54-trafikolycka-robertsfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 544662,
-    "datetime": "2024-08-29 7:44:50 +02:00",
-    "name": "29 augusti 07.23, Arbetsplatsolycka, Lund",
-    "summary": "Person skadad.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-07.23-arbetsplatsolycka-lund/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 544658,
-    "datetime": "2024-08-29 7:36:07 +02:00",
-    "name": "29 augusti 07.16, Trafikolycka, Kristianstad",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-07.16-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   }
 ]
