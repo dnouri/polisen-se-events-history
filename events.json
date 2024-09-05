@@ -1,5 +1,53 @@
 [
   {
+    "id": 546617,
+    "datetime": "2024-09-05 15:28:16 +02:00",
+    "name": "05 september 15.19, Brand, Arvika",
+    "summary": "Polisen söker vittnen i Arvika i samband med mordbrandsutredning.",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-15.19-brand-arvika/",
+    "type": "Brand",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 546615,
+    "datetime": "2024-09-05 15:24:29 +02:00",
+    "name": "05 september 14.14, Räddningsinsats, Sandviken",
+    "summary": "Räddningsinsats vid Hålldammen.",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-14.14-raddningsinsats-sandviken/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 546611,
+    "datetime": "2024-09-05 15:09:08 +02:00",
+    "name": "05 september 13.36, Trafikolycka, personskada, Fagersta",
+    "summary": "Personbil och två cyklister i kollision.",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-13.36-trafikolycka-personskada-fagersta/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Fagersta",
+      "gps": "59.989144,15.816642"
+    }
+  },
+  {
+    "id": 546607,
+    "datetime": "2024-09-05 14:59:48 +02:00",
+    "name": "05 september 14.46, Försvunnen person, Uddevalla",
+    "summary": "Försvunnen man.",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-14.46-forsvunnen-person-uddevalla/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
     "id": 546590,
     "datetime": "2024-09-05 14:37:37 +02:00",
     "name": "05 september 13.45, Fylleri/LOB, Borlänge",
@@ -2352,18 +2400,6 @@
     }
   },
   {
-    "id": 546213,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.41-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
     "id": 546214,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
@@ -2373,6 +2409,18 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 546213,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.41-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 544735,
-    "datetime": "2024-08-29 18:18:26 +02:00",
-    "name": "29 augusti 17.26, Olaga hot, Kalmar",
-    "summary": "Man med tillhygge",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-17.26-olaga-hot-kalmar/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 544725,
-    "datetime": "2024-08-29 18:18:11 +02:00",
-    "name": "29 augusti 14.15, Stöld, Sundsvall",
-    "summary": "Birsta, ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-14.15-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 544734,
-    "datetime": "2024-08-29 18:16:58 +02:00",
-    "name": "29 augusti 17.04, Stöld, Umeå",
-    "summary": "Umeå, ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-17.04-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 544733,
-    "datetime": "2024-08-29 18:13:48 +02:00",
-    "name": "29 augusti 16.22, Bråk, Umeå",
-    "summary": "Umeå, polis åker till centrum med anledning av bråk.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-16.22-brak-umea/",
-    "type": "Bråk",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
