@@ -1,5 +1,77 @@
 [
   {
+    "id": 546483,
+    "datetime": "2024-09-05 7:35:16 +02:00",
+    "name": "05 september 04.29, Rattfylleri, Upplands väsby",
+    "summary": "Misstänkt rattfylleri",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-04.29-rattfylleri-upplands-vasby/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
+    "id": 546484,
+    "datetime": "2024-09-05 7:32:46 +02:00",
+    "name": "04 september 02.59, Stöld, Örebro",
+    "summary": "Stöld alternativt skadegörelse på Eklundavägen natten mot torsdag.",
+    "url": "/aktuellt/handelser/2024/september/4/04-september-02.59-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 546481,
+    "datetime": "2024-09-05 7:30:04 +02:00",
+    "name": "05 september 07.29, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-07.29-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546480,
+    "datetime": "2024-09-05 7:29:25 +02:00",
+    "name": "05 september 07.28, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-07.28-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 546479,
+    "datetime": "2024-09-05 7:28:47 +02:00",
+    "name": "05 september 07.28, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-07.28-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 546478,
+    "datetime": "2024-09-05 7:28:16 +02:00",
+    "name": "05 september 07.27, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-07.27-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 546476,
     "datetime": "2024-09-05 7:14:02 +02:00",
     "name": "05 september 06.49, Trafikolycka, Lidingö",
@@ -1980,18 +2052,6 @@
     }
   },
   {
-    "id": 546213,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.41-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
     "id": 546214,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
@@ -2001,6 +2061,18 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 546213,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.41-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 544692,
-    "datetime": "2024-08-29 12:32:15 +02:00",
-    "name": "29 augusti 12.31, Övrigt, Örebro län",
-    "summary": "I dag stänger det regionala mediacentret klockan 13.00 på grund av möte",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-12.31-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 544691,
-    "datetime": "2024-08-29 12:31:57 +02:00",
-    "name": "29 augusti 12.31, Övrigt, Dalarnas län",
-    "summary": "I dag stänger det regionala mediacentret klockan 13.00 på grund av möte",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-12.31-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 544690,
-    "datetime": "2024-08-29 12:31:41 +02:00",
-    "name": "29 augusti 12.30, Övrigt, Värmlands län",
-    "summary": "I dag stänger det regionala mediacentret klockan 13.00 på grund av möte",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-12.30-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 544689,
-    "datetime": "2024-08-29 12:30:51 +02:00",
-    "name": "29 augusti 12.30, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-12.30-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 544686,
-    "datetime": "2024-08-29 12:10:12 +02:00",
-    "name": "29 augusti 11.04, Rattfylleri, Falun",
-    "summary": "I samband med en trafikkontroll blir en förare misstänkt för drograttfylleri.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-11.04-rattfylleri-falun/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 544677,
-    "datetime": "2024-08-29 10:29:11 +02:00",
-    "name": "29 augusti 10.00, Trafikolycka, Lindesberg",
-    "summary": "Polisen är på väg till en trafikolycka i Fellingsbro.",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-10.00-trafikolycka-lindesberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
     }
   }
 ]
