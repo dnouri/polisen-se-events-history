@@ -1,5 +1,77 @@
 [
   {
+    "id": 546651,
+    "datetime": "2024-09-05 18:17:22 +02:00",
+    "name": "05 september 18.00, Trafikkontroll, Västerbottens län",
+    "summary": "Robertsfors och Umeå, ett urval av polisens arbete i trafiken under eftermiddagen",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-18.00-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 546650,
+    "datetime": "2024-09-05 18:00:57 +02:00",
+    "name": "05 september 16.22, Fylleri/LOB, Umeå",
+    "summary": "Renmarkstorget, polisen kontaktas gällande berusad, påverkad man",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-16.22-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 546627,
+    "datetime": "2024-09-05 16:01:03 +02:00",
+    "name": "05 september 15.52, Trafikolycka, Öckerö",
+    "summary": "Singelolycka med mc.",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-15.52-trafikolycka-ockero/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Öckerö",
+      "gps": "57.711741,11.648789"
+    }
+  },
+  {
+    "id": 546632,
+    "datetime": "2024-09-05 16:45:58 +02:00",
+    "name": "05 september 16.22, Trafikolycka, Borås",
+    "summary": "Flera Fordon i kollision på Rv40, Annelundsmotet.",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-16.22-trafikolycka-boras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 546648,
+    "datetime": "2024-09-05 17:55:56 +02:00",
+    "name": "05 september 15.02, Bråk, Umeå",
+    "summary": "Rådhusparken, polis beordras till centrala stan med anledning av bråk",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-15.02-brak-umea/",
+    "type": "Bråk",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 546646,
+    "datetime": "2024-09-05 17:48:51 +02:00",
+    "name": "05 september 16.28, Trafikolycka, Tranås",
+    "summary": "Misstänkt kökrock söder om Tranås",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-16.28-trafikolycka-tranas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tranås",
+      "gps": "58.035518,14.975696"
+    }
+  },
+  {
     "id": 546643,
     "datetime": "2024-09-05 17:42:21 +02:00",
     "name": "05 september 15.46, Trafikkontroll, Sundsvall",
@@ -132,18 +204,6 @@
     }
   },
   {
-    "id": 546632,
-    "datetime": "2024-09-05 16:45:58 +02:00",
-    "name": "05 september 16.22, Trafikolycka, Borås",
-    "summary": "Flera Fordon i kollision på Rv40, Annelundsmotet.",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-16.22-trafikolycka-boras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
     "id": 546633,
     "datetime": "2024-09-05 16:35:20 +02:00",
     "name": "05 september 15.58, Övrigt, Malmö",
@@ -201,18 +261,6 @@
     "location": {
       "name": "Robertsfors",
       "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 546627,
-    "datetime": "2024-09-05 16:01:03 +02:00",
-    "name": "05 september 15.52, Trafikolycka, Öckerö",
-    "summary": "Singelolycka med mc.",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-15.52-trafikolycka-ockero/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Öckerö",
-      "gps": "57.711741,11.648789"
     }
   },
   {
@@ -2616,18 +2664,6 @@
     }
   },
   {
-    "id": 546213,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.41-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
     "id": 546214,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
@@ -2637,6 +2673,18 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 546213,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.41-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 544769,
-    "datetime": "2024-08-30 6:39:52 +02:00",
-    "name": "30 augusti 03.21, Brand, Landskrona",
-    "summary": "Brand i fordon på Hagastigen.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-03.21-brand-landskrona/",
-    "type": "Brand",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 544768,
-    "datetime": "2024-08-30 4:26:57 +02:00",
-    "name": "30 augusti 02.38, Farligt föremål, misstänkt, Malmö",
-    "summary": "Misstänkt farligt föremål, Bergsgatan",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-02.38-farligt-foremal-misstankt-malmo/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 544754,
-    "datetime": "2024-08-29 22:00:00 +02:00",
-    "name": "29 augusti 21.44, Farligt föremål, misstänkt, Malmö",
-    "summary": "Misstänkt farligt föremål, Ramels väg",
-    "url": "/aktuellt/handelser/2024/augusti/29/29-augusti-21.44-farligt-foremal-misstankt-malmo/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 544755,
-    "datetime": "2024-08-29 23:09:59 +02:00",
-    "name": "28 augusti 21.48, Brand, Oskarshamn",
-    "summary": "Brand i skjul",
-    "url": "/aktuellt/handelser/2024/augusti/28/28-augusti-21.48-brand-oskarshamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
     }
   }
 ]
