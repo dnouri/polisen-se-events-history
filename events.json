@@ -1,5 +1,41 @@
 [
   {
+    "id": 546804,
+    "datetime": "2024-09-06 22:22:26 +02:00",
+    "name": "06 september 19.35, Misshandel, grov, Uddevalla",
+    "summary": "En person gripen misstänkt för grov misshandel.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-19.35-misshandel-grov-uddevalla/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 546794,
+    "datetime": "2024-09-06 19:31:49 +02:00",
+    "name": "06 september 19.13, Trafikolycka, Kristianstad",
+    "summary": "Mc i singelolycka.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-19.13-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 546803,
+    "datetime": "2024-09-06 21:51:02 +02:00",
+    "name": "06 september 20.51, Knivlagen, Tidaholm",
+    "summary": "Vi får larm om en man som går mitt på vägen på länsväg 193.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-20.51-knivlagen-tidaholm/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Tidaholm",
+      "gps": "58.181769,13.959474"
+    }
+  },
+  {
     "id": 546802,
     "datetime": "2024-09-06 21:28:37 +02:00",
     "name": "06 september 21.15, Trafikolycka, vilt, Hässleholm",
@@ -81,18 +117,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 546794,
-    "datetime": "2024-09-06 19:31:49 +02:00",
-    "name": "06 september 19.13, Trafikolycka, Kristianstad",
-    "summary": "Mc i singelolycka.",
-    "url": "/aktuellt/handelser/2024/september/6/06-september-19.13-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -3852,18 +3876,6 @@
     }
   },
   {
-    "id": 546214,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
     "id": 546213,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
@@ -3873,6 +3885,18 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546214,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 544970,
-    "datetime": "2024-08-31 7:00:13 +02:00",
-    "name": "31 augusti 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/augusti/31/31-augusti-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 544969,
-    "datetime": "2024-08-31 7:00:07 +02:00",
-    "name": "31 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/augusti/31/31-augusti-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
