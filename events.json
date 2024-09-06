@@ -1,5 +1,77 @@
 [
   {
+    "id": 546694,
+    "datetime": "2024-09-06 7:52:29 +02:00",
+    "name": "06 september 07.46, Trafikolycka, Örebro",
+    "summary": "Bilist och cyklist i olycka i Örebro.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-07.46-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 546695,
+    "datetime": "2024-09-06 8:06:03 +02:00",
+    "name": "06 september 03.29, Våldtäkt, Stockholm",
+    "summary": "Polispatruller kallas till Södermalm med uppgifter om att en man våldtagit en kvinna utomhus.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-03.29-valdtakt-stockholm/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 546690,
+    "datetime": "2024-09-06 7:55:33 +02:00",
+    "name": "05 september 21.26, Anträffad död, Karlskrona",
+    "summary": "Dödsfall med oklara omständigheter",
+    "url": "/aktuellt/handelser/2024/september/5/05-september-21.26-antraffad-dod-karlskrona/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 546691,
+    "datetime": "2024-09-06 7:50:28 +02:00",
+    "name": "06 september 07.49, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-07.49-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 546692,
+    "datetime": "2024-09-06 7:49:49 +02:00",
+    "name": "06 september 07.49, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-07.49-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 546693,
+    "datetime": "2024-09-06 7:49:35 +02:00",
+    "name": "06 september 07.49, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-07.49-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 546689,
     "datetime": "2024-09-06 7:28:27 +02:00",
     "name": "06 september 07.25, Sammanfattning natt, Örebro län",
@@ -3120,18 +3192,6 @@
     }
   },
   {
-    "id": 546214,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
     "id": 546213,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
@@ -3141,6 +3201,18 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546214,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 544860,
-    "datetime": "2024-08-30 14:42:53 +02:00",
-    "name": "30 augusti 13.53, Trafikbrott, Lycksele",
-    "summary": "Nära Ruskträsk, en bilist har stoppats vid länsväg 363",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.53-trafikbrott-lycksele/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 544859,
-    "datetime": "2024-08-30 14:37:23 +02:00",
-    "name": "30 augusti 13.35, Trafikbrott, Pajala",
-    "summary": "Riksväg 99, trafikant stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.35-trafikbrott-pajala/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Pajala",
-      "gps": "67.212782,23.367392"
-    }
-  },
-  {
-    "id": 544858,
-    "datetime": "2024-08-30 14:34:51 +02:00",
-    "name": "30 augusti 13.04, Skadegörelse, Karlstad",
-    "summary": "Skadegörelse på gymnasieskola i Karlstad.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.04-skadegorelse-karlstad/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 544857,
-    "datetime": "2024-08-30 14:33:12 +02:00",
-    "name": "30 augusti 13.43, Trafikkontroll, Piteå",
-    "summary": "Mossen, resultat efter trafikkontroll vid Munksundsvägen",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.43-trafikkontroll-pitea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 544852,
-    "datetime": "2024-08-30 14:29:16 +02:00",
-    "name": "30 augusti 13.21, Trafikolycka, Bollnäs",
-    "summary": "Lätt lastbil har voltat.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.21-trafikolycka-bollnas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
-    }
-  },
-  {
-    "id": 544855,
-    "datetime": "2024-08-30 14:11:23 +02:00",
-    "name": "30 augusti 12.26, Stöld/inbrott, Örebro",
-    "summary": "En villa i Adolfsberg söder om Glomman utsattes på förmiddagen för ett inbrott.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-12.26-stoldinbrott-orebro/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
