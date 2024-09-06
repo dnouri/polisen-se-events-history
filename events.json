@@ -1,5 +1,101 @@
 [
   {
+    "id": 546686,
+    "datetime": "2024-09-06 7:24:44 +02:00",
+    "name": "06 september 05.05, Brand, Västerås",
+    "summary": "Brand i lägenhet.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-05.05-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 546685,
+    "datetime": "2024-09-06 7:14:51 +02:00",
+    "name": "06 september 07.14, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-07.14-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 546684,
+    "datetime": "2024-09-06 7:14:07 +02:00",
+    "name": "06 september 02.45, Brand, Sandviken",
+    "summary": "Två bilar i brand.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-02.45-brand-sandviken/",
+    "type": "Brand",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 546683,
+    "datetime": "2024-09-06 7:12:09 +02:00",
+    "name": "06 september 07.11, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-07.11-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 546679,
+    "datetime": "2024-09-06 7:04:24 +02:00",
+    "name": "06 september 06.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-06.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 546680,
+    "datetime": "2024-09-06 7:04:15 +02:00",
+    "name": "06 september 06.00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-06.00-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 546682,
+    "datetime": "2024-09-06 6:59:56 +02:00",
+    "name": "06 september 06.59, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-06.59-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 546681,
+    "datetime": "2024-09-06 6:53:12 +02:00",
+    "name": "06 september 06.52, Sammanfattning natt, Norrbottens län",
+    "summary": "Nattens polisverksamhet i Norrbottens län.",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-06.52-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 546678,
     "datetime": "2024-09-06 6:25:07 +02:00",
     "name": "06 september 02.26, Mord/dråp, försök, Ystad",
@@ -2988,18 +3084,6 @@
     }
   },
   {
-    "id": 546214,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
     "id": 546213,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
@@ -3009,6 +3093,18 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546214,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 544814,
-    "datetime": "2024-08-30 11:05:38 +02:00",
-    "name": "30 augusti 10.57, Trafikolycka, Osby",
-    "summary": "Två personbilar i kollision.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-10.57-trafikolycka-osby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
-    }
-  },
-  {
-    "id": 544845,
-    "datetime": "2024-08-30 13:35:15 +02:00",
-    "name": "30 augusti 13.35, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.35-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 544846,
-    "datetime": "2024-08-30 13:14:02 +02:00",
-    "name": "30 augusti 13.13, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-13.13-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 544844,
-    "datetime": "2024-08-30 13:02:10 +02:00",
-    "name": "30 augusti 11.26, Vållande till kroppsskada, Stenungsund",
-    "summary": "Polis och räddningstjänst larmas till Älvhemsvägen med anledning av en olycka.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-11.26-vallande-till-kroppsskada-stenungsund/",
-    "type": "Vållande till kroppsskada",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 544840,
-    "datetime": "2024-08-30 12:54:55 +02:00",
-    "name": "30 augusti 08.56, Narkotikabrott, Umeå",
-    "summary": "Misstänkt ringa narkotikabrott, Haga.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-08.56-narkotikabrott-umea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 544803,
-    "datetime": "2024-08-30 9:52:58 +02:00",
-    "name": "30 augusti 09.31, Trafikolycka, Kiruna",
-    "summary": "Larm om trafikolycka på Lombololeden/Söderleden, Kiruna.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-09.31-trafikolycka-kiruna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 544838,
-    "datetime": "2024-08-30 12:44:49 +02:00",
-    "name": "30 augusti 09.10, Trafikkontroll, Berg",
-    "summary": "Resultat efter en trafikkontroll på Galhammarvägen, Svenstavik.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-09.10-trafikkontroll-berg/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 544833,
-    "datetime": "2024-08-30 12:29:19 +02:00",
-    "name": "30 augusti 12.16, Övrigt, Malmö",
-    "summary": "Bevakning med drönare (UAS) i samband med fotbollsmatch.",
-    "url": "/aktuellt/handelser/2024/augusti/30/30-augusti-12.16-ovrigt-malmo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
