@@ -1,5 +1,89 @@
 [
   {
+    "id": 546845,
+    "datetime": "2024-09-07 12:18:57 +02:00",
+    "name": "06 september 09.57, Trafikolycka, personskada, Västerås",
+    "summary": "Trafikolycka tåg, Västerås",
+    "url": "/aktuellt/handelser/2024/september/6/06-september-09.57-trafikolycka-personskada-vasteras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 546844,
+    "datetime": "2024-09-07 12:16:00 +02:00",
+    "name": "07 september 10.35, Rattfylleri, Sundsvall",
+    "summary": "Misstänkt rattfylleri på E4, Birsta.",
+    "url": "/aktuellt/handelser/2024/september/7/07-september-10.35-rattfylleri-sundsvall/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 546838,
+    "datetime": "2024-09-07 11:03:24 +02:00",
+    "name": "07 september 10.56, Trafikolycka, Kristianstad",
+    "summary": "Påkörd person, Kristianstad.",
+    "url": "/aktuellt/handelser/2024/september/7/07-september-10.56-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 546843,
+    "datetime": "2024-09-07 11:59:54 +02:00",
+    "name": "07 september 11.59, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/september/7/07-september-11.59-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546842,
+    "datetime": "2024-09-07 11:59:37 +02:00",
+    "name": "07 september 12.00, Fjällräddning, Malung-Sälen",
+    "summary": "Beslut om statlig räddningstjänst enligt LSO 4:1 P2§ av regionalt vakthavade befäl i region Bergslagen",
+    "url": "/aktuellt/handelser/2024/september/7/07-september-12.00-fjallraddning-malung-salen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 546841,
+    "datetime": "2024-09-07 11:59:05 +02:00",
+    "name": "07 september 11.59, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/september/7/07-september-11.59-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 546835,
+    "datetime": "2024-09-07 11:05:53 +02:00",
+    "name": "07 september 09.49, Brand, Boden",
+    "summary": "Larm om rökutveckling i en byggnad i Gunnarsbyn.",
+    "url": "/aktuellt/handelser/2024/september/7/07-september-09.49-brand-boden/",
+    "type": "Brand",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 546840,
     "datetime": "2024-09-07 11:08:29 +02:00",
     "name": "07 september 11.06, Misshandel, Karlskrona",
@@ -21,30 +105,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 546835,
-    "datetime": "2024-09-07 11:05:53 +02:00",
-    "name": "07 september 09.49, Brand, Boden",
-    "summary": "Larm om rökutveckling i en byggnad i Gunnarsbyn.",
-    "url": "/aktuellt/handelser/2024/september/7/07-september-09.49-brand-boden/",
-    "type": "Brand",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 546838,
-    "datetime": "2024-09-07 11:03:24 +02:00",
-    "name": "07 september 10.56, Trafikolycka, Kristianstad",
-    "summary": "Påkörd person, Kristianstad.",
-    "url": "/aktuellt/handelser/2024/september/7/07-september-10.56-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 545013,
-    "datetime": "2024-08-31 21:03:48 +02:00",
-    "name": "31 augusti 20.07, Rattfylleri, Vänersborg",
-    "summary": "En person ringer in till polisen om att hen ligger bakom en personbil på Huvudnäsgatan där föraren har kört my",
-    "url": "/aktuellt/handelser/2024/augusti/31/31-augusti-20.07-rattfylleri-vanersborg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 545011,
-    "datetime": "2024-08-31 19:56:31 +02:00",
-    "name": "31 augusti 18.15, Brand, Solna",
-    "summary": "Berusad man somnade ifrån matlagning varav det började brinna i lägenheten.",
-    "url": "/aktuellt/handelser/2024/augusti/31/31-augusti-18.15-brand-solna/",
-    "type": "Brand",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 545012,
-    "datetime": "2024-08-31 19:54:35 +02:00",
-    "name": "31 augusti 14.13, Rattfylleri, Tierp",
-    "summary": "Bilist misstänkt för flera brott.",
-    "url": "/aktuellt/handelser/2024/augusti/31/31-augusti-14.13-rattfylleri-tierp/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Tierp",
-      "gps": "60.347587,17.520509"
-    }
-  },
-  {
-    "id": 545007,
-    "datetime": "2024-08-31 18:52:26 +02:00",
-    "name": "31 augusti 15.30, Räddningsinsats, Tanum",
-    "summary": "SOS larmar polis, räddningstjänst och sjöräddning om att en person har setts liggande i vattnet vid Hamburgsun",
-    "url": "/aktuellt/handelser/2024/augusti/31/31-augusti-15.30-raddningsinsats-tanum/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Tanum",
-      "gps": "58.732727,11.457819"
-    }
-  },
-  {
-    "id": 545006,
-    "datetime": "2024-08-31 18:50:46 +02:00",
-    "name": "31 augusti 17.00, Narkotikabrott, Stockholm",
-    "summary": "Två kvinnor påträffas med narkotika.",
-    "url": "/aktuellt/handelser/2024/augusti/31/31-augusti-17.00-narkotikabrott-stockholm/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
