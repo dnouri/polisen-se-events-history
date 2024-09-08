@@ -1,5 +1,41 @@
 [
   {
+    "id": 546944,
+    "datetime": "2024-09-08 20:16:13 +02:00",
+    "name": "08 september 20.01, Trafikolycka, Sjöbo",
+    "summary": "Personbil i kollision med ko.",
+    "url": "/aktuellt/handelser/2024/september/8/08-september-20.01-trafikolycka-sjobo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 546935,
+    "datetime": "2024-09-08 18:53:48 +02:00",
+    "name": "08 september 18.42, Försvunnen person, Smedjebacken",
+    "summary": "Försvunnen kvinna, 69 år",
+    "url": "/aktuellt/handelser/2024/september/8/08-september-18.42-forsvunnen-person-smedjebacken/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
+    "id": 546940,
+    "datetime": "2024-09-08 19:48:55 +02:00",
+    "name": "08 september 19.37, Trafikolycka, Borgholm",
+    "summary": "Mc i singelolycka.",
+    "url": "/aktuellt/handelser/2024/september/8/08-september-19.37-trafikolycka-borgholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borgholm",
+      "gps": "56.88023,16.656236"
+    }
+  },
+  {
     "id": 546939,
     "datetime": "2024-09-08 19:36:14 +02:00",
     "name": "08 september 17.34, Hemfridsbrott, Hultsfred",
@@ -21,18 +57,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 546935,
-    "datetime": "2024-09-08 18:53:48 +02:00",
-    "name": "08 september 18.42, Försvunnen person, Smedjebacken",
-    "summary": "Försvunnen kvinna, 69 år",
-    "url": "/aktuellt/handelser/2024/september/8/08-september-18.42-forsvunnen-person-smedjebacken/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Smedjebacken",
-      "gps": "60.143193,15.415992"
     }
   },
   {
@@ -5340,18 +5364,6 @@
     }
   },
   {
-    "id": 546214,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
     "id": 546213,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
@@ -5361,6 +5373,18 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 546214,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.40-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jokkmokk",
       "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 546146,
-    "datetime": "2024-09-02 13:12:32 +02:00",
-    "name": "02 september 11.16, Stöld, Umeå",
-    "summary": "Misstänkt ringa stöld i matbutik, Ålidhem.",
-    "url": "/aktuellt/handelser/2024/september/2/02-september-11.16-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 546141,
-    "datetime": "2024-09-02 12:51:20 +02:00",
-    "name": "02 september 12.51, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken under förmiddagen.",
-    "url": "/aktuellt/handelser/2024/september/2/02-september-12.51-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
