@@ -1,17 +1,5 @@
 [
   {
-    "id": 546931,
-    "datetime": "2024-09-08 17:55:14 +02:00",
-    "name": "08 september 17.43, Brand, Hultsfred",
-    "summary": "Brand på balkong.",
-    "url": "/aktuellt/handelser/2024/september/8/08-september-17.43-brand-hultsfred/",
-    "type": "Brand",
-    "location": {
-      "name": "Hultsfred",
-      "gps": "57.49484,15.841651"
-    }
-  },
-  {
     "id": 546933,
     "datetime": "2024-09-08 18:39:58 +02:00",
     "name": "08 september 18.23, Brand, Malmö",
@@ -21,6 +9,54 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 546935,
+    "datetime": "2024-09-08 18:53:48 +02:00",
+    "name": "08 september 18.42, Försvunnen person, Smedjebacken",
+    "summary": "Försvunnen kvinna, 69 år",
+    "url": "/aktuellt/handelser/2024/september/8/08-september-18.42-forsvunnen-person-smedjebacken/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
+    "id": 546936,
+    "datetime": "2024-09-08 19:05:43 +02:00",
+    "name": "08 september 17.18, Försvunnen person, Uppsala",
+    "summary": "Försvunnen person, Uppsala",
+    "url": "/aktuellt/handelser/2024/juni/17/08-september-17.18-forsvunnen-person-uppsala/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 546934,
+    "datetime": "2024-09-08 18:53:13 +02:00",
+    "name": "08 september 18.45, Trafikolycka, Osby",
+    "summary": "Personbil i singelolycka.",
+    "url": "/aktuellt/handelser/2024/september/8/08-september-18.45-trafikolycka-osby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Osby",
+      "gps": "56.381536,13.992941"
+    }
+  },
+  {
+    "id": 546931,
+    "datetime": "2024-09-08 17:55:14 +02:00",
+    "name": "08 september 17.43, Brand, Hultsfred",
+    "summary": "Brand på balkong.",
+    "url": "/aktuellt/handelser/2024/september/8/08-september-17.43-brand-hultsfred/",
+    "type": "Brand",
+    "location": {
+      "name": "Hultsfred",
+      "gps": "57.49484,15.841651"
     }
   },
   {
@@ -5292,18 +5328,6 @@
     }
   },
   {
-    "id": 546213,
-    "datetime": "2024-09-03 7:41:21 +02:00",
-    "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/september/3/03-september-07.41-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
     "id": 546214,
     "datetime": "2024-09-03 7:41:21 +02:00",
     "name": "03 september 07.40, Sammanfattning natt, Södermanlands län",
@@ -5313,6 +5337,18 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 546213,
+    "datetime": "2024-09-03 7:41:21 +02:00",
+    "name": "03 september 07.41, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/3/03-september-07.41-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 546136,
-    "datetime": "2024-09-02 12:24:01 +02:00",
-    "name": "02 september 11.17, Stöld, Umeå",
-    "summary": "Misstänkt ringa stöld i butik i en galleria i centrala Umeå.",
-    "url": "/aktuellt/handelser/2024/september/2/02-september-11.17-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 546135,
-    "datetime": "2024-09-02 12:15:23 +02:00",
-    "name": "02 september 11.17, Trafikolycka, smitning från, Timrå",
-    "summary": "Polisen kontaktas om att en personbilsförare kört av vägen i samband med att föraren väjt för en mötande perso",
-    "url": "/aktuellt/handelser/2024/september/2/02-september-11.17-trafikolycka-smitning-fran-timra/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 546134,
-    "datetime": "2024-09-02 11:58:12 +02:00",
-    "name": "02 september 09.56, Trafikkontroll, Haparanda",
-    "summary": "Resultat efter trafikkontroll utanför Systembolaget i centrala Haparanda.",
-    "url": "/aktuellt/handelser/2024/september/2/02-september-09.56-trafikkontroll-haparanda/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
     }
   }
 ]
