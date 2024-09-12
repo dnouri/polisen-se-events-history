@@ -1,5 +1,113 @@
 [
   {
+    "id": 547728,
+    "datetime": "2024-09-12 8:29:45 +02:00",
+    "name": "11 september 22.35, Trafikolycka, personskada, Enköping",
+    "summary": "En unga pojke på sin moped krockade med två vildsvin på lv569 Örsundsbro.",
+    "url": "/aktuellt/handelser/2024/september/11/11-september-22.35-trafikolycka-personskada-enkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 547723,
+    "datetime": "2024-09-12 7:59:28 +02:00",
+    "name": "12 september 07.57, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/12/12-september-07.57-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 547727,
+    "datetime": "2024-09-12 8:20:16 +02:00",
+    "name": "12 september 01.18, Rattfylleri, Uppsala",
+    "summary": "En man rapporteras för drograttfylleri på lv 600 i Björklinge.",
+    "url": "/aktuellt/handelser/2024/september/12/12-september-01.18-rattfylleri-uppsala/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 547726,
+    "datetime": "2024-09-12 8:07:31 +02:00",
+    "name": "12 september 02.42, Stöld, Gävle",
+    "summary": "En kvinna som hade inhandlat mat på en grill på söder blev bestulen på sin mat av en okänd man.",
+    "url": "/aktuellt/handelser/2024/september/12/12-september-02.42-stold-gavle/",
+    "type": "Stöld",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 547722,
+    "datetime": "2024-09-12 8:03:39 +02:00",
+    "name": "12 september 07.52, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/september/12/12-september-07.52-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 547724,
+    "datetime": "2024-09-12 8:03:29 +02:00",
+    "name": "12 september 07.59, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/september/12/12-september-07.59-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 547725,
+    "datetime": "2024-09-12 8:03:14 +02:00",
+    "name": "12 september 08.03, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/september/12/12-september-08.03-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 547717,
+    "datetime": "2024-09-12 7:27:36 +02:00",
+    "name": "12 september 06.59, Trafikolycka, Upplands väsby",
+    "summary": "Två personbilar har kolliderat vid trafikplats stora Wäsby på E4:an i norrgående riktning.",
+    "url": "/aktuellt/handelser/2024/september/12/12-september-06.59-trafikolycka-upplands-vasby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
+    "id": 547721,
+    "datetime": "2024-09-12 7:48:56 +02:00",
+    "name": "12 september 07.48, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
+    "url": "/aktuellt/handelser/2024/september/12/12-september-07.48-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 547712,
     "datetime": "2024-09-12 7:39:16 +02:00",
     "name": "12 september 07.39, Sammanfattning natt, Norrbottens län",
@@ -21,18 +129,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 547717,
-    "datetime": "2024-09-12 7:27:36 +02:00",
-    "name": "12 september 06.59, Trafikolycka, Upplands väsby",
-    "summary": "Två personbilar har kolliderat vid trafikplats stora Wäsby på E4:an i norrgående riktning.",
-    "url": "/aktuellt/handelser/2024/september/12/12-september-06.59-trafikolycka-upplands-vasby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Upplands väsby",
-      "gps": "59.51961,17.92834"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 546640,
-    "datetime": "2024-09-05 17:23:31 +02:00",
-    "name": "05 september 17.14, Trafikolycka, Helsingborg",
-    "summary": "Olycka med flera fordon på Ängelholmsleden vid Berga.",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-17.14-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 546638,
-    "datetime": "2024-09-05 17:19:12 +02:00",
-    "name": "05 september 14.01, Misshandel, Strömsund",
-    "summary": "Strömsund, polis beordras till en skola med anledning av bråk",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-14.01-misshandel-stromsund/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 546637,
-    "datetime": "2024-09-05 17:14:40 +02:00",
-    "name": "05 september 13.46, Rattfylleri, Örebro",
-    "summary": "En bilist är misstänkt för flera brott",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-13.46-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 546636,
-    "datetime": "2024-09-05 17:07:58 +02:00",
-    "name": "05 september 16.42, Trafikolycka, Sundsvall",
-    "summary": "Granloholm, en bilist och motorcyklist inblandade i trafikolycka",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-16.42-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 546635,
-    "datetime": "2024-09-05 17:03:07 +02:00",
-    "name": "05 september 13.06, Olaga hot, Sundsvall",
-    "summary": "Kvissleby, ung man uppges ha uppträtt hotfullt på butik",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-13.06-olaga-hot-sundsvall/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 546548,
-    "datetime": "2024-09-05 16:55:35 +02:00",
-    "name": "04 september 16.02, Mord/dråp, Knivsta",
-    "summary": "Man hittad död i bostad.",
-    "url": "/aktuellt/handelser/2024/september/4/04-september-16.02-morddrap-knivsta/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Knivsta",
-      "gps": "59.72612,17.792036"
-    }
-  },
-  {
-    "id": 546633,
-    "datetime": "2024-09-05 16:35:20 +02:00",
-    "name": "05 september 15.58, Övrigt, Malmö",
-    "summary": "Person avvlägsnad från ett Hotell på Segesvängen.",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-15.58-ovrigt-malmo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 546629,
-    "datetime": "2024-09-05 16:05:04 +02:00",
-    "name": "05 september 15.48, Trafikolycka, Sunne",
-    "summary": "En minibuss samt två personbilar har kolliderat på länsväg 802",
-    "url": "/aktuellt/handelser/2024/september/5/05-september-15.48-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
     }
   }
 ]
