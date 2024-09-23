@@ -1,14 +1,26 @@
 [
   {
-    "id": 550012,
-    "datetime": "2024-09-23 0:37:31 +02:00",
-    "name": "22 september 22.27, Trafikbrott, Västerås",
-    "summary": "Stoppad mopedist misstänks för grov olovlig körning samt häleri.",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-22.27-trafikbrott-vasteras/",
-    "type": "Trafikbrott",
+    "id": 550015,
+    "datetime": "2024-09-23 2:13:55 +02:00",
+    "name": "22 september 23.13, Rattfylleri, Ljusdal",
+    "summary": "Kvinna misstänkt för rattfylleri efter fordonsstopp i Järvsö.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-23.13-rattfylleri-ljusdal/",
+    "type": "Rattfylleri",
     "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
+      "name": "Ljusdal",
+      "gps": "61.830839,16.08175"
+    }
+  },
+  {
+    "id": 550014,
+    "datetime": "2024-09-23 2:04:49 +02:00",
+    "name": "23 september 00.01, Rattfylleri, Arboga",
+    "summary": "Både förare och passagerare misstänks för ringa narkotikabrott efter fordonsstopp i Arboga.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-00.01-rattfylleri-arboga/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arboga",
+      "gps": "59.393688,15.838175"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 550012,
+    "datetime": "2024-09-23 0:37:31 +02:00",
+    "name": "22 september 22.27, Trafikbrott, Västerås",
+    "summary": "Stoppad mopedist misstänks för grov olovlig körning samt häleri.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-22.27-trafikbrott-vasteras/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -420,18 +444,6 @@
     }
   },
   {
-    "id": 548980,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-07.28-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
     "id": 548981,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 00.40, Olaga intrång, Gävle",
@@ -441,6 +453,18 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 548980,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-07.28-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 548157,
-    "datetime": "2024-09-16 7:57:42 +02:00",
-    "name": "16 september 07.57, Sammanfattning natt, Östergötlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-07.57-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 548160,
-    "datetime": "2024-09-16 7:57:17 +02:00",
-    "name": "16 september 07.57, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-07.57-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
