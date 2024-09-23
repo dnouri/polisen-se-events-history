@@ -1,5 +1,53 @@
 [
   {
+    "id": 550035,
+    "datetime": "2024-09-23 8:01:06 +02:00",
+    "name": "23 september 07.36, Trafikolycka, Malmö",
+    "summary": "Två personbilar kolliderar på Amiralsgatan i höjd med Jägersro villastad.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-07.36-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 550034,
+    "datetime": "2024-09-23 7:58:10 +02:00",
+    "name": "23 september 07.56, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-07.56-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 550033,
+    "datetime": "2024-09-23 7:56:00 +02:00",
+    "name": "23 september 07.52, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-07.52-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 550032,
+    "datetime": "2024-09-23 7:52:48 +02:00",
+    "name": "23 september 07.49, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-07.49-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 550022,
     "datetime": "2024-09-23 7:39:33 +02:00",
     "name": "23 september 07.30, Sammanfattning natt, Norrbottens län",
@@ -612,18 +660,6 @@
     }
   },
   {
-    "id": 548981,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 00.40, Olaga intrång, Gävle",
-    "summary": "Kvinna misstänks för olaga intrång.",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
     "id": 548980,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
@@ -633,6 +669,18 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 548981,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 00.40, Olaga intrång, Gävle",
+    "summary": "Kvinna misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 548199,
-    "datetime": "2024-09-16 13:33:19 +02:00",
-    "name": "16 september 12.02, Trafikolycka, Solna",
-    "summary": "Två bilar inblandade i trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-12.02-trafikolycka-solna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 548198,
-    "datetime": "2024-09-16 13:27:12 +02:00",
-    "name": "16 september 07.12, Inbrott, Skellefteå",
-    "summary": "Inbrott på fritidsgård utanför Skellefteå.",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-07.12-inbrott-skelleftea/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 548189,
-    "datetime": "2024-09-16 13:10:43 +02:00",
-    "name": "16 september 13.00, Övrigt, Västra Götalands län",
-    "summary": "Mellan klockan 13:00 och 14:30 är presstalespersonen i möte. Frågor från media besvaras av befäl på ledningsce",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-13.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 548190,
-    "datetime": "2024-09-16 13:10:30 +02:00",
-    "name": "16 september 13.00, Övrigt, Hallands län",
-    "summary": "Mellan klockan 13:00 och 14:30 är presstalespersonen i möte. Frågor från media besvaras av befäl på ledningsce",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-13.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
