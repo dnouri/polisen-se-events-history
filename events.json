@@ -1,5 +1,53 @@
 [
   {
+    "id": 550100,
+    "datetime": "2024-09-23 15:27:20 +02:00",
+    "name": "23 september 10.22, Rattfylleri, Strömsund",
+    "summary": "Strömsund, misstänkt grovt rattfylleri.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-10.22-rattfylleri-stromsund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 550099,
+    "datetime": "2024-09-23 15:11:41 +02:00",
+    "name": "23 september 15.09, Rattfylleri, Arvika",
+    "summary": "Misstänkt påverkad bilist stoppad i Arvika.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-15.09-rattfylleri-arvika/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 550097,
+    "datetime": "2024-09-23 15:09:23 +02:00",
+    "name": "23 september 15.10, Motorfordon, stöld, Torsby",
+    "summary": "En misstänkt tillgripen 4-hjuling anträffad i Torsby kommun.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-15.10-motorfordon-stold-torsby/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 550096,
+    "datetime": "2024-09-23 15:04:31 +02:00",
+    "name": "23 september 14.44, Trafikolycka, Kristinehamn",
+    "summary": "En bilist har kört in i mitträcket på E18 mellan Kristinehamn och Karlskoga.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-14.44-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
     "id": 550065,
     "datetime": "2024-09-23 12:08:07 +02:00",
     "name": "23 september 11.08, Olovlig körning, Arvika",
@@ -864,18 +912,6 @@
     }
   },
   {
-    "id": 548981,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 00.40, Olaga intrång, Gävle",
-    "summary": "Kvinna misstänks för olaga intrång.",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
     "id": 548980,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
@@ -885,6 +921,18 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 548981,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 00.40, Olaga intrång, Gävle",
+    "summary": "Kvinna misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Lomma",
       "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 548237,
-    "datetime": "2024-09-16 18:27:17 +02:00",
-    "name": "16 september 16.22, Stöld, Östersund",
-    "summary": "Norr, ung person stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-16.22-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 548236,
-    "datetime": "2024-09-16 18:24:52 +02:00",
-    "name": "16 september 14.23, Fjällräddning, Berg",
-    "summary": "Särvfjället, en person som befinner sig på fjället behöver föras till sjukvård",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-14.23-fjallraddning-berg/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 548234,
-    "datetime": "2024-09-16 18:07:26 +02:00",
-    "name": "16 september 16.49, Stöld, Luleå",
-    "summary": "Skutvikens industriområde, två personer stoppade efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-16.49-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 548233,
-    "datetime": "2024-09-16 18:02:02 +02:00",
-    "name": "16 september 16.16, Fylleri/LOB, Skellefteå",
-    "summary": "Centrum, man omhändertagen av polis",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-16.16-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
