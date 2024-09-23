@@ -1,5 +1,65 @@
 [
   {
+    "id": 550123,
+    "datetime": "2024-09-23 18:27:42 +02:00",
+    "name": "23 september 15.46, Stöld, Skövde",
+    "summary": "En kvinna i 80-årsåldern blir bestulen på ett halsband när hon är i sin trädgård.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-15.46-stold-skovde/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
+    "id": 550122,
+    "datetime": "2024-09-23 18:00:11 +02:00",
+    "name": "23 september 17.58, Trafikolycka, Norrköping",
+    "summary": "Två bilar i krock vid Kneippen.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-17.58-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 550096,
+    "datetime": "2024-09-23 15:04:31 +02:00",
+    "name": "23 september 14.44, Trafikolycka, Kristinehamn",
+    "summary": "En bilist har kört in i mitträcket på E18 mellan Kristinehamn och Karlskoga.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-14.44-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 550112,
+    "datetime": "2024-09-23 16:41:37 +02:00",
+    "name": "23 september 16.32, Trafikolycka, Karlstad",
+    "summary": "Två bilister har kolliderat i Karlstad.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-16.32-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 550121,
+    "datetime": "2024-09-23 17:43:54 +02:00",
+    "name": "23 september 07.26, Trafikolycka, personskada, Köping",
+    "summary": "Flertalet skadade efter kollision mellan tåg och traktorsläp.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-07.26-trafikolycka-personskada-koping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
     "id": 550120,
     "datetime": "2024-09-23 17:42:00 +02:00",
     "name": "23 september 17.38, Misshandel, grov, Norrköping",
@@ -108,18 +168,6 @@
     }
   },
   {
-    "id": 550112,
-    "datetime": "2024-09-23 16:41:37 +02:00",
-    "name": "23 september 16.32, Trafikolycka, Karlstad",
-    "summary": "Två bilister har kolliderat i Karlstad.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-16.32-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
     "id": 550111,
     "datetime": "2024-09-23 16:33:27 +02:00",
     "name": "23 september 10.23, Inbrott, Haparanda",
@@ -225,18 +273,6 @@
     "location": {
       "name": "Torsby",
       "gps": "60.140907,13.010213"
-    }
-  },
-  {
-    "id": 550096,
-    "datetime": "2024-09-23 15:04:31 +02:00",
-    "name": "23 september 14.44, Trafikolycka, Kristinehamn",
-    "summary": "En bilist har kört in i mitträcket på E18 mellan Kristinehamn och Karlskoga.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-14.44-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   },
   {
@@ -1104,18 +1140,6 @@
     }
   },
   {
-    "id": 548980,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-07.28-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
     "id": 548981,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 00.40, Olaga intrång, Gävle",
@@ -1125,6 +1149,18 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 548980,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-07.28-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Ljungby",
       "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 548259,
-    "datetime": "2024-09-17 6:54:27 +02:00",
-    "name": "17 september 02.54, Stöld, Kristianstad",
-    "summary": "Två gripna",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-02.54-stold-kristianstad/",
-    "type": "Stöld",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 548258,
-    "datetime": "2024-09-17 6:53:00 +02:00",
-    "name": "17 september 06.52, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-06.52-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 548253,
-    "datetime": "2024-09-16 21:49:56 +02:00",
-    "name": "16 september 19.39, Trafikolycka, Östersund",
-    "summary": "Östra Odensala, en cyklist och bilist inblandade i trafikolycka",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-19.39-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
