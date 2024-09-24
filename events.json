@@ -1,14 +1,50 @@
 [
   {
-    "id": 550171,
-    "datetime": "2024-09-24 8:00:20 +02:00",
-    "name": "24 september 07.11, Trafikolycka, personskada, Sundsvall",
-    "summary": "Två personbilar kolliderade vid Thulegatan/Nygatan",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-07.11-trafikolycka-personskada-sundsvall/",
+    "id": 550227,
+    "datetime": "2024-09-24 10:09:00 +02:00",
+    "name": "24 september 08.29, Trafikkontroll, Berg",
+    "summary": "Polisen genomförde hastighetskontroll i Vigge, Bergs kommun",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-08.29-trafikkontroll-berg/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
+    "id": 550217,
+    "datetime": "2024-09-24 9:24:31 +02:00",
+    "name": "24 september 09.21, Trafikolycka, Västervik",
+    "summary": "En trafikolycka mellan en personbil och en cyklist inträffar på Skyttegatan/Tomtebogatan.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-09.21-trafikolycka-vastervik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 550151,
+    "datetime": "2024-09-24 7:44:53 +02:00",
+    "name": "24 september 07.50, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-07.50-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 550226,
+    "datetime": "2024-09-24 10:03:14 +02:00",
+    "name": "24 september 09.09, Trafikolycka, personskada, Härnösand",
+    "summary": "En moped med två personer körde omkull på Bondsjöleden, Härnösand.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-09.09-trafikolycka-personskada-harnosand/",
     "type": "Trafikolycka, personskada",
     "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
     }
   },
   {
@@ -21,6 +57,30 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 550221,
+    "datetime": "2024-09-24 9:49:36 +02:00",
+    "name": "24 september 08.55, Trafikkontroll, Skellefteå",
+    "summary": "Polisen genomförde hastighetskontroll i Drängmark, Skellefteå",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-08.55-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 550171,
+    "datetime": "2024-09-24 8:00:20 +02:00",
+    "name": "24 september 07.11, Trafikolycka, personskada, Sundsvall",
+    "summary": "Två personbilar kolliderade vid Thulegatan/Nygatan",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-07.11-trafikolycka-personskada-sundsvall/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -45,18 +105,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 550217,
-    "datetime": "2024-09-24 9:24:31 +02:00",
-    "name": "24 september 09.21, Trafikolycka, Västervik",
-    "summary": "En trafikolycka mellan en personbil och en cyklist inträffar på Skyttegatan/Tomtebogatan.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-09.21-trafikolycka-vastervik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
     }
   },
   {
@@ -117,18 +165,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 550151,
-    "datetime": "2024-09-24 7:44:53 +02:00",
-    "name": "24 september 07.50, Sammanfattning natt, Södermanlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-07.50-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -1692,18 +1728,6 @@
     }
   },
   {
-    "id": 548981,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 00.40, Olaga intrång, Gävle",
-    "summary": "Kvinna misstänks för olaga intrång.",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
     "id": 548980,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
@@ -1713,6 +1737,18 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 548981,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 00.40, Olaga intrång, Gävle",
+    "summary": "Kvinna misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 548450,
-    "datetime": "2024-09-17 16:17:05 +02:00",
-    "name": "17 september 15.19, Trafikbrott, Umeå",
-    "summary": "Kasamark, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-15.19-trafikbrott-umea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 548448,
-    "datetime": "2024-09-17 16:12:43 +02:00",
-    "name": "17 september 14.48, Fylleri/LOB, Umeå",
-    "summary": "Centrala stan, polis kontaktas gällande berusade personer utomhus",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-14.48-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 548447,
-    "datetime": "2024-09-17 16:08:29 +02:00",
-    "name": "17 september 14.13, Stöld, Skellefteå",
-    "summary": "Ursviken, ung person stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-14.13-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
