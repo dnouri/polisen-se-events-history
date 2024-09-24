@@ -1,9 +1,33 @@
 [
   {
+    "id": 550148,
+    "datetime": "2024-09-24 6:26:49 +02:00",
+    "name": "24 september 00.44, Trafikbrott, Malmö",
+    "summary": "En singelolycka med en personbil inträffar på Annetorpsvägen.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-00.44-trafikbrott-malmo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 550147,
+    "datetime": "2024-09-24 6:19:25 +02:00",
+    "name": "23 september 23.48, Stöld/inbrott, Ronneby",
+    "summary": "Ett lägenhetsinbrott inträffar i centrala Ronneby.",
+    "url": "/aktuellt/handelser/2024/september/23/23-september-23.48-stoldinbrott-ronneby/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
     "id": 550146,
     "datetime": "2024-09-24 5:44:52 +02:00",
     "name": "24 september 05.44, Övrigt, Hallands län",
-    "summary": "Presstalepersonen ej tillgänglig förrän vid ca 08.30.",
+    "summary": "Presstalepersonen ej tillgänglig förrän vid ca 08.30. Frågor från media besvaras av befäl på ledningscentralen",
     "url": "/aktuellt/handelser/2024/september/24/24-september-05.44-ovrigt-hallands-lan/",
     "type": "Övrigt",
     "location": {
@@ -15,7 +39,7 @@
     "id": 550145,
     "datetime": "2024-09-24 5:44:18 +02:00",
     "name": "24 september 05.42, Övrigt, Västra Götalands län",
-    "summary": "Presstalespersonen ej tillgänglig förrän vid ca 08.30",
+    "summary": "Presstalespersonen ej tillgänglig förrän vid ca 08.30. Frågor från media besvaras av befäl på ledningscentrale",
     "url": "/aktuellt/handelser/2024/september/24/24-september-05.42-ovrigt-vastra-gotalands-lan/",
     "type": "Övrigt",
     "location": {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 548373,
-    "datetime": "2024-09-17 9:14:26 +02:00",
-    "name": "17 september 09.02, Trafikolycka, Kristianstad",
-    "summary": "Två personbilar och en lastbil kolliderar på länsväg 1624.",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-09.02-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 548238,
-    "datetime": "2024-09-16 18:50:10 +02:00",
-    "name": "16 september 18.15, Skottlossning, Uppsala",
-    "summary": "Polisen utreder ett grovt våldsbrott i centrala Uppsala.",
-    "url": "/aktuellt/handelser/2024/september/16/16-september-18.15-skottlossning-uppsala/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
