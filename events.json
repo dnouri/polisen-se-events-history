@@ -1,14 +1,26 @@
 [
   {
-    "id": 550242,
-    "datetime": "2024-09-24 11:13:47 +02:00",
-    "name": "24 september 10.46, Trafikkontroll, Sundsvall",
-    "summary": "Polisen kontrollerade nykterhet på Kolvägen, Sundsvall",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-10.46-trafikkontroll-sundsvall/",
+    "id": 550244,
+    "datetime": "2024-09-24 11:39:14 +02:00",
+    "name": "24 september 11.06, Trafikolycka, Bromölla",
+    "summary": "En moped kolliderar med en personbil på Doktor Nielsens väg/Folketshusgatan.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-11.06-trafikolycka-bromolla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Bromölla",
+      "gps": "56.074362,14.477659"
+    }
+  },
+  {
+    "id": 550243,
+    "datetime": "2024-09-24 11:36:00 +02:00",
+    "name": "24 september 11.00, Trafikkontroll, Umeå",
+    "summary": "Polisen genomförde trafikkontroll på E4 vid Röbäck.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-11.00-trafikkontroll-umea/",
     "type": "Trafikkontroll",
     "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -21,6 +33,30 @@
     "location": {
       "name": "Tomelilla",
       "gps": "55.54355,13.95484"
+    }
+  },
+  {
+    "id": 550170,
+    "datetime": "2024-09-24 7:57:41 +02:00",
+    "name": "24 september 07.17, Mord/dråp, försök, Malmö",
+    "summary": "Polis larmas till Bergsgatan där en man fått en misstänkt skottskada i benet.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-07.17-morddrap-forsok-malmo/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 550242,
+    "datetime": "2024-09-24 11:13:47 +02:00",
+    "name": "24 september 10.46, Trafikkontroll, Sundsvall",
+    "summary": "Polisen kontrollerade nykterhet på Kolvägen, Sundsvall",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-10.46-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -129,18 +165,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 550170,
-    "datetime": "2024-09-24 7:57:41 +02:00",
-    "name": "24 september 07.17, Mord/dråp, försök, Malmö",
-    "summary": "Polis larmas till Bergsgatan där en man fått en misstänkt skottskada i benet.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-07.17-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Markaryd",
       "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 548453,
-    "datetime": "2024-09-17 16:30:22 +02:00",
-    "name": "17 september 15.49, Trafikolycka, singel, Östersund",
-    "summary": "Riksväg 87, trafikolycka mellan Östersund och Bringåsen",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-15.49-trafikolycka-singel-ostersund/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 548454,
-    "datetime": "2024-09-17 16:32:12 +02:00",
-    "name": "17 september 16.10, Trafikolycka, personskada, Säter",
-    "summary": "Det är just nu stökigt på riksväg 70 genom Säter.",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-16.10-trafikolycka-personskada-sater/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Säter",
-      "gps": "60.34665,15.7479"
     }
   }
 ]
