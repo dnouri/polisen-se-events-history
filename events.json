@@ -1,5 +1,89 @@
 [
   {
+    "id": 550279,
+    "datetime": "2024-09-24 20:33:12 +02:00",
+    "name": "24 september 18.51, Trafikbrott, Surahammar",
+    "summary": "Flicka ramlade av tak från A-traktor.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-18.51-trafikbrott-surahammar/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Surahammar",
+      "gps": "59.707226,16.226841"
+    }
+  },
+  {
+    "id": 550281,
+    "datetime": "2024-09-24 20:28:35 +02:00",
+    "name": "24 september 17.38, Sedlighetsbrott, Stockholm",
+    "summary": "En man visar upp sitt kön offentligt i Vasastaden.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-17.38-sedlighetsbrott-stockholm/",
+    "type": "Sedlighetsbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 550280,
+    "datetime": "2024-09-24 20:20:35 +02:00",
+    "name": "24 september 16.58, Sedlighetsbrott, Stockholm",
+    "summary": "En man blottar sig för en minderårig flicka i Bredäng.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-16.58-sedlighetsbrott-stockholm/",
+    "type": "Sedlighetsbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 550272,
+    "datetime": "2024-09-24 19:00:30 +02:00",
+    "name": "24 september 17.53, Brand, Stockholm",
+    "summary": "Lägenheter rökfyllda på Högalidsgatan.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-17.53-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 550278,
+    "datetime": "2024-09-24 20:01:14 +02:00",
+    "name": "24 september 19.35, Skadegörelse, Eskilstuna",
+    "summary": "Ruta trasigi Torshälla",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-19.35-skadegorelse-eskilstuna/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 550277,
+    "datetime": "2024-09-24 19:59:17 +02:00",
+    "name": "24 september 17.13, Misshandel, grov, Sundbyberg",
+    "summary": "En man misshandlas utanför en stormarknad.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-17.13-misshandel-grov-sundbyberg/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Sundbyberg",
+      "gps": "59.367047,17.966309"
+    }
+  },
+  {
+    "id": 550276,
+    "datetime": "2024-09-24 19:50:59 +02:00",
+    "name": "24 september 19.43, Olovlig körning, Säffle",
+    "summary": "En bilist blir misstänkt för olovlig körning.",
+    "url": "/aktuellt/handelser/2024/september/24/24-september-19.43-olovlig-korning-saffle/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
     "id": 550274,
     "datetime": "2024-09-24 19:35:39 +02:00",
     "name": "24 september 19.25, Trafikolycka, vilt, Nyköping",
@@ -21,18 +105,6 @@
     "location": {
       "name": "Ydre",
       "gps": "57.85952,15.297346"
-    }
-  },
-  {
-    "id": 550272,
-    "datetime": "2024-09-24 19:00:30 +02:00",
-    "name": "24 september 17.53, Brand, Stockholm",
-    "summary": "Lägenheter rökfyllda på Högalidsgatan.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-17.53-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -1968,18 +2040,6 @@
     }
   },
   {
-    "id": 548981,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 00.40, Olaga intrång, Gävle",
-    "summary": "Kvinna misstänks för olaga intrång.",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
     "id": 548980,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
@@ -1989,6 +2049,18 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 548981,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 00.40, Olaga intrång, Gävle",
+    "summary": "Kvinna misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 548487,
-    "datetime": "2024-09-17 20:38:37 +02:00",
-    "name": "17 september 19.44, Trafikolycka, Svalöv",
-    "summary": "MC-olycka, Röstånga.",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-19.44-trafikolycka-svalov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Svalöv",
-      "gps": "55.91293,13.101817"
-    }
-  },
-  {
-    "id": 548486,
-    "datetime": "2024-09-17 20:37:31 +02:00",
-    "name": "17 september 17.47, Rattfylleri, Eda",
-    "summary": "En man i sjuttioårsåldern har omhändertagits efter misstanke om rattfylleri.",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-17.47-rattfylleri-eda/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Eda",
-      "gps": "59.83754,12.314031"
-    }
-  },
-  {
-    "id": 548482,
-    "datetime": "2024-09-17 20:21:35 +02:00",
-    "name": "17 september 18.22, Rån, Västerås",
-    "summary": "Man gripen misstänkt för rån i motvärnsfallet.",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-18.22-ran-vasteras/",
-    "type": "Rån",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 548481,
-    "datetime": "2024-09-17 20:21:17 +02:00",
-    "name": "17 september 17.42, Trafikbrott, Härnösand",
-    "summary": "Riksväg 90, bilist stoppad för kontroll i Veda",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-17.42-trafikbrott-harnosand/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 548480,
-    "datetime": "2024-09-17 20:13:05 +02:00",
-    "name": "17 september 19.54, Trafikkontroll, Skellefteå",
-    "summary": "Istermyrliden, resultat efter trafikkontroll vid Häggdalsvägen",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-19.54-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 548479,
-    "datetime": "2024-09-17 20:07:31 +02:00",
-    "name": "17 september 18.26, Fylleri/LOB, Umeå",
-    "summary": "Centrala stan, polis kontaktas gällande berusad man",
-    "url": "/aktuellt/handelser/2024/september/17/17-september-18.26-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
