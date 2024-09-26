@@ -1,5 +1,53 @@
 [
   {
+    "id": 550454,
+    "datetime": "2024-09-26 7:25:45 +02:00",
+    "name": "26 september 07.59, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av nattens händelser, Södermanlands län",
+    "url": "/aktuellt/handelser/2024/september/26/26-september-07.59-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 550452,
+    "datetime": "2024-09-26 7:04:29 +02:00",
+    "name": "26 september 07.02, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/september/26/26-september-07.02-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 550451,
+    "datetime": "2024-09-26 7:03:35 +02:00",
+    "name": "26 september 07.02, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/september/26/26-september-07.02-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 550401,
+    "datetime": "2024-09-25 16:13:05 +02:00",
+    "name": "25 september 15.12, Brand, Göteborg",
+    "summary": "Brand i lägenhet",
+    "url": "/aktuellt/handelser/2024/september/25/25-september-15.12-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 550448,
     "datetime": "2024-09-26 6:44:21 +02:00",
     "name": "26 september 02.42, Arbetsplatsolycka, Malmö",
@@ -309,18 +357,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 550401,
-    "datetime": "2024-09-25 16:13:05 +02:00",
-    "name": "25 september 16.12, Brand, Göteborg",
-    "summary": "Brand i lägenhet",
-    "url": "/aktuellt/handelser/2024/september/25/25-september-16.12-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -3096,18 +3132,6 @@
     }
   },
   {
-    "id": 548981,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 00.40, Olaga intrång, Gävle",
-    "summary": "Kvinna misstänks för olaga intrång.",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
     "id": 548980,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
@@ -3117,6 +3141,18 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 548981,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 00.40, Olaga intrång, Gävle",
+    "summary": "Kvinna misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 548630,
-    "datetime": "2024-09-18 22:41:38 +02:00",
-    "name": "18 september 22.14, Skottlossning, Lund",
-    "summary": "Skott mot lägenhetsdörr.",
-    "url": "/aktuellt/handelser/2024/september/18/18-september-22.14-skottlossning-lund/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 548628,
-    "datetime": "2024-09-18 22:00:12 +02:00",
-    "name": "18 september 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/september/18/18-september-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 548629,
-    "datetime": "2024-09-18 22:00:08 +02:00",
-    "name": "18 september 22.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/september/18/18-september-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
