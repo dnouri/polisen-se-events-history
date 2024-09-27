@@ -1,5 +1,53 @@
 [
   {
+    "id": 550633,
+    "datetime": "2024-09-27 13:18:42 +02:00",
+    "name": "27 september 08.38, Arbetsplatsolycka, Umeå",
+    "summary": "Kronoparken, en man ska ha skadat sig vid arbete",
+    "url": "/aktuellt/handelser/2024/september/27/27-september-08.38-arbetsplatsolycka-umea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 550632,
+    "datetime": "2024-09-27 13:09:45 +02:00",
+    "name": "27 september 09.06, Fjällräddning, Jokkmokk",
+    "summary": "Sarek, en kvinna som är ute och vandrar kontaktar polisen",
+    "url": "/aktuellt/handelser/2024/september/27/27-september-09.06-fjallraddning-jokkmokk/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Jokkmokk",
+      "gps": "66.606961,19.822921"
+    }
+  },
+  {
+    "id": 550631,
+    "datetime": "2024-09-27 13:08:29 +02:00",
+    "name": "27 september 12.46, Trafikolycka, personskada, Filipstad",
+    "summary": "Riksväg 26 är helt avstängd strax söder om Nykroppa efter en trafikolycka.",
+    "url": "/aktuellt/handelser/2024/september/27/27-september-12.46-trafikolycka-personskada-filipstad/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 550628,
+    "datetime": "2024-09-27 13:05:45 +02:00",
+    "name": "27 september 11.13, Trafikbrott, Karlstad",
+    "summary": "Man, trettioårsåldern, misstänks för grov olovlig körning efter kontroll i västra Karlstad.",
+    "url": "/aktuellt/handelser/2024/september/27/27-september-11.13-trafikbrott-karlstad/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 550627,
     "datetime": "2024-09-27 12:24:41 +02:00",
     "name": "27 september 12.21, Trafikkontroll, Jämtlands län",
@@ -4248,18 +4296,6 @@
     }
   },
   {
-    "id": 548981,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 00.40, Olaga intrång, Gävle",
-    "summary": "Kvinna misstänks för olaga intrång.",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
     "id": 548980,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
@@ -4269,6 +4305,18 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 548981,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 00.40, Olaga intrång, Gävle",
+    "summary": "Kvinna misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 548770,
-    "datetime": "2024-09-20 7:52:50 +02:00",
-    "name": "20 september 07.52, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/20/20-september-07.52-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 548772,
-    "datetime": "2024-09-20 7:52:33 +02:00",
-    "name": "20 september 07.52, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/september/20/20-september-07.52-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 548776,
-    "datetime": "2024-09-20 7:25:30 +02:00",
-    "name": "20 september 00.46, Rattfylleri, Gävle",
-    "summary": "Förare misstänkt för brott.",
-    "url": "/aktuellt/handelser/2024/september/20/20-september-00.46-rattfylleri-gavle/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 548775,
-    "datetime": "2024-09-20 7:21:59 +02:00",
-    "name": "20 september 07.18, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2024/september/20/20-september-07.18-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
