@@ -1,5 +1,41 @@
 [
   {
+    "id": 550749,
+    "datetime": "2024-09-28 20:28:40 +02:00",
+    "name": "28 september 20.08, Trafikolycka, Helsingborg",
+    "summary": "En singelolycka med en personbil inträffar i närheten av trafikplats 65 i Hyllinge.",
+    "url": "/aktuellt/handelser/2024/september/28/28-september-20.08-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 550748,
+    "datetime": "2024-09-28 20:04:10 +02:00",
+    "name": "28 september 18.54, Trafikolycka, Göteborg",
+    "summary": "Larm inkommer till SOS om en olycka mellan en fyrhjuling och en flakmoped på Donsö.",
+    "url": "/aktuellt/handelser/2024/september/28/28-september-18.54-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 550747,
+    "datetime": "2024-09-28 19:48:44 +02:00",
+    "name": "28 september 19.37, Övrigt, Göteborg",
+    "summary": "Polisen får flera samtal om en äldre man som går på E6, vid Kallebäcksmotet och i riktning mot Göteborg.",
+    "url": "/aktuellt/handelser/2024/september/28/28-september-19.37-ovrigt-goteborg/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 550746,
     "datetime": "2024-09-28 19:20:04 +02:00",
     "name": "28 september 17.36, Stöld, försök, Trollhättan",
@@ -5340,18 +5376,6 @@
     }
   },
   {
-    "id": 548981,
-    "datetime": "2024-09-22 7:28:34 +02:00",
-    "name": "22 september 00.40, Olaga intrång, Gävle",
-    "summary": "Kvinna misstänks för olaga intrång.",
-    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
     "id": 548980,
     "datetime": "2024-09-22 7:28:34 +02:00",
     "name": "22 september 07.28, Sammanfattning natt, Västernorrlands län",
@@ -5361,6 +5385,18 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 548981,
+    "datetime": "2024-09-22 7:28:34 +02:00",
+    "name": "22 september 00.40, Olaga intrång, Gävle",
+    "summary": "Kvinna misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2024/september/22/22-september-00.40-olaga-intrang-gavle/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 548921,
-    "datetime": "2024-09-21 7:44:06 +02:00",
-    "name": "21 september 00.37, Knivlagen, Västerås",
-    "summary": "Kvinna misstänks för grovt brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2024/september/21/21-september-00.37-knivlagen-vasteras/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 548920,
-    "datetime": "2024-09-21 7:36:47 +02:00",
-    "name": "20 september 22.26, Stöld, försök, Uppsala",
-    "summary": "Man misstänks för försök till stöld.",
-    "url": "/aktuellt/handelser/2024/september/20/20-september-22.26-stold-forsok-uppsala/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 548919,
-    "datetime": "2024-09-21 7:31:34 +02:00",
-    "name": "21 september 02.47, Fylleri/LOB, Gävle",
-    "summary": "Man misstänks för missbruk av larmanordning.",
-    "url": "/aktuellt/handelser/2024/september/21/21-september-02.47-fyllerilob-gavle/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
