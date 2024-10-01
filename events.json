@@ -1,5 +1,65 @@
 [
   {
+    "id": 550999,
+    "datetime": "2024-10-01 9:21:59 +02:00",
+    "name": "01 oktober 08.07, Trafikbrott, Boden",
+    "summary": "Länsväg 383, polisen kontrollerar en a-traktor",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-08.07-trafikbrott-boden/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 550987,
+    "datetime": "2024-10-01 8:16:25 +02:00",
+    "name": "01 oktober 08.00, Trafikolycka, Forshaga",
+    "summary": "Två personbilar är inblandade i en sidokrock på Rv62 vid Visterud, norr om fFrshaga.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-08.00-trafikolycka-forshaga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Forshaga",
+      "gps": "59.529761,13.486084"
+    }
+  },
+  {
+    "id": 550998,
+    "datetime": "2024-10-01 9:19:50 +02:00",
+    "name": "01 oktober 06.50, Brand, Västerås",
+    "summary": "Brand i fordon.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-06.50-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 550997,
+    "datetime": "2024-10-01 9:15:01 +02:00",
+    "name": "01 oktober 06.42, Trafikolycka, Uppsala",
+    "summary": "Två bilar och en buss inblandade i trafikolycka.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-06.42-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 550968,
+    "datetime": "2024-10-01 6:44:24 +02:00",
+    "name": "01 oktober 06.37, Trafikolycka, vilt, Lindesberg",
+    "summary": "Kollision personbil/älg på Rv68 norr om gusselby.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-06.37-trafikolycka-vilt-lindesberg/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
     "id": 550989,
     "datetime": "2024-10-01 8:47:10 +02:00",
     "name": "01 oktober 00.59, Brand, Stockholm",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 550987,
-    "datetime": "2024-10-01 8:16:25 +02:00",
-    "name": "01 oktober 08.00, Trafikolycka, Forshaga",
-    "summary": "Två personbilar är inblandade i en sidokrock på Rv62 vid Visterud, norr om fFrshaga.",
-    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-08.00-trafikolycka-forshaga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Forshaga",
-      "gps": "59.529761,13.486084"
     }
   },
   {
@@ -129,18 +177,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 550968,
-    "datetime": "2024-10-01 6:44:24 +02:00",
-    "name": "01 oktober 06.37, Trafikolycka, vilt, Lindesberg",
-    "summary": "Kollision personbil/älg på Rv68 norr om gusselby.",
-    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-06.37-trafikolycka-vilt-lindesberg/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Söderhamn",
       "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 550126,
-    "datetime": "2024-09-23 19:20:09 +02:00",
-    "name": "23 september 17.03, Försvunnen person, Uppsala",
-    "summary": "Polisen söker efter en försvunnen man.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-17.03-forsvunnen-person-uppsala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 550131,
-    "datetime": "2024-09-23 19:38:35 +02:00",
-    "name": "23 september 19.27, Trafikolycka, Luleå",
-    "summary": "Luleå, singelolycka på riksväg 97.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-19.27-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 550139,
-    "datetime": "2024-09-23 20:25:25 +02:00",
-    "name": "23 september 19.29, Farligt föremål, misstänkt, Sundsvall",
-    "summary": "Sundsvall, bedömning av misstänkt farligt föremål.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-19.29-farligt-foremal-misstankt-sundsvall/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
