@@ -1,14 +1,74 @@
 [
   {
-    "id": 551141,
-    "datetime": "2024-10-01 19:20:38 +02:00",
-    "name": "01 oktober 19.10, Trafikolycka, vilt, Berg",
-    "summary": "Viltolycka med älg på länsväg 321 Myrviken-Hoverberg.",
-    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-19.10-trafikolycka-vilt-berg/",
+    "id": 551145,
+    "datetime": "2024-10-01 20:51:00 +02:00",
+    "name": "01 oktober 20.46, Misshandel, grov, Jönköping",
+    "summary": "En grov misshandel i Huskvarna.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-20.46-misshandel-grov-jonkoping/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 551134,
+    "datetime": "2024-10-01 17:40:19 +02:00",
+    "name": "01 oktober 17.05, Trafikolycka, Laxå",
+    "summary": "Trafikolycka på E20 södergående strax efter Sandstubbetorp.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-17.05-trafikolycka-laxa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
+    "id": 551152,
+    "datetime": "2024-10-01 21:10:54 +02:00",
+    "name": "01 oktober 13.30, Narkotikabrott, Luleå",
+    "summary": "Två män anhållna för narkotikainnehav.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-13.30-narkotikabrott-lulea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 551151,
+    "datetime": "2024-10-01 21:06:50 +02:00",
+    "name": "01 oktober 19.32, Rattfylleri, Vilhelmina",
+    "summary": "Misstänkt drograttfylleri i Vilhelmina.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-19.32-rattfylleri-vilhelmina/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
+    }
+  },
+  {
+    "id": 551148,
+    "datetime": "2024-10-01 20:59:39 +02:00",
+    "name": "01 oktober 20.09, Brand, Ludvika",
+    "summary": "Det brinner i två byggnader norr om Ludvika.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-20.09-brand-ludvika/",
+    "type": "Brand",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 551150,
+    "datetime": "2024-10-01 21:01:58 +02:00",
+    "name": "01 oktober 20.34, Trafikolycka, vilt, Uppsala län",
+    "summary": "Flera viltolyckor i länet.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-20.34-trafikolycka-vilt-uppsala-lan/",
     "type": "Trafikolycka, vilt",
     "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -21,6 +81,54 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 551149,
+    "datetime": "2024-10-01 21:00:37 +02:00",
+    "name": "01 oktober 18.48, Rattfylleri, Lycksele",
+    "summary": "Misstänkt drograttfylleri i Lycksele.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-18.48-rattfylleri-lycksele/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 551147,
+    "datetime": "2024-10-01 20:56:26 +02:00",
+    "name": "01 oktober 18.58, Rattfylleri, Älvsbyn",
+    "summary": "Misstänkt drograttfylleri i Älvsbyn.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-18.58-rattfylleri-alvsbyn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Älvsbyn",
+      "gps": "65.677136,20.992866"
+    }
+  },
+  {
+    "id": 551146,
+    "datetime": "2024-10-01 20:53:02 +02:00",
+    "name": "01 oktober 20.35, Brand, Malmö",
+    "summary": "Brand i personbil.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-20.35-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 551141,
+    "datetime": "2024-10-01 19:20:38 +02:00",
+    "name": "01 oktober 19.10, Trafikolycka, vilt, Berg",
+    "summary": "Viltolycka med älg på länsväg 321 Myrviken-Hoverberg.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-19.10-trafikolycka-vilt-berg/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
     }
   },
   {
@@ -129,18 +237,6 @@
     "location": {
       "name": "Sollentuna",
       "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 551134,
-    "datetime": "2024-10-01 17:40:19 +02:00",
-    "name": "01 oktober 17.05, Trafikolycka, Laxå",
-    "summary": "Trafikolycka på E20 södergående strax efter Sandstubbetorp.",
-    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-17.05-trafikolycka-laxa/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Laxå",
-      "gps": "58.98269,14.62289"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 550280,
-    "datetime": "2024-09-24 20:20:35 +02:00",
-    "name": "24 september 16.58, Sedlighetsbrott, Stockholm",
-    "summary": "En man blottar sig för en minderårig flicka i Bredäng.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-16.58-sedlighetsbrott-stockholm/",
-    "type": "Sedlighetsbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 550272,
-    "datetime": "2024-09-24 19:00:30 +02:00",
-    "name": "24 september 17.53, Brand, Stockholm",
-    "summary": "Lägenheter rökfyllda på Högalidsgatan.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-17.53-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 550278,
-    "datetime": "2024-09-24 20:01:14 +02:00",
-    "name": "24 september 19.35, Skadegörelse, Eskilstuna",
-    "summary": "Ruta trasigi Torshälla",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-19.35-skadegorelse-eskilstuna/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 550277,
-    "datetime": "2024-09-24 19:59:17 +02:00",
-    "name": "24 september 17.13, Misshandel, grov, Sundbyberg",
-    "summary": "En man misshandlas utanför en stormarknad.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-17.13-misshandel-grov-sundbyberg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 550276,
-    "datetime": "2024-09-24 19:50:59 +02:00",
-    "name": "24 september 19.43, Olovlig körning, Säffle",
-    "summary": "En bilist blir misstänkt för olovlig körning.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-19.43-olovlig-korning-saffle/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
-    }
-  },
-  {
-    "id": 550274,
-    "datetime": "2024-09-24 19:35:39 +02:00",
-    "name": "24 september 19.25, Trafikolycka, vilt, Nyköping",
-    "summary": "Bilist och älg möttes på länsväg 219 inom Nyköping",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-19.25-trafikolycka-vilt-nykoping/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 550273,
-    "datetime": "2024-09-24 19:25:21 +02:00",
-    "name": "24 september 19.24, Trafikolycka, vilt, Ydre",
-    "summary": "Bilist i viltolycka på länsväg 559",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-19.24-trafikolycka-vilt-ydre/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Ydre",
-      "gps": "57.85952,15.297346"
-    }
-  },
-  {
-    "id": 550267,
-    "datetime": "2024-09-24 16:29:46 +02:00",
-    "name": "24 september 15.15, Trafikbrott, Botkyrka",
-    "summary": "Polisinsats i Tumba med anledning av ett förföljande.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-15.15-trafikbrott-botkyrka/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
     }
   }
 ]
