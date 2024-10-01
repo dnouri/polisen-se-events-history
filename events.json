@@ -1,5 +1,65 @@
 [
   {
+    "id": 551020,
+    "datetime": "2024-10-01 10:31:25 +02:00",
+    "name": "01 oktober 10.13, Övrigt, Malmö",
+    "summary": "Olycka, Triangeln.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-10.13-ovrigt-malmo/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 551018,
+    "datetime": "2024-10-01 10:09:20 +02:00",
+    "name": "01 oktober 08.53, Rattfylleri, Sundsvall",
+    "summary": "Inre hamnen, vid en trafikkontroll blåser en man positivt i polisens sållningsinstrument",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-08.53-rattfylleri-sundsvall/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 551015,
+    "datetime": "2024-10-01 10:04:04 +02:00",
+    "name": "01 oktober 08.12, Stöld, Boden",
+    "summary": "Centrum, polisen larmas till en matbutik",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-08.12-stold-boden/",
+    "type": "Stöld",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 551014,
+    "datetime": "2024-10-01 10:03:26 +02:00",
+    "name": "01 oktober 07.33, Stöld/inbrott, Söderhamn",
+    "summary": "Inbrott i livsmedelsaffär.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-07.33-stoldinbrott-soderhamn/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
+    "id": 551002,
+    "datetime": "2024-10-01 9:53:39 +02:00",
+    "name": "01 oktober 08.01, Djur, Västerås",
+    "summary": "Lös hund på Pettersberg.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-08.01-djur-vasteras/",
+    "type": "Djur",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 550999,
     "datetime": "2024-10-01 9:21:59 +02:00",
     "name": "01 oktober 08.07, Trafikbrott, Boden",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Ronneby",
       "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 550146,
-    "datetime": "2024-09-24 5:44:52 +02:00",
-    "name": "24 september 05.44, Övrigt, Hallands län",
-    "summary": "Presstalepersonen ej tillgänglig förrän vid ca 08.30. Frågor från media besvaras av befäl på ledningscentralen",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-05.44-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 550145,
-    "datetime": "2024-09-24 5:44:18 +02:00",
-    "name": "24 september 05.42, Övrigt, Västra Götalands län",
-    "summary": "Presstalespersonen ej tillgänglig förrän vid ca 08.30. Frågor från media besvaras av befäl på ledningscentrale",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-05.42-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 550142,
-    "datetime": "2024-09-23 21:45:15 +02:00",
-    "name": "23 september 21.45, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-21.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 550141,
-    "datetime": "2024-09-23 21:45:10 +02:00",
-    "name": "23 september 21.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 550130,
-    "datetime": "2024-09-23 19:33:21 +02:00",
-    "name": "23 september 17.22, Misshandel, grov, Söderhamn",
-    "summary": "Polisen utreder ett grovt våldsbrott.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-17.22-misshandel-grov-soderhamn/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
     }
   }
 ]
