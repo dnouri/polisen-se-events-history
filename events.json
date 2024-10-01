@@ -1,5 +1,53 @@
 [
   {
+    "id": 551131,
+    "datetime": "2024-10-01 17:18:14 +02:00",
+    "name": "01 oktober 15.44, Trafikolycka, Köping",
+    "summary": "Singelolycka på E18.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-15.44-trafikolycka-koping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 551130,
+    "datetime": "2024-10-01 17:15:42 +02:00",
+    "name": "01 oktober 14.08, Motorfordon, stöld, Sundsvall",
+    "summary": "Stöldförsök av moped i Stenstan.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-14.08-motorfordon-stold-sundsvall/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 551129,
+    "datetime": "2024-10-01 17:10:08 +02:00",
+    "name": "01 oktober 16.07, Trafikbrott, Umeå",
+    "summary": "Kvinna förlorade körkortet efter trafikbrott.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-16.07-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 551128,
+    "datetime": "2024-10-01 17:02:02 +02:00",
+    "name": "01 oktober 14.42, Brand, Uppsala",
+    "summary": "Brand i arbetsmaskin.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-14.42-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 551125,
     "datetime": "2024-10-01 16:42:04 +02:00",
     "name": "01 oktober 16.38, Trafikolycka, Nyköping",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 551126,
+    "datetime": "2024-10-01 16:52:37 +02:00",
+    "name": "01 oktober 15.40, Fylleri/LOB, Luleå",
+    "summary": "Man omhändertagen efter cykelolycka.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-15.40-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Tomelilla",
       "gps": "55.54355,13.95484"
-    }
-  },
-  {
-    "id": 550244,
-    "datetime": "2024-09-24 11:39:14 +02:00",
-    "name": "24 september 11.06, Trafikolycka, Bromölla",
-    "summary": "En moped kolliderar med en personbil på Doktor Nielsens väg/Folketshusgatan.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-11.06-trafikolycka-bromolla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bromölla",
-      "gps": "56.074362,14.477659"
-    }
-  },
-  {
-    "id": 550243,
-    "datetime": "2024-09-24 11:36:00 +02:00",
-    "name": "24 september 11.00, Trafikkontroll, Umeå",
-    "summary": "Polisen genomförde trafikkontroll på E4 vid Röbäck.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-11.00-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 550170,
-    "datetime": "2024-09-24 7:57:41 +02:00",
-    "name": "24 september 07.17, Mord/dråp, försök, Malmö",
-    "summary": "Polis larmas till Bergsgatan där en man fått en misstänkt skottskada i benet.",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-07.17-morddrap-forsok-malmo/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 550242,
-    "datetime": "2024-09-24 11:13:47 +02:00",
-    "name": "24 september 10.46, Trafikkontroll, Sundsvall",
-    "summary": "Polisen kontrollerade nykterhet på Kolvägen, Sundsvall",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-10.46-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 550227,
-    "datetime": "2024-09-24 10:09:00 +02:00",
-    "name": "24 september 08.29, Trafikkontroll, Berg",
-    "summary": "Polisen genomförde hastighetskontroll i Vigge, Bergs kommun",
-    "url": "/aktuellt/handelser/2024/september/24/24-september-08.29-trafikkontroll-berg/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
     }
   }
 ]
