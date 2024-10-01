@@ -1,5 +1,77 @@
 [
   {
+    "id": 550987,
+    "datetime": "2024-10-01 8:16:25 +02:00",
+    "name": "01 oktober 08.00, Trafikolycka, Forshaga",
+    "summary": "Två personbilar är inblandade i en sidokrock på Rv62 vid Visterud, norr om fFrshaga.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-08.00-trafikolycka-forshaga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Forshaga",
+      "gps": "59.529761,13.486084"
+    }
+  },
+  {
+    "id": 550986,
+    "datetime": "2024-10-01 8:08:44 +02:00",
+    "name": "30 september 23.59, Trafikolycka, Västerås",
+    "summary": "Bilist kolliderade med träd.",
+    "url": "/aktuellt/handelser/2024/september/30/30-september-23.59-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 550979,
+    "datetime": "2024-10-01 7:15:40 +02:00",
+    "name": "01 oktober 06.38, Trafikolycka, singel, Kungälv",
+    "summary": "SOS larmas om en singelolycka på länsväg 616.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-06.38-trafikolycka-singel-kungalv/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
+    "id": 550985,
+    "datetime": "2024-10-01 7:48:21 +02:00",
+    "name": "01 oktober 03.54, Explosion, Stockholm",
+    "summary": "Någonting exploderar vid en port i Dalen.",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-03.54-explosion-stockholm/",
+    "type": "Explosion",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 550984,
+    "datetime": "2024-10-01 7:46:50 +02:00",
+    "name": "30 september 21.51, Misshandel, Älvkarleby",
+    "summary": "Bråk efter misshandel i Skutskär.",
+    "url": "/aktuellt/handelser/2024/september/30/30-september-21.51-misshandel-alvkarleby/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Älvkarleby",
+      "gps": "60.568607,17.448913"
+    }
+  },
+  {
+    "id": 550983,
+    "datetime": "2024-10-01 7:44:18 +02:00",
+    "name": "01 oktober 07.44, Sammanfattning natt, Jönköpings län",
+    "summary": "Sammanfattning av nattens händelser, Jönköpings län",
+    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-07.44-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 550982,
     "datetime": "2024-10-01 7:43:54 +02:00",
     "name": "01 oktober 07.43, Sammanfattning natt, Östergötlands län",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 550979,
-    "datetime": "2024-10-01 7:15:40 +02:00",
-    "name": "01 oktober 06.38, Trafikolycka, singel, Kungälv",
-    "summary": "SOS larmas om en singelolycka på länsväg 616.",
-    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-06.38-trafikolycka-singel-kungalv/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 550138,
-    "datetime": "2024-09-23 20:24:45 +02:00",
-    "name": "23 september 20.11, Brand, Malmö",
-    "summary": "Brand i lägenhet på Eriksfältgatan.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-20.11-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 550137,
-    "datetime": "2024-09-23 20:21:19 +02:00",
-    "name": "23 september 20.16, Misshandel, grov, Jönköpings län",
-    "summary": "Misshandel utomhus i Huskvarna.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-20.16-misshandel-grov-jonkopings-lan/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 550134,
-    "datetime": "2024-09-23 20:12:00 +02:00",
-    "name": "23 september 18.54, Mord/dråp, försök, Karlskrona",
-    "summary": "Man anträffad skadad i Kungsmarken.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-18.54-morddrap-forsok-karlskrona/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 550133,
-    "datetime": "2024-09-23 20:04:59 +02:00",
-    "name": "23 september 19.37, Trafikolycka, Orsa",
-    "summary": "En person påkörd på en parkering.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-19.37-trafikolycka-orsa/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
-    }
-  },
-  {
-    "id": 550132,
-    "datetime": "2024-09-23 19:56:24 +02:00",
-    "name": "23 september 18.14, Trafikolycka, Ljungby",
-    "summary": "Påkörd person på Fogdegatan.",
-    "url": "/aktuellt/handelser/2024/september/23/23-september-18.14-trafikolycka-ljungby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
     }
   }
 ]
