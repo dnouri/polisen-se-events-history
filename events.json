@@ -1,5 +1,77 @@
 [
   {
+    "id": 551293,
+    "datetime": "2024-10-02 18:26:13 +02:00",
+    "name": "02 oktober 13.56, Skadegörelse, Solna",
+    "summary": "Stenkastande man vid Karolinska.",
+    "url": "/aktuellt/handelser/2024/oktober/2/02-oktober-13.56-skadegorelse-solna/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 551295,
+    "datetime": "2024-10-02 18:22:08 +02:00",
+    "name": "02 oktober 18.10, Brand, Kalmar",
+    "summary": "Brand i personbil.",
+    "url": "/aktuellt/handelser/2024/oktober/2/02-oktober-18.10-brand-kalmar/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 551250,
+    "datetime": "2024-10-02 12:05:21 +02:00",
+    "name": "02 oktober 09.34, Rattfylleri, Huddinge",
+    "summary": "Larm om onykter förare i Huddinge",
+    "url": "/aktuellt/handelser/2024/oktober/2/02-oktober-09.34-rattfylleri-huddinge/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 551294,
+    "datetime": "2024-10-02 18:13:37 +02:00",
+    "name": "02 oktober 17.38, Olaga hot, Kil",
+    "summary": "Patruller är på plats i Kil med anledning av personkontroll",
+    "url": "/aktuellt/handelser/2024/oktober/2/02-oktober-17.38-olaga-hot-kil/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
+    }
+  },
+  {
+    "id": 551292,
+    "datetime": "2024-10-02 18:05:14 +02:00",
+    "name": "02 oktober 15.20, Rattfylleri, Pajala",
+    "summary": "Rattfylleri på furhjuling i Pajala.",
+    "url": "/aktuellt/handelser/2024/oktober/2/02-oktober-15.20-rattfylleri-pajala/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 551291,
+    "datetime": "2024-10-02 17:52:03 +02:00",
+    "name": "02 oktober 15.48, Fylleri/LOB, Sundsvall",
+    "summary": "Berusad man omhändertagen i Sundsvall.",
+    "url": "/aktuellt/handelser/2024/oktober/2/02-oktober-15.48-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 551290,
     "datetime": "2024-10-02 17:43:14 +02:00",
     "name": "02 oktober 15.23, Narkotikabrott, Östersund",
@@ -213,18 +285,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 551250,
-    "datetime": "2024-10-02 12:05:21 +02:00",
-    "name": "02 oktober 09.34, Rattfylleri, Huddinge",
-    "summary": "Larm om onykter förare i Huddinge",
-    "url": "/aktuellt/handelser/2024/oktober/2/02-oktober-09.34-rattfylleri-huddinge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Berg",
       "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 550414,
-    "datetime": "2024-09-25 18:21:35 +02:00",
-    "name": "25 september 17.54, Trafikolycka, vilt, Storuman",
-    "summary": "Polisen får in en anmälan om en olycka med en personbil och en ren.",
-    "url": "/aktuellt/handelser/2024/september/25/25-september-17.54-trafikolycka-vilt-storuman/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 550413,
-    "datetime": "2024-09-25 18:08:27 +02:00",
-    "name": "25 september 14.38, Misshandel, Berg",
-    "summary": "Polispatruller beordras till Svenstavik där det varit någon typ av bråk.",
-    "url": "/aktuellt/handelser/2024/september/25/25-september-14.38-misshandel-berg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 550403,
-    "datetime": "2024-09-25 18:04:57 +02:00",
-    "name": "25 september 14.16, Trafikolycka, personskada, Gävle",
-    "summary": "Äldre kvinna avliden efter kollision.",
-    "url": "/aktuellt/handelser/2024/september/25/25-september-14.16-trafikolycka-personskada-gavle/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 550412,
-    "datetime": "2024-09-25 17:33:16 +02:00",
-    "name": "25 september 16.45, Trafikkontroll, Skellefteå",
-    "summary": "Resultat efter trafikkontroll på länsväg 364, Bodan.",
-    "url": "/aktuellt/handelser/2024/september/25/25-september-16.45-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 550407,
-    "datetime": "2024-09-25 16:48:16 +02:00",
-    "name": "25 september 16.08, Trafikolycka, Karlskoga",
-    "summary": "Två olyckor har inträffat på E18 i Karlskoga.",
-    "url": "/aktuellt/handelser/2024/september/25/25-september-16.08-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   }
 ]
