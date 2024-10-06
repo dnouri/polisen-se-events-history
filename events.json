@@ -1,14 +1,38 @@
 [
   {
-    "id": 551673,
-    "datetime": "2024-10-06 8:36:24 +02:00",
-    "name": "06 oktober 08.35, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/oktober/6/06-oktober-08.35-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
+    "id": 551652,
+    "datetime": "2024-10-05 23:52:34 +02:00",
+    "name": "05 oktober 22.22, Explosion, Stockholm",
+    "summary": "En explosion har skett i ett trapphus i Tensta.",
+    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-22.22-explosion-stockholm/",
+    "type": "Explosion",
     "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 551675,
+    "datetime": "2024-10-06 9:11:53 +02:00",
+    "name": "06 oktober 08.30, Misshandel, Vänersborg",
+    "summary": "Vid Järnvägsbacken är det en busschaufför som blir misshandlad av en manlig resenär.",
+    "url": "/aktuellt/handelser/2024/oktober/6/06-oktober-08.30-misshandel-vanersborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Vänersborg",
+      "gps": "58.379728,12.324803"
+    }
+  },
+  {
+    "id": 551674,
+    "datetime": "2024-10-06 9:07:28 +02:00",
+    "name": "06 oktober 01.50, Brand, Ovanåker",
+    "summary": "Brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/oktober/6/06-oktober-01.50-brand-ovanaker/",
+    "type": "Brand",
+    "location": {
+      "name": "Ovanåker",
+      "gps": "61.446923,15.738922"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 551673,
+    "datetime": "2024-10-06 8:36:24 +02:00",
+    "name": "06 oktober 08.35, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan följer en sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2024/oktober/6/06-oktober-08.35-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -225,18 +261,6 @@
     "location": {
       "name": "Värmdö",
       "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 551652,
-    "datetime": "2024-10-05 23:52:34 +02:00",
-    "name": "05 oktober 22.22, Explosion, Stockholm",
-    "summary": "En explosion har skett i ett trapphus i Tensta.",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-22.22-explosion-stockholm/",
-    "type": "Explosion",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 550790,
-    "datetime": "2024-09-29 11:48:09 +02:00",
-    "name": "29 september 10.46, Arbetsplatsolycka, Hudiksvall",
-    "summary": "Man faller från en traktor.",
-    "url": "/aktuellt/handelser/2024/september/29/29-september-10.46-arbetsplatsolycka-hudiksvall/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 550789,
-    "datetime": "2024-09-29 11:32:05 +02:00",
-    "name": "29 september 10.40, Rattfylleri, Norrtälje",
-    "summary": "En bilförare som kört av en färja vinglar kraftigt och stoppas av polis.",
-    "url": "/aktuellt/handelser/2024/september/29/29-september-10.40-rattfylleri-norrtalje/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
     }
   }
 ]
