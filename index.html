@@ -1,11 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Polisen reports visualised</title>
-  </head>
-  <body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Police Reports Viewer</title>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css">
+    <script src=" https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-browser-eh.worker.min.js"></script>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        #container {
+            display: flex;
+            height: 100%;
+        }
+        #map {
+            flex: 2;
+            height: 100%;
+        }
+        #reports {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        #loading {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 20px;
+            border-radius: 5px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="map"></div>
+        <div id="reports">
+            <h1>Police Reports</h1>
+            <div id="reportsList"></div>
+        </div>
+    </div>
+    <div id="loading">Loading data...</div>
+
     <script>
       const getDb = async () => {
         const duckdb = window.duckdbduckdbWasm;
@@ -33,19 +79,74 @@
         return db;
       };
     </script>
+
     <script type="module">
-      import * as duckdbduckdbWasm from "https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.28.1-dev106.0/+esm";
-      window.duckdbduckdbWasm = duckdbduckdbWasm;
-      getDb().then(async (db) => {
-        // Create a new connection
-        const conn = await db.connect();
-        // Prepare query
-        const stmt = await conn.prepare(
-          `SELECT v + ? FROM generate_series(0, 10000) AS t(v);`
-        );
-        // ... and run the query with materialized results
-        console.log((await stmt.query(234)).toArray());
-      });
+        import * as duckdbduckdbWasm from "https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.28.1-dev106.0/+esm";
+        window.duckdbduckdbWasm = duckdbduckdbWasm;
+
+        function initMap() {
+            map = L.map('map').setView([59.3293, 18.0686], 7); // Centered on Stockholm, Sweden
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors'
+            }).addTo(map);
+        }
+
+        async function loadReports() {
+            try {
+                const conn = await db.connect();
+                const result = await conn.query(`
+                    SELECT * FROM reports 
+                    ORDER BY date DESC 
+                    LIMIT 100
+                `);
+                await conn.close();
+
+                const reportsList = document.getElementById('reportsList');
+                reportsList.innerHTML = '';
+                result.forEach(report => {
+                    const reportElement = document.createElement('div');
+                    reportElement.innerHTML = `
+                        <h3>${report.category}</h3>
+                        <p>Date: ${report.date}</p>
+                        <p>Description: ${report.description}</p>
+                    `;
+                    reportsList.appendChild(reportElement);
+
+                    if (report.latitude && report.longitude) {
+                        L.marker([report.latitude, report.longitude])
+                            .addTo(map)
+                            .bindPopup(`<b>${report.category}</b><br>${report.description}`);
+                    }
+                });
+            } catch (error) {
+                console.error("Error loading reports:", error);
+                alert("Failed to load reports. Please try refreshing the page.");
+            }
+        }
+
+        async function init() {
+            document.getElementById('loading').style.display = 'block';
+
+            getDb().then(async (db) => {
+                await db.registerFileURL('events.json', '');
+                const conn = await db.connect();
+                await conn.query(`
+CREATE TABLE reports AS 
+SELECT * FROM read_json(
+    'https://raw.githubusercontent.com/dnouri/polisen-se-events-history/refs/heads/main/events.json',
+    columns = {
+        datetime: 'DATETIME',
+        summary: 'VARCHAR',
+        type: 'VARCHAR',
+        location: 'JSON'
+        }
+)
+`);
+                document.getElementById('loading').style.display = 'none';
+            });
+        }
+
+        init();
     </script>
-  </body>
+</body>
 </html>
