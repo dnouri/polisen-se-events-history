@@ -1,38 +1,38 @@
 [
   {
-    "id": 551922,
-    "datetime": "2024-10-08 19:38:41 +02:00",
-    "name": "08 oktober 18.26, Trafikolycka, Tidaholm",
-    "summary": "Lastbil och personbil i krock. Trafikpåverkan.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-18.26-trafikolycka-tidaholm/",
+    "id": 551918,
+    "datetime": "2024-10-08 18:56:53 +02:00",
+    "name": "08 oktober 18.24, Brand, Piteå",
+    "summary": "Larm om brand i byggnad söder om Piteå.",
+    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-18.24-brand-pitea/",
+    "type": "Brand",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 551926,
+    "datetime": "2024-10-08 20:27:08 +02:00",
+    "name": "08 oktober 16.41, Brand, Pajala",
+    "summary": "Larm om brand i industribyggnad i Anttis.",
+    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-16.41-brand-pajala/",
+    "type": "Brand",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 551925,
+    "datetime": "2024-10-08 20:04:47 +02:00",
+    "name": "08 oktober 19.08, Trafikolycka, Jokkmokk",
+    "summary": "Singelolycka på E45 söder om Porjus.",
+    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-19.08-trafikolycka-jokkmokk/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Tidaholm",
-      "gps": "58.181769,13.959474"
-    }
-  },
-  {
-    "id": 551920,
-    "datetime": "2024-10-08 19:25:35 +02:00",
-    "name": "08 oktober 19.24, Trafikolycka, vilt, Eksjö",
-    "summary": "Död älg ligger mitt i körbanan på Riksväg 32",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-19.24-trafikolycka-vilt-eksjo/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Eksjö",
-      "gps": "57.665165,14.973221"
-    }
-  },
-  {
-    "id": 551921,
-    "datetime": "2024-10-08 19:27:52 +02:00",
-    "name": "08 oktober 19.27, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från trafikkontroller i dag.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-19.27-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Jokkmokk",
+      "gps": "66.606961,19.822921"
     }
   },
   {
@@ -48,15 +48,51 @@
     }
   },
   {
-    "id": 551918,
-    "datetime": "2024-10-08 18:56:53 +02:00",
-    "name": "08 oktober 18.24, Brand, Piteå",
-    "summary": "Larm om brand i byggnad söder om Piteå.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-18.24-brand-pitea/",
-    "type": "Brand",
+    "id": 551920,
+    "datetime": "2024-10-08 19:25:35 +02:00",
+    "name": "08 oktober 19.24, Trafikolycka, vilt, Eksjö",
+    "summary": "Död älg ligger mitt i körbanan på Riksväg 32",
+    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-19.24-trafikolycka-vilt-eksjo/",
+    "type": "Trafikolycka, vilt",
     "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
+      "name": "Eksjö",
+      "gps": "57.665165,14.973221"
+    }
+  },
+  {
+    "id": 551923,
+    "datetime": "2024-10-08 19:45:37 +02:00",
+    "name": "08 oktober 15.46, Bedrägeri, Sundsvall",
+    "summary": "Sundsvall, misstänkt olovlig befattning med betalningsverktyg.",
+    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-15.46-bedrageri-sundsvall/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 551922,
+    "datetime": "2024-10-08 19:38:41 +02:00",
+    "name": "08 oktober 18.26, Trafikolycka, Tidaholm",
+    "summary": "Lastbil och personbil i krock. Trafikpåverkan.",
+    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-18.26-trafikolycka-tidaholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tidaholm",
+      "gps": "58.181769,13.959474"
+    }
+  },
+  {
+    "id": 551921,
+    "datetime": "2024-10-08 19:27:52 +02:00",
+    "name": "08 oktober 19.27, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-19.27-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Gällivare",
       "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 551118,
-    "datetime": "2024-10-01 15:25:12 +02:00",
-    "name": "01 oktober 15.12, Trafikolycka, Sunne",
-    "summary": "Två bilister har kolliderat på E45 i Sunne kommun.",
-    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-15.12-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 551042,
-    "datetime": "2024-10-01 13:12:34 +02:00",
-    "name": "01 oktober 11.29, Kontroll person/fordon, Sollentuna",
-    "summary": "Polisinsats i Viby.",
-    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-11.29-kontroll-personfordon-sollentuna/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 551116,
-    "datetime": "2024-10-01 15:19:03 +02:00",
-    "name": "01 oktober 14.12, Trafikolycka, Boden",
-    "summary": "Samtal om trafikolycka på riksväg 97 Kusån, Boden.",
-    "url": "/aktuellt/handelser/2024/oktober/1/01-oktober-14.12-trafikolycka-boden/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
     }
   }
 ]
