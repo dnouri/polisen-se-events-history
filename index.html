@@ -92,61 +92,53 @@
         }
 
         async function loadReports() {
-            try {
-                const conn = await db.connect();
-                const result = await conn.query(`
-                    SELECT * FROM reports 
-                    ORDER BY date DESC 
-                    LIMIT 100
-                `);
-                await conn.close();
+            const conn = await window._db.connect();
+            const result = await conn.query(`
+                SELECT * FROM reports 
+                ORDER BY "datetime" DESC 
+             `);
+            await conn.close();
 
-                const reportsList = document.getElementById('reportsList');
-                reportsList.innerHTML = '';
-                result.forEach(report => {
-                    const reportElement = document.createElement('div');
-                    reportElement.innerHTML = `
-                        <h3>${report.category}</h3>
-                        <p>Date: ${report.date}</p>
-                        <p>Description: ${report.description}</p>
-                    `;
-                    reportsList.appendChild(reportElement);
+            const reportsList = document.getElementById('reportsList');
+            reportsList.innerHTML = '';
+            result.toArray().forEach(report => {
+                const reportElement = document.createElement('div');
+                reportElement.innerHTML = `
+                    <h3>${report.type} (${report.id})</h3>
+                    <p>${report.location.name} at ${report.datetime}</p>
+                    <p>Description: ${report.summary}</p>
+                `;
+                reportsList.appendChild(reportElement);
 
-                    if (report.latitude && report.longitude) {
-                        L.marker([report.latitude, report.longitude])
-                            .addTo(map)
-                            .bindPopup(`<b>${report.category}</b><br>${report.description}`);
-                    }
-                });
-            } catch (error) {
-                console.error("Error loading reports:", error);
-                alert("Failed to load reports. Please try refreshing the page.");
-            }
+                if (report.location.latitude && report.location.longitude) {
+                    L.marker([report.location.latitude, report.location.longitude])
+                        .addTo(map)
+                        .bindPopup(`<b>${report.summary}</b><br>${report.description}`);
+                }
+            });
         }
 
         async function init() {
             document.getElementById('loading').style.display = 'block';
 
-            getDb().then(async (db) => {
-                await db.registerFileURL('events.json', '');
+            await getDb().then(async (db) => {
+                
+                const response = await fetch('./events.json');
+                const jsonBuffer = await response.arrayBuffer();
+                await db.registerFileBuffer('events.json', new Uint8Array(jsonBuffer));
                 const conn = await db.connect();
+
                 await conn.query(`
-CREATE TABLE reports AS 
-SELECT * FROM read_json(
-    'https://raw.githubusercontent.com/dnouri/polisen-se-events-history/refs/heads/main/events.json',
-    columns = {
-        datetime: 'DATETIME',
-        summary: 'VARCHAR',
-        type: 'VARCHAR',
-        location: 'JSON'
-        }
-)
-`);
+                  CREATE TABLE reports AS 
+                  SELECT * FROM read_json('events.json', auto_detect=true)
+                `);
                 document.getElementById('loading').style.display = 'none';
             });
         }
 
-        init();
+        await init();
+        await initMap();
+        await loadReports(window._db);
     </script>
 </body>
 </html>
