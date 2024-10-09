@@ -8,9 +8,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
     <style>
+        body, html { margin: 0; padding: 0; height: 100%; font-family: Arial, sans-serif; }
         #container { display: flex; height: 100vh; }
+        #sidebar { width: 200px; background-color: #f8f8f8; overflow-y: auto; transition: transform 0.3s ease-out; }
+        #sidebar.collapsed { transform: translateX(-250px); }
         #map { flex: 1; height: 100%; }
-        #reports { flex: 1; overflow-y: auto; padding: 20px; }
+        #reports { width: 350px; overflow-y: auto; padding: 20px; }
         .report-item {
             margin-bottom: 10px;
             padding: 10px;
@@ -18,17 +21,10 @@
             border-radius: 5px;
             transition: background-color 0.3s ease;
         }
-        .report-item:hover {
-            background-color: #f0f0f0;
-        }
-        .marker-cluster-small { background-color: rgba(181, 226, 140, 0.6); }
-        .marker-cluster-small div { background-color: rgba(110, 204, 57, 0.6); }
-        .marker-cluster-medium { background-color: rgba(241, 211, 87, 0.6); }
-        .marker-cluster-medium div { background-color: rgba(240, 194, 12, 0.6); }
-        .marker-cluster-large { background-color: rgba(253, 156, 115, 0.6); }
-        .marker-cluster-large div { background-color: rgba(241, 128, 23, 0.6); }
-        .report-link { color: #0066cc; text-decoration: none; }
-        .report-link:hover { text-decoration: underline; }
+        .report-item:hover { background-color: #f0f0f0; }
+        .report-title { font-size: 1.1em; margin: 0 0 5px 0; }
+        .report-details { display: flex; align-items: center; font-size: 0.9em; color: #666; }
+        .report-emoji { font-size: 1.5em; margin-right: 10px; }
         .crime-type {
             padding: 2px 5px;
             border-radius: 3px;
@@ -36,24 +32,52 @@
             display: inline-block;
             margin-right: 10px;
         }
-        .report-title {
-            font-size: 1.1em;
-            margin: 0 0 5px 0;
+        .report-link { color: #0066cc; text-decoration: none; }
+        .report-link:hover { text-decoration: underline; }
+        #filter-toggle {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
+            background-color: white;
+            border: 2px solid rgba(0,0,0,0.2);
+            border-radius: 4px;
+            padding: 5px 10px;
+            cursor: pointer;
         }
-        .report-details {
-            display: flex;
-            align-items: center;
-            font-size: 0.9em;
-            color: #666;
+        .filter-button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #f0f0f0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
         }
-        .report-emoji {
-            font-size: 1.5em;
-            margin-right: 10px;
+        .filter-button.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+        #reset-all, #select-all {
+            background-color: #008CBA;
+            color: white;
+        }
+        @media (max-width: 768px) {
+            #sidebar { position: absolute; z-index: 1001; height: 100%; }
+            #map { width: 100%; }
         }
     </style>
 </head>
 <body>
     <div id="container">
+        <button id="filter-toggle">☰ Filters</button>
+        <div id="sidebar" class="collapsed">
+            <button id="select-all" class="filter-button">Select All</button>
+            <button id="reset-all" class="filter-button">Reset All</button>
+            <div id="category-filters"></div>
+        </div>
         <div id="map"></div>
         <div id="reports">
             <h1>Police Reports</h1>
@@ -73,6 +97,11 @@
 
         const reportsList = document.getElementById('reportsList');
         const loading = document.getElementById('loading');
+        const sidebar = document.getElementById('sidebar');
+        const filterToggle = document.getElementById('filter-toggle');
+        const categoryFilters = document.getElementById('category-filters');
+        const selectAllBtn = document.getElementById('select-all');
+        const resetAllBtn = document.getElementById('reset-all');
 
         const markers = L.markerClusterGroup({
             spiderfyOnMaxZoom: true,
@@ -101,6 +130,9 @@
             'Försvunnen person': '🔍👤',
             'Vapenbrott': '🔪'
         };
+
+        let allMarkers = [];
+        let activeFilters = new Set();
 
         function getColorForType(type) {
             if (!colorMap.has(type)) {
@@ -139,12 +171,75 @@
             });
         }
 
+        function toggleSidebar() {
+            sidebar.classList.toggle('collapsed');
+        }
+
+        function toggleFilter(type) {
+            if (activeFilters.has(type)) {
+                activeFilters.delete(type);
+            } else {
+                activeFilters.add(type);
+            }
+            updateFilters();
+            saveFilters();
+        }
+
+        function updateFilters() {
+            allMarkers.forEach(marker => {
+                if (activeFilters.size === 0 || activeFilters.has(marker.crimeType)) {
+                    markers.addLayer(marker);
+                } else {
+                    markers.removeLayer(marker);
+                }
+            });
+
+            document.querySelectorAll('.filter-button').forEach(btn => {
+                btn.classList.toggle('active', activeFilters.has(btn.dataset.type));
+            });
+        }
+
+        function resetFilters() {
+            activeFilters.clear();
+            updateFilters();
+            saveFilters();
+        }
+
+        function selectAllFilters() {
+            document.querySelectorAll('.filter-button').forEach(btn => {
+                if (btn.dataset.type) {
+                    activeFilters.add(btn.dataset.type);
+                }
+            });
+            updateFilters();
+            saveFilters();
+        }
+
+        function saveFilters() {
+            localStorage.setItem('activeFilters', JSON.stringify(Array.from(activeFilters)));
+        }
+
+        function loadFilters() {
+            const savedFilters = localStorage.getItem('activeFilters');
+            if (savedFilters) {
+                activeFilters = new Set(JSON.parse(savedFilters));
+                updateFilters();
+            }
+        }
+
+        filterToggle.addEventListener('click', toggleSidebar);
+        resetAllBtn.addEventListener('click', resetFilters);
+        selectAllBtn.addEventListener('click', selectAllFilters);
+
         fetch('events.json')
             .then(response => response.json())
             .then(data => {
                 loading.style.display = 'none';
+                const categories = new Set();
+
                 data.forEach((event, index) => {
                     const [lat, lon] = event.location.gps.split(',');
+                    categories.add(event.type);
 
                     const icon = L.divIcon({
                         className: 'custom-div-icon',
@@ -154,6 +249,8 @@
                     });
 
                     const marker = L.marker([lat, lon], {icon: icon});
+                    marker.crimeType = event.type;
+                    allMarkers.push(marker);
 
                     const reportItem = document.createElement('div');
                     reportItem.className = 'report-item';
@@ -192,6 +289,18 @@
                 });
 
                 map.addLayer(markers);
+
+                // Create filter buttons
+                categories.forEach(category => {
+                    const button = document.createElement('button');
+                    button.textContent = category;
+                    button.className = 'filter-button';
+                    button.dataset.type = category;
+                    button.addEventListener('click', () => toggleFilter(category));
+                    categoryFilters.appendChild(button);
+                });
+
+                loadFilters();
             })
             .catch(error => {
                 console.error('Error loading data:', error);
