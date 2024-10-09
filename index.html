@@ -3,49 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Police Reports Viewer</title>
-    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css">
-    <script src=" https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.29.0/dist/duckdb-browser-eh.worker.min.js"></script>
+    <title>Police Reports Map</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
     <style>
-        body, html {
-            height: 100%;
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-        #container {
-            display: flex;
-            height: 100%;
-        }
-        #map {
-            flex: 2;
-            height: 100%;
-        }
-        #reports {
-            flex: 1;
-            padding: 20px;
-            overflow-y: auto;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            margin-top: 0;
-        }
-        #loading {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: rgba(255, 255, 255, 0.8);
-            padding: 20px;
-            border-radius: 5px;
-            display: none;
-        }
-        #filterInput {
-            width: 100%;
-            padding: 10px;
-            margin-bottom: 10px;
-            box-sizing: border-box;
-        }
+        #container { display: flex; height: 100vh; }
+        #map { flex: 1; height: 100%; }
+        #reports { flex: 1; overflow-y: auto; padding: 20px; }
+        .report-item { margin-bottom: 10px; padding: 10px; border: 1px solid #ccc; }
+        .marker-cluster-small { background-color: rgba(181, 226, 140, 0.6); }
+        .marker-cluster-small div { background-color: rgba(110, 204, 57, 0.6); }
+        .marker-cluster-medium { background-color: rgba(241, 211, 87, 0.6); }
+        .marker-cluster-medium div { background-color: rgba(240, 194, 12, 0.6); }
+        .marker-cluster-large { background-color: rgba(253, 156, 115, 0.6); }
+        .marker-cluster-large div { background-color: rgba(241, 128, 23, 0.6); }
+        .report-link { color: #0066cc; text-decoration: none; }
+        .report-link:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -53,117 +27,91 @@
         <div id="map"></div>
         <div id="reports">
             <h1>Police Reports</h1>
-            <input type="text" id="filterInput" placeholder="Filter reports...">
             <div id="reportsList"></div>
         </div>
     </div>
+
     <div id="loading">Loading data...</div>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
     <script>
-      const getDb = async () => {
-        const duckdb = window.duckdbduckdbWasm;
-        // @ts-ignore
-        if (window._db) return window._db;
-        const JSDELIVR_BUNDLES = duckdb.getJsDelivrBundles();
+        const map = L.map('map').setView([62.0, 15.0], 5);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
 
-        // Select a bundle based on browser checks
-        const bundle = await duckdb.selectBundle(JSDELIVR_BUNDLES);
+        const reportsList = document.getElementById('reportsList');
+        const loading = document.getElementById('loading');
 
-        const worker_url = URL.createObjectURL(
-          new Blob([`importScripts("${bundle.mainWorker}");`], {
-            type: "text/javascript",
-          })
-        );
+        const markers = L.markerClusterGroup({
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: false,
+            zoomToBoundsOnClick: true,
+            spiderfyDistanceMultiplier: 2
+        });
 
-        // Instantiate the asynchronous version of DuckDB-wasm
-        const worker = new Worker(worker_url);
-        // const logger = null //new duckdb.ConsoleLogger();
-        const logger = new duckdb.ConsoleLogger();
-        const db = new duckdb.AsyncDuckDB(logger, worker);
-        await db.instantiate(bundle.mainModule, bundle.pthreadWorker);
-        URL.revokeObjectURL(worker_url);
-        window._db = db;
-        return db;
-      };
-    </script>
-
-    <script type="module">
-        import * as duckdbduckdbWasm from "https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.28.1-dev106.0/+esm";
-        window.duckdbduckdbWasm = duckdbduckdbWasm;
-
-        let map;
-        let markers = [];
-
-        function initMap() {
-            map = L.map('map').setView([59.3293, 18.0686], 7); // Centered on Stockholm, Sweden
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '© OpenStreetMap contributors'
-            }).addTo(map);
+        function getColorForType(type) {
+            const colorMap = {
+                'Trafikolycka': '#ff0000',
+                'Brand': '#ff7f00',
+                'Stöld': '#ffff00',
+                'Misshandel': '#00ff00',
+                'Rattfylleri': '#0000ff',
+                'Narkotikabrott': '#8b00ff'
+            };
+            return colorMap[type] || '#999999';
         }
 
-        async function loadReports(filter = '') {
-            const conn = await window._db.connect();
-            const result = await conn.query(`
-SELECT *,
-CAST(SPLIT_PART(location.gps, ',', 1) AS FLOAT) AS latitude,
-CAST(SPLIT_PART(location.gps, ',', 2) AS FLOAT) AS longitude
-FROM reports
-ORDER BY "datetime" DESC
-            `);
-            await conn.close();
+        fetch('events.json')
+            .then(response => response.json())
+            .then(data => {
+                loading.style.display = 'none';
+                data.forEach((event, index) => {
+                    const [lat, lon] = event.location.gps.split(',');
+                    
+                    const icon = L.divIcon({
+                        className: 'custom-div-icon',
+                        html: `<div style="background-color:${getColorForType(event.type)};width:10px;height:10px;border-radius:50%;"></div>`,
+                        iconSize: [10, 10],
+                        iconAnchor: [5, 5]
+                    });
 
-            const reportsList = document.getElementById('reportsList');
-            reportsList.innerHTML = '';
+                    const marker = L.marker([lat, lon], {icon: icon});
+                    
+                    const reportItem = document.createElement('div');
+                    reportItem.className = 'report-item';
+                    reportItem.id = `report-${event.id}`;
+                    reportItem.innerHTML = `
+                        <h3>${event.name}</h3>
+                        <p>${event.summary}</p>
+                        <p>Date: ${event.datetime}</p>
+                        <p>Location: ${event.location.name}</p>
+                        <p>Type: ${event.type}</p>
+                        <a href="https://polisen.se${event.url}" class="report-link" target="_blank">Read full report</a>
+                    `;
+                    reportsList.appendChild(reportItem);
 
-            // Clear existing markers
-            markers.forEach(marker => map.removeLayer(marker));
-            markers = [];
+                    marker.on('click', () => {
+                        const targetElement = document.getElementById(`report-${event.id}`);
+                        if (targetElement) {
+                            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                            targetElement.style.backgroundColor = '#ffffd0';
+                            setTimeout(() => {
+                                targetElement.style.backgroundColor = '';
+                            }, 2000);
+                        }
+                    });
 
-            result.toArray().forEach(report => {
-                const reportElement = document.createElement('div');
-                reportElement.innerHTML = `
-                    <h3>${report.type} (${report.id})</h3>
-                    <p>${report.location.name} at ${report.datetime}</p>
-                    <p>Description: ${report.summary}</p>
-                `;
-                reportsList.appendChild(reportElement);
+                    markers.addLayer(marker);
+                });
 
-                if (report.latitude && report.longitude) {
-                    const marker = L.marker([report.latitude, report.longitude])
-                        .addTo(map)
-                        .bindPopup(`
-<b>${report.summary}</b><br>${report.location.name}
-`);
-                    markers.push(marker);
-                }
+                map.addLayer(markers);
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+                loading.textContent = 'Error loading data';
             });
-        }
-
-        async function init() {
-            document.getElementById('loading').style.display = 'block';
-
-            await getDb().then(async (db) => {
-                const response = await fetch('./events.json');
-                const jsonBuffer = await response.arrayBuffer();
-                await db.registerFileBuffer('events.json', new Uint8Array(jsonBuffer));
-                const conn = await db.connect();
-
-                await conn.query(`
-                  CREATE TABLE reports AS 
-                  SELECT * FROM read_json('events.json', auto_detect=true)
-                `);
-                document.getElementById('loading').style.display = 'none';
-            });
-
-            // Add event listener for the filter input
-            document.getElementById('filterInput').addEventListener('input', (e) => {
-                loadReports(e.target.value);
-            });
-        }
-
-        await init();
-        await initMap();
-        await loadReports();
     </script>
 </body>
 </html>
