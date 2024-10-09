@@ -10,21 +10,51 @@
     <style>
         body, html { margin: 0; padding: 0; height: 100%; font-family: Arial, sans-serif; }
         #container { display: flex; height: 100vh; }
-        #sidebar { width: 200px; background-color: #f8f8f8; overflow-y: auto; transition: transform 0.3s ease-out; }
+        #sidebar {
+            width: 250px;
+            background-color: #f0f0f0;
+            padding: 20px;
+            overflow-y: auto;
+            transition: transform 0.3s ease-in-out;
+        }
         #sidebar.collapsed { transform: translateX(-250px); }
-        #map { flex: 1; height: 100%; }
-        #reports { width: 350px; overflow-y: auto; padding: 20px; }
+        #toggle-sidebar {
+            position: absolute;
+            left: 10px;
+            top: 10px;
+            z-index: 1000;
+            background-color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+        }
+        #map-container { flex: 1; position: relative; }
+        #map { height: 100%; }
+        #reports { width: 40%; min-width: 300px; overflow-y: auto; padding: 20px; }
         .report-item {
             margin-bottom: 10px;
             padding: 10px;
             border: 1px solid #ccc;
             border-radius: 5px;
-            transition: background-color 0.3s ease;
+            transition: opacity 0.3s ease, transform 0.3s ease;
         }
         .report-item:hover { background-color: #f0f0f0; }
-        .report-title { font-size: 1.1em; margin: 0 0 5px 0; }
-        .report-details { display: flex; align-items: center; font-size: 0.9em; color: #666; }
-        .report-emoji { font-size: 1.5em; margin-right: 10px; }
+        .report-item.filtered-out {
+            opacity: 0;
+            transform: scale(0.9);
+            height: 0;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        .marker-cluster-small { background-color: rgba(181, 226, 140, 0.6); }
+        .marker-cluster-small div { background-color: rgba(110, 204, 57, 0.6); }
+        .marker-cluster-medium { background-color: rgba(241, 211, 87, 0.6); }
+        .marker-cluster-medium div { background-color: rgba(240, 194, 12, 0.6); }
+        .marker-cluster-large { background-color: rgba(253, 156, 115, 0.6); }
+        .marker-cluster-large div { background-color: rgba(241, 128, 23, 0.6); }
+        .report-link { color: #0066cc; text-decoration: none; }
+        .report-link:hover { text-decoration: underline; }
         .crime-type {
             padding: 2px 5px;
             border-radius: 3px;
@@ -32,53 +62,39 @@
             display: inline-block;
             margin-right: 10px;
         }
-        .report-link { color: #0066cc; text-decoration: none; }
-        .report-link:hover { text-decoration: underline; }
-        #filter-toggle {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            z-index: 1000;
-            background-color: white;
-            border: 2px solid rgba(0,0,0,0.2);
-            border-radius: 4px;
-            padding: 5px 10px;
-            cursor: pointer;
+        .report-title { font-size: 1.1em; margin: 0 0 5px 0; }
+        .report-details {
+            display: flex;
+            align-items: center;
+            font-size: 0.9em;
+            color: #666;
         }
-        .filter-button {
-            display: block;
-            width: 100%;
-            padding: 10px;
-            margin: 5px 0;
-            background-color: #f0f0f0;
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        .filter-button.active {
-            background-color: #4CAF50;
-            color: white;
-        }
-        #reset-all, #select-all {
-            background-color: #008CBA;
-            color: white;
-        }
-        @media (max-width: 768px) {
-            #sidebar { position: absolute; z-index: 1001; height: 100%; }
-            #map { width: 100%; }
-        }
+        .report-emoji { font-size: 1.5em; margin-right: 10px; }
+        .filter-option { margin-bottom: 10px; }
+        .filter-option label { display: flex; align-items: center; }
+        .filter-option input { margin-right: 10px; }
+        #filter-actions { margin-bottom: 20px; }
+        #filter-actions button { margin-right: 10px; }
+        #search-bar { width: 100%; margin-bottom: 20px; padding: 5px; }
+        #filter-info { margin-bottom: 20px; font-style: italic; }
     </style>
 </head>
 <body>
     <div id="container">
-        <button id="filter-toggle">☰ Filters</button>
-        <div id="sidebar" class="collapsed">
-            <button id="select-all" class="filter-button">Select All</button>
-            <button id="reset-all" class="filter-button">Reset All</button>
-            <div id="category-filters"></div>
+        <button id="toggle-sidebar">☰</button>
+        <div id="sidebar">
+            <h2>Filters</h2>
+            <input type="text" id="search-bar" placeholder="Search reports...">
+            <div id="filter-actions">
+                <button id="reset-filters">Reset All</button>
+                <button id="select-all-filters">Select All</button>
+            </div>
+            <div id="filter-options"></div>
+            <div id="filter-info"></div>
         </div>
-        <div id="map"></div>
+        <div id="map-container">
+            <div id="map"></div>
+        </div>
         <div id="reports">
             <h1>Police Reports</h1>
             <div id="reportsList"></div>
@@ -98,10 +114,12 @@
         const reportsList = document.getElementById('reportsList');
         const loading = document.getElementById('loading');
         const sidebar = document.getElementById('sidebar');
-        const filterToggle = document.getElementById('filter-toggle');
-        const categoryFilters = document.getElementById('category-filters');
-        const selectAllBtn = document.getElementById('select-all');
-        const resetAllBtn = document.getElementById('reset-all');
+        const toggleSidebar = document.getElementById('toggle-sidebar');
+        const filterOptions = document.getElementById('filter-options');
+        const resetFilters = document.getElementById('reset-filters');
+        const selectAllFilters = document.getElementById('select-all-filters');
+        const searchBar = document.getElementById('search-bar');
+        const filterInfo = document.getElementById('filter-info');
 
         const markers = L.markerClusterGroup({
             spiderfyOnMaxZoom: true,
@@ -131,8 +149,9 @@
             'Vapenbrott': '🔪'
         };
 
-        let allMarkers = [];
+        let allReports = [];
         let activeFilters = new Set();
+        let searchTerm = '';
 
         function getColorForType(type) {
             if (!colorMap.has(type)) {
@@ -171,75 +190,102 @@
             });
         }
 
-        function toggleSidebar() {
-            sidebar.classList.toggle('collapsed');
-        }
+        function createReportItem(event) {
+            const reportItem = document.createElement('div');
+            reportItem.className = 'report-item';
+            reportItem.id = `report-${event.id}`;
 
-        function toggleFilter(type) {
-            if (activeFilters.has(type)) {
-                activeFilters.delete(type);
-            } else {
-                activeFilters.add(type);
-            }
-            updateFilters();
-            saveFilters();
+            const typeSpan = document.createElement('span');
+            typeSpan.className = 'crime-type';
+            typeSpan.textContent = event.type;
+            applyColorToElement(typeSpan, event.type);
+
+            reportItem.innerHTML = `
+                <h3 class="report-title">${event.name}</h3>
+                <div class="report-details">
+                    <span class="report-emoji">${getEmojiForType(event.type)}</span>
+                    ${typeSpan.outerHTML}
+                    <span>${formatDate(event.datetime)}</span>
+                    <span style="margin-left: auto;">📍 ${event.location.name}</span>
+                </div>
+                <p>${event.summary}</p>
+                <a href="https://polisen.se${event.url}" class="report-link" target="_blank">Read full report</a>
+            `;
+
+            return reportItem;
         }
 
         function updateFilters() {
-            allMarkers.forEach(marker => {
-                if (activeFilters.size === 0 || activeFilters.has(marker.crimeType)) {
-                    markers.addLayer(marker);
-                } else {
-                    markers.removeLayer(marker);
-                }
-            });
+            allReports.forEach(report => {
+                const shouldShow = (activeFilters.size === 0 || activeFilters.has(report.event.type)) &&
+                                   (searchTerm === '' || report.event.name.toLowerCase().includes(searchTerm) ||
+                                    report.event.summary.toLowerCase().includes(searchTerm));
 
-            document.querySelectorAll('.filter-button').forEach(btn => {
-                btn.classList.toggle('active', activeFilters.has(btn.dataset.type));
+                if (report.element) {
+                    report.element.classList.toggle('filtered-out', !shouldShow);
+                }
+                report.marker.setOpacity(shouldShow ? 1 : 0);
+             });
+
+            const visibleCount = allReports.filter(report => !report.element.classList.contains('filtered-out')).length;
+            filterInfo.textContent = `Showing ${visibleCount} of ${allReports.length} reports`;
+        }
+
+        function setupFilterOptions(types) {
+            types.forEach(type => {
+                const option = document.createElement('div');
+                option.className = 'filter-option';
+                option.innerHTML = `
+                    <label>
+                        <input type="checkbox" value="${type}" checked>
+                        <span class="crime-type" style="background-color: ${getColorForType(type)}; color: ${getContrastColor(getColorForType(type))}">${type}</span>
+                    </label>
+                `;
+                filterOptions.appendChild(option);
+
+                option.querySelector('input').addEventListener('change', (e) => {
+                    if (e.target.checked) {
+                        activeFilters.add(type);
+                    } else {
+                        activeFilters.delete(type);
+                    }
+                    updateFilters();
+                });
             });
         }
 
-        function resetFilters() {
+        resetFilters.addEventListener('click', () => {
             activeFilters.clear();
+            document.querySelectorAll('#filter-options input').forEach(input => input.checked = false);
             updateFilters();
-            saveFilters();
-        }
+        });
 
-        function selectAllFilters() {
-            document.querySelectorAll('.filter-button').forEach(btn => {
-                if (btn.dataset.type) {
-                    activeFilters.add(btn.dataset.type);
-                }
+        selectAllFilters.addEventListener('click', () => {
+            document.querySelectorAll('#filter-options input').forEach(input => {
+                input.checked = true;
+                activeFilters.add(input.value);
             });
             updateFilters();
-            saveFilters();
-        }
+        });
 
-        function saveFilters() {
-            localStorage.setItem('activeFilters', JSON.stringify(Array.from(activeFilters)));
-        }
+        searchBar.addEventListener('input', (e) => {
+            searchTerm = e.target.value.toLowerCase();
+            updateFilters();
+        });
 
-        function loadFilters() {
-            const savedFilters = localStorage.getItem('activeFilters');
-            if (savedFilters) {
-                activeFilters = new Set(JSON.parse(savedFilters));
-                updateFilters();
-            }
-        }
-
-        filterToggle.addEventListener('click', toggleSidebar);
-        resetAllBtn.addEventListener('click', resetFilters);
-        selectAllBtn.addEventListener('click', selectAllFilters);
+        toggleSidebar.addEventListener('click', () => {
+            sidebar.classList.toggle('collapsed');
+        });
 
         fetch('events.json')
             .then(response => response.json())
             .then(data => {
                 loading.style.display = 'none';
-                const categories = new Set();
+                const types = new Set();
 
                 data.forEach((event, index) => {
+                    types.add(event.type);
                     const [lat, lon] = event.location.gps.split(',');
-                    categories.add(event.type);
 
                     const icon = L.divIcon({
                         className: 'custom-div-icon',
@@ -249,63 +295,60 @@
                     });
 
                     const marker = L.marker([lat, lon], {icon: icon});
-                    marker.crimeType = event.type;
-                    allMarkers.push(marker);
-
-                    const reportItem = document.createElement('div');
-                    reportItem.className = 'report-item';
-                    reportItem.id = `report-${event.id}`;
-
-                    const typeSpan = document.createElement('span');
-                    typeSpan.className = 'crime-type';
-                    typeSpan.textContent = event.type;
-                    applyColorToElement(typeSpan, event.type);
-
-                    reportItem.innerHTML = `
-                        <h3 class="report-title">${event.name}</h3>
-                        <div class="report-details">
-                            <span class="report-emoji">${getEmojiForType(event.type)}</span>
-                            ${typeSpan.outerHTML}
-                            <span>${formatDate(event.datetime)}</span>
-                            <span style="margin-left: auto;">📍 ${event.location.name}</span>
-                        </div>
-                        <p>${event.summary}</p>
-                        <a href="https://polisen.se${event.url}" class="report-link" target="_blank">Read full report</a>
-                    `;
+                    const reportItem = createReportItem(event);
                     reportsList.appendChild(reportItem);
 
                     marker.on('click', () => {
-                        const targetElement = document.getElementById(`report-${event.id}`);
-                        if (targetElement) {
-                            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                            targetElement.style.backgroundColor = '#ffffd0';
-                            setTimeout(() => {
-                                targetElement.style.backgroundColor = '';
-                            }, 2000);
-                        }
-                    });
+                        reportItem.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        reportItem.style.backgroundColor = '#ffffd0';
+                        setTimeout(() => {
+                            reportItem.style.backgroundColor = '';
+                        }, 2000);
+                });
 
                     markers.addLayer(marker);
+                    allReports.push({ event, element: reportItem, marker });
                 });
 
                 map.addLayer(markers);
+                setupFilterOptions(Array.from(types).sort());
+                updateFilters();
 
-                // Create filter buttons
-                categories.forEach(category => {
-                    const button = document.createElement('button');
-                    button.textContent = category;
-                    button.className = 'filter-button';
-                    button.dataset.type = category;
-                    button.addEventListener('click', () => toggleFilter(category));
-                    categoryFilters.appendChild(button);
+                // Save filter preferences to local storage
+                window.addEventListener('beforeunload', () => {
+                    localStorage.setItem('activeFilters', JSON.stringify(Array.from(activeFilters)));
+                    localStorage.setItem('searchTerm', searchTerm);
                 });
 
-                loadFilters();
+                // Load filter preferences from local storage
+                const savedFilters = JSON.parse(localStorage.getItem('activeFilters'));
+                if (savedFilters) {
+                    activeFilters = new Set(savedFilters);
+                    document.querySelectorAll('#filter-options input').forEach(input => {
+                        input.checked = activeFilters.has(input.value);
+                    });
+                }
+                const savedSearchTerm = localStorage.getItem('searchTerm');
+                if (savedSearchTerm) {
+                    searchBar.value = savedSearchTerm;
+                    searchTerm = savedSearchTerm;
+                }
+                updateFilters();
             })
             .catch(error => {
                 console.error('Error loading data:', error);
                 loading.textContent = 'Error loading data';
             });
+
+        // Ensure the map fills the available space
+        function resizeMap() {
+            const mapContainer = document.getElementById('map-container');
+            const map = document.getElementById('map');
+            map.style.height = `${mapContainer.offsetHeight}px`;
+        }
+
+        window.addEventListener('resize', resizeMap);
+        resizeMap();
     </script>
 </body>
 </html>
