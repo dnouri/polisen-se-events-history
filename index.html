@@ -40,6 +40,12 @@
             border-radius: 5px;
             display: none;
         }
+        #filterInput {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
     </style>
 </head>
 <body>
@@ -47,6 +53,7 @@
         <div id="map"></div>
         <div id="reports">
             <h1>Police Reports</h1>
+            <input type="text" id="filterInput" placeholder="Filter reports...">
             <div id="reportsList"></div>
         </div>
     </div>
@@ -68,7 +75,7 @@
           })
         );
 
-        // Instantiate the asynchronus version of DuckDB-wasm
+        // Instantiate the asynchronous version of DuckDB-wasm
         const worker = new Worker(worker_url);
         // const logger = null //new duckdb.ConsoleLogger();
         const logger = new duckdb.ConsoleLogger();
@@ -84,6 +91,9 @@
         import * as duckdbduckdbWasm from "https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.28.1-dev106.0/+esm";
         window.duckdbduckdbWasm = duckdbduckdbWasm;
 
+        let map;
+        let markers = [];
+
         function initMap() {
             map = L.map('map').setView([59.3293, 18.0686], 7); // Centered on Stockholm, Sweden
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -91,16 +101,24 @@
             }).addTo(map);
         }
 
-        async function loadReports() {
+        async function loadReports(filter = '') {
             const conn = await window._db.connect();
             const result = await conn.query(`
-                SELECT * FROM reports 
-                ORDER BY "datetime" DESC 
-             `);
+SELECT *,
+CAST(SPLIT_PART(location.gps, ',', 1) AS FLOAT) AS latitude,
+CAST(SPLIT_PART(location.gps, ',', 2) AS FLOAT) AS longitude
+FROM reports
+ORDER BY "datetime" DESC
+            `);
             await conn.close();
 
             const reportsList = document.getElementById('reportsList');
             reportsList.innerHTML = '';
+
+            // Clear existing markers
+            markers.forEach(marker => map.removeLayer(marker));
+            markers = [];
+
             result.toArray().forEach(report => {
                 const reportElement = document.createElement('div');
                 reportElement.innerHTML = `
@@ -110,10 +128,13 @@
                 `;
                 reportsList.appendChild(reportElement);
 
-                if (report.location.latitude && report.location.longitude) {
-                    L.marker([report.location.latitude, report.location.longitude])
+                if (report.latitude && report.longitude) {
+                    const marker = L.marker([report.latitude, report.longitude])
                         .addTo(map)
-                        .bindPopup(`<b>${report.summary}</b><br>${report.description}`);
+                        .bindPopup(`
+<b>${report.summary}</b><br>${report.location.name}
+`);
+                    markers.push(marker);
                 }
             });
         }
@@ -122,7 +143,6 @@
             document.getElementById('loading').style.display = 'block';
 
             await getDb().then(async (db) => {
-                
                 const response = await fetch('./events.json');
                 const jsonBuffer = await response.arrayBuffer();
                 await db.registerFileBuffer('events.json', new Uint8Array(jsonBuffer));
@@ -134,11 +154,16 @@
                 `);
                 document.getElementById('loading').style.display = 'none';
             });
+
+            // Add event listener for the filter input
+            document.getElementById('filterInput').addEventListener('input', (e) => {
+                loadReports(e.target.value);
+            });
         }
 
         await init();
         await initMap();
-        await loadReports(window._db);
+        await loadReports();
     </script>
 </body>
 </html>
