@@ -20,6 +20,7 @@
         .marker-cluster-large div { background-color: rgba(241, 128, 23, 0.6); }
         .report-link { color: #0066cc; text-decoration: none; }
         .report-link:hover { text-decoration: underline; }
+        .crime-type { padding: 2px 5px; border-radius: 3px; font-weight: bold; }
     </style>
 </head>
 <body>
@@ -51,16 +52,35 @@
             spiderfyDistanceMultiplier: 2
         });
 
+        // Centralized color mapping
+        const colorMap = new Map();
+        const baseColors = [
+            '#FF0000', '#00FF00', '#0000FF', '#FFFF00', '#FF00FF', '#00FFFF',
+            '#FFA500', '#800080', '#008000', '#FFC0CB', '#A52A2A', '#808080'
+        ];
+
         function getColorForType(type) {
-            const colorMap = {
-                'Trafikolycka': '#ff0000',
-                'Brand': '#ff7f00',
-                'Stöld': '#ffff00',
-                'Misshandel': '#00ff00',
-                'Rattfylleri': '#0000ff',
-                'Narkotikabrott': '#8b00ff'
-            };
-            return colorMap[type] || '#999999';
+            if (!colorMap.has(type)) {
+                const color = baseColors[colorMap.size % baseColors.length];
+                colorMap.set(type, color);
+            }
+            return colorMap.get(type);
+        }
+
+        function applyColorToElement(element, type) {
+            const color = getColorForType(type);
+            element.style.backgroundColor = color;
+            element.style.color = getContrastColor(color);
+        }
+
+        function getContrastColor(hexcolor) {
+            // Convert hex to RGB
+            const r = parseInt(hexcolor.substr(1,2), 16);
+            const g = parseInt(hexcolor.substr(3,2), 16);
+            const b = parseInt(hexcolor.substr(5,2), 16);
+            // Calculate luminance
+            const yiq = ((r * 299) + (g * 587) + (b * 114)) / 1000;
+            return (yiq >= 128) ? 'black' : 'white';
         }
 
         fetch('events.json')
@@ -82,12 +102,18 @@
                     const reportItem = document.createElement('div');
                     reportItem.className = 'report-item';
                     reportItem.id = `report-${event.id}`;
+                    
+                    const typeSpan = document.createElement('span');
+                    typeSpan.className = 'crime-type';
+                    typeSpan.textContent = event.type;
+                    applyColorToElement(typeSpan, event.type);
+
                     reportItem.innerHTML = `
                         <h3>${event.name}</h3>
                         <p>${event.summary}</p>
                         <p>Date: ${event.datetime}</p>
                         <p>Location: ${event.location.name}</p>
-                        <p>Type: ${event.type}</p>
+                        <p>Type: ${typeSpan.outerHTML}</p>
                         <a href="https://polisen.se${event.url}" class="report-link" target="_blank">Read full report</a>
                     `;
                     reportsList.appendChild(reportItem);
