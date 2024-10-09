@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Police Reports Map</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; font-family: Arial, sans-serif; }
+        #container { display: flex; height: 100vh; }
+        #sidebar { 
+            width: 250px; 
+            background-color: #f0f0f0; 
+            padding: 20px; 
+            overflow-y: auto;
+            transition: transform 0.3s ease-in-out;
+        }
+        #sidebar.collapsed { transform: translateX(-250px); }
+        #toggle-sidebar {
+            position: absolute;
+            left: 10px;
+            top: 10px;
+            z-index: 1000;
+            background-color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+        }
+        #map-container { flex: 1; position: relative; }
+        #map { height: 100%; }
+        #reports { width: 30%; min-width: 200px; overflow-y: auto; padding: 20px; }
+        .report-item { 
+            margin-bottom: 10px; 
+            padding: 10px; 
+            border: 1px solid #ccc; 
+            border-radius: 5px;
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+        .report-item:hover { background-color: #f0f0f0; }
+        .report-item.filtered-out {
+            opacity: 0;
+            transform: scale(0.9);
+            height: 0;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        .marker-cluster-small { background-color: rgba(181, 226, 140, 0.6); }
+        .marker-cluster-small div { background-color: rgba(110, 204, 57, 0.6); }
+        .marker-cluster-medium { background-color: rgba(241, 211, 87, 0.6); }
+        .marker-cluster-medium div { background-color: rgba(240, 194, 12, 0.6); }
+        .marker-cluster-large { background-color: rgba(253, 156, 115, 0.6); }
+        .marker-cluster-large div { background-color: rgba(241, 128, 23, 0.6); }
+        .report-link { color: #0066cc; text-decoration: none; }
+        .report-link:hover { text-decoration: underline; }
+        .crime-type { 
+            padding: 2px 5px; 
+            border-radius: 3px; 
+            font-weight: bold;
+            display: inline-block;
+            margin-right: 10px;
+        }
+        .report-title { font-size: 1.1em; margin: 0 0 5px 0; }
+        .report-details {
+            display: flex;
+            align-items: center;
+            font-size: 0.9em;
+            color: #666;
+        }
+        .report-emoji { font-size: 1.5em; margin-right: 10px; }
+        .filter-option { margin-bottom: 10px; }
+        .filter-option label { display: flex; align-items: center; }
+        .filter-option input { margin-right: 10px; }
+        #filter-actions { margin-bottom: 20px; }
+        #filter-actions button { margin-right: 10px; }
+        #search-bar { width: 100%; margin-bottom: 20px; padding: 5px; }
+        #filter-info { margin-bottom: 20px; font-style: italic; }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <button id="toggle-sidebar">☰</button>
+        <div id="sidebar">
+            <h2>Filters</h2>
+            <input type="text" id="search-bar" placeholder="Search reports...">
+            <div id="filter-actions">
+                <button id="reset-filters">Reset All</button>
+                <button id="select-all-filters">Select All</button>
+            </div>
+            <div id="filter-options"></div>
+            <div id="filter-info"></div>
+        </div>
+        <div id="map-container">
+            <div id="map"></div>
+        </div>
+        <div id="reports">
+            <h1>Police Reports</h1>
+            <div id="reportsList"></div>
+        </div>
+    </div>
+
+    <div id="loading">Loading data...</div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
