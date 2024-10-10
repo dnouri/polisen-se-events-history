@@ -1,5 +1,101 @@
 [
   {
+    "id": 552149,
+    "datetime": "2024-10-10 20:31:30 +02:00",
+    "name": "10 oktober 20.15, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-20.15-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 552148,
+    "datetime": "2024-10-10 20:20:22 +02:00",
+    "name": "10 oktober 20.08, Kontroll person/fordon, Vänersborg",
+    "summary": "En polispatrull stoppar en bil på Edsgatan.",
+    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-20.08-kontroll-personfordon-vanersborg/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Vänersborg",
+      "gps": "58.379728,12.324803"
+    }
+  },
+  {
+    "id": 552138,
+    "datetime": "2024-10-10 18:17:47 +02:00",
+    "name": "10 oktober 17.11, Trafikolycka, Timrå",
+    "summary": "Sörberge, bilist och cyklist inblandade i trafikolycka",
+    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-17.11-trafikolycka-timra/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 552145,
+    "datetime": "2024-10-10 19:53:15 +02:00",
+    "name": "10 oktober 19.47, Trafikolycka, Ljungby",
+    "summary": "Lastbil och minibuss i olycka, Össlöv.",
+    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-19.47-trafikolycka-ljungby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 552147,
+    "datetime": "2024-10-10 20:05:04 +02:00",
+    "name": "10 oktober 19.55, Trafikolycka, Landskrona",
+    "summary": "Personbil i olycka med TMA-skydd, Örja Kyrkby.",
+    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-19.55-trafikolycka-landskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 552146,
+    "datetime": "2024-10-10 19:54:36 +02:00",
+    "name": "10 oktober 18.12, Trafikolycka, Kiruna",
+    "summary": "E45, en bilist har kolliderat med en älg mellan Svappavaara och Vittangi",
+    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-18.12-trafikolycka-kiruna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 552144,
+    "datetime": "2024-10-10 19:45:34 +02:00",
+    "name": "10 oktober 19.39, Brand, Västervik",
+    "summary": "Brand i sjöbod, Eknö.",
+    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-19.39-brand-vastervik/",
+    "type": "Brand",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 552143,
+    "datetime": "2024-10-10 19:44:48 +02:00",
+    "name": "10 oktober 17.51, Brand, Skellefteå",
+    "summary": "Morön, larm om brand i villa",
+    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-17.51-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 552142,
     "datetime": "2024-10-10 18:50:54 +02:00",
     "name": "10 oktober 18.36, Trafikolycka, Malmö",
@@ -45,18 +141,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 552138,
-    "datetime": "2024-10-10 18:17:47 +02:00",
-    "name": "10 oktober 17.11, Trafikolycka, Timrå",
-    "summary": "Sörberge, bilist och cyklist inblandade i trafikolycka",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-17.11-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 551366,
-    "datetime": "2024-10-03 12:55:13 +02:00",
-    "name": "03 oktober 13.00, Övrigt, Västra Götalands län",
-    "summary": "Mellan 13:00 och 15:00 har pressfunktionen möte. Vakthavande befäl kommer under denna tid besvara frågor i mån",
-    "url": "/aktuellt/handelser/2024/oktober/3/03-oktober-13.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 551368,
-    "datetime": "2024-10-03 12:55:10 +02:00",
-    "name": "03 oktober 12.47, Rattfylleri, Örebro",
-    "summary": "Missstänkt påverkad bilist stoppad i Örebro.",
-    "url": "/aktuellt/handelser/2024/oktober/3/03-oktober-12.47-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 551352,
-    "datetime": "2024-10-03 12:46:11 +02:00",
-    "name": "03 oktober 12.30, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/oktober/3/03-oktober-12.30-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 551364,
-    "datetime": "2024-10-03 12:11:58 +02:00",
-    "name": "03 oktober 10.33, Rån, Ystad",
-    "summary": "Kvinna rånad på plånbok",
-    "url": "/aktuellt/handelser/2024/oktober/3/03-oktober-10.33-ran-ystad/",
-    "type": "Rån",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 551228,
-    "datetime": "2024-10-02 9:54:47 +02:00",
-    "name": "02 oktober 04.21, Stöld, försök, Umeå",
-    "summary": "Umeå, polis beordras till Teg med anledning av misstänkt inbrottsförsök i ett garage på Flottargatan",
-    "url": "/aktuellt/handelser/2024/oktober/2/02-oktober-04.21-stold-forsok-umea/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 551355,
-    "datetime": "2024-10-03 11:15:23 +02:00",
-    "name": "03 oktober 08.01, Arbetsplatsolycka, Österåker",
-    "summary": "En man omkom i en arbetsplatsolycka i Rydbo.",
-    "url": "/aktuellt/handelser/2024/oktober/3/03-oktober-08.01-arbetsplatsolycka-osteraker/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Österåker",
-      "gps": "59.500058,18.352485"
-    }
-  },
-  {
-    "id": 551343,
-    "datetime": "2024-10-03 8:18:13 +02:00",
-    "name": "03 oktober 08.12, Trafikolycka, Ljungby",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2024/oktober/3/03-oktober-08.12-trafikolycka-ljungby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
     }
   }
 ]
