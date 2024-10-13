@@ -1,5 +1,101 @@
 [
   {
+    "id": 552357,
+    "datetime": "2024-10-13 6:51:40 +02:00",
+    "name": "13 oktober 05.00, Brand, Kristianstad",
+    "summary": "Kontroll av föremål efter brand, Östra Kaserngatan",
+    "url": "/aktuellt/handelser/2024/oktober/13/13-oktober-05.00-brand-kristianstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 552371,
+    "datetime": "2024-10-13 7:25:28 +02:00",
+    "name": "12 oktober 19.20, Djur, Enköping",
+    "summary": "Djurplågeri, Enköping",
+    "url": "/aktuellt/handelser/2024/oktober/12/12-oktober-19.20-djur-enkoping/",
+    "type": "Djur",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 552370,
+    "datetime": "2024-10-13 7:21:27 +02:00",
+    "name": "12 oktober 17.28, Knivlagen, Enköping",
+    "summary": "Grovt brott mot knivlagen",
+    "url": "/aktuellt/handelser/2024/oktober/12/12-oktober-17.28-knivlagen-enkoping/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 552369,
+    "datetime": "2024-10-13 7:11:14 +02:00",
+    "name": "13 oktober 07.05, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/oktober/13/13-oktober-07.05-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 552368,
+    "datetime": "2024-10-13 7:09:43 +02:00",
+    "name": "12 oktober 15.21, Brand, Uppsala län",
+    "summary": "Allmänfarlig vårdslöshet, Bälinge",
+    "url": "/aktuellt/handelser/2024/oktober/12/12-oktober-15.21-brand-uppsala-lan/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 552366,
+    "datetime": "2024-10-13 7:06:54 +02:00",
+    "name": "13 oktober 07.05, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/oktober/13/13-oktober-07.05-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 552356,
+    "datetime": "2024-10-13 6:59:00 +02:00",
+    "name": "13 oktober 03.07, Farligt föremål, misstänkt, Hässleholm",
+    "summary": "Kontroll av föremål, Hästveda",
+    "url": "/aktuellt/handelser/2024/oktober/13/13-oktober-03.07-farligt-foremal-misstankt-hassleholm/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 552365,
+    "datetime": "2024-10-13 6:48:31 +02:00",
+    "name": "13 oktober 02.32, Rattfylleri, Oskarshamn",
+    "summary": "Man misstänkt för rattfylleri efter fordonskontroll",
+    "url": "/aktuellt/handelser/2024/oktober/13/13-oktober-02.32-rattfylleri-oskarshamn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
     "id": 552364,
     "datetime": "2024-10-13 6:46:03 +02:00",
     "name": "13 oktober 00.23, Misshandel, Karlskrona",
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Värmdö",
       "gps": "59.284612,18.520789"
-    }
-  },
-  {
-    "id": 551646,
-    "datetime": "2024-10-05 21:55:51 +02:00",
-    "name": "05 oktober 21.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-21.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 551647,
-    "datetime": "2024-10-05 21:55:37 +02:00",
-    "name": "05 oktober 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 551650,
-    "datetime": "2024-10-05 21:41:24 +02:00",
-    "name": "05 oktober 21.25, Rattfylleri, Kalmar",
-    "summary": "Vinglig färd",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-21.25-rattfylleri-kalmar/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 551649,
-    "datetime": "2024-10-05 21:11:38 +02:00",
-    "name": "05 oktober 19.32, Narkotikabrott, Nacka",
-    "summary": "Polisen genomför en kontroll med anledning av en misstänkt narkotikaförsäljning.",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-19.32-narkotikabrott-nacka/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 551648,
-    "datetime": "2024-10-05 20:38:49 +02:00",
-    "name": "05 oktober 20.24, Brand, Kalmar",
-    "summary": "Bilbrand",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-20.24-brand-kalmar/",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 551645,
-    "datetime": "2024-10-05 19:45:12 +02:00",
-    "name": "05 oktober 18.05, Misshandel, Lund",
-    "summary": "Bråk i trafiken",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-18.05-misshandel-lund/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 551644,
-    "datetime": "2024-10-05 18:38:31 +02:00",
-    "name": "05 oktober 14.14, Trafikolycka, personskada, Kungälv",
-    "summary": "Tre personbilar har krockat i en trafikljuskorsning vid länsväg 625, Kungälvsmotet.",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-14.14-trafikolycka-personskada-kungalv/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 551640,
-    "datetime": "2024-10-05 18:04:54 +02:00",
-    "name": "05 oktober 16.06, Misshandel, Göteborg",
-    "summary": "Personal på ett gatukök vid Järntorget larmar om att de blivit attackerade av en man.",
-    "url": "/aktuellt/handelser/2024/oktober/5/05-oktober-16.06-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
