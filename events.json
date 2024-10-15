@@ -1,5 +1,101 @@
 [
   {
+    "id": 553568,
+    "datetime": "2024-10-15 8:24:59 +02:00",
+    "name": "15 oktober 06.45, Trafikolycka, singel, Sandviken",
+    "summary": "Bil körde av vägen på E16.",
+    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-06.45-trafikolycka-singel-sandviken/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 553565,
+    "datetime": "2024-10-15 8:19:23 +02:00",
+    "name": "15 oktober 07.52, Trafikolycka, smitning från, Gävle",
+    "summary": "Cyklist påkörd av personbil.",
+    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-07.52-trafikolycka-smitning-fran-gavle/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 553564,
+    "datetime": "2024-10-15 8:15:53 +02:00",
+    "name": "15 oktober 07.28, Trafikolycka, singel, Uppsala",
+    "summary": "Förare till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-07.28-trafikolycka-singel-uppsala/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 553563,
+    "datetime": "2024-10-15 8:11:29 +02:00",
+    "name": "15 oktober 07.48, Trafikolycka, Mora",
+    "summary": "En MC har kolliderat med en traktor vid rondellen Strandgatan/Tingsnäsvägen i Mora.",
+    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-07.48-trafikolycka-mora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 553546,
+    "datetime": "2024-10-15 6:55:57 +02:00",
+    "name": "15 oktober 06.55, Mord/dråp, försök, Sundsvall",
+    "summary": "Höga smällar i bostadsområde i Sundsvall.",
+    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-06.55-morddrap-forsok-sundsvall/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 553560,
+    "datetime": "2024-10-15 7:54:46 +02:00",
+    "name": "15 oktober 07.53, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-07.53-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 553561,
+    "datetime": "2024-10-15 7:53:56 +02:00",
+    "name": "15 oktober 07.53, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-07.53-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 553562,
+    "datetime": "2024-10-15 7:53:38 +02:00",
+    "name": "15 oktober 07.53, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-07.53-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 553559,
     "datetime": "2024-10-15 7:33:06 +02:00",
     "name": "15 oktober 00.01, Rattfylleri, Uppsala",
@@ -177,18 +273,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 553546,
-    "datetime": "2024-10-15 6:55:57 +02:00",
-    "name": "15 oktober 06.55, Vapenlagen, Sundsvall",
-    "summary": "Höga smällar i bostadsområde i Sundsvall.",
-    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-06.55-vapenlagen-sundsvall/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 551834,
-    "datetime": "2024-10-08 7:00:23 +02:00",
-    "name": "08 oktober 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 551837,
-    "datetime": "2024-10-08 6:59:21 +02:00",
-    "name": "08 oktober 06.59, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00-07.00.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-06.59-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 551838,
-    "datetime": "2024-10-08 6:58:58 +02:00",
-    "name": "08 oktober 06.47, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-06.47-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 551839,
-    "datetime": "2024-10-08 6:58:43 +02:00",
-    "name": "08 oktober 06.58, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-06.58-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 551840,
-    "datetime": "2024-10-08 6:58:26 +02:00",
-    "name": "08 oktober 06.58, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-06.58-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 551836,
-    "datetime": "2024-10-08 6:34:48 +02:00",
-    "name": "08 oktober 00.12, Stöld, Helsingborg",
-    "summary": "Stöld av glasögon på Bruksgatan.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-00.12-stold-helsingborg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 551833,
-    "datetime": "2024-10-08 6:24:54 +02:00",
-    "name": "08 oktober 00.54, Brand, Malmö",
-    "summary": "Bilbrand på Västra Skrävlinge Kyrkoväg.",
-    "url": "/aktuellt/handelser/2024/oktober/8/08-oktober-00.54-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
