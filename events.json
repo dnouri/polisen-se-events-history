@@ -1,5 +1,65 @@
 [
   {
+    "id": 553753,
+    "datetime": "2024-10-16 17:21:15 +02:00",
+    "name": "16 oktober 13.23, Stöld, Östersund",
+    "summary": "Odenskogs industriområde, polisen larmas till en butik",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-13.23-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 553752,
+    "datetime": "2024-10-16 17:15:32 +02:00",
+    "name": "16 oktober 15.46, Fylleri/LOB, Sundsvall",
+    "summary": "Centralstationen, polisen stöter på en berusad man",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-15.46-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 553751,
+    "datetime": "2024-10-16 17:15:02 +02:00",
+    "name": "16 oktober 16.50, Försvunnen person, Perstorp",
+    "summary": "Försvunnen kvinna.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-16.50-forsvunnen-person-perstorp/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Perstorp",
+      "gps": "56.137972,13.394986"
+    }
+  },
+  {
+    "id": 553749,
+    "datetime": "2024-10-16 17:09:41 +02:00",
+    "name": "16 oktober 16.01, Skadegörelse, Kungsbacka",
+    "summary": "Inringare till SOS alarm uppger att man hört smällar från en trappuppgång i ett flerfamiljshus.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-16.01-skadegorelse-kungsbacka/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 553746,
+    "datetime": "2024-10-16 17:09:35 +02:00",
+    "name": "16 oktober 15.48, Försvunnen person, Lindesberg",
+    "summary": "Polisen söker en försvunnen person.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-15.48-forsvunnen-person-lindesberg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
     "id": 553740,
     "datetime": "2024-10-16 16:24:26 +02:00",
     "name": "16 oktober 16.20, Trafikolycka, Valdemarsvik",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 552004,
-    "datetime": "2024-10-09 17:26:57 +02:00",
-    "name": "09 oktober 17.00, Trafikkontroll, Umeå",
-    "summary": "Umeå, resultat efter trafikkontroller under eftermiddagen",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-17.00-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 552003,
-    "datetime": "2024-10-09 17:16:47 +02:00",
-    "name": "09 oktober 16.21, Motorfordon, anträffat stulet, Luleå",
-    "summary": "Luleå, tidigare i dag anmäldes att en parkerad bil stulits från en adress",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-16.21-motorfordon-antraffat-stulet-lulea/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 551999,
-    "datetime": "2024-10-09 16:12:06 +02:00",
-    "name": "09 oktober 15.51, Trafikolycka, Hörby",
-    "summary": "Personbil och moped i kollision.",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-15.51-trafikolycka-horby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
-    }
-  },
-  {
-    "id": 552001,
-    "datetime": "2024-10-09 16:28:39 +02:00",
-    "name": "09 oktober 15.16, Trafikolycka, Partille",
-    "summary": "På Utmålsvägen i Partille kolliderar en moped och en personbil.",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-15.16-trafikolycka-partille/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Partille",
-      "gps": "57.73665,12.125197"
-    }
-  },
-  {
-    "id": 551998,
-    "datetime": "2024-10-09 16:13:37 +02:00",
-    "name": "09 oktober 15.04, Trafikolycka, Gävle",
-    "summary": "Trafikolycka utan personskador.",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-15.04-trafikolycka-gavle/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
