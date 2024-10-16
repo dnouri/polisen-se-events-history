@@ -1,5 +1,113 @@
 [
   {
+    "id": 553674,
+    "datetime": "2024-10-16 7:49:24 +02:00",
+    "name": "16 oktober 07.15, Trafikolycka, Ragunda",
+    "summary": "Larm om trafikolycka på väg 768, Dusnäset.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-07.15-trafikolycka-ragunda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ragunda",
+      "gps": "63.061337,16.396683"
+    }
+  },
+  {
+    "id": 553675,
+    "datetime": "2024-10-16 7:37:13 +02:00",
+    "name": "16 oktober 07.21, Trafikolycka, Örebro",
+    "summary": "Man på elsparkcykel påkörd av personbil vid Södermalmsrondellen i Örebro.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-07.21-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 553684,
+    "datetime": "2024-10-16 8:07:06 +02:00",
+    "name": "16 oktober 01.47, Rattfylleri, Örebro",
+    "summary": "Man i 30-årsåldern misstänkt för drograttfylleri på öster i Örebro.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-01.47-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 553683,
+    "datetime": "2024-10-16 8:07:05 +02:00",
+    "name": "16 oktober 08.06, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Flera viltolyckor anmälda till polisens ledninghscentral under morgonen.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-08.06-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 553682,
+    "datetime": "2024-10-16 7:59:11 +02:00",
+    "name": "16 oktober 07.51, Trafikolycka, Bromölla",
+    "summary": "Person och personbil i olycka, Bromölla.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-07.51-trafikolycka-bromolla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Bromölla",
+      "gps": "56.074362,14.477659"
+    }
+  },
+  {
+    "id": 553680,
+    "datetime": "2024-10-16 7:59:01 +02:00",
+    "name": "16 oktober 07.18, Trafikolycka, personskada, Västerås",
+    "summary": "Olycka mellan person på cykel och personbil.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-07.18-trafikolycka-personskada-vasteras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 553681,
+    "datetime": "2024-10-16 7:58:10 +02:00",
+    "name": "16 oktober 00.13, Knivlagen, Örebro",
+    "summary": "Man i 35-årsåldern ertappad med narkotika och kniv på öster i Örebro natten mot onsdag.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-00.13-knivlagen-orebro/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 553673,
+    "datetime": "2024-10-16 7:48:23 +02:00",
+    "name": "16 oktober 07.22, Trafikolycka, vilt, Västmanlands län",
+    "summary": "Stort antal viltolyckor under natten och morgonen.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-07.22-trafikolycka-vilt-vastmanlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 553679,
+    "datetime": "2024-10-16 7:48:07 +02:00",
+    "name": "16 oktober 00.52, Rattfylleri, Karlskoga",
+    "summary": "Kvinna i 25-årsåldern misstänkt för drograttfylleri i Karlskoga.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-00.52-rattfylleri-karlskoga/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
     "id": 553678,
     "datetime": "2024-10-16 7:41:51 +02:00",
     "name": "16 oktober 08.00, Sammanfattning natt, Jönköpings län",
@@ -45,18 +153,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 553675,
-    "datetime": "2024-10-16 7:37:13 +02:00",
-    "name": "16 oktober 07.21, Trafikolycka, Örebro",
-    "summary": "Man på elsparkcykel påkörd av personbil vid Södermalmsrondellen i Örebro.",
-    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-07.21-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 551951,
-    "datetime": "2024-10-09 7:24:46 +02:00",
-    "name": "09 oktober 07.25, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-07.25-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 551950,
-    "datetime": "2024-10-09 7:19:51 +02:00",
-    "name": "09 oktober 07.19, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-07.19-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 551949,
-    "datetime": "2024-10-09 7:19:19 +02:00",
-    "name": "09 oktober 07.18, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-07.18-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 551948,
-    "datetime": "2024-10-09 7:18:46 +02:00",
-    "name": "09 oktober 07.18, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-07.18-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 551946,
-    "datetime": "2024-10-09 7:18:09 +02:00",
-    "name": "09 oktober 07.17, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av polisens arbete klockan 22:00 – 07:00",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-07.17-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 551945,
-    "datetime": "2024-10-09 7:17:26 +02:00",
-    "name": "09 oktober 00.38, Olaga intrång, Stockholm",
-    "summary": "En man frihetsberövades enligt lagen om omhändertagande av berusade personer (LOB) efter att mannen påträffats",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-00.38-olaga-intrang-stockholm/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 551944,
-    "datetime": "2024-10-09 7:14:20 +02:00",
-    "name": "09 oktober 02.11, Stöld, Stockholm",
-    "summary": "En kvinna är misstänkt för att ha stulit paket från en brevbärare på Södermalm.",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-02.11-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 551943,
-    "datetime": "2024-10-09 7:12:14 +02:00",
-    "name": "09 oktober 03.28, Rattfylleri, Stockholm",
-    "summary": "En bilist i city greps misstänkt för trattfylleri. Mannen medtogs för vidare utredning.",
-    "url": "/aktuellt/handelser/2024/oktober/9/09-oktober-03.28-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
