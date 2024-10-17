@@ -1,5 +1,89 @@
 [
   {
+    "id": 553839,
+    "datetime": "2024-10-17 10:24:58 +02:00",
+    "name": "17 oktober 10.18, Trafikolycka, Uppvidinge",
+    "summary": "Personbil i olycka med större vilt, Skruv.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-10.18-trafikolycka-uppvidinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppvidinge",
+      "gps": "57.014575,15.381174"
+    }
+  },
+  {
+    "id": 553835,
+    "datetime": "2024-10-17 10:15:34 +02:00",
+    "name": "17 oktober 08.38, Trafikkontroll, Pajala",
+    "summary": "Resultat efter en trafikkontroll på Tornedalsvägen i Pajala.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-08.38-trafikkontroll-pajala/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 553778,
+    "datetime": "2024-10-16 22:19:01 +02:00",
+    "name": "16 oktober 21.47, Skottlossning, Osby",
+    "summary": "Skadad man anträffad.",
+    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-21.47-skottlossning-osby/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Osby",
+      "gps": "56.381536,13.992941"
+    }
+  },
+  {
+    "id": 553830,
+    "datetime": "2024-10-17 9:36:19 +02:00",
+    "name": "17 oktober 08.44, Stöld, Burlöv",
+    "summary": "Kvinna rånad av mopedist",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-08.44-stold-burlov/",
+    "type": "Stöld",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 553829,
+    "datetime": "2024-10-17 10:01:34 +02:00",
+    "name": "17 oktober 07.53, Trafikkontroll, Umeå",
+    "summary": "Resultat efter en trafikkontroll på E12/Norra länken. I20-området.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-07.53-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 553834,
+    "datetime": "2024-10-17 9:57:30 +02:00",
+    "name": "17 oktober 09.57, Stöld/inbrott, Örebro",
+    "summary": "En restaurang har under morgonen utsatts för en stöld genom inbrott.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-09.57-stoldinbrott-orebro/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 553833,
+    "datetime": "2024-10-17 9:44:36 +02:00",
+    "name": "17 oktober 09.25, Brand, Kumla",
+    "summary": "Det ryker från en adress i Kumla.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-09.25-brand-kumla/",
+    "type": "Brand",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
     "id": 553828,
     "datetime": "2024-10-17 9:42:13 +02:00",
     "name": "17 oktober 07.49, Trafikkontroll, Skellefteå",
@@ -9,18 +93,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 553830,
-    "datetime": "2024-10-17 9:36:19 +02:00",
-    "name": "17 oktober 08.44, Rån, Burlöv",
-    "summary": "Kvinna rånad av mopedist",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-08.44-ran-burlov/",
-    "type": "Rån",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
     }
   },
   {
@@ -393,18 +465,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 553778,
-    "datetime": "2024-10-16 22:19:01 +02:00",
-    "name": "16 oktober 21.47, Skottlossning, Osby",
-    "summary": "Skadad man anträffad.",
-    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-21.47-skottlossning-osby/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 552096,
-    "datetime": "2024-10-10 12:06:09 +02:00",
-    "name": "10 oktober 11.03, Bedrägeri, Nordanstig",
-    "summary": "En äldre man har utsatts för åldringsbedrägeri och blivt av med ett fem siffrigt belopp.",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-11.03-bedrageri-nordanstig/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Nordanstig",
-      "gps": "62.036668,17.205249"
-    }
-  },
-  {
-    "id": 552095,
-    "datetime": "2024-10-10 11:56:35 +02:00",
-    "name": "10 oktober 11.29, Stöld/inbrott, Enköping",
-    "summary": "Stöld inbrott i tre containrar på byggarbetsplats Kungsgatan. Värden för 2-300 000 kronor i form av verktyg ti",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-11.29-stoldinbrott-enkoping/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 552094,
-    "datetime": "2024-10-10 11:46:43 +02:00",
-    "name": "10 oktober 10.19, Trafikolycka, personskada, Enköping",
-    "summary": "En singelolycka med en personbill inträffade på E18 i riktning mot Enköping. I bilen färdades två män i 50-års",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-10.19-trafikolycka-personskada-enkoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 552092,
-    "datetime": "2024-10-10 11:24:58 +02:00",
-    "name": "10 oktober 09.52, Trafikolycka, Karlshamn",
-    "summary": "Lastbil i dike",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-09.52-trafikolycka-karlshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 552075,
-    "datetime": "2024-10-10 9:51:08 +02:00",
-    "name": "10 oktober 09.04, Trafikolycka, personskada, Fagersta",
-    "summary": "En personbill och cyklist har kolliderat vid Bragevägen, cyklisten är förd till sjukhus med ambulans.",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-09.04-trafikolycka-personskada-fagersta/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Fagersta",
-      "gps": "59.989144,15.816642"
     }
   }
 ]
