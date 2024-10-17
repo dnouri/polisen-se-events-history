@@ -1,5 +1,17 @@
 [
   {
+    "id": 553833,
+    "datetime": "2024-10-17 9:44:36 +02:00",
+    "name": "17 oktober 09.25, Brand, Kumla",
+    "summary": "Det ryker från en adress i Kumla.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-09.25-brand-kumla/",
+    "type": "Brand",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
     "id": 553855,
     "datetime": "2024-10-17 13:15:35 +02:00",
     "name": "17 oktober 12.41, Trafikolycka, Eslöv",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Eslöv",
       "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 553856,
+    "datetime": "2024-10-17 13:28:57 +02:00",
+    "name": "17 oktober 11.35, Olaga hot, Södertälje",
+    "summary": "Larm om att en man beter sig hotfullt på ett stödboende.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-11.35-olaga-hot-sodertalje/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 553843,
+    "datetime": "2024-10-17 13:22:27 +02:00",
+    "name": "17 oktober 11.03, Trafikkontroll, Krokom",
+    "summary": "Resultat efter nykterhetskonroll utanför Systembolaget i Krokom.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-11.03-trafikkontroll-krokom/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
     }
   },
   {
@@ -93,18 +129,6 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 553833,
-    "datetime": "2024-10-17 9:44:36 +02:00",
-    "name": "17 oktober 09.25, Brand, Kumla",
-    "summary": "Det ryker från en adress i Kumla.",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-09.25-brand-kumla/",
-    "type": "Brand",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 552110,
-    "datetime": "2024-10-10 14:04:28 +02:00",
-    "name": "10 oktober 12.52, Försvunnen person, Västerås",
-    "summary": "Polisen söker äldre man.",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-12.52-forsvunnen-person-vasteras/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 552121,
-    "datetime": "2024-10-10 14:26:45 +02:00",
-    "name": "10 oktober 10.51, Explosion, Gävle",
-    "summary": "En ung man som är elev på skolan, orsakade en explosion med bangers på Borgarskolan.",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-10.51-explosion-gavle/",
-    "type": "Explosion",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
