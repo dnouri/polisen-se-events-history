@@ -1,5 +1,29 @@
 [
   {
+    "id": 553833,
+    "datetime": "2024-10-17 9:44:36 +02:00",
+    "name": "17 oktober 09.25, Brand, Kumla",
+    "summary": "Det ryker från en adress i Kumla.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-09.25-brand-kumla/",
+    "type": "Brand",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 553845,
+    "datetime": "2024-10-17 11:40:34 +02:00",
+    "name": "17 oktober 10.32, Trafikkontroll, Piteå",
+    "summary": "Resultat efter en trafikkontroll på Bonäsvägen, Öjebyn.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-10.32-trafikkontroll-pitea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
     "id": 553841,
     "datetime": "2024-10-17 10:57:22 +02:00",
     "name": "17 oktober 10.45, Trafikolycka, Kristinehamn",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 553844,
+    "datetime": "2024-10-17 11:35:29 +02:00",
+    "name": "17 oktober 04.57, Mord/dråp, Södertälje",
+    "summary": "En person har fallit från hög höjd och avlidit.",
+    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-04.57-morddrap-sodertalje/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -93,18 +129,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 553833,
-    "datetime": "2024-10-17 9:44:36 +02:00",
-    "name": "17 oktober 09.25, Brand, Kumla",
-    "summary": "Det ryker från en adress i Kumla.",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-09.25-brand-kumla/",
-    "type": "Brand",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 552101,
-    "datetime": "2024-10-10 12:36:54 +02:00",
-    "name": "10 oktober 08.17, Arbetsplatsolycka, Kramfors",
-    "summary": "Docksta, en man ska ha skadat foten under arbete",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-08.17-arbetsplatsolycka-kramfors/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 552100,
-    "datetime": "2024-10-10 12:27:20 +02:00",
-    "name": "10 oktober 10.25, Rattfylleri, Luleå",
-    "summary": "Skutvikens industriområde, vid en trafikkontroll blåser en man positivt i polisens sållningsinstrument",
-    "url": "/aktuellt/handelser/2024/oktober/10/10-oktober-10.25-rattfylleri-lulea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
