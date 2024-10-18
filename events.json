@@ -1,5 +1,29 @@
 [
   {
+    "id": 554007,
+    "datetime": "2024-10-18 19:00:12 +02:00",
+    "name": "18 oktober 16.56, Brand, Strömsund",
+    "summary": "Larm om brand i villa nordväst om Strömsund.",
+    "url": "/aktuellt/handelser/2024/oktober/18/18-oktober-16.56-brand-stromsund/",
+    "type": "Brand",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 554015,
+    "datetime": "2024-10-18 20:40:10 +02:00",
+    "name": "18 oktober 19.01, Trafikkontroll, Lycksele",
+    "summary": "Resultat efter nykterheyskontroll på Storgatan i centrala Lycksele.",
+    "url": "/aktuellt/handelser/2024/oktober/18/18-oktober-19.01-trafikkontroll-lycksele/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
     "id": 554011,
     "datetime": "2024-10-18 20:32:54 +02:00",
     "name": "18 oktober 18.44, Bråk, Göteborg",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 554014,
+    "datetime": "2024-10-18 20:38:37 +02:00",
+    "name": "18 oktober 18.35, Räddningsinsats, Umeå",
+    "summary": "Räddningsinsats i centrala Umeå.",
+    "url": "/aktuellt/handelser/2024/oktober/18/18-oktober-18.35-raddningsinsats-umea/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -69,18 +105,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 554007,
-    "datetime": "2024-10-18 19:00:12 +02:00",
-    "name": "18 oktober 16.56, Brand, Strömsund",
-    "summary": "Larm om brand i villa nordväst om Strömsund.",
-    "url": "/aktuellt/handelser/2024/oktober/18/18-oktober-16.56-brand-stromsund/",
-    "type": "Brand",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 552265,
-    "datetime": "2024-10-11 20:34:16 +02:00",
-    "name": "11 oktober 16.33, Trafikolycka, personskada, Göteborg",
-    "summary": "En personbil har blivit påkörd bakifrån på Skattegårdsgatan.",
-    "url": "/aktuellt/handelser/2024/oktober/11/11-oktober-16.33-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 552256,
-    "datetime": "2024-10-11 18:32:07 +02:00",
-    "name": "11 oktober 17.57, Rattfylleri, Säter",
-    "summary": "En bilist har kört in i en fasad i centrum",
-    "url": "/aktuellt/handelser/2024/oktober/11/11-oktober-17.57-rattfylleri-sater/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Säter",
-      "gps": "60.34665,15.7479"
     }
   }
 ]
