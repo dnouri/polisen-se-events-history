@@ -1,5 +1,53 @@
 [
   {
+    "id": 554063,
+    "datetime": "2024-10-19 14:43:27 +02:00",
+    "name": "19 oktober 11.58, Trafikolycka, Gällivare",
+    "summary": "Trafikolycka på länsväg 828/Messhedsvägen.",
+    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-11.58-trafikolycka-gallivare/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 554048,
+    "datetime": "2024-10-19 9:42:05 +02:00",
+    "name": "19 oktober 09.33, Mord/dråp, försök, Gävle",
+    "summary": "Försök till mord i centrala Gävle",
+    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-09.33-morddrap-forsok-gavle/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 554062,
+    "datetime": "2024-10-19 14:27:16 +02:00",
+    "name": "19 oktober 14.22, Stöld, Eskilstuna",
+    "summary": "Stöld i butik, Eskilstuna.",
+    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-14.22-stold-eskilstuna/",
+    "type": "Stöld",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 554061,
+    "datetime": "2024-10-19 14:22:58 +02:00",
+    "name": "19 oktober 14.22, Brand, Tranås",
+    "summary": "Brand i kolonistuga, Tranås",
+    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-14.22-brand-tranas/",
+    "type": "Brand",
+    "location": {
+      "name": "Tranås",
+      "gps": "58.035518,14.975696"
+    }
+  },
+  {
     "id": 554059,
     "datetime": "2024-10-19 13:16:42 +02:00",
     "name": "19 oktober 13.09, Trafikolycka, Kumla",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Kumla",
       "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 554060,
+    "datetime": "2024-10-19 14:12:46 +02:00",
+    "name": "19 oktober 12.59, Fylleri/LOB, Östersund",
+    "summary": "Berusad kvinna omhändertagen vid Östersundstravet.",
+    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-12.59-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -141,18 +201,6 @@
     "location": {
       "name": "Filipstad",
       "gps": "59.713997,14.169845"
-    }
-  },
-  {
-    "id": 554048,
-    "datetime": "2024-10-19 9:42:05 +02:00",
-    "name": "19 oktober 09.33, Mord/dråp, försök, Gävle",
-    "summary": "Försök till mord i centrala Gävle",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-09.33-morddrap-forsok-gavle/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 552314,
-    "datetime": "2024-10-12 8:14:47 +02:00",
-    "name": "12 oktober 01.39, Ofredande/förargelse, Västerås",
-    "summary": "Sexuellt ofredande, Västerås",
-    "url": "/aktuellt/handelser/2024/oktober/12/12-oktober-01.39-ofredandeforargelse-vasteras/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 552294,
-    "datetime": "2024-10-12 7:45:31 +02:00",
-    "name": "12 oktober 07.45, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/oktober/12/12-oktober-07.45-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 552305,
-    "datetime": "2024-10-12 8:01:51 +02:00",
-    "name": "12 oktober 08.01, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till lördag polisområde Dalarna",
-    "url": "/aktuellt/handelser/2024/oktober/12/12-oktober-08.01-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 552312,
-    "datetime": "2024-10-12 7:58:37 +02:00",
-    "name": "12 oktober 00.00, Knivlagen, Västerås",
-    "summary": "Grovt brott mot knivlagen, Västerås",
-    "url": "/aktuellt/handelser/2024/oktober/12/12-oktober-00.00-knivlagen-vasteras/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
