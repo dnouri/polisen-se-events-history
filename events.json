@@ -1,14 +1,74 @@
 [
   {
-    "id": 554538,
-    "datetime": "2024-10-22 19:40:40 +02:00",
-    "name": "22 oktober 19.09, Trafikbrott, Vilhelmina",
-    "summary": "Volgsjövägen, A-traktor stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-19.09-trafikbrott-vilhelmina/",
+    "id": 554546,
+    "datetime": "2024-10-22 20:29:32 +02:00",
+    "name": "22 oktober 20.26, Övrigt, Strängnäs",
+    "summary": "Larm om hög smäll i Strängnäs.",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-20.26-ovrigt-strangnas/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 554545,
+    "datetime": "2024-10-22 20:21:22 +02:00",
+    "name": "22 oktober 19.59, Misshandel, Eskilstuna",
+    "summary": "Tre gripna efter misstänkt försök till grov misshandel.",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-19.59-misshandel-eskilstuna/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 554544,
+    "datetime": "2024-10-22 20:20:19 +02:00",
+    "name": "22 oktober 20.02, Trafikbrott, Boden",
+    "summary": "Riksväg 97 Sävast, bilist stoppad efter hastighetsöverträdelse",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-20.02-trafikbrott-boden/",
     "type": "Trafikbrott",
     "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 554543,
+    "datetime": "2024-10-22 20:19:48 +02:00",
+    "name": "22 oktober 18.41, Trafikolycka, personskada, Falun",
+    "summary": "En personbilsförare i åttioårsåldern misstänks för vårdslöshet i trafik efter en trafikolycka i Falun.",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-18.41-trafikolycka-personskada-falun/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 554542,
+    "datetime": "2024-10-22 20:17:20 +02:00",
+    "name": "22 oktober 19.18, Stöld, Luleå",
+    "summary": "Skutvikens industriområde, polis beordras till en livsmedelsbutik med anledning av misstänkt ringa stöld",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-19.18-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 554541,
+    "datetime": "2024-10-22 20:14:20 +02:00",
+    "name": "22 oktober 17.34, Brand, Luleå",
+    "summary": "Ersnäs, en bil uppges ha brunnit i ett grustag",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-17.34-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -21,6 +81,42 @@
     "location": {
       "name": "Filipstad",
       "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 554540,
+    "datetime": "2024-10-22 19:48:35 +02:00",
+    "name": "22 oktober 16.37, Stöld, Sundsvall",
+    "summary": "Stenstan, tonåring stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-16.37-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 554539,
+    "datetime": "2024-10-22 19:45:46 +02:00",
+    "name": "22 oktober 15.04, Stöld, Sollefteå",
+    "summary": "Sollefteå, ung person stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-15.04-stold-solleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 554538,
+    "datetime": "2024-10-22 19:40:40 +02:00",
+    "name": "22 oktober 19.09, Trafikbrott, Vilhelmina",
+    "summary": "Volgsjövägen, A-traktor stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-19.09-trafikbrott-vilhelmina/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 553659,
-    "datetime": "2024-10-16 6:29:29 +02:00",
-    "name": "16 oktober 06.27, Misshandel, Åstorp",
-    "summary": "Man gripen, Åstorp.",
-    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-06.27-misshandel-astorp/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 553658,
-    "datetime": "2024-10-16 6:27:39 +02:00",
-    "name": "16 oktober 22.14, Bedrägeri, Malmö",
-    "summary": "Kvinna utsatt, centrum.",
-    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-22.14-bedrageri-malmo/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 553654,
-    "datetime": "2024-10-15 22:02:06 +02:00",
-    "name": "15 oktober 22.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 553655,
-    "datetime": "2024-10-15 22:02:01 +02:00",
-    "name": "15 oktober 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 553647,
-    "datetime": "2024-10-15 20:57:43 +02:00",
-    "name": "15 oktober 20.34, Trafikolycka, Växjö",
-    "summary": "Moped och personbil",
-    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-20.34-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 553653,
-    "datetime": "2024-10-15 21:40:11 +02:00",
-    "name": "15 oktober 19.58, Rattfylleri, Nora",
-    "summary": "Man i fyrtiofemårsåldern misstänkt för rattfylleri.",
-    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-19.58-rattfylleri-nora/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Nora",
-      "gps": "59.519206,15.037867"
-    }
-  },
-  {
-    "id": 553651,
-    "datetime": "2024-10-15 21:32:32 +02:00",
-    "name": "15 oktober 21.32, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-21.32-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 553648,
-    "datetime": "2024-10-15 21:12:32 +02:00",
-    "name": "15 oktober 20.07, Misshandel, Göteborg",
-    "summary": "Polisen larmas om en misshandel vid Södra Dragspelsgatan, Järnbrott. Två män ska ha gett sig på en tredje.",
-    "url": "/aktuellt/handelser/2024/oktober/15/15-oktober-20.07-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
