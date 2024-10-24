@@ -1,11 +1,59 @@
 [
   {
+    "id": 554985,
+    "datetime": "2024-10-24 20:10:29 +02:00",
+    "name": "24 oktober 20.03, Brand, Västervik",
+    "summary": "Brand i flerfamiljshus",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-20.03-brand-vastervik/",
+    "type": "Brand",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 554988,
+    "datetime": "2024-10-24 21:52:57 +02:00",
+    "name": "24 oktober 21.52, Övrigt, Västra Götalands län",
+    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-21.52-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 554987,
+    "datetime": "2024-10-24 21:52:43 +02:00",
+    "name": "24 oktober 21.51, Övrigt, Hallands län",
+    "summary": "Efter kl 22.00 finns ingen presstalesperson i tjänst. Mediatelefonen kopplas då över till RLC (Regionledningsc",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-21.51-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 554984,
+    "datetime": "2024-10-24 20:09:26 +02:00",
+    "name": "24 oktober 19.53, Trafikolycka, Växjö",
+    "summary": "Lastbil + tak",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-19.53-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
     "id": 554981,
     "datetime": "2024-10-24 19:58:35 +02:00",
-    "name": "24 oktober 19.58, Skottlossning, Norrköping",
+    "name": "24 oktober 19.58, Mord/dråp, försök, Norrköping",
     "summary": "Polis larmas om misstänkt skottlossning i centrala staden.",
-    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-19.58-skottlossning-norrkoping/",
-    "type": "Skottlossning",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-19.58-morddrap-forsok-norrkoping/",
+    "type": "Mord/dråp, försök",
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
@@ -21,30 +69,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 554985,
-    "datetime": "2024-10-24 20:10:29 +02:00",
-    "name": "24 oktober 20.03, Brand, Västervik",
-    "summary": "Brand i flerfamiljshus",
-    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-20.03-brand-vastervik/",
-    "type": "Brand",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 554984,
-    "datetime": "2024-10-24 20:09:26 +02:00",
-    "name": "24 oktober 19.53, Trafikolycka, Växjö",
-    "summary": "Lastbil + tak",
-    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-19.53-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Sölvesborg",
       "gps": "56.053743,14.579688"
-    }
-  },
-  {
-    "id": 553906,
-    "datetime": "2024-10-18 6:34:41 +02:00",
-    "name": "18 oktober 02.57, Rattfylleri, Markaryd",
-    "summary": "Misstänkt rattfylleri på E4:an vid Strömsnäsbruk.",
-    "url": "/aktuellt/handelser/2024/oktober/18/18-oktober-02.57-rattfylleri-markaryd/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 553905,
-    "datetime": "2024-10-18 6:28:55 +02:00",
-    "name": "18 oktober 01.29, Misshandel, Vimmerby",
-    "summary": "Misshandel på Storgatan.",
-    "url": "/aktuellt/handelser/2024/oktober/18/18-oktober-01.29-misshandel-vimmerby/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Vimmerby",
-      "gps": "57.669034,15.858857"
     }
   }
 ]
