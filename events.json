@@ -1,5 +1,101 @@
 [
   {
+    "id": 554973,
+    "datetime": "2024-10-24 18:28:09 +02:00",
+    "name": "24 oktober 17.05, Stöld, Umeå",
+    "summary": "Misstänkt ringa stöld i butik i centrala Umeå.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-17.05-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 554972,
+    "datetime": "2024-10-24 18:18:43 +02:00",
+    "name": "24 oktober 17.38, Försvunnen person, Karlskrona",
+    "summary": "Man försvunnen från sjukhuset",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-17.38-forsvunnen-person-karlskrona/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 554971,
+    "datetime": "2024-10-24 18:07:02 +02:00",
+    "name": "24 oktober 16.42, Vapenlagen, Växjö",
+    "summary": "Pistolliknande föremål",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-16.42-vapenlagen-vaxjo/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 554957,
+    "datetime": "2024-10-24 16:07:18 +02:00",
+    "name": "24 oktober 16.02, Trafikolycka, Norrköping",
+    "summary": "Lastbil fast i viadukt.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-16.02-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 554970,
+    "datetime": "2024-10-24 17:57:51 +02:00",
+    "name": "24 oktober 17.03, Trafikolycka, vilt, Lycksele",
+    "summary": "Polisen får in en anmälan om en viltolycka på länsväg 702/länsväg 703, Busjön.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-17.03-trafikolycka-vilt-lycksele/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 554969,
+    "datetime": "2024-10-24 17:57:44 +02:00",
+    "name": "24 oktober 17.24, Kontroll person/fordon, Åstorp",
+    "summary": "Person anträffad skadad",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-17.24-kontroll-personfordon-astorp/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Åstorp",
+      "gps": "56.134262,12.945908"
+    }
+  },
+  {
+    "id": 554968,
+    "datetime": "2024-10-24 17:54:18 +02:00",
+    "name": "24 oktober 16.07, Stöld, Skellefteå",
+    "summary": "Misstänkt ringa stöld i butiker i centrala Skellefteå.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-16.07-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 554967,
+    "datetime": "2024-10-24 17:52:06 +02:00",
+    "name": "24 oktober 16.58, Anträffat gods, Älvsbyn",
+    "summary": "Polispatrull beordras till centrala Älvsbyn där två cyklar som anmälts stulna har hittats.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-16.58-antraffat-gods-alvsbyn/",
+    "type": "Anträffat gods",
+    "location": {
+      "name": "Älvsbyn",
+      "gps": "65.677136,20.992866"
+    }
+  },
+  {
     "id": 554966,
     "datetime": "2024-10-24 17:44:37 +02:00",
     "name": "24 oktober 16.55, Räddningsinsats, Borås",
@@ -93,18 +189,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 554957,
-    "datetime": "2024-10-24 16:07:18 +02:00",
-    "name": "24 oktober 16.02, Trafikolycka, Norrköping",
-    "summary": "Lastbil fast i viadukt.",
-    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-16.02-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 553891,
-    "datetime": "2024-10-17 19:02:09 +02:00",
-    "name": "17 oktober 18.52, Trafikolycka, Malmö",
-    "summary": "En personbil och en skåpbil kolliderar på inre ringvägen i närheten av trafikplats Lindeborg.",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-18.52-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 553888,
-    "datetime": "2024-10-17 18:21:12 +02:00",
-    "name": "17 oktober 18.11, Kontroll person/fordon, Stockholm",
-    "summary": "Ett vittne obeserverar en bilist som framför sitt fordon i G:a stan på ett sätt som gör att man tror att förar",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-18.11-kontroll-personfordon-stockholm/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 553890,
-    "datetime": "2024-10-17 18:38:45 +02:00",
-    "name": "17 oktober 16.29, Stöld, Umeå",
-    "summary": "Väst på stan, polisen uppmärksammas på en man som verkar stjäla ett cykelbatteri",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-16.29-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 553889,
-    "datetime": "2024-10-17 18:21:52 +02:00",
-    "name": "17 oktober 18.18, Sjukdom/olycksfall, Linköping",
-    "summary": "Person anträffad avliden",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-18.18-sjukdomolycksfall-linkoping/",
-    "type": "Sjukdom/olycksfall",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 553886,
-    "datetime": "2024-10-17 17:57:03 +02:00",
-    "name": "17 oktober 15.25, Stöld, försök, Trollhättan",
-    "summary": "En man misstänks ha försökt stjäla en vara inne i en butik.",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-15.25-stold-forsok-trollhattan/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 553885,
-    "datetime": "2024-10-17 17:49:00 +02:00",
-    "name": "17 oktober 17.42, Trafikkontroll, Västernorrlands län",
-    "summary": "Ett urval av polisens arbete i trafiken under dagen",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-17.42-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 553884,
-    "datetime": "2024-10-17 17:35:49 +02:00",
-    "name": "17 oktober 16.36, Fylleri/LOB, Skellefteå",
-    "summary": "Centrum, polisen påträffar två berusade personer",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-16.36-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
