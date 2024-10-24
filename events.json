@@ -1,23 +1,95 @@
 [
   {
-    "id": 554952,
-    "datetime": "2024-10-24 15:38:45 +02:00",
-    "name": "24 oktober 13.14, Olaga hot, Malmö",
-    "summary": "Personal i matbutik som blivit hotad",
-    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-13.14-olaga-hot-malmo/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
     "id": 554949,
     "datetime": "2024-10-24 15:28:05 +02:00",
     "name": "24 oktober 14.52, Trafikolycka, Malmö",
     "summary": "Påkörd person",
     "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-14.52-trafikolycka-malmo/",
     "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 554957,
+    "datetime": "2024-10-24 16:07:18 +02:00",
+    "name": "24 oktober 16.02, Trafikolycka, Norrköping",
+    "summary": "Lastbil fast i viadukt.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-16.02-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 554944,
+    "datetime": "2024-10-24 15:19:18 +02:00",
+    "name": "24 oktober 15.05, Trafikolycka, Norrköping",
+    "summary": "Larm om påkörd person i rondell.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-15.05-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 554956,
+    "datetime": "2024-10-24 15:56:31 +02:00",
+    "name": "24 oktober 14.27, Motorfordon, stöld, Huddinge",
+    "summary": "En person har blivit bestulen på en bil i samband med att denne stannat vid en restaurang.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-14.27-motorfordon-stold-huddinge/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 554955,
+    "datetime": "2024-10-24 15:55:58 +02:00",
+    "name": "24 oktober 13.47, Arbetsplatsolycka, Borås",
+    "summary": "Man skadad i arbetsplatsolycka på slakteri",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-13.47-arbetsplatsolycka-boras/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 554954,
+    "datetime": "2024-10-24 15:46:53 +02:00",
+    "name": "24 oktober 14.03, Arbetsplatsolycka, Gävle",
+    "summary": "Man skadas i arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-14.03-arbetsplatsolycka-gavle/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 554953,
+    "datetime": "2024-10-24 15:46:04 +02:00",
+    "name": "24 oktober 15.22, Rattfylleri, Ängelholm",
+    "summary": "Allmänhet som observerat vinglig färd",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-15.22-rattfylleri-angelholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 554952,
+    "datetime": "2024-10-24 15:38:45 +02:00",
+    "name": "24 oktober 13.14, Olaga hot, Malmö",
+    "summary": "Personal i matbutik som blivit hotad",
+    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-13.14-olaga-hot-malmo/",
+    "type": "Olaga hot",
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
@@ -33,18 +105,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 554944,
-    "datetime": "2024-10-24 15:19:18 +02:00",
-    "name": "24 oktober 15.05, Trafikolycka, Norrköping",
-    "summary": "Larm om påkörd person i rondell.",
-    "url": "/aktuellt/handelser/2024/oktober/24/24-oktober-15.05-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Bollnäs",
       "gps": "61.34838,16.394269"
-    }
-  },
-  {
-    "id": 553876,
-    "datetime": "2024-10-17 16:03:34 +02:00",
-    "name": "17 oktober 13.31, Fylleri/LOB, Örnsköldsvik",
-    "summary": "Gullänget, polisen uppmärksammas på en berusad man",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-13.31-fyllerilob-ornskoldsvik/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 553874,
-    "datetime": "2024-10-17 15:59:53 +02:00",
-    "name": "17 oktober 13.54, Trafikolycka, Halmstad",
-    "summary": "Kollision mellan en personbil och en motorcykel.",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-13.54-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 553873,
-    "datetime": "2024-10-17 15:56:34 +02:00",
-    "name": "17 oktober 15.10, Rattfylleri, Karlstad",
-    "summary": "En man i 20-årsåldern stoppas efter tips och blir misstänkt för drograttfylleri.",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-15.10-rattfylleri-karlstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 553757,
-    "datetime": "2024-10-16 19:17:28 +02:00",
-    "name": "16 oktober 19.15, Försvunnen person, Luleå",
-    "summary": "Polisen söker iakttagelser av en försvunnen man",
-    "url": "/aktuellt/handelser/2024/oktober/16/16-oktober-19.15-forsvunnen-person-lulea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 553865,
-    "datetime": "2024-10-17 15:05:44 +02:00",
-    "name": "17 oktober 14.54, Trafikolycka, Askersund",
-    "summary": "Polisen är på väg till en trafikolycka på länsväg 610.",
-    "url": "/aktuellt/handelser/2024/oktober/17/17-oktober-14.54-trafikolycka-askersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
     }
   }
 ]
