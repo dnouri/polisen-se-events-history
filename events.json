@@ -1,14 +1,38 @@
 [
   {
-    "id": 555093,
-    "datetime": "2024-10-25 16:17:13 +02:00",
-    "name": "25 oktober 13.43, Skadegörelse, Gävle",
-    "summary": "Stenar kastades mot personbilar.",
-    "url": "/aktuellt/handelser/2024/oktober/25/25-oktober-13.43-skadegorelse-gavle/",
-    "type": "Skadegörelse",
+    "id": 555098,
+    "datetime": "2024-10-25 16:37:26 +02:00",
+    "name": "25 oktober 13.51, Arbetsplatsolycka, Sala",
+    "summary": "En person klämd mellan arbetsfordon och travers.",
+    "url": "/aktuellt/handelser/2024/oktober/25/25-oktober-13.51-arbetsplatsolycka-sala/",
+    "type": "Arbetsplatsolycka",
     "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
+    }
+  },
+  {
+    "id": 555059,
+    "datetime": "2024-10-25 12:44:11 +02:00",
+    "name": "25 oktober 11.34, Trafikolycka, Kungsbacka",
+    "summary": "En lastbil har kolliderat med ett TMA-fordon på E6, södergående i höjd med Arendal.",
+    "url": "/aktuellt/handelser/2024/oktober/25/25-oktober-11.34-trafikolycka-kungsbacka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 555097,
+    "datetime": "2024-10-25 16:35:29 +02:00",
+    "name": "25 oktober 15.43, Trafikolycka, Göteborg",
+    "summary": "På E6, strax söder om Backadalsmotet i norrgående färdriktning, är en lastbil och en personbil involverade i e",
+    "url": "/aktuellt/handelser/2024/oktober/25/25-oktober-15.43-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 555093,
+    "datetime": "2024-10-25 16:17:13 +02:00",
+    "name": "25 oktober 13.43, Skadegörelse, Gävle",
+    "summary": "Stenar kastades mot personbilar.",
+    "url": "/aktuellt/handelser/2024/oktober/25/25-oktober-13.43-skadegorelse-gavle/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -57,18 +93,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 555059,
-    "datetime": "2024-10-25 12:44:11 +02:00",
-    "name": "25 oktober 11.34, Trafikolycka, Kungsbacka",
-    "summary": "En lastbil har kolliderat med ett TMA-fordon på E6, södergående i höjd med Arendal.",
-    "url": "/aktuellt/handelser/2024/oktober/25/25-oktober-11.34-trafikolycka-kungsbacka/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 553995,
-    "datetime": "2024-10-18 16:47:42 +02:00",
-    "name": "18 oktober 16.21, Trafikolycka, Östersund",
-    "summary": "Larm om trafikolycka vid Trafikplats Odenskog.",
-    "url": "/aktuellt/handelser/2024/oktober/18/18-oktober-16.21-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 553998,
-    "datetime": "2024-10-18 17:25:26 +02:00",
-    "name": "18 oktober 16.25, Trafikolycka, Örnsköldsvik",
-    "summary": "Larm om trafikolycka på Valhallavägen/Vikingagatan, Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2024/oktober/18/18-oktober-16.25-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
