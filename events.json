@@ -1,5 +1,65 @@
 [
   {
+    "id": 555187,
+    "datetime": "2024-10-26 14:37:28 +02:00",
+    "name": "26 oktober 14.01, Trafikolycka, Kungsbacka",
+    "summary": "Polisen får samtal om en bil som kör vingligt, från E6 i riktning Kungsbacka centrum.",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-14.01-trafikolycka-kungsbacka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 555186,
+    "datetime": "2024-10-26 14:33:46 +02:00",
+    "name": "26 oktober 14.33, Trafikolycka, Kinda",
+    "summary": "Bilist körde in i vägräcke på riksväg 34 utanför Kisa.",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-14.33-trafikolycka-kinda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kinda",
+      "gps": "57.997571,15.685223"
+    }
+  },
+  {
+    "id": 555185,
+    "datetime": "2024-10-26 14:22:23 +02:00",
+    "name": "26 oktober 13.09, Brand, Umeå",
+    "summary": "Röbäck, polis kontaktas gällande lastpallar som brunnit vid Västra länken",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-13.09-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 555184,
+    "datetime": "2024-10-26 14:17:40 +02:00",
+    "name": "26 oktober 13.05, Trafikolycka, singel, Lycksele",
+    "summary": "Norr om Vänjaurbäck, singelolycka på länsväg 353",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-13.05-trafikolycka-singel-lycksele/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 555183,
+    "datetime": "2024-10-26 14:15:04 +02:00",
+    "name": "26 oktober 12.53, Trafikbrott, Skellefteå",
+    "summary": "Länsväg 364/768 Lappvattnet, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-12.53-trafikbrott-skelleftea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 555174,
     "datetime": "2024-10-26 12:41:32 +02:00",
     "name": "26 oktober 12.34, Trafikolycka, Helsingborg",
@@ -9,6 +69,30 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 555182,
+    "datetime": "2024-10-26 14:10:54 +02:00",
+    "name": "26 oktober 12.43, Trafikolycka, singel, Jokkmokk",
+    "summary": "E45 norr om Jokkmokk, en bilist har kört av vägen",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-12.43-trafikolycka-singel-jokkmokk/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Jokkmokk",
+      "gps": "66.606961,19.822921"
+    }
+  },
+  {
+    "id": 555181,
+    "datetime": "2024-10-26 14:05:36 +02:00",
+    "name": "26 oktober 11.59, Arbetsplatsolycka, Boden",
+    "summary": "Norra Svartbyn, man skadad i samband med arbete",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-11.59-arbetsplatsolycka-boden/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
     }
   },
   {
@@ -33,6 +117,30 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 555180,
+    "datetime": "2024-10-26 13:54:21 +02:00",
+    "name": "26 oktober 13.07, Trafikolycka, singel, Arvidsjaur",
+    "summary": "Söder om Abborrträsk, bilist har kört av vägen och ner i dike",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-13.07-trafikolycka-singel-arvidsjaur/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Arvidsjaur",
+      "gps": "65.592077,19.180283"
+    }
+  },
+  {
+    "id": 555179,
+    "datetime": "2024-10-26 13:50:31 +02:00",
+    "name": "26 oktober 11.39, Trafikolycka, personskada, Tierp",
+    "summary": "Två personer på cross i kollision med varandra.",
+    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-11.39-trafikolycka-personskada-tierp/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Tierp",
+      "gps": "60.347587,17.520509"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 554089,
-    "datetime": "2024-10-20 6:38:57 +02:00",
-    "name": "19 oktober 23.44, Trafikolycka, Torsås",
-    "summary": "Rattfylleri",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-23.44-trafikolycka-torsas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Torsås",
-      "gps": "56.412638,15.998275"
-    }
-  },
-  {
-    "id": 554088,
-    "datetime": "2024-10-20 6:35:09 +02:00",
-    "name": "20 oktober 01.21, Misshandel, Växjö",
-    "summary": "Misshandel utomhus",
-    "url": "/aktuellt/handelser/2024/oktober/20/20-oktober-01.21-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 554084,
-    "datetime": "2024-10-19 22:15:02 +02:00",
-    "name": "19 oktober 22.11, Explosion, Luleå",
-    "summary": "Höga smällar i centrala Luleå",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-22.11-explosion-lulea/",
-    "type": "Explosion",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 554080,
-    "datetime": "2024-10-19 22:05:38 +02:00",
-    "name": "19 oktober 22.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 554081,
-    "datetime": "2024-10-19 22:05:19 +02:00",
-    "name": "19 oktober 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 554079,
-    "datetime": "2024-10-19 19:57:34 +02:00",
-    "name": "19 oktober 17.32, Försvunnen person, Nybro",
-    "summary": "Den man som anmäldes försvunnen på lördagen hittades strax innan klockan 22.",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-17.32-forsvunnen-person-nybro/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 554083,
-    "datetime": "2024-10-19 21:06:03 +02:00",
-    "name": "19 oktober 18.31, Trafikolycka, Uddevalla",
-    "summary": "En personbil kör av vägen på länsväg 668, Forshälla.",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-18.31-trafikolycka-uddevalla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Uddevalla",
-      "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 554082,
-    "datetime": "2024-10-19 20:47:57 +02:00",
-    "name": "19 oktober 20.25, Trafikolycka, Växjö",
-    "summary": "En trafikolycka inträffar på riksväg 30 söder om Lammhult.",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-20.25-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 554077,
-    "datetime": "2024-10-19 19:04:22 +02:00",
-    "name": "19 oktober 18.41, Misshandel, Järfälla",
-    "summary": "En kvinna som blir slagen av sin sambo ringer och behöver hjälp av polis.",
-    "url": "/aktuellt/handelser/2024/oktober/19/19-oktober-18.41-misshandel-jarfalla/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
     }
   }
 ]
