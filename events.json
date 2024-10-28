@@ -1,5 +1,29 @@
 [
   {
+    "id": 555295,
+    "datetime": "2024-10-28 10:25:00 +01:00",
+    "name": "28 oktober 10.08, Räddningsinsats, Södertälje",
+    "summary": "Polisen genomför en insats på järnvägsspåren i Södertälje. Därför har den spårbundna trafiken förbi station Sö",
+    "url": "/aktuellt/handelser/2024/oktober/28/28-oktober-10.08-raddningsinsats-sodertalje/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 555286,
+    "datetime": "2024-10-28 9:15:48 +01:00",
+    "name": "28 oktober 07.44, Trafikolycka, Örebro",
+    "summary": "Kollision lastbil/cyklist vid korsningen Karosserigatan och Skottvägen i området Bettorp.",
+    "url": "/aktuellt/handelser/2024/oktober/28/28-oktober-07.44-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 555291,
     "datetime": "2024-10-28 9:42:46 +01:00",
     "name": "28 oktober 07.46, Trafikolycka, Sundsvall",
@@ -33,18 +57,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 555286,
-    "datetime": "2024-10-28 9:15:48 +01:00",
-    "name": "28 oktober 07.44, Trafikolycka, Örebro",
-    "summary": "Kollision lastbil/cyklist vid korsningen Karosserigatan och Skottvägen i området Bettorp.",
-    "url": "/aktuellt/handelser/2024/oktober/28/28-oktober-07.44-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -350,10 +362,10 @@
   {
     "id": 555249,
     "datetime": "2024-10-27 19:41:11 +01:00",
-    "name": "27 oktober 23.50, Övrigt, Göteborg",
+    "name": "27 oktober 23.50, Mord/dråp, försök, Göteborg",
     "summary": "Mordförsök, Kärra",
-    "url": "/aktuellt/handelser/2024/oktober/27/27-oktober-23.50-ovrigt-goteborg/",
-    "type": "Övrigt",
+    "url": "/aktuellt/handelser/2024/oktober/27/27-oktober-23.50-morddrap-forsok-goteborg/",
+    "type": "Mord/dråp, försök",
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 554353,
-    "datetime": "2024-10-21 17:10:03 +02:00",
-    "name": "21 oktober 13.07, Inbrott, Stockholm",
-    "summary": "Bostadsinbrott i Fruängen.",
-    "url": "/aktuellt/handelser/2024/oktober/21/21-oktober-13.07-inbrott-stockholm/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
