@@ -1,14 +1,74 @@
 [
   {
+    "id": 555471,
+    "datetime": "2024-10-29 13:34:22 +01:00",
+    "name": "29 oktober 11.54, Trafikkontroll, Krokom",
+    "summary": "Nälden, resultat efter trafikkontroll vid länsväg 619",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-11.54-trafikkontroll-krokom/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 555470,
+    "datetime": "2024-10-29 13:25:36 +01:00",
+    "name": "29 oktober 11.18, Trafikkontroll, Strömsund",
+    "summary": "Kyrktåsjö, resultat efter trafikkontroll vid länsväg 998",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-11.18-trafikkontroll-stromsund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 555469,
+    "datetime": "2024-10-29 13:24:14 +01:00",
+    "name": "29 oktober 11.00, Trafikkontroll, Vännäs",
+    "summary": "Vännäsby, resultat efter trafikkontroller",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-112.00-trafikkontroll-vannas/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Vännäs",
+      "gps": "63.908007,19.752965"
+    }
+  },
+  {
     "id": 555460,
     "datetime": "2024-10-29 12:15:19 +01:00",
-    "name": "29 oktober 10.22, Övrigt, Mellerud",
+    "name": "29 oktober 10.22, Mord/dråp, försök, Mellerud",
     "summary": "Polis larmas till en adress i centrala Mellerud med anledning av att ett grovt brott begåtts.",
-    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-10.22-ovrigt-mellerud/",
-    "type": "Övrigt",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-10.22-morddrap-forsok-mellerud/",
+    "type": "Mord/dråp, försök",
     "location": {
       "name": "Mellerud",
       "gps": "58.702568,12.451842"
+    }
+  },
+  {
+    "id": 555358,
+    "datetime": "2024-10-28 17:42:08 +01:00",
+    "name": "28 oktober 17.34, Försvunnen person, Boxholm",
+    "summary": "Ett äldre par saknas efter svamputflykt.",
+    "url": "/aktuellt/handelser/2024/oktober/28/28-oktober-17.34-forsvunnen-person-boxholm/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Boxholm",
+      "gps": "58.197099,15.053779"
+    }
+  },
+  {
+    "id": 555420,
+    "datetime": "2024-10-29 12:53:45 +01:00",
+    "name": "29 oktober 07.27, Stöld/inbrott, Hofors",
+    "summary": "Inbrott i flera företagslokaler.",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-07.27-stoldinbrott-hofors/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Hofors",
+      "gps": "60.54595,16.2841"
     }
   },
   {
@@ -93,18 +153,6 @@
     "location": {
       "name": "Vännäs",
       "gps": "63.908007,19.752965"
-    }
-  },
-  {
-    "id": 555358,
-    "datetime": "2024-10-28 17:42:08 +01:00",
-    "name": "28 oktober 17.34, Försvunnen person, Boxholm",
-    "summary": "Ett äldre par saknas efter svamputflykt.",
-    "url": "/aktuellt/handelser/2024/oktober/28/28-oktober-17.34-forsvunnen-person-boxholm/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Boxholm",
-      "gps": "58.197099,15.053779"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 554538,
-    "datetime": "2024-10-22 19:40:40 +02:00",
-    "name": "22 oktober 19.09, Trafikbrott, Vilhelmina",
-    "summary": "Volgsjövägen, A-traktor stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-19.09-trafikbrott-vilhelmina/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 554536,
-    "datetime": "2024-10-22 18:37:00 +02:00",
-    "name": "22 oktober 17.16, Misshandel, Malmö",
-    "summary": "Skadad man, Holma.",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-17.16-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 554535,
-    "datetime": "2024-10-22 18:36:35 +02:00",
-    "name": "22 oktober 16.39, Trafikolycka, Ängelholm",
-    "summary": "En trafikolycka mellan två personbilar inträffar på Ängelholmsvägen.",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-16.39-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 554517,
-    "datetime": "2024-10-22 17:22:16 +02:00",
-    "name": "22 oktober 16.13, Försvunnen person, Falun",
-    "summary": "Polisen söker en försvunnen person i Falun.",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-16.13-forsvunnen-person-falun/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   }
 ]
