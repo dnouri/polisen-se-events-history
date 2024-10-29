@@ -1,5 +1,65 @@
 [
   {
+    "id": 555418,
+    "datetime": "2024-10-29 7:44:17 +01:00",
+    "name": "29 oktober 03.31, Brand, Håbo",
+    "summary": "Sovande lastbilsförare upptäckte brand i fordonet.",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-03.31-brand-habo/",
+    "type": "Brand",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
+    "id": 555409,
+    "datetime": "2024-10-29 7:42:02 +01:00",
+    "name": "29 oktober 07.41, Sammanfattning natt, Jönköpings län",
+    "summary": "Sammanfattning av nattens händelser i Jönköpings län.",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-07.41-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 555410,
+    "datetime": "2024-10-29 7:41:44 +01:00",
+    "name": "29 oktober 07.41, Sammanfattning natt, Östergötlands län",
+    "summary": "Sammanfattning av nattens händelser i Östergötlands län.",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-07.41-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 555416,
+    "datetime": "2024-10-29 7:41:35 +01:00",
+    "name": "29 oktober 07.41, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av nattens händelser i Södermanlands län.",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-07.41-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 555406,
+    "datetime": "2024-10-29 7:36:42 +01:00",
+    "name": "29 oktober 07.30, Sammanfattning natt, Västerbottens län",
+    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2024/oktober/29/29-oktober-07.30-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 555414,
     "datetime": "2024-10-29 7:34:11 +01:00",
     "name": "29 oktober 07.33, Sammanfattning natt, Örebro län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 554435,
-    "datetime": "2024-10-22 13:10:57 +02:00",
-    "name": "22 oktober 10.22, Trafikkontroll, Arjeplog",
-    "summary": "Slagnäs, gott resultat från trafikkontroll.",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-10.22-trafikkontroll-arjeplog/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Arjeplog",
-      "gps": "66.051505,17.890054"
-    }
-  },
-  {
-    "id": 554434,
-    "datetime": "2024-10-22 12:44:15 +02:00",
-    "name": "22 oktober 11.12, Trafikolycka, personskada, Kungsbacka",
-    "summary": "På Tostaredsvägen i Fjärås är det en bilist som kolliderar med en lastbilschaufför.",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-11.12-trafikolycka-personskada-kungsbacka/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 554433,
-    "datetime": "2024-10-22 12:04:17 +02:00",
-    "name": "22 oktober 09.59, Narkotikabrott, Östersund",
-    "summary": "Östersund, person har misstänkt narkotika med sig.",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-09.59-narkotikabrott-ostersund/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 554431,
-    "datetime": "2024-10-22 11:21:49 +02:00",
-    "name": "22 oktober 11.05, Trafikolycka, Ängelholm",
-    "summary": "Personbil i mitträcke",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-11.05-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 554430,
-    "datetime": "2024-10-22 11:18:33 +02:00",
-    "name": "22 oktober 11.03, Trafikolycka, Landskrona",
-    "summary": "Personbil och A-traktor",
-    "url": "/aktuellt/handelser/2024/oktober/22/22-oktober-11.03-trafikolycka-landskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
     }
   }
 ]
