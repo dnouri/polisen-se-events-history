@@ -1,5 +1,65 @@
 [
   {
+    "id": 555994,
+    "datetime": "2024-11-02 12:40:50 +01:00",
+    "name": "02 november 12.11, Trafikolycka, Växjö",
+    "summary": "Larm om påkörd person, centrum.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-12.11-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 555993,
+    "datetime": "2024-11-02 12:36:02 +01:00",
+    "name": "02 november 11.52, Stöld/inbrott, Kristianstad",
+    "summary": "Inbrott i förråd, Kristianstad.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-11.52-stoldinbrott-kristianstad/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 555986,
+    "datetime": "2024-11-02 11:12:10 +01:00",
+    "name": "02 november 10.35, Brand, Borås",
+    "summary": "SOS larmas om en brand i ett flerfamiljshus.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-10.35-brand-boras/",
+    "type": "Brand",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 555992,
+    "datetime": "2024-11-02 12:26:44 +01:00",
+    "name": "02 november 11.45, Trafikolycka, Uppsala",
+    "summary": "Kvinna till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-11.45-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 555991,
+    "datetime": "2024-11-02 12:24:49 +01:00",
+    "name": "02 november 10.41, Brand, Umeå",
+    "summary": "Brand i bostad på Sofiehem i Umeå.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-10.41-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 555990,
     "datetime": "2024-11-02 12:17:25 +01:00",
     "name": "02 november 12.16, Kontroll person/fordon, Jönköping",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Rättvik",
       "gps": "60.889025,15.123373"
-    }
-  },
-  {
-    "id": 555986,
-    "datetime": "2024-11-02 11:12:10 +01:00",
-    "name": "02 november 10.35, Brand, Borås",
-    "summary": "SOS larmas om en brand i ett flerfamiljshus.",
-    "url": "/aktuellt/handelser/2024/november/2/02-november-10.35-brand-boras/",
-    "type": "Brand",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 555168,
-    "datetime": "2024-10-26 12:15:13 +02:00",
-    "name": "26 oktober 07.17, Övrigt, Göteborg",
-    "summary": "En person misstänks för våldsamt motstånd och narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-07.17-ovrigt-goteborg/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 555167,
-    "datetime": "2024-10-26 11:28:30 +02:00",
-    "name": "26 oktober 11.25, Stöld/inbrott, Örebro",
-    "summary": "Inbrott i bostad i Örebro.",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-11.25-stoldinbrott-orebro/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 555165,
-    "datetime": "2024-10-26 11:12:50 +02:00",
-    "name": "26 oktober 07.55, Rattfylleri, Ystad",
-    "summary": "Misstänkt påverkad förare stoppad på Österleden.",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-07.55-rattfylleri-ystad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 555166,
-    "datetime": "2024-10-26 10:51:49 +02:00",
-    "name": "26 oktober 10.50, Narkotikabrott, Hedemora",
-    "summary": "Man och kvinna misstänkta för brott.",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-10.50-narkotikabrott-hedemora/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Hedemora",
-      "gps": "60.277545,15.985892"
     }
   }
 ]
