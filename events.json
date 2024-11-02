@@ -1,5 +1,101 @@
 [
   {
+    "id": 556000,
+    "datetime": "2024-11-02 13:44:03 +01:00",
+    "name": "02 november 12.41, Djur, Sjöbo",
+    "summary": "Jaktbrott, Fränninge.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-12.41-djur-sjobo/",
+    "type": "Djur",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 555999,
+    "datetime": "2024-11-02 13:40:23 +01:00",
+    "name": "02 november 12.02, Inbrott, Sundsvall",
+    "summary": "Inbrott i företagslokaler i Kvissleby.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-12.02-inbrott-sundsvall/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 555929,
+    "datetime": "2024-11-01 18:59:05 +01:00",
+    "name": "01 november 18.40, Försvunnen person, Strängnäs",
+    "summary": "Polisen söker försvunnen person",
+    "url": "/aktuellt/handelser/2024/november/1/01-november-18.40-forsvunnen-person-strangnas/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 555998,
+    "datetime": "2024-11-02 13:26:21 +01:00",
+    "name": "02 november 11.15, Mord/dråp, Lund",
+    "summary": "Misstänkt mord på kvinna, Lund.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-11.15-morddrap-lund/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 555997,
+    "datetime": "2024-11-02 13:16:43 +01:00",
+    "name": "02 november 12.47, Trafikhinder, Stockholm",
+    "summary": "Polisen har tillfälligtvis stoppat trafiken på väg ned i Klaratunneln i sydlig riktning från Sveavägen.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-12.47-trafikhinder-stockholm/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 555987,
+    "datetime": "2024-11-02 11:35:17 +01:00",
+    "name": "02 november 11.26, Brand, Rättvik",
+    "summary": "Det brinner på två balkonger i Nittsjö",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-11.26-brand-rattvik/",
+    "type": "Brand",
+    "location": {
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
+    "id": 555996,
+    "datetime": "2024-11-02 13:03:00 +01:00",
+    "name": "02 november 09.53, Rattfylleri, Härnösand",
+    "summary": "Misstänkt rattfylleri på länsväg 718 utanför Härnösand.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-09.53-rattfylleri-harnosand/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 555995,
+    "datetime": "2024-11-02 12:57:43 +01:00",
+    "name": "02 november 10.11, Brand, Umeå",
+    "summary": "Lägenhetsbrand på Tomtebo i Umeå.",
+    "url": "/aktuellt/handelser/2024/november/2/02-november-10.11-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 555994,
     "datetime": "2024-11-02 12:40:50 +01:00",
     "name": "02 november 12.11, Trafikolycka, Växjö",
@@ -96,18 +192,6 @@
     }
   },
   {
-    "id": 555987,
-    "datetime": "2024-11-02 11:35:17 +01:00",
-    "name": "02 november 11.26, Brand, Rättvik",
-    "summary": "Det brinner på två balkonger i Nittsjö",
-    "url": "/aktuellt/handelser/2024/november/2/02-november-11.26-brand-rattvik/",
-    "type": "Brand",
-    "location": {
-      "name": "Rättvik",
-      "gps": "60.889025,15.123373"
-    }
-  },
-  {
     "id": 555980,
     "datetime": "2024-11-02 8:53:21 +01:00",
     "name": "02 november 08.44, Brand, Rättvik",
@@ -177,18 +261,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 555929,
-    "datetime": "2024-11-01 18:59:05 +01:00",
-    "name": "01 november 18.40, Försvunnen person, Strängnäs",
-    "summary": "Polisen söker försvunnen person",
-    "url": "/aktuellt/handelser/2024/november/1/01-november-18.40-forsvunnen-person-strangnas/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Vännäs",
       "gps": "63.908007,19.752965"
-    }
-  },
-  {
-    "id": 555176,
-    "datetime": "2024-10-26 12:48:57 +02:00",
-    "name": "26 oktober 10.50, Trafikolycka, singel, Östersund",
-    "summary": "Riksväg 87, en bilist har kört av vägen och voltat",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-10.50-trafikolycka-singel-ostersund/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 555175,
-    "datetime": "2024-10-26 12:42:52 +02:00",
-    "name": "26 oktober 10.39, Rattfylleri, Sollefteå",
-    "summary": "Sollefteå, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-10.39-rattfylleri-solleftea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 555173,
-    "datetime": "2024-10-26 12:40:07 +02:00",
-    "name": "26 oktober 09.13, Trafikkontroll, Sundsvall",
-    "summary": "Länsväg 556 Ovansjö, resultat efter nykterhetskontroll i trafiken",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-09.13-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 555172,
-    "datetime": "2024-10-26 12:35:54 +02:00",
-    "name": "26 oktober 09.52, Fylleri/LOB, Sundsvall",
-    "summary": "Stenstan, två personer kontrolleras av polis",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-09.52-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 555170,
-    "datetime": "2024-10-26 12:26:25 +02:00",
-    "name": "26 oktober 10.17, Rattfylleri, Hofors",
-    "summary": "Påverkad man körde bil utan körkort.",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-10.17-rattfylleri-hofors/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Hofors",
-      "gps": "60.54595,16.2841"
-    }
-  },
-  {
-    "id": 555169,
-    "datetime": "2024-10-26 12:22:05 +02:00",
-    "name": "26 oktober 12.00, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/oktober/26/26-oktober-12.00-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
