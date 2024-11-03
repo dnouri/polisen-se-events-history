@@ -1,5 +1,53 @@
 [
   {
+    "id": 556048,
+    "datetime": "2024-11-03 13:57:56 +01:00",
+    "name": "03 november 13.51, Trafikolycka, personskada, Botkyrka",
+    "summary": "Enligt initiala uppgifter har flera fordon sammanstött på E4 i nordlig riktning invid tpl Hallunda. Enligt upp",
+    "url": "/aktuellt/handelser/2024/november/3/03-november-13.51-trafikolycka-personskada-botkyrka/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 556049,
+    "datetime": "2024-11-03 14:00:14 +01:00",
+    "name": "03 november 13.32, Trafikolycka, Umeå",
+    "summary": "Flera fordon i olycka på E4 Sävar.",
+    "url": "/aktuellt/handelser/2024/november/3/03-november-13.32-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 555799,
+    "datetime": "2024-10-31 16:29:55 +01:00",
+    "name": "31 oktober 11.57, Trafikolycka, Storuman",
+    "summary": "Trafikolycka på E12 Mjölkbäcken, Hemavan.",
+    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-112.57-trafikolycka-storuman/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 556047,
+    "datetime": "2024-11-03 13:47:00 +01:00",
+    "name": "03 november 12.54, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på E4/Rönnäsvägen, Sävar.",
+    "url": "/aktuellt/handelser/2024/november/3/03-november-12.54-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 556043,
     "datetime": "2024-11-03 10:56:54 +01:00",
     "name": "03 november 10.28, Trafikolycka, Östersund",
@@ -2409,18 +2457,6 @@
     "location": {
       "name": "Lycksele",
       "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 555799,
-    "datetime": "2024-10-31 16:29:55 +01:00",
-    "name": "31 oktober 11.57, Trafikolycka, Storuman",
-    "summary": "Trafikolycka på E12 Mjölkbäcken, Hemavan.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-112.57-trafikolycka-storuman/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Storuman",
-      "gps": "65.09562,17.112277"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 555225,
-    "datetime": "2024-10-27 8:05:25 +01:00",
-    "name": "27 oktober 08.00, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2024/oktober/27/27-oktober-08.00-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 555224,
-    "datetime": "2024-10-27 8:00:47 +01:00",
-    "name": "27 oktober 07.59, Sammanfattning natt, Örebro län",
-    "summary": "Natt till söndag i polisområde Örebro.",
-    "url": "/aktuellt/handelser/2024/oktober/27/27-oktober-07.59-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 555214,
-    "datetime": "2024-10-27 8:00:30 +01:00",
-    "name": "27 oktober 07.59, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2024/oktober/27/27-oktober-07.59-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
