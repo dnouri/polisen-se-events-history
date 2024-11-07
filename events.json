@@ -1,5 +1,65 @@
 [
   {
+    "id": 556600,
+    "datetime": "2024-11-07 19:08:22 +01:00",
+    "name": "07 november 18.07, Stöld, Södertälje",
+    "summary": "Polis larmas till en butik i centrala Södertälje med anledning av någon stulit ett smycke.",
+    "url": "/aktuellt/handelser/2024/november/7/07-november-18.07-stold-sodertalje/",
+    "type": "Stöld",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 556573,
+    "datetime": "2024-11-07 15:24:27 +01:00",
+    "name": "07 november 14.19, Arbetsplatsolycka, Svalöv",
+    "summary": "Larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2024/november/7/07-november-14.19-arbetsplatsolycka-svalov/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Svalöv",
+      "gps": "55.91293,13.101817"
+    }
+  },
+  {
+    "id": 556599,
+    "datetime": "2024-11-07 18:56:58 +01:00",
+    "name": "07 november 16.22, Brand, Stockholm",
+    "summary": "Det har brunnit i en lägenhet i Tensta.",
+    "url": "/aktuellt/handelser/2024/november/7/07-november-16.22-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 556598,
+    "datetime": "2024-11-07 18:56:05 +01:00",
+    "name": "07 november 18.47, Trafikolycka, Skövde",
+    "summary": "En cyklist och en person på en elsparkcykel är involverade i en olycka på Lillegårdsvägen.",
+    "url": "/aktuellt/handelser/2024/november/7/07-november-18.47-trafikolycka-skovde/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
+    "id": 556597,
+    "datetime": "2024-11-07 18:50:46 +01:00",
+    "name": "07 november 18.06, Trafikolycka, Falkenberg",
+    "summary": "Föraren av en personbil har kolliderat med ett träd längs länsväg 752.",
+    "url": "/aktuellt/handelser/2024/november/7/07-november-18.06-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
     "id": 556596,
     "datetime": "2024-11-07 18:34:14 +01:00",
     "name": "07 november 15.11, Rattfylleri, Östersund",
@@ -177,18 +237,6 @@
     "location": {
       "name": "Gävle",
       "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 556573,
-    "datetime": "2024-11-07 15:24:27 +01:00",
-    "name": "07 november 14.19, Arbetsplatsolycka, Svalöv",
-    "summary": "Larm om misstänkt arbetsplatsolycka",
-    "url": "/aktuellt/handelser/2024/november/7/07-november-14.19-arbetsplatsolycka-svalov/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Svalöv",
-      "gps": "55.91293,13.101817"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 555758,
-    "datetime": "2024-10-31 13:08:04 +01:00",
-    "name": "31 oktober 11.27, Trafikolycka, smitning från, Västerås",
-    "summary": "Trafikolycka med flera fordon.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-11.27-trafikolycka-smitning-fran-vasteras/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 555754,
-    "datetime": "2024-10-31 12:40:30 +01:00",
-    "name": "31 oktober 12.37, Larm Överfall, Stockholm",
-    "summary": "Personalen på ett gym i city har utlöst överfallslarm. Polisen håller på med att ta reda på anledningen till d",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-12.37-larm-overfall-stockholm/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 555744,
-    "datetime": "2024-10-31 10:11:18 +01:00",
-    "name": "31 oktober 10.02, Trafikolycka, Hässleholm",
-    "summary": "Singelolycka med personbil på rv21.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-10.02-trafikolycka-hassleholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 555751,
-    "datetime": "2024-10-31 11:33:21 +01:00",
-    "name": "31 oktober 11.03, Trafikolycka, Luleå",
-    "summary": "Polispatrull uppmärksammar en trafikolycka på Björkskataleden/Porsövägen, Porsön.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-11.03-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
