@@ -1,5 +1,65 @@
 [
   {
+    "id": 556753,
+    "datetime": "2024-11-08 21:56:50 +01:00",
+    "name": "08 november 22.00, Övrigt, Hallands län",
+    "summary": "Presstelefonen kopplas om för natten.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-22.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 556752,
+    "datetime": "2024-11-08 21:56:12 +01:00",
+    "name": "08 november 22.00, Övrigt, Västra Götalands län",
+    "summary": "Presstelefonen kopplas om för natten.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-22.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 556737,
+    "datetime": "2024-11-08 18:56:25 +01:00",
+    "name": "08 november 18.35, Rån, Malmö",
+    "summary": "Man rånad på mat som skulle levereras.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-18.35-ran-malmo/",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 556751,
+    "datetime": "2024-11-08 21:45:40 +01:00",
+    "name": "08 november 21.36, Trafikolycka, Älmhult",
+    "summary": "Personbil i singelolycka på rv15 mellan Osby och Markaryd.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-21.36-trafikolycka-almhult/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Älmhult",
+      "gps": "56.552446,14.137405"
+    }
+  },
+  {
+    "id": 556750,
+    "datetime": "2024-11-08 21:44:00 +01:00",
+    "name": "08 november 19.57, Fylleri/LOB, Ljusdal",
+    "summary": "Berusad man avlägsnades från bandyarena.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-19.57-fyllerilob-ljusdal/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Ljusdal",
+      "gps": "61.830839,16.08175"
+    }
+  },
+  {
     "id": 556749,
     "datetime": "2024-11-08 21:34:04 +01:00",
     "name": "08 november 18.31, Rattfylleri, Köping",
@@ -153,18 +213,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 556737,
-    "datetime": "2024-11-08 18:56:25 +01:00",
-    "name": "08 november 18.35, Rån, Malmö",
-    "summary": "Man rånad på mat som skulle levereras.",
-    "url": "/aktuellt/handelser/2024/november/8/08-november-18.35-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 555920,
-    "datetime": "2024-11-01 16:51:57 +01:00",
-    "name": "01 november 15.45, Trafikolycka, Växjö",
-    "summary": "En buss och peronbil kolliderar på Arabygatan/Storgatan.",
-    "url": "/aktuellt/handelser/2024/november/1/01-november-15.45-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 555918,
-    "datetime": "2024-11-01 16:40:24 +01:00",
-    "name": "01 november 16.02, Trafikolycka, singel, Umeå",
-    "summary": "E12 Gubböle, en bilist har kört in i mitträcket",
-    "url": "/aktuellt/handelser/2024/november/1/01-november-16.02-trafikolycka-singel-umea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 555919,
-    "datetime": "2024-11-01 16:45:15 +01:00",
-    "name": "01 november 16.00, Fylleri/LOB, Umeå",
-    "summary": "Norrlands universitetssjukhus, polis kontaktas gällande en berusad man vid en av entréerna",
-    "url": "/aktuellt/handelser/2024/november/1/01-november-16.00-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 555917,
-    "datetime": "2024-11-01 16:26:41 +01:00",
-    "name": "01 november 14.38, Rån, Göteborg",
-    "summary": "En gärningsperson ska ha tillgripit en mans plånbok vid Hjalmar Brantingsplatsen.",
-    "url": "/aktuellt/handelser/2024/november/1/01-november-14.38-ran-goteborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
