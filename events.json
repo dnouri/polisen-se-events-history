@@ -1,5 +1,65 @@
 [
   {
+    "id": 556641,
+    "datetime": "2024-11-08 7:48:50 +01:00",
+    "name": "08 november 04.13, Misshandel, Huddinge",
+    "summary": "En man misstänks ha slagit en person han tidigare haft en relation med.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-04.13-misshandel-huddinge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 556637,
+    "datetime": "2024-11-08 7:47:23 +01:00",
+    "name": "08 november 07.46, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-07.46-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 556639,
+    "datetime": "2024-11-08 7:46:51 +01:00",
+    "name": "08 november 07.46, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-07.46-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 556640,
+    "datetime": "2024-11-08 7:46:35 +01:00",
+    "name": "08 november 07.46, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-07.46-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 556638,
+    "datetime": "2024-11-08 7:35:03 +01:00",
+    "name": "08 november 02.24, Brand, Tierp",
+    "summary": "Brand i hamn.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-02.24-brand-tierp/",
+    "type": "Brand",
+    "location": {
+      "name": "Tierp",
+      "gps": "60.347587,17.520509"
+    }
+  },
+  {
     "id": 556636,
     "datetime": "2024-11-08 7:26:06 +01:00",
     "name": "08 november 07.25, Sammanfattning natt, Jämtlands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 555812,
-    "datetime": "2024-10-31 19:34:56 +01:00",
-    "name": "31 oktober 17.00, Rattfylleri, Lycksele",
-    "summary": "Misstänkt drograttfylleri i Lycksele.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-17.00-rattfylleri-lycksele/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 555806,
-    "datetime": "2024-10-31 19:06:24 +01:00",
-    "name": "31 oktober 17.07, Trafikolycka, Borgholm",
-    "summary": "Personbil i kollision med en ko på Lv136 vid Södvik.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-17.07-trafikolycka-borgholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borgholm",
-      "gps": "56.88023,16.656236"
-    }
-  },
-  {
-    "id": 555798,
-    "datetime": "2024-10-31 16:19:28 +01:00",
-    "name": "31 oktober 16.20, Trafikolycka, Eskilstuna",
-    "summary": "Larm om bil i diket utanför Ärla.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-16.20-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 555811,
-    "datetime": "2024-10-31 18:53:12 +01:00",
-    "name": "31 oktober 18.53, Olovlig körning, Örnsköldsvik",
-    "summary": "Resultat av trafikkontroller i Jämtland.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-18.53-olovlig-korning-ornskoldsvik/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 555810,
-    "datetime": "2024-10-31 18:52:10 +01:00",
-    "name": "31 oktober 17.43, Knivlagen, Karlstad",
-    "summary": "En man i femtioårsåldern har rapporterats misstänkt för brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-17.43-knivlagen-karlstad/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   }
 ]
