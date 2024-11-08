@@ -1,9 +1,45 @@
 [
   {
+    "id": 556671,
+    "datetime": "2024-11-08 11:28:01 +01:00",
+    "name": "08 november 07.43, Trafikkontroll, Luleå",
+    "summary": "Riksväg 97, Södra Sunderbyn. Polisen kontrollerar nykterhet.",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-07.43-trafikkontroll-lulea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 556661,
+    "datetime": "2024-11-08 11:11:44 +01:00",
+    "name": "08 november 11.02, Trafikkontroll, Östersund",
+    "summary": "Ett urval av polisens arbete i trafiken under morgonen",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-11.02-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 556660,
+    "datetime": "2024-11-08 11:02:28 +01:00",
+    "name": "08 november 09.44, Brand, Östersund",
+    "summary": "Lugnviks industriområde, polis och räddningstjänst larmas om en brand",
+    "url": "/aktuellt/handelser/2024/november/8/08-november-09.44-brand-ostersund/",
+    "type": "Brand",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 556658,
     "datetime": "2024-11-08 10:36:07 +01:00",
     "name": "08 november 09.12, Arbetsplatsolycka, Uddevalla",
-    "summary": "Polisen kallas till en adress i Fasteröd, där en kvinna i 20-årsåldern fallit tre meter i samband med arbete.",
+    "summary": "Polisen kallas till en adress i Fasseröd, där en kvinna i 20-årsåldern fallit tre meter i samband med arbete.",
     "url": "/aktuellt/handelser/2024/november/8/08-november-09.12-arbetsplatsolycka-uddevalla/",
     "type": "Arbetsplatsolycka",
     "location": {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 555820,
-    "datetime": "2024-10-31 21:57:41 +01:00",
-    "name": "31 oktober 21.57, Olaga hot, Boden",
-    "summary": "Kvinna misstänks för grovt olaga hot och försök till grov misshandel.",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-21.57-olaga-hot-boden/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 555824,
-    "datetime": "2024-10-31 21:58:29 +01:00",
-    "name": "31 oktober 22.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 555823,
-    "datetime": "2024-10-31 21:58:18 +01:00",
-    "name": "31 oktober 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/oktober/31/31-oktober-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
