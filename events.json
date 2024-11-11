@@ -1,14 +1,14 @@
 [
   {
-    "id": 556982,
-    "datetime": "2024-11-11 16:12:20 +01:00",
-    "name": "11 november 16.12, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/november/11/11-november-16.12-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
+    "id": 557020,
+    "datetime": "2024-11-11 21:14:53 +01:00",
+    "name": "11 november 16.52, Räddningsinsats, Umeå",
+    "summary": "Fartyg på Holmöleden gick på grund.",
+    "url": "/aktuellt/handelser/2024/november/11/11-november-16.52-raddningsinsats-umea/",
+    "type": "Räddningsinsats",
     "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -21,6 +21,42 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 557019,
+    "datetime": "2024-11-11 21:01:40 +01:00",
+    "name": "11 november 20.12, Brand, Sundsvall",
+    "summary": "Höga smällar i Granloholm med anledning av en brand.",
+    "url": "/aktuellt/handelser/2024/november/11/11-november-20.12-brand-sundsvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 557018,
+    "datetime": "2024-11-11 20:51:17 +01:00",
+    "name": "11 november 17.41, Stöld, Örebro",
+    "summary": "Man \"hittade\" sin nystulna cykel utbjuden till försäljning på \"nätsajt\".",
+    "url": "/aktuellt/handelser/2024/november/11/11-november-17.41-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 556982,
+    "datetime": "2024-11-11 16:12:20 +01:00",
+    "name": "11 november 16.12, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/november/11/11-november-16.12-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 556164,
-    "datetime": "2024-11-04 18:47:06 +01:00",
-    "name": "04 november 18.46, Trafikolycka, vilt, Luleå",
-    "summary": "Viltolyckor anmälda till polisens ledningscentral.",
-    "url": "/aktuellt/handelser/2024/november/4/04-november-18.46-trafikolycka-vilt-lulea/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 556163,
-    "datetime": "2024-11-04 18:22:59 +01:00",
-    "name": "04 november 17.46, Trafikolycka, Ludvika",
-    "summary": "Två bilister har kolliderat på Rv 66 strax norr om Nyhammar.",
-    "url": "/aktuellt/handelser/2024/november/4/04-november-17.46-trafikolycka-ludvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 556162,
-    "datetime": "2024-11-04 18:17:53 +01:00",
-    "name": "04 november 18.17, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Viltolyckor anmä'da till polisens ledningscentral",
-    "url": "/aktuellt/handelser/2024/november/4/04-november-18.17-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
