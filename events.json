@@ -1,5 +1,113 @@
 [
   {
+    "id": 557091,
+    "datetime": "2024-11-12 11:28:50 +01:00",
+    "name": "12 november 07.45, Stöld/inbrott, Hofors",
+    "summary": "Anmälan om stöld genom inbrott.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-07.45-stoldinbrott-hofors/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Hofors",
+      "gps": "60.54595,16.2841"
+    }
+  },
+  {
+    "id": 557075,
+    "datetime": "2024-11-12 10:32:37 +01:00",
+    "name": "12 november 09.49, Trafikolycka, Umeå",
+    "summary": "Axtorpsvägen/Petrus Laestadius väg, larm om påkörd person vid universitetsområdet",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-09.49-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 557087,
+    "datetime": "2024-11-12 11:22:42 +01:00",
+    "name": "12 november 09.51, Trafikolycka, Sala",
+    "summary": "Trafikolycka på riksväg 70.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-09.51-trafikolycka-sala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
+    }
+  },
+  {
+    "id": 557086,
+    "datetime": "2024-11-12 11:17:53 +01:00",
+    "name": "12 november 09.29, Brand, Uppsala",
+    "summary": "Brand i lastbil.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-09.29-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 557084,
+    "datetime": "2024-11-12 11:06:12 +01:00",
+    "name": "12 november 09.13, Trafikbrott, Enköping",
+    "summary": "Anmälan om vårdslöshet i trafik.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-09.13-trafikbrott-enkoping/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 557061,
+    "datetime": "2024-11-12 9:45:14 +01:00",
+    "name": "12 november 09.44, Trafikolycka, Nyköping",
+    "summary": "Kollision på landsväg utanför Jönåker.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-09.44-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 557083,
+    "datetime": "2024-11-12 11:03:57 +01:00",
+    "name": "12 november 05.50, Trafikolycka, vilt, Bollnäs",
+    "summary": "Viltolycka med tåg.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-05.50-trafikolycka-vilt-bollnas/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Bollnäs",
+      "gps": "61.34838,16.394269"
+    }
+  },
+  {
+    "id": 557081,
+    "datetime": "2024-11-12 10:46:17 +01:00",
+    "name": "12 november 10.44, Övrigt, Jönköpings län",
+    "summary": "Obemannat mediecenter – information till journalister.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-10.44-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 557080,
+    "datetime": "2024-11-12 10:45:15 +01:00",
+    "name": "12 november 10.44, Övrigt, Östergötlands län",
+    "summary": "Obemannat mediecenter – information till journalister.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-10.44-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 557077,
     "datetime": "2024-11-12 10:44:14 +01:00",
     "name": "12 november 10.44, Övrigt, Södermanlands län",
@@ -21,18 +129,6 @@
     "location": {
       "name": "Vänersborg",
       "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 557075,
-    "datetime": "2024-11-12 10:32:37 +01:00",
-    "name": "12 november 09.49, Trafikolycka, Umeå",
-    "summary": "Axtorpsvägen/Petrus Laestadius väg, larm om påkörd person vid universitetsområdet",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-09.49-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -93,18 +189,6 @@
     "location": {
       "name": "Sigtuna",
       "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 557061,
-    "datetime": "2024-11-12 9:45:14 +01:00",
-    "name": "12 november 09.44, Trafikolycka, Nyköping",
-    "summary": "Kollision på landsväg utanför Jönåker.",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-09.44-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Lomma",
       "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 556263,
-    "datetime": "2024-11-05 15:02:31 +01:00",
-    "name": "05 november 14.09, Stöld, Malmö",
-    "summary": "Stöld i butik samt hot mot tjänsteman",
-    "url": "/aktuellt/handelser/2024/november/5/05-november-14.09-stold-malmo/",
-    "type": "Stöld",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 556262,
-    "datetime": "2024-11-05 14:57:39 +01:00",
-    "name": "05 november 11.36, Brand, Strömsund",
-    "summary": "Larm om brand i en papperskorg på en skola i Strömsund.",
-    "url": "/aktuellt/handelser/2024/november/5/05-november-11.36-brand-stromsund/",
-    "type": "Brand",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 556231,
-    "datetime": "2024-11-05 13:24:00 +01:00",
-    "name": "05 november 08.11, Trafikolycka, personskada, Håbo",
-    "summary": "Flicka skadad i trafikolycka.",
-    "url": "/aktuellt/handelser/2024/november/5/05-november-08.11-trafikolycka-personskada-habo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Håbo",
-      "gps": "59.627071,17.452298"
-    }
-  },
-  {
-    "id": 556258,
-    "datetime": "2024-11-05 12:23:39 +01:00",
-    "name": "05 november 12.10, Narkotikabrott, Boden",
-    "summary": "Man i 20-års åldern omhändertogs för narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/november/5/05-november-12.10-narkotikabrott-boden/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 556257,
-    "datetime": "2024-11-05 12:21:18 +01:00",
-    "name": "05 november 10.42, Trafikolycka, Alingsås",
-    "summary": "I korsningen Kungsgatan - Västra Kyrkogatan är det en cyklist som kolliderar med en bilist.",
-    "url": "/aktuellt/handelser/2024/november/5/05-november-10.42-trafikolycka-alingsas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
-    }
-  },
-  {
-    "id": 556256,
-    "datetime": "2024-11-05 12:03:00 +01:00",
-    "name": "05 november 11.50, Trafikkontroll, Östersund",
-    "summary": "Polisen genomförde trafikkontroll på E14 vid Lockne.",
-    "url": "/aktuellt/handelser/2024/november/5/05-november-11.50-trafikkontroll-ostersund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 556255,
-    "datetime": "2024-11-05 11:56:11 +01:00",
-    "name": "05 november 11.31, Trafikkontroll, Sollefteå",
-    "summary": "Polisen genomförde nykterhetskontroll på Lv 331, Ramsele.",
-    "url": "/aktuellt/handelser/2024/november/5/05-november-11.31-trafikkontroll-solleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
     }
   }
 ]
