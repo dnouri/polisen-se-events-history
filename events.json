@@ -1,5 +1,77 @@
 [
   {
+    "id": 557162,
+    "datetime": "2024-11-12 19:29:18 +01:00",
+    "name": "12 november 17.18, Ekobrott, Sigtuna",
+    "summary": "En man och en kvinna har gripits på Arlanda för grovt penningstvättsbrott.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-17.18-ekobrott-sigtuna/",
+    "type": "Ekobrott",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 557161,
+    "datetime": "2024-11-12 19:09:26 +01:00",
+    "name": "12 november 15.00, Arbetsplatsolycka, Orust",
+    "summary": "Ambulans och polis larmas till Tångesund, där en yrkesdykare är i behov av vård.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-15.00-arbetsplatsolycka-orust/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Orust",
+      "gps": "58.180267,11.675984"
+    }
+  },
+  {
+    "id": 557160,
+    "datetime": "2024-11-12 19:05:33 +01:00",
+    "name": "12 november 19.05, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-19.05-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 557158,
+    "datetime": "2024-11-12 18:22:23 +01:00",
+    "name": "12 november 17.46, Trafikolycka, personskada, Stockholm",
+    "summary": "Flera bilar har kolliderat på E4 Essingeleden i höjd med Kristineberg, norrgående riktning.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-17.46-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 557156,
+    "datetime": "2024-11-12 17:52:44 +01:00",
+    "name": "12 november 16.17, Trafikolycka, Kramfors",
+    "summary": "Trafikolycka på riksväg 90/Tunnelvägen, Kramfors.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-16.17-trafikolycka-kramfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 557144,
+    "datetime": "2024-11-12 16:54:14 +01:00",
+    "name": "12 november 16.45, Trafikolycka, Gotlands län",
+    "summary": "En bilist har kört av vägen i Klintehamn.",
+    "url": "/aktuellt/handelser/2024/november/12/12-november-16.45-trafikolycka-gotlands-lan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
     "id": 557152,
     "datetime": "2024-11-12 17:42:35 +01:00",
     "name": "12 november 16.39, Trafikolycka, personskada, Söderhamn",
@@ -36,18 +108,6 @@
     }
   },
   {
-    "id": 557158,
-    "datetime": "2024-11-12 18:22:23 +01:00",
-    "name": "12 november 17.46, Trafikolycka, personskada, Stockholm",
-    "summary": "Flera bilar har kolliderat på E4 Essingeleden i höjd med Kristineberg, norrgående riktning.",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-17.46-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 557153,
     "datetime": "2024-11-12 17:46:17 +01:00",
     "name": "12 november 16.41, Trafikolycka, Göteborg",
@@ -69,18 +129,6 @@
     "location": {
       "name": "Höganäs",
       "gps": "56.200639,12.555329"
-    }
-  },
-  {
-    "id": 557156,
-    "datetime": "2024-11-12 17:52:44 +01:00",
-    "name": "12 november 16.17, Trafikolycka, Kramfors",
-    "summary": "Trafikolycka på riksväg 90/Tunnelvägen, Kramfors.",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-16.17-trafikolycka-kramfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   },
   {
@@ -141,18 +189,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 557144,
-    "datetime": "2024-11-12 16:54:14 +01:00",
-    "name": "12 november 16.45, Trafikolycka, Gotlands län",
-    "summary": "En bilist har kört av vägen i Klintehamn.",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-16.45-trafikolycka-gotlands-lan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 556371,
-    "datetime": "2024-11-06 6:12:51 +01:00",
-    "name": "06 november 05.10, Stöld, försök, Bjuv",
-    "summary": "Försök till inbrott i skåpbil",
-    "url": "/aktuellt/handelser/2024/november/6/06-november-05.10-stold-forsok-bjuv/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Bjuv",
-      "gps": "56.087102,12.912505"
-    }
-  },
-  {
-    "id": 556370,
-    "datetime": "2024-11-06 6:10:42 +01:00",
-    "name": "06 november 02.55, Stöld, Malmö",
-    "summary": "Man misstänkt för cykelstöld",
-    "url": "/aktuellt/handelser/2024/november/6/06-november-02.55-stold-malmo/",
-    "type": "Stöld",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 556367,
-    "datetime": "2024-11-05 22:07:36 +01:00",
-    "name": "05 november 22.02, Brand, Malmö",
-    "summary": "Bilbrand",
-    "url": "/aktuellt/handelser/2024/november/5/05-november-22.02-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
