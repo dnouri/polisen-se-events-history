@@ -1,5 +1,65 @@
 [
   {
+    "id": 557331,
+    "datetime": "2024-11-14 8:12:12 +01:00",
+    "name": "14 november 07.30, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på riksväg 97, Norra Sunderbyn.",
+    "url": "/aktuellt/handelser/2024/november/14/14-november-07.30-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 557320,
+    "datetime": "2024-11-14 8:02:02 +01:00",
+    "name": "13 november 22.42, Misshandel, Stockholm",
+    "summary": "En man och två kvinnor bråkar utomhus.",
+    "url": "/aktuellt/handelser/2024/november/14/13-november-22.42-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 557323,
+    "datetime": "2024-11-14 8:01:57 +01:00",
+    "name": "14 november 05.06, Misshandel, Södertälje",
+    "summary": "Ambulans tar hand om en misshandlad kvinna.",
+    "url": "/aktuellt/handelser/2024/november/14/14-november-05.06-misshandel-sodertalje/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 557325,
+    "datetime": "2024-11-14 8:01:53 +01:00",
+    "name": "14 november 01.26, Rån, Södertälje",
+    "summary": "En man rånas på en elsparkcykel.",
+    "url": "/aktuellt/handelser/2024/november/14/14-november-01.26-ran-sodertalje/",
+    "type": "Rån",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 557324,
+    "datetime": "2024-11-14 7:54:30 +01:00",
+    "name": "14 november 07.41, Sammanfattning kväll och natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/november/14/14-november-07.41-sammanfattning-kvall-och-natt-sodermanlands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 557322,
     "datetime": "2024-11-14 7:41:41 +01:00",
     "name": "14 november 07.24, Sammanfattning kväll och natt, Östergötlands län",
@@ -9,18 +69,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 557321,
-    "datetime": "2024-11-14 7:37:52 +01:00",
-    "name": "13 november 22.48, Brand, Enköping",
-    "summary": "Brand i bil.",
-    "url": "/aktuellt/handelser/2024/november/13/13-november-222.48-brand-enkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 556583,
-    "datetime": "2024-11-07 16:55:12 +01:00",
-    "name": "07 november 15.14, Stöld/inbrott, Luleå",
-    "summary": "Luleå, misstänkt inbrott i lägenhet.",
-    "url": "/aktuellt/handelser/2024/november/7/07-november-15.14-stoldinbrott-lulea/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 556579,
-    "datetime": "2024-11-07 16:05:20 +01:00",
-    "name": "07 november 15.11, Trafikolycka, Sundsvall",
-    "summary": "Sundsvall, trafikolycka på Kustvägen.",
-    "url": "/aktuellt/handelser/2024/november/7/07-november-15.11-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 556576,
-    "datetime": "2024-11-07 15:59:27 +01:00",
-    "name": "07 november 13.51, Misshandel, Sundsvall",
-    "summary": "Sundsvall, man misstänks för misshandel på Navet.",
-    "url": "/aktuellt/handelser/2024/november/7/07-november-13.51-misshandel-sundsvall/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 556575,
-    "datetime": "2024-11-07 15:53:58 +01:00",
-    "name": "07 november 14.47, Olaga hot, Gävle",
-    "summary": "En person med pistolliknande föremål i bil.",
-    "url": "/aktuellt/handelser/2024/november/7/07-november-14.47-olaga-hot-gavle/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
