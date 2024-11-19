@@ -1,5 +1,65 @@
 [
   {
+    "id": 558888,
+    "datetime": "2024-11-19 13:43:40 +01:00",
+    "name": "19 november 13.36, Brand, Karlskrona",
+    "summary": "Brand i stuga.",
+    "url": "/aktuellt/handelser/2024/november/19/19-november-13.36-brand-karlskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 558900,
+    "datetime": "2024-11-19 15:01:31 +01:00",
+    "name": "19 november 13.16, Trafikolycka, personskada, Göteborg",
+    "summary": "På Gropegårdsgatan är en fotgängare och en personbil involverade i en olycka.",
+    "url": "/aktuellt/handelser/2024/november/19/19-november-13.16-trafikolycka-personskada-goteborg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 558899,
+    "datetime": "2024-11-19 14:53:17 +01:00",
+    "name": "19 november 14.29, Trafikolycka, Ulricehamn",
+    "summary": "På riksväg 40, öster om Ulricehamn, kör en lastbil av vägen.",
+    "url": "/aktuellt/handelser/2024/november/19/19-november-14.29-trafikolycka-ulricehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ulricehamn",
+      "gps": "57.794789,13.420516"
+    }
+  },
+  {
+    "id": 558898,
+    "datetime": "2024-11-19 14:50:24 +01:00",
+    "name": "19 november 14.28, Trafikolycka, Vårgårda",
+    "summary": "På riksväg 42, sydost om korsningen väg 1765, inträffar en trafikolycka.",
+    "url": "/aktuellt/handelser/2024/november/19/19-november-14.28-trafikolycka-vargarda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vårgårda",
+      "gps": "58.032304,12.808976"
+    }
+  },
+  {
+    "id": 558897,
+    "datetime": "2024-11-19 14:49:05 +01:00",
+    "name": "19 november 14.05, Trafikolycka, Boden",
+    "summary": "Boden, larm om trafikolycka i centrum.",
+    "url": "/aktuellt/handelser/2024/november/19/19-november-14.05-trafikolycka-boden/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 554317,
     "datetime": "2024-10-21 12:07:52 +02:00",
     "name": "21 oktober 11.36, Trafikolycka, Örnsköldsvik",
@@ -69,18 +129,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 558888,
-    "datetime": "2024-11-19 13:43:40 +01:00",
-    "name": "19 november 13.36, Brand, Karlskrona",
-    "summary": "Brand i stuga.",
-    "url": "/aktuellt/handelser/2024/november/19/19-november-13.36-brand-karlskrona/",
-    "type": "Brand",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 557108,
-    "datetime": "2024-11-12 13:34:18 +01:00",
-    "name": "12 november 13.15, Bråk, Ystad",
-    "summary": "Bråk mellan några personer.",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-13.15-brak-ystad/",
-    "type": "Bråk",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 557086,
-    "datetime": "2024-11-12 11:17:53 +01:00",
-    "name": "12 november 09.29, Brand, Uppsala",
-    "summary": "Brand i lastbil.",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-09.29-brand-uppsala/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 557103,
-    "datetime": "2024-11-12 13:29:25 +01:00",
-    "name": "12 november 10.54, Arbetsplatsolycka, Sollefteå",
-    "summary": "Sollefteå, man skadad i samband med arbete",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-10.54-arbetsplatsolycka-solleftea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 557102,
-    "datetime": "2024-11-12 13:24:32 +01:00",
-    "name": "12 november 11.48, Fylleri/LOB, Umeå",
-    "summary": "Centrala stan, polis kontaktas gällande berusad man inne på galleria",
-    "url": "/aktuellt/handelser/2024/november/12/12-november-11.48-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
