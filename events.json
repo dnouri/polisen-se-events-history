@@ -1,5 +1,77 @@
 [
   {
+    "id": 559211,
+    "datetime": "2024-11-21 17:40:34 +01:00",
+    "name": "21 november 16.25, Rattfylleri, Eslöv",
+    "summary": "Misstänkt påverkad förare.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-16.25-rattfylleri-eslov/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 559227,
+    "datetime": "2024-11-21 20:12:54 +01:00",
+    "name": "21 november 18.30, Trafikolycka, Luleå",
+    "summary": "Porsön, polisen får samtal om en bil som kör vingligt och mot mötande trafik",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-18.30-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 559217,
+    "datetime": "2024-11-21 18:05:18 +01:00",
+    "name": "21 november 17.42, Brand, Halmstad",
+    "summary": "Vi får larm om en brand på Smältaregatan.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-17.42-brand-halmstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 559226,
+    "datetime": "2024-11-21 20:06:21 +01:00",
+    "name": "21 november 16.39, Knivlagen, Västerås",
+    "summary": "Man misstänks för brott mot knivlagen.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-16.39-knivlagen-vasteras/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 559210,
+    "datetime": "2024-11-21 17:12:14 +01:00",
+    "name": "21 november 16.46, Trafikolycka, Lerum",
+    "summary": "Två personbilar är involverade i en olycka på Gråbovägen.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-16.46-trafikolycka-lerum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lerum",
+      "gps": "57.769484,12.26882"
+    }
+  },
+  {
+    "id": 559225,
+    "datetime": "2024-11-21 19:58:40 +01:00",
+    "name": "21 november 17.30, Trafikbrott, Stockholm",
+    "summary": "Förare smiter efter en krock i Rinkeby.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-17.30-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 559224,
     "datetime": "2024-11-21 19:49:37 +01:00",
     "name": "21 november 17.28, Inbrott, försök, Stockholm",
@@ -72,30 +144,6 @@
     }
   },
   {
-    "id": 559217,
-    "datetime": "2024-11-21 18:05:18 +01:00",
-    "name": "21 november 17.42, Brand, Halmstad",
-    "summary": "Vi får larm om en brand på Smältaregatan.",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-17.42-brand-halmstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 559210,
-    "datetime": "2024-11-21 17:12:14 +01:00",
-    "name": "21 november 16.46, Trafikolycka, Lerum",
-    "summary": "Två personbilar är involverade i en olycka på Gråbovägen.",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-16.46-trafikolycka-lerum/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lerum",
-      "gps": "57.769484,12.26882"
-    }
-  },
-  {
     "id": 559204,
     "datetime": "2024-11-21 16:20:50 +01:00",
     "name": "21 november 16.15, Bråk, Malmö",
@@ -141,18 +189,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 559211,
-    "datetime": "2024-11-21 17:40:34 +01:00",
-    "name": "21 november 16.25, Rattfylleri, Eslöv",
-    "summary": "Misstänkt påverkad förare.",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-16.25-rattfylleri-eslov/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 557433,
-    "datetime": "2024-11-14 19:37:46 +01:00",
-    "name": "14 november 17.43, Stöld, försök, Göteborg",
-    "summary": "Larm inkommer till polisen om en pågående cykelstöld vid Älvsborgsplan.",
-    "url": "/aktuellt/handelser/2024/november/14/14-november-17.43-stold-forsok-goteborg/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 557432,
-    "datetime": "2024-11-14 19:00:23 +01:00",
-    "name": "14 november 14.19, Brand, Gävle",
-    "summary": "Brand i uthus.",
-    "url": "/aktuellt/handelser/2024/november/14/14-november-14.19-brand-gavle/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 557430,
-    "datetime": "2024-11-14 18:44:09 +01:00",
-    "name": "14 november 15.36, Fylleri/LOB, Östersund",
-    "summary": "Centrum, polis kontaktas gällande berusad man",
-    "url": "/aktuellt/handelser/2024/november/14/14-november-15.36-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
