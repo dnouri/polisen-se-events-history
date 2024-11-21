@@ -1,5 +1,77 @@
 [
   {
+    "id": 559161,
+    "datetime": "2024-11-21 10:39:13 +01:00",
+    "name": "21 november 08.01, Hets mot folkgrupp, Enköping",
+    "summary": "Flagga med hakkors togs i beslag av patrull.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-08.01-hets-mot-folkgrupp-enkoping/",
+    "type": "Hets mot folkgrupp",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 559160,
+    "datetime": "2024-11-21 10:33:56 +01:00",
+    "name": "21 november 10.31, Trafikolycka, Linköping",
+    "summary": "Två personbilar i olycka op Länsväg 588, Ulrika.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-10.31-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 559146,
+    "datetime": "2024-11-21 9:30:10 +01:00",
+    "name": "21 november 09.12, Trafikolycka, Härnösand",
+    "summary": "Trafikolycka på Varvsgatan, Kronholmen.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-09.12-trafikolycka-harnosand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 559159,
+    "datetime": "2024-11-21 10:33:20 +01:00",
+    "name": "21 november 10.33, Övrigt, Borlänge",
+    "summary": "Polisen utreder ett grovt brott i centrala Borlänge.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-10.33-ovrigt-borlange/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 559158,
+    "datetime": "2024-11-21 10:28:44 +01:00",
+    "name": "21 november 09.47, Trafikbrott, Östersund",
+    "summary": "Polispatrull på Vallaleden, Frösön, uppmärksammar en A-traktor som sladdar ut ur en rondell.",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-09.47-trafikbrott-ostersund/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 559143,
+    "datetime": "2024-11-21 8:58:59 +01:00",
+    "name": "21 november 08.35, Trafikolycka, Linköping",
+    "summary": "Trafikolycka vid Nykilskorset, Riksväg 23",
+    "url": "/aktuellt/handelser/2024/november/21/21-november-08.35-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
     "id": 559149,
     "datetime": "2024-11-21 9:39:12 +01:00",
     "name": "21 november 09.36, Trafikolycka, Vetlanda",
@@ -72,30 +144,6 @@
     }
   },
   {
-    "id": 559146,
-    "datetime": "2024-11-21 9:30:10 +01:00",
-    "name": "21 november 09.12, Trafikolycka, Härnösand",
-    "summary": "Trafikolycka på Varvsgatan, Kronholmen.",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-09.12-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 559144,
-    "datetime": "2024-11-21 9:03:38 +01:00",
-    "name": "21 november 09.02, Trafikolycka, singel, Norrköping",
-    "summary": "Trafikolycka vid Trafikplats 124 i höjd med Åby, Norrköping",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-09.02-trafikolycka-singel-norrkoping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
     "id": 559138,
     "datetime": "2024-11-21 8:12:32 +01:00",
     "name": "21 november 08.01, Trafikolycka, Norrköping",
@@ -105,18 +153,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 559143,
-    "datetime": "2024-11-21 8:58:59 +01:00",
-    "name": "21 november 08.35, Trafikolycka, Linköping",
-    "summary": "Trafikolycka vid Nykilskorset, Riksväg 23",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-08.35-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Falköping",
       "gps": "58.175029,13.553217"
-    }
-  },
-  {
-    "id": 557318,
-    "datetime": "2024-11-14 7:22:16 +01:00",
-    "name": "14 november 05.52, Brand, Vimmerby",
-    "summary": "Brand i flerfamiljshus",
-    "url": "/aktuellt/handelser/2024/november/14/14-november-05.52-brand-vimmerby/",
-    "type": "Brand",
-    "location": {
-      "name": "Vimmerby",
-      "gps": "57.669034,15.858857"
-    }
-  },
-  {
-    "id": 557347,
-    "datetime": "2024-11-14 11:07:07 +01:00",
-    "name": "14 november 09.37, Rattfylleri, Kristinehamn",
-    "summary": "En bilist misstänks för drograttfylleri.",
-    "url": "/aktuellt/handelser/2024/november/14/14-november-09.37-rattfylleri-kristinehamn/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
-    }
-  },
-  {
-    "id": 557345,
-    "datetime": "2024-11-14 10:41:18 +01:00",
-    "name": "14 november 08.54, Övrigt, Malmö",
-    "summary": "Fusk vid förarprov",
-    "url": "/aktuellt/handelser/2024/november/14/14-november-08.54-ovrigt-malmo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
