@@ -1,5 +1,113 @@
 [
   {
+    "id": 559259,
+    "datetime": "2024-11-22 8:19:23 +01:00",
+    "name": "22 november 07.57, Trafikolycka, Vaxholm",
+    "summary": "Ett antal bilar har krockat på länsväg 274 riktning Ladvik på Resarö. Det finns inga uppgifter om personskador",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-07.57-trafikolycka-vaxholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vaxholm",
+      "gps": "59.403297,18.32638"
+    }
+  },
+  {
+    "id": 559244,
+    "datetime": "2024-11-22 7:13:55 +01:00",
+    "name": "22 november 06.51, Trafikolycka, Gävle",
+    "summary": "Trafikolycka med lastbilar.",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-06.51-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 559261,
+    "datetime": "2024-11-22 8:13:52 +01:00",
+    "name": "22 november 06.11, Trafikolycka, Gällivare",
+    "summary": "Gällivare, trafikolycka på länsväg 828.",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-06.11-trafikolycka-gallivare/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 559258,
+    "datetime": "2024-11-22 8:02:06 +01:00",
+    "name": "22 november 07.26, Trafikolycka, Umeå",
+    "summary": "Sävar, larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-07.26-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 559257,
+    "datetime": "2024-11-22 8:00:53 +01:00",
+    "name": "22 november 07.58, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer ett urval av nattens händelser i Östergötlands län",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-07.58-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 559251,
+    "datetime": "2024-11-22 7:43:11 +01:00",
+    "name": "22 november 07.04, Trafikolycka, Luleå",
+    "summary": "Luleå, singelolycka på E4 vid södra Gäddvik.",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-07.04-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 559256,
+    "datetime": "2024-11-22 7:58:54 +01:00",
+    "name": "22 november 07.57, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer ett urval av nattens händelser i Södermanlands län",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-07.57-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 559255,
+    "datetime": "2024-11-22 7:57:47 +01:00",
+    "name": "22 november 07.57, Sammanfattning natt, Jönköping",
+    "summary": "Här följer ett urval av nattens händelser i Jönköpings län",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-07.57-sammanfattning-natt-jonkoping/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 559254,
+    "datetime": "2024-11-22 7:57:04 +01:00",
+    "name": "22 november 07.56, Trafikolycka, Jönköping",
+    "summary": "07.29: Trafikolycka, Ekhagsrondellen, Jönköping",
+    "url": "/aktuellt/handelser/2024/november/22/22-november-07.56-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
     "id": 559253,
     "datetime": "2024-11-22 7:50:29 +01:00",
     "name": "22 november 06.52, Arbetsplatsolycka, Örebro",
@@ -21,18 +129,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 559251,
-    "datetime": "2024-11-22 7:43:11 +01:00",
-    "name": "22 november 07.04, Trafikolycka, Luleå",
-    "summary": "Luleå, singelolycka på E4 vid södra Gäddvik.",
-    "url": "/aktuellt/handelser/2024/november/22/22-november-07.04-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -129,18 +225,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 559244,
-    "datetime": "2024-11-22 7:13:55 +01:00",
-    "name": "22 november 06.51, Trafikolycka, Gävle",
-    "summary": "Trafikolycka med lastbilar.",
-    "url": "/aktuellt/handelser/2024/november/22/22-november-06.51-trafikolycka-gavle/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 557460,
-    "datetime": "2024-11-15 6:56:54 +01:00",
-    "name": "15 november 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/november/15/15-november-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 557468,
-    "datetime": "2024-11-15 6:52:51 +01:00",
-    "name": "15 november 06.52, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2024/november/15/15-november-06.52-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 557467,
-    "datetime": "2024-11-15 6:52:13 +01:00",
-    "name": "15 november 00.06, Inbrott, Karlshamn",
-    "summary": "Inbrott i källarförråd, Asarum",
-    "url": "/aktuellt/handelser/2024/november/15/15-november-00.06-inbrott-karlshamn/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 557466,
-    "datetime": "2024-11-15 6:46:40 +01:00",
-    "name": "15 november 01.24, Brand, Malmö",
-    "summary": "Brand i industribyggnad",
-    "url": "/aktuellt/handelser/2024/november/15/15-november-01.24-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 557465,
-    "datetime": "2024-11-15 6:41:22 +01:00",
-    "name": "14 november 23.30, Rattfylleri, Staffanstorp",
-    "summary": "Man i 30-årsåldern misstänkt för drograttfylleri efter fordonskontroll",
-    "url": "/aktuellt/handelser/2024/november/14/14-november-23.30-rattfylleri-staffanstorp/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Staffanstorp",
-      "gps": "55.641065,13.212229"
-    }
-  },
-  {
-    "id": 557464,
-    "datetime": "2024-11-15 6:38:16 +01:00",
-    "name": "15 november 05.08, Inbrott, Ljungby",
-    "summary": "Inbrott i butik",
-    "url": "/aktuellt/handelser/2024/november/15/15-november-05.08-inbrott-ljungby/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 557463,
-    "datetime": "2024-11-15 6:33:35 +01:00",
-    "name": "15 november 04.24, Stöld, Ängelholm",
-    "summary": "Larm om pågående inbrott",
-    "url": "/aktuellt/handelser/2024/november/15/15-november-04.24-stold-angelholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   }
 ]
