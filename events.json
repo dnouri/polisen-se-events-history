@@ -1,5 +1,65 @@
 [
   {
+    "id": 559399,
+    "datetime": "2024-11-23 13:43:00 +01:00",
+    "name": "23 november 11.39, Stöld, Karlskoga",
+    "summary": "Polis ingrep mot stöld på ledig tid.",
+    "url": "/aktuellt/handelser/2024/november/23/23-november-11.39-stold-karlskoga/",
+    "type": "Stöld",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 559398,
+    "datetime": "2024-11-23 13:37:56 +01:00",
+    "name": "23 november 13.35, Trafikolycka, Jönköping",
+    "summary": "Personbil och buss i kollision.",
+    "url": "/aktuellt/handelser/2024/november/23/23-november-13.35-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 559397,
+    "datetime": "2024-11-23 13:34:18 +01:00",
+    "name": "23 november 10.59, Arbetsplatsolycka, Malmö",
+    "summary": "Kvinna fallit i hiss på arbetsplats.",
+    "url": "/aktuellt/handelser/2024/november/23/23-november-10.59-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 559388,
+    "datetime": "2024-11-23 11:08:24 +01:00",
+    "name": "23 november 11.01, Trafikolycka, Ystad",
+    "summary": "Personbil i singelolycka på E65.",
+    "url": "/aktuellt/handelser/2024/november/23/23-november-11.01-trafikolycka-ystad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ystad",
+      "gps": "55.429505,13.820031"
+    }
+  },
+  {
+    "id": 559387,
+    "datetime": "2024-11-23 11:01:57 +01:00",
+    "name": "23 november 10.47, Trafikolycka, Eslöv",
+    "summary": "Två personbilar i kollision.",
+    "url": "/aktuellt/handelser/2024/november/23/23-november-10.47-trafikolycka-eslov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
     "id": 559393,
     "datetime": "2024-11-23 11:59:19 +01:00",
     "name": "23 november 11.53, Trafikolycka, Hässleholm",
@@ -69,30 +129,6 @@
     "location": {
       "name": "Nybro",
       "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 559387,
-    "datetime": "2024-11-23 11:01:57 +01:00",
-    "name": "23 november 10.47, Trafikolycka, Eslöv",
-    "summary": "Två personbilar i kollision.",
-    "url": "/aktuellt/handelser/2024/november/23/23-november-10.47-trafikolycka-eslov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 559388,
-    "datetime": "2024-11-23 11:08:24 +01:00",
-    "name": "23 november 11.01, Trafikolycka, Ystad",
-    "summary": "Personbil i singelolycka på E65.",
-    "url": "/aktuellt/handelser/2024/november/23/23-november-11.01-trafikolycka-ystad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 557599,
-    "datetime": "2024-11-16 10:05:53 +01:00",
-    "name": "16 november 07.57, Anträffat gods, Sandviken",
-    "summary": "Allmänhet anträffade stulen 6-hjuling.",
-    "url": "/aktuellt/handelser/2024/november/16/16-november-07.57-antraffat-gods-sandviken/",
-    "type": "Anträffat gods",
-    "location": {
-      "name": "Sandviken",
-      "gps": "60.621607,16.775918"
-    }
-  },
-  {
-    "id": 557598,
-    "datetime": "2024-11-16 8:08:44 +01:00",
-    "name": "16 november 08.07, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2024/november/16/16-november-08.07-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 557597,
-    "datetime": "2024-11-16 8:07:49 +01:00",
-    "name": "16 november 08.07, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2024/november/16/16-november-08.07-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
