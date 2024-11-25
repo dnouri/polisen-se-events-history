@@ -1,5 +1,101 @@
 [
   {
+    "id": 559506,
+    "datetime": "2024-11-25 7:24:34 +01:00",
+    "name": "25 november 07.04, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka, Ystadvägen",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-07.04-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 559519,
+    "datetime": "2024-11-25 7:56:45 +01:00",
+    "name": "25 november 06.28, Trafikolycka, vilt, Uppsala",
+    "summary": "Personbil i kollision med älg.",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-06.28-trafikolycka-vilt-uppsala/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 559518,
+    "datetime": "2024-11-25 7:54:09 +01:00",
+    "name": "25 november 06.45, Misshandel, Järfälla",
+    "summary": "Polis kallas till en lägenhet i Jakobsberg med uppgifter om att en man misshandlat en kvinna.",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-06.45-misshandel-jarfalla/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
+    }
+  },
+  {
+    "id": 559509,
+    "datetime": "2024-11-25 7:50:02 +01:00",
+    "name": "25 november 07.47, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-07.47-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 559515,
+    "datetime": "2024-11-25 7:49:38 +01:00",
+    "name": "25 november 07.47, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-07.47-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 559517,
+    "datetime": "2024-11-25 7:49:06 +01:00",
+    "name": "25 november 07.48, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-07.48-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 559516,
+    "datetime": "2024-11-25 7:48:40 +01:00",
+    "name": "25 november 06.29, Trafikolycka, Skövde",
+    "summary": "SOS larmas om en trafikolycka på Östra leden, i höjd med Hasslum.",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-06.29-trafikolycka-skovde/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
+    "id": 559500,
+    "datetime": "2024-11-25 7:10:40 +01:00",
+    "name": "25 november 00.29, Brand, Örkelljunga",
+    "summary": "En till sjukhus efter brand i Örkelljunga",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-00.29-brand-orkelljunga/",
+    "type": "Brand",
+    "location": {
+      "name": "Örkelljunga",
+      "gps": "56.283635,13.278832"
+    }
+  },
+  {
     "id": 559514,
     "datetime": "2024-11-25 7:33:03 +01:00",
     "name": "25 november 07.32, Sammanfattning natt, Norrbottens län",
@@ -84,18 +180,6 @@
     }
   },
   {
-    "id": 559506,
-    "datetime": "2024-11-25 7:24:34 +01:00",
-    "name": "25 november 07.04, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka, Ystadvägen",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-07.04-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
     "id": 559505,
     "datetime": "2024-11-25 7:22:37 +01:00",
     "name": "25 november 07.01, Brand, Sjöbo",
@@ -153,18 +237,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 559500,
-    "datetime": "2024-11-25 7:10:40 +01:00",
-    "name": "25 november 00.29, Brand, Örkelljunga",
-    "summary": "En till sjukhus efter brand i Örkelljunga",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-00.29-brand-orkelljunga/",
-    "type": "Brand",
-    "location": {
-      "name": "Örkelljunga",
-      "gps": "56.283635,13.278832"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 557718,
-    "datetime": "2024-11-18 10:32:58 +01:00",
-    "name": "18 november 07.22, Rattfylleri, Boden",
-    "summary": "Misstänkt rattfylleri i Boden.",
-    "url": "/aktuellt/handelser/2024/november/18/18-november-07.22-rattfylleri-boden/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 557716,
-    "datetime": "2024-11-18 10:27:18 +01:00",
-    "name": "18 november 07.54, Arbetsplatsolycka, Gävle",
-    "summary": "Arbetsplatsolycka i Gävle hamn.",
-    "url": "/aktuellt/handelser/2024/november/18/18-november-07.54-arbetsplatsolycka-gavle/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 557714,
-    "datetime": "2024-11-18 10:20:37 +01:00",
-    "name": "18 november 09.18, Trafikolycka, Helsingborg",
-    "summary": "En trafikolycka inträffar på Vårlöksgatan.",
-    "url": "/aktuellt/handelser/2024/november/18/18-november-09.18-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 557713,
-    "datetime": "2024-11-18 10:06:13 +01:00",
-    "name": "18 november 07.34, Stöld/inbrott, Enköping",
-    "summary": "Inbrott på byggarbetsplats.",
-    "url": "/aktuellt/handelser/2024/november/18/18-november-07.34-stoldinbrott-enkoping/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 557711,
-    "datetime": "2024-11-18 9:40:28 +01:00",
-    "name": "18 november 06.39, Arbetsplatsolycka, Hudiksvall",
-    "summary": "Man till sjukhus efter arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2024/november/18/18-november-06.39-arbetsplatsolycka-hudiksvall/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 557705,
-    "datetime": "2024-11-18 8:52:32 +01:00",
-    "name": "18 november 07.38, Trafikolycka, Skinnskatteberg",
-    "summary": "Trafikolycka mellan personbil och lastbil.",
-    "url": "/aktuellt/handelser/2024/november/18/18-november-07.38-trafikolycka-skinnskatteberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skinnskatteberg",
-      "gps": "59.826056,15.691519"
     }
   }
 ]
