@@ -1,5 +1,77 @@
 [
   {
+    "id": 559603,
+    "datetime": "2024-11-25 12:40:24 +01:00",
+    "name": "25 november 09.53, Stöld/inbrott, Härnösand",
+    "summary": "Gådeåstaden, ett boende larmar polisen om att det ska ha skett ett inbrott.",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-09.53-stoldinbrott-harnosand/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 559363,
+    "datetime": "2024-11-23 6:38:56 +01:00",
+    "name": "23 november 06.37, Övrigt, Dalarnas län",
+    "summary": "Ordinarie pressnumret 010-569 46 00 som varit ur funktion är nu återställt.",
+    "url": "/aktuellt/handelser/2024/november/23/23-november-06.37-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 559364,
+    "datetime": "2024-11-23 6:40:17 +01:00",
+    "name": "23 november 06.38, Övrigt, Värmlands län",
+    "summary": "Ordinarie pressnumret 010-569 46 som varit funktion är nu återställt.",
+    "url": "/aktuellt/handelser/2024/november/23/23-november-06.38-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 559362,
+    "datetime": "2024-11-23 6:37:12 +01:00",
+    "name": "23 november 06.30, Övrigt, Örebro län",
+    "summary": "Ordinarie pressnumret 010-569 46 00 som varit ur funktion är nu återställt.",
+    "url": "/aktuellt/handelser/2024/november/23/23-november-06.30-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 559598,
+    "datetime": "2024-11-25 11:43:10 +01:00",
+    "name": "25 november 11.25, Brand, Kungsbacka",
+    "summary": "På E6, i höjd med Hanhals och i södergående färdriktning, har en personbil med släp av okänd anledning fattat ",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-11.25-brand-kungsbacka/",
+    "type": "Brand",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 559602,
+    "datetime": "2024-11-25 12:26:50 +01:00",
+    "name": "25 november 09.51, Trafikkontroll, Kiruna",
+    "summary": "Midnattssolsvägen, polisen kontrollerar nykterhet i trafiken.",
+    "url": "/aktuellt/handelser/2024/november/25/25-november-09.51-trafikkontroll-kiruna/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
     "id": 559601,
     "datetime": "2024-11-25 12:11:23 +01:00",
     "name": "25 november 11.16, Trafikolycka, personskada, Stockholm",
@@ -9,18 +81,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 559598,
-    "datetime": "2024-11-25 11:43:10 +01:00",
-    "name": "25 november 11.25, Brand, Kungsbacka",
-    "summary": "På E6, i höjd med Hanhals, har en personbil med släp av okänd anledning fattat eld.",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-11.25-brand-kungsbacka/",
-    "type": "Brand",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
     }
   },
   {
@@ -417,42 +477,6 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 559363,
-    "datetime": "2024-11-23 6:38:56 +01:00",
-    "name": "23 november 06.37, Övrigt, Dalarnas län",
-    "summary": "Ordinarie pressnumret är f.n. ur funktion. Presstalespersonen alt. vakthavande befäl nås i stället på 010-567 ",
-    "url": "/aktuellt/handelser/2024/november/23/23-november-06.37-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 559362,
-    "datetime": "2024-11-23 6:37:12 +01:00",
-    "name": "23 november 06.30, Övrigt, Örebro län",
-    "summary": "Ordinarie pressnumret är f.n. ur funktion. Presstalespersonen alt. vakthavande befäl nås istället på 010-567 0",
-    "url": "/aktuellt/handelser/2024/november/23/23-november-06.30-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 559364,
-    "datetime": "2024-11-23 6:40:17 +01:00",
-    "name": "23 november 06.38, Övrigt, Värmlands län",
-    "summary": "Ordinarie pressnumret är f.n. ur funktion. Presstalespersonen alt. vakthavande befäl nås i stället på 010-567 ",
-    "url": "/aktuellt/handelser/2024/november/23/23-november-06.38-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Härjedalen",
       "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 557747,
-    "datetime": "2024-11-18 13:07:39 +01:00",
-    "name": "18 november 10.53, Räddningsinsats, Enköping",
-    "summary": "Helikopterhaveri vid flygfält.",
-    "url": "/aktuellt/handelser/2024/november/18/18-november-10.53-raddningsinsats-enkoping/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 557744,
-    "datetime": "2024-11-18 13:05:28 +01:00",
-    "name": "18 november 08.16, Rattfylleri, Örnsköldsvik",
-    "summary": "Misstänkt drograttfylleri i Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2024/november/18/18-november-08.16-rattfylleri-ornskoldsvik/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
