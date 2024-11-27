@@ -1,5 +1,113 @@
 [
   {
+    "id": 559977,
+    "datetime": "2024-11-27 13:43:13 +01:00",
+    "name": "27 november 09.07, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på Mariedal ska utredas.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-09.07-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 559976,
+    "datetime": "2024-11-27 13:43:09 +01:00",
+    "name": "27 november 12.25, Trafikolycka, Vallentuna",
+    "summary": "Trafikolycka med lastbil och personbil.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-12.25-trafikolycka-vallentuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 559975,
+    "datetime": "2024-11-27 13:11:12 +01:00",
+    "name": "27 november 12.31, Trafikolycka, Mölndal",
+    "summary": "I korsningen Bifrostgatan - Göteborgsvägen är det två bilister som kolliderar.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-12.31-trafikolycka-molndal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 559974,
+    "datetime": "2024-11-27 13:08:20 +01:00",
+    "name": "27 november 12.21, Trafikolycka, Vara",
+    "summary": "På E20 i södergående riktning är det en lastbilschaufför som upplever att han nästan blev prejad oavsiktligen ",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-12.21-trafikolycka-vara/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vara",
+      "gps": "58.261781,12.960194"
+    }
+  },
+  {
+    "id": 559973,
+    "datetime": "2024-11-27 13:00:34 +01:00",
+    "name": "27 november 12.18, Trafikolycka, Åmål",
+    "summary": "På Karlstadsvägen inträffar en olycka med två bilister inblandade.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-12.18-trafikolycka-amal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åmål",
+      "gps": "59.051117,12.697732"
+    }
+  },
+  {
+    "id": 559972,
+    "datetime": "2024-11-27 12:57:03 +01:00",
+    "name": "27 november 12.56, Misshandel, Kiruna",
+    "summary": "Man anhållen misstänkt för brott mot närstående.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-12.56-misshandel-kiruna/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 559971,
+    "datetime": "2024-11-27 12:51:37 +01:00",
+    "name": "27 november 11.05, Arbetsplatsolycka, Sotenäs",
+    "summary": "På Evja Stenbrott är det en man i 50-årsåldern som får ett stenblock på ena benet.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-11.05-arbetsplatsolycka-sotenas/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Sotenäs",
+      "gps": "58.440139,11.361439"
+    }
+  },
+  {
+    "id": 559970,
+    "datetime": "2024-11-27 12:49:05 +01:00",
+    "name": "27 november 12.48, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-12.48-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 559928,
+    "datetime": "2024-11-27 9:26:08 +01:00",
+    "name": "27 november 09.21, Brand, Strängnäs",
+    "summary": "En skadad vid brand i bostad.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-09.21-brand-strangnas/",
+    "type": "Brand",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
     "id": 559967,
     "datetime": "2024-11-27 12:36:52 +01:00",
     "name": "27 november 12.36, Övrigt, Östergötlands län",
@@ -33,18 +141,6 @@
     "location": {
       "name": "Järfälla",
       "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 559928,
-    "datetime": "2024-11-27 9:26:08 +01:00",
-    "name": "27 november 09.21, Brand, Strängnäs",
-    "summary": "En skadad vid brand i bostad.",
-    "url": "/aktuellt/handelser/2024/november/27/27-november-09.21-brand-strangnas/",
-    "type": "Brand",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 558992,
-    "datetime": "2024-11-20 9:50:00 +01:00",
-    "name": "20 november 09.26, Trafikolycka, Timrå",
-    "summary": "Larm om trafikolycka på länsväg 631/Norra vägen, Timrådalen.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-09.26-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 559057,
-    "datetime": "2024-11-20 13:01:29 +01:00",
-    "name": "20 november 13.01, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-13.01-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 558972,
-    "datetime": "2024-11-20 8:01:23 +01:00",
-    "name": "20 november 08.01, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-08.01-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 559061,
-    "datetime": "2024-11-20 13:24:40 +01:00",
-    "name": "20 november 13.15, Trafikolycka, Borlänge",
-    "summary": "lastbilsekipage samt bilist i kollision på Backaviadukten i Borlänge.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-13.15-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 559060,
-    "datetime": "2024-11-20 13:24:14 +01:00",
-    "name": "20 november 11.41, Trafikbrott, Stockholm",
-    "summary": "Fordonsförare i Vårberg rapporterades för olovlig körning.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-11.41-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 559059,
-    "datetime": "2024-11-20 13:22:29 +01:00",
-    "name": "20 november 09.50, Trafikkontroll, Krokom",
-    "summary": "Resultat efter en trafikkontroll på Genvägen i Krokom",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-09.50-trafikkontroll-krokom/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 559055,
-    "datetime": "2024-11-20 12:51:24 +01:00",
-    "name": "20 november 12.12, Stöld, Umeå",
-    "summary": "Misstänkt ringa stöld i butik i centrala Umeå.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-12.12-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 559053,
-    "datetime": "2024-11-20 12:45:22 +01:00",
-    "name": "20 november 11.30, Trafikolycka, Västerås",
-    "summary": "Tonåring till sjukhus efter trafikolycka.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-11.30-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
