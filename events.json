@@ -1,14 +1,14 @@
 [
   {
-    "id": 559985,
-    "datetime": "2024-11-27 14:59:18 +01:00",
-    "name": "27 november 14.51, Trafikolycka, Nybro",
-    "summary": "Personbil i singelolycka på länsväg 603.",
-    "url": "/aktuellt/handelser/2024/november/27/27-november-14.51-trafikolycka-nybro/",
-    "type": "Trafikolycka",
+    "id": 559997,
+    "datetime": "2024-11-27 16:27:11 +01:00",
+    "name": "27 november 13.27, Trafikbrott, Trollhättan",
+    "summary": "Vi får in ett larm om en bil som kör vårdslöst på riksväg 44 mellan Uddevalla och Trollhättan.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-13.27-trafikbrott-trollhattan/",
+    "type": "Trafikbrott",
     "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
+      "name": "Trollhättan",
+      "gps": "58.283489,12.285821"
     }
   },
   {
@@ -21,6 +21,90 @@
     "location": {
       "name": "Sölvesborg",
       "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 559993,
+    "datetime": "2024-11-27 16:16:45 +01:00",
+    "name": "27 november 15.38, Brand, Umeå",
+    "summary": "Larm om att en brand i en buss på Strömpilsplatsen, Gimonäs.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-15.38-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 559976,
+    "datetime": "2024-11-27 13:43:09 +01:00",
+    "name": "27 november 12.25, Trafikolycka, Vallentuna",
+    "summary": "Trafikolycka med lastbil och personbil.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-12.25-trafikolycka-vallentuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vallentuna",
+      "gps": "59.5357,18.078017"
+    }
+  },
+  {
+    "id": 559988,
+    "datetime": "2024-11-27 16:08:15 +01:00",
+    "name": "27 november 13.55, Trafikolycka, personskada, Färgelanda",
+    "summary": "Två bilar har kolliderat i en korsning i Högsäter.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-13.55-trafikolycka-personskada-fargelanda/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Färgelanda",
+      "gps": "58.567559,11.994926"
+    }
+  },
+  {
+    "id": 559989,
+    "datetime": "2024-11-27 16:06:53 +01:00",
+    "name": "27 november 15.35, Trafikolycka, Sundsvall",
+    "summary": "Larm om trafikolycka på E4 mellan Bredsand och Nolby.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-15.35-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 559986,
+    "datetime": "2024-11-27 15:51:09 +01:00",
+    "name": "27 november 11.51, Misshandel, Östersund",
+    "summary": "Polis larmas till centrala Östersund där en man uppges ha misshandlat en annan man.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-11.51-misshandel-ostersund/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 559987,
+    "datetime": "2024-11-27 15:49:35 +01:00",
+    "name": "27 november 14.59, Trafikolycka, Västerås",
+    "summary": "Cyklist påkörd.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-14.59-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 559985,
+    "datetime": "2024-11-27 14:59:18 +01:00",
+    "name": "27 november 14.51, Trafikolycka, Nybro",
+    "summary": "Personbil i singelolycka på länsväg 603.",
+    "url": "/aktuellt/handelser/2024/november/27/27-november-14.51-trafikolycka-nybro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nybro",
+      "gps": "56.7438,15.908681"
     }
   },
   {
@@ -57,18 +141,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 559976,
-    "datetime": "2024-11-27 13:43:09 +01:00",
-    "name": "27 november 12.25, Trafikolycka, Vallentuna",
-    "summary": "Trafikolycka med lastbil och personbil.",
-    "url": "/aktuellt/handelser/2024/november/27/27-november-12.25-trafikolycka-vallentuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vallentuna",
-      "gps": "59.5357,18.078017"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 559083,
-    "datetime": "2024-11-20 16:11:59 +01:00",
-    "name": "20 november 13.37, Fylleri/LOB, Östersund",
-    "summary": "Centrum, polisen kontrollerar en berusad man",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-13.37-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 559081,
-    "datetime": "2024-11-20 16:02:58 +01:00",
-    "name": "20 november 15.01, Misshandel, Stockholm",
-    "summary": "En man rispar en kvinna i Kista galleria.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-15.01-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 559082,
-    "datetime": "2024-11-20 16:07:42 +01:00",
-    "name": "20 november 16.05, Misshandel, Vingåker",
-    "summary": "Man gripen för misshandel.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-16.05-misshandel-vingaker/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Vingåker",
-      "gps": "59.043375,15.870939"
-    }
-  },
-  {
-    "id": 559073,
-    "datetime": "2024-11-20 15:27:54 +01:00",
-    "name": "20 november 06.47, Motorfordon, stöld, Timrå",
-    "summary": "Två bilar har tidigare anmälts stulna, en skåpbil i Njutånger och en personbil i Sundsvall.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-06.47-motorfordon-stold-timra/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 559067,
-    "datetime": "2024-11-20 14:28:08 +01:00",
-    "name": "20 november 14.06, Bråk, Kristianstad",
-    "summary": "Bråk på skola på Österäng.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-14.06-brak-kristianstad/",
-    "type": "Bråk",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 559070,
-    "datetime": "2024-11-20 15:01:14 +01:00",
-    "name": "20 november 14.22, Trafikolycka, Sunne",
-    "summary": "Polisen är på plats vid en trafikolycka väster om Sunne.",
-    "url": "/aktuellt/handelser/2024/november/20/20-november-14.22-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
     }
   }
 ]
