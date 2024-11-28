@@ -1,14 +1,26 @@
 [
   {
-    "id": 560119,
-    "datetime": "2024-11-28 15:43:02 +01:00",
-    "name": "28 november 15.42, Brand, Eskilstuna",
-    "summary": "Larm om brand på Norr i Eskilstuna.",
-    "url": "/aktuellt/handelser/2024/november/28/28-november-15.42-brand-eskilstuna/",
-    "type": "Brand",
+    "id": 560125,
+    "datetime": "2024-11-28 16:17:36 +01:00",
+    "name": "28 november 16.10, Trafikolycka, Helsingborg",
+    "summary": "Tre personbilar i kollision på Christinelundsvägen.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-16.10-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 560124,
+    "datetime": "2024-11-28 16:09:01 +01:00",
+    "name": "28 november 15.02, Trafikkontroll, Dorotea",
+    "summary": "Resultat efter en trafikkontroll på Storgatan, Rockvattnet.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-15.02-trafikkontroll-dorotea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Dorotea",
+      "gps": "64.261794,16.415234"
     }
   },
   {
@@ -21,6 +33,42 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 560112,
+    "datetime": "2024-11-28 14:33:24 +01:00",
+    "name": "28 november 14.23, Trafikolycka, Markaryd",
+    "summary": "Personbil i singelolycka på E4 söder om Markaryd.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-14.23-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 560121,
+    "datetime": "2024-11-28 15:53:52 +01:00",
+    "name": "28 november 14.23, Olaga hot, Göteborg",
+    "summary": "Polisen har befunnit sig i området kring Tuve torg för att kontrollera uppgifter som inkommit om ett olaga hot",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-14.23-olaga-hot-goteborg/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 560119,
+    "datetime": "2024-11-28 15:43:02 +01:00",
+    "name": "28 november 15.42, Brand, Eskilstuna",
+    "summary": "Larm om brand på Norr i Eskilstuna.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-15.42-brand-eskilstuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -45,18 +93,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 560112,
-    "datetime": "2024-11-28 14:33:24 +01:00",
-    "name": "28 november 14.23, Trafikolycka, Markaryd",
-    "summary": "Personbil i singelolycka på E4 söder om Markaryd.",
-    "url": "/aktuellt/handelser/2024/november/28/28-november-14.23-trafikolycka-markaryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 559192,
-    "datetime": "2024-11-21 15:01:52 +01:00",
-    "name": "21 november 14.57, Skadegörelse, Eskilstuna",
-    "summary": "Skadegörelse mot partilokal i Eskilstuna",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-14.57-skadegorelse-eskilstuna/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 559184,
-    "datetime": "2024-11-21 13:57:37 +01:00",
-    "name": "21 november 13.41, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka på Marknadsgatan, Alvik.",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-13.41-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 559180,
-    "datetime": "2024-11-21 13:41:37 +01:00",
-    "name": "21 november 11.02, Arbetsplatsolycka, Borlänge",
-    "summary": "En man i fyrtioårsåldern har förts till sjukhus efter en arbetsplatslycka öster om Borlänge.",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-11.02-arbetsplatsolycka-borlange/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   }
 ]
