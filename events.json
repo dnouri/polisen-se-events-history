@@ -1,5 +1,89 @@
 [
   {
+    "id": 560119,
+    "datetime": "2024-11-28 15:43:02 +01:00",
+    "name": "28 november 15.42, Brand, Eskilstuna",
+    "summary": "Larm om brand på Norr i Eskilstuna.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-15.42-brand-eskilstuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 560121,
+    "datetime": "2024-11-28 15:53:52 +01:00",
+    "name": "28 november 14.23, Olaga hot, Göteborg",
+    "summary": "Polisen har befunnit sig i området kring Tuve torg för att kontrollera uppgifter som inkommit om ett olaga hot",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-14.23-olaga-hot-goteborg/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 560129,
+    "datetime": "2024-11-28 18:09:56 +01:00",
+    "name": "28 november 15.09, Rattfylleri, Berg",
+    "summary": "Misstänkt drograttfylleri, Svenstavik.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-15.09-rattfylleri-berg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
+    "id": 560140,
+    "datetime": "2024-11-28 18:08:11 +01:00",
+    "name": "28 november 16.55, Olovlig körning, Timrå",
+    "summary": "Misstänkt grov olovlig körning, Fagervik.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-16.55-olovlig-korning-timra/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 560139,
+    "datetime": "2024-11-28 18:03:49 +01:00",
+    "name": "28 november 17.32, Trafikolycka, vilt, Storuman",
+    "summary": "Olycka med älg och personbil på E45 i höjd med Nyliden.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-17.32-trafikolycka-vilt-storuman/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 560137,
+    "datetime": "2024-11-28 17:58:44 +01:00",
+    "name": "28 november 16.44, Motorfordon, stöld, Stockholm",
+    "summary": "Polis larmas i Vasastaden med anledning av en bilstöld.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-16.44-motorfordon-stold-stockholm/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 560134,
+    "datetime": "2024-11-28 17:24:41 +01:00",
+    "name": "28 november 16.44, Trafikolycka, Kungälv",
+    "summary": "I korsningen mellan länsväg 599 och länsväg 601, inträffar en singelolycka.",
+    "url": "/aktuellt/handelser/2024/november/28/28-november-16.44-trafikolycka-kungalv/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
     "id": 560136,
     "datetime": "2024-11-28 17:51:56 +01:00",
     "name": "28 november 16.15, Trafikolycka, personskada, Huddinge",
@@ -45,30 +129,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 560134,
-    "datetime": "2024-11-28 17:24:41 +01:00",
-    "name": "28 november 16.44, Trafikolycka, Kungälv",
-    "summary": "I korsningen mellan länsväg 599 och länsväg 601, inträffar en singelolycka.",
-    "url": "/aktuellt/handelser/2024/november/28/28-november-16.44-trafikolycka-kungalv/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 560119,
-    "datetime": "2024-11-28 15:43:02 +01:00",
-    "name": "28 november 15.42, Brand, Eskilstuna",
-    "summary": "Larm om brand på Norr i Eskilstuna.",
-    "url": "/aktuellt/handelser/2024/november/28/28-november-15.42-brand-eskilstuna/",
-    "type": "Brand",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -165,18 +225,6 @@
     "location": {
       "name": "Markaryd",
       "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 560121,
-    "datetime": "2024-11-28 15:53:52 +01:00",
-    "name": "28 november 14.23, Olaga hot, Göteborg",
-    "summary": "Polisen har befunnit sig i området kring Tuve torg för att kontrollera uppgifter som inkommit om ett olaga hot",
-    "url": "/aktuellt/handelser/2024/november/28/28-november-14.23-olaga-hot-goteborg/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 559204,
-    "datetime": "2024-11-21 16:20:50 +01:00",
-    "name": "21 november 16.15, Bråk, Malmö",
-    "summary": "Bråk på vandrarhem.",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-16.15-brak-malmo/",
-    "type": "Bråk",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 559216,
-    "datetime": "2024-11-21 17:41:47 +01:00",
-    "name": "21 november 17.41, Övrigt, Jönköpings län",
-    "summary": "Se upp för hala vägbanor",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-17.41-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 559215,
-    "datetime": "2024-11-21 17:41:19 +01:00",
-    "name": "21 november 17.40, Övrigt, Södermanlands län",
-    "summary": "Se upp för hala vägbanor",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-17.40-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 559214,
-    "datetime": "2024-11-21 17:40:35 +01:00",
-    "name": "21 november 17.25, Övrigt, Östergötlands län",
-    "summary": "Se upp för hala vägbanor",
-    "url": "/aktuellt/handelser/2024/november/21/21-november-17.25-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
