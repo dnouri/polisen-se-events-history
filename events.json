@@ -1,5 +1,125 @@
 [
   {
+    "id": 560390,
+    "datetime": "2024-12-02 7:30:14 +01:00",
+    "name": "02 december 03.26, Inbrott, försök, Värmdö",
+    "summary": "Två maskerade personer försöker göra inbrott i en bil.",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-03.26-inbrott-forsok-varmdo/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 560389,
+    "datetime": "2024-12-02 7:23:35 +01:00",
+    "name": "02 december 07.00, Övrigt, Kronobergs län",
+    "summary": "Mediacenter i Syd är obemannat fram till klockan 08.00",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-07.00-ovrigt-kronobergs-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 560388,
+    "datetime": "2024-12-02 7:23:00 +01:00",
+    "name": "02 december 07.00, Övrigt, Kalmar län",
+    "summary": "Mediacenter i Syd är obemannat fram till klockan 08.00",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-07.00-ovrigt-kalmar-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 560387,
+    "datetime": "2024-12-02 7:22:24 +01:00",
+    "name": "02 december 07.00, Övrigt, Blekinge län",
+    "summary": "Mediacenter i Syd är obemannat fram till klockan 08.00",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-07.00-ovrigt-blekinge-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 560386,
+    "datetime": "2024-12-02 7:21:17 +01:00",
+    "name": "02 december 07.00, Övrigt, Skåne län",
+    "summary": "Mediacenter i Syd är obemannat fram till 08.00",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-07.00-ovrigt-skane-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 560385,
+    "datetime": "2024-12-02 7:18:40 +01:00",
+    "name": "02 december 07.18, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-07.18-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 560382,
+    "datetime": "2024-12-02 7:02:59 +01:00",
+    "name": "02 december 07.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-07.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 560384,
+    "datetime": "2024-12-02 7:02:49 +01:00",
+    "name": "02 december 07.01, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-07.01-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 560378,
+    "datetime": "2024-12-02 6:43:05 +01:00",
+    "name": "01 december 06.43, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till måndag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2024/december/1/01-december-06.43-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 560383,
+    "datetime": "2024-12-02 6:54:23 +01:00",
+    "name": "02 december 06.06, Trafikolycka, Örnsköldsvik",
+    "summary": "Trafikolycka på E4 Bjästa, Örnsköldsvik",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-06.06-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
     "id": 560381,
     "datetime": "2024-12-02 6:43:10 +01:00",
     "name": "02 december 06.43, Sammanfattning natt, Örebro län",
@@ -21,18 +141,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 560378,
-    "datetime": "2024-12-02 6:43:05 +01:00",
-    "name": "01 december 06.43, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till måndag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2024/december/1/01-december-06.43-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Vingåker",
       "gps": "59.043375,15.870939"
-    }
-  },
-  {
-    "id": 559465,
-    "datetime": "2024-11-24 12:51:56 +01:00",
-    "name": "24 november 12.42, Trafikolycka, Svedala",
-    "summary": "Två personbilar i kollision i Bara.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-12.42-trafikolycka-svedala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Svedala",
-      "gps": "55.508908,13.23711"
-    }
-  },
-  {
-    "id": 559464,
-    "datetime": "2024-11-24 12:45:57 +01:00",
-    "name": "24 november 09.28, Trafikkontroll, Sundsvall",
-    "summary": "Sundsvall, inga anmärkningar vid nykterhetskontroll.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-09.28-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 559454,
-    "datetime": "2024-11-24 9:08:50 +01:00",
-    "name": "24 november 09.08, Mord/dråp, försök, Eskilstuna",
-    "summary": "En gripen efter larm om skadad person.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-09.08-morddrap-forsok-eskilstuna/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 559463,
-    "datetime": "2024-11-24 11:14:56 +01:00",
-    "name": "24 november 11.14, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-11.14-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 559461,
-    "datetime": "2024-11-24 10:58:45 +01:00",
-    "name": "24 november 10.50, Trafikolycka, Växjö",
-    "summary": "Personbil och cykel i kollision.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-10.50-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 559462,
-    "datetime": "2024-11-24 11:01:39 +01:00",
-    "name": "24 november 10.00, Åldringsbrott, Örebro län",
-    "summary": "Kvinna i 90-årsåldern bestulen på smycken i sin bostad i Karlskoga.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-10.00-aldringsbrott-orebro-lan/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 559450,
-    "datetime": "2024-11-24 7:59:16 +01:00",
-    "name": "24 november 01.38, Våldtäkt, Kristianstad",
-    "summary": "Man gripen misstänkt för våldtäkt.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-01.38-valdtakt-kristianstad/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 559459,
-    "datetime": "2024-11-24 10:44:49 +01:00",
-    "name": "24 november 09.43, Bråk, Stockholm",
-    "summary": "Flera inringare hör hur det skriks på ett aggressivt sätt i en grannlägenhet på Södermalm och ringer föredömli",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-09.43-brak-stockholm/",
-    "type": "Bråk",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 559457,
-    "datetime": "2024-11-24 9:52:58 +01:00",
-    "name": "24 november 09.41, Trafikolycka, Örnsköldsvik",
-    "summary": "Singelolycka på E4 söder om Husum.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-09.41-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
