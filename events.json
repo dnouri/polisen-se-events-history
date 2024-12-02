@@ -1,14 +1,38 @@
 [
   {
-    "id": 560436,
-    "datetime": "2024-12-02 15:23:52 +01:00",
-    "name": "02 december 13.55, Bråk, Luleå",
-    "summary": "Luleå, polis beordras till busstationen där det är någon form av bråk",
-    "url": "/aktuellt/handelser/2024/december/2/02-december-13.55-brak-lulea",
-    "type": "Bråk",
+    "id": 560453,
+    "datetime": "2024-12-02 16:23:16 +01:00",
+    "name": "02 december 16.22, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken under dagen",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-16.22-trafikkontroll-norrbottens-lan",
+    "type": "Trafikkontroll",
     "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 560451,
+    "datetime": "2024-12-02 16:10:06 +01:00",
+    "name": "02 december 14.57, Arbetsplatsolycka, Täby",
+    "summary": "Polis larmas till Täby med anledning av en fallolycka.",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-14.57-arbetsplatsolycka-taby",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
+    "id": 560373,
+    "datetime": "2024-12-01 22:14:10 +01:00",
+    "name": "01 december 22.07, Trafikolycka, Kristianstad",
+    "summary": "E22, Linderöd",
+    "url": "/aktuellt/handelser/2024/december/1/01-december-22.07-trafikolycka-kristianstad",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -24,15 +48,15 @@
     }
   },
   {
-    "id": 560373,
-    "datetime": "2024-12-01 22:14:10 +01:00",
-    "name": "01 december 22.07, Trafikolycka, Kristianstad",
-    "summary": "E22, Linderöd",
-    "url": "/aktuellt/handelser/2024/december/1/01-december-22.07-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
+    "id": 560436,
+    "datetime": "2024-12-02 15:23:52 +01:00",
+    "name": "02 december 13.55, Bråk, Luleå",
+    "summary": "Luleå, polis beordras till busstationen där det är någon form av bråk",
+    "url": "/aktuellt/handelser/2024/december/2/02-december-13.55-brak-lulea",
+    "type": "Bråk",
     "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 559477,
-    "datetime": "2024-11-24 22:15:46 +01:00",
-    "name": "24 november 21.49, Stöld, Malmö",
-    "summary": "Polis larmas till Högaholm med anledning av en misstänkt stöld.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-21.49-stold-malmo/",
-    "type": "Stöld",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 559476,
-    "datetime": "2024-11-24 21:45:36 +01:00",
-    "name": "24 november 21.24, Trafikolycka, Karlskrona",
-    "summary": "En trafikolycka inträffar på E22 nordöst om Jämjö.",
-    "url": "/aktuellt/handelser/2024/november/24/24-november-21.24-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   }
 ]
