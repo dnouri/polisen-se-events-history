@@ -1,5 +1,41 @@
 [
   {
+    "id": 560596,
+    "datetime": "2024-12-03 21:41:29 +01:00",
+    "name": "03 december 21.30, Explosion, Stockholm",
+    "summary": "Larm om explosion vid bostad i Hässelby",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-21.30-explosion-stockholm",
+    "type": "Explosion",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 560595,
+    "datetime": "2024-12-03 21:35:29 +01:00",
+    "name": "03 december 19.11, Trafikolycka, Lycksele",
+    "summary": "Länsväg 363/365, två trafikanter har kolliderat i en korsning",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-19.11-trafikolycka-lycksele",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 560594,
+    "datetime": "2024-12-03 21:33:28 +01:00",
+    "name": "03 december 17.57, Trafikolycka, personskada, Gävle",
+    "summary": "Fotgängare skadad av bil.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-17.57-trafikolycka-personskada-gavle",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 560593,
     "datetime": "2024-12-03 21:12:45 +01:00",
     "name": "03 december 18.49, Stöld, Umeå",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 559765,
-    "datetime": "2024-11-25 20:26:59 +01:00",
-    "name": "25 november 18.23, Rån, Göteborg",
-    "summary": "En man rånades av flera gärningspersoner i Kviberg.",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-18.23-ran-goteborg/",
-    "type": "Rån",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 559764,
-    "datetime": "2024-11-25 20:19:19 +01:00",
-    "name": "25 november 19.19, Trafikolycka, personskada, Hallsberg",
-    "summary": "En kvinna i tjugoårsåldern har förts till sjukhus med oklara skador efter an trafikolycka i centrala Hallsberg",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-19.19-trafikolycka-personskada-hallsberg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Hallsberg",
-      "gps": "59.066532,15.10229"
-    }
-  },
-  {
-    "id": 559763,
-    "datetime": "2024-11-25 20:00:48 +01:00",
-    "name": "25 november 15.14, Rattfylleri, Umeå",
-    "summary": "Kronoparken, trafikant stoppad för kontroll",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-15.14-rattfylleri-umea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
