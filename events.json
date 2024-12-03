@@ -1,5 +1,41 @@
 [
   {
+    "id": 560542,
+    "datetime": "2024-12-03 12:22:06 +01:00",
+    "name": "03 december 12.18, Rån, Eskilstuna",
+    "summary": "Flicka rånad på mobiltelefon.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-12.18-ran-eskilstuna",
+    "type": "Rån",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 560541,
+    "datetime": "2024-12-03 12:19:39 +01:00",
+    "name": "03 december 12.19, Trafikolycka, Karlstad",
+    "summary": "Person påkörd i Karlstad.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-12.19-trafikolycka-karlstad",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 560540,
+    "datetime": "2024-12-03 12:12:21 +01:00",
+    "name": "03 december 11.57, Trafikolycka, Arvika",
+    "summary": "Gångare påkörd av bilist i Charlottenberg.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-11.57-trafikolycka-arvika",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
     "id": 560505,
     "datetime": "2024-12-03 8:25:06 +01:00",
     "name": "03 december 07.24, Trafikolycka, personskada, Mölndal",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Lidköping",
       "gps": "58.503505,13.157077"
-    }
-  },
-  {
-    "id": 559665,
-    "datetime": "2024-11-25 14:26:21 +01:00",
-    "name": "25 november 13.20, Skadegörelse, Örebro",
-    "summary": "En berusad man har krossat en ruta till en entrédörr i området Stjärnhusen i Örebro.",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-13.20-skadegorelse-orebro/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 559362,
-    "datetime": "2024-11-23 6:37:12 +01:00",
-    "name": "23 november 06.30, Övrigt, Örebro län",
-    "summary": "Ordinarie pressnumret 010-569 46 00 som varit ur funktion är nu återställt.",
-    "url": "/aktuellt/handelser/2024/november/23/23-november-06.30-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 559364,
-    "datetime": "2024-11-23 6:40:17 +01:00",
-    "name": "23 november 06.38, Övrigt, Värmlands län",
-    "summary": "Ordinarie pressnumret 010-569 46 som varit funktion är nu återställt.",
-    "url": "/aktuellt/handelser/2024/november/23/23-november-06.38-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
