@@ -1,14 +1,26 @@
 [
   {
-    "id": 560544,
-    "datetime": "2024-12-03 12:34:12 +01:00",
-    "name": "03 december 12.32, Rån, Katrineholm",
-    "summary": "Man rånad på plånbok i Katrineholm.",
-    "url": "/aktuellt/handelser/2024/december/3/03-december-12.32-ran-katrineholm",
-    "type": "Rån",
+    "id": 560550,
+    "datetime": "2024-12-03 13:42:09 +01:00",
+    "name": "03 december 13.26, Trafikolycka, singel, Örebro",
+    "summary": "En skåpbil har voltat på Rv 50 norr om Örebro.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-13.26-trafikolycka-singel-orebro",
+    "type": "Trafikolycka, singel",
     "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 560549,
+    "datetime": "2024-12-03 13:34:07 +01:00",
+    "name": "03 december 13.31, Trafikolycka, Kil",
+    "summary": "Lastbil och personbil i kollision på E45",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-13.31-trafikolycka-kil",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
     }
   },
   {
@@ -21,6 +33,54 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 560540,
+    "datetime": "2024-12-03 12:12:21 +01:00",
+    "name": "03 december 11.57, Trafikolycka, Arvika",
+    "summary": "Gångare påkörd av bilist i Charlottenberg.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-11.57-trafikolycka-arvika",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 560532,
+    "datetime": "2024-12-03 11:07:00 +01:00",
+    "name": "03 december 10.38, Trafikolycka, Malung-Sälen",
+    "summary": "En kollision mellan två bilister har inträffat i Sälen.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-10.38-trafikolycka-malung-salen",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 560546,
+    "datetime": "2024-12-03 12:45:56 +01:00",
+    "name": "03 december 08.14, Skadegörelse, Sundsvall",
+    "summary": "Grov skadegörelse på fastighet i Inre hamnen.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-08.14-skadegorelse-sundsvall",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 560544,
+    "datetime": "2024-12-03 12:34:12 +01:00",
+    "name": "03 december 12.32, Rån, Katrineholm",
+    "summary": "Man rånad på plånbok i Katrineholm.",
+    "url": "/aktuellt/handelser/2024/december/3/03-december-12.32-ran-katrineholm",
+    "type": "Rån",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
     }
   },
   {
@@ -48,18 +108,6 @@
     }
   },
   {
-    "id": 560540,
-    "datetime": "2024-12-03 12:12:21 +01:00",
-    "name": "03 december 11.57, Trafikolycka, Arvika",
-    "summary": "Gångare påkörd av bilist i Charlottenberg.",
-    "url": "/aktuellt/handelser/2024/december/3/03-december-11.57-trafikolycka-arvika",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
     "id": 560505,
     "datetime": "2024-12-03 8:25:06 +01:00",
     "name": "03 december 07.24, Trafikolycka, personskada, Mölndal",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Mölndal",
       "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 560532,
-    "datetime": "2024-12-03 11:07:00 +01:00",
-    "name": "03 december 10.38, Trafikolycka, Malung-Sälen",
-    "summary": "En kollision mellan två bilister har inträffat i Sälen.",
-    "url": "/aktuellt/handelser/2024/december/3/03-december-10.38-trafikolycka-malung-salen",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 559691,
-    "datetime": "2024-11-25 16:12:57 +01:00",
-    "name": "25 november 15.03, Stöld, Stockholm",
-    "summary": "En person som stulit kött i en matvarubutik stoppas och kontrolleras.",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-15.03-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 559684,
-    "datetime": "2024-11-25 15:44:25 +01:00",
-    "name": "25 november 13.31, Stöld, Umeå",
-    "summary": "Centrala stan, kvinna stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-13.31-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 559683,
-    "datetime": "2024-11-25 15:40:10 +01:00",
-    "name": "25 november 13.44, Stöld, Luleå",
-    "summary": "Innerstaden, man stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-13.44-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
