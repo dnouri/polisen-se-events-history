@@ -1,14 +1,38 @@
 [
   {
-    "id": 560629,
-    "datetime": "2024-12-04 8:32:28 +01:00",
-    "name": "04 december 08.14, Trafikolycka, Karlskrona",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2024/december/4/04-december-08.14-trafikolycka-karlskrona",
+    "id": 560635,
+    "datetime": "2024-12-04 9:32:55 +01:00",
+    "name": "04 december 08.02, Rattfylleri, Umeå",
+    "summary": "Umeå, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-08.02-rattfylleri-umea",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 560626,
+    "datetime": "2024-12-04 9:13:02 +01:00",
+    "name": "04 december 08.12, Trafikolycka, singel, Köping",
+    "summary": "Bil som har kört in i mitträcket.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-08.12-trafikolycka-singel-koping",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 560624,
+    "datetime": "2024-12-04 8:12:06 +01:00",
+    "name": "04 december 07.56, Trafikolycka, Luleå",
+    "summary": "Luleå, trafikolycka i Notviken.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-07.56-trafikolycka-lulea",
     "type": "Trafikolycka",
     "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -36,6 +60,54 @@
     }
   },
   {
+    "id": 560632,
+    "datetime": "2024-12-04 8:48:22 +01:00",
+    "name": "04 december 08.44, Övrigt, Örebro län",
+    "summary": "Under onsdagen stänger Bergslagens regionala mediecenter tidigare.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-08.44-ovrigt-orebro-lan",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 560631,
+    "datetime": "2024-12-04 8:48:03 +01:00",
+    "name": "04 december 08.46, Övrigt, Dalarnas län",
+    "summary": "Under onsdagen stänger Bergslagens regionala mediecenter tidigare.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-08.46-ovrigt-dalarnas-lan",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 560630,
+    "datetime": "2024-12-04 8:47:49 +01:00",
+    "name": "04 december 08.46, Övrigt, Värmlands län",
+    "summary": "Under onsdagen stänger Bergslagens regionala mediecenter tidigare.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-08.46-ovrigt-varmlands-lan",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 560629,
+    "datetime": "2024-12-04 8:32:28 +01:00",
+    "name": "04 december 08.14, Trafikolycka, Karlskrona",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-08.14-trafikolycka-karlskrona",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
     "id": 560625,
     "datetime": "2024-12-04 8:17:25 +01:00",
     "name": "04 december 04.54, Trafikolycka, personskada, Västerås",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 560624,
-    "datetime": "2024-12-04 8:12:06 +01:00",
-    "name": "04 december 07.56, Trafikolycka, Luleå",
-    "summary": "Luleå, trafikolycka i Notviken.",
-    "url": "/aktuellt/handelser/2024/december/4/04-december-07.56-trafikolycka-lulea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 559817,
-    "datetime": "2024-11-26 8:25:12 +01:00",
-    "name": "26 november 08.12, Trafikolycka, Landskrona",
-    "summary": "Trafikolycka på Rv17 vid Råga Hörstad",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-08.12-trafikolycka-landskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 559816,
-    "datetime": "2024-11-26 8:21:45 +01:00",
-    "name": "26 november 07.32, Stöld/inbrott, Västerås",
-    "summary": "Försök till inbrott på hamburgerrestaurang.",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-07.32-stoldinbrott-vasteras/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 559815,
-    "datetime": "2024-11-26 8:04:33 +01:00",
-    "name": "26 november 08.03, Uppdatering, Göteborg",
-    "summary": "Gällande den försvunna mannen i Kålltorp.",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-08.03-uppdatering-goteborg/",
-    "type": "Uppdatering",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 559814,
-    "datetime": "2024-11-26 7:58:22 +01:00",
-    "name": "26 november 07.56, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer ett urval av nattens händelser i Jönköpings län",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-07.56-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 559810,
-    "datetime": "2024-11-26 7:57:38 +01:00",
-    "name": "25 november 23.38, Rattfylleri, Västerås",
-    "summary": "Bilförare misstänkt för drograttfylleri och narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/november/25/25-november-23.38-rattfylleri-vasteras/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
