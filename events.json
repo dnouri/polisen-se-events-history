@@ -1,5 +1,53 @@
 [
   {
+    "id": 560705,
+    "datetime": "2024-12-04 17:28:42 +01:00",
+    "name": "04 december 17.03, Trafikolycka, Uddevalla",
+    "summary": "Två personbilar är involverade i en olycka på Uddevallabron.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-17.03-trafikolycka-uddevalla",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 560704,
+    "datetime": "2024-12-04 17:22:48 +01:00",
+    "name": "04 december 17.06, Trafikolycka, Munkedal",
+    "summary": "Två personbilar är involverade i en olycka på E6 söder om Munkedal.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-17.06-trafikolycka-munkedal",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Munkedal",
+      "gps": "58.471505,11.680192"
+    }
+  },
+  {
+    "id": 560701,
+    "datetime": "2024-12-04 17:00:38 +01:00",
+    "name": "04 december 15.49, Trafikolycka, Kramfors",
+    "summary": "Larm om trafikolycka på riksväg 90, Öd.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-15.49-trafikolycka-kramfors",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 560700,
+    "datetime": "2024-12-04 16:56:29 +01:00",
+    "name": "04 december 14.18, Trafikbrott, Stockholm",
+    "summary": "Två bilar inblandade i trafikolycka i Vasastaden.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-14.18-trafikbrott-stockholm",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 560693,
     "datetime": "2024-12-04 16:23:19 +01:00",
     "name": "04 december 16.13, Trafikolycka, vilt, Hässleholm",
@@ -12,11 +60,23 @@
     }
   },
   {
-    "id": 560692,
-    "datetime": "2024-12-04 16:18:35 +01:00",
+    "id": 560699,
+    "datetime": "2024-12-04 16:51:19 +01:00",
+    "name": "04 december 16.01, Brand, Boden",
+    "summary": "Larm om brand i en personbil, Sävastön.",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-16.01-brand-boden",
+    "type": "Brand",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 560698,
+    "datetime": "2024-12-04 16:48:02 +01:00",
     "name": "04 december 13.05, Motorfordon, anträffat stulet, Härnösand",
     "summary": "Polis larmas till centrala Härnösand där en bil som anmälts stulen uppges köras.",
-    "url": "/aktuellt/handelser/2024/december/4/04-december-13.05-motorfordon-antraffat-stulet-harnosand",
+    "url": "/aktuellt/handelser/2024/december/4/04-december-132.05-motorfordon-antraffat-stulet-harnosand",
     "type": "Motorfordon, anträffat stulet",
     "location": {
       "name": "Härnösand",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 559862,
-    "datetime": "2024-11-26 16:43:22 +01:00",
-    "name": "26 november 16.38, Trafikkontroll, Umeå",
-    "summary": "Ett urval av polisens arbete i trafiken under eftermiddagen.",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-16.38-trafikkontroll-umea",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 559854,
-    "datetime": "2024-11-26 16:37:15 +01:00",
-    "name": "26 november 13.48, Misshandel, Stockholm",
-    "summary": "Kvinna gripen misstänkt för att ha misshandlat en man hon har en relation med.",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-13.48-misshandel-stockholm",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 559859,
-    "datetime": "2024-11-26 16:35:47 +01:00",
-    "name": "26 november 14.27, Inbrott, Tanum",
-    "summary": "Stöld genom inbrott, Rabbalshede.",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-14.27-inbrott-tanum",
-    "type": "Inbrott",
-    "location": {
-      "name": "Tanum",
-      "gps": "58.732727,11.457819"
-    }
-  },
-  {
-    "id": 559858,
-    "datetime": "2024-11-26 16:35:41 +01:00",
-    "name": "26 november 14.49, Trafikolycka, Umeå",
-    "summary": "Universitetsområdet, en personbil har kört på en kvinna på en parkering.",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-14.49-trafikolycka-umea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 559856,
-    "datetime": "2024-11-26 16:31:34 +01:00",
-    "name": "26 november 14.32, Fylleri/LOB, Umeå",
-    "summary": "Centrala stan, polisen uppmärksammas på en man som sover i ett parkeringshus",
-    "url": "/aktuellt/handelser/2024/november/26/26-november-14.32-fyllerilob-umea",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
