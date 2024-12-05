@@ -1,5 +1,53 @@
 [
   {
+    "id": 560824,
+    "datetime": "2024-12-05 17:19:23 +01:00",
+    "name": "05 december 16.44, Brand, Luleå",
+    "summary": "Luleå, larm om brand i Notviken.",
+    "url": "/aktuellt/handelser/2024/december/5/05-december-16.44-brand-lulea",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 560804,
+    "datetime": "2024-12-05 14:29:53 +01:00",
+    "name": "05 december 14.18, Brand, Borlänge",
+    "summary": "En brand har utbrutit i en fastighet i centrala Borlänge",
+    "url": "/aktuellt/handelser/2024/december/5/05-december-14.18-brand-borlange",
+    "type": "Brand",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 560823,
+    "datetime": "2024-12-05 17:10:02 +01:00",
+    "name": "05 december 16.24, Trafikolycka, Trollhättan",
+    "summary": "Två bilister i kollision",
+    "url": "/aktuellt/handelser/2024/december/5/05-december-16.24-trafikolycka-trollhattan",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trollhättan",
+      "gps": "58.283489,12.285821"
+    }
+  },
+  {
+    "id": 560822,
+    "datetime": "2024-12-05 16:58:30 +01:00",
+    "name": "05 december 15.17, Trafikolycka, Södertälje",
+    "summary": "Två fordon inblandade i trafikolycka på E4.",
+    "url": "/aktuellt/handelser/2024/december/5/05-december-15.17-trafikolycka-sodertalje",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 560821,
     "datetime": "2024-12-05 16:16:01 +01:00",
     "name": "05 december 16.03, Trafikolycka, Olofström",
@@ -45,18 +93,6 @@
     "location": {
       "name": "Härryda",
       "gps": "57.691744,12.294416"
-    }
-  },
-  {
-    "id": 560804,
-    "datetime": "2024-12-05 14:29:53 +01:00",
-    "name": "05 december 14.18, Brand, Borlänge",
-    "summary": "En brand har utbrutit i en fastighet i centrala Borlänge",
-    "url": "/aktuellt/handelser/2024/december/5/05-december-14.18-brand-borlange",
-    "type": "Brand",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Färgelanda",
       "gps": "58.567559,11.994926"
-    }
-  },
-  {
-    "id": 559986,
-    "datetime": "2024-11-27 15:51:09 +01:00",
-    "name": "27 november 11.51, Misshandel, Östersund",
-    "summary": "Polis larmas till centrala Östersund där en man uppges ha misshandlat en annan man.",
-    "url": "/aktuellt/handelser/2024/november/27/27-november-11.51-misshandel-ostersund",
-    "type": "Misshandel",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 559987,
-    "datetime": "2024-11-27 15:49:35 +01:00",
-    "name": "27 november 14.59, Trafikolycka, Västerås",
-    "summary": "Cyklist påkörd.",
-    "url": "/aktuellt/handelser/2024/november/27/27-november-14.59-trafikolycka-vasteras",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 559970,
-    "datetime": "2024-11-27 12:49:05 +01:00",
-    "name": "27 november 12.48, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/november/27/27-november-12.48-trafikkontroll-vasterbottens-lan",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
