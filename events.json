@@ -1,14 +1,26 @@
 [
   {
-    "id": 560891,
-    "datetime": "2024-12-06 11:27:22 +01:00",
-    "name": "06 december 09.47, Brand, Helsingborg",
-    "summary": "Brand i villa i Kattarp.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-09.47-brand-helsingborg",
+    "id": 560896,
+    "datetime": "2024-12-06 12:15:05 +01:00",
+    "name": "06 december 10.31, Rattfylleri, Arjeplog",
+    "summary": "Misstänkt rattfylleri på riksväg 95, Arjeplog.",
+    "url": "/aktuellt/handelser/2024/december/6/06-december-10.31-rattfylleri-arjeplog",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arjeplog",
+      "gps": "66.051505,17.890054"
+    }
+  },
+  {
+    "id": 560874,
+    "datetime": "2024-12-06 9:36:02 +01:00",
+    "name": "06 december 08.55, Brand, Leksand",
+    "summary": "Brand i gäststuga i Västanvik söder om Leksand.",
+    "url": "/aktuellt/handelser/2024/december/6/06-december-08.55-brand-leksand",
     "type": "Brand",
     "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
+      "name": "Leksand",
+      "gps": "60.730308,14.999892"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 560891,
+    "datetime": "2024-12-06 11:27:22 +01:00",
+    "name": "06 december 09.47, Brand, Helsingborg",
+    "summary": "Brand i villa i Kattarp.",
+    "url": "/aktuellt/handelser/2024/december/6/06-december-09.47-brand-helsingborg",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -81,18 +105,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 560874,
-    "datetime": "2024-12-06 9:36:02 +01:00",
-    "name": "06 december 08.55, Brand, Leksand",
-    "summary": "Brand i gäststuga i Västanvik söder om Leksand.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-08.55-brand-leksand",
-    "type": "Brand",
-    "location": {
-      "name": "Leksand",
-      "gps": "60.730308,14.999892"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 560039,
-    "datetime": "2024-11-28 6:30:37 +01:00",
-    "name": "28 november 06.30, Sammanfattning natt, Örebro län",
-    "summary": "Natt till torsdag polisområde Örebro",
-    "url": "/aktuellt/handelser/2024/november/28/28-november-06.30-sammanfattning-natt-orebro-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
