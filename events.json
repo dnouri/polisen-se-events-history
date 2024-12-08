@@ -1,5 +1,29 @@
 [
   {
+    "id": 560975,
+    "datetime": "2024-12-07 7:06:16 +01:00",
+    "name": "06 december 20.00, Brand, Köping",
+    "summary": "Bilar i brand.",
+    "url": "/aktuellt/handelser/2024/december/6/06-december-20.00-brand-koping",
+    "type": "Brand",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 561030,
+    "datetime": "2024-12-08 5:33:39 +01:00",
+    "name": "08 december 03.27, Farligt föremål, misstänkt, Malmö",
+    "summary": "Misstänkt farligt föremål anträffat i Malmö",
+    "url": "/aktuellt/handelser/2024/december/8/08-december-03.27-farligt-foremal-misstankt-malmo",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 561052,
     "datetime": "2024-12-08 8:22:29 +01:00",
     "name": "08 december 08.12, Sammanfattning natt, Dalarnas län",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 561053,
+    "datetime": "2024-12-08 8:25:52 +01:00",
+    "name": "08 december 02.55, Misshandel, grov, Stockholm",
+    "summary": "Man greps misstänkt för grov misshandel.",
+    "url": "/aktuellt/handelser/2024/december/8/08-december-02.55-misshandel-grov-stockholm",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -165,18 +201,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 561030,
-    "datetime": "2024-12-08 5:33:39 +01:00",
-    "name": "08 december 03.27, Farligt föremål, misstänkt, Malmö",
-    "summary": "Misstänkt farligt föremål anträffat i Malmö",
-    "url": "/aktuellt/handelser/2024/december/8/08-december-03.27-farligt-foremal-misstankt-malmo",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -933,18 +957,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 560975,
-    "datetime": "2024-12-07 7:06:16 +01:00",
-    "name": "06 december 20.00, Brand, Köping",
-    "summary": "Bilar i brand.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-20.00-brand-koping",
-    "type": "Brand",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 560272,
-    "datetime": "2024-11-29 21:09:30 +01:00",
-    "name": "29 november 19.09, Rån, Stockholm",
-    "summary": "Pojke i 15-årsåldern rånas på sin jacka.",
-    "url": "/aktuellt/handelser/2024/november/29/29-november-19.09-ran-stockholm",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
