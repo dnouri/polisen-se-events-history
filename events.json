@@ -1,5 +1,101 @@
 [
   {
+    "id": 561041,
+    "datetime": "2024-12-08 7:18:58 +01:00",
+    "name": "07 december 16.28, Brand, Västerås",
+    "summary": "Anmälan om allmänfarlig vårdslöshet.",
+    "url": "/aktuellt/handelser/2024/december/7/07-december-16.28-brand-vasteras",
+    "type": "Brand",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 561040,
+    "datetime": "2024-12-08 7:15:21 +01:00",
+    "name": "08 december 07.07, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/december/8/08-december-07.07-sammanfattning-kvall-och-natt-hallands-lan",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 561030,
+    "datetime": "2024-12-08 5:33:39 +01:00",
+    "name": "08 december 03.27, Farligt föremål, misstänkt, Malmö",
+    "summary": "Misstänkt farligt föremål anträffat i Malmö",
+    "url": "/aktuellt/handelser/2024/december/8/08-december-03.27-farligt-foremal-misstankt-malmo",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 561039,
+    "datetime": "2024-12-08 7:07:10 +01:00",
+    "name": "08 december 07.05, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2024/december/8/08-december-07.05-sammanfattning-kvall-och-natt-vastra-gotalands-lan",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 561038,
+    "datetime": "2024-12-08 6:55:48 +01:00",
+    "name": "07 december 23.20, Rattfylleri, Malmö",
+    "summary": "Misstänkt påverkad förare.",
+    "url": "/aktuellt/handelser/2024/december/7/07-december-23.20-rattfylleri-malmo",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 561037,
+    "datetime": "2024-12-08 6:52:26 +01:00",
+    "name": "08 december 01.08, Misshandel, Lund",
+    "summary": "Bråk på Kungsgatan.",
+    "url": "/aktuellt/handelser/2024/december/8/08-december-01.08-misshandel-lund",
+    "type": "Misshandel",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 561036,
+    "datetime": "2024-12-08 6:49:18 +01:00",
+    "name": "08 december 02.16, Brand, Lund",
+    "summary": "Brand i förråd.",
+    "url": "/aktuellt/handelser/2024/december/8/08-december-02.16-brand-lund",
+    "type": "Brand",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 561035,
+    "datetime": "2024-12-08 6:44:06 +01:00",
+    "name": "07 december 23.17, Bråk, Hässleholm",
+    "summary": "Bråkig man.",
+    "url": "/aktuellt/handelser/2024/december/7/07-december-23.17-brak-hassleholm",
+    "type": "Bråk",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 561034,
     "datetime": "2024-12-08 6:34:15 +01:00",
     "name": "07 december 23.20, Bråk, Växjö",
@@ -45,18 +141,6 @@
     "location": {
       "name": "Bjuv",
       "gps": "56.087102,12.912505"
-    }
-  },
-  {
-    "id": 561030,
-    "datetime": "2024-12-08 5:33:39 +01:00",
-    "name": "08 december 03.27, Farligt föremål, misstänkt, Malmö",
-    "summary": "Misstänkt farligt föremål anträffat i Malmö",
-    "url": "/aktuellt/handelser/2024/december/8/08-december-03.27-farligt-foremal-misstankt-malmo",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Hagfors",
       "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 560258,
-    "datetime": "2024-11-29 16:43:23 +01:00",
-    "name": "29 november 16.38, Stöld, Kumla",
-    "summary": "Polisen söker ägaren till 18 kilo brasiliansk oxfilé.",
-    "url": "/aktuellt/handelser/2024/november/29/29-november-16.38-stold-kumla",
-    "type": "Stöld",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 560251,
-    "datetime": "2024-11-29 16:25:43 +01:00",
-    "name": "29 november 13.04, Trafikbrott, Stockholm",
-    "summary": "En förare misstänks ha kört in i en vägg i Hammarbytunneln.",
-    "url": "/aktuellt/handelser/2024/november/29/29-november-13.04-trafikbrott-stockholm",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 560244,
-    "datetime": "2024-11-29 16:01:38 +01:00",
-    "name": "29 november 14.28, Trafikolycka, Piteå",
-    "summary": "Larm om påkörd person i Öjebyn, Piteå.",
-    "url": "/aktuellt/handelser/2024/november/29/29-november-14.28-trafikolycka-pitea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 560242,
-    "datetime": "2024-11-29 15:40:48 +01:00",
-    "name": "29 november 13.27, Trafikolycka, Pajala",
-    "summary": "Trafikolycka på länsväg 395 Juhonpieti, Pajala.",
-    "url": "/aktuellt/handelser/2024/november/29/29-november-13.27-trafikolycka-pajala",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Pajala",
-      "gps": "67.212782,23.367392"
-    }
-  },
-  {
-    "id": 560237,
-    "datetime": "2024-11-29 15:08:49 +01:00",
-    "name": "29 november 06.47, Mord/dråp, försök, Gävle",
-    "summary": "Två personer gripna misstänkta för försök till mord.",
-    "url": "/aktuellt/handelser/2024/november/29/29-november-06.47-morddrap-forsok-gavle",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 560233,
-    "datetime": "2024-11-29 14:30:56 +01:00",
-    "name": "29 november 11.43, Trafikolycka, Härnösand",
-    "summary": "Trafikolycka i Brattås, Härnösand.",
-    "url": "/aktuellt/handelser/2024/november/29/29-november-11.43-trafikolycka-harnosand",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 560232,
-    "datetime": "2024-11-29 14:25:07 +01:00",
-    "name": "29 november 12.40, Rattfylleri, Mora",
-    "summary": "Misstänkt rattfyllerist stoppad i Mora kommun.",
-    "url": "/aktuellt/handelser/2024/november/29/29-november-12.40-rattfylleri-mora",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
     }
   }
 ]
