@@ -1,17 +1,5 @@
 [
   {
-    "id": 561219,
-    "datetime": "2024-12-09 16:34:07 +01:00",
-    "name": "09 december 14.10, Våld/hot mot tjänsteman, Stockholm",
-    "summary": "Polis kallas till ett hotell vid Arlanda flygplats med anledning av en aggressiv man.",
-    "url": "/aktuellt/handelser/2024/december/9/09-december-14.10-valdhot-mot-tjansteman-stockholm",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 561218,
     "datetime": "2024-12-09 16:33:01 +01:00",
     "name": "09 december 15.36, Trafikolycka, Skellefteå",
@@ -24,12 +12,36 @@
     }
   },
   {
-    "id": 561208,
-    "datetime": "2024-12-09 16:16:27 +01:00",
-    "name": "09 december 12.58, Arbetsplatsolycka, Örnsköldsvik",
-    "summary": "Larm om olycka på arbetsplats, Gullänget.",
-    "url": "/aktuellt/handelser/2024/december/9/09-december-12.58-arbetsplatsolycka-ornskoldsvik",
-    "type": "Arbetsplatsolycka",
+    "id": 561224,
+    "datetime": "2024-12-09 17:07:29 +01:00",
+    "name": "09 december 16.43, Trafikolycka, Malmö",
+    "summary": "Trafikolycka på inre Ringvägen vid trafikplats Lindeborg.",
+    "url": "/aktuellt/handelser/2024/december/9/09-december-16.43-trafikolycka-malmo",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 561164,
+    "datetime": "2024-12-09 13:42:23 +01:00",
+    "name": "09 december 12.56, Farligt föremål, misstänkt, Lund",
+    "summary": "Malmövägen",
+    "url": "/aktuellt/handelser/2024/december/9/09-december-12.56-farligt-foremal-misstankt-lund",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 561223,
+    "datetime": "2024-12-09 17:02:10 +01:00",
+    "name": "09 december 16.02, Stöld, Örnsköldsvik",
+    "summary": "Misstänkt ringa stöld i matbutik, Gullänget.",
+    "url": "/aktuellt/handelser/2024/december/9/09-december-16.02-stold-ornskoldsvik",
+    "type": "Stöld",
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
@@ -45,6 +57,66 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 561222,
+    "datetime": "2024-12-09 16:54:53 +01:00",
+    "name": "09 december 16.25, Trafikolycka, Avesta",
+    "summary": "Spårbunden olycka i Avesta.",
+    "url": "/aktuellt/handelser/2024/december/9/09-december-16.25-trafikolycka-avesta",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 561221,
+    "datetime": "2024-12-09 16:54:09 +01:00",
+    "name": "09 december 14.15, Trafikolycka, personskada, Ulricehamn",
+    "summary": "Två personer avförda till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2024/december/9/09-december-14.15-trafikolycka-personskada-ulricehamn",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Ulricehamn",
+      "gps": "57.794789,13.420516"
+    }
+  },
+  {
+    "id": 561217,
+    "datetime": "2024-12-09 16:49:13 +01:00",
+    "name": "09 december 16.10, Trafikolycka, Kiruna",
+    "summary": "Larm om trafikolycka på E10 mellan Svappavaara och Kiruna.",
+    "url": "/aktuellt/handelser/2024/december/9/09-december-16.10-trafikolycka-kiruna",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 561219,
+    "datetime": "2024-12-09 16:34:07 +01:00",
+    "name": "09 december 14.10, Våld/hot mot tjänsteman, Stockholm",
+    "summary": "Polis kallas till ett hotell vid Arlanda flygplats med anledning av en aggressiv man.",
+    "url": "/aktuellt/handelser/2024/december/9/09-december-14.10-valdhot-mot-tjansteman-stockholm",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 561208,
+    "datetime": "2024-12-09 16:16:27 +01:00",
+    "name": "09 december 12.58, Arbetsplatsolycka, Örnsköldsvik",
+    "summary": "Larm om olycka på arbetsplats, Gullänget.",
+    "url": "/aktuellt/handelser/2024/december/9/09-december-12.58-arbetsplatsolycka-ornskoldsvik",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -93,18 +165,6 @@
     "location": {
       "name": "Heby",
       "gps": "59.939637,16.858759"
-    }
-  },
-  {
-    "id": 561164,
-    "datetime": "2024-12-09 13:42:23 +01:00",
-    "name": "09 december 12.56, Farligt föremål, misstänkt, Lund",
-    "summary": "Malmövägen",
-    "url": "/aktuellt/handelser/2024/december/9/09-december-12.56-farligt-foremal-misstankt-lund",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 560369,
-    "datetime": "2024-12-01 20:17:59 +01:00",
-    "name": "01 december 19.38, Polisinsats/kommendering, Gävle",
-    "summary": "Julbocken i Gävle invigd.",
-    "url": "/aktuellt/handelser/2024/december/1/01-december-19.38-polisinsatskommendering-gavle",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 560368,
-    "datetime": "2024-12-01 19:40:06 +01:00",
-    "name": "01 december 19.05, Olaga hot, Umeå",
-    "summary": "Mt Grovt olaga hot",
-    "url": "/aktuellt/handelser/2024/december/1/01-december-19.05-olaga-hot-umea",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 560367,
-    "datetime": "2024-12-01 19:02:15 +01:00",
-    "name": "01 december 18.27, Brand, Malmö",
-    "summary": "Mopedbrand, Lindängsbadet",
-    "url": "/aktuellt/handelser/2024/december/1/01-december-18.27-brand-malmo",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 560366,
-    "datetime": "2024-12-01 17:37:03 +01:00",
-    "name": "01 december 11.14, Försvunnen person, Oskarshamn",
-    "summary": "Man försvunnen efter julfest",
-    "url": "/aktuellt/handelser/2024/december/1/01-december-11.14-forsvunnen-person-oskarshamn",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 560348,
-    "datetime": "2024-12-01 10:51:59 +01:00",
-    "name": "01 december 08.16, Inbrott, Karlshamn",
-    "summary": "Äldre man utsatt, Asarum.",
-    "url": "/aktuellt/handelser/2024/december/1/01-december-08.16-inbrott-karlshamn",
-    "type": "Inbrott",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
     }
   }
 ]
