@@ -1,5 +1,65 @@
 [
   {
+    "id": 561364,
+    "datetime": "2024-12-10 19:24:21 +01:00",
+    "name": "10 december 19.11, Trafikolycka, Nybro",
+    "summary": "Personbil i singelolycka på riksväg 25.",
+    "url": "/aktuellt/handelser/2024/december/10/10-december-19.11-trafikolycka-nybro",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nybro",
+      "gps": "56.7438,15.908681"
+    }
+  },
+  {
+    "id": 561366,
+    "datetime": "2024-12-10 19:35:16 +01:00",
+    "name": "10 december 19.33, Trafikolycka, smitning från, Jönköping",
+    "summary": "Bil kraschade in i byggnad i Jönköping.",
+    "url": "/aktuellt/handelser/2024/december/10/10-december-19.33-trafikolycka-smitning-fran-jonkoping",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 561365,
+    "datetime": "2024-12-10 19:27:05 +01:00",
+    "name": "10 december 19.06, Brand, Staffanstorp",
+    "summary": "Brand i hus, Kyrkheddinge.",
+    "url": "/aktuellt/handelser/2024/december/10/10-december-19.06-brand-staffanstorp",
+    "type": "Brand",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 561362,
+    "datetime": "2024-12-10 18:02:33 +01:00",
+    "name": "10 december 17.58, Brand, Borlänge",
+    "summary": "Det har brunnit i ett garage i Repbäcken.",
+    "url": "/aktuellt/handelser/2024/december/10/10-december-17.58-brand-borlange",
+    "type": "Brand",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 561363,
+    "datetime": "2024-12-10 18:45:40 +01:00",
+    "name": "10 december 13.29, Olaga hot, Storuman",
+    "summary": "Polis larmas till en adress i Storumans kommun där en man uppges ha hotat att skada en annan mans egendom.",
+    "url": "/aktuellt/handelser/2024/december/10/10-december-13.29-olaga-hot-storuman",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
     "id": 561348,
     "datetime": "2024-12-10 16:13:54 +01:00",
     "name": "10 december 15.25, Trafikolycka, Alvesta",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 561362,
-    "datetime": "2024-12-10 18:02:33 +01:00",
-    "name": "10 december 17.58, Brand, Borlänge",
-    "summary": "Det har brunnit i ett garage i Repbäcken.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-17.58-brand-borlange",
-    "type": "Brand",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 560585,
-    "datetime": "2024-12-03 18:32:28 +01:00",
-    "name": "03 december 18.23, Trafikolycka, singel, Oskarshamn",
-    "summary": "Singelolycka på E22 norr om Glabo.",
-    "url": "/aktuellt/handelser/2024/december/3/03-december-18.23-trafikolycka-singel-oskarshamn",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 560583,
-    "datetime": "2024-12-03 17:46:18 +01:00",
-    "name": "03 december 16.49, Fylleri/LOB, Sundsvall",
-    "summary": "Stenstan, polis kontaktas gällande berusad man vid Kulturmagasinet",
-    "url": "/aktuellt/handelser/2024/december/3/03-december-16.49-fyllerilob-sundsvall",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 560582,
-    "datetime": "2024-12-03 17:44:15 +01:00",
-    "name": "03 december 16.14, Fylleri/LOB, Sundsvall",
-    "summary": "Kvissleby, polis kontaktas gällande en berusad man utanför en adress",
-    "url": "/aktuellt/handelser/2024/december/3/03-december-16.14-fyllerilob-sundsvall",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 560581,
-    "datetime": "2024-12-03 17:18:16 +01:00",
-    "name": "03 december 16.23, Trafikolycka, Umeå",
-    "summary": "Ersboda, olycka på E12 mellan Ersboda och Västerslätt skapar tillfälligt långa trafikköer",
-    "url": "/aktuellt/handelser/2024/december/3/03-december-16.23-trafikolycka-umea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
