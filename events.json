@@ -1,5 +1,77 @@
 [
   {
+    "id": 561416,
+    "datetime": "2024-12-11 8:08:32 +01:00",
+    "name": "11 december 07.33, Olaga hot, Kävlinge",
+    "summary": "Utredningsarbete på skola i Kävlinge",
+    "url": "/aktuellt/handelser/2024/december/11/11-december-07.33-olaga-hot-kavlinge",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 561415,
+    "datetime": "2024-12-11 8:05:05 +01:00",
+    "name": "11 december 07.47, Trafikolycka, Umeå",
+    "summary": "Anumark, trafikolycka på E4.",
+    "url": "/aktuellt/handelser/2024/december/11/11-december-07.47-trafikolycka-umea",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 561366,
+    "datetime": "2024-12-10 19:35:16 +01:00",
+    "name": "10 december 19.33, Trafikolycka, smitning från, Jönköping",
+    "summary": "Bil kraschade in i byggnad i Jönköping.",
+    "url": "/aktuellt/handelser/2024/december/10/10-december-19.33-trafikolycka-smitning-fran-jonkoping",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 561409,
+    "datetime": "2024-12-11 7:57:53 +01:00",
+    "name": "11 december 07.57, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en sammanfattning av nattens händelser i Södermanlands län",
+    "url": "/aktuellt/handelser/2024/december/11/11-december-07.57-sammanfattning-natt-sodermanlands-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 561408,
+    "datetime": "2024-12-11 7:57:15 +01:00",
+    "name": "11 december 07.55, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en sammanfattning av nattens händelser i Östergötlands län",
+    "url": "/aktuellt/handelser/2024/december/11/11-december-07.55-sammanfattning-natt-ostergotlands-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 561406,
+    "datetime": "2024-12-11 7:55:57 +01:00",
+    "name": "11 december 07.55, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en sammanfattning av nattens händelser i Jönköpings län",
+    "url": "/aktuellt/handelser/2024/december/11/11-december-07.55-sammanfattning-natt-jonkopings-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 561400,
     "datetime": "2024-12-11 7:18:45 +01:00",
     "name": "11 december 07.18, Sammanfattning natt, Dalarnas län",
@@ -261,18 +333,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 561366,
-    "datetime": "2024-12-10 19:35:16 +01:00",
-    "name": "10 december 19.33, Trafikolycka, smitning från, Jönköping",
-    "summary": "Bil kraschade in i byggnad i Jönköping.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-19.33-trafikolycka-smitning-fran-jonkoping",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 560632,
-    "datetime": "2024-12-04 8:48:22 +01:00",
-    "name": "04 december 08.44, Övrigt, Örebro län",
-    "summary": "Under onsdagen stänger Bergslagens regionala mediecenter tidigare.",
-    "url": "/aktuellt/handelser/2024/december/4/04-december-08.44-ovrigt-orebro-lan",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 560631,
-    "datetime": "2024-12-04 8:48:03 +01:00",
-    "name": "04 december 08.46, Övrigt, Dalarnas län",
-    "summary": "Under onsdagen stänger Bergslagens regionala mediecenter tidigare.",
-    "url": "/aktuellt/handelser/2024/december/4/04-december-08.46-ovrigt-dalarnas-lan",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 560630,
-    "datetime": "2024-12-04 8:47:49 +01:00",
-    "name": "04 december 08.46, Övrigt, Värmlands län",
-    "summary": "Under onsdagen stänger Bergslagens regionala mediecenter tidigare.",
-    "url": "/aktuellt/handelser/2024/december/4/04-december-08.46-ovrigt-varmlands-lan",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 560625,
-    "datetime": "2024-12-04 8:17:25 +01:00",
-    "name": "04 december 04.54, Trafikolycka, personskada, Västerås",
-    "summary": "Mopedförare körde in i vägg.",
-    "url": "/aktuellt/handelser/2024/december/4/04-december-042.54-trafikolycka-personskada-vasteras",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 560623,
-    "datetime": "2024-12-04 7:53:11 +01:00",
-    "name": "03 december 22.14, Brand, Nordanstig",
-    "summary": "Brand i villa.",
-    "url": "/aktuellt/handelser/2024/december/3/03-december-22.14-brand-nordanstig",
-    "type": "Brand",
-    "location": {
-      "name": "Nordanstig",
-      "gps": "62.036668,17.205249"
     }
   }
 ]
