@@ -1,5 +1,65 @@
 [
   {
+    "id": 561579,
+    "datetime": "2024-12-12 12:15:59 +01:00",
+    "name": "12 december 12.15, Trafikkontroll, Norrbottens län",
+    "summary": "Under veckan fokuserar polisen på att kontrollera nykterhet i trafik.",
+    "url": "/aktuellt/handelser/2024/december/12/12-december-12.15-trafikkontroll-norrbottens-lan",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 561575,
+    "datetime": "2024-12-12 12:04:41 +01:00",
+    "name": "12 december 10.40, Övrigt, Kungsbacka",
+    "summary": "Polis är på plats i Fjärås söder om Kungsbacka för att utreda ett grovt brott.",
+    "url": "/aktuellt/handelser/2024/december/12/12-december-10.40-ovrigt-kungsbacka",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 561574,
+    "datetime": "2024-12-12 12:03:55 +01:00",
+    "name": "12 december 10.25, Rattfylleri, Älvdalen",
+    "summary": "Man i sextioårsåldern misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2024/december/12/12-december-10.25-rattfylleri-alvdalen",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 561547,
+    "datetime": "2024-12-12 8:32:34 +01:00",
+    "name": "12 december 08.10, Trafikolycka, Eslöv",
+    "summary": "Larm om trafikolycka, LV1314 Stehag",
+    "url": "/aktuellt/handelser/2024/december/12/12-december-08.10-trafikolycka-eslov",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 561549,
+    "datetime": "2024-12-12 8:34:56 +01:00",
+    "name": "12 december 08.27, Trafikolycka, Ängelholm",
+    "summary": "Larm om trafikolycka, LV112 Åstorp",
+    "url": "/aktuellt/handelser/2024/december/12/12-december-08.27-trafikolycka-angelholm",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
     "id": 561573,
     "datetime": "2024-12-12 11:33:19 +01:00",
     "name": "12 december 10.43, Rattfylleri, Karlstad",
@@ -81,30 +141,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 561547,
-    "datetime": "2024-12-12 8:32:34 +01:00",
-    "name": "12 december 08.10, Trafikolycka, Eslöv",
-    "summary": "Larm om trafikolycka, LV1314 Stehag",
-    "url": "/aktuellt/handelser/2024/december/12/12-december-08.10-trafikolycka-eslov",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 561549,
-    "datetime": "2024-12-12 8:34:56 +01:00",
-    "name": "12 december 08.27, Trafikolycka, Ängelholm",
-    "summary": "Larm om trafikolycka, LV112 Åstorp",
-    "url": "/aktuellt/handelser/2024/december/12/12-december-08.27-trafikolycka-angelholm",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 560826,
-    "datetime": "2024-12-05 18:01:22 +01:00",
-    "name": "05 december 15.23, Narkotikabrott, Sollefteå",
-    "summary": "Sollefteå, misstänkt narkotikabrott.",
-    "url": "/aktuellt/handelser/2024/december/5/05-december-15.23-narkotikabrott-solleftea",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 560824,
-    "datetime": "2024-12-05 17:19:23 +01:00",
-    "name": "05 december 16.44, Brand, Luleå",
-    "summary": "Luleå, larm om brand i Notviken.",
-    "url": "/aktuellt/handelser/2024/december/5/05-december-16.44-brand-lulea",
-    "type": "Brand",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 560804,
-    "datetime": "2024-12-05 14:29:53 +01:00",
-    "name": "05 december 14.18, Brand, Borlänge",
-    "summary": "En brand har utbrutit i en fastighet i centrala Borlänge",
-    "url": "/aktuellt/handelser/2024/december/5/05-december-14.18-brand-borlange",
-    "type": "Brand",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   }
 ]
