@@ -1,5 +1,17 @@
 [
   {
+    "id": 561907,
+    "datetime": "2024-12-13 17:16:42 +01:00",
+    "name": "13 december 17.07, Trafikolycka, Kungälv",
+    "summary": "SOS larmas om en trafikolycka på väg 604, väster om Kärna.",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-17.07-trafikolycka-kungalv",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
     "id": 561901,
     "datetime": "2024-12-13 16:38:56 +01:00",
     "name": "13 december 16.18, Trafikolycka, Östersund",
@@ -9,6 +21,78 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 561906,
+    "datetime": "2024-12-13 17:10:58 +01:00",
+    "name": "13 december 15.58, Stöld, Östersund",
+    "summary": "Odenskogs industriområde, två unga personer stoppade efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-15.58-stold-ostersund",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 561904,
+    "datetime": "2024-12-13 17:07:13 +01:00",
+    "name": "13 december 16.57, Trafikolycka, Malmö",
+    "summary": "Påkörd person, Carl Gustafs väg.",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-16.57-trafikolycka-malmo",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 561897,
+    "datetime": "2024-12-13 16:21:58 +01:00",
+    "name": "13 december 14.54, Trafikolycka, Strömstad",
+    "summary": "På E6 i höjd med Blomsholmsmotet kolliderar två personbilar, norrgående färdriktning.",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-14.54-trafikolycka-stromstad",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 561902,
+    "datetime": "2024-12-13 16:49:18 +01:00",
+    "name": "13 december 16.32, Trafikolycka, Nybro",
+    "summary": "Två personbilar i kollision, centrala Nybro.",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-16.32-trafikolycka-nybro",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nybro",
+      "gps": "56.7438,15.908681"
+    }
+  },
+  {
+    "id": 561903,
+    "datetime": "2024-12-13 16:59:35 +01:00",
+    "name": "13 december 16.50, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-16.50-trafikkontroll-vasterbottens-lan",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 561895,
+    "datetime": "2024-12-13 16:13:24 +01:00",
+    "name": "13 december 15.28, Brand, Skellefteå",
+    "summary": "Moröhöjden, brand i arbetsfordon på kyrkogård",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-15.28-brand-skelleftea",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -48,18 +132,6 @@
     }
   },
   {
-    "id": 561897,
-    "datetime": "2024-12-13 16:21:58 +01:00",
-    "name": "13 december 14.54, Trafikolycka, Strömstad",
-    "summary": "På E6 i höjd med Blomsholmsmotet kolliderar två personbilar, norrgående färdriktning.",
-    "url": "/aktuellt/handelser/2024/december/13/13-december-14.54-trafikolycka-stromstad",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strömstad",
-      "gps": "58.938346,11.179187"
-    }
-  },
-  {
     "id": 561896,
     "datetime": "2024-12-13 16:21:14 +01:00",
     "name": "13 december 13.35, Rattfylleri, Timrå",
@@ -81,18 +153,6 @@
     "location": {
       "name": "Värnamo",
       "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 561895,
-    "datetime": "2024-12-13 16:13:24 +01:00",
-    "name": "13 december 15.28, Brand, Skellefteå",
-    "summary": "Moröhöjden, brand i arbetsfordon på kyrkogård",
-    "url": "/aktuellt/handelser/2024/december/13/13-december-15.28-brand-skelleftea",
-    "type": "Brand",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 560986,
-    "datetime": "2024-12-07 8:00:01 +01:00",
-    "name": "07 december 07.54, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en relativt lugn natt i dalarnas län utan allvarliga händelser eller brott.",
-    "url": "/aktuellt/handelser/2024/december/7/07-december-07.54-sammanfattning-natt-dalarnas-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 560988,
-    "datetime": "2024-12-07 8:06:56 +01:00",
-    "name": "07 december 01.07, Misshandel, Vimmerby",
-    "summary": "Misstänkt misshandel mot kvinna.",
-    "url": "/aktuellt/handelser/2024/december/7/07-december-01.07-misshandel-vimmerby",
-    "type": "Misshandel",
-    "location": {
-      "name": "Vimmerby",
-      "gps": "57.669034,15.858857"
-    }
-  },
-  {
-    "id": 560987,
-    "datetime": "2024-12-07 8:03:48 +01:00",
-    "name": "07 december 07.34, Vapenlagen, Göteborg",
-    "summary": "Allmänhet ser en man med ett pistolliknande föremål vid Hjalmar Brantingsplatsen och larmar polisen.",
-    "url": "/aktuellt/handelser/2024/december/7/07-december-07.34-vapenlagen-goteborg",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 560985,
-    "datetime": "2024-12-07 7:54:05 +01:00",
-    "name": "06 december 23.54, Motorfordon, stöld, Västerås",
-    "summary": "Stöld från budbil.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-23.54-motorfordon-stold-vasteras",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 560984,
-    "datetime": "2024-12-07 7:50:11 +01:00",
-    "name": "07 december 07.49, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av polisens arbete under natten.",
-    "url": "/aktuellt/handelser/2024/december/7/07-december-07.49-sammanfattning-natt-norrbottens-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
