@@ -1,5 +1,65 @@
 [
   {
+    "id": 561846,
+    "datetime": "2024-12-13 12:51:07 +01:00",
+    "name": "13 december 12.25, Trafikolycka, Östersund",
+    "summary": "Larm om trafikolycka på Arkivvägen, Norr.",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-12.25-trafikolycka-ostersund",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 561864,
+    "datetime": "2024-12-13 13:15:14 +01:00",
+    "name": "13 december 12.30, Trafikolycka, Kumla",
+    "summary": "På Kvarntorpsvägen i Kumla i höjd med Lugnet har en trafikolycka inträffat.",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-12.30-trafikolycka-kumla",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 561862,
+    "datetime": "2024-12-13 13:12:16 +01:00",
+    "name": "13 december 12.50, Trafikolycka, Örebro",
+    "summary": "En trafikolycka har inträffat på E18 i Örebro.",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-12.50-trafikolycka-orebro",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 561837,
+    "datetime": "2024-12-13 13:08:44 +01:00",
+    "name": "13 december 13.08, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-13.08-trafikkontroll-vasternorrlands-lan",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 561854,
+    "datetime": "2024-12-13 12:54:03 +01:00",
+    "name": "13 december 12.51, Trafikolycka, Sävsjö",
+    "summary": "Lastbil i diket på riksväg 127.",
+    "url": "/aktuellt/handelser/2024/december/13/13-december-12.51-trafikolycka-savsjo",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sävsjö",
+      "gps": "57.398996,14.665814"
+    }
+  },
+  {
     "id": 561839,
     "datetime": "2024-12-13 12:38:29 +01:00",
     "name": "13 december 12.35, Trafikolycka, personskada, Linköping",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 560950,
-    "datetime": "2024-12-06 19:47:25 +01:00",
-    "name": "06 december 19.46, Trafikolycka, Strängnäs",
-    "summary": "Olycka på E20.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-19.46-trafikolycka-strangnas",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 560953,
-    "datetime": "2024-12-06 20:23:10 +01:00",
-    "name": "06 december 20.22, Stöld/inbrott, Borlänge",
-    "summary": "Bostadsinbrott på Hagalund i Borlänge.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-20.22-stoldinbrott-borlange",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 560942,
-    "datetime": "2024-12-06 20:16:03 +01:00",
-    "name": "06 december 17.08, Arbetsplatsolycka, Boden",
-    "summary": "Boden, olycka under arbete.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-17.08-arbetsplatsolycka-boden",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 560952,
-    "datetime": "2024-12-06 20:11:31 +01:00",
-    "name": "06 december 18.19, Arbetsplatsolycka, Hässleholm",
-    "summary": "Man skadad, Hässleholm.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-18.19-arbetsplatsolycka-hassleholm",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 560951,
-    "datetime": "2024-12-06 19:53:55 +01:00",
-    "name": "06 december 18.48, Trafikolycka, singel, Norrtälje",
-    "summary": "Polis och ambulans kallas till länsväg 283 i Älmsta med anledning av att en bil voltat.",
-    "url": "/aktuellt/handelser/2024/december/6/06-december-18.48-trafikolycka-singel-norrtalje",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
     }
   }
 ]
