@@ -1,5 +1,101 @@
 [
   {
+    "id": 562236,
+    "datetime": "2024-12-16 21:14:35 +01:00",
+    "name": "16 december 21.14, Trafikolycka, vilt, Linköping",
+    "summary": "Bil i krock med vildsvin på riksväg 34.",
+    "url": "/aktuellt/handelser/2024/december/16/16-december-21.14-trafikolycka-vilt-linkoping",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 562233,
+    "datetime": "2024-12-16 21:08:02 +01:00",
+    "name": "16 december 20.57, Brand, Mellerud",
+    "summary": "SOS larmas om en brand i en garagebyggnad, invid ett flerfamiljshus.",
+    "url": "/aktuellt/handelser/2024/december/16/16-december-20.57-brand-mellerud",
+    "type": "Brand",
+    "location": {
+      "name": "Mellerud",
+      "gps": "58.702568,12.451842"
+    }
+  },
+  {
+    "id": 562235,
+    "datetime": "2024-12-16 21:10:42 +01:00",
+    "name": "16 december 18.26, Stöld, Sundsvall",
+    "summary": "Birsta, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2024/december/16/16-december-18.26-stold-sundsvall",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 562234,
+    "datetime": "2024-12-16 21:09:14 +01:00",
+    "name": "16 december 18.18, Trafikolycka, Skellefteå",
+    "summary": "Bureå, trafikolycka på E4.",
+    "url": "/aktuellt/handelser/2024/december/16/16-december-18.18-trafikolycka-skelleftea",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 562216,
+    "datetime": "2024-12-16 17:37:46 +01:00",
+    "name": "16 december 17.37, Trafikolycka, personskada, Vetlanda",
+    "summary": "SOS-larm om påkörd person vid Lasarettsgatan/Missionsgatan.",
+    "url": "/aktuellt/handelser/2024/december/16/16-december-17.37-trafikolycka-personskada-vetlanda",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
+    "id": 562232,
+    "datetime": "2024-12-16 21:01:59 +01:00",
+    "name": "16 december 18.25, Olaga hot, Tidaholm",
+    "summary": "Under kvällen har ett hot riktats mot anstalten i Tidaholm. Hotet inkom via telefon.",
+    "url": "/aktuellt/handelser/2024/december/16/16-december-18.25-olaga-hot-tidaholm",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Tidaholm",
+      "gps": "58.181769,13.959474"
+    }
+  },
+  {
+    "id": 562228,
+    "datetime": "2024-12-16 20:23:19 +01:00",
+    "name": "16 december 19.33, Brand, Luleå",
+    "summary": "Luleå, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/december/16/16-december-19.33-brand-lulea",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 562231,
+    "datetime": "2024-12-16 20:51:41 +01:00",
+    "name": "16 december 18.04, Trafikolycka, Heby",
+    "summary": "Bil voltade.",
+    "url": "/aktuellt/handelser/2024/december/16/16-december-18.04-trafikolycka-heby",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Heby",
+      "gps": "59.939637,16.858759"
+    }
+  },
+  {
     "id": 562221,
     "datetime": "2024-12-16 18:40:22 +01:00",
     "name": "16 december 14.15, Försvunnen person, Norrtälje",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 562228,
-    "datetime": "2024-12-16 20:23:19 +01:00",
-    "name": "16 december 19.33, Brand, Luleå",
-    "summary": "Luleå, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-19.33-brand-lulea",
-    "type": "Brand",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -165,18 +249,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 562216,
-    "datetime": "2024-12-16 17:37:46 +01:00",
-    "name": "16 december 17.37, Trafikolycka, personskada, Vetlanda",
-    "summary": "SOS-larm om påkörd person vid Lasarettsgatan/Missionsgatan.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-17.37-trafikolycka-personskada-vetlanda",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 561263,
-    "datetime": "2024-12-10 6:27:49 +01:00",
-    "name": "09 december 23.56, Brand, Lund",
-    "summary": "Torrkokning i lägenhet",
-    "url": "/aktuellt/handelser/2024/december/9/09-december-23.56-brand-lund",
-    "type": "Brand",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 561262,
-    "datetime": "2024-12-10 6:18:33 +01:00",
-    "name": "10 december 00.36, Stöld/inbrott, Karlshamn",
-    "summary": "Inbrott o sommarstuga, Asarum",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-00.36-stoldinbrott-karlshamn",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 561261,
-    "datetime": "2024-12-10 6:13:17 +01:00",
-    "name": "09 december 22.43, Trafikolycka, Uppvidinge",
-    "summary": "Trafikolycka utan misstanke om brott",
-    "url": "/aktuellt/handelser/2024/december/9/09-december-22.43-trafikolycka-uppvidinge",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Uppvidinge",
-      "gps": "57.014575,15.381174"
-    }
-  },
-  {
-    "id": 561259,
-    "datetime": "2024-12-10 5:27:53 +01:00",
-    "name": "10 december 05.21, Försvunnen person, Malmö",
-    "summary": "Försvunnen person, Malmö, återfunnen.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-05.21-forsvunnen-person-malmo",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 561241,
-    "datetime": "2024-12-09 19:38:28 +01:00",
-    "name": "09 december 19.02, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka på länsväg 364, söder om Ersforsen.",
-    "url": "/aktuellt/handelser/2024/december/9/09-december-19.02-trafikolycka-umea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 561258,
-    "datetime": "2024-12-10 1:17:59 +01:00",
-    "name": "09 december 23.07, Mord/dråp, försök, Västerås",
-    "summary": "Person påkörd av bil på Pettersberg.",
-    "url": "/aktuellt/handelser/2024/december/10/09-december-23.07-morddrap-forsok-vasteras",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
