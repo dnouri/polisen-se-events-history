@@ -1,5 +1,65 @@
 [
   {
+    "id": 562307,
+    "datetime": "2024-12-17 13:28:50 +01:00",
+    "name": "17 december 12.31, Trafikkontroll, Skellefteå",
+    "summary": "Resulat efter en trafikkontroll på Anderstorpsleden, Anderstorp.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-12.31-trafikkontroll-skelleftea",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 562306,
+    "datetime": "2024-12-17 13:27:00 +01:00",
+    "name": "17 december 12.58, Trafikolycka, Säffle",
+    "summary": "Två personbilar har kolliderat på Lv533 i höjd med Säffle flygplats.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-12.58-trafikolycka-saffle",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 562304,
+    "datetime": "2024-12-17 13:26:15 +01:00",
+    "name": "17 december 13.26, Trafikolycka, Katrineholm",
+    "summary": "Traktorolycka på landsväg.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-13.26-trafikolycka-katrineholm",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
+    }
+  },
+  {
+    "id": 562303,
+    "datetime": "2024-12-17 13:17:40 +01:00",
+    "name": "17 december 13.01, Trafikolycka, Falun",
+    "summary": "En lastbil har kolliderat med en personbil på E16 vid Gruvrondellen i Falun.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-13.01-trafikolycka-falun",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 562302,
+    "datetime": "2024-12-17 13:11:03 +01:00",
+    "name": "17 december 12.34, Stöld, Boden",
+    "summary": "Misstänkt ringa stöld i matbutik, Boden.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-12.34-stold-boden",
+    "type": "Stöld",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 562298,
     "datetime": "2024-12-17 12:42:32 +01:00",
     "name": "17 december 12.42, Trafikolycka, Linköping",
@@ -24,6 +84,30 @@
     }
   },
   {
+    "id": 562291,
+    "datetime": "2024-12-17 12:12:24 +01:00",
+    "name": "17 december 11.50, Trafikolycka, singel, Falun",
+    "summary": "En personbil har i norrgående riktning kolliderat med mitträcket på E16 i höjd med Samuelsdal söder om Falun",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-11.50-trafikolycka-singel-falun",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 562285,
+    "datetime": "2024-12-17 10:57:08 +01:00",
+    "name": "17 december 10.38, Trafikolycka, singel, Örebro",
+    "summary": "En personbil har kolliderat med ett träd utefter Lv540 söder om Täby kyrka.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-10.38-trafikolycka-singel-orebro",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 562293,
     "datetime": "2024-12-17 12:20:15 +01:00",
     "name": "17 december 12.20, Trafikkontroll, Västernorrlands län",
@@ -45,18 +129,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 562291,
-    "datetime": "2024-12-17 12:12:24 +01:00",
-    "name": "17 december 11.50, Trafikolycka, singel, Falun",
-    "summary": "En personbil har i norrgående riktning kolliderat med mitträcket på E16 i höjd med Samuelsdal söder om Falun",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-11.50-trafikolycka-singel-falun",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -93,18 +165,6 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 562285,
-    "datetime": "2024-12-17 10:57:08 +01:00",
-    "name": "17 december 10.38, Trafikolycka, singel, Örebro",
-    "summary": "En personbil har kolliderat med ett träd utefter Lv540 söder om Täby kyrka.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-10.38-trafikolycka-singel-orebro",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 561346,
-    "datetime": "2024-12-10 16:09:04 +01:00",
-    "name": "10 december 15.35, Trafikolycka, Sundsvall",
-    "summary": "Larm om trafikolycka på E4, Sundsvallsbron/Kubikenborg.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-15.35-trafikolycka-sundsvall",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 561347,
-    "datetime": "2024-12-10 16:11:49 +01:00",
-    "name": "10 december 15.15, Stöld, Strömsund",
-    "summary": "Misstänkt stöld i matbutik i centrala Strömsund.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-15.15-stold-stromsund",
-    "type": "Stöld",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 561345,
-    "datetime": "2024-12-10 16:03:07 +01:00",
-    "name": "10 december 14.35, Trafikolycka, Örnsköldsvik",
-    "summary": "Polisen kontaktas om en trafikolycka, Gullänget.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-14.35-trafikolycka-ornskoldsvik",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 561318,
-    "datetime": "2024-12-10 12:09:04 +01:00",
-    "name": "10 december 11.18, Trafikolycka, Skellefteå",
-    "summary": "Larm om trafikolycka på länsväg 870, söder om Norrlångträsk.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-11.18-trafikolycka-skelleftea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 561306,
-    "datetime": "2024-12-10 10:26:07 +01:00",
-    "name": "10 december 09.27, Brand, Umeå",
-    "summary": "Västerslätt, larm inkommer om att en bil brinner på Industrivägen",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-09.27-brand-umea",
-    "type": "Brand",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
