@@ -1,5 +1,77 @@
 [
   {
+    "id": 562382,
+    "datetime": "2024-12-17 18:09:35 +01:00",
+    "name": "17 december 17.22, Trafikolycka, Lund",
+    "summary": "Vallkärra",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-17.22-trafikolycka-lund",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 562381,
+    "datetime": "2024-12-17 18:08:19 +01:00",
+    "name": "17 december 15.54, Stöld, Umeå",
+    "summary": "Umeå, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-15.54-stold-umea",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 562380,
+    "datetime": "2024-12-17 18:06:07 +01:00",
+    "name": "17 december 18.06, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från trafikkontroller.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-18.06-trafikkontroll-vasternorrlands-lan",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 562354,
+    "datetime": "2024-12-17 18:04:30 +01:00",
+    "name": "17 december 15.20, Arbetsplatsolycka, Hudiksvall",
+    "summary": "Man skadad på arbetsplats.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-15.20-arbetsplatsolycka-hudiksvall",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 562371,
+    "datetime": "2024-12-17 17:04:39 +01:00",
+    "name": "17 december 16.28, Trafikolycka, vilt, Knivsta",
+    "summary": "Personbil i kollision med älg.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-16.28-trafikolycka-vilt-knivsta",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Knivsta",
+      "gps": "59.72612,17.792036"
+    }
+  },
+  {
+    "id": 562378,
+    "datetime": "2024-12-17 17:59:04 +01:00",
+    "name": "17 december 16.49, Kontroll person/fordon, Lidingö",
+    "summary": "Samtal om yngre personer med vapen i Larsberg.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-16.49-kontroll-personfordon-lidingo",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Lidingö",
+      "gps": "59.36296,18.1468"
+    }
+  },
+  {
     "id": 562358,
     "datetime": "2024-12-17 16:57:41 +01:00",
     "name": "17 december 16.37, Trafikolycka, Skövde",
@@ -105,18 +177,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 562371,
-    "datetime": "2024-12-17 17:04:39 +01:00",
-    "name": "17 december 16.28, Trafikolycka, vilt, Knivsta",
-    "summary": "Personbil i kollision med älg.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-16.28-trafikolycka-vilt-knivsta",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Knivsta",
-      "gps": "59.72612,17.792036"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 561354,
-    "datetime": "2024-12-10 17:03:27 +01:00",
-    "name": "10 december 15.07, Trafikolycka, personskada, Färgelanda",
-    "summary": "Personbil har kört in i träd på länsväg 172 vid Högsäter.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-15.07-trafikolycka-personskada-fargelanda",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Färgelanda",
-      "gps": "58.567559,11.994926"
-    }
-  },
-  {
-    "id": 561342,
-    "datetime": "2024-12-10 15:35:35 +01:00",
-    "name": "10 december 15.30, Bråk, Nyköping",
-    "summary": "Bråk på en skola i Nyköping.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-15.30-brak-nykoping",
-    "type": "Bråk",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 561358,
-    "datetime": "2024-12-10 17:42:24 +01:00",
-    "name": "10 december 16.58, Trafikolycka, Svenljunga",
-    "summary": "En timmerbils släp har vält och timmer blockerar länsväg 156 söder om Svenljunga.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-16.58-trafikolycka-svenljunga",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Svenljunga",
-      "gps": "57.495572,13.114623"
-    }
-  },
-  {
-    "id": 561367,
-    "datetime": "2024-12-10 19:43:14 +01:00",
-    "name": "10 december 19.40, Brand, Eskilstuna",
-    "summary": "Larm om brand i lägenhet i Skiftinge, Eskilstuna.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-19.40-brand-eskilstuna",
-    "type": "Brand",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 561365,
-    "datetime": "2024-12-10 19:27:05 +01:00",
-    "name": "10 december 19.06, Brand, Staffanstorp",
-    "summary": "Brand i hus, Kyrkheddinge.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-19.06-brand-staffanstorp",
-    "type": "Brand",
-    "location": {
-      "name": "Staffanstorp",
-      "gps": "55.641065,13.212229"
     }
   }
 ]
