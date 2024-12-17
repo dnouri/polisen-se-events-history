@@ -1,14 +1,38 @@
 [
   {
-    "id": 562376,
-    "datetime": "2024-12-17 17:38:06 +01:00",
-    "name": "17 december 16.38, Trafikolycka, Kungälv",
-    "summary": "På länsväg 168, mellan Tjuvkil och Hålta, kolliderar två personbilar och en buss.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-16.38-trafikolycka-kungalv",
-    "type": "Trafikolycka",
+    "id": 562395,
+    "datetime": "2024-12-17 20:13:47 +01:00",
+    "name": "17 december 15.14, Rattfylleri, Boden",
+    "summary": "Boden, misstänkt drograttfylleri.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-15.14-rattfylleri-boden",
+    "type": "Rattfylleri",
     "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 562394,
+    "datetime": "2024-12-17 20:11:04 +01:00",
+    "name": "17 december 20.08, Misshandel, Jönköping",
+    "summary": "Man gripen efter bråk på restaurang.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-20.08-misshandel-jonkoping",
+    "type": "Misshandel",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 562392,
+    "datetime": "2024-12-17 19:54:02 +01:00",
+    "name": "17 december 17.29, Bedrägeri, Stockholm",
+    "summary": "En person har blivit lurad av personer hon träffat på Södermalm för att köpa varor som varit till salu på näte",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-17.29-bedrageri-stockholm",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -21,6 +45,42 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 562390,
+    "datetime": "2024-12-17 19:43:32 +01:00",
+    "name": "17 december 19.13, Brand, Uppsala",
+    "summary": "Brand i en villa.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-19.13-brand-uppsala",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 562383,
+    "datetime": "2024-12-17 18:34:48 +01:00",
+    "name": "17 december 14.48, Försvunnen person, Kalmar",
+    "summary": "16-årig flicka försvunnen",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-14.48-forsvunnen-person-kalmar",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 562376,
+    "datetime": "2024-12-17 17:38:06 +01:00",
+    "name": "17 december 16.38, Trafikolycka, Kungälv",
+    "summary": "På länsväg 168, mellan Tjuvkil och Hålta, kolliderar två personbilar och en buss.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-16.38-trafikolycka-kungalv",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
     }
   },
   {
@@ -57,18 +117,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 562383,
-    "datetime": "2024-12-17 18:34:48 +01:00",
-    "name": "17 december 14.48, Försvunnen person, Kalmar",
-    "summary": "16-årig flicka försvunnen",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-14.48-forsvunnen-person-kalmar",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Nybro",
       "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 561380,
-    "datetime": "2024-12-10 21:55:10 +01:00",
-    "name": "10 december 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-21.55-ovrigt-hallands-lan",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 561379,
-    "datetime": "2024-12-10 21:55:04 +01:00",
-    "name": "10 december 21.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-21.55-ovrigt-vastra-gotalands-lan",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 561378,
-    "datetime": "2024-12-10 21:37:10 +01:00",
-    "name": "10 december 21.02, Bråk, Västerås",
-    "summary": "Två personer omhändertogs på spa-anläggning.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-21.02-brak-vasteras",
-    "type": "Bråk",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 561374,
-    "datetime": "2024-12-10 20:57:44 +01:00",
-    "name": "10 december 20.45, Trafikolycka, Växjö",
-    "summary": "Flera personbilar i kollision, riksväg 23.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-20.45-trafikolycka-vaxjo",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
