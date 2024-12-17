@@ -1,5 +1,65 @@
 [
   {
+    "id": 562319,
+    "datetime": "2024-12-17 14:48:41 +01:00",
+    "name": "17 december 14.13, Trafikolycka, Berg",
+    "summary": "Singelolycka på E45 söder om Åsarna.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-14.13-trafikolycka-berg",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
+    "id": 562318,
+    "datetime": "2024-12-17 14:48:23 +01:00",
+    "name": "17 december 14.27, Misshandel, Göteborg",
+    "summary": "Vi får in ett larm om ett bråk vid Olskroken.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-14.27-misshandel-goteborg",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 562306,
+    "datetime": "2024-12-17 13:27:00 +01:00",
+    "name": "17 december 12.58, Trafikolycka, Säffle",
+    "summary": "Två personbilar har kolliderat på Lv533 i höjd med Säffle flygplats.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-12.58-trafikolycka-saffle",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 562316,
+    "datetime": "2024-12-17 14:44:47 +01:00",
+    "name": "17 december 13.47, Trafikolycka, Skellefteå",
+    "summary": "Singelolycka på E4 mellan Åbyn och Jävre.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-13.47-trafikolycka-skelleftea",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 562315,
+    "datetime": "2024-12-17 14:35:01 +01:00",
+    "name": "17 december 14.09, Trafikolycka, Östersund",
+    "summary": "Trafikolycka på E45 norr om Östersund.",
+    "url": "/aktuellt/handelser/2024/december/17/17-december-14.09-trafikolycka-ostersund",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 562311,
     "datetime": "2024-12-17 14:09:00 +01:00",
     "name": "17 december 14.04, Trafikolycka, Falun",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 562306,
-    "datetime": "2024-12-17 13:27:00 +01:00",
-    "name": "17 december 12.58, Trafikolycka, Säffle",
-    "summary": "Två personbilar har kolliderat på Lv533 i höjd med Säffle flygplats.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-12.58-trafikolycka-saffle",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Ödeshög",
       "gps": "58.228996,14.64882"
-    }
-  },
-  {
-    "id": 561319,
-    "datetime": "2024-12-10 12:44:37 +01:00",
-    "name": "10 december 12.03, Anträffad död, Falkenberg",
-    "summary": "E6 avspärrad med anledning av en anträffad avliden person.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-12.03-antraffad-dod-falkenberg",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
-    }
-  },
-  {
-    "id": 561357,
-    "datetime": "2024-12-10 17:33:40 +01:00",
-    "name": "10 december 15.15, Stöld, Umeå",
-    "summary": "Misstänkt ringa stöld i matbutik, Carlslid.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-15.15-stold-umea",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 561350,
-    "datetime": "2024-12-10 16:40:51 +01:00",
-    "name": "10 december 16.19, Trafikolycka, Malmö",
-    "summary": "Flera personbilar i kollision, Inre ringvägen.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-16.19-trafikolycka-malmo",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 561351,
-    "datetime": "2024-12-10 16:49:22 +01:00",
-    "name": "10 december 16.45, Trafikolycka, Motala",
-    "summary": "Trafikolycka på riksväg 50 mellan Motala och Mjölby.",
-    "url": "/aktuellt/handelser/2024/december/10/10-december-16.45-trafikolycka-motala",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Motala",
-      "gps": "58.538034,15.047094"
     }
   }
 ]
