@@ -1,5 +1,41 @@
 [
   {
+    "id": 562440,
+    "datetime": "2024-12-18 8:22:58 +01:00",
+    "name": "18 december 01.06, Misshandel, Stockholm",
+    "summary": "En man misshandlar en kvinna i en bostad i Flysta, västra Stockholm.",
+    "url": "/aktuellt/handelser/2024/december/18/18-december-01.06-misshandel-stockholm",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 562437,
+    "datetime": "2024-12-18 7:51:45 +01:00",
+    "name": "18 december 07.45, Trafikolycka, Staffanstorp",
+    "summary": "Larm om trafikolycka",
+    "url": "/aktuellt/handelser/2024/december/18/18-december-07.45-trafikolycka-staffanstorp",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 562439,
+    "datetime": "2024-12-18 7:53:42 +01:00",
+    "name": "18 december 07.45, Trafikolycka, Helsingborg",
+    "summary": "Larm om trafikolycka, E6 Gantofta",
+    "url": "/aktuellt/handelser/2024/december/18/18-december-07.45-trafikolycka-helsingborg",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 562436,
     "datetime": "2024-12-18 7:50:24 +01:00",
     "name": "18 december 07.50, Sammanfattning natt, Jämtlands län",
@@ -29,18 +65,6 @@
     "name": "18 december 07.46, Sammanfattning natt, Västerbottens län",
     "summary": "Ett urval av polisens arbete under natten.",
     "url": "/aktuellt/handelser/2024/december/18/18-december-072.46-sammanfattning-natt-vasterbottens-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 562433,
-    "datetime": "2024-12-18 7:48:58 +01:00",
-    "name": "18 december 07.46, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av polisens arbete under natten.",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-07.46-sammanfattning-natt-vasterbottens-lan",
     "type": "Sammanfattning natt",
     "location": {
       "name": "Västerbottens län",
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Arvidsjaur",
       "gps": "65.592077,19.180283"
-    }
-  },
-  {
-    "id": 561440,
-    "datetime": "2024-12-11 11:18:14 +01:00",
-    "name": "11 december 11.18, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/december/11/11-december-11.18-trafikkontroll-vasternorrlands-lan",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 561436,
-    "datetime": "2024-12-11 11:10:28 +01:00",
-    "name": "11 december 11.10, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2024/december/11/11-december-11.10-trafikkontroll-norrbottens-lan",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
