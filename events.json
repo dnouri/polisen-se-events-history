@@ -1,5 +1,65 @@
 [
   {
+    "id": 562740,
+    "datetime": "2024-12-19 17:29:49 +01:00",
+    "name": "19 december 16.02, Bråk, Malmö",
+    "summary": "Bråk på västra Hindbyvägen.",
+    "url": "/aktuellt/handelser/2024/december/19/19-december-16.02-brak-malmo",
+    "type": "Bråk",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 562739,
+    "datetime": "2024-12-19 17:23:48 +01:00",
+    "name": "19 december 17.07, Trafikolycka, personskada, Hällefors",
+    "summary": "En singelolycka med befarad personskada har inträffat på länsväg 244 tretton kilometer söder om Grythyttan.",
+    "url": "/aktuellt/handelser/2024/december/19/19-december-17.07-trafikolycka-personskada-hallefors",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Hällefors",
+      "gps": "59.783688,14.522569"
+    }
+  },
+  {
+    "id": 562721,
+    "datetime": "2024-12-19 16:58:13 +01:00",
+    "name": "19 december 15.38, Trafikolycka, Mölndal",
+    "summary": "En fotgängare har fått foten överkörd av en personbil.",
+    "url": "/aktuellt/handelser/2024/december/19/19-december-15.38-trafikolycka-molndal",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 562736,
+    "datetime": "2024-12-19 16:53:25 +01:00",
+    "name": "19 december 14.58, Trafikbrott, Arvika",
+    "summary": "En man i åttiofemårsåldern rapporteras för grov olovlig körning.",
+    "url": "/aktuellt/handelser/2024/december/19/19-december-14.58-trafikbrott-arvika",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 562735,
+    "datetime": "2024-12-19 16:49:40 +01:00",
+    "name": "19 december 15.41, Trafikbrott, Arvika",
+    "summary": "Två personbilsförare har tilldelats ordningsböter efter trafikolyckor på riksväg 61 några kilometer norr om Ar",
+    "url": "/aktuellt/handelser/2024/december/19/19-december-15.41-trafikbrott-arvika",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
     "id": 562734,
     "datetime": "2024-12-19 16:43:38 +01:00",
     "name": "19 december 15.01, Stöld, Östersund",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 561650,
-    "datetime": "2024-12-13 7:10:37 +01:00",
-    "name": "13 december 01.58, Brand, Perstorp",
-    "summary": "Brand i trapphus",
-    "url": "/aktuellt/handelser/2024/december/13/13-december-01.58-brand-perstorp",
-    "type": "Brand",
-    "location": {
-      "name": "Perstorp",
-      "gps": "56.137972,13.394986"
-    }
-  },
-  {
-    "id": 561644,
-    "datetime": "2024-12-13 7:08:09 +01:00",
-    "name": "13 december 07.08, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2024/december/13/13-december-07.08-sammanfattning-natt-norrbottens-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 561648,
-    "datetime": "2024-12-13 7:07:00 +01:00",
-    "name": "12 december 23.39, Brand, Malmö",
-    "summary": "Brand i trapphus",
-    "url": "/aktuellt/handelser/2024/december/12/12-december-23.39-brand-malmo",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 561647,
-    "datetime": "2024-12-13 7:04:28 +01:00",
-    "name": "13 december 07.02, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/december/13/13-december-07.02-sammanfattning-kvall-och-natt-hallands-lan",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 561646,
-    "datetime": "2024-12-13 7:03:12 +01:00",
-    "name": "13 december 07.01, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2024/december/13/13-december-07.01-sammanfattning-kvall-och-natt-vastra-gotalands-lan",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
