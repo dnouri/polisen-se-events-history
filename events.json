@@ -1,5 +1,29 @@
 [
   {
+    "id": 563111,
+    "datetime": "2024-12-21 13:36:22 +01:00",
+    "name": "21 december 12.16, Stöld, Luleå",
+    "summary": "Misstänkt ringa stöld i butik, Storheden.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-12.16-stold-lulea",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 563112,
+    "datetime": "2024-12-21 13:27:13 +01:00",
+    "name": "21 december 12.07, Knivlagen, Västerås",
+    "summary": "Man med kniv omhändertogs av polis.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-12.07-knivlagen-vasteras",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 563105,
     "datetime": "2024-12-21 12:35:05 +01:00",
     "name": "21 december 12.24, Trafikolycka, Vellinge",
@@ -9,6 +33,42 @@
     "location": {
       "name": "Vellinge",
       "gps": "55.470893,13.01999"
+    }
+  },
+  {
+    "id": 563110,
+    "datetime": "2024-12-21 13:14:41 +01:00",
+    "name": "21 december 12.58, Stöld/inbrott, Värnamo",
+    "summary": "Misstänkt gärningsperson gripen av hundpatrull",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-12.58-stoldinbrott-varnamo",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 563095,
+    "datetime": "2024-12-21 11:00:54 +01:00",
+    "name": "21 december 10.44, Trafikolycka, Orust",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-10.44-trafikolycka-orust",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Orust",
+      "gps": "58.180267,11.675984"
+    }
+  },
+  {
+    "id": 563106,
+    "datetime": "2024-12-21 12:53:35 +01:00",
+    "name": "21 december 11.16, Försvunnen person, Säffle",
+    "summary": "Polisen söker efter en försvunnen kvinna i Säffle.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-11.16-forsvunnen-person-saffle",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
     }
   },
   {
@@ -81,18 +141,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 563095,
-    "datetime": "2024-12-21 11:00:54 +01:00",
-    "name": "21 december 10.44, Trafikolycka, Orust",
-    "summary": "Larm om trafikolycka.",
-    "url": "/aktuellt/handelser/2024/december/21/21-december-10.44-trafikolycka-orust",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Orust",
-      "gps": "58.180267,11.675984"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 562002,
-    "datetime": "2024-12-15 6:31:05 +01:00",
-    "name": "15 december 04.01, Rattfylleri, Växjö",
-    "summary": "Rattfylleri och våld mot tjänsteman på Lärkgatan.",
-    "url": "/aktuellt/handelser/2024/december/15/15-december-04.01-rattfylleri-vaxjo",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 562001,
-    "datetime": "2024-12-15 6:15:55 +01:00",
-    "name": "15 december 00.09, Brand, Kalmar",
-    "summary": "Brand i villa på Linas väg.",
-    "url": "/aktuellt/handelser/2024/december/15/15-december-00.09-brand-kalmar",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 562000,
-    "datetime": "2024-12-15 5:02:32 +01:00",
-    "name": "15 december 04.50, Sammanfattning natt, Västmanlands län",
-    "summary": "Sammanfattning från en lugn natt i Västmanland",
-    "url": "/aktuellt/handelser/2024/december/15/15-december-04.50-sammanfattning-natt-vastmanlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 561998,
-    "datetime": "2024-12-15 0:42:11 +01:00",
-    "name": "14 december 22.41, Misshandel, Surahammar",
-    "summary": "En man gripen efter misshandel med vasst föremål.",
-    "url": "/aktuellt/handelser/2024/december/14/14-december-22.41-misshandel-surahammar",
-    "type": "Misshandel",
-    "location": {
-      "name": "Surahammar",
-      "gps": "59.707226,16.226841"
     }
   }
 ]
