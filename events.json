@@ -1,5 +1,41 @@
 [
   {
+    "id": 563126,
+    "datetime": "2024-12-21 16:10:23 +01:00",
+    "name": "21 december 15.44, Brand, Halmstad",
+    "summary": "Vi får larm om en brand på Brogatan.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-15.44-brand-halmstad",
+    "type": "Brand",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 563127,
+    "datetime": "2024-12-21 16:09:19 +01:00",
+    "name": "21 december 15.47, Trafikolycka, Växjö",
+    "summary": "En singelolycka med en personbil inträffar på väg 31 väster om Lenhovda.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-15.47-trafikolycka-vaxjo",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 563125,
+    "datetime": "2024-12-21 15:56:18 +01:00",
+    "name": "21 december 15.18, Rattfylleri, Borås",
+    "summary": "Vi får larm om ett misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-15.18-rattfylleri-boras",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
     "id": 563119,
     "datetime": "2024-12-21 14:47:36 +01:00",
     "name": "21 december 12.06, Inbrott, Sundsvall",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 562015,
-    "datetime": "2024-12-15 8:05:22 +01:00",
-    "name": "15 december 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/december/15/15-december-08.00-sammanfattning-natt-sodermanlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 562014,
-    "datetime": "2024-12-15 8:04:49 +01:00",
-    "name": "15 december 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/december/15/15-december-08.00-sammanfattning-natt-jonkopings-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 562013,
-    "datetime": "2024-12-15 8:04:00 +01:00",
-    "name": "15 december 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2024/december/15/15-december-08.00-sammanfattning-natt-ostergotlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
