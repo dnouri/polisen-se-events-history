@@ -1,14 +1,38 @@
 [
   {
-    "id": 563162,
-    "datetime": "2024-12-22 6:16:30 +01:00",
-    "name": "21 december 22.35, Olaga hot, Malmö",
-    "summary": "Kontroll av väska och man på Malmö C.",
-    "url": "/aktuellt/handelser/2024/december/21/21-december-22.35-olaga-hot-malmo",
-    "type": "Olaga hot",
+    "id": 563167,
+    "datetime": "2024-12-22 6:44:11 +01:00",
+    "name": "22 december 04.40, Brand, Svedala",
+    "summary": "Brand i personbil, Malmövägen.",
+    "url": "/aktuellt/handelser/2024/december/22/22-december-04.40-brand-svedala",
+    "type": "Brand",
     "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
+      "name": "Svedala",
+      "gps": "55.508908,13.23711"
+    }
+  },
+  {
+    "id": 563166,
+    "datetime": "2024-12-22 6:40:49 +01:00",
+    "name": "21 december 22.50, Trafikolycka, Eslöv",
+    "summary": "Personbil i singelolycka på länsväg 113, Skärtorp.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-22.50-trafikolycka-eslov",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 563165,
+    "datetime": "2024-12-22 6:29:44 +01:00",
+    "name": "22 december 01.39, Rattfylleri, Västervik",
+    "summary": "Misstänkt påverkad förare, Hermanstorp.",
+    "url": "/aktuellt/handelser/2024/december/22/22-december-01.39-rattfylleri-vastervik",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Säffle",
       "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 563163,
+    "datetime": "2024-12-22 6:26:27 +01:00",
+    "name": "21 december 21.42, Räddningsinsats, Helsingborg",
+    "summary": "Kontroll av personer i vattnet, Kajpromenaden.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-21.42-raddningsinsats-helsingborg",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 563162,
+    "datetime": "2024-12-22 6:16:30 +01:00",
+    "name": "21 december 22.35, Olaga hot, Malmö",
+    "summary": "Kontroll av väska och man på Malmö C.",
+    "url": "/aktuellt/handelser/2024/december/21/21-december-22.35-olaga-hot-malmo",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 562042,
-    "datetime": "2024-12-16 6:58:30 +01:00",
-    "name": "15 december 23.28, Rattfylleri, Växjö",
-    "summary": "Man misstänkt för drograttfylleri efter fordonskontroll",
-    "url": "/aktuellt/handelser/2024/december/15/15-december-23.28-rattfylleri-vaxjo",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 562040,
-    "datetime": "2024-12-16 6:54:35 +01:00",
-    "name": "16 december 00.23, Brand, Helsingborg",
-    "summary": "Brand i moped",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-00.23-brand-helsingborg",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 562038,
-    "datetime": "2024-12-16 6:42:54 +01:00",
-    "name": "16 december 06.19, Trafikolycka, Lund",
-    "summary": "Larm om trafikolycka, LV108",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-06.19-trafikolycka-lund",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 562037,
-    "datetime": "2024-12-16 6:40:08 +01:00",
-    "name": "16 december 04.40, Trafikolycka, Örkelljunga",
-    "summary": "En person förd till sjukhus efter trafikolycka, ingen misstanke om brott",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-04.40-trafikolycka-orkelljunga",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örkelljunga",
-      "gps": "56.283635,13.278832"
     }
   }
 ]
