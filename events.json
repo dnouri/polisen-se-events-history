@@ -1,5 +1,65 @@
 [
   {
+    "id": 563362,
+    "datetime": "2024-12-23 13:19:17 +01:00",
+    "name": "23 december 12.24, Trafikolycka, Hagfors",
+    "summary": "Polisen är på plats vid en trafikolycka på väg 62.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-12.24-trafikolycka-hagfors",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hagfors",
+      "gps": "60.03437,13.694508"
+    }
+  },
+  {
+    "id": 563376,
+    "datetime": "2024-12-23 13:24:09 +01:00",
+    "name": "23 december 13.23, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-13.23-trafikkontroll-norrbottens-lan",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 563361,
+    "datetime": "2024-12-23 13:18:56 +01:00",
+    "name": "23 december 12.48, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på Storhedsvägen, Notviken.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-12.48-trafikolycka-lulea",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 563360,
+    "datetime": "2024-12-23 13:13:19 +01:00",
+    "name": "23 december 12.46, Trafikolycka, Örebro",
+    "summary": "En trafikolycka har inträffat på avfarten mot Marieberg.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-12.46-trafikolycka-orebro",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 563344,
+    "datetime": "2024-12-23 11:39:38 +01:00",
+    "name": "23 december 10.46, Misshandel, Landskrona",
+    "summary": "Butiksanställd utsatt för misshandel av aggressiv kund.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-10.46-misshandel-landskrona",
+    "type": "Misshandel",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
     "id": 563349,
     "datetime": "2024-12-23 11:59:49 +01:00",
     "name": "23 december 09.41, Försvunnen person, Nybro",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 563344,
-    "datetime": "2024-12-23 11:39:38 +01:00",
-    "name": "23 december 10.46, Misshandel, Landskrona",
-    "summary": "Butiksanställd utsatt för misshandel av aggressiv kund.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-10.46-misshandel-landskrona",
-    "type": "Misshandel",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Mellerud",
       "gps": "58.702568,12.451842"
-    }
-  },
-  {
-    "id": 562239,
-    "datetime": "2024-12-16 22:01:01 +01:00",
-    "name": "16 december 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-22.00-ovrigt-vastra-gotalands-lan",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 562240,
-    "datetime": "2024-12-16 22:00:56 +01:00",
-    "name": "16 december 22.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-22.00-ovrigt-hallands-lan",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 562238,
-    "datetime": "2024-12-16 21:50:42 +01:00",
-    "name": "16 december 18.26, Stöld/inbrott, Västerås",
-    "summary": "Boende upptäckte inbrott.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-18.26-stoldinbrott-vasteras",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 562237,
-    "datetime": "2024-12-16 21:37:20 +01:00",
-    "name": "16 december 20.21, Stöld, Köping",
-    "summary": "Larm om stöld från butik.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-20.21-stold-koping",
-    "type": "Stöld",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
     }
   }
 ]
