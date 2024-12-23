@@ -1,5 +1,53 @@
 [
   {
+    "id": 563400,
+    "datetime": "2024-12-23 16:29:28 +01:00",
+    "name": "23 december 15.44, Trafikolycka, Skellefteå",
+    "summary": "Trafikolycka på länsväg 807 vid Gärdsmark söder om Skellefteå.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-152.44-trafikolycka-skelleftea",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 563418,
+    "datetime": "2024-12-23 17:23:17 +01:00",
+    "name": "23 december 17.07, Trafikolycka, Falun",
+    "summary": "En singelolycka har inträffat på E16 i höjd med Liljan",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-17.07-trafikolycka-falun",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 563417,
+    "datetime": "2024-12-23 17:15:06 +01:00",
+    "name": "23 december 16.41, Trafikolycka, vilt, Arvika",
+    "summary": "En olycka har inträffat på riksväg 61, i höjd med Brunskog",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-16.41-trafikolycka-vilt-arvika",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 563416,
+    "datetime": "2024-12-23 17:09:12 +01:00",
+    "name": "23 december 15.47, Misshandel, Stockholm",
+    "summary": "I Bromma har en man knuffat och dragit i en kvinna i samband med diskussioner kring en separation.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-15.47-misshandel-stockholm",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 563404,
     "datetime": "2024-12-23 16:41:05 +01:00",
     "name": "23 december 16.14, Larm Överfall, Gotlands län",
@@ -33,18 +81,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 563400,
-    "datetime": "2024-12-23 16:29:28 +01:00",
-    "name": "23 december 15.44, Trafikolycka, Skellefteå",
-    "summary": "Trafikolycka på länsväg 807 vid Gärdsmark söder om Skellefteå.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-152.44-trafikolycka-skelleftea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 562253,
-    "datetime": "2024-12-17 8:01:21 +01:00",
-    "name": "17 december 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-08.00-sammanfattning-natt-jonkopings-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 562252,
-    "datetime": "2024-12-17 7:52:04 +01:00",
-    "name": "17 december 07.51, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-07.51-sammanfattning-natt-ostergotlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 562251,
-    "datetime": "2024-12-17 7:51:55 +01:00",
-    "name": "17 december 07.51, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-07.51-sammanfattning-natt-sodermanlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
