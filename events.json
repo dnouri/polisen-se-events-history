@@ -1,14 +1,38 @@
 [
   {
-    "id": 563362,
-    "datetime": "2024-12-23 13:19:17 +01:00",
-    "name": "23 december 12.24, Trafikolycka, Hagfors",
-    "summary": "Polisen är på plats vid en trafikolycka på väg 62.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-12.24-trafikolycka-hagfors",
+    "id": 563379,
+    "datetime": "2024-12-23 14:06:58 +01:00",
+    "name": "23 december 11.26, Rån, Huddinge",
+    "summary": "Rån i elektronikbutik i Länna.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-11.26-ran-huddinge",
+    "type": "Rån",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
+    "id": 563360,
+    "datetime": "2024-12-23 13:13:19 +01:00",
+    "name": "23 december 12.46, Trafikolycka, Örebro",
+    "summary": "En trafikolycka har inträffat på avfarten mot Marieberg.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-12.46-trafikolycka-orebro",
     "type": "Trafikolycka",
     "location": {
-      "name": "Hagfors",
-      "gps": "60.03437,13.694508"
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 563378,
+    "datetime": "2024-12-23 13:48:57 +01:00",
+    "name": "23 december 12.04, Trafikolycka, Ystad",
+    "summary": "Flera personbilar i kollision.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-12.04-trafikolycka-ystad",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ystad",
+      "gps": "55.429505,13.820031"
     }
   },
   {
@@ -24,6 +48,18 @@
     }
   },
   {
+    "id": 563362,
+    "datetime": "2024-12-23 13:19:17 +01:00",
+    "name": "23 december 12.24, Trafikolycka, Hagfors",
+    "summary": "Polisen är på plats vid en trafikolycka på väg 62.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-12.24-trafikolycka-hagfors",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hagfors",
+      "gps": "60.03437,13.694508"
+    }
+  },
+  {
     "id": 563361,
     "datetime": "2024-12-23 13:18:56 +01:00",
     "name": "23 december 12.48, Trafikolycka, Luleå",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 563360,
-    "datetime": "2024-12-23 13:13:19 +01:00",
-    "name": "23 december 12.46, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på avfarten mot Marieberg.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-12.46-trafikolycka-orebro",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 562242,
-    "datetime": "2024-12-17 4:07:16 +01:00",
-    "name": "17 december 01.49, Stöld/inbrott, Sundsvall",
-    "summary": "Två personer gripna efter stöld.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-01.49-stoldinbrott-sundsvall",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 562233,
-    "datetime": "2024-12-16 21:08:02 +01:00",
-    "name": "16 december 20.57, Brand, Mellerud",
-    "summary": "SOS larmas om en brand i en garagebyggnad, invid ett flerfamiljshus.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-20.57-brand-mellerud",
-    "type": "Brand",
-    "location": {
-      "name": "Mellerud",
-      "gps": "58.702568,12.451842"
     }
   }
 ]
