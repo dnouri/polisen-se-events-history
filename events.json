@@ -1,5 +1,77 @@
 [
   {
+    "id": 563423,
+    "datetime": "2024-12-23 18:22:57 +01:00",
+    "name": "23 december 14.30, Olaga hot, Stockholm",
+    "summary": "Två män hotar personalen i en mataffär i Kista.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-14.30-olaga-hot-stockholm",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 563419,
+    "datetime": "2024-12-23 18:14:06 +01:00",
+    "name": "23 december 17.26, Trafikolycka, Ånge",
+    "summary": "E14, trafikolycka utanför Torpshammar.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-17.26-trafikolycka-ange",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ånge",
+      "gps": "62.522874,15.658942"
+    }
+  },
+  {
+    "id": 563422,
+    "datetime": "2024-12-23 18:11:49 +01:00",
+    "name": "23 december 16.41, Arbetsplatsolycka, Kumla",
+    "summary": "En arbetsplatsolycka inträffade på ett kemiföretag",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-16.41-arbetsplatsolycka-kumla",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 563417,
+    "datetime": "2024-12-23 17:15:06 +01:00",
+    "name": "23 december 16.41, Trafikolycka, vilt, Arvika",
+    "summary": "En olycka har inträffat på riksväg 61, i höjd med Brunskog",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-16.41-trafikolycka-vilt-arvika",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 563421,
+    "datetime": "2024-12-23 18:04:32 +01:00",
+    "name": "23 december 17.18, Fylleri/LOB, Skellefteå",
+    "summary": "Skellefteå, person omhändertagen.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-17.18-fyllerilob-skelleftea",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 563420,
+    "datetime": "2024-12-23 17:53:01 +01:00",
+    "name": "23 december 17.51, Misshandel, Norrköping",
+    "summary": "Bråk i köpcenter.",
+    "url": "/aktuellt/handelser/2024/december/23/23-december-17.51-misshandel-norrkoping",
+    "type": "Misshandel",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
     "id": 563418,
     "datetime": "2024-12-23 17:23:17 +01:00",
     "name": "23 december 17.07, Trafikolycka, Falun",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 563417,
-    "datetime": "2024-12-23 17:15:06 +01:00",
-    "name": "23 december 16.41, Trafikolycka, vilt, Arvika",
-    "summary": "En olycka har inträffat på riksväg 61, i höjd med Brunskog",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-16.41-trafikolycka-vilt-arvika",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   },
   {
@@ -5934,66 +5994,6 @@
     "summary": "En bilförare krockar med en stolpe och springer från platsen.",
     "url": "/aktuellt/handelser/2024/december/17/17-december-00.23-trafikbrott-stockholm",
     "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 562262,
-    "datetime": "2024-12-17 8:11:03 +01:00",
-    "name": "17 december 00.04, Trafikolycka, smitning från, Huddinge",
-    "summary": "Bil voltar i Trångsund.",
-    "url": "/aktuellt/handelser/2024/december/17/17-december-00.04-trafikolycka-smitning-fran-huddinge",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 562260,
-    "datetime": "2024-12-17 8:10:58 +01:00",
-    "name": "16 december 23.30, Misshandel, Nynäshamn",
-    "summary": "Misshandel i nära relation.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-23.30-misshandel-nynashamn",
-    "type": "Misshandel",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 562259,
-    "datetime": "2024-12-17 8:10:53 +01:00",
-    "name": "16 december 23.18, Brand, Lidingö",
-    "summary": "Villabrand på Lidingö.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-23.18-brand-lidingo",
-    "type": "Brand",
-    "location": {
-      "name": "Lidingö",
-      "gps": "59.36296,18.1468"
-    }
-  },
-  {
-    "id": 562258,
-    "datetime": "2024-12-17 8:10:48 +01:00",
-    "name": "16 december 22.47, Misshandel, Stockholm",
-    "summary": "MIsshandel i trapphus.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-22.47-misshandel-stockholm",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 562254,
-    "datetime": "2024-12-17 8:10:43 +01:00",
-    "name": "16 december 22.13, Misshandel, Stockholm",
-    "summary": "Misshandel i lägenhet.",
-    "url": "/aktuellt/handelser/2024/december/16/16-december-22.13-misshandel-stockholm",
-    "type": "Misshandel",
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
