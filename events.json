@@ -1,14 +1,38 @@
 [
   {
-    "id": 563499,
-    "datetime": "2024-12-25 10:07:22 +01:00",
-    "name": "25 december 23.55, Mord/dråp, Bollebygd",
-    "summary": "Förundersökning gällande misstänkt mord.",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-23.55-morddrap-bollebygd",
-    "type": "Mord/dråp",
+    "id": 563512,
+    "datetime": "2024-12-25 13:34:20 +01:00",
+    "name": "25 december 10.55, Brand, Örnsköldsvik",
+    "summary": "Brand i flerfamiljshus i Domsjö, Örnsköldsvik.",
+    "url": "/aktuellt/handelser/2024/december/25/25-december-10.55-brand-ornskoldsvik",
+    "type": "Brand",
     "location": {
-      "name": "Bollebygd",
-      "gps": "57.668969,12.570143"
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 563511,
+    "datetime": "2024-12-25 13:30:25 +01:00",
+    "name": "25 december 10.41, Misshandel, Östersund",
+    "summary": "Två män misstänks ha misshandlat varandra.",
+    "url": "/aktuellt/handelser/2024/december/25/25-december-10.41-misshandel-ostersund",
+    "type": "Misshandel",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 563507,
+    "datetime": "2024-12-25 12:13:58 +01:00",
+    "name": "25 december 11.58, Brand, Malmö",
+    "summary": "Det brinner i en lägenhet på Lorensborg.",
+    "url": "/aktuellt/handelser/2024/december/25/25-december-11.58-brand-malmo",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Botkyrka",
       "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 563499,
+    "datetime": "2024-12-25 10:07:22 +01:00",
+    "name": "25 december 23.55, Mord/dråp, Bollebygd",
+    "summary": "Förundersökning gällande misstänkt mord.",
+    "url": "/aktuellt/handelser/2024/december/25/25-december-23.55-morddrap-bollebygd",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Bollebygd",
+      "gps": "57.668969,12.570143"
     }
   },
   {
@@ -57,18 +93,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 563507,
-    "datetime": "2024-12-25 12:13:58 +01:00",
-    "name": "25 december 11.58, Brand, Malmö",
-    "summary": "Det brinner i en lägenhet på Lorensborg.",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-11.58-brand-malmo",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 562423,
-    "datetime": "2024-12-18 7:41:28 +01:00",
-    "name": "18 december 07.41, Sammanfattning natt, Södermanlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-07.41-sammanfattning-natt-sodermanlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 562428,
-    "datetime": "2024-12-18 7:41:17 +01:00",
-    "name": "18 december 07.41, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-07.41-sammanfattning-natt-ostergotlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
