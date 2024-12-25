@@ -1,5 +1,53 @@
 [
   {
+    "id": 563499,
+    "datetime": "2024-12-25 10:07:22 +01:00",
+    "name": "25 december 23.55, Mord/dråp, Bollebygd",
+    "summary": "Förundersökning gällande misstänkt mord.",
+    "url": "/aktuellt/handelser/2024/december/25/25-december-23.55-morddrap-bollebygd",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Bollebygd",
+      "gps": "57.668969,12.570143"
+    }
+  },
+  {
+    "id": 563510,
+    "datetime": "2024-12-25 12:39:13 +01:00",
+    "name": "25 december 12.34, Trafikolycka, singel, Botkyrka",
+    "summary": "En personbil har av en just nu okänd anledning kört av vägen på E4 vid trafikplats Hallunda i nordlig riktning",
+    "url": "/aktuellt/handelser/2024/december/25/25-december-12.34-trafikolycka-singel-botkyrka",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 563509,
+    "datetime": "2024-12-25 12:35:23 +01:00",
+    "name": "25 december 12.34, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2024/december/25/25-december-12.34-trafikkontroll-norrbottens-lan",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 563504,
+    "datetime": "2024-12-25 11:00:55 +01:00",
+    "name": "25 december 10.25, Bråk, Tyresö",
+    "summary": "Polisen är på plats i en lägenhet i Bollmora för att utreda om personerna som befinner sig där har utsatt vara",
+    "url": "/aktuellt/handelser/2024/december/25/25-december-10.25-brak-tyreso",
+    "type": "Bråk",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
     "id": 563508,
     "datetime": "2024-12-25 12:15:32 +01:00",
     "name": "25 december 12.14, Stöld/inbrott, Jönköping",
@@ -48,18 +96,6 @@
     }
   },
   {
-    "id": 563504,
-    "datetime": "2024-12-25 11:00:55 +01:00",
-    "name": "25 december 10.25, Bråk, Tyresö",
-    "summary": "Polisen är på plats i en lägenhet i Bollmora för att utreda om personerna som befinner sig där har utsatt vara",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-10.25-brak-tyreso",
-    "type": "Bråk",
-    "location": {
-      "name": "Tyresö",
-      "gps": "59.242595,18.283392"
-    }
-  },
-  {
     "id": 563503,
     "datetime": "2024-12-25 10:57:58 +01:00",
     "name": "25 december 10.57, Trafikkontroll, Västernorrlands län",
@@ -105,18 +141,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 563499,
-    "datetime": "2024-12-25 10:07:22 +01:00",
-    "name": "25 december 23.55, Mord/dråp, Bollebygd",
-    "summary": "Förundersökning gällande misstänkt mord.",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-23.55-morddrap-bollebygd",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Bollebygd",
-      "gps": "57.668969,12.570143"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 562430,
-    "datetime": "2024-12-18 7:41:09 +01:00",
-    "name": "18 december 07.41, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-07.41-sammanfattning-natt-jonkopings-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 562429,
-    "datetime": "2024-12-18 7:39:55 +01:00",
-    "name": "18 december 20.37, Trafikbrott, Bollnäs",
-    "summary": "Bil åkte runt och sladdade på parkering.",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-20.37-trafikbrott-bollnas",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
     }
   }
 ]
