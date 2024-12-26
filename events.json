@@ -1,5 +1,65 @@
 [
   {
+    "id": 563555,
+    "datetime": "2024-12-26 9:30:47 +01:00",
+    "name": "26 december 04.46, Brand, Strömsund",
+    "summary": "Strömsund, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2024/december/26/26-december-04.46-brand-stromsund",
+    "type": "Brand",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 563564,
+    "datetime": "2024-12-26 11:15:40 +01:00",
+    "name": "26 december 10.56, Arbetsplatsolycka, Landskrona",
+    "summary": "Polis berodras till Hyllingelyckan med anledning av en olycka på en arbetsplats.",
+    "url": "/aktuellt/handelser/2024/december/26/26-december-10.56-arbetsplatsolycka-landskrona",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 563563,
+    "datetime": "2024-12-26 11:15:23 +01:00",
+    "name": "26 december 09.58, Sjukdom/olycksfall, Stockholm",
+    "summary": "En hund har bitit en pojke i knappa 10-årsåldern.",
+    "url": "/aktuellt/handelser/2024/december/26/26-december-09.58-sjukdomolycksfall-stockholm",
+    "type": "Sjukdom/olycksfall",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 563560,
+    "datetime": "2024-12-26 11:05:19 +01:00",
+    "name": "26 december 10.33, Trafikolycka, Åmål",
+    "summary": "SOS larmas om en singelolycka på E45 norr om Åmål.",
+    "url": "/aktuellt/handelser/2024/december/26/26-december-10.33-trafikolycka-amal",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åmål",
+      "gps": "59.051117,12.697732"
+    }
+  },
+  {
+    "id": 563559,
+    "datetime": "2024-12-26 10:56:11 +01:00",
+    "name": "26 december 04.47, Skadegörelse, Kramfors",
+    "summary": "Kramfors, brand i container utreds som skadegörelse.",
+    "url": "/aktuellt/handelser/2024/december/26/26-december-04.47-skadegorelse-kramfors",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
     "id": 563558,
     "datetime": "2024-12-26 10:30:35 +01:00",
     "name": "26 december 09.30, Motorfordon, stöld, Stockholm",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Kumla",
       "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 563555,
-    "datetime": "2024-12-26 9:30:47 +01:00",
-    "name": "26 december 04.46, Brand, Strömsund",
-    "summary": "Strömsund, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2024/december/26/26-december-04.46-brand-stromsund",
-    "type": "Brand",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 562582,
-    "datetime": "2024-12-18 18:06:32 +01:00",
-    "name": "18 december 17.25, Rattfylleri, Stenungsund",
-    "summary": "En person ringer till polisen om att hen ligger bakom en personbil som kör mycket konstigt och vinglar fram oc",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-17.25-rattfylleri-stenungsund",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 562581,
-    "datetime": "2024-12-18 17:50:45 +01:00",
-    "name": "18 december 16.03, Stöld, Sundsvall",
-    "summary": "Birsta, man stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-16.03-stold-sundsvall",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 562580,
-    "datetime": "2024-12-18 17:49:30 +01:00",
-    "name": "18 december 17.48, Trafikolycka, Vadstena",
-    "summary": "Påkörd cyklist i Vadstena kommun.",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-17.48-trafikolycka-vadstena",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vadstena",
-      "gps": "58.447602,14.890234"
-    }
-  },
-  {
-    "id": 562579,
-    "datetime": "2024-12-18 17:21:25 +01:00",
-    "name": "18 december 16.24, Trafikolycka, singel, Åsele",
-    "summary": "Åsele tätort, larm om trafikolycka vid Björnavägen/Norrstrandsvägen",
-    "url": "/aktuellt/handelser/2024/december/18/18-december-16.24-trafikolycka-singel-asele",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Åsele",
-      "gps": "64.160234,17.353615"
     }
   }
 ]
