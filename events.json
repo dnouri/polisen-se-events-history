@@ -1,5 +1,53 @@
 [
   {
+    "id": 563763,
+    "datetime": "2024-12-29 8:00:07 +01:00",
+    "name": "29 december 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/december/29/29-december-08.00-sammanfattning-natt-jonkopings-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 563778,
+    "datetime": "2024-12-29 8:09:04 +01:00",
+    "name": "29 december 08.08, Sammanfattning natt, Örebro län",
+    "summary": "Nedan följer ett urval av nattens händelser i polisområde Örebro.",
+    "url": "/aktuellt/handelser/2024/december/29/29-december-08.08-sammanfattning-natt-orebro-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 563762,
+    "datetime": "2024-12-29 8:00:32 +01:00",
+    "name": "29 december 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/december/29/29-december-08.00-sammanfattning-natt-ostergotlands-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 563761,
+    "datetime": "2024-12-29 8:00:21 +01:00",
+    "name": "29 december 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2024/december/29/29-december-08.00-sammanfattning-natt-sodermanlands-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 563775,
     "datetime": "2024-12-29 7:41:37 +01:00",
     "name": "29 december 07.28, Trafikhinder, Nynäshamn",
@@ -9,6 +57,30 @@
     "location": {
       "name": "Nynäshamn",
       "gps": "58.902926,17.946529"
+    }
+  },
+  {
+    "id": 563777,
+    "datetime": "2024-12-29 7:55:58 +01:00",
+    "name": "29 december 07.53, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har polisiärt sett varit en lugn natt i Dalarna.",
+    "url": "/aktuellt/handelser/2024/december/29/29-december-07.53-sammanfattning-natt-dalarnas-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 563776,
+    "datetime": "2024-12-29 7:53:58 +01:00",
+    "name": "29 december 07.52, Sammanfattning natt, Värmlands län",
+    "summary": "Nedan följer ett urval av nattens ärenden i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2024/december/29/29-december-07.52-sammanfattning-natt-varmlands-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -518,10 +590,10 @@
   {
     "id": 563728,
     "datetime": "2024-12-28 9:06:27 +01:00",
-    "name": "28 december 09.06, Mord/dråp, Eskilstuna",
+    "name": "28 december 09.06, Anträffad död, Eskilstuna",
     "summary": "Polisen inleder förundersökning efter dödsfall.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-09.06-morddrap-eskilstuna",
-    "type": "Mord/dråp",
+    "url": "/aktuellt/handelser/2024/december/28/28-december-09.06-antraffad-dod-eskilstuna",
+    "type": "Anträffad död",
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Hallsberg",
       "gps": "59.066532,15.10229"
-    }
-  },
-  {
-    "id": 563041,
-    "datetime": "2024-12-20 19:12:00 +01:00",
-    "name": "20 december 19.11, Inbrott, Eskilstuna",
-    "summary": "Någon slog sönder ruta i villa.",
-    "url": "/aktuellt/handelser/2024/december/20/20-december-19.11-inbrott-eskilstuna",
-    "type": "Inbrott",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 563035,
-    "datetime": "2024-12-20 18:22:40 +01:00",
-    "name": "20 december 15.47, Narkotikabrott, Sundsvall",
-    "summary": "Stenstan, tonåring kontrollerad av polis",
-    "url": "/aktuellt/handelser/2024/december/20/20-december-15.47-narkotikabrott-sundsvall",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 563033,
-    "datetime": "2024-12-20 18:15:16 +01:00",
-    "name": "20 december 14.59, Trafikkontroll, Vilhelmina",
-    "summary": "Vilhelmina, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2024/december/20/20-december-14.59-trafikkontroll-vilhelmina",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 563028,
-    "datetime": "2024-12-20 17:44:40 +01:00",
-    "name": "20 december 16.47, Rattfylleri, Ängelholm",
-    "summary": "En man blir misstänkt för grovt rattfylleri efter trafikolycka.",
-    "url": "/aktuellt/handelser/2024/december/20/20-december-16.47-rattfylleri-angelholm",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 563025,
-    "datetime": "2024-12-20 17:14:37 +01:00",
-    "name": "20 december 17.07, Trafikolycka, Växjö",
-    "summary": "En trafikolycka mellan en personbil och en person inträffar vid Vattentorget.",
-    "url": "/aktuellt/handelser/2024/december/20/20-december-17.07-trafikolycka-vaxjo",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 563026,
-    "datetime": "2024-12-20 17:17:51 +01:00",
-    "name": "20 december 17.17, Trafikolycka, Linköping",
-    "summary": "Trafikstörningar efter olycka på riksväg 23.",
-    "url": "/aktuellt/handelser/2024/december/20/20-december-17.17-trafikolycka-linkoping",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   }
 ]
