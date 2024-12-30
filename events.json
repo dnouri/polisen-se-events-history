@@ -1,17 +1,5 @@
 [
   {
-    "id": 563897,
-    "datetime": "2024-12-30 12:41:10 +01:00",
-    "name": "30 december 09.49, Trafikkontroll, Östersund",
-    "summary": "Resultat efter en trafikkontroll på Hagvägen i Östersund.",
-    "url": "/aktuellt/handelser/2024/december/30/30-december-09.49-trafikkontroll-ostersund",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
     "id": 563896,
     "datetime": "2024-12-30 12:28:39 +01:00",
     "name": "30 december 12.10, Trafikolycka, Malmö",
@@ -21,6 +9,66 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 563901,
+    "datetime": "2024-12-30 13:13:23 +01:00",
+    "name": "30 december 13.12, Brand, Vaggeryd",
+    "summary": "SOS larmades till brinnande bil på E4",
+    "url": "/aktuellt/handelser/2024/december/30/30-december-13.12-brand-vaggeryd",
+    "type": "Brand",
+    "location": {
+      "name": "Vaggeryd",
+      "gps": "57.498962,14.14863"
+    }
+  },
+  {
+    "id": 563728,
+    "datetime": "2024-12-28 9:06:27 +01:00",
+    "name": "28 december 09.06, Anträffad död, Eskilstuna",
+    "summary": "Polisen inleder förundersökning efter dödsfall.",
+    "url": "/aktuellt/handelser/2024/december/28/28-december-09.06-antraffad-dod-eskilstuna",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 563900,
+    "datetime": "2024-12-30 12:58:16 +01:00",
+    "name": "30 december 10.28, Trafikkontroll, Bräcke",
+    "summary": "Resultat efter en trafikkontroll i centrala Bräcke.",
+    "url": "/aktuellt/handelser/2024/december/30/30-december-10.28-trafikkontroll-bracke",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Bräcke",
+      "gps": "62.750741,15.422575"
+    }
+  },
+  {
+    "id": 563898,
+    "datetime": "2024-12-30 12:46:23 +01:00",
+    "name": "30 december 09.49, Trafikkontroll, Östersund",
+    "summary": "Resultat efter en trafikkontroll på Hagvägen i Östersund.",
+    "url": "/aktuellt/handelser/2024/december/30/30-december-092.49-trafikkontroll-ostersund",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 563897,
+    "datetime": "2024-12-30 12:41:10 +01:00",
+    "name": "30 december 09.49, Trafikkontroll, Östersund",
+    "summary": "Resultat efter en trafikkontroll på Hagvägen i Östersund.",
+    "url": "/aktuellt/handelser/2024/december/30/30-december-09.49-trafikkontroll-ostersund",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -81,18 +129,6 @@
     "location": {
       "name": "Storuman",
       "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 563728,
-    "datetime": "2024-12-28 9:06:27 +01:00",
-    "name": "28 december 09.06, Anträffad död, Eskilstuna",
-    "summary": "Polisen inleder förundersökning efter dödsfall.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-09.06-antraffad-dod-eskilstuna",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 563099,
-    "datetime": "2024-12-21 11:10:07 +01:00",
-    "name": "21 december 10.22, Knivlagen, Kungälv",
-    "summary": "Man misstänkt för bland annat brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2024/december/21/21-december-10.22-knivlagen-kungalv",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 563098,
-    "datetime": "2024-12-21 11:05:00 +01:00",
-    "name": "21 december 09.12, Trafikolycka, vilt, Östersund",
-    "summary": "Polisen får in en anmälan om en viltolycka på väg 622, söder om Gilleråsen.",
-    "url": "/aktuellt/handelser/2024/december/21/21-december-09.12-trafikolycka-vilt-ostersund",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 563075,
-    "datetime": "2024-12-21 6:44:04 +01:00",
-    "name": "21 december 06.05, Misshandel, Malmö",
-    "summary": "Kvinna misshandlad utomhus, Docentgatan.",
-    "url": "/aktuellt/handelser/2024/december/21/21-december-06.05-misshandel-malmo",
-    "type": "Misshandel",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
