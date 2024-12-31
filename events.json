@@ -1,5 +1,65 @@
 [
   {
+    "id": 564001,
+    "datetime": "2024-12-31 14:59:49 +01:00",
+    "name": "31 december 11.12, Trafikbrott, Kalmar",
+    "summary": "Vinglig färd",
+    "url": "/aktuellt/handelser/2024/december/31/31-december-11.12-trafikbrott-kalmar",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 564000,
+    "datetime": "2024-12-31 14:50:35 +01:00",
+    "name": "31 december 14.20, Trafikkontroll, Östersund",
+    "summary": "Resultat efter en trafikkontroll på Hagvägen, Odenskogs industriområde.",
+    "url": "/aktuellt/handelser/2024/december/31/31-december-14.20-trafikkontroll-ostersund",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 563999,
+    "datetime": "2024-12-31 14:48:01 +01:00",
+    "name": "31 december 13.13, Narkotikabrott, Örnsköldsvik",
+    "summary": "Misstänkt ringa narkotikabrott i Örnsköldsvik.",
+    "url": "/aktuellt/handelser/2024/december/31/31-december-13.13-narkotikabrott-ornskoldsvik",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 563996,
+    "datetime": "2024-12-31 14:45:33 +01:00",
+    "name": "31 december 14.45, Övrigt, Hallands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2024/december/31/31-december-14.45-ovrigt-hallands-lan",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 563995,
+    "datetime": "2024-12-31 14:45:27 +01:00",
+    "name": "31 december 14.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2024/december/31/31-december-14.45-ovrigt-vastra-gotalands-lan",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 563998,
     "datetime": "2024-12-31 14:43:55 +01:00",
     "name": "31 december 14.43, Trafikolycka, vilt, Norrbottens län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 563316,
-    "datetime": "2024-12-23 7:05:56 +01:00",
-    "name": "22 december 22.48, Ofredande/förargelse, Staffanstorp",
-    "summary": "Larm om ungdomar som skjuter fyrverkerier mot balkong",
-    "url": "/aktuellt/handelser/2024/december/22/22-december-22.48-ofredandeforargelse-staffanstorp",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Staffanstorp",
-      "gps": "55.641065,13.212229"
-    }
-  },
-  {
-    "id": 563314,
-    "datetime": "2024-12-23 7:00:46 +01:00",
-    "name": "23 december 05.44, Trafikolycka, smitning från, Malmö",
-    "summary": "Larm om trafikolycka",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-05.44-trafikolycka-smitning-fran-malmo",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 563306,
-    "datetime": "2024-12-23 7:00:19 +01:00",
-    "name": "23 december 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 563307,
-    "datetime": "2024-12-23 7:00:09 +01:00",
-    "name": "23 december 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-07.00-sammanfattning-kvall-och-natt-hallands-lan",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 563313,
-    "datetime": "2024-12-23 7:00:07 +01:00",
-    "name": "23 december 07.00, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-07.00-sammanfattning-natt-vasterbottens-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
