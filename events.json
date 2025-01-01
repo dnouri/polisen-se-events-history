@@ -1,5 +1,65 @@
 [
   {
+    "id": 564052,
+    "datetime": "2025-01-01 10:16:59 +01:00",
+    "name": "01 januari 00.41, Misshandel, Helsingborg",
+    "summary": "Grov misshandel, Helsingborg.",
+    "url": "/aktuellt/handelser/2025/januari/1/01-januari-00.41-misshandel-helsingborg",
+    "type": "Misshandel",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 564055,
+    "datetime": "2025-01-01 10:03:38 +01:00",
+    "name": "01 januari 06.52, Brand, Uppsala",
+    "summary": "Brand i radhus.",
+    "url": "/aktuellt/handelser/2025/januari/1/01-januari-06.52-brand-uppsala",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 564054,
+    "datetime": "2025-01-01 9:57:19 +01:00",
+    "name": "01 januari 09.57, Brand, Degerfors",
+    "summary": "Branden i Duvedalen under tisdagen har i anmälan omrubricerats och förundersökning är nu inledd.",
+    "url": "/aktuellt/handelser/2025/januari/1/01-januari-09.57-brand-degerfors",
+    "type": "Brand",
+    "location": {
+      "name": "Degerfors",
+      "gps": "59.239103,14.433918"
+    }
+  },
+  {
+    "id": 564032,
+    "datetime": "2025-01-01 7:50:49 +01:00",
+    "name": "01 januari 07.50, Sammanfattning natt, Jönköpings län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/januari/1/01-januari-07.50-sammanfattning-natt-jonkopings-lan",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 564053,
+    "datetime": "2025-01-01 9:47:23 +01:00",
+    "name": "01 januari 09.44, Brand, Eskilstuna",
+    "summary": "Misstänkt anlagd brand i tvättstuga.",
+    "url": "/aktuellt/handelser/2025/januari/1/01-januari-09.44-brand-eskilstuna",
+    "type": "Brand",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 564051,
     "datetime": "2025-01-01 9:31:58 +01:00",
     "name": "01 januari 03.02, Misshandel, Stockholm",
@@ -105,18 +165,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 564032,
-    "datetime": "2025-01-01 7:50:49 +01:00",
-    "name": "01 januari 07.50, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/januari/1/01-januari-07.50-sammanfattning-natt-jonkopings-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 560366,
-    "datetime": "2024-12-01 17:37:03 +01:00",
-    "name": "01 december 11.14, Försvunnen person, Oskarshamn",
-    "summary": "Man försvunnen efter julfest",
-    "url": "/aktuellt/handelser/2024/december/1/01-december-11.14-forsvunnen-person-oskarshamn",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 563379,
-    "datetime": "2024-12-23 14:06:58 +01:00",
-    "name": "23 december 11.26, Rån, Huddinge",
-    "summary": "Rån i elektronikbutik i Länna.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-11.26-ran-huddinge",
-    "type": "Rån",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 563360,
-    "datetime": "2024-12-23 13:13:19 +01:00",
-    "name": "23 december 12.46, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på avfarten mot Marieberg.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-12.46-trafikolycka-orebro",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 563378,
-    "datetime": "2024-12-23 13:48:57 +01:00",
-    "name": "23 december 12.04, Trafikolycka, Ystad",
-    "summary": "Flera personbilar i kollision.",
-    "url": "/aktuellt/handelser/2024/december/23/23-december-12.04-trafikolycka-ystad",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
     }
   }
 ]
