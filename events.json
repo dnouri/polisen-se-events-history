@@ -1,5 +1,77 @@
 [
   {
+    "id": 564189,
+    "datetime": "2025-01-02 20:42:42 +01:00",
+    "name": "02 januari 19.51, Brand, Kristianstad",
+    "summary": "Brand på toalett, Tivoliparken",
+    "url": "/aktuellt/handelser/2025/januari/2/02-januari-19.51-brand-kristianstad",
+    "type": "Brand",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 564188,
+    "datetime": "2025-01-02 20:42:05 +01:00",
+    "name": "02 januari 16.40, Stöld, Umeå",
+    "summary": "Mariedal, två unga personer stoppade efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2025/januari/2/02-januari-16.40-stold-umea",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 564187,
+    "datetime": "2025-01-02 20:39:07 +01:00",
+    "name": "02 januari 20.29, Trafikolycka, Trelleborg",
+    "summary": "Singeolycka, Tullstorp",
+    "url": "/aktuellt/handelser/2025/januari/2/02-januari-20.29-trafikolycka-trelleborg",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 564186,
+    "datetime": "2025-01-02 20:23:59 +01:00",
+    "name": "02 januari 19.39, Trafikolycka, Säter",
+    "summary": "En singelolycka har inträffat på länsväg 650 i höjd med Lomtorpet.",
+    "url": "/aktuellt/handelser/2025/januari/2/02-januari-19.39-trafikolycka-sater",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Säter",
+      "gps": "60.34665,15.7479"
+    }
+  },
+  {
+    "id": 564185,
+    "datetime": "2025-01-02 20:23:47 +01:00",
+    "name": "02 januari 16.47, Narkotikabrott, Östersund",
+    "summary": "Centrum, polisen kontrollerar några personer i ett parkeringshus",
+    "url": "/aktuellt/handelser/2025/januari/2/02-januari-16.47-narkotikabrott-ostersund",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 564175,
+    "datetime": "2025-01-02 18:08:32 +01:00",
+    "name": "02 januari 17.38, Trafikolycka, Vilhelmina",
+    "summary": "E45, två trafikanter har kolliderat",
+    "url": "/aktuellt/handelser/2025/januari/2/02-januari-17.38-trafikolycka-vilhelmina",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
+    }
+  },
+  {
     "id": 564184,
     "datetime": "2025-01-02 20:17:03 +01:00",
     "name": "02 januari 18.27, Narkotikabrott, Trelleborg",
@@ -69,18 +141,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 564175,
-    "datetime": "2025-01-02 18:08:32 +01:00",
-    "name": "02 januari 17.38, Trafikolycka, Vilhelmina",
-    "summary": "E45, två trafikanter har kolliderat",
-    "url": "/aktuellt/handelser/2025/januari/2/02-januari-17.38-trafikolycka-vilhelmina",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 563504,
-    "datetime": "2024-12-25 11:00:55 +01:00",
-    "name": "25 december 10.25, Bråk, Tyresö",
-    "summary": "Polisen är på plats i en lägenhet i Bollmora för att utreda om personerna som befinner sig där har utsatt vara",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-10.25-brak-tyreso",
-    "type": "Bråk",
-    "location": {
-      "name": "Tyresö",
-      "gps": "59.242595,18.283392"
-    }
-  },
-  {
-    "id": 563508,
-    "datetime": "2024-12-25 12:15:32 +01:00",
-    "name": "25 december 12.14, Stöld/inbrott, Jönköping",
-    "summary": "Förbipasserande upptäckte inbrott",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-12.14-stoldinbrott-jonkoping",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 563506,
-    "datetime": "2024-12-25 11:24:09 +01:00",
-    "name": "25 december 08.09, Trafikolycka, Kiruna",
-    "summary": "Trafikolycka på E45/länsväg 395 Vittangi, Kiruna kommun.",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-08.09-trafikolycka-kiruna",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 563505,
-    "datetime": "2024-12-25 11:07:49 +01:00",
-    "name": "25 december 06.55, Trafikolycka, smitning från, Piteå",
-    "summary": "Smitning från trafikolycka i centrum.",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-06.55-trafikolycka-smitning-fran-pitea",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 563502,
-    "datetime": "2024-12-25 10:53:51 +01:00",
-    "name": "25 december 10.53, Trafikkontroll, Jämtlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2024/december/25/25-december-10.53-trafikkontroll-jamtlands-lan",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
