@@ -1,5 +1,53 @@
 [
   {
+    "id": 564292,
+    "datetime": "2025-01-03 21:08:54 +01:00",
+    "name": "03 januari 20.13, Brand, Staffanstorp",
+    "summary": "Larm om brand i lägenhet, Staffanstorp.",
+    "url": "/aktuellt/handelser/2025/januari/3/03-januari-20.13-brand-staffanstorp",
+    "type": "Brand",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 564282,
+    "datetime": "2025-01-03 20:17:18 +01:00",
+    "name": "03 januari 20.03, Rån, Malmö",
+    "summary": "Man utsatt för rån, Sofielund.",
+    "url": "/aktuellt/handelser/2025/januari/3/03-januari-20.03-ran-malmo",
+    "type": "Rån",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 564291,
+    "datetime": "2025-01-03 20:48:44 +01:00",
+    "name": "03 januari 17.31, Misshandel, Skellefteå",
+    "summary": "Boliden, polis beordras till en adress med anledning av misshandel",
+    "url": "/aktuellt/handelser/2025/januari/3/03-januari-17.31-misshandel-skelleftea",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 564290,
+    "datetime": "2025-01-03 20:44:04 +01:00",
+    "name": "03 januari 20.34, Trafikolycka, Värnamo",
+    "summary": "Körfält avstängt efter olycka.",
+    "url": "/aktuellt/handelser/2025/januari/3/03-januari-20.34-trafikolycka-varnamo",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
     "id": 564279,
     "datetime": "2025-01-03 20:02:41 +01:00",
     "name": "03 januari 19.55, Brand, Simrishamn",
@@ -105,18 +153,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 564282,
-    "datetime": "2025-01-03 20:17:18 +01:00",
-    "name": "03 januari 20.03, Rån, Malmö",
-    "summary": "Man utsatt för rån, Sofielund.",
-    "url": "/aktuellt/handelser/2025/januari/3/03-januari-20.03-ran-malmo",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 563607,
-    "datetime": "2024-12-27 7:40:05 +01:00",
-    "name": "27 december 07.39, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/27/27-december-07.39-sammanfattning-natt-sodermanlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 563609,
-    "datetime": "2024-12-27 7:39:56 +01:00",
-    "name": "27 december 07.39, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/27/27-december-07.39-sammanfattning-natt-jonkopings-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 563617,
-    "datetime": "2024-12-27 7:36:32 +01:00",
-    "name": "27 december 07.33, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av nattens händelser i Örebro.",
-    "url": "/aktuellt/handelser/2024/december/27/27-december-07.33-sammanfattning-natt-orebro-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
