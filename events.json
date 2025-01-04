@@ -1,5 +1,53 @@
 [
   {
+    "id": 564347,
+    "datetime": "2025-01-04 13:25:28 +01:00",
+    "name": "04 januari 11.45, Fjällräddning, Kiruna",
+    "summary": "Fjällräddningsinsats, Njuorajavrresaiva, norr om Riksgränsen.",
+    "url": "/aktuellt/handelser/2025/januari/4/04-januari-11.45-fjallraddning-kiruna",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 564346,
+    "datetime": "2025-01-04 13:11:11 +01:00",
+    "name": "04 januari 11.39, Rattfylleri, Höör",
+    "summary": "Polis larmas till väg 1329 mellan Tyringe och Norra rörum med anledning av en misstänkt rattfyllerist.",
+    "url": "/aktuellt/handelser/2025/januari/4/04-januari-11.39-rattfylleri-hoor",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Höör",
+      "gps": "55.934859,13.53959"
+    }
+  },
+  {
+    "id": 564341,
+    "datetime": "2025-01-04 13:07:33 +01:00",
+    "name": "04 januari 11.38, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter trafikkontroll på Norra Vägen, Skönvik.",
+    "url": "/aktuellt/handelser/2025/januari/4/04-januari-11.38-trafikkontroll-sundsvall",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 564344,
+    "datetime": "2025-01-04 12:55:41 +01:00",
+    "name": "04 januari 12.00, Trafikolycka, Ulricehamn",
+    "summary": "På riksväg 40, i höjd med Humlered, kolliderar två personbilar. Enligt tidiga uppgifter från SOS rör det sig o",
+    "url": "/aktuellt/handelser/2025/januari/4/04-januari-12.00-trafikolycka-ulricehamn",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ulricehamn",
+      "gps": "57.794789,13.420516"
+    }
+  },
+  {
     "id": 564343,
     "datetime": "2025-01-04 12:35:09 +01:00",
     "name": "04 januari 12.25, Brand automatlarm, Täby",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Täby",
       "gps": "59.4419,18.07033"
+    }
+  },
+  {
+    "id": 564342,
+    "datetime": "2025-01-04 12:50:56 +01:00",
+    "name": "04 januari 11.10, Trafikkontroll, Timrå",
+    "summary": "Resultat efter en trafikkontroll på Svetsarvägen, Timså industriområde.",
+    "url": "/aktuellt/handelser/2025/januari/4/04-januari-11.10-trafikkontroll-timra",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Sollefteå",
       "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 563688,
-    "datetime": "2024-12-27 19:43:33 +01:00",
-    "name": "27 december 19.10, Trafikolycka, Karlskrona",
-    "summary": "En trafikolycka mellan en person och en personbil inträffar på Rådhusgatan.",
-    "url": "/aktuellt/handelser/2024/december/27/27-december-19.10-trafikolycka-karlskrona",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 563687,
-    "datetime": "2024-12-27 19:43:21 +01:00",
-    "name": "27 december 19.05, Rån, Stockholm",
-    "summary": "Person i Vasastan rånades av beväpnad gärningsman.",
-    "url": "/aktuellt/handelser/2024/december/27/27-december-19.05-ran-stockholm",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 563685,
-    "datetime": "2024-12-27 19:18:23 +01:00",
-    "name": "27 december 18.55, Övrigt, Borgholm",
-    "summary": "Någon typ av smällare smäller på en offentlig toalett.",
-    "url": "/aktuellt/handelser/2024/december/27/27-december-18.55-ovrigt-borgholm",
-    "type": "Övrigt",
-    "location": {
-      "name": "Borgholm",
-      "gps": "56.88023,16.656236"
-    }
-  },
-  {
-    "id": 563684,
-    "datetime": "2024-12-27 19:12:15 +01:00",
-    "name": "27 december 17.17, Stöld, Skellefteå",
-    "summary": "Omhändertagen man misstänks för ringa stöld.",
-    "url": "/aktuellt/handelser/2024/december/27/27-december-17.17-stold-skelleftea",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 563680,
-    "datetime": "2024-12-27 18:54:30 +01:00",
-    "name": "27 december 15.45, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på E4 Storheden, Luleå.",
-    "url": "/aktuellt/handelser/2024/december/27/27-december-15.45-trafikolycka-lulea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
