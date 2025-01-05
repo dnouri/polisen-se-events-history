@@ -1,5 +1,101 @@
 [
   {
+    "id": 564411,
+    "datetime": "2025-01-05 12:13:06 +01:00",
+    "name": "05 januari 11.36, Trafikolycka, Åre",
+    "summary": "Polisen kontaktas om en trafikolycka i Åre.",
+    "url": "/aktuellt/handelser/2025/januari/5/05-januari-11.36-trafikolycka-are",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 564410,
+    "datetime": "2025-01-05 12:11:45 +01:00",
+    "name": "05 januari 10.39, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter en trafikkontroll på Nackstavägen, Nacksta.",
+    "url": "/aktuellt/handelser/2025/januari/5/05-januari-102.39-trafikkontroll-sundsvall",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 564409,
+    "datetime": "2025-01-05 12:08:36 +01:00",
+    "name": "05 januari 10.39, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter en trafikkontroll på Nackstavägen, Nacksta.",
+    "url": "/aktuellt/handelser/2025/januari/5/05-januari-10.39-trafikkontroll-sundsvall",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 564408,
+    "datetime": "2025-01-05 12:06:53 +01:00",
+    "name": "05 januari 10.02, Trafikkontroll, Härnösand",
+    "summary": "Resultat efter en trafikkontroll på länsväg 331, Viksjö.",
+    "url": "/aktuellt/handelser/2025/januari/5/05-januari-10.02-trafikkontroll-harnosand",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 564407,
+    "datetime": "2025-01-05 12:01:33 +01:00",
+    "name": "05 januari 10.46, Trafikkontroll, Pajala",
+    "summary": "Resultat efter en trafikkontroll på länsväg 403, Pajala.",
+    "url": "/aktuellt/handelser/2025/januari/5/05-januari-10.46-trafikkontroll-pajala",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 564406,
+    "datetime": "2025-01-05 11:56:31 +01:00",
+    "name": "05 januari 11.02, Trafikbrott, Enköping",
+    "summary": "Bil stoppades på E18.",
+    "url": "/aktuellt/handelser/2025/januari/5/05-januari-11.02-trafikbrott-enkoping",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 564405,
+    "datetime": "2025-01-05 11:48:48 +01:00",
+    "name": "05 januari 09.10, Stöld, Helsingborg",
+    "summary": "Dieselstöld på Strandbadsvägen.",
+    "url": "/aktuellt/handelser/2025/januari/5/05-januari-09.10-stold-helsingborg",
+    "type": "Stöld",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 564400,
+    "datetime": "2025-01-05 10:31:40 +01:00",
+    "name": "05 januari 10.07, Trafikolycka, Åre",
+    "summary": "Larm om trafikolycka på E14 i centrala Åre.",
+    "url": "/aktuellt/handelser/2025/januari/5/05-januari-10.07-trafikolycka-are",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
     "id": 564403,
     "datetime": "2025-01-05 11:42:18 +01:00",
     "name": "05 januari 10.10, Trafikkontroll, Berg",
@@ -45,18 +141,6 @@
     "location": {
       "name": "Krokom",
       "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 564400,
-    "datetime": "2025-01-05 10:31:40 +01:00",
-    "name": "05 januari 10.07, Trafikolycka, Åre",
-    "summary": "Larm om trafikolycka på E14 i centrala Åre.",
-    "url": "/aktuellt/handelser/2025/januari/5/05-januari-10.07-trafikolycka-are",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Botkyrka",
       "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 563746,
-    "datetime": "2024-12-28 18:32:07 +01:00",
-    "name": "28 december 15.29, Häleri, Norrtälje",
-    "summary": "Samtal om pågående cykelstöld i Norrtälje.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-15.29-haleri-norrtalje",
-    "type": "Häleri",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 563745,
-    "datetime": "2024-12-28 17:35:01 +01:00",
-    "name": "28 december 16.46, Trafikolycka, vilt, Skara",
-    "summary": "Polis larmas till riksväg 49 söder om Vinninga där en personbil kört på ett rådjur.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-16.46-trafikolycka-vilt-skara",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Skara",
-      "gps": "58.386013,13.439328"
-    }
-  },
-  {
-    "id": 563744,
-    "datetime": "2024-12-28 16:56:56 +01:00",
-    "name": "28 december 16.50, Brand, Sölvesborg",
-    "summary": "Larm om brand i lägenhet, Sölvesborg.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-16.50-brand-solvesborg",
-    "type": "Brand",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
-    }
-  },
-  {
-    "id": 563729,
-    "datetime": "2024-12-28 8:50:39 +01:00",
-    "name": "28 december 08.06, Brand, Strömstad",
-    "summary": "Vi får larm om brand i en hangarbyggnad i Näsinge.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-08.06-brand-stromstad",
-    "type": "Brand",
-    "location": {
-      "name": "Strömstad",
-      "gps": "58.938346,11.179187"
-    }
-  },
-  {
-    "id": 563740,
-    "datetime": "2024-12-28 13:04:22 +01:00",
-    "name": "28 december 12.55, Kontroll person/fordon, Sigtuna",
-    "summary": "Ett fordon som har vinglat betänkligt mellan filerna strax norr om Sigtuna ska strax kontrolleras av polis.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-12.55-kontroll-personfordon-sigtuna",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 563743,
-    "datetime": "2024-12-28 15:33:34 +01:00",
-    "name": "28 december 14.39, Trafikbrott, Vallentuna",
-    "summary": "Fordonsförare i Vallentuna rapporteras för olovlig körning.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-14.39-trafikbrott-vallentuna",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Vallentuna",
-      "gps": "59.5357,18.078017"
-    }
-  },
-  {
-    "id": 563742,
-    "datetime": "2024-12-28 14:07:28 +01:00",
-    "name": "28 december 14.06, Försvunnen person, Umeå",
-    "summary": "Polisen söker iakttagelser av försvunnen kvinna i Röbäck.",
-    "url": "/aktuellt/handelser/2024/december/28/28-december-14.06-forsvunnen-person-umea",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
