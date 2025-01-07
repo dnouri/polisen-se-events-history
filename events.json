@@ -1,5 +1,65 @@
 [
   {
+    "id": 564628,
+    "datetime": "2025-01-07 17:43:34 +01:00",
+    "name": "07 januari 17.36, Försvunnen person, Båstad",
+    "summary": "Försvunnen person, Nöttebackar.",
+    "url": "/aktuellt/handelser/2025/januari/7/07-januari-17.36-forsvunnen-person-bastad",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Båstad",
+      "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 564642,
+    "datetime": "2025-01-07 20:31:58 +01:00",
+    "name": "07 januari 19.41, Mord/dråp, Botkyrka",
+    "summary": "En person skadas allvarligt i Norsborg.",
+    "url": "/aktuellt/handelser/2025/januari/7/07-januari-19.41-morddrap-botkyrka",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 564637,
+    "datetime": "2025-01-07 19:21:09 +01:00",
+    "name": "07 januari 19.13, Brand, Alingsås",
+    "summary": "Vi får larm om en brand i ett garage på Valhallagatan.",
+    "url": "/aktuellt/handelser/2025/januari/7/07-januari-19.13-brand-alingsas",
+    "type": "Brand",
+    "location": {
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
+    }
+  },
+  {
+    "id": 564649,
+    "datetime": "2025-01-07 21:45:55 +01:00",
+    "name": "07 januari 21.43, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2025/januari/7/07-januari-21.43-ovrigt-hallands-lan",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 564648,
+    "datetime": "2025-01-07 21:45:49 +01:00",
+    "name": "07 januari 21.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2025/januari/7/07-januari-21.45-ovrigt-vastra-gotalands-lan",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 564647,
     "datetime": "2025-01-07 21:43:25 +01:00",
     "name": "07 januari 18.53, Trafikolycka, Strömsund",
@@ -48,18 +108,6 @@
     }
   },
   {
-    "id": 564642,
-    "datetime": "2025-01-07 20:31:58 +01:00",
-    "name": "07 januari 19.41, Mord/dråp, försök, Botkyrka",
-    "summary": "En person skadas allvarligt i Norsborg.",
-    "url": "/aktuellt/handelser/2025/januari/7/07-januari-19.41-morddrap-forsok-botkyrka",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
     "id": 564641,
     "datetime": "2025-01-07 20:23:22 +01:00",
     "name": "07 januari 20.05, Trafikolycka, Hagfors",
@@ -81,18 +129,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 564637,
-    "datetime": "2025-01-07 19:21:09 +01:00",
-    "name": "07 januari 19.13, Brand, Alingsås",
-    "summary": "Vi får larm om en brand i ett garage på Valhallagatan.",
-    "url": "/aktuellt/handelser/2025/januari/7/07-januari-19.13-brand-alingsas",
-    "type": "Brand",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
     }
   },
   {
@@ -177,18 +213,6 @@
     "location": {
       "name": "Degerfors",
       "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 564628,
-    "datetime": "2025-01-07 17:43:34 +01:00",
-    "name": "07 januari 17.36, Försvunnen person, Båstad",
-    "summary": "Försvunnen person, Nöttebackar.",
-    "url": "/aktuellt/handelser/2025/januari/7/07-januari-17.36-forsvunnen-person-bastad",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Båstad",
-      "gps": "56.427389,12.847722"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 563962,
-    "datetime": "2024-12-31 7:37:50 +01:00",
-    "name": "31 december 07.37, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/31/31-december-07.37-sammanfattning-natt-jonkopings-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 563964,
-    "datetime": "2024-12-31 7:37:42 +01:00",
-    "name": "31 december 07.37, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2024/december/31/31-december-07.37-sammanfattning-natt-ostergotlands-lan",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
