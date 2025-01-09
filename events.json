@@ -1,5 +1,89 @@
 [
   {
+    "id": 564872,
+    "datetime": "2025-01-09 19:32:29 +01:00",
+    "name": "09 januari 16.35, Brand, Örnsköldsvik",
+    "summary": "Larm om brand i flerfamiljshus i Domsjö.",
+    "url": "/aktuellt/handelser/2025/januari/9/09-januari-16.35-brand-ornskoldsvik",
+    "type": "Brand",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 564871,
+    "datetime": "2025-01-09 19:24:46 +01:00",
+    "name": "09 januari 19.24, Trafikolycka, Sundsvall",
+    "summary": "Två bilar i olycka på Södermalm.",
+    "url": "/aktuellt/handelser/2025/januari/9/09-januari-19.24-trafikolycka-sundsvall",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 564865,
+    "datetime": "2025-01-09 17:42:58 +01:00",
+    "name": "09 januari 17.36, Trafikolycka, Laxå",
+    "summary": "Personbil och A-traktor i kollission.",
+    "url": "/aktuellt/handelser/2025/januari/9/09-januari-17.36-trafikolycka-laxa",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
+    "id": 564866,
+    "datetime": "2025-01-09 18:12:02 +01:00",
+    "name": "09 januari 18.10, Trafikolycka, Vaggeryd",
+    "summary": "Lastbil i diket - glashal vägbana.",
+    "url": "/aktuellt/handelser/2025/januari/9/09-januari-18.10-trafikolycka-vaggeryd",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vaggeryd",
+      "gps": "57.498962,14.14863"
+    }
+  },
+  {
+    "id": 564870,
+    "datetime": "2025-01-09 18:59:32 +01:00",
+    "name": "09 januari 18.33, Trafikolycka, Kil",
+    "summary": "Två fordon inblandade i en trafikolycka på Rv61 vid Högboda.",
+    "url": "/aktuellt/handelser/2025/januari/9/09-januari-18.33-trafikolycka-kil",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
+    }
+  },
+  {
+    "id": 564868,
+    "datetime": "2025-01-09 18:58:25 +01:00",
+    "name": "09 januari 17.47, Misshandel, Malmö",
+    "summary": "Kvinna utsatt för misshandel.",
+    "url": "/aktuellt/handelser/2025/januari/9/09-januari-17.47-misshandel-malmo",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 564869,
+    "datetime": "2025-01-09 18:52:18 +01:00",
+    "name": "09 januari 17.51, Farligt föremål, misstänkt, Sundbyberg",
+    "summary": "Misstänkta farliga föremål på restaurang.",
+    "url": "/aktuellt/handelser/2025/januari/9/09-januari-17.51-farligt-foremal-misstankt-sundbyberg",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Sundbyberg",
+      "gps": "59.367047,17.966309"
+    }
+  },
+  {
     "id": 564864,
     "datetime": "2025-01-09 17:26:49 +01:00",
     "name": "09 januari 17.11, Trafikolycka, Falun",
@@ -24,18 +108,6 @@
     }
   },
   {
-    "id": 564866,
-    "datetime": "2025-01-09 18:12:02 +01:00",
-    "name": "09 januari 18.10, Trafikolycka, Vaggeryd",
-    "summary": "Lastbil i diket - glashal vägbana.",
-    "url": "/aktuellt/handelser/2025/januari/9/09-januari-18.10-trafikolycka-vaggeryd",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vaggeryd",
-      "gps": "57.498962,14.14863"
-    }
-  },
-  {
     "id": 564863,
     "datetime": "2025-01-09 17:16:42 +01:00",
     "name": "09 januari 17.04, Trafikolycka, Skurup",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Skurup",
       "gps": "55.48045,13.502349"
-    }
-  },
-  {
-    "id": 564865,
-    "datetime": "2025-01-09 17:42:58 +01:00",
-    "name": "09 januari 17.36, Trafikolycka, Laxå",
-    "summary": "Personbil och A-traktor i kollission.",
-    "url": "/aktuellt/handelser/2025/januari/9/09-januari-17.36-trafikolycka-laxa",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Laxå",
-      "gps": "58.98269,14.62289"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Bollebygd",
       "gps": "57.668969,12.570143"
-    }
-  },
-  {
-    "id": 564182,
-    "datetime": "2025-01-02 19:43:09 +01:00",
-    "name": "02 januari 19.30, Trafikbrott, Umeå",
-    "summary": "E4 Anumark, trafikant stoppad efter hastighetsöverträdelse",
-    "url": "/aktuellt/handelser/2025/januari/2/02-januari-19.30-trafikbrott-umea",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 564181,
-    "datetime": "2025-01-02 19:42:35 +01:00",
-    "name": "02 januari 17.02, Brand, Västerås",
-    "summary": "Brand i villa.",
-    "url": "/aktuellt/handelser/2025/januari/2/02-januari-17.02-brand-vasteras",
-    "type": "Brand",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 564180,
-    "datetime": "2025-01-02 18:53:58 +01:00",
-    "name": "02 januari 16.42, Brand, Alingsås",
-    "summary": "Polis larmas till ett bostadshus i Noltorp efter uppgift om rökutveckling i ett trapphus.",
-    "url": "/aktuellt/handelser/2025/januari/2/02-januari-16.42-brand-alingsas",
-    "type": "Brand",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
-    }
-  },
-  {
-    "id": 564178,
-    "datetime": "2025-01-02 18:49:21 +01:00",
-    "name": "02 januari 18.48, Trafikhinder, Katrineholm",
-    "summary": "Transportbil brinner på riksväg 55.",
-    "url": "/aktuellt/handelser/2025/januari/2/02-januari-18.48-trafikhinder-katrineholm",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 564177,
-    "datetime": "2025-01-02 18:23:04 +01:00",
-    "name": "02 januari 17.00, Rattfylleri, Rättvik",
-    "summary": "En bilist misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/januari/2/02-januari-17.00-rattfylleri-rattvik",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Rättvik",
-      "gps": "60.889025,15.123373"
     }
   }
 ]
