@@ -1,5 +1,77 @@
 [
   {
+    "id": 565069,
+    "datetime": "2025-01-11 13:39:37 +01:00",
+    "name": "11 januari 13.13, Explosion, Stockholm",
+    "summary": "Något har exploderat i trapphuset till ett flerbostadshus i Hagsätra.",
+    "url": "/aktuellt/handelser/2025/januari/11/11-januari-13.13-explosion-stockholm",
+    "type": "Explosion",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 565058,
+    "datetime": "2025-01-11 12:03:22 +01:00",
+    "name": "11 januari 11.46, Brand, Trollhättan",
+    "summary": "SOS larmas om en brand i ett flerfamiljshus på Föreningsgatan.",
+    "url": "/aktuellt/handelser/2025/januari/11/11-januari-11.46-brand-trollhattan",
+    "type": "Brand",
+    "location": {
+      "name": "Trollhättan",
+      "gps": "58.283489,12.285821"
+    }
+  },
+  {
+    "id": 565068,
+    "datetime": "2025-01-11 13:38:05 +01:00",
+    "name": "11 januari 11.40, Brand, Sollefteå",
+    "summary": "Strax norr om Sollefteå, brand i byggnad",
+    "url": "/aktuellt/handelser/2025/januari/11/11-januari-11.40-brand-solleftea",
+    "type": "Brand",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 565067,
+    "datetime": "2025-01-11 13:33:12 +01:00",
+    "name": "11 januari 12.59, Rattfylleri, Borås",
+    "summary": "En person ringer polisen och uppger att en till synes berusad man kört på inringarens bil vid Knalleland.",
+    "url": "/aktuellt/handelser/2025/januari/11/11-januari-12.59-rattfylleri-boras",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 565066,
+    "datetime": "2025-01-11 13:14:20 +01:00",
+    "name": "11 januari 13.13, Trafikolycka, Nyköping",
+    "summary": "Buss i olycka på E4, Jönåker",
+    "url": "/aktuellt/handelser/2025/januari/11/11-januari-13.13-trafikolycka-nykoping",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 565065,
+    "datetime": "2025-01-11 13:14:10 +01:00",
+    "name": "11 januari 12.08, Rattfylleri, Örebro",
+    "summary": "Två bilister är misstänkta för brott",
+    "url": "/aktuellt/handelser/2025/januari/11/11-januari-12.08-rattfylleri-orebro",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 565064,
     "datetime": "2025-01-11 12:44:26 +01:00",
     "name": "11 januari 12.35, Trafikolycka, Karlstad",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 565058,
-    "datetime": "2025-01-11 12:03:22 +01:00",
-    "name": "11 januari 11.46, Brand, Trollhättan",
-    "summary": "SOS larmas om en brand i ett flerfamiljshus på Föreningsgatan.",
-    "url": "/aktuellt/handelser/2025/januari/11/11-januari-11.46-brand-trollhattan",
-    "type": "Brand",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Höör",
       "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 564341,
-    "datetime": "2025-01-04 13:07:33 +01:00",
-    "name": "04 januari 11.38, Trafikkontroll, Sundsvall",
-    "summary": "Resultat efter trafikkontroll på Norra Vägen, Skönvik.",
-    "url": "/aktuellt/handelser/2025/januari/4/04-januari-11.38-trafikkontroll-sundsvall",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 564343,
-    "datetime": "2025-01-04 12:35:09 +01:00",
-    "name": "04 januari 12.25, Brand automatlarm, Täby",
-    "summary": "Via ett larm kan man konstatera att det är rökutveckling i en villa i Näsby park.",
-    "url": "/aktuellt/handelser/2025/januari/4/04-januari-12.25-brand-automatlarm-taby",
-    "type": "Brand automatlarm",
-    "location": {
-      "name": "Täby",
-      "gps": "59.4419,18.07033"
-    }
-  },
-  {
-    "id": 564342,
-    "datetime": "2025-01-04 12:50:56 +01:00",
-    "name": "04 januari 11.10, Trafikkontroll, Timrå",
-    "summary": "Resultat efter en trafikkontroll på Svetsarvägen, Timså industriområde.",
-    "url": "/aktuellt/handelser/2025/januari/4/04-januari-11.10-trafikkontroll-timra",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 564338,
-    "datetime": "2025-01-04 12:16:07 +01:00",
-    "name": "04 januari 11.06, Trafikkontroll, Umeå",
-    "summary": "Resultat efter en trafikkontroll på Generalsvägen, Sävar.",
-    "url": "/aktuellt/handelser/2025/januari/4/04-januari-11.06-trafikkontroll-umea",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 564335,
-    "datetime": "2025-01-04 12:15:55 +01:00",
-    "name": "04 januari 10.32, Trafikkontroll, Umeå",
-    "summary": "Resultat efter en trafikkontroll på Täftebölevägen, Täfteå.",
-    "url": "/aktuellt/handelser/2025/januari/4/04-januari-10.32-trafikkontroll-umea",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
