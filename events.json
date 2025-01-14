@@ -1,5 +1,29 @@
 [
   {
+    "id": 565411,
+    "datetime": "2025-01-14 18:06:20 +01:00",
+    "name": "14 januari 17.45, Försvunnen person, Enköping",
+    "summary": "Polisen söker en försvunnen kvinna.",
+    "url": "/aktuellt/handelser/2025/januari/14/14-januari-17.45-forsvunnen-person-enkoping/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 565400,
+    "datetime": "2025-01-14 17:07:35 +01:00",
+    "name": "14 januari 11.41, Försvunnen person, Varberg",
+    "summary": "Polisen har under dagen genomfört en större sökinsats i Varberg med omnejd, efter att en minderårig flicka anm",
+    "url": "/aktuellt/handelser/2025/januari/14/14-januari-11.41-forsvunnen-person-varberg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
     "id": 565406,
     "datetime": "2025-01-14 17:41:54 +01:00",
     "name": "14 januari 17.35, Trafikolycka, Växjö",
@@ -12,15 +36,51 @@
     }
   },
   {
-    "id": 565405,
-    "datetime": "2025-01-14 17:27:32 +01:00",
-    "name": "14 januari 17.27, Trafikolycka, vilt, Jämtlands län",
+    "id": 565410,
+    "datetime": "2025-01-14 18:06:00 +01:00",
+    "name": "14 januari 12.55, Trafikolycka, smitning från, Sundbyberg",
+    "summary": "En cyklist blir påkörd av en bilförare som sedan smiter från platsen.",
+    "url": "/aktuellt/handelser/2025/januari/14/14-januari-12.55-trafikolycka-smitning-fran-sundbyberg/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Sundbyberg",
+      "gps": "59.367047,17.966309"
+    }
+  },
+  {
+    "id": 565409,
+    "datetime": "2025-01-14 18:05:37 +01:00",
+    "name": "14 januari 16.02, Rattfylleri, Östersund",
+    "summary": "Misstänkt rattfylleri, Torvalla.",
+    "url": "/aktuellt/handelser/2025/januari/14/14-januari-16.02-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 565408,
+    "datetime": "2025-01-14 17:52:39 +01:00",
+    "name": "14 januari 15.24, Övrigt, Södertälje",
+    "summary": "Anmälan om vållande till kroppsskada efter fyrverkeriskjutning i Järna.",
+    "url": "/aktuellt/handelser/2025/januari/14/14-januari-15.24-ovrigt-sodertalje/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 565407,
+    "datetime": "2025-01-14 17:50:55 +01:00",
+    "name": "14 januari 17.50, Trafikolycka, vilt, Västerbottens län",
     "summary": "Viltolyckor anmälda till polisens ledningscentral",
-    "url": "/aktuellt/handelser/2025/januari/14/14-januari-17.27-trafikolycka-vilt-jamtlands-lan/",
+    "url": "/aktuellt/handelser/2025/januari/14/14-januari-17.50-trafikolycka-vilt-vasterbottens-lan/",
     "type": "Trafikolycka, vilt",
     "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -36,6 +96,18 @@
     }
   },
   {
+    "id": 565405,
+    "datetime": "2025-01-14 17:27:32 +01:00",
+    "name": "14 januari 17.27, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral",
+    "url": "/aktuellt/handelser/2025/januari/14/14-januari-17.27-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 565397,
     "datetime": "2025-01-14 16:34:26 +01:00",
     "name": "14 januari 16.10, Trafikolycka, Borås",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 565400,
-    "datetime": "2025-01-14 17:07:35 +01:00",
-    "name": "14 januari 16.47, Försvunnen person, Varberg",
-    "summary": "Vid lunchtid anmäldes 13-åriga Nelly försvunnen, och har inte synts till sedan dess. Polisen ber nu allmänhete",
-    "url": "/aktuellt/handelser/2025/januari/14/14-januari-16.47-forsvunnen-person-varberg/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Varberg",
-      "gps": "57.107118,12.252091"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Enköping",
       "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 564641,
-    "datetime": "2025-01-07 20:23:22 +01:00",
-    "name": "07 januari 20.05, Trafikolycka, Hagfors",
-    "summary": "Det är stopp i trafiken på riksväg 62 någon kilometer norr om Edebäck.",
-    "url": "/aktuellt/handelser/2025/januari/7/07-januari-20.05-trafikolycka-hagfors",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hagfors",
-      "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 564638,
-    "datetime": "2025-01-07 19:48:04 +01:00",
-    "name": "07 januari 18.30, Misshandel, grov, Stockholm",
-    "summary": "Polisen larmas om en knivskärning.",
-    "url": "/aktuellt/handelser/2025/januari/7/07-januari-18.30-misshandel-grov-stockholm",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 564640,
-    "datetime": "2025-01-07 19:48:00 +01:00",
-    "name": "07 januari 17.31, Olaga hot, Solna",
-    "summary": "Hot med pistollikande föremål inne i galleria.",
-    "url": "/aktuellt/handelser/2025/januari/7/07-januari-17.31-olaga-hot-solna",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 564639,
-    "datetime": "2025-01-07 19:47:54 +01:00",
-    "name": "07 januari 16.46, Olaga hot, Haninge",
-    "summary": "Larm om man med pistol i Jordbro.",
-    "url": "/aktuellt/handelser/2025/januari/7/07-januari-16.46-olaga-hot-haninge",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 564636,
-    "datetime": "2025-01-07 18:59:50 +01:00",
-    "name": "07 januari 16.59, Trafikolycka, Umeå",
-    "summary": "E4, Anumark, en lastbil har kört i diket.",
-    "url": "/aktuellt/handelser/2025/januari/7/07-januari-16.59-trafikolycka-umea",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
