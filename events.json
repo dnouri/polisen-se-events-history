@@ -1,5 +1,17 @@
 [
   {
+    "id": 565777,
+    "datetime": "2025-01-17 13:40:41 +01:00",
+    "name": "17 januari 13.03, Trafikolycka, Kalmar",
+    "summary": "Trafikolycka, Kalmar.",
+    "url": "/aktuellt/handelser/2025/januari/17/17-januari-13.03-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
     "id": 565745,
     "datetime": "2025-01-17 12:43:41 +01:00",
     "name": "17 januari 11.42, Rån, Halmstad",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 565746,
+    "datetime": "2025-01-17 12:47:38 +01:00",
+    "name": "17 januari 12.16, Brand, Helsingborg",
+    "summary": "Brand, Helsingborg.",
+    "url": "/aktuellt/handelser/2025/januari/17/17-januari-12.16-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 565747,
+    "datetime": "2025-01-17 12:49:59 +01:00",
+    "name": "17 januari 12.30, Brand, Nacka",
+    "summary": "Polis och räddningstjänst kallas till Kvarnhplmen med uppgifter om brand i en fastighet.",
+    "url": "/aktuellt/handelser/2025/januari/17/17-januari-12.30-brand-nacka/",
+    "type": "Brand",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 564967,
-    "datetime": "2025-01-10 13:50:20 +01:00",
-    "name": "10 januari 11.05, Narkotikabrott, Lycksele",
-    "summary": "Lycksele, man misstänks vara påverkad av narkotika.",
-    "url": "/aktuellt/handelser/2025/januari/10/10-januari-11.05-narkotikabrott-lycksele",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 564969,
-    "datetime": "2025-01-10 13:36:37 +01:00",
-    "name": "10 januari 09.47, Brand, Bollnäs",
-    "summary": "Brand i radhus.",
-    "url": "/aktuellt/handelser/2025/januari/10/10-januari-09.47-brand-bollnas",
-    "type": "Brand",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
-    }
-  },
-  {
-    "id": 564968,
-    "datetime": "2025-01-10 13:36:36 +01:00",
-    "name": "10 januari 13.36, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/januari/10/10-januari-13.36-trafikkontroll-norrbottens-lan",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
