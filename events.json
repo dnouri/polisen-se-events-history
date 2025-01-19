@@ -1,14 +1,86 @@
 [
   {
-    "id": 565947,
-    "datetime": "2025-01-19 14:41:13 +01:00",
-    "name": "19 januari 14.39, Trafikolycka, Söderköping",
-    "summary": "Singelolycka på E22.",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.39-trafikolycka-soderkoping/",
+    "id": 565954,
+    "datetime": "2025-01-19 15:20:02 +01:00",
+    "name": "19 januari 13.19, Misshandel, Hässleholm",
+    "summary": "Kvinna misshandlad av man.",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-13.19-misshandel-hassleholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 565953,
+    "datetime": "2025-01-19 15:11:35 +01:00",
+    "name": "19 januari 15.11, Åldringsbrott, Svenljunga",
+    "summary": "Två män är anhållna misstänkt för försök till grov stöld.",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-15.11-aldringsbrott-svenljunga/",
+    "type": "Åldringsbrott",
+    "location": {
+      "name": "Svenljunga",
+      "gps": "57.495572,13.114623"
+    }
+  },
+  {
+    "id": 565952,
+    "datetime": "2025-01-19 15:01:13 +01:00",
+    "name": "19 januari 14.43, Trafikolycka, Borgholm",
+    "summary": "Personbil i singelolycka, Byxelkrok.",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.43-trafikolycka-borgholm/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Söderköping",
-      "gps": "58.475901,16.323431"
+      "name": "Borgholm",
+      "gps": "56.88023,16.656236"
+    }
+  },
+  {
+    "id": 565951,
+    "datetime": "2025-01-19 14:53:40 +01:00",
+    "name": "19 januari 12.41, Narkotikabrott, Storuman",
+    "summary": "Centrum, polisen kontrollerar en man.",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-12.41-narkotikabrott-storuman/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 565950,
+    "datetime": "2025-01-19 14:51:06 +01:00",
+    "name": "19 januari 14.50, Övrigt, Hallands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.50-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 565942,
+    "datetime": "2025-01-19 13:36:25 +01:00",
+    "name": "19 januari 13.33, Trafikolycka, personskada, Vaggeryd",
+    "summary": "Cyklist påkörd av personbil.",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-13.33-trafikolycka-personskada-vaggeryd/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Vaggeryd",
+      "gps": "57.498962,14.14863"
+    }
+  },
+  {
+    "id": 565949,
+    "datetime": "2025-01-19 14:50:42 +01:00",
+    "name": "19 januari 14.50, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.50-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -21,6 +93,30 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 565948,
+    "datetime": "2025-01-19 14:46:33 +01:00",
+    "name": "19 januari 14.26, Rattfylleri, Ängelholm",
+    "summary": "Misstänkt påverkad förare stoppad av polispatrull, E6.",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.26-rattfylleri-angelholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 565947,
+    "datetime": "2025-01-19 14:41:13 +01:00",
+    "name": "19 januari 14.39, Trafikolycka, Söderköping",
+    "summary": "Singelolycka på E22.",
+    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.39-trafikolycka-soderkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Söderköping",
+      "gps": "58.475901,16.323431"
     }
   },
   {
@@ -69,18 +165,6 @@
     "location": {
       "name": "Sandviken",
       "gps": "60.621607,16.775918"
-    }
-  },
-  {
-    "id": 565942,
-    "datetime": "2025-01-19 13:36:25 +01:00",
-    "name": "19 januari 13.33, Trafikolycka, personskada, Vaggeryd",
-    "summary": "Cyklist påkörd av personbil.",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-13.33-trafikolycka-personskada-vaggeryd/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Vaggeryd",
-      "gps": "57.498962,14.14863"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västervik",
       "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 565139,
-    "datetime": "2025-01-13 6:29:27 +01:00",
-    "name": "12 januari 23.19, Inbrott, försök, Karlshamn",
-    "summary": "Försök till inbrott, företagslokal Mörrum",
-    "url": "/aktuellt/handelser/2025/januari/12/12-januari-23.19-inbrott-forsok-karlshamn",
-    "type": "Inbrott, försök",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 565138,
-    "datetime": "2025-01-13 6:24:58 +01:00",
-    "name": "12 januari 23.05, Brand, Lomma",
-    "summary": "Bilbrand, Bjärred",
-    "url": "/aktuellt/handelser/2025/januari/12/12-januari-23.05-brand-lomma",
-    "type": "Brand",
-    "location": {
-      "name": "Lomma",
-      "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 565137,
-    "datetime": "2025-01-13 6:22:48 +01:00",
-    "name": "12 januari 22.27, Inbrott, Kristianstad",
-    "summary": "Inbrott i garage",
-    "url": "/aktuellt/handelser/2025/januari/13/12-januari-22.27-inbrott-kristianstad",
-    "type": "Inbrott",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 565132,
-    "datetime": "2025-01-12 21:02:26 +01:00",
-    "name": "12 januari 15.41, Övrigt, Malmö",
-    "summary": "Man som filmat skyddsobjekt med drönare.",
-    "url": "/aktuellt/handelser/2025/januari/12/12-januari-15.41-ovrigt-malmo",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 565131,
-    "datetime": "2025-01-12 20:12:59 +01:00",
-    "name": "12 januari 19.30, Övrigt, Helsingborg",
-    "summary": "Luftfartssabotage på Fredriksdal.",
-    "url": "/aktuellt/handelser/2025/januari/12/12-januari-19.30-ovrigt-helsingborg",
-    "type": "Övrigt",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 565130,
-    "datetime": "2025-01-12 19:22:57 +01:00",
-    "name": "12 januari 18.12, Brand, Trelleborg",
-    "summary": "Brand i sophus på Odalvägen.",
-    "url": "/aktuellt/handelser/2025/januari/12/12-januari-18.12-brand-trelleborg",
-    "type": "Brand",
-    "location": {
-      "name": "Trelleborg",
-      "gps": "55.376243,13.157423"
-    }
-  },
-  {
-    "id": 565129,
-    "datetime": "2025-01-12 15:41:01 +01:00",
-    "name": "12 januari 12.59, Rattfylleri, Luleå",
-    "summary": "Mt rattfylleri",
-    "url": "/aktuellt/handelser/2025/januari/12/12-januari-12.59-rattfylleri-lulea",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
