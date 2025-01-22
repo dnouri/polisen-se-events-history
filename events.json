@@ -1,5 +1,53 @@
 [
   {
+    "id": 567371,
+    "datetime": "2025-01-22 9:27:49 +01:00",
+    "name": "22 januari 08.23, Brand, Göteborg",
+    "summary": "Larm om brand i lägenhetshus vid Opaltorget.",
+    "url": "/aktuellt/handelser/2025/januari/22/22-januari-08.23-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 567372,
+    "datetime": "2025-01-22 9:24:39 +01:00",
+    "name": "22 januari 07.41, Trafikolycka, Östersund",
+    "summary": "Centrala Brunflo, en lastbil och en personbil har kolliderat.",
+    "url": "/aktuellt/handelser/2025/januari/22/22-januari-07.41-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 567360,
+    "datetime": "2025-01-22 7:52:30 +01:00",
+    "name": "22 januari 07.49, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka på Fosievägen",
+    "url": "/aktuellt/handelser/2025/januari/22/22-januari-07.49-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 567361,
+    "datetime": "2025-01-22 8:03:58 +01:00",
+    "name": "22 januari 07.42, Trafikolycka, Borlänge",
+    "summary": "SOS larmar om en trafikolycka på riksväg 50, Finnsåsberget.",
+    "url": "/aktuellt/handelser/2025/januari/22/22-januari-07.42-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 567365,
     "datetime": "2025-01-22 8:40:34 +01:00",
     "name": "22 januari 07.21, Kontroll person/fordon, Österåker",
@@ -36,18 +84,6 @@
     }
   },
   {
-    "id": 567361,
-    "datetime": "2025-01-22 8:03:58 +01:00",
-    "name": "22 januari 07.42, Trafikolycka, Borlänge",
-    "summary": "SOS larmar om en trafikolycka på riksväg 50, Finnsåsberget.",
-    "url": "/aktuellt/handelser/2025/januari/22/22-januari-07.42-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
     "id": 567362,
     "datetime": "2025-01-22 7:58:38 +01:00",
     "name": "22 januari 00.29, Kontroll person/fordon, Uppsala",
@@ -57,18 +93,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 567360,
-    "datetime": "2025-01-22 7:52:30 +01:00",
-    "name": "22 januari 07.49, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka på Fosievägen",
-    "url": "/aktuellt/handelser/2025/januari/22/22-januari-07.49-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Smedjebacken",
       "gps": "60.143193,15.415992"
-    }
-  },
-  {
-    "id": 565475,
-    "datetime": "2025-01-15 9:19:09 +01:00",
-    "name": "15 januari 08.33, Trafikolycka, singel, Luleå",
-    "summary": "Norra Gäddvik, lastbil har körts in under bro och orsakat en olycka",
-    "url": "/aktuellt/handelser/2025/januari/15/15-januari-08.33-trafikolycka-singel-lulea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 565474,
-    "datetime": "2025-01-15 9:18:19 +01:00",
-    "name": "15 januari 09.16, Övrigt, Nyköping",
-    "summary": "Lokalpolisområdeschefen tillgänglig för media",
-    "url": "/aktuellt/handelser/2025/januari/15/15-januari-09.16-ovrigt-nykoping/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
     }
   }
 ]
