@@ -1,5 +1,41 @@
 [
   {
+    "id": 567534,
+    "datetime": "2025-01-23 12:54:22 +01:00",
+    "name": "23 januari 12.38, Trafikolycka, Karlshamn",
+    "summary": "Larm om trafikolycka på E22:an, Mörrum",
+    "url": "/aktuellt/handelser/2025/januari/23/23-januari-12.38-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 567540,
+    "datetime": "2025-01-23 13:16:25 +01:00",
+    "name": "23 januari 12.50, Trafikolycka, Kil",
+    "summary": "Polisen är på väg till en trafikolycka på E45 i Kil.",
+    "url": "/aktuellt/handelser/2025/januari/23/23-januari-12.50-trafikolycka-kil/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
+    }
+  },
+  {
+    "id": 567536,
+    "datetime": "2025-01-23 12:55:53 +01:00",
+    "name": "23 januari 12.41, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka på Limhamn",
+    "url": "/aktuellt/handelser/2025/januari/23/23-januari-12.41-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 567530,
     "datetime": "2025-01-23 12:39:36 +01:00",
     "name": "23 januari 12.39, Trafikkontroll, Västernorrlands län",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 565636,
-    "datetime": "2025-01-16 12:21:00 +01:00",
-    "name": "16 januari 12.15, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/januari/16/16-januari-12.15-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 565632,
-    "datetime": "2025-01-16 11:36:22 +01:00",
-    "name": "16 januari 11.28, Brand, Mora",
-    "summary": "Rökutveckling i lägenhetshus",
-    "url": "/aktuellt/handelser/2025/januari/16/16-januari-11.28-brand-mora/",
-    "type": "Brand",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 565631,
-    "datetime": "2025-01-16 11:31:57 +01:00",
-    "name": "15 januari 23.21, Mord/dråp, Östersund",
-    "summary": "Frösön, polis beordras till en adress med anledning av misstänkt grovt brott",
-    "url": "/aktuellt/handelser/2025/januari/15/15-januari-23.21-morddrap-ostersund/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
