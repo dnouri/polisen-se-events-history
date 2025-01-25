@@ -1,5 +1,17 @@
 [
   {
+    "id": 567759,
+    "datetime": "2025-01-25 12:17:25 +01:00",
+    "name": "25 januari 11.58, Trafikolycka, Härryda",
+    "summary": "Tre personbilar är involverade i en olycka på riksväg 40 vid Landvettermotet.",
+    "url": "/aktuellt/handelser/2025/januari/25/25-januari-11.58-trafikolycka-harryda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härryda",
+      "gps": "57.691744,12.294416"
+    }
+  },
+  {
     "id": 567754,
     "datetime": "2025-01-25 11:30:06 +01:00",
     "name": "25 januari 11.02, Trafikolycka, Luleå",
@@ -9,6 +21,54 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 567758,
+    "datetime": "2025-01-25 12:16:17 +01:00",
+    "name": "25 januari 12.12, Olaga hot, Jönköping",
+    "summary": "En gripen i södra Jönköping.",
+    "url": "/aktuellt/handelser/2025/januari/25/25-januari-12.12-olaga-hot-jonkoping/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 567727,
+    "datetime": "2025-01-25 7:11:40 +01:00",
+    "name": "25 januari 06.57, Trafikolycka, Mönsterås",
+    "summary": "Singelolycka på Lv630 vid Habbestorp.",
+    "url": "/aktuellt/handelser/2025/januari/25/25-januari-06.57-trafikolycka-monsteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mönsterås",
+      "gps": "57.04158,16.44312"
+    }
+  },
+  {
+    "id": 567757,
+    "datetime": "2025-01-25 12:15:10 +01:00",
+    "name": "25 januari 12.15, Rån, Skellefteå",
+    "summary": "Polisen utreder grovt rån i Skellefteå.",
+    "url": "/aktuellt/handelser/2025/januari/25/25-januari-12.15-ran-skelleftea/",
+    "type": "Rån",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 567756,
+    "datetime": "2025-01-25 12:09:39 +01:00",
+    "name": "25 januari 10.50, Trafikkontroll, Storuman",
+    "summary": "Resultat efter en nykterhetskontroll i Hemavan.",
+    "url": "/aktuellt/handelser/2025/januari/25/25-januari-10.50-trafikkontroll-storuman/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
     }
   },
   {
@@ -51,7 +111,7 @@
     "id": 567751,
     "datetime": "2025-01-25 10:41:24 +01:00",
     "name": "25 januari 10.39, Övrigt, Östergötlands län",
-    "summary": "Polisen vädjar om försiktighet under rådande väglag.",
+    "summary": "Polisen uppmanar till försiktighet under rådande väglag.",
     "url": "/aktuellt/handelser/2025/januari/25/25-januari-10.39-ovrigt-ostergotlands-lan/",
     "type": "Övrigt",
     "location": {
@@ -63,7 +123,7 @@
     "id": 567750,
     "datetime": "2025-01-25 10:34:38 +01:00",
     "name": "25 januari 10.14, Övrigt, Södermanlands län",
-    "summary": "Polisen vädjar om försiktighet under rådande halka.",
+    "summary": "Polisen uppmanar till försiktighet under rådande halka.",
     "url": "/aktuellt/handelser/2025/januari/25/25-januari-10.14-ovrigt-sodermanlands-lan/",
     "type": "Övrigt",
     "location": {
@@ -333,18 +393,6 @@
     "location": {
       "name": "Hallstahammar",
       "gps": "59.613204,16.229476"
-    }
-  },
-  {
-    "id": 567727,
-    "datetime": "2025-01-25 7:11:40 +01:00",
-    "name": "25 januari 06.57, Trafikolycka, Mönsterås",
-    "summary": "Singelolycka på Lv630 vid Habbestorp.",
-    "url": "/aktuellt/handelser/2025/januari/25/25-januari-06.57-trafikolycka-monsteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mönsterås",
-      "gps": "57.04158,16.44312"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 565897,
-    "datetime": "2025-01-18 20:24:37 +01:00",
-    "name": "18 januari 19.11, Misshandel, Stockholm",
-    "summary": "En kvinna hörs ropa på hjälp från en bostad i västra Stockholm. En man grips och misstänks för misshandel och ",
-    "url": "/aktuellt/handelser/2025/januari/18/18-januari-19.11-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 565896,
-    "datetime": "2025-01-18 20:07:45 +01:00",
-    "name": "18 januari 20.07, Åldringsbrott, Hallands län",
-    "summary": "Vi vill göra allmänheten uppmärksam på att vi just nu hanterar ett större antal bedrägeribrott i regionen, rik",
-    "url": "/aktuellt/handelser/2025/januari/18/18-januari-20.07-aldringsbrott-hallands-lan/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 565895,
-    "datetime": "2025-01-18 20:07:20 +01:00",
-    "name": "18 januari 20.05, Åldringsbrott, Västra Götalands län",
-    "summary": "Vi vill göra allmänheten uppmärksam på att vi just nu hanterar ett större antal bedrägeribrott i regionen, rik",
-    "url": "/aktuellt/handelser/2025/januari/18/18-januari-20.05-aldringsbrott-vastra-gotalands-lan/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 565882,
-    "datetime": "2025-01-18 15:18:35 +01:00",
-    "name": "18 januari 14.56, Bråk, Malmö",
-    "summary": "Bråk utomhus, Lönngatan.",
-    "url": "/aktuellt/handelser/2025/januari/18/18-januari-14.56-brak-malmo/",
-    "type": "Bråk",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
