@@ -1,5 +1,113 @@
 [
   {
+    "id": 567807,
+    "datetime": "2025-01-26 8:15:58 +01:00",
+    "name": "26 januari 08.15, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-08.15-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 567798,
+    "datetime": "2025-01-26 8:09:39 +01:00",
+    "name": "26 januari 08.09, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "url": "/aktuellt/handelser/2025/januari/25/26-januari-08.09-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 567803,
+    "datetime": "2025-01-26 8:04:52 +01:00",
+    "name": "26 januari 08.04, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-08.04-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 567802,
+    "datetime": "2025-01-26 7:59:40 +01:00",
+    "name": "26 januari 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 567801,
+    "datetime": "2025-01-26 7:58:33 +01:00",
+    "name": "26 januari 07.58, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-07.58-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 567800,
+    "datetime": "2025-01-26 7:58:18 +01:00",
+    "name": "26 januari 07.58, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-07.58-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 567797,
+    "datetime": "2025-01-26 7:03:24 +01:00",
+    "name": "26 januari 06.27, Trafikolycka, Orust",
+    "summary": "En bil har fått sladd och hamnat på taket vid länsväg 178.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-06.27-trafikolycka-orust/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Orust",
+      "gps": "58.180267,11.675984"
+    }
+  },
+  {
+    "id": 567799,
+    "datetime": "2025-01-26 7:56:50 +01:00",
+    "name": "26 januari 02.16, Misshandel, grov, Håbo",
+    "summary": "Tre gripna efter grov misshandel.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-02.16-misshandel-grov-habo/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
+    "id": 567808,
+    "datetime": "2025-01-26 7:54:39 +01:00",
+    "name": "26 januari 07.55, Misshandel, grov, Kristinehamn",
+    "summary": "Man anhållen av åklagare, misstanke gäller grov misshandel.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-07.55-misshandel-grov-kristinehamn/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
     "id": 567806,
     "datetime": "2025-01-26 7:33:49 +01:00",
     "name": "26 januari 07.30, Sammanfattning natt, Örebro län",
@@ -33,18 +141,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 567797,
-    "datetime": "2025-01-26 7:03:24 +01:00",
-    "name": "26 januari 06.27, Trafikolycka, Orust",
-    "summary": "En bil har fått sladd och hamnat på taket vid länsväg 178.",
-    "url": "/aktuellt/handelser/2025/januari/26/26-januari-06.27-trafikolycka-orust/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Orust",
-      "gps": "58.180267,11.675984"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Vaggeryd",
       "gps": "57.498962,14.14863"
-    }
-  },
-  {
-    "id": 565949,
-    "datetime": "2025-01-19 14:50:42 +01:00",
-    "name": "19 januari 14.50, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.50-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 565946,
-    "datetime": "2025-01-19 14:23:24 +01:00",
-    "name": "19 januari 14.16, Brand, Västervik",
-    "summary": "Larm om brand i lägenhet, Långrevsgatan.",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.16-brand-vastervik/",
-    "type": "Brand",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 565947,
-    "datetime": "2025-01-19 14:41:13 +01:00",
-    "name": "19 januari 14.39, Trafikolycka, Söderköping",
-    "summary": "Singelolycka på E22.",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.39-trafikolycka-soderkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Söderköping",
-      "gps": "58.475901,16.323431"
-    }
-  },
-  {
-    "id": 565945,
-    "datetime": "2025-01-19 14:20:27 +01:00",
-    "name": "19 januari 14.12, Kontroll person/fordon, Lund",
-    "summary": "Kontroll av utåtagerande person, Clemenstorget.",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-14.12-kontroll-personfordon-lund/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 565884,
-    "datetime": "2025-01-18 15:36:32 +01:00",
-    "name": "18 januari 15.09, Misshandel, Karlskrona",
-    "summary": "Kvinna misshandlad av man.",
-    "url": "/aktuellt/handelser/2025/januari/18/18-januari-15.09-misshandel-karlskrona/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 565944,
-    "datetime": "2025-01-19 13:56:04 +01:00",
-    "name": "19 januari 10.53, Brand, Emmaboda",
-    "summary": "Det brinner i ett garage i Visselfjärda.",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-10.53-brand-emmaboda/",
-    "type": "Brand",
-    "location": {
-      "name": "Emmaboda",
-      "gps": "56.630686,15.540006"
-    }
-  },
-  {
-    "id": 565943,
-    "datetime": "2025-01-19 13:47:13 +01:00",
-    "name": "19 januari 13.42, Olovlig körning, Sandviken",
-    "summary": "Man utan körkort körde vingligt.",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-13.42-olovlig-korning-sandviken/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Sandviken",
-      "gps": "60.621607,16.775918"
-    }
-  },
-  {
-    "id": 565941,
-    "datetime": "2025-01-19 13:21:55 +01:00",
-    "name": "19 januari 10.52, Trafikkontroll, Sollefteå",
-    "summary": "Trästa, polisen kontrollerar nykterhet i trafiken.",
-    "url": "/aktuellt/handelser/2025/januari/19/19-januari-10.52-trafikkontroll-solleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
     }
   }
 ]
