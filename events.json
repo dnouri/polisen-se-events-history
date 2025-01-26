@@ -1,5 +1,65 @@
 [
   {
+    "id": 567838,
+    "datetime": "2025-01-26 20:38:40 +01:00",
+    "name": "26 januari 20.22, Brand, Kumla",
+    "summary": "Det brinner i en soptunna/container i Kumlaby",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-20.22-brand-kumla/",
+    "type": "Brand",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 567836,
+    "datetime": "2025-01-26 20:34:36 +01:00",
+    "name": "26 januari 20.16, Brand, Laxå",
+    "summary": "Det brinner i en byggnad i Finnerödja",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-20.16-brand-laxa/",
+    "type": "Brand",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
+    "id": 567828,
+    "datetime": "2025-01-26 16:31:33 +01:00",
+    "name": "26 januari 16.23, Farligt föremål, misstänkt, Örebro",
+    "summary": "Polisen har spärrat ett område vid IKEA i Örebro.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-16.23-farligt-foremal-misstankt-orebro/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 567835,
+    "datetime": "2025-01-26 20:21:28 +01:00",
+    "name": "26 januari 19.16, Explosion, Nacka",
+    "summary": "Något föremål har exploderat invid en port itill en flerlägenhetshus i Tollare.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-19.16-explosion-nacka/",
+    "type": "Explosion",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 567834,
+    "datetime": "2025-01-26 20:19:51 +01:00",
+    "name": "26 januari 20.11, Trafikolycka, Ängelholm",
+    "summary": "Personbil har kört in i träd, Hjärnarp.",
+    "url": "/aktuellt/handelser/2025/januari/26/26-januari-20.11-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
     "id": 567831,
     "datetime": "2025-01-26 17:54:35 +01:00",
     "name": "26 januari 14.09, Anträffad död, Hagfors",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 567828,
-    "datetime": "2025-01-26 16:31:33 +01:00",
-    "name": "26 januari 16.23, Farligt föremål, misstänkt, Örebro",
-    "summary": "Polisen har spärrat ett område vid IKEA i Örebro.",
-    "url": "/aktuellt/handelser/2025/januari/26/26-januari-16.23-farligt-foremal-misstankt-orebro/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 566024,
-    "datetime": "2025-01-20 7:48:22 +01:00",
-    "name": "20 januari 07.48, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/januari/20/20-januari-07.48-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 566012,
-    "datetime": "2025-01-20 7:47:00 +01:00",
-    "name": "20 januari 07.46, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00 – 07.00.",
-    "url": "/aktuellt/handelser/2025/januari/20/20-januari-07.46-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 566021,
-    "datetime": "2025-01-20 7:41:03 +01:00",
-    "name": "20 januari 07.40, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00 – 07.00.",
-    "url": "/aktuellt/handelser/2025/januari/20/20-januari-07.40-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 566007,
-    "datetime": "2025-01-20 7:39:21 +01:00",
-    "name": "20 januari 07.39, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00 – 07.00.",
-    "url": "/aktuellt/handelser/2025/januari/20/20-januari-07.39-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
