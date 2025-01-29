@@ -1,17 +1,5 @@
 [
   {
-    "id": 568471,
-    "datetime": "2025-01-29 9:40:29 +01:00",
-    "name": "29 januari 07.54, Trafikbrott, Haninge",
-    "summary": "Ett barn blev påkört av en bilist i låg hastighet utanför en skola i Tungelsta.",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-07.54-trafikbrott-haninge/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
     "id": 568467,
     "datetime": "2025-01-29 9:40:28 +01:00",
     "name": "29 januari 09.09, Trafikolycka, Sundsvall",
@@ -24,15 +12,51 @@
     }
   },
   {
-    "id": 568464,
-    "datetime": "2025-01-29 9:22:58 +01:00",
-    "name": "29 januari 05.40, Brand, Ljusdal",
-    "summary": "Brand i flerfamiljshus.",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-052.40-brand-ljusdal/",
+    "id": 568463,
+    "datetime": "2025-01-29 10:14:11 +01:00",
+    "name": "29 januari 08.07, Arbetsplatsolycka, Umeå",
+    "summary": "Polispatrull beordras till Ersboda med anledning av en arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2025/januari/29/29-januari-08.07-arbetsplatsolycka-umea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 568474,
+    "datetime": "2025-01-29 10:02:33 +01:00",
+    "name": "29 januari 08.44, Brand, Hässleholm",
+    "summary": "Brand i villa, Hörja.",
+    "url": "/aktuellt/handelser/2025/januari/29/29-januari-08.44-brand-hassleholm/",
     "type": "Brand",
     "location": {
-      "name": "Ljusdal",
-      "gps": "61.830839,16.08175"
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 568472,
+    "datetime": "2025-01-29 9:51:21 +01:00",
+    "name": "29 januari 08.48, Arbetsplatsolycka, Göteborg",
+    "summary": "Polis och räddningstjänst och ambulans är på plats vid Volvo i Sörred med anledning av larm om arbetsplatsolyc",
+    "url": "/aktuellt/handelser/2025/januari/29/29-januari-08.48-arbetsplatsolycka-goteborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 568471,
+    "datetime": "2025-01-29 9:40:29 +01:00",
+    "name": "29 januari 07.54, Trafikbrott, Haninge",
+    "summary": "Ett barn blev påkört av en bilist i låg hastighet utanför en skola i Tungelsta.",
+    "url": "/aktuellt/handelser/2025/januari/29/29-januari-07.54-trafikbrott-haninge/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 567417,
-    "datetime": "2025-01-22 14:24:55 +01:00",
-    "name": "22 januari 14.20, Övrigt, Malmö",
-    "summary": "Bevakning med drönare (UAS) i samband med fotbollsmatch den 23 januari.",
-    "url": "/aktuellt/handelser/2025/januari/22/22-januari-14.20-ovrigt-malmo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 567404,
-    "datetime": "2025-01-22 13:41:25 +01:00",
-    "name": "22 januari 13.29, Övrigt, Göteborg",
-    "summary": "Polis är på plats vid Standargatan i Majorna efter larm om en kraftig smäll.",
-    "url": "/aktuellt/handelser/2025/januari/22/22-januari-13.29-ovrigt-goteborg/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
