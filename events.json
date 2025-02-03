@@ -1,14 +1,38 @@
 [
   {
-    "id": 569063,
-    "datetime": "2025-02-03 18:42:27 +01:00",
-    "name": "03 februari 17.40, Rån, Karlstad",
-    "summary": "En man i 45-årsåldern grips och blir misstänkt för rån i motvärnsfallet.",
-    "url": "/aktuellt/handelser/2025/februari/3/03-februari-17.40-ran-karlstad/",
-    "type": "Rån",
+    "id": 569068,
+    "datetime": "2025-02-03 19:28:07 +01:00",
+    "name": "03 februari 18.53, Brand, Helsingborg",
+    "summary": "Larm om brand i lägenhet på Ystadsgatan.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-18.53-brand-helsingborg/",
+    "type": "Brand",
     "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 569067,
+    "datetime": "2025-02-03 19:23:01 +01:00",
+    "name": "03 februari 19.22, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-19.22-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 569041,
+    "datetime": "2025-02-03 15:06:35 +01:00",
+    "name": "03 februari 14.43, Trafikolycka, Falun",
+    "summary": "En trafikolycka har inträffat på riksväg 69 strax söder om Grycksbo.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-14.43-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -21,6 +45,78 @@
     "location": {
       "name": "Nässjö",
       "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 569066,
+    "datetime": "2025-02-03 19:13:50 +01:00",
+    "name": "03 februari 19.13, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-19.13-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 569052,
+    "datetime": "2025-02-03 19:05:38 +01:00",
+    "name": "03 februari 15.08, Arbetsplatsolycka, Kalmar",
+    "summary": "Man fastnat i maskin, Trekanten.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-15.08-arbetsplatsolycka-kalmar/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 569065,
+    "datetime": "2025-02-03 18:59:28 +01:00",
+    "name": "03 februari 17.59, Knivlagen, Östersund",
+    "summary": "Brott mot knivlagen i Torvalla.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-17.59-knivlagen-ostersund/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 569064,
+    "datetime": "2025-02-03 18:57:02 +01:00",
+    "name": "03 februari 13.48, Misshandel, Örnsköldsvik",
+    "summary": "Utåtagerande kvinna omhändertogs för fylleri.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-13.48-misshandel-ornskoldsvik/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 569053,
+    "datetime": "2025-02-03 17:36:13 +01:00",
+    "name": "03 februari 16.24, Trafikolycka, Umeå",
+    "summary": "Lastbil ska ha kört fast under viadukt.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-16.24-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 569063,
+    "datetime": "2025-02-03 18:42:27 +01:00",
+    "name": "03 februari 17.40, Rån, Karlstad",
+    "summary": "En man i 45-årsåldern grips och blir misstänkt för rån i motvärnsfallet.",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-17.40-ran-karlstad/",
+    "type": "Rån",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -84,18 +180,6 @@
     }
   },
   {
-    "id": 569053,
-    "datetime": "2025-02-03 17:36:13 +01:00",
-    "name": "03 februari 16.24, Trafikolycka, Umeå",
-    "summary": "Lastbil ska ha kört fast under viadukt.",
-    "url": "/aktuellt/handelser/2025/februari/3/03-februari-16.24-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
     "id": 569031,
     "datetime": "2025-02-03 13:59:08 +01:00",
     "name": "03 februari 12.51, Trafikolycka, Åsele",
@@ -129,18 +213,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 569041,
-    "datetime": "2025-02-03 15:06:35 +01:00",
-    "name": "03 februari 14.43, Trafikolycka, Falun",
-    "summary": "En trafikolycka har inträffat på riksväg 69 strax söder om Grycksbo.",
-    "url": "/aktuellt/handelser/2025/februari/3/03-februari-14.43-trafikolycka-falun/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 568227,
-    "datetime": "2025-01-27 17:38:02 +01:00",
-    "name": "27 januari 15.08, Stöld, Uppsala",
-    "summary": "Två personer misstänkta för stöld i två butiker.",
-    "url": "/aktuellt/handelser/2025/januari/27/27-januari-15.08-stold-uppsala/",
-    "type": "Stöld",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 568238,
-    "datetime": "2025-01-27 17:37:11 +01:00",
-    "name": "27 januari 17.30, Övrigt, Tyresö",
-    "summary": "Polisrytteriet är i Tyresö för att öka tryggheten och arbetar brottsförebyggande.",
-    "url": "/aktuellt/handelser/2025/januari/27/27-januari-17.30-ovrigt-tyreso/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Tyresö",
-      "gps": "59.242595,18.283392"
-    }
-  },
-  {
-    "id": 568220,
-    "datetime": "2025-01-27 17:36:22 +01:00",
-    "name": "27 januari 14.21, Bedrägeri, Uppsala",
-    "summary": "Passagerare greps efter att köpt fel bussbiljett.",
-    "url": "/aktuellt/handelser/2025/januari/27/27-januari-14.21-bedrageri-uppsala/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 568236,
-    "datetime": "2025-01-27 17:21:47 +01:00",
-    "name": "27 januari 16.33, Trafikolycka, Grums",
-    "summary": "En kvinna har blivit förd till sjukhus efter en trafikolycka på länsväg 669.",
-    "url": "/aktuellt/handelser/2025/januari/27/27-januari-16.33-trafikolycka-grums/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
-    }
-  },
-  {
-    "id": 568234,
-    "datetime": "2025-01-27 16:47:59 +01:00",
-    "name": "27 januari 12.44, Rattfylleri, Sundsvall",
-    "summary": "Kubikenborg, polisen kontrollerar en personbil.",
-    "url": "/aktuellt/handelser/2025/januari/27/27-januari-12.44-rattfylleri-sundsvall/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 568221,
-    "datetime": "2025-01-27 16:09:15 +01:00",
-    "name": "27 januari 16.08, Trafikkontroll, Västerbottens län",
-    "summary": "Ett urval av polisens arbete i trafiken under dagen.",
-    "url": "/aktuellt/handelser/2025/januari/27/27-januari-16.08-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
