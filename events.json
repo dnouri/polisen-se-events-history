@@ -1,5 +1,77 @@
 [
   {
+    "id": 568935,
+    "datetime": "2025-02-03 6:43:01 +01:00",
+    "name": "03 februari 05.12, Brand, Karlskrona",
+    "summary": "Brand i soprum, Trossö",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-05.12-brand-karlskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 568933,
+    "datetime": "2025-02-03 6:40:03 +01:00",
+    "name": "03 februari 03.29, Brand, Mörbylånga",
+    "summary": "Brand i båtlada, Södra Möckelby",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-03.29-brand-morbylanga/",
+    "type": "Brand",
+    "location": {
+      "name": "Mörbylånga",
+      "gps": "56.523757,16.386916"
+    }
+  },
+  {
+    "id": 568932,
+    "datetime": "2025-02-03 6:37:07 +01:00",
+    "name": "03 februari 00.43, Djur, Helsingborg",
+    "summary": "Hund instängd i bagageutrymme",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-00.43-djur-helsingborg/",
+    "type": "Djur",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 568931,
+    "datetime": "2025-02-03 6:36:57 +01:00",
+    "name": "03 februari 06.36, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till måndag polisområde Värmland",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-06.36-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 568930,
+    "datetime": "2025-02-03 6:30:04 +01:00",
+    "name": "03 februari 00.31, Skadegörelse, Helsingborg",
+    "summary": "Krossad ruta",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-00.31-skadegorelse-helsingborg/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 568928,
+    "datetime": "2025-02-03 6:27:49 +01:00",
+    "name": "03 februari 06.27, Sammanfattning natt, Örebro län",
+    "summary": "Natt till måndag polisområde Örebro",
+    "url": "/aktuellt/handelser/2025/februari/3/03-februari-06.27-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 568925,
     "datetime": "2025-02-03 0:16:07 +01:00",
     "name": "02 februari 22.59, Explosion, Nacka",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 567834,
-    "datetime": "2025-01-26 20:19:51 +01:00",
-    "name": "26 januari 20.11, Trafikolycka, Ängelholm",
-    "summary": "Personbil har kört in i träd, Hjärnarp.",
-    "url": "/aktuellt/handelser/2025/januari/26/26-januari-20.11-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 567838,
-    "datetime": "2025-01-26 20:38:40 +01:00",
-    "name": "26 januari 20.22, Brand, Kumla",
-    "summary": "Det brinner i en soptunna/container i Kumlaby",
-    "url": "/aktuellt/handelser/2025/januari/26/26-januari-20.22-brand-kumla/",
-    "type": "Brand",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 567831,
-    "datetime": "2025-01-26 17:54:35 +01:00",
-    "name": "26 januari 14.09, Anträffad död, Hagfors",
-    "summary": "En man i åttioårsåldern har påträffats avliden norr om Ekshärad i Hagfors kommun.",
-    "url": "/aktuellt/handelser/2025/januari/26/26-januari-14.09-antraffad-dod-hagfors/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Hagfors",
-      "gps": "60.03437,13.694508"
-    }
-  },
-  {
-    "id": 567833,
-    "datetime": "2025-01-26 19:04:08 +01:00",
-    "name": "26 januari 18.48, Trafikolycka, Lund",
-    "summary": "Bil i fel färdriktning frontalkolliderar, E22.",
-    "url": "/aktuellt/handelser/2025/januari/26/26-januari-18.48-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 567832,
-    "datetime": "2025-01-26 18:49:14 +01:00",
-    "name": "26 januari 18.08, Trafikolycka, Lund",
-    "summary": "Trafikolycka, Lund.",
-    "url": "/aktuellt/handelser/2025/januari/26/26-januari-18.08-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 567830,
-    "datetime": "2025-01-26 17:30:11 +01:00",
-    "name": "26 januari 17.13, Brand, Malmö",
-    "summary": "Brand, Malmö.",
-    "url": "/aktuellt/handelser/2025/januari/26/26-januari-17.13-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
