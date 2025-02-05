@@ -1,14 +1,26 @@
 [
   {
-    "id": 569330,
-    "datetime": "2025-02-05 16:34:33 +01:00",
-    "name": "05 februari 16.16, Brand, Malmö",
-    "summary": "Brand i lägenhet.",
-    "url": "/aktuellt/handelser/2025/februari/5/05-februari-16.16-brand-malmo/",
-    "type": "Brand",
+    "id": 569334,
+    "datetime": "2025-02-05 17:31:07 +01:00",
+    "name": "05 februari 17.08, Trafikolycka, Kristianstad",
+    "summary": "Tre personbilar i kollision på Långebrogatan.",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-17.08-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 569332,
+    "datetime": "2025-02-05 16:55:24 +01:00",
+    "name": "05 februari 16.53, Övrigt, Örebro län",
+    "summary": "Regionalt mediecenter (RMC/ Dag 2-frågor) region Bergslagen har ändrat sina öppettider.",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-16.53-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -21,6 +33,30 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 569331,
+    "datetime": "2025-02-05 16:58:12 +01:00",
+    "name": "05 februari 16.32, Trafikolycka, Göteborg",
+    "summary": "På Grevegårdsvägen har en personbil och en cyklist kolliderat.",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-16.32-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 569330,
+    "datetime": "2025-02-05 16:34:33 +01:00",
+    "name": "05 februari 16.16, Brand, Malmö",
+    "summary": "Brand i lägenhet.",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-16.16-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 568474,
-    "datetime": "2025-01-29 10:02:33 +01:00",
-    "name": "29 januari 08.44, Brand, Hässleholm",
-    "summary": "Brand i villa, Hörja.",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-08.44-brand-hassleholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 568392,
-    "datetime": "2025-01-28 18:35:27 +01:00",
-    "name": "28 januari 18.24, Mord/dråp, Lund",
-    "summary": "Misstänkt skottlossning vid Järnvägsstationen i Lund.",
-    "url": "/aktuellt/handelser/2025/januari/28/28-januari-18.24-morddrap-lund/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 568419,
-    "datetime": "2025-01-29 6:15:04 +01:00",
-    "name": "29 januari 00.00, Brand, Västervik",
-    "summary": "Brand i garage",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-00.00-brand-vastervik/",
-    "type": "Brand",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
     }
   }
 ]
