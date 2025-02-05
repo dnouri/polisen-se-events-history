@@ -1,5 +1,53 @@
 [
   {
+    "id": 569309,
+    "datetime": "2025-02-05 13:43:06 +01:00",
+    "name": "05 februari 12.54, Trafikolycka, Kiruna",
+    "summary": "Trafikolycka på E10 vid Kuosanen.",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-12.54-trafikolycka-kiruna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 569299,
+    "datetime": "2025-02-05 12:58:33 +01:00",
+    "name": "05 februari 12.24, Trafikolycka, Piteå",
+    "summary": "Kopparnäs, singelolycka på E4.",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-12.24-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 569302,
+    "datetime": "2025-02-05 13:16:07 +01:00",
+    "name": "05 februari 12.29, Trafikbrott, Torsby",
+    "summary": "Larm inkommer om höga smällar i området Fågelsången",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-12.29-trafikbrott-torsby/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 569298,
+    "datetime": "2025-02-05 12:55:09 +01:00",
+    "name": "05 februari 12.55, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-12.55-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 569295,
     "datetime": "2025-02-05 11:37:55 +01:00",
     "name": "05 februari 10.38, Trafikolycka, Lund",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 569297,
+    "datetime": "2025-02-05 12:53:01 +01:00",
+    "name": "05 februari 12.29, Trafikolycka, Helsingborg",
+    "summary": "En singelolycka med en personbil inträffar i Vallåkra.",
+    "url": "/aktuellt/handelser/2025/februari/5/05-februari-12.29-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5934,66 +5994,6 @@
     "summary": "I dag onsdag stänger Bergslagens regionala mediecenter tidigare.",
     "url": "/aktuellt/handelser/2025/januari/29/29-januari-07.56-ovrigt-varmlands-lan/",
     "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 568449,
-    "datetime": "2025-01-29 8:02:15 +01:00",
-    "name": "29 januari 07.57, Övrigt, Dalarnas län",
-    "summary": "I dag onsdag stänger Bergslagens regionala mediecenter tidigare.",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-07.57-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 568448,
-    "datetime": "2025-01-29 8:02:13 +01:00",
-    "name": "29 januari 07.57, Övrigt, Örebro län",
-    "summary": "I dag onsdag stänger Bergslagens regionala mediecenter tidigare.",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-07.57-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 568438,
-    "datetime": "2025-01-29 7:50:11 +01:00",
-    "name": "29 januari 07.47, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer ett urval av nattens händelser i Örebro län.",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-07.47-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 568437,
-    "datetime": "2025-01-29 7:47:50 +01:00",
-    "name": "29 januari 07.46, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en polisiärt sett lugn natt i Dalarna.",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-07.46-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 568436,
-    "datetime": "2025-01-29 7:46:56 +01:00",
-    "name": "29 januari 07.45, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt polisiärt sett i Värmland.",
-    "url": "/aktuellt/handelser/2025/januari/29/29-januari-07.45-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
