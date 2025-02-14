@@ -1,5 +1,53 @@
 [
   {
+    "id": 570442,
+    "datetime": "2025-02-14 14:11:33 +01:00",
+    "name": "14 februari 14.10, Stöld, Östergötlands län",
+    "summary": "Koppartjuvarnas ovanliga drag: stjäl från skidorter",
+    "url": "/aktuellt/handelser/2025/februari/14/14-februari-14.10-stold-ostergotlands-lan/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 570440,
+    "datetime": "2025-02-14 14:10:59 +01:00",
+    "name": "14 februari 14.06, Stöld, Södermanlands län",
+    "summary": "Koppartjuvarnas ovanliga drag: stjäl från skidorter",
+    "url": "/aktuellt/handelser/2025/februari/14/14-februari-14.06-stold-sodermanlands-lan/",
+    "type": "Stöld",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 570431,
+    "datetime": "2025-02-14 13:51:41 +01:00",
+    "name": "14 februari 11.20, Stöld/inbrott, Uppsala",
+    "summary": "Försök till inbrott i verktygscontainrar.",
+    "url": "/aktuellt/handelser/2025/februari/14/14-februari-11.20-stoldinbrott-uppsala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 570430,
+    "datetime": "2025-02-14 13:48:10 +01:00",
+    "name": "14 februari 13.22, Trafikolycka, Malmö",
+    "summary": "Trafikolycka mellan personbil och fotgängare.",
+    "url": "/aktuellt/handelser/2025/februari/14/14-februari-13.22-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 570425,
     "datetime": "2025-02-14 12:58:20 +01:00",
     "name": "14 februari 12.55, Trafikolycka, Strängnäs",
@@ -26,13 +74,13 @@
   {
     "id": 570427,
     "datetime": "2025-02-14 13:27:45 +01:00",
-    "name": "14 februari 12.44, Brand, Uppsala",
+    "name": "14 februari 12.44, Brand, Enköping",
     "summary": "Fullt utvecklad brand i lada.",
-    "url": "/aktuellt/handelser/2025/februari/14/14-februari-12.44-brand-uppsala/",
+    "url": "/aktuellt/handelser/2025/februari/14/14-februari-12.44-brand-enkoping/",
     "type": "Brand",
     "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 569583,
-    "datetime": "2025-02-07 17:17:16 +01:00",
-    "name": "07 februari 17.10, Trafikolycka, Hässleholm",
-    "summary": "Personbil och moped i olycka, Hässleholm.",
-    "url": "/aktuellt/handelser/2025/februari/7/07-februari-17.10-trafikolycka-hassleholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 569585,
-    "datetime": "2025-02-07 18:11:42 +01:00",
-    "name": "07 februari 18.09, Övrigt, Örebro län",
-    "summary": "Pressträff med anledning av identifieringen av de omkomna efter skolskjutningen i Örebro.",
-    "url": "/aktuellt/handelser/2025/februari/7/07-februari-18.09-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 569584,
-    "datetime": "2025-02-07 18:09:55 +01:00",
-    "name": "07 februari 17.16, Trafikolycka, Sollentuna",
-    "summary": "Bilist kört in i bil på E4.",
-    "url": "/aktuellt/handelser/2025/februari/7/07-februari-17.16-trafikolycka-sollentuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 569582,
-    "datetime": "2025-02-07 17:02:40 +01:00",
-    "name": "07 februari 17.02, Trafikkontroll, Vilhelmina",
-    "summary": "Resultat av polisens terrängövervakning i Saxnäs.",
-    "url": "/aktuellt/handelser/2025/februari/7/07-februari-17.02-trafikkontroll-vilhelmina/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
     }
   }
 ]
