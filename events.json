@@ -1,5 +1,89 @@
 [
   {
+    "id": 570563,
+    "datetime": "2025-02-15 13:13:25 +01:00",
+    "name": "15 februari 12.39, Trafikolycka, Sundsvall",
+    "summary": "Sundsvall, larm om trafikolycka i Njurunda.",
+    "url": "/aktuellt/handelser/2025/februari/15/15-februari-12.39-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 570562,
+    "datetime": "2025-02-15 14:40:30 +01:00",
+    "name": "15 februari 12.34, Bråk, Umeå",
+    "summary": "Umeå, bråk på Vasaplan.",
+    "url": "/aktuellt/handelser/2025/februari/15/15-februari-12.34-brak-umea/",
+    "type": "Bråk",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 570572,
+    "datetime": "2025-02-15 14:39:48 +01:00",
+    "name": "15 februari 11.15, Skadegörelse, Vindeln",
+    "summary": "Vindeln, skadegörelse av fönsterrutor.",
+    "url": "/aktuellt/handelser/2025/februari/15/15-februari-11.15-skadegorelse-vindeln/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Vindeln",
+      "gps": "64.201953,19.71887"
+    }
+  },
+  {
+    "id": 570571,
+    "datetime": "2025-02-15 14:39:16 +01:00",
+    "name": "15 februari 13.57, Trafikolycka, personskada, Älvdalen",
+    "summary": "Skoterolycka i Älvdalen, kvinna skadad.",
+    "url": "/aktuellt/handelser/2025/februari/15/15-februari-13.57-trafikolycka-personskada-alvdalen/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 570560,
+    "datetime": "2025-02-15 12:10:52 +01:00",
+    "name": "15 februari 11.48, Trafikolycka, Enköping",
+    "summary": "Stort antal fordon i trafikolycka på E18.",
+    "url": "/aktuellt/handelser/2025/februari/15/15-februari-11.48-trafikolycka-enkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 570570,
+    "datetime": "2025-02-15 14:34:15 +01:00",
+    "name": "15 februari 12.55, Olaga hot, Skövde",
+    "summary": "Personal på Systembolaget i centrala Skövde larmade polis med anledning av en hotfull man.",
+    "url": "/aktuellt/handelser/2025/februari/15/15-februari-12.55-olaga-hot-skovde/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
+    "id": 570569,
+    "datetime": "2025-02-15 14:27:41 +01:00",
+    "name": "15 februari 13.40, Trafikolycka, Östersund",
+    "summary": "Östersund, trafikolycka i centrum.",
+    "url": "/aktuellt/handelser/2025/februari/15/15-februari-13.40-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 570568,
     "datetime": "2025-02-15 14:20:45 +01:00",
     "name": "15 februari 14.20, Stöld, Åre",
@@ -81,30 +165,6 @@
     "location": {
       "name": "Lilla edet",
       "gps": "58.132158,12.124134"
-    }
-  },
-  {
-    "id": 570563,
-    "datetime": "2025-02-15 13:13:25 +01:00",
-    "name": "15 februari 12.39, Trafikolycka, Sundsvall",
-    "summary": "Sundsvall, larm om trafikolycka i Njurunda.",
-    "url": "/aktuellt/handelser/2025/februari/15/15-februari-12.39-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 570560,
-    "datetime": "2025-02-15 12:10:52 +01:00",
-    "name": "15 februari 11.48, Trafikolycka, Enköping",
-    "summary": "Stort antal fordon i trafikolycka på E18.",
-    "url": "/aktuellt/handelser/2025/februari/15/15-februari-11.48-trafikolycka-enkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 569678,
-    "datetime": "2025-02-09 7:05:58 +01:00",
-    "name": "09 februari 07.05, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2025/februari/9/09-februari-07.05-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 569671,
-    "datetime": "2025-02-09 7:01:20 +01:00",
-    "name": "09 februari 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2025/februari/9/09-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 569674,
-    "datetime": "2025-02-09 7:01:12 +01:00",
-    "name": "09 februari 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/februari/9/09-februari-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 569677,
-    "datetime": "2025-02-09 7:00:39 +01:00",
-    "name": "09 februari 01.34, Inbrott, försök, Tomelilla",
-    "summary": "Man gripen efter inbrottsförsök i apotek",
-    "url": "/aktuellt/handelser/2025/februari/9/09-februari-01.34-inbrott-forsok-tomelilla/",
-    "type": "Inbrott, försök",
-    "location": {
-      "name": "Tomelilla",
-      "gps": "55.54355,13.95484"
-    }
-  },
-  {
-    "id": 569676,
-    "datetime": "2025-02-09 6:55:16 +01:00",
-    "name": "09 februari 02.33, Rån, Malmö",
-    "summary": "Man i 25-årsåldern gripen för rån.",
-    "url": "/aktuellt/handelser/2025/februari/9/09-februari-02.33-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
