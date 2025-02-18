@@ -1,5 +1,29 @@
 [
   {
+    "id": 571878,
+    "datetime": "2025-02-18 17:12:32 +01:00",
+    "name": "18 februari 16.15, Trafikolycka, Göteborg",
+    "summary": "Två fordon i krock på E6.",
+    "url": "/aktuellt/handelser/2025/februari/18/18-februari-16.15-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 571877,
+    "datetime": "2025-02-18 17:12:06 +01:00",
+    "name": "18 februari 15.57, Trafikolycka, Gävle",
+    "summary": "Buss och personbil i krock.",
+    "url": "/aktuellt/handelser/2025/februari/18/18-februari-15.57-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 571873,
     "datetime": "2025-02-18 16:24:51 +01:00",
     "name": "18 februari 16.19, Trafikolycka, singel, Mora",
@@ -12,15 +36,27 @@
     }
   },
   {
-    "id": 571870,
-    "datetime": "2025-02-18 16:11:54 +01:00",
-    "name": "18 februari 14.01, Stöld, Skellefteå",
-    "summary": "Misstänkt ringa stöld i matbutik i centrala Skellefteå.",
-    "url": "/aktuellt/handelser/2025/februari/18/18-februari-14.01-stold-skelleftea/",
-    "type": "Stöld",
+    "id": 571875,
+    "datetime": "2025-02-18 17:09:11 +01:00",
+    "name": "18 februari 17.08, Övrigt, Härryda",
+    "summary": "Brott i nära relation.",
+    "url": "/aktuellt/handelser/2025/februari/18/18-februari-17.08-ovrigt-harryda/",
+    "type": "Övrigt",
     "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
+      "name": "Härryda",
+      "gps": "57.691744,12.294416"
+    }
+  },
+  {
+    "id": 571876,
+    "datetime": "2025-02-18 17:04:48 +01:00",
+    "name": "18 februari 15.56, Trafikolycka, Åre",
+    "summary": "Larm om trafikolycka på E14, Björkbäcken.",
+    "url": "/aktuellt/handelser/2025/februari/18/18-februari-15.56-trafikolycka-are/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -33,6 +69,18 @@
     "location": {
       "name": "Värnamo",
       "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 571870,
+    "datetime": "2025-02-18 16:11:54 +01:00",
+    "name": "18 februari 14.01, Stöld, Skellefteå",
+    "summary": "Misstänkt ringa stöld i matbutik i centrala Skellefteå.",
+    "url": "/aktuellt/handelser/2025/februari/18/18-februari-14.01-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östra göinge",
       "gps": "56.237877,14.216166"
-    }
-  },
-  {
-    "id": 570080,
-    "datetime": "2025-02-12 7:17:01 +01:00",
-    "name": "12 februari 03.54, Brand, Söderhamn",
-    "summary": "Brand i villa.",
-    "url": "/aktuellt/handelser/2025/februari/12/12-februari-03.54-brand-soderhamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 570079,
-    "datetime": "2025-02-12 7:14:23 +01:00",
-    "name": "11 februari 22.48, Inbrott, Ängelholm",
-    "summary": "Inbrott i bostad",
-    "url": "/aktuellt/handelser/2025/februari/11/11-februari-22.48-inbrott-angelholm/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 570078,
-    "datetime": "2025-02-12 7:08:10 +01:00",
-    "name": "12 februari 06.52, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2025/februari/12/12-februari-06.52-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 570077,
-    "datetime": "2025-02-12 7:07:51 +01:00",
-    "name": "11 februari 22.12, Misshandel, Eslöv",
-    "summary": "Man gripen för misshandel i relation, Eslöv.",
-    "url": "/aktuellt/handelser/2025/februari/11/11-februari-22.12-misshandel-eslov/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
     }
   }
 ]
