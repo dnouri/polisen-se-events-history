@@ -1,5 +1,89 @@
 [
   {
+    "id": 572114,
+    "datetime": "2025-02-20 10:10:58 +01:00",
+    "name": "20 februari 09.53, Trafikolycka, Sjöbo",
+    "summary": "Larm om trafikolycka på riksväg 11, Sjöbo.",
+    "url": "/aktuellt/handelser/2025/februari/20/20-februari-09.53-trafikolycka-sjobo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 572116,
+    "datetime": "2025-02-20 10:14:40 +01:00",
+    "name": "20 februari 08.34, Trafikolycka, Skellefteå",
+    "summary": "Ursviken, trafikolycka vid Dalabacken/Skelleftehamnsvägen",
+    "url": "/aktuellt/handelser/2025/februari/20/20-februari-08.34-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 572115,
+    "datetime": "2025-02-20 10:12:49 +01:00",
+    "name": "20 februari 08.55, Olovlig körning, Gävle",
+    "summary": "Olovlig körning upptäcktes vid trafikkontroll.",
+    "url": "/aktuellt/handelser/2025/februari/20/20-februari-08.55-olovlig-korning-gavle/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 572100,
+    "datetime": "2025-02-20 9:12:19 +01:00",
+    "name": "20 februari 08.58, Trafikolycka, Arvika",
+    "summary": "En lastbil har kolliderat med en personbil vid plantskolan i södra Treskog, Arvika kommun.",
+    "url": "/aktuellt/handelser/2025/februari/20/20-februari-08.58-trafikolycka-arvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 572113,
+    "datetime": "2025-02-20 10:06:34 +01:00",
+    "name": "20 februari 09.53, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka mellan en personbil och cyklist, Brandmästaregatan.",
+    "url": "/aktuellt/handelser/2025/februari/20/20-februari-09.53-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 572090,
+    "datetime": "2025-02-20 8:27:42 +01:00",
+    "name": "20 februari 08.12, Trafikolycka, Ängelholm",
+    "summary": "Larm om kollision mellan två pesonbilar, Åstorp.",
+    "url": "/aktuellt/handelser/2025/februari/20/20-februari-08.12-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 572110,
+    "datetime": "2025-02-20 9:51:05 +01:00",
+    "name": "20 februari 08.59, Trafikkontroll, Gällivare",
+    "summary": "Vuosko industriområde, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2025/februari/20/20-februari-08.59-trafikkontroll-gallivare/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
     "id": 572102,
     "datetime": "2025-02-20 9:27:42 +01:00",
     "name": "20 februari 08.02, Trafikolycka, Lysekil",
@@ -21,30 +105,6 @@
     "location": {
       "name": "Ulricehamn",
       "gps": "57.794789,13.420516"
-    }
-  },
-  {
-    "id": 572100,
-    "datetime": "2025-02-20 9:12:19 +01:00",
-    "name": "20 februari 08.58, Trafikolycka, Arvika",
-    "summary": "En lastbil har kolliderat med en personbil vid plantskolan i södra Treskog, Arvika kommun.",
-    "url": "/aktuellt/handelser/2025/februari/20/20-februari-08.58-trafikolycka-arvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 572090,
-    "datetime": "2025-02-20 8:27:42 +01:00",
-    "name": "20 februari 08.12, Trafikolycka, Ängelholm",
-    "summary": "Larm om kollision mellan två pesonbilar, Åstorp.",
-    "url": "/aktuellt/handelser/2025/februari/20/20-februari-08.12-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Älvkarleby",
       "gps": "60.568607,17.448913"
-    }
-  },
-  {
-    "id": 570347,
-    "datetime": "2025-02-13 20:06:19 +01:00",
-    "name": "13 februari 19.30, Ordningslagen, Stockholm",
-    "summary": "Unga män har skjutit nödraketer i Fredhällstunneln med rökutveckling som följd.",
-    "url": "/aktuellt/handelser/2025/februari/13/13-februari-19.30-ordningslagen-stockholm/",
-    "type": "Ordningslagen",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 570333,
-    "datetime": "2025-02-13 18:39:33 +01:00",
-    "name": "13 februari 18.34, Trafikolycka, Sjöbo",
-    "summary": "Larm om trafikolycka mellan personbil och elsparkcykel, Åsumsgatan.",
-    "url": "/aktuellt/handelser/2025/februari/13/13-februari-18.34-trafikolycka-sjobo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sjöbo",
-      "gps": "55.634822,13.70337"
-    }
-  },
-  {
-    "id": 570343,
-    "datetime": "2025-02-13 20:04:32 +01:00",
-    "name": "13 februari 16.17, Stöld, Åre",
-    "summary": "Järpen, polis kontaktas gällande stöld i en bostad",
-    "url": "/aktuellt/handelser/2025/februari/13/13-februari-16.17-stold-are/",
-    "type": "Stöld",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 570345,
-    "datetime": "2025-02-13 20:02:23 +01:00",
-    "name": "13 februari 17.55, Trafikkontroll, Berg",
-    "summary": "Svenstavik, resultat efter nykterhetskontroll",
-    "url": "/aktuellt/handelser/2025/februari/13/13-februari-17.55-trafikkontroll-berg/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 570344,
-    "datetime": "2025-02-13 20:00:44 +01:00",
-    "name": "13 februari 17.30, Fylleri/LOB, Åre",
-    "summary": "Centrum, polis kontaktas gällande berusad ung man",
-    "url": "/aktuellt/handelser/2025/februari/13/13-februari-17.30-fyllerilob-are/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
     }
   }
 ]
