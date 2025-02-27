@@ -1,5 +1,53 @@
 [
   {
+    "id": 572910,
+    "datetime": "2025-02-27 19:26:00 +01:00",
+    "name": "27 februari 18.01, Räddningsinsats, Götene",
+    "summary": "Vi blir larmade till en sjö med anledning av uppgifter om att en person har gått genom isen.",
+    "url": "/aktuellt/handelser/2025/februari/27/27-februari-18.01-raddningsinsats-gotene/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Götene",
+      "gps": "58.528002,13.491428"
+    }
+  },
+  {
+    "id": 572908,
+    "datetime": "2025-02-27 19:12:00 +01:00",
+    "name": "27 februari 17.34, Stöld, Luleå",
+    "summary": "Skutvikens industriområde,  två unga personer stoppade efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/februari/27/27-februari-17.34-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 572897,
+    "datetime": "2025-02-27 18:58:42 +01:00",
+    "name": "27 februari 15.53, Trafikolycka, singel, Härjedalen",
+    "summary": "Norr om Hede, larm om skoterolycka",
+    "url": "/aktuellt/handelser/2025/februari/27/27-februari-15.53-trafikolycka-singel-harjedalen/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 572898,
+    "datetime": "2025-02-27 17:43:12 +01:00",
+    "name": "27 februari 16.51, Trafikolycka, Västerås",
+    "summary": "Olycka i tågtrafiken.",
+    "url": "/aktuellt/handelser/2025/februari/27/27-februari-16.51-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 572907,
     "datetime": "2025-02-27 18:39:15 +01:00",
     "name": "27 februari 17.02, Stöld, Örebro",
@@ -105,18 +153,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 572898,
-    "datetime": "2025-02-27 17:43:12 +01:00",
-    "name": "27 februari 16.51, Trafikolycka, Västerås",
-    "summary": "Olycka i tågtrafiken.",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-16.51-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 572142,
-    "datetime": "2025-02-20 12:05:47 +01:00",
-    "name": "20 februari 12.04, Brand, Sävsjö",
-    "summary": "Brand i lastmaskin.",
-    "url": "/aktuellt/handelser/2025/februari/20/20-februari-12.04-brand-savsjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Sävsjö",
-      "gps": "57.398996,14.665814"
-    }
-  },
-  {
-    "id": 572147,
-    "datetime": "2025-02-20 12:34:48 +01:00",
-    "name": "20 februari 12.34, Övrigt, Hallands län",
-    "summary": "Mellan 13:00 och 15:00 har presstalespersonerna möte. Under denna tid besvaras frågor från media av vakthavand",
-    "url": "/aktuellt/handelser/2025/februari/20/20-februari-12.34-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 572146,
-    "datetime": "2025-02-20 12:34:26 +01:00",
-    "name": "20 februari 12.34, Övrigt, Västra Götalands län",
-    "summary": "Mellan 13:00 och 15:00 har presstalespersonerna möte. Under denna tid besvaras frågor från media av vakthavand",
-    "url": "/aktuellt/handelser/2025/februari/20/20-februari-12.34-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
