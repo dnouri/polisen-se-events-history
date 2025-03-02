@@ -1,5 +1,113 @@
 [
   {
+    "id": 573225,
+    "datetime": "2025-03-02 13:36:44 +01:00",
+    "name": "02 mars 11.22, Brand, Kungälv",
+    "summary": "Brand i garage",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-11.22-brand-kungalv/",
+    "type": "Brand",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
+    "id": 573224,
+    "datetime": "2025-03-02 13:22:07 +01:00",
+    "name": "02 mars 12.39, Bedrägeri, Stockholm",
+    "summary": "En person i 95-årsåldern har blivit uppringd av en person som falskligen utgett sig för att vara en nära släkt",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-12.39-bedrageri-stockholm/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 573221,
+    "datetime": "2025-03-02 13:15:21 +01:00",
+    "name": "02 mars 10.46, Försvunnen person, Skinnskatteberg",
+    "summary": "Polisen sökte försvunnen person.",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-10.46-forsvunnen-person-skinnskatteberg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skinnskatteberg",
+      "gps": "59.826056,15.691519"
+    }
+  },
+  {
+    "id": 573211,
+    "datetime": "2025-03-02 11:51:25 +01:00",
+    "name": "02 mars 11.45, Trafikolycka, personskada, Örebro",
+    "summary": "Cyklist och bilist har kolliderat på Väster i Örebro.",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-11.45-trafikolycka-personskada-orebro/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 573219,
+    "datetime": "2025-03-02 13:11:05 +01:00",
+    "name": "02 mars 09.53, Trafikkontroll, Sundsvall",
+    "summary": "Resultat efter nykterhetskontroll, Skönsberg.",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-09.53-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 573218,
+    "datetime": "2025-03-02 13:10:10 +01:00",
+    "name": "02 mars 13.10, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-13.10-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 573210,
+    "datetime": "2025-03-02 11:36:28 +01:00",
+    "name": "02 mars 11.13, Fjällräddning, Älvdalen",
+    "summary": "Skidåkare behöver hjälp efter att ha skadat sig i Älvdalen.",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-11.13-fjallraddning-alvdalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 573217,
+    "datetime": "2025-03-02 13:02:16 +01:00",
+    "name": "02 mars 12.37, Övrigt, Mora",
+    "summary": "Man misstänks för brott mot luftfartsförordningen.",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-12.37-ovrigt-mora/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 573216,
+    "datetime": "2025-03-02 12:49:58 +01:00",
+    "name": "02 mars 12.18, Trafikolycka, vilt, Vindeln",
+    "summary": "Polisen får in en anmälan om en olycka med personbil och rådjur.",
+    "url": "/aktuellt/handelser/2025/mars/2/02-mars-12.18-trafikolycka-vilt-vindeln/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Vindeln",
+      "gps": "64.201953,19.71887"
+    }
+  },
+  {
     "id": 573215,
     "datetime": "2025-03-02 12:41:44 +01:00",
     "name": "02 mars 10.40, Trafikkontroll, Härjedalen",
@@ -60,18 +168,6 @@
     }
   },
   {
-    "id": 573210,
-    "datetime": "2025-03-02 11:36:28 +01:00",
-    "name": "02 mars 11.13, Fjällräddning, Älvdalen",
-    "summary": "Skidåkare behöver hjälp efter att ha skadat sig i Älvdalen.",
-    "url": "/aktuellt/handelser/2025/mars/2/02-mars-11.13-fjallraddning-alvdalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Älvdalen",
-      "gps": "61.227306,14.041987"
-    }
-  },
-  {
     "id": 573206,
     "datetime": "2025-03-02 11:59:48 +01:00",
     "name": "02 mars 09.05, Trafikolycka, personskada, Skövde",
@@ -81,18 +177,6 @@
     "location": {
       "name": "Skövde",
       "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 573211,
-    "datetime": "2025-03-02 11:51:25 +01:00",
-    "name": "02 mars 11.45, Trafikolycka, personskada, Örebro",
-    "summary": "Cyklist och bilist har kolliderat på Väster i Örebro.",
-    "url": "/aktuellt/handelser/2025/mars/2/02-mars-11.45-trafikolycka-personskada-orebro/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 572482,
-    "datetime": "2025-02-24 7:15:27 +01:00",
-    "name": "24 februari 07.15, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-07.15-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 572479,
-    "datetime": "2025-02-24 7:07:28 +01:00",
-    "name": "24 februari 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 572478,
-    "datetime": "2025-02-24 7:05:19 +01:00",
-    "name": "24 februari 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 572473,
-    "datetime": "2025-02-24 7:02:42 +01:00",
-    "name": "24 februari 07.02, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en lugn natt operativt i länet",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-07.02-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 572472,
-    "datetime": "2025-02-24 7:02:15 +01:00",
-    "name": "24 februari 07.01, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt operativt i länet",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-07.01-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 572471,
-    "datetime": "2025-02-24 7:01:46 +01:00",
-    "name": "24 februari 07.01, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer ett urval av nattens operativa händelser i länet",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-07.01-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 572470,
-    "datetime": "2025-02-24 6:47:52 +01:00",
-    "name": "24 februari 02.36, Brand, Helsingborg",
-    "summary": "Larm om brand på en parkering, Ringstorpsvägen.",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-02.36-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   }
 ]
