@@ -1,5 +1,65 @@
 [
   {
+    "id": 573317,
+    "datetime": "2025-03-03 11:11:02 +01:00",
+    "name": "03 mars 10.34, Farligt föremål, misstänkt, Östersund",
+    "summary": "Östersund, misstänkt farligt föremål.",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-10.34-farligt-foremal-misstankt-ostersund/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 573311,
+    "datetime": "2025-03-03 11:04:18 +01:00",
+    "name": "03 mars 10.33, Trafikolycka, Kungälv",
+    "summary": "Buss som kört in i ett hus",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-10.33-trafikolycka-kungalv/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
+    "id": 573310,
+    "datetime": "2025-03-03 11:04:16 +01:00",
+    "name": "03 mars 10.05, Fjällräddning, Härjedalen",
+    "summary": "Tänndalen, larm om lavin.",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-10.05-fjallraddning-harjedalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 573302,
+    "datetime": "2025-03-03 10:49:45 +01:00",
+    "name": "03 mars 10.48, Stöld/inbrott, Örebro",
+    "summary": "Företag i Örebro har blivit utsatt för stöld.",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-10.48-stoldinbrott-orebro/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 573301,
+    "datetime": "2025-03-03 10:44:28 +01:00",
+    "name": "03 mars 07.39, Rattfylleri, Ånge",
+    "summary": "Ånge, förare misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-07.39-rattfylleri-ange/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ånge",
+      "gps": "62.522874,15.658942"
+    }
+  },
+  {
     "id": 573299,
     "datetime": "2025-03-03 10:42:05 +01:00",
     "name": "03 mars 03.45, Skadegörelse, Västerås",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Lomma",
       "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 572581,
-    "datetime": "2025-02-25 6:15:34 +01:00",
-    "name": "24 februari 22.30, Brand, Malmö",
-    "summary": "Brand i cykelförråd, Rosengård.",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-22.30-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 572580,
-    "datetime": "2025-02-25 0:49:27 +01:00",
-    "name": "25 februari 23.24, Brand, Stockholm",
-    "summary": "Polis ocha räddningstjänst kallas till Rågsved med anledning av lägenhetsbrand.",
-    "url": "/aktuellt/handelser/2025/februari/25/25-februari-23.24-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 572577,
-    "datetime": "2025-02-24 21:54:21 +01:00",
-    "name": "24 februari 20.39, Knivlagen, Hallsberg",
-    "summary": "Man i sextioårsåldern misstänks för grovt brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-20.39-knivlagen-hallsberg/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Hallsberg",
-      "gps": "59.066532,15.10229"
-    }
-  },
-  {
-    "id": 572576,
-    "datetime": "2025-02-24 21:45:27 +01:00",
-    "name": "24 februari 21.45, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-21.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 572575,
-    "datetime": "2025-02-24 21:45:23 +01:00",
-    "name": "24 februari 21.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
-    "url": "/aktuellt/handelser/2025/februari/24/24-februari-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
