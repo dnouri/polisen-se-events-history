@@ -1,14 +1,14 @@
 [
   {
-    "id": 573407,
-    "datetime": "2025-03-03 20:35:43 +01:00",
-    "name": "03 mars 20.21, Övrigt, Uppsala",
-    "summary": "Flera samtal om dånande ljud.",
-    "url": "/aktuellt/handelser/2025/mars/3/03-mars-20.21-ovrigt-uppsala/",
-    "type": "Övrigt",
+    "id": 573405,
+    "datetime": "2025-03-03 20:25:45 +01:00",
+    "name": "03 mars 19.57, Misshandel, Göteborg",
+    "summary": "Vi får larm om slagsmål på en spårvagn.",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-19.57-misshandel-goteborg/",
+    "type": "Misshandel",
     "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -24,15 +24,63 @@
     }
   },
   {
-    "id": 573405,
-    "datetime": "2025-03-03 20:25:45 +01:00",
-    "name": "03 mars 19.57, Misshandel, Göteborg",
-    "summary": "Vi får larm om slagsmål på en spårvagn.",
-    "url": "/aktuellt/handelser/2025/mars/3/03-mars-19.57-misshandel-goteborg/",
+    "id": 573403,
+    "datetime": "2025-03-03 21:21:31 +01:00",
+    "name": "03 mars 20.03, Stöld/inbrott, Uppsala",
+    "summary": "Pågående inbrott i centrala Uppsala.",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-20.03-stoldinbrott-uppsala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 573409,
+    "datetime": "2025-03-03 21:20:32 +01:00",
+    "name": "03 mars 18.33, Narkotikabrott, Kramfors",
+    "summary": "Centrum, man kontrollerad av polis",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-18.33-narkotikabrott-kramfors/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 573375,
+    "datetime": "2025-03-03 21:10:11 +01:00",
+    "name": "03 mars 12.09, Misshandel, Boden",
+    "summary": "Boden, polis kontaktades gällande misshandel som ska ha inträffat tidigare i dag",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-12.09-misshandel-boden/",
     "type": "Misshandel",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 573408,
+    "datetime": "2025-03-03 20:47:53 +01:00",
+    "name": "03 mars 20.27, Brand, Göteborg",
+    "summary": "Vi får larm om brand i ett flerfamiljshus.",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-20.27-brand-goteborg/",
+    "type": "Brand",
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 573407,
+    "datetime": "2025-03-03 20:35:43 +01:00",
+    "name": "03 mars 20.21, Övrigt, Uppsala",
+    "summary": "Flera samtal om dånande ljud.",
+    "url": "/aktuellt/handelser/2025/mars/3/03-mars-20.21-ovrigt-uppsala/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 572656,
-    "datetime": "2025-02-25 14:44:12 +01:00",
-    "name": "25 februari 14.36, Trafikolycka, Burlöv",
-    "summary": "Larm om trafikolycka mellan två personbilar, Arlövsvägen.",
-    "url": "/aktuellt/handelser/2025/februari/25/25-februari-14.36-trafikolycka-burlov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 572662,
-    "datetime": "2025-02-25 15:41:56 +01:00",
-    "name": "25 februari 15.20, Trafikolycka, personskada, Örebro",
-    "summary": "En man i sjuttioårsåldern har blivit påkörd av en bil på Aspholmen.",
-    "url": "/aktuellt/handelser/2025/februari/25/25-februari-15.20-trafikolycka-personskada-orebro/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 572664,
-    "datetime": "2025-02-25 15:58:30 +01:00",
-    "name": "25 februari 13.35, Olaga hot, Göteborg",
-    "summary": "Ett vaktbolag kontaktar polisen efter att ha mottagit larm från en restaurang på Wieselgrensplatsen.",
-    "url": "/aktuellt/handelser/2025/februari/25/25-februari-13.35-olaga-hot-goteborg/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 572663,
-    "datetime": "2025-02-25 15:56:58 +01:00",
-    "name": "25 februari 14.47, Mord/dråp, försök, Borås",
-    "summary": "SOS kontaktar polisen med uppgift om att en man fallit från en balkong på Engelbrektsgatan.",
-    "url": "/aktuellt/handelser/2025/februari/25/25-februari-14.47-morddrap-forsok-boras/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
