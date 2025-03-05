@@ -1,5 +1,53 @@
 [
   {
+    "id": 573555,
+    "datetime": "2025-03-05 8:18:34 +01:00",
+    "name": "05 mars 08.00, Övrigt, Göteborg",
+    "summary": "Polisen genomför under dagen en planerad övning i nöjesparken Liseberg.",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-08.00-ovrigt-goteborg/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 573554,
+    "datetime": "2025-03-05 8:16:18 +01:00",
+    "name": "05 mars 07.51, Trafikolycka, Karlshamn",
+    "summary": "En kollission mellan en personbil och en en cyklist inträffar på Hantverkaregatan.",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-07.51-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 573531,
+    "datetime": "2025-03-05 6:29:33 +01:00",
+    "name": "05 mars 06.19, Trafikolycka, Lund",
+    "summary": "Två personbilar kolliderar på länsväg 108.",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-06.19-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 573547,
+    "datetime": "2025-03-05 7:47:19 +01:00",
+    "name": "05 mars 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 573540,
     "datetime": "2025-03-05 7:48:25 +01:00",
     "name": "05 mars 08.00, Sammanfattning natt, Jönköpings län",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 573547,
-    "datetime": "2025-03-05 7:47:19 +01:00",
-    "name": "05 mars 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2025/mars/5/05-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -189,18 +225,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 573531,
-    "datetime": "2025-03-05 6:29:33 +01:00",
-    "name": "05 mars 06.19, Trafikolycka, Lund",
-    "summary": "Två personbilar kolliderar på länsväg 108.",
-    "url": "/aktuellt/handelser/2025/mars/5/05-mars-06.19-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 572814,
-    "datetime": "2025-02-27 3:11:53 +01:00",
-    "name": "27 februari 02.56, Försvunnen person, Boden",
-    "summary": "Försvunnen person i Kusån, Bodens kommun (anträffad vid liv).",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-02.56-forsvunnen-person-boden/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 572811,
-    "datetime": "2025-02-26 22:39:54 +01:00",
-    "name": "26 februari 18.18, Rån, Uppsala",
-    "summary": "Anmälan om rån.",
-    "url": "/aktuellt/handelser/2025/februari/26/26-februari-18.18-ran-uppsala/",
-    "type": "Rån",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
