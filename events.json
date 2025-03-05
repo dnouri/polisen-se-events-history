@@ -1,14 +1,38 @@
 [
   {
-    "id": 573616,
-    "datetime": "2025-03-05 15:59:04 +01:00",
-    "name": "05 mars 14.56, Trafikolycka, Luleå",
-    "summary": "Trafikolycka mellan Antnäs och Ersnäs.",
-    "url": "/aktuellt/handelser/2025/mars/5/05-mars-14.56-trafikolycka-lulea/",
+    "id": 573620,
+    "datetime": "2025-03-05 16:25:54 +01:00",
+    "name": "05 mars 16.23, Trafikolycka, Boxholm",
+    "summary": "Singelolycka i Boxholm.",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-16.23-trafikolycka-boxholm/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
+      "name": "Boxholm",
+      "gps": "58.197099,15.053779"
+    }
+  },
+  {
+    "id": 573626,
+    "datetime": "2025-03-05 17:14:24 +01:00",
+    "name": "05 mars 17.03, Trafikolycka, Svalöv",
+    "summary": "Larm om singelolycka med lastbil på länsväg 109.",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-17.03-trafikolycka-svalov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Svalöv",
+      "gps": "55.91293,13.101817"
+    }
+  },
+  {
+    "id": 573624,
+    "datetime": "2025-03-05 16:53:22 +01:00",
+    "name": "05 mars 16.50, Skadegörelse, Eskilstuna",
+    "summary": "Anlagd brand i container.",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-16.50-skadegorelse-eskilstuna/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -24,6 +48,18 @@
     }
   },
   {
+    "id": 573616,
+    "datetime": "2025-03-05 15:59:04 +01:00",
+    "name": "05 mars 14.56, Trafikolycka, Luleå",
+    "summary": "Trafikolycka mellan Antnäs och Ersnäs.",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-14.56-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 573621,
     "datetime": "2025-03-05 16:29:48 +01:00",
     "name": "05 mars 14.31, Stöld/inbrott, Ånge",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Ånge",
       "gps": "62.522874,15.658942"
-    }
-  },
-  {
-    "id": 573620,
-    "datetime": "2025-03-05 16:25:54 +01:00",
-    "name": "05 mars 16.23, Trafikolycka, Boxholm",
-    "summary": "Singelolycka i Boxholm.",
-    "url": "/aktuellt/handelser/2025/mars/5/05-mars-16.23-trafikolycka-boxholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Boxholm",
-      "gps": "58.197099,15.053779"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 572838,
-    "datetime": "2025-02-27 8:07:52 +01:00",
-    "name": "27 februari 07.57, Trafikolycka, Lund",
-    "summary": "Trafikolycka på Lv108 vid Knästorp.",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-07.57-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 572837,
-    "datetime": "2025-02-27 8:03:45 +01:00",
-    "name": "27 februari 05.36, Larm Inbrott, Stockholm",
-    "summary": "Inbrott på Skeppsholmen.",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-05.36-larm-inbrott-stockholm/",
-    "type": "Larm Inbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
