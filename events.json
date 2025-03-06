@@ -1,5 +1,53 @@
 [
   {
+    "id": 573686,
+    "datetime": "2025-03-06 11:13:13 +01:00",
+    "name": "06 mars 05.47, Brand, Skellefteå",
+    "summary": "Larm om brand i ett flerfamiljshus i Skelleftehamn.",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-05.47-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 573678,
+    "datetime": "2025-03-06 8:42:12 +01:00",
+    "name": "06 mars 08.26, Trafikolycka, Örebro",
+    "summary": "En trafikolycka har inträffat på länsväg 732/länsväg 733 i Tysslingekorset",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-08.26-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 573718,
+    "datetime": "2025-03-06 10:49:59 +01:00",
+    "name": "06 mars 10.36, Trafikolycka, Lund",
+    "summary": "Trafikolycka mellan personbil och fotgängare.",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-10.36-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 573719,
+    "datetime": "2025-03-06 10:49:57 +01:00",
+    "name": "06 mars 03.53, Larm Inbrott, Stockholm",
+    "summary": "Smash and grab-kupp mot företag i Bromma.",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-03.53-larm-inbrott-stockholm/",
+    "type": "Larm Inbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 573670,
     "datetime": "2025-03-06 7:48:09 +01:00",
     "name": "06 mars 07.48, Sammanfattning natt, Västerbottens län",
@@ -81,18 +129,6 @@
     "location": {
       "name": "Strängnäs",
       "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 573678,
-    "datetime": "2025-03-06 8:42:12 +01:00",
-    "name": "06 mars 08.26, Trafikolycka, Örebro",
-    "summary": "En trafikolycka har inträffat på länsväg 732/länsväg 733 i Tysslingekorset",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-08.26-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 572917,
-    "datetime": "2025-02-27 21:00:58 +01:00",
-    "name": "27 februari 18.25, Olaga hot, Örnsköldsvik",
-    "summary": "Örnsköldsvik, man i 50-årsåldern gripen i en bostad",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-18.25-olaga-hot-ornskoldsvik/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 572893,
-    "datetime": "2025-02-27 20:56:32 +01:00",
-    "name": "27 februari 15.38, Misshandel, Sundsvall",
-    "summary": "Stenstan, polis kontaktas gällande bråk och misshandel",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-15.38-misshandel-sundsvall/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 572918,
-    "datetime": "2025-02-27 20:52:59 +01:00",
-    "name": "27 februari 18.47, Brand, Söderhamn",
-    "summary": "Brand i villa.",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-18.47-brand-soderhamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
     }
   }
 ]
