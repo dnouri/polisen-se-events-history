@@ -12,6 +12,30 @@
     }
   },
   {
+    "id": 573748,
+    "datetime": "2025-03-06 13:30:44 +01:00",
+    "name": "06 mars 12.52, Brand, Östra göinge",
+    "summary": "Brand i radhus.",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-12.52-brand-ostra-goinge/",
+    "type": "Brand",
+    "location": {
+      "name": "Östra göinge",
+      "gps": "56.237877,14.216166"
+    }
+  },
+  {
+    "id": 573749,
+    "datetime": "2025-03-06 13:41:40 +01:00",
+    "name": "06 mars 12.32, Kontroll person/fordon, Malmö",
+    "summary": "Kontroll på skola",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-12.32-kontroll-personfordon-malmo/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 573734,
     "datetime": "2025-03-06 12:29:08 +01:00",
     "name": "06 mars 11.43, Trafikolycka, Boden",
@@ -21,6 +45,78 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 573744,
+    "datetime": "2025-03-06 13:15:44 +01:00",
+    "name": "06 mars 13.15, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-13.15-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 573743,
+    "datetime": "2025-03-06 13:13:55 +01:00",
+    "name": "06 mars 13.13, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-13.13-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 573742,
+    "datetime": "2025-03-06 13:12:35 +01:00",
+    "name": "06 mars 12.28, Övrigt, Kiruna",
+    "summary": "Skoterpatrull i Rautasjaure-området påträffar en man som fiskar olovligen.",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-12.28-ovrigt-kiruna/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 573737,
+    "datetime": "2025-03-06 12:52:53 +01:00",
+    "name": "06 mars 12.43, Övrigt, Västra Götalands län",
+    "summary": "Är på möte och återkommer vid 15-tiden.",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-12.43-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 573738,
+    "datetime": "2025-03-06 12:52:43 +01:00",
+    "name": "06 mars 12.47, Övrigt, Hallands län",
+    "summary": "Är på möte och återkommer vid 15-tiden.",
+    "url": "/aktuellt/handelser/2025/mars/6/06-mars-12.47-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 573643,
+    "datetime": "2025-03-05 20:36:04 +01:00",
+    "name": "05 mars 20.22, Mord/dråp, försök, Norrköping",
+    "summary": "En person skadad efter våldsbrott i Skärblacka.",
+    "url": "/aktuellt/handelser/2025/mars/5/05-mars-20.22-morddrap-forsok-norrkoping/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -501,18 +597,6 @@
     "location": {
       "name": "Sunne",
       "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 573643,
-    "datetime": "2025-03-05 20:36:04 +01:00",
-    "name": "05 mars 20.22, Mord/dråp, försök, Norrköping",
-    "summary": "En person skadad efter våldsbrott i Skärblacka.",
-    "url": "/aktuellt/handelser/2025/mars/5/05-mars-20.22-morddrap-forsok-norrkoping/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Höör",
       "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 572919,
-    "datetime": "2025-02-27 20:57:12 +01:00",
-    "name": "27 februari 20.10, Trafikolycka, Östra göinge",
-    "summary": "Larm om singelolycka med personbil, länsväg 2056.",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-20.10-trafikolycka-ostra-goinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östra göinge",
-      "gps": "56.237877,14.216166"
-    }
-  },
-  {
-    "id": 572928,
-    "datetime": "2025-02-27 21:45:19 +01:00",
-    "name": "27 februari 21.45, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-21.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 572929,
-    "datetime": "2025-02-27 21:45:14 +01:00",
-    "name": "27 februari 21.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 572927,
-    "datetime": "2025-02-27 21:38:59 +01:00",
-    "name": "27 februari 18.36, Rattfylleri, Uppsala",
-    "summary": "Man misstänkt för trafikbrott.",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-18.36-rattfylleri-uppsala/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 572920,
-    "datetime": "2025-02-27 21:01:07 +01:00",
-    "name": "27 februari 20.53, Trafikolycka, Oskarshamn",
-    "summary": "Larm om singelolycka med personbil, E22.",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-20.53-trafikolycka-oskarshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 572926,
-    "datetime": "2025-02-27 21:35:49 +01:00",
-    "name": "27 februari 20.32, Trafikkontroll, Åsele",
-    "summary": "Åsele tätort, resultat efter trafikkontroller under kvällen",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-20.32-trafikkontroll-asele/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Åsele",
-      "gps": "64.160234,17.353615"
-    }
-  },
-  {
-    "id": 572925,
-    "datetime": "2025-02-27 21:33:01 +01:00",
-    "name": "27 februari 20.13, Trafikkontroll, Umeå",
-    "summary": "Innertavle, resultat efter trafikkontroll på länsväg 642",
-    "url": "/aktuellt/handelser/2025/februari/27/27-februari-20.13-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
