@@ -1,5 +1,17 @@
 [
   {
+    "id": 573943,
+    "datetime": "2025-03-07 20:43:57 +01:00",
+    "name": "07 mars 20.43, Brand, Eskilstuna",
+    "summary": "Anmälan om skadegörelse upprättad efter brand i soprum",
+    "url": "/aktuellt/handelser/2025/mars/7/07-mars-20.43-brand-eskilstuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 573939,
     "datetime": "2025-03-07 19:59:36 +01:00",
     "name": "07 mars 19.47, Misshandel, Malmö",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 573942,
+    "datetime": "2025-03-07 20:35:16 +01:00",
+    "name": "07 mars 16.51, Misshandel, grov, Tyresö",
+    "summary": "Man gripen misstänkt för att ha misshandlat sin fru.",
+    "url": "/aktuellt/handelser/2025/mars/7/07-mars-16.51-misshandel-grov-tyreso/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
+    "id": 573941,
+    "datetime": "2025-03-07 20:29:53 +01:00",
+    "name": "07 mars 20.29, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Viltolyckor anmälda till polisens ledningscentral under kvällen",
+    "url": "/aktuellt/handelser/2025/mars/7/07-mars-20.29-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Karlshamn",
       "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 573093,
-    "datetime": "2025-03-01 6:39:05 +01:00",
-    "name": "01 mars 01.38, Misshandel, grov, Malmö",
-    "summary": "Två män i 25-årsåldenr blir misshandlade på en nattklubb i centrala Malmö.",
-    "url": "/aktuellt/handelser/2025/mars/1/01-mars-01.38-misshandel-grov-malmo/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 573092,
-    "datetime": "2025-03-01 6:35:49 +01:00",
-    "name": "28 februari 22.34, Rattfylleri, Sölvesborg",
-    "summary": "Bil som stoppas",
-    "url": "/aktuellt/handelser/2025/februari/28/28-februari-22.34-rattfylleri-solvesborg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
-    }
-  },
-  {
-    "id": 573091,
-    "datetime": "2025-03-01 6:34:40 +01:00",
-    "name": "28 februari 23.41, Rattfylleri, Malmö",
-    "summary": "Man i 20-årsåldern misstänks för rattfylleri efter kontroll.",
-    "url": "/aktuellt/handelser/2025/februari/28/28-februari-23.41-rattfylleri-malmo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
