@@ -1,14 +1,14 @@
 [
   {
-    "id": 574999,
-    "datetime": "2025-03-14 15:28:12 +01:00",
-    "name": "14 mars 13.21, Trafikolycka, personskada, Sala",
-    "summary": "Flera bilar i krock.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-13.21-trafikolycka-personskada-sala/",
-    "type": "Trafikolycka, personskada",
+    "id": 575012,
+    "datetime": "2025-03-14 16:26:31 +01:00",
+    "name": "14 mars 16.01, Arbetsplatsolycka, Örebro",
+    "summary": "En person har skadat sig under arbete.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-16.01-arbetsplatsolycka-orebro/",
+    "type": "Arbetsplatsolycka",
     "location": {
-      "name": "Sala",
-      "gps": "59.920859,16.606328"
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -24,6 +24,18 @@
     }
   },
   {
+    "id": 575011,
+    "datetime": "2025-03-14 16:13:41 +01:00",
+    "name": "14 mars 15.56, Trafikolycka, Lekeberg",
+    "summary": "En trafikolycka har inträffat på Lv 561 i Fjugesta.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-15.56-trafikolycka-lekeberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lekeberg",
+      "gps": "59.16539,14.743407"
+    }
+  },
+  {
     "id": 574995,
     "datetime": "2025-03-14 15:19:17 +01:00",
     "name": "14 mars 14.58, Misshandel, Helsingborg",
@@ -33,6 +45,42 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 575010,
+    "datetime": "2025-03-14 16:09:35 +01:00",
+    "name": "14 mars 14.21, Djur, Fagersta",
+    "summary": "Hund återlämnades till ägare.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-14.21-djur-fagersta/",
+    "type": "Djur",
+    "location": {
+      "name": "Fagersta",
+      "gps": "59.989144,15.816642"
+    }
+  },
+  {
+    "id": 574999,
+    "datetime": "2025-03-14 15:28:12 +01:00",
+    "name": "14 mars 13.21, Trafikolycka, personskada, Sala",
+    "summary": "Flera bilar i krock.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-13.21-trafikolycka-personskada-sala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
+    }
+  },
+  {
+    "id": 575004,
+    "datetime": "2025-03-14 15:47:50 +01:00",
+    "name": "14 mars 14.01, Fylleri/LOB, Sundsvall",
+    "summary": "Sundsvall, person omhändertagen för fylleri.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-14.01-fyllerilob-sundsvall/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Ånge",
       "gps": "62.522874,15.658942"
-    }
-  },
-  {
-    "id": 573803,
-    "datetime": "2025-03-06 19:55:17 +01:00",
-    "name": "06 mars 19.49, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka mellan en personbil och cyklist, Erikslustvägen.",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-19.49-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 573805,
-    "datetime": "2025-03-06 20:53:52 +01:00",
-    "name": "06 mars 20.51, Rån, Örebro",
-    "summary": "Man gripen efter utfört personrån.",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-20.51-ran-orebro/",
-    "type": "Rån",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 573749,
-    "datetime": "2025-03-06 13:41:40 +01:00",
-    "name": "06 mars 12.32, Vapenlagen, Malmö",
-    "summary": "Kontroll på skola",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-12.32-vapenlagen-malmo/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 573802,
-    "datetime": "2025-03-06 19:45:30 +01:00",
-    "name": "06 mars 18.58, Arbetsplatsolycka, Arvika",
-    "summary": "Polis utreder en arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-18.58-arbetsplatsolycka-arvika/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   }
 ]
