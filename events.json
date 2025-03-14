@@ -1,5 +1,17 @@
 [
   {
+    "id": 575021,
+    "datetime": "2025-03-14 17:57:44 +01:00",
+    "name": "14 mars 17.44, Brand, Hässleholm",
+    "summary": "Larm om brand i byggnad, Hässleholmsvägen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-17.44-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 575019,
     "datetime": "2025-03-14 17:45:30 +01:00",
     "name": "14 mars 17.11, Brand, Örebro",
@@ -12,15 +24,27 @@
     }
   },
   {
-    "id": 575011,
-    "datetime": "2025-03-14 16:13:41 +01:00",
-    "name": "14 mars 15.56, Trafikolycka, Lekeberg",
-    "summary": "En trafikolycka har inträffat på Lv 561 i Fjugesta.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-15.56-trafikolycka-lekeberg/",
+    "id": 575022,
+    "datetime": "2025-03-14 18:21:20 +01:00",
+    "name": "14 mars 17.32, Kontroll person/fordon, Södertälje",
+    "summary": "En hund uppges ha bitit två personer i Saltskog.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-17.32-kontroll-personfordon-sodertalje/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 575024,
+    "datetime": "2025-03-14 18:17:53 +01:00",
+    "name": "14 mars 18.01, Trafikolycka, Höganäs",
+    "summary": "Larm om trafikolycka mellan två cyklister, Fregattvägen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-18.01-trafikolycka-hoganas/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Lekeberg",
-      "gps": "59.16539,14.743407"
+      "name": "Höganäs",
+      "gps": "56.200639,12.555329"
     }
   },
   {
@@ -36,15 +60,15 @@
     }
   },
   {
-    "id": 575017,
-    "datetime": "2025-03-14 17:12:48 +01:00",
-    "name": "14 mars 14.30, Fylleri/LOB, Luleå",
-    "summary": "Luleå, person omhändertagen.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-14.30-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
+    "id": 575023,
+    "datetime": "2025-03-14 18:13:53 +01:00",
+    "name": "14 mars 17.36, Trafikolycka, Alingsås",
+    "summary": "På länsväg 180 har en personbil kört av vägen och, enligt uppgift från SOS Alarm, voltat.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-17.36-trafikolycka-alingsas/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
+      "name": "Alingsås",
+      "gps": "57.930021,12.536211"
     }
   },
   {
@@ -57,6 +81,54 @@
     "location": {
       "name": "Karlshamn",
       "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 575012,
+    "datetime": "2025-03-14 16:26:31 +01:00",
+    "name": "14 mars 16.01, Arbetsplatsolycka, Örebro",
+    "summary": "En person har skadat sig under arbete.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-16.01-arbetsplatsolycka-orebro/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 575020,
+    "datetime": "2025-03-14 17:51:14 +01:00",
+    "name": "14 mars 15.54, Rattfylleri, Sundsvall",
+    "summary": "En bilförare i Sundsvalls kommun misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-15.54-rattfylleri-sundsvall/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 575011,
+    "datetime": "2025-03-14 16:13:41 +01:00",
+    "name": "14 mars 15.56, Trafikolycka, Lekeberg",
+    "summary": "En trafikolycka har inträffat på Lv 561 i Fjugesta.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-15.56-trafikolycka-lekeberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lekeberg",
+      "gps": "59.16539,14.743407"
+    }
+  },
+  {
+    "id": 575017,
+    "datetime": "2025-03-14 17:12:48 +01:00",
+    "name": "14 mars 14.30, Fylleri/LOB, Luleå",
+    "summary": "Luleå, person omhändertagen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-14.30-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -105,18 +177,6 @@
     "location": {
       "name": "Arvika",
       "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 575012,
-    "datetime": "2025-03-14 16:26:31 +01:00",
-    "name": "14 mars 16.01, Arbetsplatsolycka, Örebro",
-    "summary": "En person har skadat sig under arbete.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-16.01-arbetsplatsolycka-orebro/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 573843,
-    "datetime": "2025-03-07 6:39:41 +01:00",
-    "name": "07 mars 01.56, Stöld/inbrott, Kristianstad",
-    "summary": "Två gripna, Tollarp.",
-    "url": "/aktuellt/handelser/2025/mars/7/07-mars-01.56-stoldinbrott-kristianstad/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 573842,
-    "datetime": "2025-03-07 6:35:19 +01:00",
-    "name": "07 mars 01.09, Brand, Malmö",
-    "summary": "Flera bilar skadade i brand, Rosengård.",
-    "url": "/aktuellt/handelser/2025/mars/7/07-mars-01.09-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 573841,
-    "datetime": "2025-03-07 6:31:10 +01:00",
-    "name": "07 mars 06.29, Misshandel, Bromölla",
-    "summary": "Man gripen, Bromölla.",
-    "url": "/aktuellt/handelser/2025/mars/7/07-mars-06.29-misshandel-bromolla/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Bromölla",
-      "gps": "56.074362,14.477659"
-    }
-  },
-  {
-    "id": 573839,
-    "datetime": "2025-03-07 6:28:50 +01:00",
-    "name": "06 mars 23.08, Brand, Hässleholm",
-    "summary": "Bilbrand, Tyringe.",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-23.08-brand-hassleholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 573838,
-    "datetime": "2025-03-07 6:27:04 +01:00",
-    "name": "06 mars 22.31, Stöld/inbrott, Malmö",
-    "summary": "Inbrott på mäklarfirma, centrum.",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-22.31-stoldinbrott-malmo/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
