@@ -1,5 +1,17 @@
 [
   {
+    "id": 575021,
+    "datetime": "2025-03-14 17:57:44 +01:00",
+    "name": "14 mars 17.44, Brand, Hässleholm",
+    "summary": "Larm om brand i byggnad, Hässleholmsvägen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-17.44-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 575034,
     "datetime": "2025-03-14 19:44:44 +01:00",
     "name": "14 mars 19.27, Trafikolycka, Hylte",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Hylte",
       "gps": "56.977313,13.338766"
+    }
+  },
+  {
+    "id": 575035,
+    "datetime": "2025-03-14 19:57:45 +01:00",
+    "name": "14 mars 19.36, Rattfylleri, Kalmar",
+    "summary": "Misstänkt påverkad förare på Dragonvägen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-19.36-rattfylleri-kalmar/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 575032,
+    "datetime": "2025-03-14 19:29:52 +01:00",
+    "name": "14 mars 18.58, Trafikolycka, Hallsberg",
+    "summary": "Singelolycka på Rv 51 strax söder om Pålsboda.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-18.58-trafikolycka-hallsberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
     }
   },
   {
@@ -33,18 +69,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 575032,
-    "datetime": "2025-03-14 19:29:52 +01:00",
-    "name": "14 mars 18.58, Trafikolycka, Hallsberg",
-    "summary": "Singelolycka på Rv 51 strax söder om Pålsboda.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-18.58-trafikolycka-hallsberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hallsberg",
-      "gps": "59.066532,15.10229"
     }
   },
   {
@@ -129,18 +153,6 @@
     "location": {
       "name": "Härjedalen",
       "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 575021,
-    "datetime": "2025-03-14 17:57:44 +01:00",
-    "name": "14 mars 17.44, Brand, Hässleholm",
-    "summary": "Larm om brand i byggnad, Hässleholmsvägen.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-17.44-brand-hassleholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 573849,
-    "datetime": "2025-03-07 7:26:54 +01:00",
-    "name": "07 mars 07.26, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/mars/7/07-mars-07.26-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
