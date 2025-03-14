@@ -1,5 +1,29 @@
 [
   {
+    "id": 575018,
+    "datetime": "2025-03-14 17:28:19 +01:00",
+    "name": "14 mars 16.24, Trafikolycka, Strömstad",
+    "summary": "På länsväg 176, mellan Strömstad och E6, är fyra fordon inblandade i en olycka. Ingen person ska ha kommit til",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-16.24-trafikolycka-stromstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strömstad",
+      "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 575017,
+    "datetime": "2025-03-14 17:12:48 +01:00",
+    "name": "14 mars 14.30, Fylleri/LOB, Luleå",
+    "summary": "Luleå, person omhändertagen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-14.30-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 575014,
     "datetime": "2025-03-14 16:42:26 +01:00",
     "name": "14 mars 16.27, Trafikolycka, Karlshamn",
@@ -12,18 +36,6 @@
     }
   },
   {
-    "id": 574990,
-    "datetime": "2025-03-14 14:41:06 +01:00",
-    "name": "14 mars 14.33, Trafikolycka, Arvika",
-    "summary": "En lastbil och bilist har kolliderat i låg hastighet i Arvika.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-14.33-trafikolycka-arvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
-    }
-  },
-  {
     "id": 575013,
     "datetime": "2025-03-14 16:35:56 +01:00",
     "name": "14 mars 14.53, Knivlagen, Båstad",
@@ -33,6 +45,42 @@
     "location": {
       "name": "Båstad",
       "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 575016,
+    "datetime": "2025-03-14 17:03:16 +01:00",
+    "name": "14 mars 12.34, Rattfylleri, Gällivare",
+    "summary": "Gällivare, förare misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-12.34-rattfylleri-gallivare/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 575015,
+    "datetime": "2025-03-14 16:59:07 +01:00",
+    "name": "14 mars 15.34, Stöld, Östersund",
+    "summary": "Östersund, ringa stöld i matbutik.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-15.34-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 574990,
+    "datetime": "2025-03-14 14:41:06 +01:00",
+    "name": "14 mars 14.33, Trafikolycka, Arvika",
+    "summary": "En lastbil och bilist har kolliderat i låg hastighet i Arvika.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-14.33-trafikolycka-arvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 573812,
-    "datetime": "2025-03-06 21:49:31 +01:00",
-    "name": "06 mars 21.50, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-21.50-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 573811,
-    "datetime": "2025-03-06 21:29:07 +01:00",
-    "name": "06 mars 18.01, Rattfylleri, Borlänge",
-    "summary": "Misstänkt påverkad bilist stoppad i Borlänge.",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-18.01-rattfylleri-borlange/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 573809,
-    "datetime": "2025-03-06 21:02:14 +01:00",
-    "name": "06 mars 18.44, Skadegörelse, Kalmar",
-    "summary": "Misstänkt skadegörelse på fönsterrutor, Trädgårdsgatan.",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-18.44-skadegorelse-kalmar/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 573808,
-    "datetime": "2025-03-06 20:58:49 +01:00",
-    "name": "06 mars 20.10, Trafikbrott, Sundsvall",
-    "summary": "Sundsvall, en ordningsbot utfärdas till förare i Stenstan.",
-    "url": "/aktuellt/handelser/2025/mars/6/06-mars-20.10-trafikbrott-sundsvall/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
