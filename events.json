@@ -1,14 +1,38 @@
 [
   {
-    "id": 575045,
-    "datetime": "2025-03-14 21:22:09 +01:00",
-    "name": "14 mars 21.20, Ofredande/förargelse, Norrköping",
-    "summary": "Flera polispatruller är på plats i Rambodal efter ett larm om ett misstänkt ofredande.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-21.20-ofredandeforargelse-norrkoping/",
-    "type": "Ofredande/förargelse",
+    "id": 575034,
+    "datetime": "2025-03-14 19:44:44 +01:00",
+    "name": "14 mars 19.27, Trafikolycka, Hylte",
+    "summary": "En singelolycka har inträffat på riksväg 26, i höjd med Rydöbruk. Det uppges vara mycket halt på platsen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-19.27-trafikolycka-hylte/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
+      "name": "Hylte",
+      "gps": "56.977313,13.338766"
+    }
+  },
+  {
+    "id": 575035,
+    "datetime": "2025-03-14 19:57:45 +01:00",
+    "name": "14 mars 19.36, Rattfylleri, Kalmar",
+    "summary": "Misstänkt påverkad förare på Dragonvägen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-19.36-rattfylleri-kalmar/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 575021,
+    "datetime": "2025-03-14 17:57:44 +01:00",
+    "name": "14 mars 17.44, Brand, Hässleholm",
+    "summary": "Larm om brand i byggnad, Hässleholmsvägen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-17.44-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
     }
   },
   {
@@ -21,6 +45,54 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 575048,
+    "datetime": "2025-03-14 21:36:20 +01:00",
+    "name": "14 mars 20.50, Fylleri/LOB, Östersund",
+    "summary": "Östersund, person omhändertagen.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-20.50-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 575047,
+    "datetime": "2025-03-14 21:35:05 +01:00",
+    "name": "14 mars 20.28, Fylleri/LOB, Sandviken",
+    "summary": "Man gick på E16.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-20.28-fyllerilob-sandviken/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 575046,
+    "datetime": "2025-03-14 21:34:08 +01:00",
+    "name": "14 mars 18.46, Rattfylleri, Umeå",
+    "summary": "Umeå, förare misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-18.46-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 575045,
+    "datetime": "2025-03-14 21:22:09 +01:00",
+    "name": "14 mars 21.20, Ofredande/förargelse, Norrköping",
+    "summary": "Flera polispatruller är på plats i Rambodal efter ett larm om ett misstänkt ofredande.",
+    "url": "/aktuellt/handelser/2025/mars/14/14-mars-21.20-ofredandeforargelse-norrkoping/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -117,42 +189,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 575021,
-    "datetime": "2025-03-14 17:57:44 +01:00",
-    "name": "14 mars 17.44, Brand, Hässleholm",
-    "summary": "Larm om brand i byggnad, Hässleholmsvägen.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-17.44-brand-hassleholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 575034,
-    "datetime": "2025-03-14 19:44:44 +01:00",
-    "name": "14 mars 19.27, Trafikolycka, Hylte",
-    "summary": "En singelolycka har inträffat på riksväg 26, i höjd med Rydöbruk. Det uppges vara mycket halt på platsen.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-19.27-trafikolycka-hylte/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hylte",
-      "gps": "56.977313,13.338766"
-    }
-  },
-  {
-    "id": 575035,
-    "datetime": "2025-03-14 19:57:45 +01:00",
-    "name": "14 mars 19.36, Rattfylleri, Kalmar",
-    "summary": "Misstänkt påverkad förare på Dragonvägen.",
-    "url": "/aktuellt/handelser/2025/mars/14/14-mars-19.36-rattfylleri-kalmar/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 573870,
-    "datetime": "2025-03-07 10:00:29 +01:00",
-    "name": "07 mars 09.53, Trafikolycka, Kristianstad",
-    "summary": "Olycka på övergångsställe, Östra Kasern.",
-    "url": "/aktuellt/handelser/2025/mars/7/07-mars-09.53-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 573879,
-    "datetime": "2025-03-07 11:06:59 +01:00",
-    "name": "07 mars 11.00, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/mars/7/07-mars-11.00-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 573873,
-    "datetime": "2025-03-07 10:33:01 +01:00",
-    "name": "07 mars 09.36, Trafikbrott, Borås",
-    "summary": "Polisen får samtal om en bil som framförs vårdslöst och över hastighetsbegränsningen på riksväg 40 genom Borås",
-    "url": "/aktuellt/handelser/2025/mars/7/07-mars-09.36-trafikbrott-boras/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
