@@ -1,5 +1,65 @@
 [
   {
+    "id": 575125,
+    "datetime": "2025-03-15 17:25:17 +01:00",
+    "name": "15 mars 15.31, Misshandel, Stockholm",
+    "summary": "En kvinna blir slagen av en för henne okänd man i Rågsved.",
+    "url": "/aktuellt/handelser/2025/mars/15/15-mars-15.31-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 575120,
+    "datetime": "2025-03-15 17:18:18 +01:00",
+    "name": "15 mars 15.47, Knivlagen, Göteborg",
+    "summary": "Ett vittne ser en man vid Mariaplan som slår på stolpar med ett tillhygge. Mannen upplevs som påverkad.",
+    "url": "/aktuellt/handelser/2025/mars/15/15-mars-15.47-knivlagen-goteborg/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 575124,
+    "datetime": "2025-03-15 16:59:38 +01:00",
+    "name": "15 mars 14.38, Knivlagen, Västerås",
+    "summary": "Två personer misstänkta för brott mot knivlagen.",
+    "url": "/aktuellt/handelser/2025/mars/15/15-mars-14.38-knivlagen-vasteras/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 575123,
+    "datetime": "2025-03-15 16:54:25 +01:00",
+    "name": "15 mars 14.00, Stöld, Partille",
+    "summary": "En man misstänks ha stulit ett flertal maskiner från en bygghandel i Partille.",
+    "url": "/aktuellt/handelser/2025/mars/15/15-mars-14.00-stold-partille/",
+    "type": "Stöld",
+    "location": {
+      "name": "Partille",
+      "gps": "57.73665,12.125197"
+    }
+  },
+  {
+    "id": 575122,
+    "datetime": "2025-03-15 16:53:49 +01:00",
+    "name": "15 mars 13.18, Bedrägeri, Surahammar",
+    "summary": "Äldre kvinna utsatt för bedrägeri.",
+    "url": "/aktuellt/handelser/2025/mars/15/15-mars-13.18-bedrageri-surahammar/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Surahammar",
+      "gps": "59.707226,16.226841"
+    }
+  },
+  {
     "id": 575121,
     "datetime": "2025-03-15 16:36:03 +01:00",
     "name": "15 mars 16.17, Trafikolycka, Kristianstad",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Munkedal",
       "gps": "58.471505,11.680192"
-    }
-  },
-  {
-    "id": 573972,
-    "datetime": "2025-03-08 8:31:36 +01:00",
-    "name": "08 mars 05.18, Brand, Vänersborg",
-    "summary": "SOS larmas om en brand i ett utrymme vid en bostadsfastighet på Residensgatan.",
-    "url": "/aktuellt/handelser/2025/mars/8/08-mars-05.18-brand-vanersborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 573971,
-    "datetime": "2025-03-08 8:30:39 +01:00",
-    "name": "08 mars 01.04, Misshandel, Gotland",
-    "summary": "Polisens ledningscentral får in samtal om att en man slagit en närstående kvinna i en lägenhet i Visby.",
-    "url": "/aktuellt/handelser/2025/mars/8/08-mars-01.04-misshandel-gotland/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Gotland",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 573970,
-    "datetime": "2025-03-08 8:10:03 +01:00",
-    "name": "08 mars 08.00, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/mars/8/08-mars-08.00-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 573969,
-    "datetime": "2025-03-08 7:56:24 +01:00",
-    "name": "08 mars 07.32, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/mars/8/08-mars-07.32-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 573968,
-    "datetime": "2025-03-08 7:52:57 +01:00",
-    "name": "08 mars 07.51, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en polisiärt sett lugn natt i Värmland.",
-    "url": "/aktuellt/handelser/2025/mars/8/08-mars-07.51-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
