@@ -1,5 +1,53 @@
 [
   {
+    "id": 575175,
+    "datetime": "2025-03-16 13:46:06 +01:00",
+    "name": "16 mars 13.33, Trafikolycka, Malmö",
+    "summary": "Kollision mellan personbil och elsparcykel.",
+    "url": "/aktuellt/handelser/2025/mars/16/16-mars-13.33-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 575174,
+    "datetime": "2025-03-16 13:39:31 +01:00",
+    "name": "15 mars 17.31, Misshandel, grov, Västerås",
+    "summary": "Tre anhållna efter grov misshandel.",
+    "url": "/aktuellt/handelser/2025/mars/15/15-mars-17.31-misshandel-grov-vasteras/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 575169,
+    "datetime": "2025-03-16 13:27:15 +01:00",
+    "name": "16 mars 13.04, Explosion, Tyresö",
+    "summary": "Explosion vid bostadshus i Tyresö.",
+    "url": "/aktuellt/handelser/2025/mars/16/16-mars-13.04-explosion-tyreso/",
+    "type": "Explosion",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
+    "id": 575173,
+    "datetime": "2025-03-16 13:22:45 +01:00",
+    "name": "16 mars 13.22, Stöld/inbrott, Eskilstuna",
+    "summary": "Inbrott i företagsbil vid Kvartsgången.",
+    "url": "/aktuellt/handelser/2025/mars/16/16-mars-13.22-stoldinbrott-eskilstuna/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 575167,
     "datetime": "2025-03-16 12:43:31 +01:00",
     "name": "16 mars 12.32, Trafikolycka, Sollentuna",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Sollentuna",
       "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 575168,
+    "datetime": "2025-03-16 12:50:46 +01:00",
+    "name": "16 mars 11.00, Brand, Gävle",
+    "summary": "Man greps efter larm om brand.",
+    "url": "/aktuellt/handelser/2025/mars/16/16-mars-11.00-brand-gavle/",
+    "type": "Brand",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 574027,
-    "datetime": "2025-03-09 7:09:16 +01:00",
-    "name": "09 mars 05.40, Brand, Växjö",
-    "summary": "Brand i garage, Danneborg.",
-    "url": "/aktuellt/handelser/2025/mars/9/09-mars-05.40-brand-vaxjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 574026,
-    "datetime": "2025-03-09 7:09:06 +01:00",
-    "name": "08 mars 22.22, Explosion, Göteborg",
-    "summary": "Flera larmsamtal inkommer med uppgifter om en hög smäll vid Friskväderstorget.",
-    "url": "/aktuellt/handelser/2025/mars/8/08-mars-22.22-explosion-goteborg/",
-    "type": "Explosion",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 574025,
-    "datetime": "2025-03-09 7:06:43 +01:00",
-    "name": "09 mars 07.05, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/mars/9/09-mars-07.05-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 574022,
-    "datetime": "2025-03-09 7:06:10 +01:00",
-    "name": "09 mars 02.48, Arbetsplatsolycka, Helsingborg",
-    "summary": "Man till sjukhus efter olycka på båt, Helsingborgs hamn.",
-    "url": "/aktuellt/handelser/2025/mars/9/09-mars-02.48-arbetsplatsolycka-helsingborg/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 574020,
-    "datetime": "2025-03-09 7:05:29 +01:00",
-    "name": "09 mars 07.01, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/mars/9/09-mars-07.01-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
