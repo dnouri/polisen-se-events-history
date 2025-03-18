@@ -1,5 +1,89 @@
 [
   {
+    "id": 575505,
+    "datetime": "2025-03-18 20:46:42 +01:00",
+    "name": "18 mars 20.02, Trafikolycka, Torsby",
+    "summary": "En bilist har varit inblandad i en singelolycka",
+    "url": "/aktuellt/handelser/2025/mars/18/18-mars-20.02-trafikolycka-torsby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 575496,
+    "datetime": "2025-03-18 19:41:46 +01:00",
+    "name": "18 mars 19.41, Brand, Kil",
+    "summary": "Polis är på väg till en befarad lägenhetsbrand",
+    "url": "/aktuellt/handelser/2025/mars/18/18-mars-19.41-brand-kil/",
+    "type": "Brand",
+    "location": {
+      "name": "Kil",
+      "gps": "59.50368,13.317048"
+    }
+  },
+  {
+    "id": 575509,
+    "datetime": "2025-03-18 21:05:58 +01:00",
+    "name": "18 mars 20.04, Trafikbrott, Östersund",
+    "summary": "Länsväg 796, Lit. Polisen kontrollerar en personbil.",
+    "url": "/aktuellt/handelser/2025/mars/18/18-mars-20.04-trafikbrott-ostersund/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 575508,
+    "datetime": "2025-03-18 20:55:55 +01:00",
+    "name": "18 mars 18.12, Skadegörelse, Robertsfors",
+    "summary": "Tätorten, polisen kontaktas angående en man som bankar på dörrar och fönster till ett flerfamiljshus.",
+    "url": "/aktuellt/handelser/2025/mars/18/18-mars-18.12-skadegorelse-robertsfors/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 575507,
+    "datetime": "2025-03-18 20:51:50 +01:00",
+    "name": "18 mars 20.25, Övrigt, Stockholm",
+    "summary": "Smällar i Bagarmossen bedöms komma från fyrverkerier.",
+    "url": "/aktuellt/handelser/2025/mars/18/18-mars-20.25-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 575506,
+    "datetime": "2025-03-18 20:47:26 +01:00",
+    "name": "18 mars 17.19, Narkotikabrott, Skellefteå",
+    "summary": "Centrum, polisen kontrollerar två tonårspojkar under 18 år.",
+    "url": "/aktuellt/handelser/2025/mars/18/18-mars-17.19-narkotikabrott-skelleftea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 575497,
+    "datetime": "2025-03-18 19:47:39 +01:00",
+    "name": "18 mars 19.21, Trafikolycka, Göteborg",
+    "summary": "Personbil och skateboardåkare i kollision.",
+    "url": "/aktuellt/handelser/2025/mars/18/18-mars-19.21-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 575498,
     "datetime": "2025-03-18 19:55:19 +01:00",
     "name": "18 mars 19.35, Inbrott, Ystad",
@@ -57,30 +141,6 @@
     "location": {
       "name": "Kungälv",
       "gps": "57.869754,11.974032"
-    }
-  },
-  {
-    "id": 575496,
-    "datetime": "2025-03-18 19:41:46 +01:00",
-    "name": "18 mars 19.41, Brand, Kil",
-    "summary": "Polis är på väg till en befarad lägenhetsbrand",
-    "url": "/aktuellt/handelser/2025/mars/18/18-mars-19.41-brand-kil/",
-    "type": "Brand",
-    "location": {
-      "name": "Kil",
-      "gps": "59.50368,13.317048"
-    }
-  },
-  {
-    "id": 575497,
-    "datetime": "2025-03-18 19:47:39 +01:00",
-    "name": "18 mars 19.21, Trafikolycka, Göteborg",
-    "summary": "Personbil och skateboardåkare i kollision.",
-    "url": "/aktuellt/handelser/2025/mars/18/18-mars-19.21-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 574710,
-    "datetime": "2025-03-12 18:51:16 +01:00",
-    "name": "12 mars 17.44, Stöld, Gagnef",
-    "summary": "Fräck stöld hemma hos äldre personer boende i en ort i Gagnef kommun..",
-    "url": "/aktuellt/handelser/2025/mars/12/12-mars-17.44-stold-gagnef/",
-    "type": "Stöld",
-    "location": {
-      "name": "Gagnef",
-      "gps": "60.590983,15.070049"
-    }
-  },
-  {
-    "id": 574709,
-    "datetime": "2025-03-12 18:45:13 +01:00",
-    "name": "12 mars 17.21, Farligt föremål, misstänkt, Upplands-bro",
-    "summary": "Föremål i trapphus i Kungsängen var ofarligt",
-    "url": "/aktuellt/handelser/2025/mars/12/12-mars-17.21-farligt-foremal-misstankt-upplands-bro/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Upplands-bro",
-      "gps": "59.49068,17.752277"
-    }
-  },
-  {
-    "id": 574708,
-    "datetime": "2025-03-12 18:23:36 +01:00",
-    "name": "12 mars 17.20, Trafikolycka, personskada, Gävle",
-    "summary": "Fyra personer till sjukhus efter trafikolycka.",
-    "url": "/aktuellt/handelser/2025/mars/12/12-mars-17.20-trafikolycka-personskada-gavle/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 574704,
-    "datetime": "2025-03-12 17:30:41 +01:00",
-    "name": "12 mars 17.23, Trafikolycka, singel, Ludvika",
-    "summary": "En personbil dikeskörd utefter Rv50 vid Björklunda, söder om Ludvika",
-    "url": "/aktuellt/handelser/2025/mars/12/12-mars-17.23-trafikolycka-singel-ludvika/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 574694,
-    "datetime": "2025-03-12 15:33:12 +01:00",
-    "name": "12 mars 14.20, Trafikolycka, personskada, Härryda",
-    "summary": "En trafikolycka har inträffat mellan en personbil och ett tåg.",
-    "url": "/aktuellt/handelser/2025/mars/12/12-mars-14.20-trafikolycka-personskada-harryda/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Härryda",
-      "gps": "57.691744,12.294416"
     }
   }
 ]
