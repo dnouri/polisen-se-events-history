@@ -1,5 +1,89 @@
 [
   {
+    "id": 575601,
+    "datetime": "2025-03-19 14:56:51 +01:00",
+    "name": "19 mars 14.47, Brand, Landskrona",
+    "summary": "Larm om brand i villa, Saxtorpsskogen.",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-14.47-brand-landskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 575608,
+    "datetime": "2025-03-19 15:21:35 +01:00",
+    "name": "19 mars 14.41, Brand, Säffle",
+    "summary": "Polisen är på plats i Säffle med anledning av det varit en brand i en fastighet.",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-14.41-brand-saffle/",
+    "type": "Brand",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 575607,
+    "datetime": "2025-03-19 15:18:01 +01:00",
+    "name": "19 mars 14.54, Trafikolycka, Nora",
+    "summary": "Polisen är på väg till en trafikolycka i Nora.",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-14.54-trafikolycka-nora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nora",
+      "gps": "59.519206,15.037867"
+    }
+  },
+  {
+    "id": 575603,
+    "datetime": "2025-03-19 15:01:47 +01:00",
+    "name": "19 mars 14.07, Fylleri/LOB, Luleå",
+    "summary": "Luleå, person omhändertagen.",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-14.07-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 575571,
+    "datetime": "2025-03-19 10:34:25 +01:00",
+    "name": "19 mars 09.24, Anträffad död, Varberg",
+    "summary": "En person har hittats avliden utomhus i centrala Varberg.",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-09.24-antraffad-dod-varberg/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 575600,
+    "datetime": "2025-03-19 14:56:36 +01:00",
+    "name": "19 mars 14.55, Trafikolycka, Gislaved",
+    "summary": "Släp välte i Smålandsstenar.",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-14.55-trafikolycka-gislaved/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gislaved",
+      "gps": "57.2985,13.54326"
+    }
+  },
+  {
+    "id": 575599,
+    "datetime": "2025-03-19 14:52:54 +01:00",
+    "name": "19 mars 14.43, Misshandel, Malmö",
+    "summary": "Butiksanställd slagen av kund, Södra Förstadsgatan.",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-14.43-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 575586,
     "datetime": "2025-03-19 12:46:23 +01:00",
     "name": "19 mars 12.23, Trafikolycka, Ystad",
@@ -141,18 +225,6 @@
     "location": {
       "name": "Finspång",
       "gps": "58.707488,15.773595"
-    }
-  },
-  {
-    "id": 575571,
-    "datetime": "2025-03-19 10:34:25 +01:00",
-    "name": "19 mars 09.24, Anträffad död, Varberg",
-    "summary": "En person har hittats avliden utomhus i centrala Varberg.",
-    "url": "/aktuellt/handelser/2025/mars/19/19-mars-09.24-antraffad-dod-varberg/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Varberg",
-      "gps": "57.107118,12.252091"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Trollhättan",
       "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 574761,
-    "datetime": "2025-03-13 9:05:26 +01:00",
-    "name": "13 mars 07.45, Försvunnen person, Tomelilla",
-    "summary": "Polis söker efter en försvunnen kvinna i Tomelilla.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-07.45-forsvunnen-person-tomelilla/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Tomelilla",
-      "gps": "55.54355,13.95484"
-    }
-  },
-  {
-    "id": 574764,
-    "datetime": "2025-03-13 9:22:33 +01:00",
-    "name": "13 mars 09.00, Stöld/inbrott, Uppsala",
-    "summary": "Två företagsfordon har under natten utsatts för inbrottsstölder på Fyrislundsgatan i Fyrislund.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-09.00-stoldinbrott-uppsala/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 574757,
-    "datetime": "2025-03-13 8:49:46 +01:00",
-    "name": "13 mars 08.47, Trafikolycka, Norrköping",
-    "summary": "Singelolycka på E22.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-08.47-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 574763,
-    "datetime": "2025-03-13 9:17:12 +01:00",
-    "name": "13 mars 08.23, Trafikbrott, Örebro",
-    "summary": "Bilist rapporterad för att ej ha iakttagit väjningsplikt.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-08.23-trafikbrott-orebro/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 574762,
-    "datetime": "2025-03-13 9:09:36 +01:00",
-    "name": "13 mars 09.04, Trafikolycka, Örebro",
-    "summary": "Två trafikanter inblandade i en trafikolycka på E 18.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-09.04-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 574748,
-    "datetime": "2025-03-13 7:48:22 +01:00",
-    "name": "13 mars 07.39, Trafikolycka, Örebro",
-    "summary": "Två bilister i kollision vid trafikplats Slyte (118).",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-07.39-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
