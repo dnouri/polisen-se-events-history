@@ -1,5 +1,125 @@
 [
   {
+    "id": 575640,
+    "datetime": "2025-03-19 21:14:01 +01:00",
+    "name": "19 mars 20.30, Mord/dråp, försök, Haninge",
+    "summary": "Polis kallas till ett flerfamiljshus i Brandbergen med anledning någon skjutit mot en lägenhetsdörr med ett sk",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-20.30-morddrap-forsok-haninge/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 575665,
+    "datetime": "2025-03-20 7:29:01 +01:00",
+    "name": "20 mars 07.18, Trafikolycka, Malmö",
+    "summary": "Påkörd person i korsningen Västra Hindbyvägen och Ystadsvägen.",
+    "url": "/aktuellt/handelser/2025/mars/20/20-mars-07.18-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 575664,
+    "datetime": "2025-03-20 7:28:27 +01:00",
+    "name": "19 mars 21.07, Trafikbrott, Bollnäs",
+    "summary": "Bilist fick ordningsbot.",
+    "url": "/aktuellt/handelser/2025/mars/19/19-mars-21.07-trafikbrott-bollnas/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Bollnäs",
+      "gps": "61.34838,16.394269"
+    }
+  },
+  {
+    "id": 575663,
+    "datetime": "2025-03-20 7:20:25 +01:00",
+    "name": "20 mars 04.13, Trafikbrott, Botkyrka",
+    "summary": "En bilist kontrollerades i Tumba och en anmälan upprättas om grov olovlig körning.",
+    "url": "/aktuellt/handelser/2025/mars/20/20-mars-04.13-trafikbrott-botkyrka/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 575661,
+    "datetime": "2025-03-20 7:18:51 +01:00",
+    "name": "20 mars 02.43, Stöld, Stockholm",
+    "summary": "En polispatrull kontrollerar en man på Södermalm och skriver en anmälan om misstanke om stöld av cykel samt na",
+    "url": "/aktuellt/handelser/2025/mars/20/20-mars-02.43-stold-stockholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 575660,
+    "datetime": "2025-03-20 7:15:02 +01:00",
+    "name": "20 mars 00.59, Stöld, Sandviken",
+    "summary": "Väktare larmade polisen.",
+    "url": "/aktuellt/handelser/2025/mars/20/20-mars-00.59-stold-sandviken/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 575656,
+    "datetime": "2025-03-20 7:13:11 +01:00",
+    "name": "20 mars 07.13, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2025/mars/20/20-mars-07.13-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 575657,
+    "datetime": "2025-03-20 7:12:41 +01:00",
+    "name": "20 mars 07.12, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2025/mars/20/20-mars-07.12-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 575658,
+    "datetime": "2025-03-20 7:12:24 +01:00",
+    "name": "20 mars 07.12, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2025/mars/20/20-mars-07.12-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 575659,
+    "datetime": "2025-03-20 7:11:55 +01:00",
+    "name": "20 mars 07.11, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2025/mars/20/20-mars-07.11-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 575654,
     "datetime": "2025-03-20 6:42:22 +01:00",
     "name": "20 mars 00.01, Arbetsplatsolycka, Ängelholm",
@@ -105,18 +225,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 575640,
-    "datetime": "2025-03-19 21:14:01 +01:00",
-    "name": "19 mars 20.30, Mord/dråp, försök, Haninge",
-    "summary": "Polis kallas till ett flerfamiljshus i Brandbergen med anledning någon skjutit mot en lägenhetsdörr med ett sk",
-    "url": "/aktuellt/handelser/2025/mars/19/19-mars-20.30-morddrap-forsok-haninge/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 574880,
-    "datetime": "2025-03-13 20:25:24 +01:00",
-    "name": "13 mars 15.49, Trafikolycka, Ljungby",
-    "summary": "Larm om trafikolycka på riksväg 25 strax väster om Ryssby.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-15.49-trafikolycka-ljungby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 574890,
-    "datetime": "2025-03-13 20:23:36 +01:00",
-    "name": "13 mars 19.52, Misshandel, Karlskrona",
-    "summary": "Man gripen för misshandel i nära relation.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-19.52-misshandel-karlskrona/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 574886,
-    "datetime": "2025-03-13 19:38:44 +01:00",
-    "name": "13 mars 19.38, Övrigt, Nyköping",
-    "summary": "Larm om hög smäll i Stenkulla.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-19.38-ovrigt-nykoping/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 574840,
-    "datetime": "2025-03-13 18:31:30 +01:00",
-    "name": "13 mars 18.21, Trafikolycka, Degerfors",
-    "summary": "Polis är på väg till en trafikolycka på länsväg 205",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-18.21-trafikolycka-degerfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Degerfors",
-      "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 574885,
-    "datetime": "2025-03-13 19:35:23 +01:00",
-    "name": "13 mars 17.00, Arbetsplatsolycka, Skellefteå",
-    "summary": "Polispatrull beordras till Kåge där en man uppges ha skadats i samband med arbete.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-17.00-arbetsplatsolycka-skelleftea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 574883,
-    "datetime": "2025-03-13 19:12:49 +01:00",
-    "name": "13 mars 16.58, Brand, Tierp",
-    "summary": "Brand i lastbilssläp.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-16.58-brand-tierp/",
-    "type": "Brand",
-    "location": {
-      "name": "Tierp",
-      "gps": "60.347587,17.520509"
-    }
-  },
-  {
-    "id": 574882,
-    "datetime": "2025-03-13 19:08:03 +01:00",
-    "name": "13 mars 15.20, Stöld, Sundbyberg",
-    "summary": "Äldre kvinna utsatt för grov stöld.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-15.20-stold-sundbyberg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sundbyberg",
-      "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 574881,
-    "datetime": "2025-03-13 19:07:07 +01:00",
-    "name": "13 mars 16.58, Knivlagen, Västerås",
-    "summary": "Kvinna misstänks för brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-16.58-knivlagen-vasteras/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 574879,
-    "datetime": "2025-03-13 19:00:03 +01:00",
-    "name": "13 mars 17.56, Bedrägeri, Kalmar",
-    "summary": "Kvinna som blivit av med pengar",
-    "url": "/aktuellt/handelser/2025/mars/13/13-mars-17.56-bedrageri-kalmar/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   }
 ]
