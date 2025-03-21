@@ -1,5 +1,41 @@
 [
   {
+    "id": 575912,
+    "datetime": "2025-03-21 21:19:18 +01:00",
+    "name": "21 mars 21.07, Farligt föremål, misstänkt, Burlöv",
+    "summary": "Misstänkt farligt föremål, Burlöv.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-21.07-farligt-foremal-misstankt-burlov/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 575911,
+    "datetime": "2025-03-21 21:07:32 +01:00",
+    "name": "21 mars 18.47, Rån, Luleå",
+    "summary": "Person gripen misstänkt för försök till grovt rån.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-18.47-ran-lulea/",
+    "type": "Rån",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 575910,
+    "datetime": "2025-03-21 21:01:46 +01:00",
+    "name": "21 mars 16.58, Trafikolycka, Kalix",
+    "summary": "En till sjukvård efter olycka med skoter.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-16.58-trafikolycka-kalix/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
     "id": 575906,
     "datetime": "2025-03-21 20:36:40 +01:00",
     "name": "21 mars 19.26, Misshandel, Munkedal",
@@ -9,6 +45,54 @@
     "location": {
       "name": "Munkedal",
       "gps": "58.471505,11.680192"
+    }
+  },
+  {
+    "id": 575893,
+    "datetime": "2025-03-21 19:22:38 +01:00",
+    "name": "21 mars 16.56, Försvunnen person, Malmö",
+    "summary": "Försvunnen kvinna, Lindeborg.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-16.56-forsvunnen-person-malmo/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 575900,
+    "datetime": "2025-03-21 20:50:55 +01:00",
+    "name": "21 mars 14.05, Rån, Stockholm",
+    "summary": "Personrån i Tensta.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-14.05-ran-stockholm/",
+    "type": "Rån",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 575903,
+    "datetime": "2025-03-21 20:50:51 +01:00",
+    "name": "21 mars 17.52, Misshandel, Salem",
+    "summary": "Upphittade klädesplagg gör att polisen skriver en anmälan om misshandel.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-17.52-misshandel-salem/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Salem",
+      "gps": "59.20768,17.774222"
+    }
+  },
+  {
+    "id": 575907,
+    "datetime": "2025-03-21 20:50:47 +01:00",
+    "name": "21 mars 16.47, Misshandel, grov, Järfälla",
+    "summary": "Svårt misshandlad man anträffas inomhus.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-16.47-misshandel-grov-jarfalla/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
     }
   },
   {
@@ -129,18 +213,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 575893,
-    "datetime": "2025-03-21 19:22:38 +01:00",
-    "name": "21 mars 16.56, Försvunnen person, Malmö",
-    "summary": "Försvunnen kvinna, Lindeborg.",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-16.56-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 575101,
-    "datetime": "2025-03-15 13:35:01 +01:00",
-    "name": "15 mars 13.34, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-13.34-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 575106,
-    "datetime": "2025-03-15 13:31:23 +01:00",
-    "name": "15 mars 11.31, Räddningsinsats, Skövde",
-    "summary": "Ett mindre flygplan har av okänd anledning hamnat bredvid landningsbanan på Skövde flygplats.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-11.31-raddningsinsats-skovde/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Skövde",
-      "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 575110,
-    "datetime": "2025-03-15 13:22:52 +01:00",
-    "name": "15 mars 11.30, Rattfylleri, Orsa",
-    "summary": "En kvinna i sextioårsåldern misstänks för rattfylleri efter att ha blåst positivt i sållningsinstrument.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-11.30-rattfylleri-orsa/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
-    }
-  },
-  {
-    "id": 575109,
-    "datetime": "2025-03-15 13:19:31 +01:00",
-    "name": "15 mars 10.28, Trafikbrott, Hallsberg",
-    "summary": "En man i fyrtioårsåldern misstänks för grov olovlig körning och brott mot knivlagen.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-10.28-trafikbrott-hallsberg/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Hallsberg",
-      "gps": "59.066532,15.10229"
-    }
-  },
-  {
-    "id": 575108,
-    "datetime": "2025-03-15 13:18:17 +01:00",
-    "name": "15 mars 12.53, Trafikolycka, Ängelholm",
-    "summary": "Personbilar i kollision söder om Rössjön.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-12.53-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 575104,
-    "datetime": "2025-03-15 13:06:50 +01:00",
-    "name": "15 mars 12.40, Övrigt, Göteborg",
-    "summary": "Polisen vädjar om tips efter ytterligare ett misstänkt farligt föremål i Partille.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-12.40-ovrigt-goteborg/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
