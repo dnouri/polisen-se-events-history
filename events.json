@@ -1,5 +1,17 @@
 [
   {
+    "id": 575914,
+    "datetime": "2025-03-21 22:19:43 +01:00",
+    "name": "21 mars 22.16, Explosion, Norrköping",
+    "summary": "Larm om explosion.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-22.16-explosion-norrkoping/",
+    "type": "Explosion",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
     "id": 575912,
     "datetime": "2025-03-21 21:19:18 +01:00",
     "name": "21 mars 21.07, Farligt föremål, misstänkt, Burlöv",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 575908,
+    "datetime": "2025-03-21 21:55:51 +01:00",
+    "name": "21 mars 21.55, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-21.55-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 575909,
+    "datetime": "2025-03-21 21:55:43 +01:00",
+    "name": "21 mars 21.55, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-21.55-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 575113,
-    "datetime": "2025-03-15 14:24:49 +01:00",
-    "name": "15 mars 09.25, Knivlagen, Örebro",
-    "summary": "I samband med en hastighetskontroll på Holmen i Örebro under förmiddagen upprättades en anmälan om grovt brott",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-09.25-knivlagen-orebro/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 575112,
-    "datetime": "2025-03-15 14:14:51 +01:00",
-    "name": "15 mars 14.04, Trafikolycka, Ängelholm",
-    "summary": "Påkörd person i korsningen Höja landsväg och Kunggårdsleden.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-14.04-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 575111,
-    "datetime": "2025-03-15 14:10:07 +01:00",
-    "name": "15 mars 11.46, Våld/hot mot tjänsteman, Lund",
-    "summary": "Man misstänkt för hot mot biljettkontrollant.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-11.46-valdhot-mot-tjansteman-lund/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
     }
   }
 ]
