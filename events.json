@@ -1,17 +1,5 @@
 [
   {
-    "id": 575916,
-    "datetime": "2025-03-22 6:22:43 +01:00",
-    "name": "22 mars 23.05, Djur, Malmö",
-    "summary": "Lösspringande hund bet ihjäl annan hund.",
-    "url": "/aktuellt/handelser/2025/mars/22/22-mars-23.05-djur-malmo/",
-    "type": "Djur",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
     "id": 575914,
     "datetime": "2025-03-21 22:19:43 +01:00",
     "name": "21 mars 22.16, Explosion, Norrköping",
@@ -21,6 +9,102 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 575925,
+    "datetime": "2025-03-22 7:19:15 +01:00",
+    "name": "21 mars 22.48, Olaga intrång, Uppsala",
+    "summary": "Man misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2025/mars/21/21-mars-22.48-olaga-intrang-uppsala/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 575923,
+    "datetime": "2025-03-22 7:14:41 +01:00",
+    "name": "22 mars 01.55, Stöld/inbrott, Gävle",
+    "summary": "Inbrottsförsök i källare.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-01.55-stoldinbrott-gavle/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 575921,
+    "datetime": "2025-03-22 7:00:27 +01:00",
+    "name": "22 mars 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 575920,
+    "datetime": "2025-03-22 7:00:18 +01:00",
+    "name": "22 mars 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 575919,
+    "datetime": "2025-03-22 6:57:14 +01:00",
+    "name": "22 mars 00.19, Rattfylleri, Kristianstad",
+    "summary": "Man misstänkt för rattfylleri efter fordonskontroll.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-00.19-rattfylleri-kristianstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 575918,
+    "datetime": "2025-03-22 6:51:04 +01:00",
+    "name": "22 mars 04.22, Misshandel, Malmö",
+    "summary": "Man gripen för misshandel i relation.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-04.22-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 575917,
+    "datetime": "2025-03-22 6:44:14 +01:00",
+    "name": "22 mars 00.50, Stöld/inbrott, Tomelilla",
+    "summary": "Fyra personer gripna efter inbrott i butik.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-00.50-stoldinbrott-tomelilla/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Tomelilla",
+      "gps": "55.54355,13.95484"
+    }
+  },
+  {
+    "id": 575916,
+    "datetime": "2025-03-22 6:22:43 +01:00",
+    "name": "22 mars 23.05, Djur, Malmö",
+    "summary": "Lösspringande hund bet ihjäl annan hund.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-23.05-djur-malmo/",
+    "type": "Djur",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 575123,
-    "datetime": "2025-03-15 16:54:25 +01:00",
-    "name": "15 mars 14.00, Stöld, Partille",
-    "summary": "En man misstänks ha stulit ett flertal maskiner från en bygghandel i Partille.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-14.00-stold-partille/",
-    "type": "Stöld",
-    "location": {
-      "name": "Partille",
-      "gps": "57.73665,12.125197"
-    }
-  },
-  {
-    "id": 575122,
-    "datetime": "2025-03-15 16:53:49 +01:00",
-    "name": "15 mars 13.18, Bedrägeri, Surahammar",
-    "summary": "Äldre kvinna utsatt för bedrägeri.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-13.18-bedrageri-surahammar/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Surahammar",
-      "gps": "59.707226,16.226841"
-    }
-  },
-  {
-    "id": 575119,
-    "datetime": "2025-03-15 16:16:46 +01:00",
-    "name": "15 mars 15.51, Rån, Halmstad",
-    "summary": "Polis är på plats vid Stenalyckan efter larm om ett rån.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-15.51-ran-halmstad/",
-    "type": "Rån",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 575118,
-    "datetime": "2025-03-15 15:48:40 +01:00",
-    "name": "15 mars 11.38, Bedrägeri, Söderhamn",
-    "summary": "Äldre kvinna utsatt för bedrägeri.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-11.38-bedrageri-soderhamn/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
-    }
-  },
-  {
-    "id": 575117,
-    "datetime": "2025-03-15 15:33:25 +01:00",
-    "name": "15 mars 12.49, Trafikbrott, Huddinge",
-    "summary": "En förare uppges köra 100 km/h på en 40-väg i Huddinge.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-12.49-trafikbrott-huddinge/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 575116,
-    "datetime": "2025-03-15 14:45:36 +01:00",
-    "name": "15 mars 14.44, Stöld, Eskilstuna",
-    "summary": "Två män gripna efter stöld.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-14.44-stold-eskilstuna/",
-    "type": "Stöld",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 575115,
-    "datetime": "2025-03-15 14:29:12 +01:00",
-    "name": "15 mars 11.28, Stöld, Kristinehamn",
-    "summary": "En man i sextioårsåldern misstänks för ringa stöld.",
-    "url": "/aktuellt/handelser/2025/mars/15/15-mars-11.28-stold-kristinehamn/",
-    "type": "Stöld",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   }
 ]
