@@ -1,5 +1,125 @@
 [
   {
+    "id": 575988,
+    "datetime": "2025-03-23 7:25:27 +01:00",
+    "name": "23 mars 00.22, Narkotikabrott, Västerås",
+    "summary": "Man misstänks för ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2025/mars/23/23-mars-00.22-narkotikabrott-vasteras/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 575987,
+    "datetime": "2025-03-23 7:20:46 +01:00",
+    "name": "23 mars 02.54, Övrigt, Enköping",
+    "summary": "Man misstänks för våldsamt motstånd.",
+    "url": "/aktuellt/handelser/2025/mars/23/23-mars-02.54-ovrigt-enkoping/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 575986,
+    "datetime": "2025-03-23 7:20:24 +01:00",
+    "name": "23 mars 07.00, Sammanfattning natt, Norrbottens län",
+    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2025/mars/23/23-mars-07.00-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 575985,
+    "datetime": "2025-03-23 7:18:27 +01:00",
+    "name": "22 mars 23.56, Stöld, Helsingborg",
+    "summary": "Man misstänks för kopparstöld.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-23.56-stold-helsingborg/",
+    "type": "Stöld",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 575984,
+    "datetime": "2025-03-23 7:15:24 +01:00",
+    "name": "22 mars 23.30, Narkotikabrott, Uppsala",
+    "summary": "Kvinna misstänks för ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-23.30-narkotikabrott-uppsala/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 575983,
+    "datetime": "2025-03-23 7:10:45 +01:00",
+    "name": "22 mars 21.38, Misshandel, Sandviken",
+    "summary": "Misshandel i centrala Sandviken.",
+    "url": "/aktuellt/handelser/2025/mars/22/22-mars-21.38-misshandel-sandviken/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 575982,
+    "datetime": "2025-03-23 7:04:01 +01:00",
+    "name": "23 mars 01.46, Misshandel, Karlskrona",
+    "summary": "Kvinna misstänks ha blivit drogad på uteställe.",
+    "url": "/aktuellt/handelser/2025/mars/23/23-mars-01.46-misshandel-karlskrona/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 575981,
+    "datetime": "2025-03-23 7:01:53 +01:00",
+    "name": "23 mars 07.01, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/mars/23/23-mars-07.01-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 575980,
+    "datetime": "2025-03-23 7:01:05 +01:00",
+    "name": "23 mars 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/mars/23/23-mars-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 575979,
+    "datetime": "2025-03-23 6:54:42 +01:00",
+    "name": "23 mars 23.51, Trafikolycka, Lund",
+    "summary": "Kund misstänks ha orsakat trafikolycka.",
+    "url": "/aktuellt/handelser/2025/mars/23/23-mars-23.51-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
     "id": 575978,
     "datetime": "2025-03-23 6:36:57 +01:00",
     "name": "23 mars 03.28, Misshandel, Kristianstad",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 575184,
-    "datetime": "2025-03-16 17:36:59 +01:00",
-    "name": "16 mars 17.01, Trafikolycka, Malmö",
-    "summary": "Fotgängare och personbil i olycka, Borgmästaregården.",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-172.01-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 575185,
-    "datetime": "2025-03-16 17:42:48 +01:00",
-    "name": "16 mars 17.30, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka mellan två cyklister, Lönngatan.",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-17.30-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 575182,
-    "datetime": "2025-03-16 17:02:32 +01:00",
-    "name": "16 mars 16.54, Brand, Hässleholm",
-    "summary": "Larm om brand i byggnad, Spångatan.",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-16.54-brand-hassleholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 575181,
-    "datetime": "2025-03-16 15:28:36 +01:00",
-    "name": "16 mars 14.41, Brand, Malmö",
-    "summary": "Larm om brand i trapphus, Bunkeflostrand.",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-14.41-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 575176,
-    "datetime": "2025-03-16 14:05:59 +01:00",
-    "name": "16 mars 13.47, Trafikolycka, Västervik",
-    "summary": "Larm om trafikolycka mellan två personbilar, E22.",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-13.47-trafikolycka-vastervik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 575170,
-    "datetime": "2025-03-16 14:56:21 +01:00",
-    "name": "16 mars 14.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-14.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 575171,
-    "datetime": "2025-03-16 14:56:05 +01:00",
-    "name": "16 mars 14.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-14.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 575178,
-    "datetime": "2025-03-16 14:34:50 +01:00",
-    "name": "16 mars 14.12, Brand, Ulricehamn",
-    "summary": "SOS meddelar att räddningstjänsten åker på ett larm om rökutveckling i ett kontorskomplex på Storgatan.",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-14.12-brand-ulricehamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Ulricehamn",
-      "gps": "57.794789,13.420516"
-    }
-  },
-  {
-    "id": 575180,
-    "datetime": "2025-03-16 14:43:57 +01:00",
-    "name": "16 mars 14.43, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-14.43-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 575179,
-    "datetime": "2025-03-16 14:37:14 +01:00",
-    "name": "16 mars 14.37, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/mars/16/16-mars-14.37-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
