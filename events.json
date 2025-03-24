@@ -1,14 +1,26 @@
 [
   {
-    "id": 576126,
-    "datetime": "2025-03-24 18:09:33 +01:00",
-    "name": "24 mars 17.48, Trafikolycka, Lekeberg",
-    "summary": "En trafikolycka har inträffat på väg 691 i höjd med Lanna.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-17.48-trafikolycka-lekeberg/",
+    "id": 576139,
+    "datetime": "2025-03-24 20:00:02 +01:00",
+    "name": "24 mars 19.58, Misshandel, Motala",
+    "summary": "Man gripen för misshandel av kvinna.",
+    "url": "/aktuellt/handelser/2025/mars/24/24-mars-19.58-misshandel-motala/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
+    }
+  },
+  {
+    "id": 576138,
+    "datetime": "2025-03-24 19:58:21 +01:00",
+    "name": "24 mars 19.40, Trafikolycka, Sundsvall",
+    "summary": "Sundsvall, trafikolycka i Njurunda.",
+    "url": "/aktuellt/handelser/2025/mars/24/24-mars-19.40-trafikolycka-sundsvall/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Lekeberg",
-      "gps": "59.16539,14.743407"
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -21,6 +33,42 @@
     "location": {
       "name": "Uddevalla",
       "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 576136,
+    "datetime": "2025-03-24 19:50:53 +01:00",
+    "name": "24 mars 16.58, Djur, Sundsvall",
+    "summary": "Sundsvall, katt hämtad från Sundsvallsbron.",
+    "url": "/aktuellt/handelser/2025/mars/24/24-mars-16.58-djur-sundsvall/",
+    "type": "Djur",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 576137,
+    "datetime": "2025-03-24 19:47:51 +01:00",
+    "name": "24 mars 16.09, Stöld, Kungsbacka",
+    "summary": "En person ringer in till polisen om att någon tagit hans sparkcykel.",
+    "url": "/aktuellt/handelser/2025/mars/24/24-mars-162.09-stold-kungsbacka/",
+    "type": "Stöld",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 576126,
+    "datetime": "2025-03-24 18:09:33 +01:00",
+    "name": "24 mars 17.48, Trafikolycka, Lekeberg",
+    "summary": "En trafikolycka har inträffat på väg 691 i höjd med Lanna.",
+    "url": "/aktuellt/handelser/2025/mars/24/24-mars-17.48-trafikolycka-lekeberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lekeberg",
+      "gps": "59.16539,14.743407"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 575358,
-    "datetime": "2025-03-17 20:46:37 +01:00",
-    "name": "17 mars 20.33, Misshandel, grov, Jönköping",
-    "summary": "Grov misshandel utomhus",
-    "url": "/aktuellt/handelser/2025/mars/17/17-mars-20.33-misshandel-grov-jonkoping/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 575352,
-    "datetime": "2025-03-17 19:43:00 +01:00",
-    "name": "17 mars 19.38, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka mellan en personbil och elsparkcykel, Nobelvägen.",
-    "url": "/aktuellt/handelser/2025/mars/17/17-mars-19.38-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 575355,
-    "datetime": "2025-03-17 20:23:20 +01:00",
-    "name": "17 mars 18.41, Hemfridsbrott, Huddinge",
-    "summary": "En främmande man försöker ta sig in i olika personers hem i Skogås.",
-    "url": "/aktuellt/handelser/2025/mars/17/17-mars-18.41-hemfridsbrott-huddinge/",
-    "type": "Hemfridsbrott",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 575354,
-    "datetime": "2025-03-17 20:14:46 +01:00",
-    "name": "17 mars 20.10, Olaga hot, Åtvidaberg",
-    "summary": "Man misstänks för olaga hot",
-    "url": "/aktuellt/handelser/2025/mars/17/17-mars-20.10-olaga-hot-atvidaberg/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Åtvidaberg",
-      "gps": "58.20079,15.997699"
     }
   }
 ]
