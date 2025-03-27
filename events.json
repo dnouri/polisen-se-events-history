@@ -1,5 +1,41 @@
 [
   {
+    "id": 576610,
+    "datetime": "2025-03-27 18:21:50 +01:00",
+    "name": "27 mars 16.19, Arbetsplatsolycka, Stockholm",
+    "summary": "En man har fått en stång i huvudet i Hjorthagen.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-16.19-arbetsplatsolycka-stockholm/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 576609,
+    "datetime": "2025-03-27 18:14:32 +01:00",
+    "name": "27 mars 18.14, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-18.14-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 576608,
+    "datetime": "2025-03-27 18:11:19 +01:00",
+    "name": "27 mars 16.21, Trafikbrott, Borlänge",
+    "summary": "Trafikolycka mellan Mc och 4-hjuling i Borlänge.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-16.21-trafikbrott-borlange/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 576595,
     "datetime": "2025-03-27 17:52:28 +01:00",
     "name": "27 mars 17.50, Försvunnen person, Nyköping",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 576551,
+    "datetime": "2025-03-27 18:09:53 +01:00",
+    "name": "27 mars 14.03, Trafikbrott, Stockholm",
+    "summary": "Mopedist stannade inte när polis skulle stoppa fordonet och ett kortare förföljande inleddes.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-14.03-trafikbrott-stockholm/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 576607,
+    "datetime": "2025-03-27 17:59:54 +01:00",
+    "name": "27 mars 16.46, Olovlig körning, Säffle",
+    "summary": "Bilist utan körkort stoppad i Säffle.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-16.46-olovlig-korning-saffle/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Trollhättan",
       "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 575745,
-    "datetime": "2025-03-20 17:26:23 +01:00",
-    "name": "20 mars 16.57, Trafikolycka, Mölndal",
-    "summary": "En trafikolycka har inträffat på E6, söder om Kålleredsmotet och i södergående färdriktning.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-16.57-trafikolycka-molndal/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 575759,
-    "datetime": "2025-03-20 19:10:25 +01:00",
-    "name": "20 mars 16.45, Trafikbrott, Lysekil",
-    "summary": "På väg 162 kolliderar två personbilar, varpå den ena bilen kör av vägen.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-16.45-trafikbrott-lysekil/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Lysekil",
-      "gps": "58.275573,11.435558"
-    }
-  },
-  {
-    "id": 575758,
-    "datetime": "2025-03-20 19:01:52 +01:00",
-    "name": "20 mars 16.57, Arbetsplatsolycka, Hylte",
-    "summary": "Polis och ambulans larmas till ett industriområde i Hyltebruk med anledning av en arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-16.57-arbetsplatsolycka-hylte/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Hylte",
-      "gps": "56.977313,13.338766"
-    }
-  },
-  {
-    "id": 575757,
-    "datetime": "2025-03-20 18:40:05 +01:00",
-    "name": "20 mars 10.36, Olaga hot, Krokom",
-    "summary": "Man misstänks för grovt olaga hot mm.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-10.36-olaga-hot-krokom/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 575756,
-    "datetime": "2025-03-20 18:18:22 +01:00",
-    "name": "20 mars 18.18, Narkotikabrott, Skellefteå",
-    "summary": "Man misstänks för narkotikabrott.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-18.18-narkotikabrott-skelleftea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
