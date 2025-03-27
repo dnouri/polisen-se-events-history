@@ -1,5 +1,65 @@
 [
   {
+    "id": 576550,
+    "datetime": "2025-03-27 16:23:24 +01:00",
+    "name": "27 mars 16.07, Trafikolycka, Tingsryd",
+    "summary": "Larm om trafikolycka mellan en personbil och elsparkcykel, Nygatan.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-16.07-trafikolycka-tingsryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tingsryd",
+      "gps": "56.524745,14.978534"
+    }
+  },
+  {
+    "id": 576542,
+    "datetime": "2025-03-27 16:18:49 +01:00",
+    "name": "27 mars 15.29, Vapenlagen, Gävle",
+    "summary": "Man med vapenliknande föremål sågs utomhus.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-15.29-vapenlagen-gavle/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 576543,
+    "datetime": "2025-03-27 16:18:13 +01:00",
+    "name": "27 mars 16.11, Trafikolycka, Helsingborg",
+    "summary": "Larm om trafikolycka mellan en personbil och en elsparkcykel, Hälsovägen.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-16.11-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 576541,
+    "datetime": "2025-03-27 16:14:08 +01:00",
+    "name": "27 mars 14.46, Trafikolycka, Malmö",
+    "summary": "Singelolycka på Munkhättegatan.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-14.46-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 576534,
+    "datetime": "2025-03-27 16:04:43 +01:00",
+    "name": "27 mars 13.04, Fylleri/LOB, Kramfors",
+    "summary": "Kramfors, två personer omhändertagna.",
+    "url": "/aktuellt/handelser/2025/mars/27/27-mars-13.04-fyllerilob-kramfors/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
     "id": 576504,
     "datetime": "2025-03-27 14:16:34 +01:00",
     "name": "27 mars 14.00, Trafikolycka, Landskrona",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Arvika",
       "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 575728,
-    "datetime": "2025-03-20 13:56:57 +01:00",
-    "name": "20 mars 13.39, Trafikolycka, Piteå",
-    "summary": "Jävre, trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-13.39-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 575734,
-    "datetime": "2025-03-20 14:56:11 +01:00",
-    "name": "20 mars 14.53, Arbetsplatsolycka, Värnamo",
-    "summary": "Man fastklämd efter att ha fått ett galler över sig.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-14.53-arbetsplatsolycka-varnamo/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 575733,
-    "datetime": "2025-03-20 14:50:42 +01:00",
-    "name": "20 mars 14.16, Trafikolycka, singel, Karlstad",
-    "summary": "En personbil har körts i diket vid korsningen Lv723/Gravaleden öster om Rud.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-14.16-trafikolycka-singel-karlstad/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 575727,
-    "datetime": "2025-03-20 13:50:16 +01:00",
-    "name": "20 mars 13.50, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-13.50-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 575726,
-    "datetime": "2025-03-20 13:47:28 +01:00",
-    "name": "20 mars 10.13, Stöld, Falun",
-    "summary": "Brott mot en äldre kvinna i centrala Falun",
-    "url": "/aktuellt/handelser/2025/mars/20/20-mars-10.13-stold-falun/",
-    "type": "Stöld",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   }
 ]
