@@ -1,11 +1,23 @@
 [
   {
-    "id": 576758,
-    "datetime": "2025-03-28 18:35:11 +01:00",
-    "name": "28 mars 17.44, Bråk, Malmö",
-    "summary": "Larm om ett större bråk utomhus, Murbruksgatan.",
-    "url": "/aktuellt/handelser/2025/mars/28/28-mars-17.44-brak-malmo/",
-    "type": "Bråk",
+    "id": 576728,
+    "datetime": "2025-03-28 14:02:27 +01:00",
+    "name": "28 mars 10.33, Räddningsinsats, Strömsund",
+    "summary": "Räddningsinsats i Strömsunds kommun.",
+    "url": "/aktuellt/handelser/2025/mars/28/28-mars-10.33-raddningsinsats-stromsund/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 576761,
+    "datetime": "2025-03-28 19:22:55 +01:00",
+    "name": "28 mars 15.39, Våld/hot mot tjänsteman, Malmö",
+    "summary": "Man som spottat på biljettkontrollant, Hyllie Station.",
+    "url": "/aktuellt/handelser/2025/mars/28/28-mars-15.39-valdhot-mot-tjansteman-malmo/",
+    "type": "Våld/hot mot tjänsteman",
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
@@ -24,15 +36,15 @@
     }
   },
   {
-    "id": 576759,
-    "datetime": "2025-03-28 18:28:40 +01:00",
-    "name": "28 mars 17.00, Brand, Malmö",
-    "summary": "Larm om brand i lägenhet, Kronetorpsgatan.",
-    "url": "/aktuellt/handelser/2025/mars/28/28-mars-17.00-brand-malmo/",
-    "type": "Brand",
+    "id": 576760,
+    "datetime": "2025-03-28 19:08:01 +01:00",
+    "name": "28 mars 17.52, Rattfylleri, Västerås",
+    "summary": "Man misstänks för drograttfylleri.",
+    "url": "/aktuellt/handelser/2025/mars/28/28-mars-17.52-rattfylleri-vasteras/",
+    "type": "Rattfylleri",
     "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -45,6 +57,42 @@
     "location": {
       "name": "Kävlinge",
       "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 576754,
+    "datetime": "2025-03-28 17:21:36 +01:00",
+    "name": "28 mars 16.06, Olaga hot, Mark",
+    "summary": "Polis är på plats i Kinna efter larm om någon form av bråk.",
+    "url": "/aktuellt/handelser/2025/mars/28/28-mars-16.06-olaga-hot-mark/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
+    "id": 576758,
+    "datetime": "2025-03-28 18:35:11 +01:00",
+    "name": "28 mars 17.44, Bråk, Malmö",
+    "summary": "Larm om ett större bråk utomhus, Murbruksgatan.",
+    "url": "/aktuellt/handelser/2025/mars/28/28-mars-17.44-brak-malmo/",
+    "type": "Bråk",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 576759,
+    "datetime": "2025-03-28 18:28:40 +01:00",
+    "name": "28 mars 17.00, Brand, Malmö",
+    "summary": "Larm om brand i lägenhet, Kronetorpsgatan.",
+    "url": "/aktuellt/handelser/2025/mars/28/28-mars-17.00-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -69,18 +117,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 576754,
-    "datetime": "2025-03-28 17:21:36 +01:00",
-    "name": "28 mars 16.06, Övrigt, Mark",
-    "summary": "Polis är på plats i Kinna efter larm om någon form av bråk.",
-    "url": "/aktuellt/handelser/2025/mars/28/28-mars-16.06-ovrigt-mark/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
     }
   },
   {
@@ -225,18 +261,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 576728,
-    "datetime": "2025-03-28 14:02:27 +01:00",
-    "name": "28 mars 10.33, Räddningsinsats, Strömsund",
-    "summary": "Räddningsinsats i Strömsunds kommun.",
-    "url": "/aktuellt/handelser/2025/mars/28/28-mars-10.33-raddningsinsats-stromsund/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 575864,
-    "datetime": "2025-03-21 15:32:12 +01:00",
-    "name": "21 mars 12.23, Trafikolycka, Vilhelmina",
-    "summary": "Man till sjukvård efter skoterolycka.",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-12.23-trafikolycka-vilhelmina/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vilhelmina",
-      "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 575863,
-    "datetime": "2025-03-21 15:09:55 +01:00",
-    "name": "21 mars 14.52, Försvunnen person, Torsby",
-    "summary": "Pojken är anträffad.",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-14.52-forsvunnen-person-torsby/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   }
 ]
