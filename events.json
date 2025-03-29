@@ -1,5 +1,101 @@
 [
   {
+    "id": 576777,
+    "datetime": "2025-03-29 6:57:04 +01:00",
+    "name": "29 mars 06.36, Brand, Malmö",
+    "summary": "Brand i företagslokal, Katrinelund.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-06.36-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 576791,
+    "datetime": "2025-03-29 8:13:50 +01:00",
+    "name": "29 mars 00.04, Stöld, försök, Täby",
+    "summary": "Man anhållen misstänkt för försök till grov stöld.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-00.04-stold-forsok-taby/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Täby",
+      "gps": "59.4419,18.07033"
+    }
+  },
+  {
+    "id": 576790,
+    "datetime": "2025-03-29 8:09:42 +01:00",
+    "name": "28 mars 22.55, Misshandel, grov, Stockholm",
+    "summary": "Man gripen misstänkt för att ha misshandlat en man.",
+    "url": "/aktuellt/handelser/2025/mars/29/28-mars-22.55-misshandel-grov-stockholm/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 576789,
+    "datetime": "2025-03-29 8:01:18 +01:00",
+    "name": "29 mars 07.59, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av polisens arbete under natten.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-07.59-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 576788,
+    "datetime": "2025-03-29 7:59:44 +01:00",
+    "name": "29 mars 07.58, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av polisens arbete under natten.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-07.58-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 576787,
+    "datetime": "2025-03-29 7:58:28 +01:00",
+    "name": "29 mars 07.57, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av polisens arbete under natten.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-07.57-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 576786,
+    "datetime": "2025-03-29 7:57:34 +01:00",
+    "name": "29 mars 07.56, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av polisens arbete under natten.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-07.56-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 576785,
+    "datetime": "2025-03-29 7:45:50 +01:00",
+    "name": "29 mars 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 576779,
     "datetime": "2025-03-29 7:46:43 +01:00",
     "name": "29 mars 08.00, Sammanfattning natt, Södermanlands län",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 576785,
-    "datetime": "2025-03-29 7:45:50 +01:00",
-    "name": "29 mars 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2025/mars/29/29-mars-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -117,18 +201,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 576777,
-    "datetime": "2025-03-29 6:57:04 +01:00",
-    "name": "29 mars 06.36, Brand, Malmö",
-    "summary": "Brand i företagslokal, Katrinelund.",
-    "url": "/aktuellt/handelser/2025/mars/29/29-mars-06.36-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 575904,
-    "datetime": "2025-03-21 20:18:50 +01:00",
-    "name": "21 mars 18.08, Trafikolycka, Gällivare",
-    "summary": "Trafikolycka på E10 vid stenbron, Gällivare kommun",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-18.08-trafikolycka-gallivare/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 575902,
-    "datetime": "2025-03-21 20:07:57 +01:00",
-    "name": "21 mars 19.16, Trafikolycka, Sundsvall",
-    "summary": "Trafikolycka på Bergsgatan/Skolhusallén i Stenstan.",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-19.16-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 575901,
-    "datetime": "2025-03-21 20:03:43 +01:00",
-    "name": "21 mars 15.21, Trafikolycka, Strömsund",
-    "summary": "Singelolycka på länsväg 345 i Strömsunds kommun.",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-15.21-trafikolycka-stromsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 575899,
-    "datetime": "2025-03-21 19:44:45 +01:00",
-    "name": "21 mars 19.38, Narkotikabrott, Örebro",
-    "summary": "Kontroll av 25-årig man medförde misstanke om narkotikabrott.",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-19.38-narkotikabrott-orebro/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 575898,
-    "datetime": "2025-03-21 19:41:38 +01:00",
-    "name": "21 mars 19.41, Olaga hot, Kalix",
-    "summary": "Man anhållen misstänkt för brott mot kvinna.",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-19.41-olaga-hot-kalix/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 575897,
-    "datetime": "2025-03-21 19:38:46 +01:00",
-    "name": "21 mars 19.31, Bedrägeri, Örebro",
-    "summary": "Två flickor påkomna att resa med tåg utan giltig biljett.",
-    "url": "/aktuellt/handelser/2025/mars/21/21-mars-19.31-bedrageri-orebro/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
