@@ -1,14 +1,14 @@
 [
   {
-    "id": 576814,
-    "datetime": "2025-03-29 14:27:25 +01:00",
-    "name": "29 mars 12.02, Trafikbrott, Skellefteå",
-    "summary": "Länsväg 372, Ursviken. Polisen uppmärksammas på en personbil som pendlar kraftigt i hastighet.",
-    "url": "/aktuellt/handelser/2025/mars/29/29-mars-12.02-trafikbrott-skelleftea/",
-    "type": "Trafikbrott",
+    "id": 576817,
+    "datetime": "2025-03-29 14:39:43 +01:00",
+    "name": "29 mars 14.26, Brand, Kalmar",
+    "summary": "Brand i fastighet, Trekanten.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-14.26-brand-kalmar/",
+    "type": "Brand",
     "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -24,15 +24,15 @@
     }
   },
   {
-    "id": 576812,
-    "datetime": "2025-03-29 13:54:34 +01:00",
-    "name": "29 mars 11.06, Trafikolycka, Sollefteå",
-    "summary": "Graninge, en lastbil har kört av vägen.",
-    "url": "/aktuellt/handelser/2025/mars/29/29-mars-11.06-trafikolycka-solleftea/",
-    "type": "Trafikolycka",
+    "id": 576816,
+    "datetime": "2025-03-29 14:32:27 +01:00",
+    "name": "29 mars 13.20, Trafikolycka, personskada, Sala",
+    "summary": "MC i trafikolycka.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-13.20-trafikolycka-personskada-sala/",
+    "type": "Trafikolycka, personskada",
     "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
     }
   },
   {
@@ -45,6 +45,42 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 576815,
+    "datetime": "2025-03-29 14:31:27 +01:00",
+    "name": "29 mars 13.23, Brand, Bjuv",
+    "summary": "Brand i terräng utanför Billesholm.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-13.23-brand-bjuv/",
+    "type": "Brand",
+    "location": {
+      "name": "Bjuv",
+      "gps": "56.087102,12.912505"
+    }
+  },
+  {
+    "id": 576814,
+    "datetime": "2025-03-29 14:27:25 +01:00",
+    "name": "29 mars 12.02, Trafikbrott, Skellefteå",
+    "summary": "Länsväg 372, Ursviken. Polisen uppmärksammas på en personbil som pendlar kraftigt i hastighet.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-12.02-trafikbrott-skelleftea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 576812,
+    "datetime": "2025-03-29 13:54:34 +01:00",
+    "name": "29 mars 11.06, Trafikolycka, Sollefteå",
+    "summary": "Graninge, en lastbil har kört av vägen.",
+    "url": "/aktuellt/handelser/2025/mars/29/29-mars-11.06-trafikolycka-solleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 575924,
-    "datetime": "2025-03-22 7:46:12 +01:00",
-    "name": "22 mars 07.00, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/mars/22/22-mars-07.00-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 575929,
-    "datetime": "2025-03-22 7:42:09 +01:00",
-    "name": "22 mars 07.30, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/mars/22/22-mars-07.30-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 575922,
-    "datetime": "2025-03-22 7:38:18 +01:00",
-    "name": "22 mars 00.59, Misshandel, Uppsala",
-    "summary": "Okänd gärningsperson misshandlade två män.",
-    "url": "/aktuellt/handelser/2025/mars/22/22-mars-00.59-misshandel-uppsala/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
