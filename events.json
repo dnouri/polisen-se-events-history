@@ -1,5 +1,17 @@
 [
   {
+    "id": 577050,
+    "datetime": "2025-03-31 13:42:32 +02:00",
+    "name": "31 mars 12.20, Trafikbrott, Mölndal",
+    "summary": "SOS får larm om att en personbil kört in i en lyktstolpe på Annestorpsvägen, Lindome.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-12.20-trafikbrott-molndal/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
     "id": 577038,
     "datetime": "2025-03-31 13:11:14 +02:00",
     "name": "31 mars 13.11, Trafikkontroll, Jämtlands län",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 576931,
+    "datetime": "2025-03-30 18:59:17 +02:00",
+    "name": "30 mars 16.45, Mord/dråp, Norrköping",
+    "summary": "En man i 30-årsåldern har avlidit efter att ha hittats svårt skadad utomhus i Himmelstalundsområdet i Norrköpi",
+    "url": "/aktuellt/handelser/2025/mars/30/30-mars-16.45-morddrap-norrkoping/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 577047,
+    "datetime": "2025-03-31 13:39:26 +02:00",
+    "name": "31 mars 13.33, Trafikolycka, Malmö",
+    "summary": "En trafikolycka mellan en personbil och cyklist inträffar på Kalkbrottsgatan.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-13.33-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -429,18 +465,6 @@
     "location": {
       "name": "Kristianstad",
       "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 576931,
-    "datetime": "2025-03-30 18:59:17 +02:00",
-    "name": "30 mars 16.45, Mord/dråp, Norrköping",
-    "summary": "En man i 30-årsåldern har avlidit efter att ha hittats svårt skadad utomhus i Himmelstalundsområdet i Norrköpi",
-    "url": "/aktuellt/handelser/2025/mars/30/30-mars-16.45-morddrap-norrkoping/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Staffanstorp",
       "gps": "55.641065,13.212229"
-    }
-  },
-  {
-    "id": 576041,
-    "datetime": "2025-03-24 7:52:25 +01:00",
-    "name": "24 mars 07.52, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-07.52-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 576042,
-    "datetime": "2025-03-24 7:52:16 +01:00",
-    "name": "24 mars 07.52, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-07.52-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
