@@ -1,5 +1,53 @@
 [
   {
+    "id": 577091,
+    "datetime": "2025-03-31 18:31:24 +02:00",
+    "name": "31 mars 17.22, Trafikolycka, personskada, Säffle",
+    "summary": "En person har blivit påkörd av en bil i centrala Säffle.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-17.22-trafikolycka-personskada-saffle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Säffle",
+      "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 577090,
+    "datetime": "2025-03-31 18:29:48 +02:00",
+    "name": "31 mars 16.38, Trafikolycka, Stockholm",
+    "summary": "Två lastbilar inblandade i trafikolycka i Gärdestunneln.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-16.38-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 577089,
+    "datetime": "2025-03-31 18:28:04 +02:00",
+    "name": "31 mars 18.06, Trafikolycka, Kumla",
+    "summary": "En personbil har kört in i mitträcket på E20 vid Hidingsta.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-18.06-trafikolycka-kumla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 577088,
+    "datetime": "2025-03-31 18:26:39 +02:00",
+    "name": "31 mars 18.09, Misshandel, Uddevalla",
+    "summary": "Vi får larm om att ett flertal personer bråkar på Stjärngatan.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-18.09-misshandel-uddevalla/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
     "id": 577082,
     "datetime": "2025-03-31 17:40:12 +02:00",
     "name": "31 mars 17.21, Skadegörelse, Malmö",
@@ -9,6 +57,66 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 577087,
+    "datetime": "2025-03-31 18:22:08 +02:00",
+    "name": "31 mars 15.42, Rattfylleri, Kumla",
+    "summary": "En man i femtioårsåldern misstänks för bland annat rattfylleri.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-15.42-rattfylleri-kumla/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 577086,
+    "datetime": "2025-03-31 18:22:01 +02:00",
+    "name": "31 mars 15.42, Trafikbrott, Arvika",
+    "summary": "En kvinna i sjuttioårsåldern misstänks för vårdslöshet i trafik.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-15.42-trafikbrott-arvika/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 577083,
+    "datetime": "2025-03-31 18:21:56 +02:00",
+    "name": "31 mars 14.18, Trafikbrott, Hällefors",
+    "summary": "Kvinna i femtioårsåldern misstänks för grov olovlig körning.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-14.18-trafikbrott-hallefors/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Hällefors",
+      "gps": "59.783688,14.522569"
+    }
+  },
+  {
+    "id": 577085,
+    "datetime": "2025-03-31 18:12:22 +02:00",
+    "name": "31 mars 16.50, Fylleri/LOB, Östersund",
+    "summary": "Centrum, polisen uppmärksammas på en berusad man på busstationen.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-16.50-fyllerilob-ostersund/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 577084,
+    "datetime": "2025-03-31 18:10:44 +02:00",
+    "name": "31 mars 15.29, Trafikolycka, Krokom",
+    "summary": "Föllingevägen/Hellbergs väg, en personbil har kört i diket.",
+    "url": "/aktuellt/handelser/2025/mars/31/31-mars-15.29-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 576111,
-    "datetime": "2025-03-24 17:20:41 +01:00",
-    "name": "24 mars 12.27, Fjällräddning, Åre",
-    "summary": "Fjällräddning i Åre.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-12.27-fjallraddning-are/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 576124,
-    "datetime": "2025-03-24 17:18:31 +01:00",
-    "name": "24 mars 15.48, Stöld, Härnösand",
-    "summary": "Härnösand, ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-15.48-stold-harnosand/",
-    "type": "Stöld",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 576123,
-    "datetime": "2025-03-24 17:15:21 +01:00",
-    "name": "24 mars 16.25, Trafikolycka, Knivsta",
-    "summary": "Trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-16.25-trafikolycka-knivsta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Knivsta",
-      "gps": "59.72612,17.792036"
-    }
-  },
-  {
-    "id": 576120,
-    "datetime": "2025-03-24 17:06:21 +01:00",
-    "name": "24 mars 15.46, Brand, Ljungby",
-    "summary": "Larm om brand i terräng, Fågelsångsvägen.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-15.46-brand-ljungby/",
-    "type": "Brand",
-    "location": {
-      "name": "Ljungby",
-      "gps": "56.833877,13.941042"
-    }
-  },
-  {
-    "id": 576109,
-    "datetime": "2025-03-24 15:45:50 +01:00",
-    "name": "24 mars 13.31, Fylleri/LOB, Luleå",
-    "summary": "Luleå, person omhändertagen.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-13.31-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 576108,
-    "datetime": "2025-03-24 15:39:03 +01:00",
-    "name": "24 mars 13.58, Skadegörelse, Piteå",
-    "summary": "Piteå, anmälan gällande skadegörelse upprättas.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-13.58-skadegorelse-pitea/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 576096,
-    "datetime": "2025-03-24 15:26:50 +01:00",
-    "name": "24 mars 12.11, Räddningsinsats, Vänersborg",
-    "summary": "SOS larmar polis om att någon har sett en livlös person i vattnet vid Vänersnäs.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-12.11-raddningsinsats-vanersborg/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 576094,
-    "datetime": "2025-03-24 14:34:15 +01:00",
-    "name": "24 mars 14.27, Trafikolycka, Ängelholm",
-    "summary": "Larm om trafikolycka mellan en personbil och mc, Klippanvägen.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-14.27-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 576098,
-    "datetime": "2025-03-24 14:52:46 +01:00",
-    "name": "24 mars 14.50, Trafikolycka, Norrköping",
-    "summary": "Singelolycka i Smedby.",
-    "url": "/aktuellt/handelser/2025/mars/24/24-mars-14.50-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   }
 ]
