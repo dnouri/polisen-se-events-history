@@ -1,5 +1,41 @@
 [
   {
+    "id": 577445,
+    "datetime": "2025-04-02 22:01:18 +02:00",
+    "name": "02 april 21.51, Trafikolycka, Malmö",
+    "summary": "Larm om singelolycka med buss, Hyllie Boulevard.",
+    "url": "/aktuellt/handelser/2025/april/2/02-april-21.51-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 577444,
+    "datetime": "2025-04-02 21:49:58 +02:00",
+    "name": "02 april 21.40, Trafikolycka, Växjö",
+    "summary": "Larm om trafikoycka mellan personbil och elsparkcykel, Sommarvägen.",
+    "url": "/aktuellt/handelser/2025/april/2/02-april-21.40-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 577443,
+    "datetime": "2025-04-02 21:48:54 +02:00",
+    "name": "02 april 19.23, Misshandel, Luleå",
+    "summary": "Anmälan om ringa misshandel upprättas.",
+    "url": "/aktuellt/handelser/2025/april/2/02-april-19.23-misshandel-lulea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 577440,
     "datetime": "2025-04-02 21:37:39 +02:00",
     "name": "02 april 21.28, Brand, Trelleborg",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Trelleborg",
       "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 577442,
+    "datetime": "2025-04-02 21:45:29 +02:00",
+    "name": "02 april 21.45, Övrigt, Hallands län",
+    "summary": "Efter 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscentrale",
+    "url": "/aktuellt/handelser/2025/april/2/02-april-21.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 577441,
+    "datetime": "2025-04-02 21:45:24 +02:00",
+    "name": "02 april 21.45, Övrigt, Västra Götalands län",
+    "summary": "Efter 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscentrale",
+    "url": "/aktuellt/handelser/2025/april/2/02-april-21.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 576406,
-    "datetime": "2025-03-27 7:37:20 +01:00",
-    "name": "27 mars 07.37, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en kort sammanfattning från nattens händelser.",
-    "url": "/aktuellt/handelser/2025/mars/27/27-mars-07.37-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 576399,
-    "datetime": "2025-03-27 7:33:22 +01:00",
-    "name": "27 mars 07.32, Sammanfattning natt, Örebro län",
-    "summary": "Natt till torsdag polisområde Örebro",
-    "url": "/aktuellt/handelser/2025/mars/27/27-mars-07.32-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 576401,
-    "datetime": "2025-03-27 7:32:58 +01:00",
-    "name": "27 mars 07.32, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till torsdag polisområde Dalarna",
-    "url": "/aktuellt/handelser/2025/mars/27/27-mars-07.32-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 576407,
-    "datetime": "2025-03-27 7:32:41 +01:00",
-    "name": "27 mars 07.32, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag polisområde Värmland.",
-    "url": "/aktuellt/handelser/2025/mars/27/27-mars-07.32-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 576417,
-    "datetime": "2025-03-27 7:23:23 +01:00",
-    "name": "26 mars 21.32, Misshandel, Gävle",
-    "summary": "Misshandel på buss.",
-    "url": "/aktuellt/handelser/2025/mars/26/26-mars-21.32-misshandel-gavle/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
