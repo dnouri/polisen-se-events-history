@@ -1,5 +1,65 @@
 [
   {
+    "id": 577836,
+    "datetime": "2025-04-07 7:44:58 +02:00",
+    "name": "07 april 07.44, Sammanfattning natt, Östergötlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2025/april/7/07-april-07.44-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 577835,
+    "datetime": "2025-04-07 7:44:51 +02:00",
+    "name": "07 april 07.44, Sammanfattning natt, Södermanlands län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2025/april/7/07-april-07.44-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 577837,
+    "datetime": "2025-04-07 7:44:44 +02:00",
+    "name": "07 april 07.44, Sammanfattning natt, Jönköpings län",
+    "summary": "Här följer en kort sammanfattning från nattens händelser.",
+    "url": "/aktuellt/handelser/2025/april/7/07-april-07.44-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 577849,
+    "datetime": "2025-04-07 7:38:00 +02:00",
+    "name": "06 april 23.58, Misshandel, Botkyrka",
+    "summary": "En man misstänks ha utsatt en person han har en relation med för misshandel i en bostad. Mannen grips.",
+    "url": "/aktuellt/handelser/2025/april/6/06-april-23.58-misshandel-botkyrka/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 577848,
+    "datetime": "2025-04-07 7:32:33 +02:00",
+    "name": "07 april 04.50, Skadegörelse, Stockholm",
+    "summary": "Fyra bilar har fått krossade rutor i Farsta strand. En person som misstänks för skadegörelsen grips.",
+    "url": "/aktuellt/handelser/2025/april/7/07-april-04.50-skadegorelse-stockholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 577847,
     "datetime": "2025-04-07 7:28:05 +02:00",
     "name": "07 april 03.12, Stöld/inbrott, Uppsala",
@@ -5934,66 +5994,6 @@
     "summary": "Centrum, polisen uppmärksammas på en berusad man på busstationen.",
     "url": "/aktuellt/handelser/2025/mars/31/31-mars-16.50-fyllerilob-ostersund/",
     "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 577084,
-    "datetime": "2025-03-31 18:10:44 +02:00",
-    "name": "31 mars 15.29, Trafikolycka, Krokom",
-    "summary": "Föllingevägen/Hellbergs väg, en personbil har kört i diket.",
-    "url": "/aktuellt/handelser/2025/mars/31/31-mars-15.29-trafikolycka-krokom/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 577081,
-    "datetime": "2025-03-31 17:06:42 +02:00",
-    "name": "31 mars 16.46, Trafikolycka, Helsingborg",
-    "summary": "Två personbilar i kollision på E4:an i höjd med Väla.",
-    "url": "/aktuellt/handelser/2025/mars/31/31-mars-16.46-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 577080,
-    "datetime": "2025-03-31 16:57:49 +02:00",
-    "name": "31 mars 16.57, Trafikolycka, Jönköping",
-    "summary": "Lastbil och personbil i kollision på E4:an utanför Ljungarum.",
-    "url": "/aktuellt/handelser/2025/mars/31/31-mars-16.57-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 577079,
-    "datetime": "2025-03-31 16:43:14 +02:00",
-    "name": "31 mars 16.25, Brand, Lund",
-    "summary": "Rökutveckling i industri, Södra Sandby.",
-    "url": "/aktuellt/handelser/2025/mars/31/31-mars-16.25-brand-lund/",
-    "type": "Brand",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 577078,
-    "datetime": "2025-03-31 16:42:24 +02:00",
-    "name": "31 mars 16.38, Trafikkontroll, Östersund",
-    "summary": "Ett urval av polisens arbete i trafiken under eftermiddagen.",
-    "url": "/aktuellt/handelser/2025/mars/31/31-mars-16.38-trafikkontroll-ostersund/",
-    "type": "Trafikkontroll",
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
