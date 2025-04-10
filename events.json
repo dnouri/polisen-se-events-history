@@ -1,5 +1,65 @@
 [
   {
+    "id": 578498,
+    "datetime": "2025-04-10 20:33:21 +02:00",
+    "name": "10 april 16.54, Trafikbrott, Arvika",
+    "summary": "En bilist är misstänkt för vårdslöshet i trafik",
+    "url": "/aktuellt/handelser/2025/april/10/10-april-16.54-trafikbrott-arvika/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 578495,
+    "datetime": "2025-04-10 20:14:36 +02:00",
+    "name": "10 april 20.04, Brand, Helsingborg",
+    "summary": "Brand i lägenhet.",
+    "url": "/aktuellt/handelser/2025/april/10/10-april-20.04-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 578492,
+    "datetime": "2025-04-10 20:11:49 +02:00",
+    "name": "10 april 19.30, Kontroll person/fordon, Vänersborg",
+    "summary": "En polispatrull påbörjar ett förföljande i Vargön efter en efterlyst personbil som vägrar stanna.",
+    "url": "/aktuellt/handelser/2025/april/10/10-april-19.30-kontroll-personfordon-vanersborg/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Vänersborg",
+      "gps": "58.379728,12.324803"
+    }
+  },
+  {
+    "id": 578494,
+    "datetime": "2025-04-10 20:05:22 +02:00",
+    "name": "10 april 16.35, Trafikolycka, Piteå",
+    "summary": "E4, Rosvik, två personbilar har kolliderat.",
+    "url": "/aktuellt/handelser/2025/april/10/10-april-16.35-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 578493,
+    "datetime": "2025-04-10 19:57:38 +02:00",
+    "name": "10 april 13.39, Fjällräddning, Kiruna",
+    "summary": "Tjäktjastugan, en kvinna har blivit sjuk och behöver hjälp att ta sig till vägburen ambulans.",
+    "url": "/aktuellt/handelser/2025/april/10/10-april-13.39-fjallraddning-kiruna/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
     "id": 578491,
     "datetime": "2025-04-10 19:27:28 +02:00",
     "name": "10 april 17.47, Trafikkontroll, Sollefteå",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 577659,
-    "datetime": "2025-04-04 17:14:39 +02:00",
-    "name": "04 april 14.25, Rattfylleri, Örebro",
-    "summary": "En kvinna i sextiofemårsåldern misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/april/4/04-april-14.25-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 577658,
-    "datetime": "2025-04-04 17:06:38 +02:00",
-    "name": "04 april 16.50, Trafikhinder, Landskrona",
-    "summary": "Brinnande bil, E6.",
-    "url": "/aktuellt/handelser/2025/april/4/04-april-16.50-trafikhinder-landskrona/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 577657,
-    "datetime": "2025-04-04 17:04:06 +02:00",
-    "name": "04 april 16.27, Trafikolycka, Sölvesborg",
-    "summary": "Trafikolycka med en mc som kört omkull på Galjalyckevägen i Sölvesborg",
-    "url": "/aktuellt/handelser/2025/april/4/04-april-16.27-trafikolycka-solvesborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
-    }
-  },
-  {
-    "id": 577656,
-    "datetime": "2025-04-04 16:49:45 +02:00",
-    "name": "04 april 14.06, Fjällräddning, Härjedalen",
-    "summary": "Vemdalsskalet, en man som åker skidor har ramlat och skadat axeln.",
-    "url": "/aktuellt/handelser/2025/april/4/04-april-14.06-fjallraddning-harjedalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 577655,
-    "datetime": "2025-04-04 16:43:25 +02:00",
-    "name": "04 april 14.25, Arbetsplatsolycka, Härnösand",
-    "summary": "Saltvik, en man har skadat handen vid arbete.",
-    "url": "/aktuellt/handelser/2025/april/4/04-april-14.25-arbetsplatsolycka-harnosand/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   }
 ]
