@@ -1,14 +1,26 @@
 [
   {
-    "id": 578661,
-    "datetime": "2025-04-12 6:28:10 +02:00",
-    "name": "12 april 22.10, Brand, Örkelljunga",
-    "summary": "Gräsbrand",
-    "url": "/aktuellt/handelser/2025/april/12/12-april-22.10-brand-orkelljunga/",
+    "id": 578663,
+    "datetime": "2025-04-12 6:46:06 +02:00",
+    "name": "12 april 03.48, Rån, Helsingborg",
+    "summary": "Personrån",
+    "url": "/aktuellt/handelser/2025/april/12/12-april-03.48-ran-helsingborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 578662,
+    "datetime": "2025-04-12 6:41:15 +02:00",
+    "name": "12 april 02.29, Brand, Bjuv",
+    "summary": "Bilbrand",
+    "url": "/aktuellt/handelser/2025/april/12/12-april-02.29-brand-bjuv/",
     "type": "Brand",
     "location": {
-      "name": "Örkelljunga",
-      "gps": "56.283635,13.278832"
+      "name": "Bjuv",
+      "gps": "56.087102,12.912505"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 578661,
+    "datetime": "2025-04-12 6:28:10 +02:00",
+    "name": "12 april 22.10, Brand, Örkelljunga",
+    "summary": "Gräsbrand",
+    "url": "/aktuellt/handelser/2025/april/12/12-april-22.10-brand-orkelljunga/",
+    "type": "Brand",
+    "location": {
+      "name": "Örkelljunga",
+      "gps": "56.283635,13.278832"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 577753,
-    "datetime": "2025-04-06 6:38:14 +02:00",
-    "name": "06 april 00.09, Våld/hot mot tjänsteman, Malmö",
-    "summary": "Ordningsvakter utsatt för hot och våld.",
-    "url": "/aktuellt/handelser/2025/april/6/06-april-00.09-valdhot-mot-tjansteman-malmo/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 577726,
-    "datetime": "2025-04-05 14:20:19 +02:00",
-    "name": "05 april 14.20, Trafikkontroll, Jämtlands län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/april/5/05-april-14.20-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
