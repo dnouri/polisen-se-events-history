@@ -1,5 +1,29 @@
 [
   {
+    "id": 579057,
+    "datetime": "2025-04-15 13:20:38 +02:00",
+    "name": "15 april 08.04, Explosion, Lomma",
+    "summary": "Explosion vid bostad.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-08.04-explosion-lomma/",
+    "type": "Explosion",
+    "location": {
+      "name": "Lomma",
+      "gps": "55.673138,13.067406"
+    }
+  },
+  {
+    "id": 579068,
+    "datetime": "2025-04-15 11:03:53 +02:00",
+    "name": "15 april 10.38, Trafikolycka, Sorsele",
+    "summary": "Ammarnäs, larm om skoterolycka.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-10.38-trafikolycka-sorsele/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sorsele",
+      "gps": "65.534938,17.542175"
+    }
+  },
+  {
     "id": 579263,
     "datetime": "2025-04-15 12:40:43 +02:00",
     "name": "15 april 12.29, Trafikolycka, Västerås",
@@ -9,6 +33,42 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 579056,
+    "datetime": "2025-04-15 10:12:01 +02:00",
+    "name": "15 april 09.59, Trafikolycka, Nyköping",
+    "summary": "Trafikolycka påverkar trafiken, E4 Nyköping",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-09.59-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 579205,
+    "datetime": "2025-04-15 11:50:49 +02:00",
+    "name": "15 april 10.37, Räddningsinsats, Tjörn",
+    "summary": "Polis larmas tillsammans med sjöräddningen och ambulans till Björholmen med anledning av ett drunkningstillbud",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-10.37-raddningsinsats-tjorn/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Tjörn",
+      "gps": "58.04102,11.683671"
+    }
+  },
+  {
+    "id": 579288,
+    "datetime": "2025-04-15 12:50:01 +02:00",
+    "name": "15 april 12.33, Trafikolycka, Heby",
+    "summary": "Två personbilar i krock.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-12.33-trafikolycka-heby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Heby",
+      "gps": "59.939637,16.858759"
     }
   },
   {
@@ -36,18 +96,6 @@
     }
   },
   {
-    "id": 579205,
-    "datetime": "2025-04-15 11:50:49 +02:00",
-    "name": "15 april 10.37, Räddningsinsats, Tjörn",
-    "summary": "Polis larmas tillsammans med sjöräddningen och ambulans till Björholmen med anledning av ett drunkningstillbud",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-10.37-raddningsinsats-tjorn/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Tjörn",
-      "gps": "58.04102,11.683671"
-    }
-  },
-  {
     "id": 579204,
     "datetime": "2025-04-15 11:43:28 +02:00",
     "name": "15 april 09.39, Stöld, Östersund",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Kramfors",
       "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 579068,
-    "datetime": "2025-04-15 11:03:53 +02:00",
-    "name": "15 april 10.38, Trafikolycka, Sorsele",
-    "summary": "Ammarnäs, larm om skoterolycka.",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-10.38-trafikolycka-sorsele/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sorsele",
-      "gps": "65.534938,17.542175"
     }
   },
   {
@@ -117,18 +153,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 579056,
-    "datetime": "2025-04-15 10:12:01 +02:00",
-    "name": "15 april 09.59, Trafikolycka, Nyköping",
-    "summary": "Trafikolycka påverkar trafiken, E4 Nyköping",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-09.59-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 578117,
-    "datetime": "2025-04-08 15:16:59 +02:00",
-    "name": "08 april 15.07, Brand, Stockholm",
-    "summary": "Enligt uppgifter som inkommer till regionledningscentralen brinner det i en bil i anslutning till Tyresövägen ",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-15.07-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 578118,
-    "datetime": "2025-04-08 15:20:50 +02:00",
-    "name": "08 april 13.30, Ofredande/förargelse, Enköping",
-    "summary": "Man onanerade på rastplats.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-13.30-ofredandeforargelse-enkoping/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
     }
   }
 ]
