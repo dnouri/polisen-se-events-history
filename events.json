@@ -1,5 +1,53 @@
 [
   {
+    "id": 578828,
+    "datetime": "2025-04-14 12:16:03 +02:00",
+    "name": "14 april 08.46, Rattfylleri, Värnamo",
+    "summary": "Kvinna gripen efter efterföljande av fordon",
+    "url": "/aktuellt/handelser/2025/april/14/14-april-08.46-rattfylleri-varnamo/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 579060,
+    "datetime": "2025-04-15 10:32:39 +02:00",
+    "name": "15 april 09.49, Stöld/inbrott, Gävle",
+    "summary": "Inbrott i källare.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-09.49-stoldinbrott-gavle/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 579022,
+    "datetime": "2025-04-15 2:26:39 +02:00",
+    "name": "14 april 23.36, Skottlossning, Göteborg",
+    "summary": "Polis larmas till Biskopsgården med anledning av att boende hör skott i området.",
+    "url": "/aktuellt/handelser/2025/april/14/14-april-23.36-skottlossning-goteborg/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 579056,
+    "datetime": "2025-04-15 10:12:01 +02:00",
+    "name": "15 april 09.59, Trafikolycka, Nyköping",
+    "summary": "Trafikolycka påverkar trafiken, E4 Nyköping",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-09.59-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
     "id": 579053,
     "datetime": "2025-04-15 9:09:42 +02:00",
     "name": "15 april 09.09, Brand, Norrköping",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 579054,
+    "datetime": "2025-04-15 9:44:40 +02:00",
+    "name": "15 april 03.51, Rån, Nacka",
+    "summary": "Man rånad i sin bostad i Nacka.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-03.51-ran-nacka/",
+    "type": "Rån",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
     }
   },
   {
@@ -273,18 +333,6 @@
     "location": {
       "name": "Alvesta",
       "gps": "56.89921,14.556001"
-    }
-  },
-  {
-    "id": 579022,
-    "datetime": "2025-04-15 2:26:39 +02:00",
-    "name": "14 april 23.36, Skottlossning, Göteborg",
-    "summary": "Polis larmas till Biskopsgården med anledning av att boende hör skott i området.",
-    "url": "/aktuellt/handelser/2025/april/14/14-april-23.36-skottlossning-goteborg/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -753,18 +801,6 @@
     "location": {
       "name": "Kiruna",
       "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 578828,
-    "datetime": "2025-04-14 12:16:03 +02:00",
-    "name": "14 april 08.46, Rattfylleri, Värnamo",
-    "summary": "Kvinna gripen efter efterföljande av fordon",
-    "url": "/aktuellt/handelser/2025/april/14/14-april-08.46-rattfylleri-varnamo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 578099,
-    "datetime": "2025-04-08 13:29:30 +02:00",
-    "name": "08 april 13.23, Trafikkontroll, Västerbottens län",
-    "summary": "Ett urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-13.23-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 578085,
-    "datetime": "2025-04-08 12:42:05 +02:00",
-    "name": "08 april 12.11, Försvunnen person, Lund",
-    "summary": "Försvunnen pojke, Lund.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-12.11-forsvunnen-person-lund/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 578097,
-    "datetime": "2025-04-08 13:23:48 +02:00",
-    "name": "08 april 12.10, Trafikbrott, Vännäs",
-    "summary": "Tätorten, polisen kontrollerar en personbil.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-12.10-trafikbrott-vannas/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Vännäs",
-      "gps": "63.908007,19.752965"
     }
   }
 ]
