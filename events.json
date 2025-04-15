@@ -1,5 +1,89 @@
 [
   {
+    "id": 579331,
+    "datetime": "2025-04-15 16:26:21 +02:00",
+    "name": "15 april 07.25, Häleri, Östersund",
+    "summary": "Man anhållen misstänkt för häleri.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-07.25-haleri-ostersund/",
+    "type": "Häleri",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 579320,
+    "datetime": "2025-04-15 15:40:32 +02:00",
+    "name": "15 april 15.07, Mord/dråp, försök, Eslöv",
+    "summary": "Skjutning på Villavägen i Eslöv",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-15.07-morddrap-forsok-eslov/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Eslöv",
+      "gps": "55.83912,13.303391"
+    }
+  },
+  {
+    "id": 579329,
+    "datetime": "2025-04-15 16:20:15 +02:00",
+    "name": "15 april 15.07, Trafikolycka, personskada, Kristinehamn",
+    "summary": "En singelolycka inträffade strax efter 15 på länsväg 602 vid Bäckhammar.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-15.07-trafikolycka-personskada-kristinehamn/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 579326,
+    "datetime": "2025-04-15 16:17:43 +02:00",
+    "name": "15 april 15.06, Trafikolycka, Örebro",
+    "summary": "Totalt sju personer var inblandade i en trafikolycka med stor trafikpåverkan vid Norrplan under eftermiddagen.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-15.06-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 579325,
+    "datetime": "2025-04-15 16:00:29 +02:00",
+    "name": "15 april 12.33, Trafikolycka, personskada, Heby",
+    "summary": "Personbilar i kollision utanför Östervåla.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-12.33-trafikolycka-personskada-heby/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Heby",
+      "gps": "59.939637,16.858759"
+    }
+  },
+  {
+    "id": 579321,
+    "datetime": "2025-04-15 15:41:29 +02:00",
+    "name": "15 april 15.41, Trafikkontroll, Storuman",
+    "summary": "Polisen kontrollerar trafik på väg och i terräng.",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-15.41-trafikkontroll-storuman/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 579205,
+    "datetime": "2025-04-15 11:50:49 +02:00",
+    "name": "15 april 10.37, Räddningsinsats, Tjörn",
+    "summary": "Polis larmas tillsammans med sjöräddningen och ambulans till Björholmen med anledning av ett drunkningstillbud",
+    "url": "/aktuellt/handelser/2025/april/15/15-april-10.37-raddningsinsats-tjorn/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Tjörn",
+      "gps": "58.04102,11.683671"
+    }
+  },
+  {
     "id": 579311,
     "datetime": "2025-04-15 14:17:41 +02:00",
     "name": "15 april 12.43, Olaga hot, Sundsvall",
@@ -69,18 +153,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 579205,
-    "datetime": "2025-04-15 11:50:49 +02:00",
-    "name": "15 april 10.37, Räddningsinsats, Tjörn",
-    "summary": "Polis larmas tillsammans med sjöräddningen och ambulans till Björholmen med anledning av ett drunkningstillbud",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-10.37-raddningsinsats-tjorn/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Tjörn",
-      "gps": "58.04102,11.683671"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 578127,
-    "datetime": "2025-04-08 17:09:12 +02:00",
-    "name": "08 april 13.05, Fjällräddning, Härjedalen",
-    "summary": "Fjällräddning på Knallen.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-13.05-fjallraddning-harjedalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Härjedalen",
-      "gps": "62.369341,13.407971"
-    }
-  },
-  {
-    "id": 578123,
-    "datetime": "2025-04-08 16:09:38 +02:00",
-    "name": "08 april 15.28, Trafikolycka, personskada, Kungsbacka",
-    "summary": "Larm om en påkörd person söder om Kungsbacka",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-15.28-trafikolycka-personskada-kungsbacka/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 578119,
-    "datetime": "2025-04-08 15:33:44 +02:00",
-    "name": "08 april 15.00, Trafikolycka, Kumla",
-    "summary": "Kollision mellan bilist och tvåhjuligt fordon i Kumla, polis på plats.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-15.00-trafikolycka-kumla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 578125,
-    "datetime": "2025-04-08 16:46:26 +02:00",
-    "name": "08 april 16.12, Trafikolycka, Nässjö",
-    "summary": "Trafikolycka i Nässjö.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-16.12-trafikolycka-nassjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
-    }
-  },
-  {
-    "id": 578124,
-    "datetime": "2025-04-08 16:19:15 +02:00",
-    "name": "08 april 14.48, Kontroll person/fordon, Sundsvall",
-    "summary": "Sundsvall, ingen misstanke om brott vid kontroll.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-14.48-kontroll-personfordon-sundsvall/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 578122,
-    "datetime": "2025-04-08 16:07:12 +02:00",
-    "name": "08 april 15.18, Trafikolycka, Umeå",
-    "summary": "Umeå, trafikolycka på Teg.",
-    "url": "/aktuellt/handelser/2025/april/8/08-april-15.18-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
