@@ -1,5 +1,89 @@
 [
   {
+    "id": 579540,
+    "datetime": "2025-04-16 14:43:36 +02:00",
+    "name": "16 april 14.30, Brand, Grums",
+    "summary": "Brandlarm ljuder och en villa är rökfylld i Värmskog.",
+    "url": "/aktuellt/handelser/2025/april/16/16-april-14.30-brand-grums/",
+    "type": "Brand",
+    "location": {
+      "name": "Grums",
+      "gps": "59.353179,13.111732"
+    }
+  },
+  {
+    "id": 579539,
+    "datetime": "2025-04-16 14:34:00 +02:00",
+    "name": "16 april 13.36, Brand, Sala",
+    "summary": "Larm om brand.",
+    "url": "/aktuellt/handelser/2025/april/16/16-april-13.36-brand-sala/",
+    "type": "Brand",
+    "location": {
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
+    }
+  },
+  {
+    "id": 579525,
+    "datetime": "2025-04-16 13:25:08 +02:00",
+    "name": "16 april 12.49, Försvunnen person, Västerås",
+    "summary": "Polisen sökte försvunnen person.",
+    "url": "/aktuellt/handelser/2025/april/16/16-april-12.49-forsvunnen-person-vasteras/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 579533,
+    "datetime": "2025-04-16 14:01:28 +02:00",
+    "name": "16 april 11.31, Brand, Värmdö",
+    "summary": "Brand i attefallshus i Hemmesta.",
+    "url": "/aktuellt/handelser/2025/april/16/16-april-11.31-brand-varmdo/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 579530,
+    "datetime": "2025-04-16 13:51:33 +02:00",
+    "name": "16 april 11.59, Brand, Skellefteå",
+    "summary": "Bildbrand i garage utanför Ostvik.",
+    "url": "/aktuellt/handelser/2025/april/16/16-april-11.59-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 579501,
+    "datetime": "2025-04-16 12:09:54 +02:00",
+    "name": "16 april 11.58, Trafikolycka, Kristianstad",
+    "summary": "Larml om trafikolycka mellan en persobil och traktor, Tollarpsvägen.",
+    "url": "/aktuellt/handelser/2025/april/16/16-april-11.58-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 579529,
+    "datetime": "2025-04-16 13:45:19 +02:00",
+    "name": "16 april 13.43, Våld/hot mot tjänsteman, Falun",
+    "summary": "Under förmiddagen tvingas polispatrull hantera en våldsam man.",
+    "url": "/aktuellt/handelser/2025/april/16/16-april-13.43-valdhot-mot-tjansteman-falun/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
     "id": 579527,
     "datetime": "2025-04-16 13:39:02 +02:00",
     "name": "16 april 13.38, Trafikkontroll, Västerbottens län",
@@ -9,18 +93,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 579525,
-    "datetime": "2025-04-16 13:25:08 +02:00",
-    "name": "16 april 12.49, Försvunnen person, Västerås",
-    "summary": "Polisen söker försvunnen person.",
-    "url": "/aktuellt/handelser/2025/april/16/16-april-12.49-forsvunnen-person-vasteras/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -117,18 +189,6 @@
     "location": {
       "name": "Kalix",
       "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 579501,
-    "datetime": "2025-04-16 12:09:54 +02:00",
-    "name": "16 april 11.58, Trafikolycka, Kristianstad",
-    "summary": "Larml om trafikolycka mellan en persobil och traktor, Tollarpsvägen.",
-    "url": "/aktuellt/handelser/2025/april/16/16-april-11.58-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Burlöv",
       "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 578270,
-    "datetime": "2025-04-09 13:40:59 +02:00",
-    "name": "09 april 13.21, Farligt föremål, misstänkt, Sollentuna",
-    "summary": "Ett misstänkt farligt föremål har anträffats i entrén till en butik i Häggvik.",
-    "url": "/aktuellt/handelser/2025/april/9/09-april-13.21-farligt-foremal-misstankt-sollentuna/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 578268,
-    "datetime": "2025-04-09 13:22:04 +02:00",
-    "name": "09 april 13.21, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
-    "url": "/aktuellt/handelser/2025/april/9/09-april-13.21-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 578267,
-    "datetime": "2025-04-09 13:19:13 +02:00",
-    "name": "09 april 13.18, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken – en del av den nationella trafikveckan",
-    "url": "/aktuellt/handelser/2025/april/9/09-april-13.18-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 578265,
-    "datetime": "2025-04-09 13:08:25 +02:00",
-    "name": "09 april 12.59, Trafikolycka, personskada, Värnamo",
-    "summary": "Larm om påkörd person",
-    "url": "/aktuellt/handelser/2025/april/9/09-april-12.59-trafikolycka-personskada-varnamo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 578260,
-    "datetime": "2025-04-09 13:05:41 +02:00",
-    "name": "09 april 11.35, Stöld, Umeå",
-    "summary": "Misstänkt ringa stöld i matbutik, Carlslid.",
-    "url": "/aktuellt/handelser/2025/april/9/09-april-11.35-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
