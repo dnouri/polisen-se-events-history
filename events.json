@@ -1,5 +1,101 @@
 [
   {
+    "id": 580124,
+    "datetime": "2025-04-23 9:08:32 +02:00",
+    "name": "23 april 09.02, Trafikolycka, Jönköping",
+    "summary": "Lastbil och personbil i krock.",
+    "url": "/aktuellt/handelser/2025/april/23/23-april-09.02-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 580126,
+    "datetime": "2025-04-23 9:12:47 +02:00",
+    "name": "23 april 09.04, Trafikolycka, Nässjö",
+    "summary": "Två bilar i krock på riksväg 31.",
+    "url": "/aktuellt/handelser/2025/april/23/23-april-09.04-trafikolycka-nassjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 580125,
+    "datetime": "2025-04-23 9:10:55 +02:00",
+    "name": "23 april 09.03, Trafikolycka, Gnosjö",
+    "summary": "Singelolycka i Gnosjö.",
+    "url": "/aktuellt/handelser/2025/april/23/23-april-09.03-trafikolycka-gnosjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gnosjö",
+      "gps": "57.35804,13.73719"
+    }
+  },
+  {
+    "id": 580116,
+    "datetime": "2025-04-23 8:02:54 +02:00",
+    "name": "23 april 07.41, Trafikolycka, Växjö",
+    "summary": "Cyklist påkörd av fordon på Blockhusvägen, Växjö",
+    "url": "/aktuellt/handelser/2025/april/23/23-april-07.41-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 580123,
+    "datetime": "2025-04-23 8:46:01 +02:00",
+    "name": "23 april 08.30, Trafikolycka, Umeå",
+    "summary": "Umeå, singelolycka på Hissjövägen.",
+    "url": "/aktuellt/handelser/2025/april/23/23-april-08.30-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 580120,
+    "datetime": "2025-04-23 8:41:04 +02:00",
+    "name": "23 april 08.40, Övrigt, Örebro län",
+    "summary": "I dag stänger Bergslagens mediacenter klockan 13.00",
+    "url": "/aktuellt/handelser/2025/april/23/23-april-08.40-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 580119,
+    "datetime": "2025-04-23 8:40:41 +02:00",
+    "name": "23 april 08.40, Övrigt, Värmlands län",
+    "summary": "I dag stänger Bergslagens mediacenter klockan 13.00",
+    "url": "/aktuellt/handelser/2025/april/23/23-april-08.40-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 580118,
+    "datetime": "2025-04-23 8:40:23 +02:00",
+    "name": "23 april 08.38, Övrigt, Dalarnas län",
+    "summary": "I dag stänger Bergslagens mediacenter klockan 13.00",
+    "url": "/aktuellt/handelser/2025/april/23/23-april-08.38-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
     "id": 580117,
     "datetime": "2025-04-23 8:19:38 +02:00",
     "name": "23 april 03.41, Stöld, försök, Söderhamn",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 580116,
-    "datetime": "2025-04-23 8:02:54 +02:00",
-    "name": "23 april 07.41, Trafikolycka, Växjö",
-    "summary": "Cyklist påkörd av fordon på Blockhusvägen, Växjö",
-    "url": "/aktuellt/handelser/2025/april/23/23-april-07.41-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Lomma",
       "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 579068,
-    "datetime": "2025-04-15 11:03:53 +02:00",
-    "name": "15 april 10.38, Trafikolycka, Sorsele",
-    "summary": "Ammarnäs, larm om skoterolycka.",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-10.38-trafikolycka-sorsele/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sorsele",
-      "gps": "65.534938,17.542175"
-    }
-  },
-  {
-    "id": 579263,
-    "datetime": "2025-04-15 12:40:43 +02:00",
-    "name": "15 april 12.29, Trafikolycka, Västerås",
-    "summary": "Singelolycka på riksväg 66.",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-12.29-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 579056,
-    "datetime": "2025-04-15 10:12:01 +02:00",
-    "name": "15 april 09.59, Trafikolycka, Nyköping",
-    "summary": "Trafikolycka påverkar trafiken, E4 Nyköping",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-09.59-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 579288,
-    "datetime": "2025-04-15 12:50:01 +02:00",
-    "name": "15 april 12.33, Trafikolycka, Heby",
-    "summary": "Två personbilar i krock.",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-12.33-trafikolycka-heby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
-    }
-  },
-  {
-    "id": 579215,
-    "datetime": "2025-04-15 12:21:03 +02:00",
-    "name": "15 april 11.13, Trafikolycka, Lund",
-    "summary": "Påkörd person i korsningen Plogfåran och Traktorvägen.",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-11.13-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 579053,
-    "datetime": "2025-04-15 9:09:42 +02:00",
-    "name": "15 april 09.09, Brand, Norrköping",
-    "summary": "Brand, Norrköping",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-09.09-brand-norrkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 579204,
-    "datetime": "2025-04-15 11:43:28 +02:00",
-    "name": "15 april 09.39, Stöld, Östersund",
-    "summary": "Östersund, ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2025/april/15/15-april-09.39-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
