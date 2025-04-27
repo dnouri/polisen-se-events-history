@@ -1,5 +1,77 @@
 [
   {
+    "id": 580897,
+    "datetime": "2025-04-27 14:27:02 +02:00",
+    "name": "27 april 14.15, Räddningsinsats, Malmö",
+    "summary": "Larm om person i vattnet, Skeppsbron.",
+    "url": "/aktuellt/handelser/2025/april/27/27-april-14.15-raddningsinsats-malmo/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 580893,
+    "datetime": "2025-04-27 14:24:47 +02:00",
+    "name": "27 april 14.20, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/april/27/27-april-14.20-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 580896,
+    "datetime": "2025-04-27 14:10:15 +02:00",
+    "name": "27 april 14.04, Olaga hot, Härnösand",
+    "summary": "Härnösand, man greps i natt",
+    "url": "/aktuellt/handelser/2025/april/27/27-april-14.04-olaga-hot-harnosand/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 580895,
+    "datetime": "2025-04-27 14:05:00 +02:00",
+    "name": "27 april 12.03, Misshandel, Uppsala",
+    "summary": "Misshandel på en parkering i Fyrislund.",
+    "url": "/aktuellt/handelser/2025/april/27/27-april-12.03-misshandel-uppsala/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 580890,
+    "datetime": "2025-04-27 13:30:11 +02:00",
+    "name": "27 april 12.46, Knivlagen, Helsingborg",
+    "summary": "Man med kniv, Helsingborg.",
+    "url": "/aktuellt/handelser/2025/april/27/27-april-12.46-knivlagen-helsingborg/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 580894,
+    "datetime": "2025-04-27 13:53:27 +02:00",
+    "name": "27 april 13.21, Trafikolycka, Åmål",
+    "summary": "Lastbil och husbil i krock.",
+    "url": "/aktuellt/handelser/2025/april/27/27-april-13.21-trafikolycka-amal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åmål",
+      "gps": "59.051117,12.697732"
+    }
+  },
+  {
     "id": 580892,
     "datetime": "2025-04-27 13:39:46 +02:00",
     "name": "27 april 13.31, Arbetsplatsolycka, Nybro",
@@ -33,18 +105,6 @@
     "location": {
       "name": "Munkfors",
       "gps": "59.835348,13.534415"
-    }
-  },
-  {
-    "id": 580890,
-    "datetime": "2025-04-27 13:30:11 +02:00",
-    "name": "27 april 12.46, Knivlagen, Helsingborg",
-    "summary": "Man med kniv, Helsingborg.",
-    "url": "/aktuellt/handelser/2025/april/27/27-april-12.46-knivlagen-helsingborg/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 579761,
-    "datetime": "2025-04-18 8:27:13 +02:00",
-    "name": "18 april 08.24, Explosion, Trollhättan",
-    "summary": "UPPDATERING",
-    "url": "/aktuellt/handelser/2025/april/18/18-april-08.24-explosion-trollhattan/",
-    "type": "Explosion",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 579847,
-    "datetime": "2025-04-19 13:41:41 +02:00",
-    "name": "19 april 09.00, Djur, Uppsala",
-    "summary": "Älg i tätbebyggt område.",
-    "url": "/aktuellt/handelser/2025/april/19/19-april-09.00-djur-uppsala/",
-    "type": "Djur",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 579846,
-    "datetime": "2025-04-19 13:32:21 +02:00",
-    "name": "19 april 11.57, Stöld, Vetlanda",
-    "summary": "Aggressiv man i affär.",
-    "url": "/aktuellt/handelser/2025/april/19/19-april-11.57-stold-vetlanda/",
-    "type": "Stöld",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
-    }
-  },
-  {
-    "id": 579845,
-    "datetime": "2025-04-19 13:27:14 +02:00",
-    "name": "19 april 13.27, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/april/19/19-april-13.27-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 579843,
-    "datetime": "2025-04-19 12:34:28 +02:00",
-    "name": "19 april 12.34, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/april/19/19-april-12.34-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
