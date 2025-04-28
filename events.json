@@ -1,5 +1,65 @@
 [
   {
+    "id": 581128,
+    "datetime": "2025-04-28 20:10:54 +02:00",
+    "name": "28 april 12.38, Stöld, Hudiksvall",
+    "summary": "Flera ungdomar gripna efter grov stöld från kvinna.",
+    "url": "/aktuellt/handelser/2025/april/28/28-april-12.38-stold-hudiksvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 581126,
+    "datetime": "2025-04-28 19:19:24 +02:00",
+    "name": "28 april 18.43, Misshandel, Malmö",
+    "summary": "Barn som fallit",
+    "url": "/aktuellt/handelser/2025/april/28/28-april-18.43-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 581132,
+    "datetime": "2025-04-28 19:57:25 +02:00",
+    "name": "28 april 19.33, Brand, Kristianstad",
+    "summary": "Brand i garage",
+    "url": "/aktuellt/handelser/2025/april/28/28-april-19.33-brand-kristianstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 581089,
+    "datetime": "2025-04-28 14:30:08 +02:00",
+    "name": "28 april 13.59, Explosion, Bollnäs",
+    "summary": "Explosion har inträffad vid bensinmack.",
+    "url": "/aktuellt/handelser/2025/april/28/28-april-13.59-explosion-bollnas/",
+    "type": "Explosion",
+    "location": {
+      "name": "Bollnäs",
+      "gps": "61.34838,16.394269"
+    }
+  },
+  {
+    "id": 581131,
+    "datetime": "2025-04-28 19:45:58 +02:00",
+    "name": "28 april 15.38, Rattfylleri, Härnösand",
+    "summary": "Misstänkt drograttfylleri i Härnösand.",
+    "url": "/aktuellt/handelser/2025/april/28/28-april-15.38-rattfylleri-harnosand/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
     "id": 581130,
     "datetime": "2025-04-28 19:42:51 +02:00",
     "name": "28 april 18.40, Misshandel, Karlstad",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Hällefors",
       "gps": "59.783688,14.522569"
-    }
-  },
-  {
-    "id": 581126,
-    "datetime": "2025-04-28 19:19:24 +02:00",
-    "name": "28 april 18.43, Misshandel, Malmö",
-    "summary": "Barn som fallit",
-    "url": "/aktuellt/handelser/2025/april/28/28-april-18.43-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -201,18 +249,6 @@
     "location": {
       "name": "Torsby",
       "gps": "60.140907,13.010213"
-    }
-  },
-  {
-    "id": 581089,
-    "datetime": "2025-04-28 14:30:08 +02:00",
-    "name": "28 april 13.59, Explosion, Bollnäs",
-    "summary": "Explosion har inträffad vid bensinmack.",
-    "url": "/aktuellt/handelser/2025/april/28/28-april-13.59-explosion-bollnas/",
-    "type": "Explosion",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Älmhult",
       "gps": "56.552446,14.137405"
-    }
-  },
-  {
-    "id": 579923,
-    "datetime": "2025-04-21 6:20:35 +02:00",
-    "name": "21 april 00.18, Skadegörelse, Åstorp",
-    "summary": "En bil brinner i norra delen av Åstorp.",
-    "url": "/aktuellt/handelser/2025/april/21/21-april-00.18-skadegorelse-astorp/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 579921,
-    "datetime": "2025-04-21 6:11:38 +02:00",
-    "name": "20 april 23.14, Misshandel, Helsingborg",
-    "summary": "Man i 40-årsåldern grips misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2025/april/20/20-april-23.14-misshandel-helsingborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 579918,
-    "datetime": "2025-04-20 16:40:33 +02:00",
-    "name": "20 april 16.14, Farligt föremål, misstänkt, Malmö",
-    "summary": "Misstänkt farligt föremål, Rosengård.",
-    "url": "/aktuellt/handelser/2025/april/20/20-april-16.14-farligt-foremal-misstankt-malmo/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
