@@ -1,14 +1,38 @@
 [
   {
-    "id": 581497,
-    "datetime": "2025-04-30 17:47:23 +02:00",
-    "name": "30 april 17.27, Trafikolycka, Kungsbacka",
-    "summary": "Flera fordon inblandade i krock på E6.",
-    "url": "/aktuellt/handelser/2025/april/30/30-april-17.27-trafikolycka-kungsbacka/",
-    "type": "Trafikolycka",
+    "id": 581500,
+    "datetime": "2025-04-30 19:22:51 +02:00",
+    "name": "30 april 17.41, Olaga hot, Partille",
+    "summary": "Man med hammare omhändertagen enligt LOB.",
+    "url": "/aktuellt/handelser/2025/april/30/30-april-17.41-olaga-hot-partille/",
+    "type": "Olaga hot",
     "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
+      "name": "Partille",
+      "gps": "57.73665,12.125197"
+    }
+  },
+  {
+    "id": 581499,
+    "datetime": "2025-04-30 19:18:09 +02:00",
+    "name": "30 april 18.46, Brand, Partille",
+    "summary": "Brand i terräng som spridit sig till fastighet.",
+    "url": "/aktuellt/handelser/2025/april/30/30-april-18.46-brand-partille/",
+    "type": "Brand",
+    "location": {
+      "name": "Partille",
+      "gps": "57.73665,12.125197"
+    }
+  },
+  {
+    "id": 581468,
+    "datetime": "2025-04-30 14:55:34 +02:00",
+    "name": "30 april 14.55, Trafikolycka, singel, Mjölby",
+    "summary": "Bilist voltade på länväg 206 utanför Skänninge.",
+    "url": "/aktuellt/handelser/2025/april/30/30-april-14.55-trafikolycka-singel-mjolby/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Mjölby",
+      "gps": "58.322691,15.133535"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 581497,
+    "datetime": "2025-04-30 17:47:23 +02:00",
+    "name": "30 april 17.27, Trafikolycka, Kungsbacka",
+    "summary": "Flera fordon inblandade i krock på E6.",
+    "url": "/aktuellt/handelser/2025/april/30/30-april-17.27-trafikolycka-kungsbacka/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
     }
   },
   {
@@ -63,7 +99,7 @@
     "id": 581477,
     "datetime": "2025-04-30 15:21:51 +02:00",
     "name": "30 april 14.10, Explosion, Stockholm",
-    "summary": "Något har exploderat i eller vid ett flerfamiljshus i Vällingby",
+    "summary": "Något har exploderat i eller vid ett flerfamiljshus i Vällingby.",
     "url": "/aktuellt/handelser/2025/april/30/30-april-14.10-explosion-stockholm/",
     "type": "Explosion",
     "location": {
@@ -93,18 +129,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 581468,
-    "datetime": "2025-04-30 14:55:34 +02:00",
-    "name": "30 april 14.55, Trafikolycka, singel, Mjölby",
-    "summary": "Bilist voltade på länväg 206 utanför Skänninge.",
-    "url": "/aktuellt/handelser/2025/april/30/30-april-14.55-trafikolycka-singel-mjolby/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Mjölby",
-      "gps": "58.322691,15.133535"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 580119,
-    "datetime": "2025-04-23 8:40:41 +02:00",
-    "name": "23 april 08.40, Övrigt, Värmlands län",
-    "summary": "I dag stänger Bergslagens mediacenter klockan 13.00",
-    "url": "/aktuellt/handelser/2025/april/23/23-april-08.40-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 580118,
-    "datetime": "2025-04-23 8:40:23 +02:00",
-    "name": "23 april 08.38, Övrigt, Dalarnas län",
-    "summary": "I dag stänger Bergslagens mediacenter klockan 13.00",
-    "url": "/aktuellt/handelser/2025/april/23/23-april-08.38-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
