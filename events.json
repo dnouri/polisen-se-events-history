@@ -1,5 +1,65 @@
 [
   {
+    "id": 581557,
+    "datetime": "2025-05-01 14:50:31 +02:00",
+    "name": "01 maj 14.50, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/maj/1/01-maj-14.50-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 581558,
+    "datetime": "2025-05-01 14:50:26 +02:00",
+    "name": "01 maj 14.50, Övrigt, Hallands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/maj/1/01-maj-14.50-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 581556,
+    "datetime": "2025-05-01 14:05:52 +02:00",
+    "name": "01 maj 13.41, Trafikolycka, Lund",
+    "summary": "Larm om singelolycka med motorcykel, Häckeberga.",
+    "url": "/aktuellt/handelser/2025/maj/1/01-maj-13.41-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 581552,
+    "datetime": "2025-05-01 13:07:03 +02:00",
+    "name": "01 maj 12.55, Trafikolycka, Linköping",
+    "summary": "Trafikolycka påverkar trafiken på riksväg 23 mellan Rimforsa och Brokind",
+    "url": "/aktuellt/handelser/2025/maj/1/01-maj-12.55-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 581555,
+    "datetime": "2025-05-01 13:56:59 +02:00",
+    "name": "01 maj 13.56, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/maj/1/01-maj-13.56-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 581554,
     "datetime": "2025-05-01 13:23:40 +02:00",
     "name": "01 maj 09.57, Bedrägeri, Härryda",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 581552,
-    "datetime": "2025-05-01 13:07:03 +02:00",
-    "name": "01 maj 12.55, Trafikolycka, Linköping",
-    "summary": "Trafikolycka påverkar trafiken på riksväg 23 mellan Rimforsa och Brokind",
-    "url": "/aktuellt/handelser/2025/maj/1/01-maj-12.55-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 580280,
-    "datetime": "2025-04-23 19:26:23 +02:00",
-    "name": "23 april 18.09, Åldringsbrott, Västervik",
-    "summary": "Bedrägeri mot äldre kvinna.",
-    "url": "/aktuellt/handelser/2025/april/23/23-april-18.09-aldringsbrott-vastervik/",
-    "type": "Åldringsbrott",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 580279,
-    "datetime": "2025-04-23 19:19:09 +02:00",
-    "name": "23 april 17.34, Fylleri/LOB, Umeå",
-    "summary": "Ersboda, polis kontaktas gällande berusad kvinna utomhus",
-    "url": "/aktuellt/handelser/2025/april/23/23-april-17.34-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 580278,
-    "datetime": "2025-04-23 19:16:26 +02:00",
-    "name": "23 april 17.37, Stöld, Umeå",
-    "summary": "Centrala stan, polis kontaktas gällande stöld i butik",
-    "url": "/aktuellt/handelser/2025/april/23/23-april-17.37-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 580265,
-    "datetime": "2025-04-23 17:44:50 +02:00",
-    "name": "23 april 16.09, Stöld, Stockholm",
-    "summary": "En person har blivit bestulen på sin handväska utomhus i Västertorp. En person sprang fram bakifrån och ryckte",
-    "url": "/aktuellt/handelser/2025/april/23/23-april-16.09-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
