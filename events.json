@@ -1,5 +1,89 @@
 [
   {
+    "id": 581634,
+    "datetime": "2025-05-02 12:21:25 +02:00",
+    "name": "02 maj 10.57, Mord/dråp, försök, Uppsala",
+    "summary": "Två personer misstänks för försök till mord efter bråk i park.",
+    "url": "/aktuellt/handelser/2025/maj/2/02-maj-10.57-morddrap-forsok-uppsala/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 581633,
+    "datetime": "2025-05-02 12:21:20 +02:00",
+    "name": "02 maj 12.21, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/maj/2/02-maj-12.21-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 581632,
+    "datetime": "2025-05-02 12:20:29 +02:00",
+    "name": "02 maj 12.20, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/maj/2/02-maj-12.20-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 581631,
+    "datetime": "2025-05-02 12:19:47 +02:00",
+    "name": "02 maj 10.31, Rattfylleri, Stockholm",
+    "summary": "Misstänkt rattfylleri vid Stadsgården.",
+    "url": "/aktuellt/handelser/2025/maj/2/02-maj-10.31-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 581630,
+    "datetime": "2025-05-02 12:07:50 +02:00",
+    "name": "02 maj 12.07, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/maj/2/02-maj-12.07-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 581629,
+    "datetime": "2025-05-02 11:57:26 +02:00",
+    "name": "02 maj 11.48, Trafikolycka, Sölvesborg",
+    "summary": "Två personbilar i olycka, Mjällby.",
+    "url": "/aktuellt/handelser/2025/maj/2/02-maj-11.48-trafikolycka-solvesborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 581628,
+    "datetime": "2025-05-02 11:51:46 +02:00",
+    "name": "02 maj 10.52, Trafikolycka, Borås",
+    "summary": "Två bilar i krock.",
+    "url": "/aktuellt/handelser/2025/maj/2/02-maj-10.52-trafikolycka-boras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
     "id": 581620,
     "datetime": "2025-05-02 10:53:13 +02:00",
     "name": "02 maj 10.36, Brand, Simrishamn",
@@ -69,42 +153,6 @@
     "location": {
       "name": "Storuman",
       "gps": "65.09562,17.112277"
-    }
-  },
-  {
-    "id": 581604,
-    "datetime": "2025-05-02 8:47:55 +02:00",
-    "name": "02 maj 08.47, Övrigt, Örebro län",
-    "summary": "I dag öppnar det regionala mediecentret i Bergslagen klockan 10.00 med anledning av möte",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-08.47-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 581603,
-    "datetime": "2025-05-02 8:47:40 +02:00",
-    "name": "02 maj 08.47, Övrigt, Dalarnas län",
-    "summary": "I dag öppnar det regionala mediecentret i Bergslagen klockan 10.00 med anledning av möte",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-08.47-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 581602,
-    "datetime": "2025-05-02 8:47:26 +02:00",
-    "name": "02 maj 08.46, Övrigt, Värmlands län",
-    "summary": "I dag öppnar det regionala mediecentret i Bergslagen klockan 10.00 med anledning av möte",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-08.46-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 580328,
-    "datetime": "2025-04-24 8:08:55 +02:00",
-    "name": "24 april 08.07, Övrigt, Örebro län",
-    "summary": "Idag öppnar Bergslagens regionala mediecenter senare.",
-    "url": "/aktuellt/handelser/2025/april/24/24-april-08.07-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 580318,
-    "datetime": "2025-04-24 7:54:20 +02:00",
-    "name": "24 april 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2025/april/24/24-april-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 580326,
-    "datetime": "2025-04-24 7:54:01 +02:00",
-    "name": "24 april 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2025/april/24/24-april-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 580325,
-    "datetime": "2025-04-24 7:53:47 +02:00",
-    "name": "24 april 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2025/april/24/24-april-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
