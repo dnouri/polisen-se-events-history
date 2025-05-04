@@ -1,5 +1,113 @@
 [
   {
+    "id": 581821,
+    "datetime": "2025-05-04 7:26:30 +02:00",
+    "name": "04 maj 00.37, Stöld, Botkyrka",
+    "summary": "En anmälare ringde in angående att en man stal jordsäckar från en bygghandel i Fittja.",
+    "url": "/aktuellt/handelser/2025/maj/4/04-maj-00.37-stold-botkyrka/",
+    "type": "Stöld",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 581820,
+    "datetime": "2025-05-04 7:23:11 +02:00",
+    "name": "04 maj 01.20, Knivlagen, Gotlands län",
+    "summary": "En man är misstänkt för brott mot knivlagen efter att har burit kniv utanför en krog i centrala Visby.",
+    "url": "/aktuellt/handelser/2025/maj/4/04-maj-01.20-knivlagen-gotlands-lan/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 581818,
+    "datetime": "2025-05-04 7:17:03 +02:00",
+    "name": "04 maj 05.42, Skadegörelse, Botkyrka",
+    "summary": "En man är misstänkt för skadegörelse efter att en entrédörr till en tunnelbanestation i Norsborg sparkats sönd",
+    "url": "/aktuellt/handelser/2025/maj/4/04-maj-05.42-skadegorelse-botkyrka/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 581817,
+    "datetime": "2025-05-04 7:16:52 +02:00",
+    "name": "04 maj 07.16, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
+    "url": "/aktuellt/handelser/2025/maj/4/04-maj-07.16-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 581816,
+    "datetime": "2025-05-04 7:14:10 +02:00",
+    "name": "03 maj 22.32, Misshandel, Uppsala",
+    "summary": "Larm om bråk i trapphus, Sala Backe.",
+    "url": "/aktuellt/handelser/2025/maj/3/03-maj-22.32-misshandel-uppsala/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 581815,
+    "datetime": "2025-05-04 7:09:49 +02:00",
+    "name": "04 maj 07.09, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
+    "url": "/aktuellt/handelser/2025/maj/4/04-maj-07.09-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 581814,
+    "datetime": "2025-05-04 7:09:36 +02:00",
+    "name": "04 maj 01.18, Misshandel, Hudiksvall",
+    "summary": "Larm om bråk utomhus, Storgatan.",
+    "url": "/aktuellt/handelser/2025/maj/4/04-maj-01.18-misshandel-hudiksvall/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 581813,
+    "datetime": "2025-05-04 7:00:34 +02:00",
+    "name": "04 maj 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av dygnets händelser.",
+    "url": "/aktuellt/handelser/2025/maj/4/04-maj-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 581812,
+    "datetime": "2025-05-04 7:00:24 +02:00",
+    "name": "04 maj 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av dygnets händelser.",
+    "url": "/aktuellt/handelser/2025/maj/4/04-maj-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 581810,
     "datetime": "2025-05-04 6:44:43 +02:00",
     "name": "04 maj 06.31, Trafikolycka, Svedala",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Sjöbo",
       "gps": "55.634822,13.70337"
-    }
-  },
-  {
-    "id": 580853,
-    "datetime": "2025-04-26 20:34:07 +02:00",
-    "name": "26 april 20.34, Trafikolycka, Lomma",
-    "summary": "Larm om singelolycka med motorcykel, Malmövägen.",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-20.34-trafikolycka-lomma/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lomma",
-      "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 580855,
-    "datetime": "2025-04-26 21:17:27 +02:00",
-    "name": "26 april 20.30, Trafikolycka, singel, Göteborg",
-    "summary": "SOS kontaktar polisen om en trafikolycka med två mc inblandade vid Leråkersmotet.",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-20.30-trafikolycka-singel-goteborg/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 580854,
-    "datetime": "2025-04-26 20:49:15 +02:00",
-    "name": "26 april 19.14, Trafikbrott, Göteborg",
-    "summary": "Flera inringare hör av sig om att det pågår ett streetrace på Transportgatan.",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-19.14-trafikbrott-goteborg/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 580847,
-    "datetime": "2025-04-26 17:24:12 +02:00",
-    "name": "26 april 17.07, Brand, Nacka",
-    "summary": "Polis och räddningstjänst kallas till en pågående brand i ett flerfamiljshus i Fisksätra.",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-17.07-brand-nacka/",
-    "type": "Brand",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 580852,
-    "datetime": "2025-04-26 20:15:13 +02:00",
-    "name": "26 april 19.44, Trafikbrott, Malmö",
-    "summary": "Bilist kört motsatt färdriktning från Öresundsbron mot Malmö.",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-19.44-trafikbrott-malmo/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 580848,
-    "datetime": "2025-04-26 18:14:32 +02:00",
-    "name": "26 april 16.25, Misshandel, grov, Vänersborg",
-    "summary": "En polispatrull larmas till en adress i centrala Vänersborg med anledning av att det är bråk i en lägenhet.",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-16.25-misshandel-grov-vanersborg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 580846,
-    "datetime": "2025-04-26 16:56:18 +02:00",
-    "name": "26 april 16.50, Trafikolycka, Tingsryd",
-    "summary": "Larm om singelolycka med personbil, länsväg 120.",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-16.50-trafikolycka-tingsryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Tingsryd",
-      "gps": "56.524745,14.978534"
-    }
-  },
-  {
-    "id": 580844,
-    "datetime": "2025-04-26 17:20:45 +02:00",
-    "name": "26 april 15.00, Ordningslagen, Borås",
-    "summary": "Kl 15.00 var det två tillståndsgivna allmänna sammankomster på Stora torget, Alternativ för Sverige och Ung vä",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-15.00-ordningslagen-boras/",
-    "type": "Ordningslagen",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 580841,
-    "datetime": "2025-04-26 14:34:43 +02:00",
-    "name": "26 april 14.22, Trafikolycka, Helsingborg",
-    "summary": "Larm om trafikolycka mellan en buss och moped, Djurhagshusvägen.",
-    "url": "/aktuellt/handelser/2025/april/26/26-april-14.22-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   }
 ]
