@@ -1,5 +1,65 @@
 [
   {
+    "id": 581991,
+    "datetime": "2025-05-05 17:23:45 +02:00",
+    "name": "05 maj 17.15, Trafikolycka, Helsingborg",
+    "summary": "Trafikolycka på E6 i höjd med Gantofta.",
+    "url": "/aktuellt/handelser/2025/maj/5/05-maj-17.15-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 581992,
+    "datetime": "2025-05-05 17:25:22 +02:00",
+    "name": "05 maj 16.10, Brand, Sollentuna",
+    "summary": "Brand utomhus som troligen startat efter att någon/några smällt smällare.",
+    "url": "/aktuellt/handelser/2025/maj/5/05-maj-16.10-brand-sollentuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 581976,
+    "datetime": "2025-05-05 15:34:52 +02:00",
+    "name": "05 maj 15.34, Trafikolycka, Norrköping",
+    "summary": "Lastbil med släp fast mellan två broar vid trafikplats Beckershov.",
+    "url": "/aktuellt/handelser/2025/maj/5/05-maj-15.34-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 581990,
+    "datetime": "2025-05-05 17:12:57 +02:00",
+    "name": "05 maj 16.21, Stöld, Luleå",
+    "summary": "Mjölkudden, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/maj/5/05-maj-16.21-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 581960,
+    "datetime": "2025-05-05 14:43:53 +02:00",
+    "name": "05 maj 12.39, Arbetsplatsolycka, Alvesta",
+    "summary": "Man skadad i samband med arbete, Vislanda.",
+    "url": "/aktuellt/handelser/2025/maj/5/05-maj-12.39-arbetsplatsolycka-alvesta/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Alvesta",
+      "gps": "56.89921,14.556001"
+    }
+  },
+  {
     "id": 581989,
     "datetime": "2025-05-05 16:45:02 +02:00",
     "name": "05 maj 16.44, Trafikolycka, Norrköping",
@@ -144,18 +204,6 @@
     }
   },
   {
-    "id": 581976,
-    "datetime": "2025-05-05 15:34:52 +02:00",
-    "name": "05 maj 15.34, Trafikolycka, Norrköping",
-    "summary": "Lastbil med släp fast mellan två broar vid trafikplats Beckershov.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-15.34-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
     "id": 581974,
     "datetime": "2025-05-05 15:24:09 +02:00",
     "name": "05 maj 15.14, Trafikolycka, Vansbro",
@@ -189,18 +237,6 @@
     "location": {
       "name": "Vänersborg",
       "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 581960,
-    "datetime": "2025-05-05 14:43:53 +02:00",
-    "name": "05 maj 12.39, Arbetsplatsolycka, Alvesta",
-    "summary": "Man skadad i samband med arbete, Vislanda.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-12.39-arbetsplatsolycka-alvesta/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 581133,
-    "datetime": "2025-04-28 21:16:16 +02:00",
-    "name": "28 april 19.03, Trafikolycka, Ystad",
-    "summary": "Motorcykel som gått omkull",
-    "url": "/aktuellt/handelser/2025/april/28/28-april-19.03-trafikolycka-ystad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 581128,
-    "datetime": "2025-04-28 20:10:54 +02:00",
-    "name": "28 april 12.38, Stöld, Hudiksvall",
-    "summary": "Flera ungdomar gripna efter grov stöld från kvinna.",
-    "url": "/aktuellt/handelser/2025/april/28/28-april-12.38-stold-hudiksvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 581132,
-    "datetime": "2025-04-28 19:57:25 +02:00",
-    "name": "28 april 19.33, Brand, Kristianstad",
-    "summary": "Brand i garage",
-    "url": "/aktuellt/handelser/2025/april/28/28-april-19.33-brand-kristianstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   }
 ]
