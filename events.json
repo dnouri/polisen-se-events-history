@@ -1,5 +1,113 @@
 [
   {
+    "id": 582106,
+    "datetime": "2025-05-06 16:27:01 +02:00",
+    "name": "06 maj 16.18, Trafikolycka, Kristianstad",
+    "summary": "Larm om trafikolycka på riksväg 19 strax söder om Everöd.",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-16.18-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 582105,
+    "datetime": "2025-05-06 16:24:34 +02:00",
+    "name": "06 maj 16.17, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka på E6, Trafikplats Fredriksberg.",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-16.17-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 582103,
+    "datetime": "2025-05-06 16:16:03 +02:00",
+    "name": "06 maj 14.08, Stöld, Umeå",
+    "summary": "Strömpilen, ung kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-14.08-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 582102,
+    "datetime": "2025-05-06 16:10:22 +02:00",
+    "name": "06 maj 16.08, Trafikhinder, Norrköping",
+    "summary": "Länga köer på E4 utanför Norrköping",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-16.08-trafikhinder-norrkoping/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 582101,
+    "datetime": "2025-05-06 16:05:57 +02:00",
+    "name": "06 maj 14.28, Stöld, Piteå",
+    "summary": "Strömnäs, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-14.28-stold-pitea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 582093,
+    "datetime": "2025-05-06 15:02:24 +02:00",
+    "name": "06 maj 14.44, Trafikolycka, Göteborg",
+    "summary": "Bil och cykel i kollision.",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-14.44-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 582100,
+    "datetime": "2025-05-06 15:59:03 +02:00",
+    "name": "06 maj 12.34, Arbetsplatsolycka, Överkalix",
+    "summary": "Överkalix, man skadad i samband med arbete",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-12.34-arbetsplatsolycka-overkalix/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Överkalix",
+      "gps": "66.327176,22.842752"
+    }
+  },
+  {
+    "id": 582099,
+    "datetime": "2025-05-06 15:49:10 +02:00",
+    "name": "06 maj 12.46, Stöld, Luleå",
+    "summary": "Storheden, man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-12.46-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 582098,
+    "datetime": "2025-05-06 15:48:00 +02:00",
+    "name": "06 maj 12.28, Stöld, Luleå",
+    "summary": "Storheden, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-12.28-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 582078,
     "datetime": "2025-05-06 13:10:38 +02:00",
     "name": "06 maj 12.19, Brand, Vetlanda",
@@ -21,18 +129,6 @@
     "location": {
       "name": "Tierp",
       "gps": "60.347587,17.520509"
-    }
-  },
-  {
-    "id": 582093,
-    "datetime": "2025-05-06 15:02:24 +02:00",
-    "name": "06 maj 14.44, Trafikolycka, Göteborg",
-    "summary": "Bil och cykel i kollision.",
-    "url": "/aktuellt/handelser/2025/maj/6/06-maj-14.44-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 581256,
-    "datetime": "2025-04-29 20:58:06 +02:00",
-    "name": "29 april 17.05, Ofredande/förargelse, Umeå",
-    "summary": "Misstänkt ofredande i Röbäck utanför Umeå.",
-    "url": "/aktuellt/handelser/2025/april/29/29-april-17.05-ofredandeforargelse-umea/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 581255,
-    "datetime": "2025-04-29 20:47:28 +02:00",
-    "name": "29 april 19.51, Alkohollagen, Umeå",
-    "summary": "Misstänkt langningsbrott i Umeå.",
-    "url": "/aktuellt/handelser/2025/april/29/29-april-19.51-alkohollagen-umea/",
-    "type": "Alkohollagen",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 581245,
-    "datetime": "2025-04-29 19:01:00 +02:00",
-    "name": "29 april 18.47, Trafikolycka, Göteborg",
-    "summary": "En personbil har voltat på Dag Hammarskjöldsleden vid Flatåsmotet.",
-    "url": "/aktuellt/handelser/2025/april/29/29-april-18.47-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 581253,
-    "datetime": "2025-04-29 20:14:16 +02:00",
-    "name": "29 april 19.32, Rattfylleri, Sollentuna",
-    "summary": "När en polispatrull stoppade en bil för kontroll av föraren på Bagarbyvägen uppstod misstanke om rattfylleri.",
-    "url": "/aktuellt/handelser/2025/april/29/29-april-19.32-rattfylleri-sollentuna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 581249,
-    "datetime": "2025-04-29 19:43:21 +02:00",
-    "name": "29 april 19.43, Trafikkontroll, Jämtlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/april/29/29-april-19.43-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 581248,
-    "datetime": "2025-04-29 19:20:27 +02:00",
-    "name": "29 april 18.15, Trafikhinder, Salem",
-    "summary": "Polis är på plats på E4:an i höjd med Salems kyrka, i norrgående riktning, med anledning av att en stillaståen",
-    "url": "/aktuellt/handelser/2025/april/29/29-april-18.15-trafikhinder-salem/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Salem",
-      "gps": "59.20768,17.774222"
-    }
-  },
-  {
-    "id": 581246,
-    "datetime": "2025-04-29 19:06:17 +02:00",
-    "name": "29 april 18.43, Trafikolycka, Malmö",
-    "summary": "Cyklist påkörd av bilist Smedjegatan/Södra Förstadsgatan i Malmö",
-    "url": "/aktuellt/handelser/2025/april/29/29-april-18.43-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 581244,
-    "datetime": "2025-04-29 18:53:06 +02:00",
-    "name": "29 april 17.47, Brand, Östersund",
-    "summary": "Brand i flerfamiljshus i Torvalla, Östersund.",
-    "url": "/aktuellt/handelser/2025/april/29/29-april-17.47-brand-ostersund/",
-    "type": "Brand",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
