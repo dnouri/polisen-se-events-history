@@ -1,5 +1,101 @@
 [
   {
+    "id": 582199,
+    "datetime": "2025-05-07 11:24:39 +02:00",
+    "name": "07 maj 09.48, Rattfylleri, Uppsala",
+    "summary": "Bilist misstänks för brott.",
+    "url": "/aktuellt/handelser/2025/maj/7/07-maj-09.48-rattfylleri-uppsala/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 582198,
+    "datetime": "2025-05-07 11:19:26 +02:00",
+    "name": "07 maj 09.22, Skadegörelse, Skinnskatteberg",
+    "summary": "Anmälan om skadegörelse.",
+    "url": "/aktuellt/handelser/2025/maj/7/07-maj-09.22-skadegorelse-skinnskatteberg/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Skinnskatteberg",
+      "gps": "59.826056,15.691519"
+    }
+  },
+  {
+    "id": 582197,
+    "datetime": "2025-05-07 11:15:02 +02:00",
+    "name": "07 maj 09.12, Rattfylleri, Umeå",
+    "summary": "Länsväg 363, Klockarbäcken. Polisen kontrollerar en personbil.",
+    "url": "/aktuellt/handelser/2025/maj/7/07-maj-09.12-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 582196,
+    "datetime": "2025-05-07 11:10:17 +02:00",
+    "name": "07 maj 08.49, Trafikbrott, Umeå",
+    "summary": "Mariedal, en grävmaskin har stött grävarmen mot en cykelväg/bro som går över bilvägen.",
+    "url": "/aktuellt/handelser/2025/maj/7/07-maj-08.49-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 582011,
+    "datetime": "2025-05-05 21:27:15 +02:00",
+    "name": "05 maj 21.20, Försvunnen person, Karlstad",
+    "summary": "Den försvunne mannen i Karlstad har återfunnits.",
+    "url": "/aktuellt/handelser/2025/maj/5/05-maj-21.20-forsvunnen-person-karlstad/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 582123,
+    "datetime": "2025-05-06 19:13:34 +02:00",
+    "name": "06 maj 18.42, Mord/dråp, Kramfors",
+    "summary": "Strax söder om Kramfors, larm inkommer gällande misshandel utomhus",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-18.42-morddrap-kramfors/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 582193,
+    "datetime": "2025-05-07 10:46:41 +02:00",
+    "name": "07 maj 10.12, Brand, Trelleborg",
+    "summary": "Det brinner i en lägenhet på Fagerängen.",
+    "url": "/aktuellt/handelser/2025/maj/7/07-maj-10.12-brand-trelleborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 582191,
+    "datetime": "2025-05-07 10:44:29 +02:00",
+    "name": "07 maj 09.12, Arbetsplatsolycka, Helsingborg",
+    "summary": "En man i 45-årsåldern förs med ambulans till sjukhus efter arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2025/maj/7/07-maj-09.12-arbetsplatsolycka-helsingborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 582188,
     "datetime": "2025-05-07 10:30:36 +02:00",
     "name": "07 maj 07.40, Trafikolycka, personskada, Uddevalla",
@@ -333,18 +429,6 @@
     "location": {
       "name": "Haparanda",
       "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 582123,
-    "datetime": "2025-05-06 19:13:34 +02:00",
-    "name": "06 maj 18.42, Mord/dråp, Kramfors",
-    "summary": "Strax söder om Kramfors, larm inkommer gällande misshandel utomhus",
-    "url": "/aktuellt/handelser/2025/maj/6/06-maj-18.42-morddrap-kramfors/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   },
   {
@@ -1305,18 +1389,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 582011,
-    "datetime": "2025-05-05 21:27:15 +02:00",
-    "name": "05 maj 21.20, Försvunnen person, Karlstad",
-    "summary": "Polisen söker en försvunnen man i Karlstad.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-21.20-forsvunnen-person-karlstad/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 581507,
-    "datetime": "2025-04-30 21:17:49 +02:00",
-    "name": "30 april 20.42, Brand, Hässleholm",
-    "summary": "Brand i mindre villa i Hästveda, Hässleholm",
-    "url": "/aktuellt/handelser/2025/april/30/30-april-20.42-brand-hassleholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 581505,
-    "datetime": "2025-04-30 20:28:37 +02:00",
-    "name": "30 april 19.22, Trafikolycka, personskada, Stenungsund",
-    "summary": "Man avförd med ambulanshelikopter efter singelolycka.",
-    "url": "/aktuellt/handelser/2025/april/30/30-april-19.22-trafikolycka-personskada-stenungsund/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 581506,
-    "datetime": "2025-04-30 20:32:58 +02:00",
-    "name": "30 april 19.44, Rån, Simrishamn",
-    "summary": "Kund hamnar i handgemäng med person som stulit varor inne på COOP i Simrishamn.",
-    "url": "/aktuellt/handelser/2025/april/30/30-april-19.44-ran-simrishamn/",
-    "type": "Rån",
-    "location": {
-      "name": "Simrishamn",
-      "gps": "55.557396,14.348965"
-    }
-  },
-  {
-    "id": 581504,
-    "datetime": "2025-04-30 20:17:38 +02:00",
-    "name": "30 april 19.36, Bråk, Stockholm",
-    "summary": "Polis larmas till Kungsholmen med uppgifter om slagsmål.",
-    "url": "/aktuellt/handelser/2025/april/30/30-april-19.36-brak-stockholm/",
-    "type": "Bråk",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 581500,
-    "datetime": "2025-04-30 19:22:51 +02:00",
-    "name": "30 april 17.41, Olaga hot, Partille",
-    "summary": "Man med hammare omhändertagen enligt LOB.",
-    "url": "/aktuellt/handelser/2025/april/30/30-april-17.41-olaga-hot-partille/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Partille",
-      "gps": "57.73665,12.125197"
-    }
-  },
-  {
-    "id": 581499,
-    "datetime": "2025-04-30 19:18:09 +02:00",
-    "name": "30 april 18.46, Brand, Partille",
-    "summary": "Brand i terräng som spridit sig till fastighet.",
-    "url": "/aktuellt/handelser/2025/april/30/30-april-18.46-brand-partille/",
-    "type": "Brand",
-    "location": {
-      "name": "Partille",
-      "gps": "57.73665,12.125197"
     }
   }
 ]
