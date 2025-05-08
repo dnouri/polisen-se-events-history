@@ -1,14 +1,38 @@
 [
   {
-    "id": 582204,
-    "datetime": "2025-05-07 12:15:53 +02:00",
-    "name": "07 maj 11.03, Övrigt, Halmstad",
-    "summary": "En person ringer in till polisen om att hen och ytterligare en person skall ha blivit utsatta för ett  brott i",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-11.03-ovrigt-halmstad/",
-    "type": "Övrigt",
+    "id": 582123,
+    "datetime": "2025-05-06 19:13:34 +02:00",
+    "name": "06 maj 18.42, Mord/dråp, Kramfors",
+    "summary": "Strax söder om Kramfors, larm inkommer gällande misshandel utomhus",
+    "url": "/aktuellt/handelser/2025/maj/6/06-maj-18.42-morddrap-kramfors/",
+    "type": "Mord/dråp",
     "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 582285,
+    "datetime": "2025-05-08 8:01:56 +02:00",
+    "name": "08 maj 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 582289,
+    "datetime": "2025-05-08 8:01:33 +02:00",
+    "name": "08 maj 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -21,6 +45,90 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 582294,
+    "datetime": "2025-05-08 8:01:07 +02:00",
+    "name": "08 maj 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 582292,
+    "datetime": "2025-05-08 8:00:42 +02:00",
+    "name": "08 maj 07.59, Övrigt, Dalarnas län",
+    "summary": "Idag öppnar Bergslagens regionala mediacenter senare.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-07.59-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 582291,
+    "datetime": "2025-05-08 7:59:46 +02:00",
+    "name": "08 maj 07.58, Övrigt, Värmlands län",
+    "summary": "Idag öppnar Bergslagens regionala mediacenter senare.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-07.58-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 582290,
+    "datetime": "2025-05-08 7:58:38 +02:00",
+    "name": "08 maj 07.57, Övrigt, Örebro län",
+    "summary": "Idag öppnar Bergslagens regionala mediacenter senare.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-07.57-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 582288,
+    "datetime": "2025-05-08 7:48:17 +02:00",
+    "name": "07 maj 19.51, Rån, Uppsala",
+    "summary": "En man anmälde att han hade blivit rånad på sin mobiltelefon och plånbok i Gamla Uppsala.",
+    "url": "/aktuellt/handelser/2025/maj/7/07-maj-19.51-ran-uppsala/",
+    "type": "Rån",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 582287,
+    "datetime": "2025-05-08 7:47:17 +02:00",
+    "name": "08 maj 06.08, Brand, Göteborg",
+    "summary": "Larm om brand i skola i Askim.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-06.08-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 582204,
+    "datetime": "2025-05-07 12:15:53 +02:00",
+    "name": "07 maj 11.03, Övrigt, Halmstad",
+    "summary": "En person ringer in till polisen om att hen och ytterligare en person skall ha blivit utsatta för ett  brott i",
+    "url": "/aktuellt/handelser/2025/maj/7/07-maj-11.03-ovrigt-halmstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
     }
   },
   {
@@ -741,18 +849,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 582123,
-    "datetime": "2025-05-06 19:13:34 +02:00",
-    "name": "06 maj 18.42, Mord/dråp, Kramfors",
-    "summary": "Strax söder om Kramfors, larm inkommer gällande misshandel utomhus",
-    "url": "/aktuellt/handelser/2025/maj/6/06-maj-18.42-morddrap-kramfors/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 581589,
-    "datetime": "2025-05-02 6:57:51 +02:00",
-    "name": "02 maj 06.58, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-06.58-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 581585,
-    "datetime": "2025-05-02 6:35:52 +02:00",
-    "name": "02 maj 00.49, Misshandel, Helsingborg",
-    "summary": "Man misshandlad, Helsingborg.",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-00.49-misshandel-helsingborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 581583,
-    "datetime": "2025-05-02 6:31:10 +02:00",
-    "name": "01 maj 22.57, Trafikbrott, Karlshamn",
-    "summary": "Förföljande, Stilleryd.",
-    "url": "/aktuellt/handelser/2025/maj/1/01-maj-22.57-trafikbrott-karlshamn/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 581579,
-    "datetime": "2025-05-02 3:20:01 +02:00",
-    "name": "02 maj 02.53, Brand, Nynäshamn",
-    "summary": "Det brinner i en villa i Nynäshamn. De som bor i fastigheten har evakuerats.",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-02.53-brand-nynashamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 581578,
-    "datetime": "2025-05-02 2:10:58 +02:00",
-    "name": "02 maj 01.00, Explosion, Solna",
-    "summary": "Polisen bedömer att en handgranat har exploderat på en trottoar utanför en fastighet i Hagalund.",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-01.00-explosion-solna/",
-    "type": "Explosion",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 581573,
-    "datetime": "2025-05-01 23:41:26 +02:00",
-    "name": "01 maj 23.34, Polisinsats/kommendering, Stockholm",
-    "summary": "Under kvällen har polisen i region Stockholm genomfört en insats med anledning av fotbollsmatchen i UEFA Confe",
-    "url": "/aktuellt/handelser/2025/maj/1/01-maj-23.34-polisinsatskommendering-stockholm/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 581569,
-    "datetime": "2025-05-01 20:39:04 +02:00",
-    "name": "01 maj 20.34, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka mellan en personbil och cykel, Thomsons väg.",
-    "url": "/aktuellt/handelser/2025/maj/1/01-maj-20.34-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 581567,
-    "datetime": "2025-05-01 19:01:38 +02:00",
-    "name": "01 maj 18.52, Polisinsats/kommendering, Malmö",
-    "summary": "Brott mot ordningslagen, Gustav Adolfs torg. Två personer avvisade från Folkets Park.",
-    "url": "/aktuellt/handelser/2025/maj/1/01-maj-18.52-polisinsatskommendering-malmo/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
