@@ -1,5 +1,53 @@
 [
   {
+    "id": 582389,
+    "datetime": "2025-05-08 20:13:49 +02:00",
+    "name": "08 maj 19.54, Explosion, Linköping",
+    "summary": "Larm om hög smäll",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-19.54-explosion-linkoping/",
+    "type": "Explosion",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 582393,
+    "datetime": "2025-05-08 20:57:09 +02:00",
+    "name": "08 maj 20.57, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från trafikkontroller i dag.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-20.57-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 582392,
+    "datetime": "2025-05-08 20:55:21 +02:00",
+    "name": "08 maj 17.43, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, förare misstänks vara påverkad av alkohol.",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-17.43-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 582371,
+    "datetime": "2025-05-08 17:48:07 +02:00",
+    "name": "08 maj 16.45, Trafikbrott, Borlänge",
+    "summary": "En man i 35-årsåldern misstänkt för grov olovlig körning och Drograttfylleri i Kvarnsveden på torsdagseftermid",
+    "url": "/aktuellt/handelser/2025/maj/8/08-maj-16.45-trafikbrott-borlange/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 582382,
     "datetime": "2025-05-08 20:37:40 +02:00",
     "name": "08 maj 19.31, Misshandel, Vänersborg",
@@ -9,18 +57,6 @@
     "location": {
       "name": "Vänersborg",
       "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 582389,
-    "datetime": "2025-05-08 20:13:49 +02:00",
-    "name": "08 maj 19.54, Övrigt, Linköping",
-    "summary": "Larm om hög smäll",
-    "url": "/aktuellt/handelser/2025/maj/8/08-maj-19.54-ovrigt-linkoping/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -201,18 +237,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 582371,
-    "datetime": "2025-05-08 17:48:07 +02:00",
-    "name": "08 maj 16.45, Trafikbrott, Borlänge",
-    "summary": "En man i 35-årsåldern misstänkt för grov olovlig körning och Drograttfylleri i Kvarnsveden på torsdagseftermid",
-    "url": "/aktuellt/handelser/2025/maj/8/08-maj-16.45-trafikbrott-borlange/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 581678,
-    "datetime": "2025-05-02 17:40:13 +02:00",
-    "name": "02 maj 15.14, Bråk, Stockholm",
-    "summary": "Samtal om pågående misshandel utomhus på Östgötagatan.",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-15.14-brak-stockholm/",
-    "type": "Bråk",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 581682,
-    "datetime": "2025-05-02 17:39:57 +02:00",
-    "name": "02 maj 16.37, Trafikbrott, Sollentuna",
-    "summary": "Vinglig bilkörning på E4 leder till ett förföljande och gripande i Märsta.",
-    "url": "/aktuellt/handelser/2025/maj/2/02-maj-16.37-trafikbrott-sollentuna/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
