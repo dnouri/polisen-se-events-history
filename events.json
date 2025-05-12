@@ -1,5 +1,17 @@
 [
   {
+    "id": 582992,
+    "datetime": "2025-05-12 17:29:18 +02:00",
+    "name": "12 maj 16.55, Stöld, Malmö",
+    "summary": "Stöld av elcykelbatterier, Lorensborg.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-16.55-stold-malmo/",
+    "type": "Stöld",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 582988,
     "datetime": "2025-05-12 16:47:28 +02:00",
     "name": "12 maj 16.41, Trafikolycka, Linköping",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 582991,
+    "datetime": "2025-05-12 17:07:08 +02:00",
+    "name": "12 maj 16.28, Arbetsplatsolycka, Vänersborg",
+    "summary": "Vi får larm om en arbetsplatsolycka i Brålanda.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-16.28-arbetsplatsolycka-vanersborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Vänersborg",
+      "gps": "58.379728,12.324803"
+    }
+  },
+  {
+    "id": 582990,
+    "datetime": "2025-05-12 17:05:08 +02:00",
+    "name": "12 maj 17.05, Trafikkontroll, Västerbottens län",
+    "summary": "Resulatat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-17.05-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 582007,
-    "datetime": "2025-05-05 20:40:49 +02:00",
-    "name": "05 maj 18.00, Stöld, Karlstad",
-    "summary": "Ringa stöld på Bergvik köpcenter i Karlstad.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-18.00-stold-karlstad/",
-    "type": "Stöld",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 582005,
-    "datetime": "2025-05-05 19:44:35 +02:00",
-    "name": "05 maj 19.33, Brand, Alingsås",
-    "summary": "Larm om brand i villa.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-19.33-brand-alingsas/",
-    "type": "Brand",
-    "location": {
-      "name": "Alingsås",
-      "gps": "57.930021,12.536211"
-    }
-  },
-  {
-    "id": 582006,
-    "datetime": "2025-05-05 20:36:07 +02:00",
-    "name": "05 maj 18.00, Rattfylleri, Falun",
-    "summary": "Misstanke om rattfylleri alt. grovt rattfylleri utreds i Falun.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-18.00-rattfylleri-falun/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   }
 ]
