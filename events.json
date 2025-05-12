@@ -1,5 +1,101 @@
 [
   {
+    "id": 582987,
+    "datetime": "2025-05-12 16:29:57 +02:00",
+    "name": "12 maj 16.23, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka, Regementsgatan.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-16.23-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 582960,
+    "datetime": "2025-05-12 14:06:47 +02:00",
+    "name": "12 maj 13.59, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat på länsväg 695.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-13.59-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 582983,
+    "datetime": "2025-05-12 16:14:07 +02:00",
+    "name": "12 maj 16.14, Trafikkontroll, Norrbottens län",
+    "summary": "Resulatat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-16.14-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 582982,
+    "datetime": "2025-05-12 16:10:15 +02:00",
+    "name": "12 maj 15.09, Misshandel, grov, Stockholm",
+    "summary": "Polis och ambulans kallas till Vasastaden med anledning av att en man har slagit och sparkat en äldre dam.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-15.09-misshandel-grov-stockholm/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 582980,
+    "datetime": "2025-05-12 15:57:17 +02:00",
+    "name": "12 maj 14.09, Stöld, Sundsvall",
+    "summary": "Stöld från butik i Birsta, Sundsvall.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-14.09-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 582979,
+    "datetime": "2025-05-12 15:55:33 +02:00",
+    "name": "12 maj 15.24, Brand, Klippan",
+    "summary": "Larm om brand i villa, Ljungbyhed.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-15.24-brand-klippan/",
+    "type": "Brand",
+    "location": {
+      "name": "Klippan",
+      "gps": "56.1349,13.129041"
+    }
+  },
+  {
+    "id": 582977,
+    "datetime": "2025-05-12 15:52:08 +02:00",
+    "name": "12 maj 14.07, Olaga hot, Eskilstuna",
+    "summary": "Bråk i Eskilstuna.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-14.07-olaga-hot-eskilstuna/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 582974,
+    "datetime": "2025-05-12 15:50:36 +02:00",
+    "name": "12 maj 13.23, Rattfylleri, Haparanda",
+    "summary": "Misstänkt drograttfylleri i Haparanda centrum.",
+    "url": "/aktuellt/handelser/2025/maj/12/12-maj-13.23-rattfylleri-haparanda/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
     "id": 582970,
     "datetime": "2025-05-12 15:15:11 +02:00",
     "name": "12 maj 13.45, Brand, Stockholm",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Filipstad",
       "gps": "59.713997,14.169845"
-    }
-  },
-  {
-    "id": 582960,
-    "datetime": "2025-05-12 14:06:47 +02:00",
-    "name": "12 maj 13.59, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat på länsväg 695.",
-    "url": "/aktuellt/handelser/2025/maj/12/12-maj-13.59-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 582004,
-    "datetime": "2025-05-05 19:34:50 +02:00",
-    "name": "05 maj 16.40, Ofredande/förargelse, Umeå",
-    "summary": "Umeå, polis kontaktas gällande man som uppges vara otrevlig på tåg",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-16.40-ofredandeforargelse-umea/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 582003,
-    "datetime": "2025-05-05 19:34:03 +02:00",
-    "name": "05 maj 19.32, Rattfylleri, Mora",
-    "summary": "Man i 30-årsåldern misstänkt för rattfylleri under påverkan av narkotika.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-19.32-rattfylleri-mora/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
-    }
-  },
-  {
-    "id": 582002,
-    "datetime": "2025-05-05 19:32:11 +02:00",
-    "name": "05 maj 19.30, Olovlig körning, Hällefors",
-    "summary": "Man med återkallat körkort stoppad på Lv 790.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-19.30-olovlig-korning-hallefors/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Hällefors",
-      "gps": "59.783688,14.522569"
-    }
-  },
-  {
-    "id": 582001,
-    "datetime": "2025-05-05 19:29:40 +02:00",
-    "name": "05 maj 13.08, Narkotikabrott, Umeå",
-    "summary": "Centrala stan, man kontrollerad av polis",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-13.08-narkotikabrott-umea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 581999,
-    "datetime": "2025-05-05 19:18:05 +02:00",
-    "name": "05 maj 14.01, Narkotikabrott, Umeå",
-    "summary": "Stadsliden, några ungdomar befinner sig utomhus och kontrolleras",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-14.01-narkotikabrott-umea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 581998,
-    "datetime": "2025-05-05 19:13:20 +02:00",
-    "name": "05 maj 15.59, Bedrägeri, Södertälje",
-    "summary": "En person har fått ett sms från ett någon som utger sig vara ett företag som hyr ut bilar. Det visar sig istäl",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-15.59-bedrageri-sodertalje/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 581997,
-    "datetime": "2025-05-05 19:08:02 +02:00",
-    "name": "05 maj 18.19, Rattfylleri, Skövde",
-    "summary": "Påverkad man misstänkt för att olovligen tagit bil.",
-    "url": "/aktuellt/handelser/2025/maj/5/05-maj-18.19-rattfylleri-skovde/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skövde",
-      "gps": "58.390278,13.846121"
     }
   }
 ]
