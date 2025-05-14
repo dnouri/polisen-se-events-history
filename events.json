@@ -1,5 +1,101 @@
 [
   {
+    "id": 583218,
+    "datetime": "2025-05-14 10:27:20 +02:00",
+    "name": "14 maj 06.35, Stöld, Värmdö",
+    "summary": "Metallstöld från hustak i Gustavsberg.",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-06.35-stold-varmdo/",
+    "type": "Stöld",
+    "location": {
+      "name": "Värmdö",
+      "gps": "59.284612,18.520789"
+    }
+  },
+  {
+    "id": 583216,
+    "datetime": "2025-05-14 10:25:40 +02:00",
+    "name": "14 maj 09.00, Misshandel, Burlöv",
+    "summary": "Man i 25-årsåldern grips misstänkt för misshandel.",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-09.00-misshandel-burlov/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 583215,
+    "datetime": "2025-05-14 10:22:53 +02:00",
+    "name": "14 maj 08.03, Trafikolycka, Åre",
+    "summary": "Larm om trafikolycka på länsväg 322, Stalltjärnstugan.",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-08.03-trafikolycka-are/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
+    }
+  },
+  {
+    "id": 583214,
+    "datetime": "2025-05-14 10:21:55 +02:00",
+    "name": "14 maj 08.22, Misshandel, Ödeshög",
+    "summary": "Man gripen efter misshandel",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-08.22-misshandel-odeshog/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Ödeshög",
+      "gps": "58.228996,14.64882"
+    }
+  },
+  {
+    "id": 583210,
+    "datetime": "2025-05-14 10:17:08 +02:00",
+    "name": "14 maj 08.21, Trafikolycka, personskada, Södertälje",
+    "summary": "En flicka i övre tonåren blir påkörd vid ett övergångsställe.",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-08.21-trafikolycka-personskada-sodertalje/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 583208,
+    "datetime": "2025-05-14 10:13:58 +02:00",
+    "name": "14 maj 08.01, Trafikolycka, Olofström",
+    "summary": "En trafikolycka sker på Jämshögsvägen och polis larmas till platsen.",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-08.01-trafikolycka-olofstrom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Olofström",
+      "gps": "56.277708,14.530938"
+    }
+  },
+  {
+    "id": 583206,
+    "datetime": "2025-05-14 10:13:01 +02:00",
+    "name": "14 maj 09.30, Brand, Härnösand",
+    "summary": "Larm om brand i ett flerfamiljshus i Älandsbro.",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-09.30-brand-harnosand/",
+    "type": "Brand",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 583176,
+    "datetime": "2025-05-14 7:31:17 +02:00",
+    "name": "14 maj 05.47, Trafikolycka, Ronneby",
+    "summary": "En singelolycka med en perosnbil inträffar på riksväg 27 i höjd med Hasselstad.",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-05.47-trafikolycka-ronneby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
     "id": 583190,
     "datetime": "2025-05-14 9:37:56 +02:00",
     "name": "14 maj 09.32, Trafikolycka, singel, Karlstad",
@@ -9,6 +105,18 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 583197,
+    "datetime": "2025-05-14 9:51:25 +02:00",
+    "name": "14 maj 07.22, Ordningslagen, Göteborg",
+    "summary": "Vid universitetsplatsen samlas en grupp demonstranter för en icke tillståndsgiven allmän sammankomst.",
+    "url": "/aktuellt/handelser/2025/maj/14/14-maj-07.22-ordningslagen-goteborg/",
+    "type": "Ordningslagen",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -177,18 +285,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 583176,
-    "datetime": "2025-05-14 7:31:17 +02:00",
-    "name": "14 maj 05.47, Trafikolycka, Ronneby",
-    "summary": "En singelolycka med en perosnbil inträffar på riksväg 27 i höjd med Hasselstad.",
-    "url": "/aktuellt/handelser/2025/maj/14/14-maj-05.47-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 582208,
-    "datetime": "2025-05-07 12:43:31 +02:00",
-    "name": "07 maj 12.10, Mord/dråp, försök, Ystad",
-    "summary": "Polis larmas till Regementsområdet med anledning av en misshandel utanför en skola.",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-12.10-morddrap-forsok-ystad/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 582232,
-    "datetime": "2025-05-07 14:38:05 +02:00",
-    "name": "07 maj 14.27, Brand, Huddinge",
-    "summary": "Det kommer ut rök ur taket på en fastighet i Fullersta. Polis och räddningstjänst är beordrade till platsen.",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-14.27-brand-huddinge/",
-    "type": "Brand",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 582244,
-    "datetime": "2025-05-07 16:40:55 +02:00",
-    "name": "07 maj 12.37, Trafikkontroll, Örnsköldsvik",
-    "summary": "Mosjön, resultat från trafikkontroll på E4.",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-12.37-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 582243,
-    "datetime": "2025-05-07 16:37:35 +02:00",
-    "name": "07 maj 15.37, Misshandel, Kramfors",
-    "summary": "Kramfors, anmälan om misshandel ska upprättas.",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-15.37-misshandel-kramfors/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 582242,
-    "datetime": "2025-05-07 16:27:36 +02:00",
-    "name": "07 maj 15.32, Trafikolycka, personskada, Tjörn",
-    "summary": "Larm om en trafikolycka där ett barn blivit påkörd.",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-15.32-trafikolycka-personskada-tjorn/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Tjörn",
-      "gps": "58.04102,11.683671"
-    }
-  },
-  {
-    "id": 582240,
-    "datetime": "2025-05-07 15:56:04 +02:00",
-    "name": "07 maj 14.22, Rattfylleri, Åre",
-    "summary": "Åre kommun, misstänkt drograttfylleri.",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-14.22-rattfylleri-are/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
-    }
-  },
-  {
-    "id": 582239,
-    "datetime": "2025-05-07 15:52:50 +02:00",
-    "name": "07 maj 12.25, Narkotikabrott, Östersund",
-    "summary": "Östersund, person misstänks vara påverkad av narkotika.",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-12.25-narkotikabrott-ostersund/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 582229,
-    "datetime": "2025-05-07 14:14:46 +02:00",
-    "name": "07 maj 06.32, Stöld, Östhammar",
-    "summary": "Stöld ur garage.",
-    "url": "/aktuellt/handelser/2025/maj/7/07-maj-06.32-stold-osthammar/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östhammar",
-      "gps": "60.259302,18.365341"
     }
   }
 ]
