@@ -1,14 +1,26 @@
 [
   {
-    "id": 586091,
-    "datetime": "2025-05-20 15:24:00 +02:00",
-    "name": "20 maj 14.52, Trafikolycka, personskada, Jönköping",
-    "summary": "Personbil och moped i krock.",
-    "url": "/aktuellt/handelser/2025/maj/20/20-maj-14.52-trafikolycka-personskada-jonkoping/",
+    "id": 586105,
+    "datetime": "2025-05-20 16:21:43 +02:00",
+    "name": "20 maj 12.22, Skadegörelse, Luleå",
+    "summary": "Innerstaden, polis kontaktades gällande skadegörelse",
+    "url": "/aktuellt/handelser/2025/maj/20/20-maj-12.22-skadegorelse-lulea/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 586104,
+    "datetime": "2025-05-20 16:13:21 +02:00",
+    "name": "20 maj 15.32, Trafikolycka, personskada, Västerås",
+    "summary": "Barn påkört av personbil.",
+    "url": "/aktuellt/handelser/2025/maj/20/20-maj-15.32-trafikolycka-personskada-vasteras/",
     "type": "Trafikolycka, personskada",
     "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -21,6 +33,66 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 586018,
+    "datetime": "2025-05-20 7:36:31 +02:00",
+    "name": "20 maj 07.36, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2025/maj/20/20-maj-07.36-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 586103,
+    "datetime": "2025-05-20 16:03:05 +02:00",
+    "name": "20 maj 15.19, Trafikolycka, personskada, Lidköping",
+    "summary": "En man har blivit påkörd av en personbil.",
+    "url": "/aktuellt/handelser/2025/maj/20/20-maj-15.19-trafikolycka-personskada-lidkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Lidköping",
+      "gps": "58.503505,13.157077"
+    }
+  },
+  {
+    "id": 586102,
+    "datetime": "2025-05-20 15:59:35 +02:00",
+    "name": "20 maj 15.52, Trafikolycka, Jönköping",
+    "summary": "Kökrock på Odengatan.",
+    "url": "/aktuellt/handelser/2025/maj/20/20-maj-15.52-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 586091,
+    "datetime": "2025-05-20 15:24:00 +02:00",
+    "name": "20 maj 14.52, Trafikolycka, personskada, Jönköping",
+    "summary": "Personbil och moped i krock.",
+    "url": "/aktuellt/handelser/2025/maj/20/20-maj-14.52-trafikolycka-personskada-jonkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 586101,
+    "datetime": "2025-05-20 15:46:35 +02:00",
+    "name": "20 maj 14.11, Trafikolycka, Järfälla",
+    "summary": "Trafikolycka på E18 i höjd med Kallhäll.",
+    "url": "/aktuellt/handelser/2025/maj/20/20-maj-14.11-trafikolycka-jarfalla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Järfälla",
+      "gps": "59.410065,17.836804"
     }
   },
   {
@@ -333,18 +405,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 586018,
-    "datetime": "2025-05-20 7:36:31 +02:00",
-    "name": "20 maj 07.36, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/maj/20/20-maj-07.36-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 583152,
-    "datetime": "2025-05-13 21:47:09 +02:00",
-    "name": "13 maj 21.47, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/maj/13/13-maj-21.47-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 583148,
-    "datetime": "2025-05-13 20:49:38 +02:00",
-    "name": "13 maj 20.07, Mord/dråp, försök, Stockholm",
-    "summary": "Polis kallas till Sveavägen i höjd med Rehnsgatan med anledning av att flera personer slåss.",
-    "url": "/aktuellt/handelser/2025/maj/13/13-maj-20.07-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 583120,
-    "datetime": "2025-05-13 15:39:22 +02:00",
-    "name": "13 maj 15.31, Misshandel, Eskilstuna",
-    "summary": "Larm om skadad person i Fröslunda.",
-    "url": "/aktuellt/handelser/2025/maj/13/13-maj-15.31-misshandel-eskilstuna/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 583150,
-    "datetime": "2025-05-13 21:25:17 +02:00",
-    "name": "13 maj 16.41, Rån, Trollhättan",
-    "summary": "Kvinna rånad i Kronogården.",
-    "url": "/aktuellt/handelser/2025/maj/13/13-maj-16.41-ran-trollhattan/",
-    "type": "Rån",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 583147,
-    "datetime": "2025-05-13 20:21:53 +02:00",
-    "name": "13 maj 17.03, Stöld, Växjö",
-    "summary": "Stöld i sportbutik på köpcentrum.",
-    "url": "/aktuellt/handelser/2025/maj/13/13-maj-17.03-stold-vaxjo/",
-    "type": "Stöld",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
