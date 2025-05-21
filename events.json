@@ -1,5 +1,65 @@
 [
   {
+    "id": 586250,
+    "datetime": "2025-05-21 17:17:30 +02:00",
+    "name": "21 maj 15.27, Trafikolycka, singel, Sotenäs",
+    "summary": "Föraren av en personbil har kolliderat med skyltar och sedan kört in i en trädgård.",
+    "url": "/aktuellt/handelser/2025/maj/21/21-maj-15.27-trafikolycka-singel-sotenas/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Sotenäs",
+      "gps": "58.440139,11.361439"
+    }
+  },
+  {
+    "id": 586247,
+    "datetime": "2025-05-21 16:58:59 +02:00",
+    "name": "21 maj 16.30, Trafikolycka, personskada, Linköping",
+    "summary": "Flera skadade i trafikolycka",
+    "url": "/aktuellt/handelser/2025/maj/21/21-maj-16.30-trafikolycka-personskada-linkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 586249,
+    "datetime": "2025-05-21 17:13:21 +02:00",
+    "name": "21 maj 16.39, Trafikolycka, personskada, Eskilstuna",
+    "summary": "Krock mellan bil och moped",
+    "url": "/aktuellt/handelser/2025/maj/21/21-maj-16.39-trafikolycka-personskada-eskilstuna/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 586248,
+    "datetime": "2025-05-21 17:11:04 +02:00",
+    "name": "21 maj 14.05, Olaga hot, Örebro",
+    "summary": "En person är misstänkt för olaga hot",
+    "url": "/aktuellt/handelser/2025/maj/21/21-maj-14.05-olaga-hot-orebro/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 586214,
+    "datetime": "2025-05-21 13:42:53 +02:00",
+    "name": "21 maj 13.42, Mord/dråp, Borlänge",
+    "summary": "Polisen finns på plats på en adress i södra delarna av Borlänge samhälle med anledning av ett grovt våldsbrott",
+    "url": "/aktuellt/handelser/2025/maj/21/21-maj-13.42-morddrap-borlange/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 586222,
     "datetime": "2025-05-21 14:45:29 +02:00",
     "name": "21 maj 14.36, Brand, Malmö",
@@ -57,18 +117,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 586214,
-    "datetime": "2025-05-21 13:42:53 +02:00",
-    "name": "21 maj 13.42, Övrigt, Borlänge",
-    "summary": "Polisen finns på plats på en adress i södra delarna av Borlänge samhälle med anledning av ett grovt våldsbrott",
-    "url": "/aktuellt/handelser/2025/maj/21/21-maj-13.42-ovrigt-borlange/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hudiksvall",
       "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 583365,
-    "datetime": "2025-05-14 22:26:35 +02:00",
-    "name": "14 maj 21.55, Explosion, Järfälla",
-    "summary": "Polis kallas till Barkarby med anledning av att flera inringare hört en hög explosion i ett bostadsområde i Ba",
-    "url": "/aktuellt/handelser/2025/maj/14/14-maj-21.55-explosion-jarfalla/",
-    "type": "Explosion",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 583362,
-    "datetime": "2025-05-14 21:42:53 +02:00",
-    "name": "14 maj 21.27, Brand, Göteborg",
-    "summary": "Brand Hotel Jacyz Göteborg",
-    "url": "/aktuellt/handelser/2025/maj/14/14-maj-21.27-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 583334,
-    "datetime": "2025-05-14 17:10:50 +02:00",
-    "name": "14 maj 16.32, Fjällräddning, Kiruna",
-    "summary": "Fjällräddning inleds efter skoterolycka.",
-    "url": "/aktuellt/handelser/2025/maj/14/14-maj-16.32-fjallraddning-kiruna/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 583363,
-    "datetime": "2025-05-14 21:50:10 +02:00",
-    "name": "14 maj 21.50, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/maj/14/14-maj-21.50-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
