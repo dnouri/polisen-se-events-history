@@ -1,5 +1,17 @@
 [
   {
+    "id": 586425,
+    "datetime": "2025-05-22 20:36:30 +02:00",
+    "name": "22 maj 17.31, Brand, Vårgårda",
+    "summary": "Larm kommer in från SOS om att det brinner i ett hus vid Svanatorp, Vårgårda.",
+    "url": "/aktuellt/handelser/2025/maj/22/22-maj-17.31-brand-vargarda/",
+    "type": "Brand",
+    "location": {
+      "name": "Vårgårda",
+      "gps": "58.032304,12.808976"
+    }
+  },
+  {
     "id": 586362,
     "datetime": "2025-05-22 19:06:40 +02:00",
     "name": "22 maj 18.55, Explosion, Norrköping",
@@ -9,6 +21,30 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 586424,
+    "datetime": "2025-05-22 20:16:46 +02:00",
+    "name": "22 maj 15.16, Trafikkontroll, Robertsfors",
+    "summary": "Resultat efter en trafikkontroll i Robertsfors tätort.",
+    "url": "/aktuellt/handelser/2025/maj/22/22-maj-15.16-trafikkontroll-robertsfors/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Robertsfors",
+      "gps": "64.191835,20.84891"
+    }
+  },
+  {
+    "id": 586365,
+    "datetime": "2025-05-22 20:04:20 +02:00",
+    "name": "22 maj 17.14, Stöld, Sundsvall",
+    "summary": "Misstänkt stöld i butik i Birsta.",
+    "url": "/aktuellt/handelser/2025/maj/22/22-maj-17.14-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 583570,
-    "datetime": "2025-05-15 21:01:28 +02:00",
-    "name": "15 maj 18.09, Åldringsbrott, Stockholm",
-    "summary": "Kvinna i 100-årsåldern utsatt för försök till bedrägeri.",
-    "url": "/aktuellt/handelser/2025/maj/15/15-maj-18.09-aldringsbrott-stockholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 583569,
-    "datetime": "2025-05-15 20:43:54 +02:00",
-    "name": "15 maj 18.53, Misshandel, Skellefteå",
-    "summary": "Anmälan och motanmälan efter bråk utanför Skellefteå.",
-    "url": "/aktuellt/handelser/2025/maj/15/15-maj-18.53-misshandel-skelleftea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 583568,
-    "datetime": "2025-05-15 20:43:53 +02:00",
-    "name": "15 maj 17.24, Åldringsbrott, Stockholm",
-    "summary": "Man och kvinna i 90-årsåldern utsatt för försök till bedrägeri.",
-    "url": "/aktuellt/handelser/2025/maj/15/15-maj-17.24-aldringsbrott-stockholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
