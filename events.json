@@ -1,5 +1,53 @@
 [
   {
+    "id": 586525,
+    "datetime": "2025-05-23 15:59:30 +02:00",
+    "name": "23 maj 15.50, Trafikolycka, Sundsvall",
+    "summary": "Sundsvall, trafikolycka på E4.",
+    "url": "/aktuellt/handelser/2025/maj/23/23-maj-15.50-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 586530,
+    "datetime": "2025-05-23 17:01:09 +02:00",
+    "name": "23 maj 16.49, Trafikolycka, singel, Linköping",
+    "summary": "Trafiken påverkas av singelolycka på E4 vid Ullevi, Linköping",
+    "url": "/aktuellt/handelser/2025/maj/23/23-maj-16.49-trafikolycka-singel-linkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 586517,
+    "datetime": "2025-05-23 15:39:53 +02:00",
+    "name": "23 maj 15.09, Arbetsplatsolycka, Svalöv",
+    "summary": "Person skadad i samband med arbete, Svalöv.",
+    "url": "/aktuellt/handelser/2025/maj/23/23-maj-15.09-arbetsplatsolycka-svalov/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Svalöv",
+      "gps": "55.91293,13.101817"
+    }
+  },
+  {
+    "id": 586532,
+    "datetime": "2025-05-23 16:55:10 +02:00",
+    "name": "23 maj 16.09, Trafikolycka, Hässleholm",
+    "summary": "En trafikolycka inträffar på riksväg 23/länsväg 119.",
+    "url": "/aktuellt/handelser/2025/maj/23/23-maj-16.09-trafikolycka-hassleholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 586529,
     "datetime": "2025-05-23 16:39:03 +02:00",
     "name": "23 maj 16.28, Trafikolycka, vilt, Aneby",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 586525,
-    "datetime": "2025-05-23 15:59:30 +02:00",
-    "name": "23 maj 15.50, Trafikolycka, Sundsvall",
-    "summary": "Sundsvall, trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2025/maj/23/23-maj-15.50-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -69,18 +105,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 586517,
-    "datetime": "2025-05-23 15:39:53 +02:00",
-    "name": "23 maj 15.09, Arbetsplatsolycka, Svalöv",
-    "summary": "Person skadad i samband med arbete, Svalöv.",
-    "url": "/aktuellt/handelser/2025/maj/23/23-maj-15.09-arbetsplatsolycka-svalov/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Svalöv",
-      "gps": "55.91293,13.101817"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 583650,
-    "datetime": "2025-05-16 12:32:17 +02:00",
-    "name": "16 maj 10.32, Brand, Hässleholm",
-    "summary": "Det brinner i en villa i Hästveda.",
-    "url": "/aktuellt/handelser/2025/maj/16/16-maj-10.32-brand-hassleholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 583690,
-    "datetime": "2025-05-16 13:51:41 +02:00",
-    "name": "16 maj 11.46, Bedrägeri, Söderhamn",
-    "summary": "Äldre man utsatt för bedrägeri",
-    "url": "/aktuellt/handelser/2025/maj/16/16-maj-11.46-bedrageri-soderhamn/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
     }
   }
 ]
