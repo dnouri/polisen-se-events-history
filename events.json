@@ -1,5 +1,65 @@
 [
   {
+    "id": 586583,
+    "datetime": "2025-05-24 13:51:32 +02:00",
+    "name": "24 maj 12.37, Mord/dråp, försök, Örebro",
+    "summary": "En man i tjugoårsåldern har förts till sjukhus efter en misshandel i Örebro.",
+    "url": "/aktuellt/handelser/2025/maj/24/24-maj-12.37-morddrap-forsok-orebro/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 586588,
+    "datetime": "2025-05-24 14:21:10 +02:00",
+    "name": "24 maj 14.14, Trafikolycka, Kristianstad",
+    "summary": "Larm om trafikolycka på riksväg 19 strax söder om Degeberga.",
+    "url": "/aktuellt/handelser/2025/maj/24/24-maj-14.14-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 586586,
+    "datetime": "2025-05-24 14:02:59 +02:00",
+    "name": "24 maj 14.02, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/maj/24/24-maj-14.02-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 586585,
+    "datetime": "2025-05-24 14:02:23 +02:00",
+    "name": "24 maj 11.20, Stöld/inbrott, Örebro",
+    "summary": "En man i trettioårsåldern har avlägsnats från en stormarknad på Väster efter att ha omhändertagits för ringa s",
+    "url": "/aktuellt/handelser/2025/maj/24/24-maj-11.20-stoldinbrott-orebro/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 586584,
+    "datetime": "2025-05-24 13:57:17 +02:00",
+    "name": "24 maj 13.05, Trafikolycka, Örebro",
+    "summary": "En singelolycka har inträffat strax norr om Örebro.",
+    "url": "/aktuellt/handelser/2025/maj/24/24-maj-13.05-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 586581,
     "datetime": "2025-05-24 13:36:49 +02:00",
     "name": "24 maj 12.55, Räddningsinsats, Höör",
@@ -9,6 +69,18 @@
     "location": {
       "name": "Höör",
       "gps": "55.934859,13.53959"
+    }
+  },
+  {
+    "id": 586582,
+    "datetime": "2025-05-24 13:48:13 +02:00",
+    "name": "24 maj 12.16, Stöld, Sundsvall",
+    "summary": "Birsta, stöld på butik.",
+    "url": "/aktuellt/handelser/2025/maj/24/24-maj-12.16-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 583772,
-    "datetime": "2025-05-17 6:27:05 +02:00",
-    "name": "17 maj 01.33, Rattfylleri, Staffanstorp",
-    "summary": "Man i 40-årsåldern misstänks för rattfylleri efter kontroll.",
-    "url": "/aktuellt/handelser/2025/maj/17/17-maj-01.33-rattfylleri-staffanstorp/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Staffanstorp",
-      "gps": "55.641065,13.212229"
-    }
-  },
-  {
-    "id": 583771,
-    "datetime": "2025-05-17 6:22:09 +02:00",
-    "name": "17 maj 01.26, Rattfylleri, Helsingborg",
-    "summary": "Misstänkt påverkad förare stoppad, Övre Nytorgsgatan.",
-    "url": "/aktuellt/handelser/2025/maj/17/17-maj-01.26-rattfylleri-helsingborg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 583770,
-    "datetime": "2025-05-17 6:15:24 +02:00",
-    "name": "17 maj 02.40, Narkotikabrott, Malmö",
-    "summary": "Misstänkt narkotikabrott vid Stortorget.",
-    "url": "/aktuellt/handelser/2025/maj/17/17-maj-02.40-narkotikabrott-malmo/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 583769,
-    "datetime": "2025-05-17 6:12:44 +02:00",
-    "name": "17 maj 01.30, Misshandel, Karlskrona",
-    "summary": "Polis larmas till Ronnebygatan med anledning av en misshandel.",
-    "url": "/aktuellt/handelser/2025/maj/17/17-maj-01.30-misshandel-karlskrona/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 583767,
-    "datetime": "2025-05-17 5:57:41 +02:00",
-    "name": "17 maj 00.54, Rattfylleri, Gävle",
-    "summary": "Misstanke om grovt rattfylleri efter trafikolycka i Valbo.",
-    "url": "/aktuellt/handelser/2025/maj/17/17-maj-00.54-rattfylleri-gavle/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 583766,
-    "datetime": "2025-05-17 5:14:40 +02:00",
-    "name": "17 maj 05.10, Sammanfattning natt, Västmanlands län",
-    "summary": "En relativt lugn natt i Polisområde Västmanland",
-    "url": "/aktuellt/handelser/2025/maj/17/17-maj-05.10-sammanfattning-natt-vastmanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
     }
   }
 ]
