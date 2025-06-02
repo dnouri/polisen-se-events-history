@@ -1,5 +1,113 @@
 [
   {
+    "id": 587632,
+    "datetime": "2025-06-02 8:10:26 +02:00",
+    "name": "02 juni 07.49, Trafikolycka, personskada, Göteborg",
+    "summary": "Person påkörd av spårvagn enligt larm.",
+    "url": "/aktuellt/handelser/2025/juni/2/02-juni-07.49-trafikolycka-personskada-goteborg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 587636,
+    "datetime": "2025-06-02 8:21:24 +02:00",
+    "name": "01 juni 23.14, Djur, Helsingborg",
+    "summary": "Larm om ko på E6, Rydebäck.",
+    "url": "/aktuellt/handelser/2025/juni/1/01-juni-23.14-djur-helsingborg/",
+    "type": "Djur",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 587634,
+    "datetime": "2025-06-02 8:14:38 +02:00",
+    "name": "02 juni 06.54, Stöld/inbrott, Västerås",
+    "summary": "Inbrott på byggarbetsplats.",
+    "url": "/aktuellt/handelser/2025/juni/2/02-juni-06.54-stoldinbrott-vasteras/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 587633,
+    "datetime": "2025-06-02 8:11:40 +02:00",
+    "name": "02 juni 07.55, Trafikolycka, Växjö",
+    "summary": "Larm om trafikolycka mellan skåpbil och cyklist, Segerstadstorget.",
+    "url": "/aktuellt/handelser/2025/juni/2/02-juni-07.55-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Växjö",
+      "gps": "56.879004,14.805852"
+    }
+  },
+  {
+    "id": 587600,
+    "datetime": "2025-06-02 1:02:58 +02:00",
+    "name": "02 juni 01.00, Försvunnen person, Umeå",
+    "summary": "Polisen letar efter en försvunnen kvinna i Umeå.",
+    "url": "/aktuellt/handelser/2025/juni/2/02-juni-01.00-forsvunnen-person-umea/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 587625,
+    "datetime": "2025-06-02 8:03:19 +02:00",
+    "name": "02 juni 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/juni/2/02-juni-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 587629,
+    "datetime": "2025-06-02 8:03:00 +02:00",
+    "name": "02 juni 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/juni/2/02-juni-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 587619,
+    "datetime": "2025-06-02 8:02:27 +02:00",
+    "name": "02 juni 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/juni/2/02-juni-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 587627,
+    "datetime": "2025-06-02 7:50:12 +02:00",
+    "name": "01 juni 23.18, Brand, Sandviken",
+    "summary": "Brand i en husvagn.",
+    "url": "/aktuellt/handelser/2025/juni/1/01-juni-23.18-brand-sandviken/",
+    "type": "Brand",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
     "id": 587626,
     "datetime": "2025-06-02 7:46:39 +02:00",
     "name": "02 juni 07.18, Sammanfattning natt, Örebro län",
@@ -165,18 +273,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 587600,
-    "datetime": "2025-06-02 1:02:58 +02:00",
-    "name": "02 juni 01.00, Försvunnen person, Umeå",
-    "summary": "Polisen letar efter en försvunnen kvinna i Umeå.",
-    "url": "/aktuellt/handelser/2025/juni/2/02-juni-01.00-forsvunnen-person-umea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 586802,
-    "datetime": "2025-05-26 7:23:55 +02:00",
-    "name": "26 maj 07.23, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/maj/26/26-maj-07.23-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 586801,
-    "datetime": "2025-05-26 7:23:39 +02:00",
-    "name": "26 maj 07.23, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/maj/26/26-maj-07.23-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 586803,
-    "datetime": "2025-05-26 7:23:28 +02:00",
-    "name": "26 maj 07.23, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/maj/26/26-maj-07.23-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 586807,
-    "datetime": "2025-05-26 7:19:17 +02:00",
-    "name": "26 maj 04.51, Brand, Gävle",
-    "summary": "Det inkom ett larm om flera små bränder på en uteservering som är under uppbyggnad på Rådhustorget.",
-    "url": "/aktuellt/handelser/2025/maj/26/26-maj-04.51-brand-gavle/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 586808,
-    "datetime": "2025-05-26 7:19:14 +02:00",
-    "name": "26 maj 07.15, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/maj/26/26-maj-07.15-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 586806,
-    "datetime": "2025-05-26 7:14:40 +02:00",
-    "name": "26 maj 07.14, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, inga händelser att rapportera om",
-    "url": "/aktuellt/handelser/2025/maj/26/26-maj-07.14-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 586805,
-    "datetime": "2025-05-26 7:09:34 +02:00",
-    "name": "26 maj 07.00, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/maj/26/26-maj-07.00-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 586800,
-    "datetime": "2025-05-26 7:04:04 +02:00",
-    "name": "26 maj 04.13, Trafikbrott, Stockholm",
-    "summary": "Fordonsförare i Stadshagen rapporterades för flera brott.",
-    "url": "/aktuellt/handelser/2025/maj/26/26-maj-04.13-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
