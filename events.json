@@ -1,14 +1,26 @@
 [
   {
-    "id": 587893,
-    "datetime": "2025-06-04 10:09:14 +02:00",
-    "name": "04 juni 09.11, Brand, Mölndal",
-    "summary": "Polis och räddningstjänst larmas till en adress i västra Lindome med anledning av att det brinner i ett radhus",
-    "url": "/aktuellt/handelser/2025/juni/4/04-juni-09.11-brand-molndal/",
-    "type": "Brand",
+    "id": 587957,
+    "datetime": "2025-06-04 17:21:30 +02:00",
+    "name": "04 juni 16.29, Fylleri/LOB, Örnsköldsvik",
+    "summary": "Örnsköldsvik, person omhändertagen.",
+    "url": "/aktuellt/handelser/2025/juni/4/04-juni-16.29-fyllerilob-ornskoldsvik/",
+    "type": "Fylleri/LOB",
     "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 587956,
+    "datetime": "2025-06-04 16:53:35 +02:00",
+    "name": "04 juni 16.40, Trafikolycka, Torsby",
+    "summary": "En tom tankbil blockerar vägbanan",
+    "url": "/aktuellt/handelser/2025/juni/4/04-juni-16.40-trafikolycka-torsby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
     }
   },
   {
@@ -21,6 +33,42 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 587955,
+    "datetime": "2025-06-04 16:52:34 +02:00",
+    "name": "04 juni 16.52, Trafikolycka, Motala",
+    "summary": "SOS-larm om påkörd person i centrala Charlottenborg.",
+    "url": "/aktuellt/handelser/2025/juni/4/04-juni-16.52-trafikolycka-motala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
+    }
+  },
+  {
+    "id": 587954,
+    "datetime": "2025-06-04 16:48:19 +02:00",
+    "name": "04 juni 14.12, Rattfylleri, Danderyd",
+    "summary": "Misstänkt rattfylleri i Djursholm.",
+    "url": "/aktuellt/handelser/2025/juni/4/04-juni-14.12-rattfylleri-danderyd/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Danderyd",
+      "gps": "59.407905,18.019075"
+    }
+  },
+  {
+    "id": 587893,
+    "datetime": "2025-06-04 10:09:14 +02:00",
+    "name": "04 juni 09.11, Brand, Mölndal",
+    "summary": "Polis och räddningstjänst larmas till en adress i västra Lindome med anledning av att det brinner i ett radhus",
+    "url": "/aktuellt/handelser/2025/juni/4/04-juni-09.11-brand-molndal/",
+    "type": "Brand",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Nybro",
       "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 587212,
-    "datetime": "2025-05-28 14:53:34 +02:00",
-    "name": "28 maj 14.47, Brand, Ystad",
-    "summary": "Brand i lägenhet, Ystad.",
-    "url": "/aktuellt/handelser/2025/maj/28/28-maj-14.47-brand-ystad/",
-    "type": "Brand",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 587211,
-    "datetime": "2025-05-28 14:56:53 +02:00",
-    "name": "28 maj 14.16, Olovlig körning, Haparanda",
-    "summary": "Misstänkt olovlig körning i Haparanda.",
-    "url": "/aktuellt/handelser/2025/maj/28/28-maj-14.16-olovlig-korning-haparanda/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 587202,
-    "datetime": "2025-05-28 14:48:01 +02:00",
-    "name": "28 maj 12.55, Misshandel, Luleå",
-    "summary": "Polis beordras till Innerstaden där en man uppges ha slagit en annan man.",
-    "url": "/aktuellt/handelser/2025/maj/28/28-maj-12.55-misshandel-lulea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 587195,
-    "datetime": "2025-05-28 13:13:48 +02:00",
-    "name": "28 maj 13.00, Trafikolycka, Norrköping",
-    "summary": "Två bilar i krock vid Svärtinge.",
-    "url": "/aktuellt/handelser/2025/maj/28/28-maj-13.00-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   }
 ]
