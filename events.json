@@ -1,5 +1,77 @@
 [
   {
+    "id": 588072,
+    "datetime": "2025-06-05 17:27:15 +02:00",
+    "name": "05 juni 17.15, Trafikolycka, Oskarshamn",
+    "summary": "Trafikolycka med ett fordon som kört in i mitträcke E22 Fårbo, Oskarshamn",
+    "url": "/aktuellt/handelser/2025/juni/5/05-juni-17.15-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 588068,
+    "datetime": "2025-06-05 16:49:21 +02:00",
+    "name": "05 juni 16.23, Trafikolycka, Sölvesborg",
+    "summary": "Trafikolycka vid TPL47 Listerlandet.",
+    "url": "/aktuellt/handelser/2025/juni/5/05-juni-16.23-trafikolycka-solvesborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 588071,
+    "datetime": "2025-06-05 17:18:42 +02:00",
+    "name": "05 juni 14.36, Trafikolycka, personskada, Botkyrka",
+    "summary": "Två bilar inblandade i trafikolycka i Tumba.",
+    "url": "/aktuellt/handelser/2025/juni/5/05-juni-14.36-trafikolycka-personskada-botkyrka/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 588050,
+    "datetime": "2025-06-05 15:35:31 +02:00",
+    "name": "05 juni 15.10, Brand, Färgelanda",
+    "summary": "Larm om brand i villa i Torp.",
+    "url": "/aktuellt/handelser/2025/juni/5/05-juni-15.10-brand-fargelanda/",
+    "type": "Brand",
+    "location": {
+      "name": "Färgelanda",
+      "gps": "58.567559,11.994926"
+    }
+  },
+  {
+    "id": 588070,
+    "datetime": "2025-06-05 16:55:31 +02:00",
+    "name": "05 juni 15.20, Arbetsplatsolycka, Vännäs",
+    "summary": "Tätorten, en man har skadats under arbete.",
+    "url": "/aktuellt/handelser/2025/juni/5/05-juni-15.20-arbetsplatsolycka-vannas/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Vännäs",
+      "gps": "63.908007,19.752965"
+    }
+  },
+  {
+    "id": 588069,
+    "datetime": "2025-06-05 16:52:23 +02:00",
+    "name": "05 juni 16.44, Trafikolycka, Malmö",
+    "summary": "Trafikolycka mellan cyklist och personbil vid Jörgen Ankersgatan och Östra Rönneholmsvägen, Malmö",
+    "url": "/aktuellt/handelser/2025/juni/5/05-juni-16.44-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 588048,
     "datetime": "2025-06-05 15:03:08 +02:00",
     "name": "05 juni 14.53, Trafikolycka, personskada, Gnosjö",
@@ -129,18 +201,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 588050,
-    "datetime": "2025-06-05 15:35:31 +02:00",
-    "name": "05 juni 15.10, Brand, Färgelanda",
-    "summary": "Larm om brand i villa i Torp.",
-    "url": "/aktuellt/handelser/2025/juni/5/05-juni-15.10-brand-fargelanda/",
-    "type": "Brand",
-    "location": {
-      "name": "Färgelanda",
-      "gps": "58.567559,11.994926"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 587311,
-    "datetime": "2025-05-29 13:25:38 +02:00",
-    "name": "29 maj 08.17, Trafikkontroll, Sigtuna",
-    "summary": "Under morgonen har två polispatruller från lokalpolisområde Arlanda haft en trafikkontroll på Nordanleden.",
-    "url": "/aktuellt/handelser/2025/maj/29/29-maj-08.17-trafikkontroll-sigtuna/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
-    }
-  },
-  {
-    "id": 587307,
-    "datetime": "2025-05-29 13:14:09 +02:00",
-    "name": "29 maj 11.25, Kontroll person/fordon, Västerås",
-    "summary": "Två personer kontrollerades.",
-    "url": "/aktuellt/handelser/2025/maj/29/29-maj-11.25-kontroll-personfordon-vasteras/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 587301,
-    "datetime": "2025-05-29 12:59:35 +02:00",
-    "name": "29 maj 09.24, Misshandel, Umeå",
-    "summary": "Polispatrull beordras till ett hotell i Umeå med anledning av ett bråk/slagsmål mellan två män.",
-    "url": "/aktuellt/handelser/2025/maj/29/29-maj-09.24-misshandel-umea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 587306,
-    "datetime": "2025-05-29 12:40:30 +02:00",
-    "name": "28 maj 22.34, Misshandel, grov, Fagersta",
-    "summary": "Samtal om bråk.",
-    "url": "/aktuellt/handelser/2025/maj/28/28-maj-22.34-misshandel-grov-fagersta/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Fagersta",
-      "gps": "59.989144,15.816642"
-    }
-  },
-  {
-    "id": 587299,
-    "datetime": "2025-05-29 11:57:09 +02:00",
-    "name": "29 maj 10.14, Trafikolycka, Örnsköldsvik",
-    "summary": "Larm om trafikolycka på länsväg 348/länsväg 938, Överhörnäs.",
-    "url": "/aktuellt/handelser/2025/maj/29/29-maj-10.14-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
