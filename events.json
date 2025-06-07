@@ -1,5 +1,101 @@
 [
   {
+    "id": 588205,
+    "datetime": "2025-06-07 14:44:13 +02:00",
+    "name": "07 juni 11.40, Rattfylleri, Strömsund",
+    "summary": "Hoting, polisen kontrollerar en kvinna som misstänks köra berusad.",
+    "url": "/aktuellt/handelser/2025/juni/7/07-juni-11.40-rattfylleri-stromsund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 588202,
+    "datetime": "2025-06-07 14:19:23 +02:00",
+    "name": "07 juni 13.49, Trafikolycka, Nora",
+    "summary": "En singelolycka har inträffat på Lv 243.",
+    "url": "/aktuellt/handelser/2025/juni/7/07-juni-13.49-trafikolycka-nora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nora",
+      "gps": "59.519206,15.037867"
+    }
+  },
+  {
+    "id": 588204,
+    "datetime": "2025-06-07 14:39:14 +02:00",
+    "name": "07 juni 13.10, Stöld, Örebro",
+    "summary": "Kvinna bestulen på pengar i samband med kontatuttag.",
+    "url": "/aktuellt/handelser/2025/juni/7/07-juni-13.10-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 588203,
+    "datetime": "2025-06-07 14:35:47 +02:00",
+    "name": "07 juni 13.17, Trafikbrott, Umeå",
+    "summary": "Röbäck, polisen kontrollerar en man som just klivit ur en bil.",
+    "url": "/aktuellt/handelser/2025/juni/7/07-juni-13.17-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 588201,
+    "datetime": "2025-06-07 14:09:21 +02:00",
+    "name": "07 juni 11.00, Trafikbrott, Bräcke",
+    "summary": "Revsund, polisen kontrollerar en bil som bogserar en annan bil.",
+    "url": "/aktuellt/handelser/2025/juni/7/07-juni-11.00-trafikbrott-bracke/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Bräcke",
+      "gps": "62.750741,15.422575"
+    }
+  },
+  {
+    "id": 588200,
+    "datetime": "2025-06-07 14:03:53 +02:00",
+    "name": "07 juni 12.55, Trafikkontroll, Kramfors",
+    "summary": "Ringvägen, Öd. Polisen kontrollerar nykterhet i trafiken.",
+    "url": "/aktuellt/handelser/2025/juni/7/07-juni-12.55-trafikkontroll-kramfors/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 588199,
+    "datetime": "2025-06-07 14:01:02 +02:00",
+    "name": "07 juni 13.50, Fjällräddning, Malung-Sälen",
+    "summary": "En kanot har kapsejsat sydost om Fulunäs.",
+    "url": "/aktuellt/handelser/2025/juni/7/07-juni-13.50-fjallraddning-malung-salen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 588196,
+    "datetime": "2025-06-07 13:12:07 +02:00",
+    "name": "07 juni 12.39, Trafikolycka, Torsby",
+    "summary": "Motorcykelolycka norr om Röjdåfors i Torsby kommun.",
+    "url": "/aktuellt/handelser/2025/juni/7/07-juni-12.39-trafikolycka-torsby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
     "id": 588198,
     "datetime": "2025-06-07 13:19:12 +02:00",
     "name": "07 juni 13.18, Misshandel, Sävsjö",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 588196,
-    "datetime": "2025-06-07 13:12:07 +02:00",
-    "name": "07 juni 12.39, Trafikolycka, Torsby",
-    "summary": "Motorcykelolycka norr om Röjdåfors i Torsby kommun.",
-    "url": "/aktuellt/handelser/2025/juni/7/07-juni-12.39-trafikolycka-torsby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 587490,
-    "datetime": "2025-05-31 11:23:53 +02:00",
-    "name": "31 maj 11.16, Trafikolycka, Nybro",
-    "summary": "Personbil och MC i olycka, Örsjö.",
-    "url": "/aktuellt/handelser/2025/maj/31/31-maj-11.16-trafikolycka-nybro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 587489,
-    "datetime": "2025-05-31 11:08:45 +02:00",
-    "name": "31 maj 10.42, Djur, Tierp",
-    "summary": "Löst springande hästar längs med E4 norr om Läby.",
-    "url": "/aktuellt/handelser/2025/maj/31/31-maj-10.42-djur-tierp/",
-    "type": "Djur",
-    "location": {
-      "name": "Tierp",
-      "gps": "60.347587,17.520509"
-    }
-  },
-  {
-    "id": 587488,
-    "datetime": "2025-05-31 11:07:32 +02:00",
-    "name": "31 maj 10.49, Trafikkontroll, Östersund",
-    "summary": "Odenskogs industriområde, resultat efter trafikkontroll i parkeringshus",
-    "url": "/aktuellt/handelser/2025/maj/31/31-maj-10.49-trafikkontroll-ostersund/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 587486,
-    "datetime": "2025-05-31 10:19:22 +02:00",
-    "name": "31 maj 09.39, Trafikolycka, personskada, Heby",
-    "summary": "Personbil kört av vägen, en person lastad i ambulanshelikopter.",
-    "url": "/aktuellt/handelser/2025/maj/31/31-maj-09.39-trafikolycka-personskada-heby/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
-    }
-  },
-  {
-    "id": 587487,
-    "datetime": "2025-05-31 10:24:55 +02:00",
-    "name": "30 maj 21.55, Rån, försök, Sundsvall",
-    "summary": "Kvissleby, en man har inkommit till sjukvården efter misstänkt rånförsök",
-    "url": "/aktuellt/handelser/2025/maj/30/30-maj-21.55-ran-forsok-sundsvall/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 587480,
-    "datetime": "2025-05-31 9:36:35 +02:00",
-    "name": "31 maj 09.00, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/maj/31/31-maj-09.00-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 587481,
-    "datetime": "2025-05-31 9:18:54 +02:00",
-    "name": "31 maj 09.02, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2025/maj/31/31-maj-09.02-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
