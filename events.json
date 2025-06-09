@@ -1,5 +1,65 @@
 [
   {
+    "id": 588439,
+    "datetime": "2025-06-09 19:19:46 +02:00",
+    "name": "09 juni 19.14, Brand, Kalmar",
+    "summary": "Det brinner i en villa i norra delen av Kalmar.",
+    "url": "/aktuellt/handelser/2025/juni/9/09-juni-19.14-brand-kalmar/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 588333,
+    "datetime": "2025-06-09 10:41:53 +02:00",
+    "name": "09 juni 10.11, Kontroll person/fordon, Stockholm",
+    "summary": "Polis kallas till en adress i centrala Stockholm med anledning av att en person sett personer med vapenliknand",
+    "url": "/aktuellt/handelser/2025/juni/9/09-juni-10.11-kontroll-personfordon-stockholm/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 588438,
+    "datetime": "2025-06-09 19:07:15 +02:00",
+    "name": "09 juni 16.21, Inbrott, Kramfors",
+    "summary": "Inbrott i hus i Kramfors centrum.",
+    "url": "/aktuellt/handelser/2025/juni/9/09-juni-16.21-inbrott-kramfors/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 588437,
+    "datetime": "2025-06-09 19:03:16 +02:00",
+    "name": "09 juni 17.00, Knivlagen, Umeå",
+    "summary": "Påverkad man bar kniv.",
+    "url": "/aktuellt/handelser/2025/juni/9/09-juni-17.00-knivlagen-umea/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 588436,
+    "datetime": "2025-06-09 18:56:06 +02:00",
+    "name": "09 juni 16.26, Stöld, Luleå",
+    "summary": "Ringa stöld ur butik i centrum.",
+    "url": "/aktuellt/handelser/2025/juni/9/09-juni-16.26-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 588429,
     "datetime": "2025-06-09 18:27:57 +02:00",
     "name": "09 juni 17.49, Arbetsplatsolycka, Örkelljunga",
@@ -309,18 +369,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 588333,
-    "datetime": "2025-06-09 10:41:53 +02:00",
-    "name": "09 juni 10.11, Kontroll person/fordon, Stockholm",
-    "summary": "Polis kallas till en adress i centrala Stockholm med anledning av att en person sett personer med vapenliknand",
-    "url": "/aktuellt/handelser/2025/juni/9/09-juni-10.11-kontroll-personfordon-stockholm/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Arboga",
       "gps": "59.393688,15.838175"
-    }
-  },
-  {
-    "id": 587712,
-    "datetime": "2025-06-02 17:58:08 +02:00",
-    "name": "02 juni 17.05, Övrigt, Malmö",
-    "summary": "Anträffad väska på Gustav Adolfs torg.",
-    "url": "/aktuellt/handelser/2025/juni/2/02-juni-17.05-ovrigt-malmo/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 587699,
-    "datetime": "2025-06-02 17:27:27 +02:00",
-    "name": "02 juni 13.58, Arbetsplatsolycka, Helsingborg",
-    "summary": "Misstänkt arbetsplatsolycka på Silvåkragatan.",
-    "url": "/aktuellt/handelser/2025/juni/2/02-juni-13.58-arbetsplatsolycka-helsingborg/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 587705,
-    "datetime": "2025-06-02 16:05:59 +02:00",
-    "name": "02 juni 15.00, Rattfylleri, Västerås",
-    "summary": "Man misstänkt för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/juni/2/02-juni-15.00-rattfylleri-vasteras/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 587704,
-    "datetime": "2025-06-02 16:04:11 +02:00",
-    "name": "02 juni 15.04, Fylleri/LOB, Umeå",
-    "summary": "Polisen kontaktas om en berusad man på Berghem.",
-    "url": "/aktuellt/handelser/2025/juni/2/02-juni-15.04-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
