@@ -1,5 +1,65 @@
 [
   {
+    "id": 588712,
+    "datetime": "2025-06-11 16:22:04 +02:00",
+    "name": "11 juni 16.10, Brand, Sölvesborg",
+    "summary": "Larm om brand i fastighet, Liljedahlsgatan.",
+    "url": "/aktuellt/handelser/2025/juni/11/11-juni-16.10-brand-solvesborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Sölvesborg",
+      "gps": "56.053743,14.579688"
+    }
+  },
+  {
+    "id": 588711,
+    "datetime": "2025-06-11 16:15:11 +02:00",
+    "name": "11 juni 15.14, Trafikolycka, Västerås",
+    "summary": "Kollision mellan personbil och lastbil.",
+    "url": "/aktuellt/handelser/2025/juni/11/11-juni-15.14-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 588710,
+    "datetime": "2025-06-11 16:11:06 +02:00",
+    "name": "11 juni 15.54, Trafikolycka, Helsingborg",
+    "summary": "Trafikolycka mellan elsparkcykel och fotgängare.",
+    "url": "/aktuellt/handelser/2025/juni/11/11-juni-15.54-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 588691,
+    "datetime": "2025-06-11 15:12:52 +02:00",
+    "name": "11 juni 15.00, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka mellan en cykel och en elsparkcykel, Baltzargatan.",
+    "url": "/aktuellt/handelser/2025/juni/11/11-juni-15.00-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 588707,
+    "datetime": "2025-06-11 15:59:54 +02:00",
+    "name": "11 juni 15.59, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/juni/11/11-juni-15.59-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 588704,
     "datetime": "2025-06-11 15:38:23 +02:00",
     "name": "11 juni 15.21, Trafikolycka, Rättvik",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Ragunda",
       "gps": "63.061337,16.396683"
-    }
-  },
-  {
-    "id": 588691,
-    "datetime": "2025-06-11 15:12:52 +02:00",
-    "name": "11 juni 15.00, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka mellan en cykel och en elsparkcykel, Baltzargatan.",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-15.00-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 587904,
-    "datetime": "2025-06-04 12:40:17 +02:00",
-    "name": "04 juni 10.55, Trafikolycka, Robertsfors",
-    "summary": "E4, Rickleå, en personbil har kört in i mitträcket.",
-    "url": "/aktuellt/handelser/2025/juni/4/04-juni-10.55-trafikolycka-robertsfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 587903,
-    "datetime": "2025-06-04 12:39:37 +02:00",
-    "name": "04 juni 11.53, Trafikolycka, Tomelilla",
-    "summary": "Två personbilar i kollision",
-    "url": "/aktuellt/handelser/2025/juni/4/04-juni-11.53-trafikolycka-tomelilla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Tomelilla",
-      "gps": "55.54355,13.95484"
-    }
-  },
-  {
-    "id": 587902,
-    "datetime": "2025-06-04 12:33:16 +02:00",
-    "name": "04 juni 10.19, Trafikbrott, Luleå",
-    "summary": "Storheden, polisen kontrollerar en personbil.",
-    "url": "/aktuellt/handelser/2025/juni/4/04-juni-10.19-trafikbrott-lulea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 587901,
-    "datetime": "2025-06-04 12:12:06 +02:00",
-    "name": "04 juni 11.47, Trafikkontroll, Västerbottens län",
-    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen.",
-    "url": "/aktuellt/handelser/2025/juni/4/04-juni-11.47-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
