@@ -1,5 +1,65 @@
 [
   {
+    "id": 588800,
+    "datetime": "2025-06-12 13:21:35 +02:00",
+    "name": "12 juni 11.00, Trafikolycka, personskada, Köping",
+    "summary": "Motorcykel och personbil i trafikolycka.",
+    "url": "/aktuellt/handelser/2025/juni/12/12-juni-11.00-trafikolycka-personskada-koping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 588797,
+    "datetime": "2025-06-12 13:05:04 +02:00",
+    "name": "12 juni 13.03, Brand, Karlstad",
+    "summary": "Polispatrull bistår räddningstjänsten vid en brand i byggnad på Bryngfjorden.",
+    "url": "/aktuellt/handelser/2025/juni/12/12-juni-13.03-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 588796,
+    "datetime": "2025-06-12 13:04:06 +02:00",
+    "name": "12 juni 09.04, Brand, Haparanda",
+    "summary": "Brand i samlingslokal utanför Haparanda.",
+    "url": "/aktuellt/handelser/2025/juni/12/12-juni-09.04-brand-haparanda/",
+    "type": "Brand",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 588795,
+    "datetime": "2025-06-12 13:03:07 +02:00",
+    "name": "12 juni 11.36, Trafikolycka, Uppsala",
+    "summary": "Trafikolycka i rondell.",
+    "url": "/aktuellt/handelser/2025/juni/12/12-juni-11.36-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 588794,
+    "datetime": "2025-06-12 13:00:11 +02:00",
+    "name": "12 juni 11.07, Våld/hot mot tjänsteman, Skellefteå",
+    "summary": "Man misstänks för våld mot tjänsteman.",
+    "url": "/aktuellt/handelser/2025/juni/12/12-juni-11.07-valdhot-mot-tjansteman-skelleftea/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 588792,
     "datetime": "2025-06-12 12:44:55 +02:00",
     "name": "12 juni 12.44, Trafikkontroll, Östersund",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 588053,
-    "datetime": "2025-06-05 15:54:52 +02:00",
-    "name": "05 juni 13.08, Trafikbrott, Luleå",
-    "summary": "Östermalm, polisen stoppar en personbil.",
-    "url": "/aktuellt/handelser/2025/juni/5/05-juni-13.08-trafikbrott-lulea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 588052,
-    "datetime": "2025-06-05 15:48:50 +02:00",
-    "name": "05 juni 11.55, Trafikolycka, smitning från, Luleå",
-    "summary": "Storheden, en lastbil och en personbil ska ha kolliderat.",
-    "url": "/aktuellt/handelser/2025/juni/5/05-juni-11.55-trafikolycka-smitning-fran-lulea/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 588051,
-    "datetime": "2025-06-05 15:43:20 +02:00",
-    "name": "05 juni 11.13, Arbetsplatsolycka, Boden",
-    "summary": "En man som arbetat på garnisonsområdet ska ha fått en lucka i huvudet.",
-    "url": "/aktuellt/handelser/2025/juni/5/05-juni-11.13-arbetsplatsolycka-boden/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 588041,
-    "datetime": "2025-06-05 13:41:07 +02:00",
-    "name": "05 juni 11.33, Trafikbrott, Gällivare",
-    "summary": "E45, bilist stoppad efter hastighetsöverträdelse strax öster om Gällivare",
-    "url": "/aktuellt/handelser/2025/juni/5/05-juni-11.33-trafikbrott-gallivare/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 588040,
-    "datetime": "2025-06-05 13:39:32 +02:00",
-    "name": "05 juni 13.38, Övrigt, Lysekil",
-    "summary": "Polisen har genomfört utredningsåtgärder i ett ärende i Lysekil.",
-    "url": "/aktuellt/handelser/2025/juni/5/05-juni-13.38-ovrigt-lysekil/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Lysekil",
-      "gps": "58.275573,11.435558"
     }
   }
 ]
