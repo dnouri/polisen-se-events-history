@@ -1,5 +1,65 @@
 [
   {
+    "id": 589024,
+    "datetime": "2025-06-13 18:26:39 +02:00",
+    "name": "13 juni 14.13, Anträffad död, Eskilstuna",
+    "summary": "Person funnen avliden",
+    "url": "/aktuellt/handelser/2025/juni/13/13-juni-14.13-antraffad-dod-eskilstuna/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 589023,
+    "datetime": "2025-06-13 18:23:30 +02:00",
+    "name": "13 juni 16.03, Trafikolycka, personskada, Stockholm",
+    "summary": "Två personer till sjukhus efter trafikolycka i Gamla Enskede.",
+    "url": "/aktuellt/handelser/2025/juni/13/13-juni-16.03-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 589022,
+    "datetime": "2025-06-13 18:20:47 +02:00",
+    "name": "13 juni 17.34, Vapenlagen, Gävle",
+    "summary": "Larm om vapen var leksakspistol.",
+    "url": "/aktuellt/handelser/2025/juni/13/13-juni-17.34-vapenlagen-gavle/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 589019,
+    "datetime": "2025-06-13 18:02:24 +02:00",
+    "name": "13 juni 15.10, Fylleri/LOB, Luleå",
+    "summary": "Skutvikens industriområde, polisen uppmärksammas på en förvirrad man.",
+    "url": "/aktuellt/handelser/2025/juni/13/13-juni-15.10-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 589018,
+    "datetime": "2025-06-13 18:02:06 +02:00",
+    "name": "13 juni 14.30, Brand, Söderhamn",
+    "summary": "En lastpall med kol började brinna i butik.",
+    "url": "/aktuellt/handelser/2025/juni/13/13-juni-14.30-brand-soderhamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
     "id": 589017,
     "datetime": "2025-06-13 17:12:06 +02:00",
     "name": "13 juni 13.45, Olaga intrång, Kramfors",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 588166,
-    "datetime": "2025-06-07 7:01:21 +02:00",
-    "name": "07 juni 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/juni/7/07-juni-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 588173,
-    "datetime": "2025-06-07 7:52:14 +02:00",
-    "name": "07 juni 02.04, Stöld, försök, Uppsala",
-    "summary": "Anmälan om stöldförsök.",
-    "url": "/aktuellt/handelser/2025/juni/7/07-juni-02.04-stold-forsok-uppsala/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 588172,
-    "datetime": "2025-06-07 7:32:06 +02:00",
-    "name": "06 juni 18.50, Trafikbrott, Kungsör",
-    "summary": "Bilist misstänks för brott.",
-    "url": "/aktuellt/handelser/2025/juni/6/06-juni-18.50-trafikbrott-kungsor/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Kungsör",
-      "gps": "59.422397,16.097786"
-    }
-  },
-  {
-    "id": 588171,
-    "datetime": "2025-06-07 7:27:20 +02:00",
-    "name": "07 juni 07.25, Sammanfattning natt, Örebro län",
-    "summary": "Natt till lördag i polisområde i Örebro.",
-    "url": "/aktuellt/handelser/2025/juni/7/07-juni-07.25-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 588170,
-    "datetime": "2025-06-07 7:27:16 +02:00",
-    "name": "07 juni 07.25, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till lördag i polisområde i Dalarna.",
-    "url": "/aktuellt/handelser/2025/juni/7/07-juni-07.25-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
