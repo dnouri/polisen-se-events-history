@@ -1,5 +1,101 @@
 [
   {
+    "id": 589501,
+    "datetime": "2025-06-18 11:32:23 +02:00",
+    "name": "18 juni 09.05, Stöld, Tanum",
+    "summary": "Fyra personer gripna misstänkta för stöld.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-09.05-stold-tanum/",
+    "type": "Stöld",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 589500,
+    "datetime": "2025-06-18 11:32:11 +02:00",
+    "name": "18 juni 10.56, Trafikolycka, Skinnskatteberg",
+    "summary": "Trafikolycka med lastbil.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-10.56-trafikolycka-skinnskatteberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skinnskatteberg",
+      "gps": "59.826056,15.691519"
+    }
+  },
+  {
+    "id": 589493,
+    "datetime": "2025-06-18 11:01:09 +02:00",
+    "name": "18 juni 10.21, Trafikolycka, Strängnäs",
+    "summary": "Krock på E20.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-10.21-trafikolycka-strangnas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 589499,
+    "datetime": "2025-06-18 11:11:10 +02:00",
+    "name": "18 juni 10.32, Brand, Lindesberg",
+    "summary": "Det uppges brinna i ett obebott hus i Guldsmedshyttan",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-10.32-brand-lindesberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 589494,
+    "datetime": "2025-06-18 11:03:24 +02:00",
+    "name": "18 juni 09.35, Stöld/inbrott, Köping",
+    "summary": "Inbrott i källarförråd.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-09.35-stoldinbrott-koping/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 589492,
+    "datetime": "2025-06-18 11:03:12 +02:00",
+    "name": "18 juni 06.41, Inbrott, Östersund",
+    "summary": "Polispatrull beosdras till Torvalla med anledning av ett misstänkt pågående inbrott i ett förråd.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-06.41-inbrott-ostersund/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 589491,
+    "datetime": "2025-06-18 10:45:13 +02:00",
+    "name": "18 juni 07.23, Trafikolycka, Skellefteå",
+    "summary": "Larm om trafikolycka på länsväg 791/länsväg 805, Finnfors.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-07.23-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 589429,
+    "datetime": "2025-06-17 20:18:59 +02:00",
+    "name": "17 juni 19.44, Försvunnen person, Vänersborg",
+    "summary": "Polisen letar efter en person som försvunnit från sin arbetsplats i Vänersborgs kommun under pågående arbete.",
+    "url": "/aktuellt/handelser/2025/juni/17/17-juni-19.44-forsvunnen-person-vanersborg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Vänersborg",
+      "gps": "58.379728,12.324803"
+    }
+  },
+  {
     "id": 589473,
     "datetime": "2025-06-18 9:06:51 +02:00",
     "name": "18 juni 08.34, Trafikolycka, Gislaved",
@@ -357,18 +453,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 589429,
-    "datetime": "2025-06-17 20:18:59 +02:00",
-    "name": "17 juni 19.44, Försvunnen person, Vänersborg",
-    "summary": "Polisen letar efter en person som försvunnit från sin arbetsplats i Vänersborgs kommun under pågående arbete.",
-    "url": "/aktuellt/handelser/2025/juni/17/17-juni-19.44-forsvunnen-person-vanersborg/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Vänersborg",
-      "gps": "58.379728,12.324803"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 588676,
-    "datetime": "2025-06-11 13:06:30 +02:00",
-    "name": "11 juni 11.02, Trafikolycka, personskada, Falun",
-    "summary": "En kvinna i åttioårsåldern har tilldelats ordningsbot efter att bedömts vållande av en trafikolycka under förm",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-11.02-trafikolycka-personskada-falun/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 588655,
-    "datetime": "2025-06-11 13:02:44 +02:00",
-    "name": "11 juni 11.37, Rattfylleri, Laxå",
-    "summary": "En man i femtioårsåldern misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-11.37-rattfylleri-laxa/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Laxå",
-      "gps": "58.98269,14.62289"
-    }
-  },
-  {
-    "id": 588673,
-    "datetime": "2025-06-11 12:59:58 +02:00",
-    "name": "11 juni 12.16, Trafikolycka, Linköping",
-    "summary": "Två bilar i krock i Tornby.",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-12.16-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 588671,
-    "datetime": "2025-06-11 12:56:33 +02:00",
-    "name": "11 juni 12.45, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-12.45-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 588661,
-    "datetime": "2025-06-11 12:36:06 +02:00",
-    "name": "11 juni 12.30, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-12.30-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 588660,
-    "datetime": "2025-06-11 12:20:45 +02:00",
-    "name": "11 juni 12.15, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-12.15-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 588657,
-    "datetime": "2025-06-11 11:54:51 +02:00",
-    "name": "11 juni 10.38, Trafikolycka, singel, Orust",
-    "summary": "Olycka där fordonet kört in i en hästhage.",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-10.38-trafikolycka-singel-orust/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Orust",
-      "gps": "58.180267,11.675984"
     }
   }
 ]
