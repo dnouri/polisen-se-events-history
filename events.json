@@ -1,5 +1,65 @@
 [
   {
+    "id": 589599,
+    "datetime": "2025-06-19 6:35:45 +02:00",
+    "name": "18 juni 23.22, Trafikolycka, Alvesta",
+    "summary": "Bil som kört av vägen vid Slätthög i Alvesta.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-23.22-trafikolycka-alvesta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Alvesta",
+      "gps": "56.89921,14.556001"
+    }
+  },
+  {
+    "id": 589598,
+    "datetime": "2025-06-19 6:30:34 +02:00",
+    "name": "18 juni 22.14, Rattfylleri, Emmaboda",
+    "summary": "Drograttfylleri i Emmaboda",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-22.14-rattfylleri-emmaboda/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Emmaboda",
+      "gps": "56.630686,15.540006"
+    }
+  },
+  {
+    "id": 589597,
+    "datetime": "2025-06-19 6:24:41 +02:00",
+    "name": "18 juni 22.18, Inbrott, försök, Karlskrona",
+    "summary": "Inbrottsförsök i ett förråd på Blekinge sjukhus.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-22.18-inbrott-forsok-karlskrona/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 589596,
+    "datetime": "2025-06-19 6:21:10 +02:00",
+    "name": "18 juni 23.50, Rattfylleri, Lund",
+    "summary": "Misstänkt drograttfylleri på Malmövägen i Lund.",
+    "url": "/aktuellt/handelser/2025/juni/18/18-juni-23.50-rattfylleri-lund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 589595,
+    "datetime": "2025-06-19 6:18:15 +02:00",
+    "name": "19 juni 05.47, Rattfylleri, Hässleholm",
+    "summary": "Rattfylleri på Stobyvägen i Vinslöv.",
+    "url": "/aktuellt/handelser/2025/juni/19/19-juni-05.47-rattfylleri-hassleholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 589581,
     "datetime": "2025-06-18 22:00:07 +02:00",
     "name": "18 juni 22.00, Övrigt, Hallands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 588761,
-    "datetime": "2025-06-12 7:25:30 +02:00",
-    "name": "12 juni 07.24, Arbetsplatsolycka, Karlskoga",
-    "summary": "Polis har inlett en förundersökning gällande vållande till kroppsskada.",
-    "url": "/aktuellt/handelser/2025/juni/12/12-juni-07.24-arbetsplatsolycka-karlskoga/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 588760,
-    "datetime": "2025-06-12 7:23:05 +02:00",
-    "name": "11 juni 21.54, Trafikbrott, Enköping",
-    "summary": "Elsparkcykel kontrollerades.",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-21.54-trafikbrott-enkoping/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 588759,
-    "datetime": "2025-06-12 7:19:46 +02:00",
-    "name": "12 juni 00.41, Narkotikabrott, Lidingö",
-    "summary": "En bilist i Larsberg kontrollerades och medtogs för vidare utredning misstänkt för narkotikabrott eget bruk.",
-    "url": "/aktuellt/handelser/2025/juni/12/12-juni-00.41-narkotikabrott-lidingo/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Lidingö",
-      "gps": "59.36296,18.1468"
-    }
-  },
-  {
-    "id": 588758,
-    "datetime": "2025-06-12 7:19:17 +02:00",
-    "name": "11 juni 21.31, Bedrägeri, Uppsala",
-    "summary": "Anmälan om grovt bedrägeri.",
-    "url": "/aktuellt/handelser/2025/juni/11/11-juni-21.31-bedrageri-uppsala/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 588757,
-    "datetime": "2025-06-12 7:16:10 +02:00",
-    "name": "12 juni 02.55, Stöld, Södertälje",
-    "summary": "En man hade slagit sönder en handfull fönsterrutor på en byggnad. I sin ryggsäck hade han saker som misstänks ",
-    "url": "/aktuellt/handelser/2025/juni/12/12-juni-02.55-stold-sodertalje/",
-    "type": "Stöld",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
