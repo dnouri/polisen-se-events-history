@@ -1,14 +1,38 @@
 [
   {
+    "id": 591081,
+    "datetime": "2025-06-23 19:08:22 +02:00",
+    "name": "23 juni 19.00, Bråk, Malmö",
+    "summary": "Bråk utomhus, Möllevången.",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-19.00-brak-malmo/",
+    "type": "Bråk",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 591080,
     "datetime": "2025-06-23 18:37:20 +02:00",
-    "name": "23 juni 18.21, Övrigt, Skövde",
+    "name": "23 juni 18.21, Explosion, Skövde",
     "summary": "Larm om hög smäll i Östermalm.",
-    "url": "/aktuellt/handelser/2025/juni/23/23-juni-18.21-ovrigt-skovde/",
-    "type": "Övrigt",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-18.21-explosion-skovde/",
+    "type": "Explosion",
     "location": {
       "name": "Skövde",
       "gps": "58.390278,13.846121"
+    }
+  },
+  {
+    "id": 591076,
+    "datetime": "2025-06-23 16:29:00 +02:00",
+    "name": "23 juni 15.44, Trafikolycka, Gällivare",
+    "summary": "E45 Dundret, en bilist har kört av vägen",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-15.44-trafikolycka-gallivare/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
     }
   },
   {
@@ -24,18 +48,6 @@
     }
   },
   {
-    "id": 591078,
-    "datetime": "2025-06-23 17:49:44 +02:00",
-    "name": "23 juni 12.51, Trafikolycka, Sollefteå",
-    "summary": "Långsele, häst och kusk uppges ha kolliderat med en stillastånde bil",
-    "url": "/aktuellt/handelser/2025/juni/23/23-juni-12.51-trafikolycka-solleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
     "id": 591077,
     "datetime": "2025-06-23 17:12:37 +02:00",
     "name": "23 juni 17.05, Trafikolycka, Staffanstorp",
@@ -48,15 +60,27 @@
     }
   },
   {
-    "id": 591076,
-    "datetime": "2025-06-23 16:29:00 +02:00",
-    "name": "23 juni 15.44, Trafikolycka, Gällivare",
-    "summary": "E45 Dundret, en bilist har kört av vägen",
-    "url": "/aktuellt/handelser/2025/juni/23/23-juni-15.44-trafikolycka-gallivare/",
+    "id": 591071,
+    "datetime": "2025-06-23 15:58:02 +02:00",
+    "name": "23 juni 14.54, Trafikolycka, singel, Ragunda",
+    "summary": "Riksväg 87/länsväg 774, singelolycka med lastbil",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-14.54-trafikolycka-singel-ragunda/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Ragunda",
+      "gps": "63.061337,16.396683"
+    }
+  },
+  {
+    "id": 591078,
+    "datetime": "2025-06-23 17:49:44 +02:00",
+    "name": "23 juni 12.51, Trafikolycka, Sollefteå",
+    "summary": "Långsele, häst och kusk uppges ha kolliderat med en stillastånde bil",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-12.51-trafikolycka-solleftea/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
     }
   },
   {
@@ -81,18 +105,6 @@
     "location": {
       "name": "Hylte",
       "gps": "56.977313,13.338766"
-    }
-  },
-  {
-    "id": 591071,
-    "datetime": "2025-06-23 15:58:02 +02:00",
-    "name": "23 juni 14.54, Trafikolycka, singel, Ragunda",
-    "summary": "Riksväg 87/länsväg 774, singelolycka med lastbil",
-    "url": "/aktuellt/handelser/2025/juni/23/23-juni-14.54-trafikolycka-singel-ragunda/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Ragunda",
-      "gps": "63.061337,16.396683"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 589290,
-    "datetime": "2025-06-16 21:15:39 +02:00",
-    "name": "16 juni 18.27, Skadegörelse, Umeå",
-    "summary": "Centrala stan, en kvinna ska ha förstört förpackningar i en butik.",
-    "url": "/aktuellt/handelser/2025/juni/16/16-juni-18.27-skadegorelse-umea/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
