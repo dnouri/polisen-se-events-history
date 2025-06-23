@@ -1,14 +1,50 @@
 [
   {
-    "id": 591070,
-    "datetime": "2025-06-23 15:27:04 +02:00",
-    "name": "23 juni 11.29, Trafikolycka, singel, Timrå",
-    "summary": "Länsväg 331 Åsäng, en bilist har kört av vägen",
-    "url": "/aktuellt/handelser/2025/juni/23/23-juni-11.29-trafikolycka-singel-timra/",
+    "id": 591076,
+    "datetime": "2025-06-23 16:29:00 +02:00",
+    "name": "23 juni 15.44, Trafikolycka, Gällivare",
+    "summary": "E45 Dundret, en bilist har kört av vägen",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-15.44-trafikolycka-gallivare/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 591074,
+    "datetime": "2025-06-23 16:04:39 +02:00",
+    "name": "23 juni 14.59, Trafikolycka, singel, Luleå",
+    "summary": "E4 Persön, en bilist har kört av vägen vid norrgående körfält",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-14.59-trafikolycka-singel-lulea/",
     "type": "Trafikolycka, singel",
     "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 591067,
+    "datetime": "2025-06-23 15:04:13 +02:00",
+    "name": "23 juni 13.36, Trafikolycka, Hylte",
+    "summary": "Två personbilar i krock enligt larm.",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-13.36-trafikolycka-hylte/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hylte",
+      "gps": "56.977313,13.338766"
+    }
+  },
+  {
+    "id": 591071,
+    "datetime": "2025-06-23 15:58:02 +02:00",
+    "name": "23 juni 14.54, Trafikolycka, singel, Ragunda",
+    "summary": "Riksväg 87/länsväg 774, singelolycka med lastbil",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-14.54-trafikolycka-singel-ragunda/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Ragunda",
+      "gps": "63.061337,16.396683"
     }
   },
   {
@@ -24,15 +60,15 @@
     }
   },
   {
-    "id": 591067,
-    "datetime": "2025-06-23 15:04:13 +02:00",
-    "name": "23 juni 13.36, Trafikolycka, Hylte",
-    "summary": "Två personbilar i krock enligt larm.",
-    "url": "/aktuellt/handelser/2025/juni/23/23-juni-13.36-trafikolycka-hylte/",
-    "type": "Trafikolycka",
+    "id": 591070,
+    "datetime": "2025-06-23 15:27:04 +02:00",
+    "name": "23 juni 11.29, Trafikolycka, singel, Timrå",
+    "summary": "Länsväg 331 Åsäng, en bilist har kört av vägen",
+    "url": "/aktuellt/handelser/2025/juni/23/23-juni-11.29-trafikolycka-singel-timra/",
+    "type": "Trafikolycka, singel",
     "location": {
-      "name": "Hylte",
-      "gps": "56.977313,13.338766"
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 589280,
-    "datetime": "2025-06-16 19:41:08 +02:00",
-    "name": "16 juni 18.56, Trafikolycka, Borås",
-    "summary": "En moped och en personbil är involverade i en olycka vid Seglora.",
-    "url": "/aktuellt/handelser/2025/juni/16/16-juni-18.56-trafikolycka-boras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 589285,
-    "datetime": "2025-06-16 20:19:38 +02:00",
-    "name": "16 juni 19.53, Skadegörelse, Västervik",
-    "summary": "Skadegörelse på busskur i Västervik.",
-    "url": "/aktuellt/handelser/2025/juni/16/16-juni-19.53-skadegorelse-vastervik/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 589284,
-    "datetime": "2025-06-16 20:16:34 +02:00",
-    "name": "16 juni 19.52, Inbrott, försök, Osby",
-    "summary": "Inbrotts försök i förråd vid Osby kyrka.",
-    "url": "/aktuellt/handelser/2025/juni/16/16-juni-19.52-inbrott-forsok-osby/",
-    "type": "Inbrott, försök",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
     }
   }
 ]
