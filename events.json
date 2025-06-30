@@ -1,17 +1,5 @@
 [
   {
-    "id": 591820,
-    "datetime": "2025-06-30 15:40:25 +02:00",
-    "name": "30 juni 15.21, Brand, Stockholm",
-    "summary": "Brand på balkong i Marieberg.",
-    "url": "/aktuellt/handelser/2025/juni/30/30-juni-15.21-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 591814,
     "datetime": "2025-06-30 15:22:19 +02:00",
     "name": "30 juni 15.13, Trafikolycka, Ödeshög",
@@ -21,6 +9,54 @@
     "location": {
       "name": "Ödeshög",
       "gps": "58.228996,14.64882"
+    }
+  },
+  {
+    "id": 591828,
+    "datetime": "2025-06-30 16:07:00 +02:00",
+    "name": "30 juni 14.45, Fylleri/LOB, Umeå",
+    "summary": "Centrala stan, polis kontaktas gällande berusad kvinna vid bussarna på Vasaplan",
+    "url": "/aktuellt/handelser/2025/juni/30/30-juni-14.45-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 591826,
+    "datetime": "2025-06-30 15:55:37 +02:00",
+    "name": "30 juni 14.06, Stöld, Umeå",
+    "summary": "Strömpilsplatsen, kvinna stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2025/juni/30/30-juni-14.06-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 591821,
+    "datetime": "2025-06-30 15:43:16 +02:00",
+    "name": "30 juni 13.10, Trafikolycka, Storuman",
+    "summary": "E45, larm om trafikolycka i tätorten",
+    "url": "/aktuellt/handelser/2025/juni/30/30-juni-13.10-trafikolycka-storuman/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Storuman",
+      "gps": "65.09562,17.112277"
+    }
+  },
+  {
+    "id": 591820,
+    "datetime": "2025-06-30 15:40:25 +02:00",
+    "name": "30 juni 15.21, Brand, Stockholm",
+    "summary": "Brand på balkong i Marieberg.",
+    "url": "/aktuellt/handelser/2025/juni/30/30-juni-15.21-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 589953,
-    "datetime": "2025-06-22 14:59:46 +02:00",
-    "name": "22 juni 13.47, Trafikolycka, singel, Nordanstig",
-    "summary": "Förare misstänkt för brott efter olycka med motorcykel.",
-    "url": "/aktuellt/handelser/2025/juni/22/22-juni-13.47-trafikolycka-singel-nordanstig/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Nordanstig",
-      "gps": "62.036668,17.205249"
-    }
-  },
-  {
-    "id": 589940,
-    "datetime": "2025-06-22 14:55:29 +02:00",
-    "name": "22 juni 14.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/juni/22/22-juni-14.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 589941,
-    "datetime": "2025-06-22 14:55:20 +02:00",
-    "name": "22 juni 14.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/juni/22/22-juni-14.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
