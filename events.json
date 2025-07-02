@@ -1,5 +1,65 @@
 [
   {
+    "id": 592122,
+    "datetime": "2025-07-02 20:16:56 +02:00",
+    "name": "02 juli 17.52, Misshandel, Linköping",
+    "summary": "Två gripna för misshandel",
+    "url": "/aktuellt/handelser/2025/juli/2/02-juli-17.52-misshandel-linkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 592121,
+    "datetime": "2025-07-02 20:12:48 +02:00",
+    "name": "02 juli 17.22, Trafikolycka, Ängelholm",
+    "summary": "MC-förare till sjukhus.",
+    "url": "/aktuellt/handelser/2025/juli/2/02-juli-17.22-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 592120,
+    "datetime": "2025-07-02 20:02:54 +02:00",
+    "name": "02 juli 20.02, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, urval från trafikkontroller i eftermiddag.",
+    "url": "/aktuellt/handelser/2025/juli/2/02-juli-20.02-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 592119,
+    "datetime": "2025-07-02 19:59:44 +02:00",
+    "name": "02 juli 17.56, Övrigt, Vårgårda",
+    "summary": "Person fastklämd under bil.",
+    "url": "/aktuellt/handelser/2025/juli/2/02-juli-17.56-ovrigt-vargarda/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Vårgårda",
+      "gps": "58.032304,12.808976"
+    }
+  },
+  {
+    "id": 592118,
+    "datetime": "2025-07-02 19:59:07 +02:00",
+    "name": "02 juli 18.52, Fylleri/LOB, Umeå",
+    "summary": "Umeå, person omhändertagen.",
+    "url": "/aktuellt/handelser/2025/juli/2/02-juli-18.52-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 592108,
     "datetime": "2025-07-02 17:30:32 +02:00",
     "name": "02 juli 17.25, Misshandel, Kristianstad",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 591189,
-    "datetime": "2025-06-24 16:03:22 +02:00",
-    "name": "24 juni 06.58, Mord/dråp, försök, Boden",
-    "summary": "Centrum, polis kontaktas gällande en skadad person på en adress",
-    "url": "/aktuellt/handelser/2025/juni/24/24-juni-06.58-morddrap-forsok-boden/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 591249,
-    "datetime": "2025-06-25 7:53:22 +02:00",
-    "name": "25 juni 02.57, Sexualbrott, Salem",
-    "summary": "En man försöker tvinga en flicka i mellanstadieåldern att skicka nakenbilder på sig själv.",
-    "url": "/aktuellt/handelser/2025/juni/25/25-juni-02.57-sexualbrott-salem/",
-    "type": "Sexualbrott",
-    "location": {
-      "name": "Salem",
-      "gps": "59.20768,17.774222"
-    }
-  },
-  {
-    "id": 591248,
-    "datetime": "2025-06-25 7:40:41 +02:00",
-    "name": "25 juni 07.40, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/juni/25/25-juni-07.40-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 591236,
-    "datetime": "2025-06-25 7:31:22 +02:00",
-    "name": "25 juni 06.53, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/juni/25/25-juni-06.53-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 591246,
-    "datetime": "2025-06-25 7:31:05 +02:00",
-    "name": "25 juni 07.21, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/juni/25/25-juni-07.21-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
