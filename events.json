@@ -1,5 +1,113 @@
 [
   {
+    "id": 592679,
+    "datetime": "2025-07-09 8:33:08 +02:00",
+    "name": "09 juli 05.07, Brand, Sandviken",
+    "summary": "Misstänkt brand var rökutveckling.",
+    "url": "/aktuellt/handelser/2025/juli/9/09-juli-05.07-brand-sandviken/",
+    "type": "Brand",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 592675,
+    "datetime": "2025-07-09 8:30:36 +02:00",
+    "name": "09 juli 01.51, Rån, Sandviken",
+    "summary": "Samtal om pågående misshandel.",
+    "url": "/aktuellt/handelser/2025/juli/9/09-juli-01.51-ran-sandviken/",
+    "type": "Rån",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 592678,
+    "datetime": "2025-07-09 8:12:49 +02:00",
+    "name": "09 juli 08.10, Trafikolycka, personskada, Vara",
+    "summary": "Larm kommer in till polisen från SOS om en trafikolycka på riksväg 47.",
+    "url": "/aktuellt/handelser/2025/juli/9/09-juli-08.10-trafikolycka-personskada-vara/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Vara",
+      "gps": "58.261781,12.960194"
+    }
+  },
+  {
+    "id": 592672,
+    "datetime": "2025-07-09 8:11:32 +02:00",
+    "name": "08 juli 23.20, Skadegörelse, Skinnskatteberg",
+    "summary": "Man misstänkt för flera fall av skadegörelse.",
+    "url": "/aktuellt/handelser/2025/juli/8/08-juli-23.20-skadegorelse-skinnskatteberg/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Skinnskatteberg",
+      "gps": "59.826056,15.691519"
+    }
+  },
+  {
+    "id": 592676,
+    "datetime": "2025-07-09 7:59:06 +02:00",
+    "name": "09 juli 08.00, Sammanfattning kväll och natt, Östergötlands län",
+    "summary": "Nattsammanfattning.",
+    "url": "/aktuellt/handelser/2025/juli/9/09-juli-08.00-sammanfattning-kvall-och-natt-ostergotlands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 592674,
+    "datetime": "2025-07-09 7:57:48 +02:00",
+    "name": "09 juli 07.55, Sammanfattning kväll och natt, Jönköpings län",
+    "summary": "Nattsammanfattning.",
+    "url": "/aktuellt/handelser/2025/juli/9/09-juli-07.55-sammanfattning-kvall-och-natt-jonkopings-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 592673,
+    "datetime": "2025-07-09 7:55:41 +02:00",
+    "name": "09 juli 08.00, Sammanfattning kväll och natt, Södermanlands län",
+    "summary": "Nattsammanfattning.",
+    "url": "/aktuellt/handelser/2025/juli/9/09-juli-08.00-sammanfattning-kvall-och-natt-sodermanlands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 592671,
+    "datetime": "2025-07-09 7:53:02 +02:00",
+    "name": "09 juli 07.50, Trafikkontroll, Umeå",
+    "summary": "Centrala stan, resultat efter nykterhetskontroll vid länsväg 531",
+    "url": "/aktuellt/handelser/2025/juli/9/09-juli-07.50-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 592670,
+    "datetime": "2025-07-09 7:36:40 +02:00",
+    "name": "09 juli 02.44, Misshandel, Västerås",
+    "summary": "Man gripen för flera brott mot en kvinna.",
+    "url": "/aktuellt/handelser/2025/juli/9/09-juli-02.44-misshandel-vasteras/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 592669,
     "datetime": "2025-07-09 7:32:54 +02:00",
     "name": "09 juli 07.29, Sammanfattning natt, Jämtlands län",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 591868,
-    "datetime": "2025-07-01 7:09:00 +02:00",
-    "name": "01 juli 07.08, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av polisens arbete under natten.",
-    "url": "/aktuellt/handelser/2025/juli/1/01-juli-07.08-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 591867,
-    "datetime": "2025-07-01 7:08:38 +02:00",
-    "name": "01 juli 07.08, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av polisens arbete under natten.",
-    "url": "/aktuellt/handelser/2025/juli/1/01-juli-07.08-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 591866,
-    "datetime": "2025-07-01 7:08:08 +02:00",
-    "name": "01 juli 07.07, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av polisens arbete under natten.",
-    "url": "/aktuellt/handelser/2025/juli/1/01-juli-07.07-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 591861,
-    "datetime": "2025-07-01 7:02:13 +02:00",
-    "name": "01 juli 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2025/juli/1/01-juli-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 591860,
-    "datetime": "2025-07-01 7:02:03 +02:00",
-    "name": "01 juli 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/juli/1/01-juli-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 591864,
-    "datetime": "2025-07-01 6:47:27 +02:00",
-    "name": "30 juni 22.12, Skadegörelse, Helsingborg",
-    "summary": "Skadegörelse av busskur.",
-    "url": "/aktuellt/handelser/2025/juni/30/30-juni-22.12-skadegorelse-helsingborg/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 591863,
-    "datetime": "2025-07-01 6:33:49 +02:00",
-    "name": "01 juli 00.49, Misshandel, Sölvesborg",
-    "summary": "Ungdomsgäng på ca 10 st som har stökat runt i Hällevik i Sölvesborg.",
-    "url": "/aktuellt/handelser/2025/juli/1/01-juli-00.49-misshandel-solvesborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
-    }
-  },
-  {
-    "id": 591859,
-    "datetime": "2025-07-01 6:24:24 +02:00",
-    "name": "01 juli 04.25, Vapenlagen, Malmö",
-    "summary": "Ett par som blir hotade med ett vapen i sin lägenhet i Malmö.",
-    "url": "/aktuellt/handelser/2025/juli/1/01-juli-04.25-vapenlagen-malmo/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 591857,
-    "datetime": "2025-06-30 22:00:46 +02:00",
-    "name": "30 juni 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22.00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2025/juni/30/30-juni-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
