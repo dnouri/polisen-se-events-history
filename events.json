@@ -1,5 +1,53 @@
 [
   {
+    "id": 592993,
+    "datetime": "2025-07-12 10:31:08 +02:00",
+    "name": "12 juli 08.57, Stöld, Skellefteå",
+    "summary": "Skellefteå, mopedstöld på Anderstorp.",
+    "url": "/aktuellt/handelser/2025/juli/12/12-juli-08.57-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 592992,
+    "datetime": "2025-07-12 10:16:23 +02:00",
+    "name": "12 juli 09.50, Trafikolycka, Filipstad",
+    "summary": "Riksväg 26 är avstängd i båda riktningar mellan Påland och Svartnäs",
+    "url": "/aktuellt/handelser/2025/juli/12/12-juli-09.50-trafikolycka-filipstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 592991,
+    "datetime": "2025-07-12 10:05:28 +02:00",
+    "name": "12 juli 09.54, Rattfylleri, Stockholm",
+    "summary": "Fordonsförare i Enskede rapporteras för rattfylleri.",
+    "url": "/aktuellt/handelser/2025/juli/12/12-juli-09.54-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 592964,
+    "datetime": "2025-07-11 22:35:20 +02:00",
+    "name": "11 juli 22.10, Skottlossning, Huddinge",
+    "summary": "En man har skadats och träffats av flera skott i Vårby.",
+    "url": "/aktuellt/handelser/2025/juli/11/11-juli-22.10-skottlossning-huddinge/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Huddinge",
+      "gps": "59.23633,17.982156"
+    }
+  },
+  {
     "id": 592990,
     "datetime": "2025-07-12 9:05:00 +02:00",
     "name": "12 juli 09.04, Övrigt, Västra Götalands län",
@@ -225,18 +273,6 @@
     "location": {
       "name": "Bollnäs",
       "gps": "61.34838,16.394269"
-    }
-  },
-  {
-    "id": 592964,
-    "datetime": "2025-07-11 22:35:20 +02:00",
-    "name": "11 juli 22.10, Skottlossning, Huddinge",
-    "summary": "En man har skadats och träffats av flera skott i Vårby.",
-    "url": "/aktuellt/handelser/2025/juli/11/11-juli-22.10-skottlossning-huddinge/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrtälje",
       "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 592237,
-    "datetime": "2025-07-03 18:22:22 +02:00",
-    "name": "03 juli 17.33, Djur, Markaryd",
-    "summary": "Hund i bil, Markaryd.",
-    "url": "/aktuellt/handelser/2025/juli/3/03-juli-17.33-djur-markaryd/",
-    "type": "Djur",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 592240,
-    "datetime": "2025-07-03 18:20:03 +02:00",
-    "name": "03 juli 18.20, Övrigt, Hallands län",
-    "summary": "Efter klockan 18:20 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/juli/3/03-juli-18.20-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 592239,
-    "datetime": "2025-07-03 18:19:57 +02:00",
-    "name": "03 juli 18.29, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 18:20 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/juli/3/03-juli-18.29-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
