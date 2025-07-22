@@ -1,5 +1,29 @@
 [
   {
+    "id": 594808,
+    "datetime": "2025-07-22 11:19:32 +02:00",
+    "name": "22 juli 11.19, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-11.19-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 594822,
+    "datetime": "2025-07-22 13:13:26 +02:00",
+    "name": "22 juli 13.13, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-13.13-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 594820,
     "datetime": "2025-07-22 12:31:41 +02:00",
     "name": "22 juli 12.02, Övrigt, Halmstad",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 594821,
+    "datetime": "2025-07-22 12:46:23 +02:00",
+    "name": "22 juli 11.48, Trafikbrott, Tierp",
+    "summary": "Bilist fick ordningsbot.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-11.48-trafikbrott-tierp/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Tierp",
+      "gps": "60.347587,17.520509"
     }
   },
   {
@@ -117,18 +153,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 594808,
-    "datetime": "2025-07-22 11:19:32 +02:00",
-    "name": "22 juli 11.19, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-11.19-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -456,18 +480,6 @@
     }
   },
   {
-    "id": 594764,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 00.54, Misshandel, Haninge",
-    "summary": "Man greps misstänkt för misshandel av kvinna.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
     "id": 594760,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -477,6 +489,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 594764,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 00.54, Misshandel, Haninge",
+    "summary": "Man greps misstänkt för misshandel av kvinna.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Knivsta",
       "gps": "59.72612,17.792036"
-    }
-  },
-  {
-    "id": 594105,
-    "datetime": "2025-07-14 8:53:14 +02:00",
-    "name": "14 juli 06.45, Trafikolycka, Eskilstuna",
-    "summary": "06:45 larmas SOS om en trafikolycka på E20 i höjd med Marielund. Två personbilar ska ha kolliderat, varav en a",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-06.45-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 594104,
-    "datetime": "2025-07-14 8:13:45 +02:00",
-    "name": "14 juli 02.20, Skadegörelse, Ljusdal",
-    "summary": "Anlagd brand av busshållplats.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-02.20-skadegorelse-ljusdal/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Ljusdal",
-      "gps": "61.830839,16.08175"
     }
   }
 ]
