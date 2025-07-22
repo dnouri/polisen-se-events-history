@@ -1,5 +1,89 @@
 [
   {
+    "id": 594802,
+    "datetime": "2025-07-22 10:05:51 +02:00",
+    "name": "22 juli 09.39, Brand, Göteborg",
+    "summary": "Flera personer ringer in till SOS gällande en brand i ett flerfamiljshus på Kaptensgatan i Masthugget.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-09.39-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 594809,
+    "datetime": "2025-07-22 11:23:35 +02:00",
+    "name": "22 juli 10.30, Trafikkontroll, Skellefteå",
+    "summary": "Resultat efter en trafikkontroll på en 30-sträcka på Skråmträskvägen, Sunnanå.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-10.30-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 594808,
+    "datetime": "2025-07-22 11:19:32 +02:00",
+    "name": "22 juli 11.19, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-11.19-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 594807,
+    "datetime": "2025-07-22 11:05:22 +02:00",
+    "name": "22 juli 09.54, Djur, Sundbyberg",
+    "summary": "Två personer bitna av hund i Sundbyberg.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-09.54-djur-sundbyberg/",
+    "type": "Djur",
+    "location": {
+      "name": "Sundbyberg",
+      "gps": "59.367047,17.966309"
+    }
+  },
+  {
+    "id": 594799,
+    "datetime": "2025-07-22 9:29:39 +02:00",
+    "name": "22 juli 08.58, Trafikolycka, Örnsköldsvik",
+    "summary": "Larm om trafikolycka på Gullänget.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-08.58-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 594745,
+    "datetime": "2025-07-21 22:22:50 +02:00",
+    "name": "21 juli 22.12, Försvunnen person, Leksand",
+    "summary": "Polisen söker en försvunnen man.",
+    "url": "/aktuellt/handelser/2025/juli/21/21-juli-22.12-forsvunnen-person-leksand/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Leksand",
+      "gps": "60.730308,14.999892"
+    }
+  },
+  {
+    "id": 594805,
+    "datetime": "2025-07-22 10:41:54 +02:00",
+    "name": "22 juli 06.51, Våldtäkt, Rättvik",
+    "summary": "En man har gripits misstänkt för våldtäkt.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-06.51-valdtakt-rattvik/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
     "id": 594804,
     "datetime": "2025-07-22 10:16:50 +02:00",
     "name": "22 juli 09.52, Trafikolycka, Tanum",
@@ -24,18 +108,6 @@
     }
   },
   {
-    "id": 594802,
-    "datetime": "2025-07-22 10:05:51 +02:00",
-    "name": "22 juli 09.39, Brand, Göteborg",
-    "summary": "Flera personer ringer in till SOS gällande en brand i ett flerfamiljshus på Kaptensgatan i Masthugget.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-09.39-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
     "id": 594779,
     "datetime": "2025-07-22 8:06:09 +02:00",
     "name": "22 juli 07.30, Trafikolycka, Sotenäs",
@@ -57,18 +129,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 594799,
-    "datetime": "2025-07-22 9:29:39 +02:00",
-    "name": "22 juli 08.58, Trafikolycka, Örnsköldsvik",
-    "summary": "Larm om trafikolycka på Gullänget.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-08.58-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -312,18 +372,6 @@
     }
   },
   {
-    "id": 594764,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 00.54, Misshandel, Haninge",
-    "summary": "Man greps misstänkt för misshandel av kvinna.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
     "id": 594760,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -333,6 +381,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 594764,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 00.54, Misshandel, Haninge",
+    "summary": "Man greps misstänkt för misshandel av kvinna.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -413,18 +473,6 @@
     "name": "21 juli 20.47, Försvunnen person, Leksand",
     "summary": "Försvunnen person Leksand/Insjön. Polisen söker iakttagelser efter en bil som den försvunna sannolikt kör.",
     "url": "/aktuellt/handelser/2025/juli/21/21-juli-20.47-forsvunnen-person-leksand/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Leksand",
-      "gps": "60.730308,14.999892"
-    }
-  },
-  {
-    "id": 594745,
-    "datetime": "2025-07-21 22:22:50 +02:00",
-    "name": "21 juli 22.12, Försvunnen person, Leksand",
-    "summary": "Polisen söker en försvunnen man.",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-22.12-forsvunnen-person-leksand/",
     "type": "Försvunnen person",
     "location": {
       "name": "Leksand",
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 594096,
-    "datetime": "2025-07-14 7:44:25 +02:00",
-    "name": "13 juli 22.39, Narkotikabrott, Heby",
-    "summary": "Narkotikabrott upptäckt vid kontroll av lägenhet.",
-    "url": "/aktuellt/handelser/2025/juli/13/13-juli-22.39-narkotikabrott-heby/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
-    }
-  },
-  {
-    "id": 594095,
-    "datetime": "2025-07-14 7:39:50 +02:00",
-    "name": "14 juli 07.39, Sammanfattning kväll och natt, Dalarnas län",
-    "summary": "Inga större händelser under kväll och natt i länet.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-07.39-sammanfattning-kvall-och-natt-dalarnas-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 594094,
-    "datetime": "2025-07-14 7:37:55 +02:00",
-    "name": "14 juli 07.36, Sammanfattning kväll och natt, Örebro län",
-    "summary": "Nedan följer ett urval av kvällen och nattens händelser.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-07.36-sammanfattning-kvall-och-natt-orebro-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 594093,
-    "datetime": "2025-07-14 7:37:03 +02:00",
-    "name": "14 juli 01.12, Stöld/inbrott, Västerås",
-    "summary": "Inbrott i en husbil.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-01.12-stoldinbrott-vasteras/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   }
 ]
