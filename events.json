@@ -1,5 +1,41 @@
 [
   {
+    "id": 594828,
+    "datetime": "2025-07-22 14:51:41 +02:00",
+    "name": "22 juli 14.31, Brand, Trelleborg",
+    "summary": "Larm om brand i lägenhet, Per Hans väg.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-14.31-brand-trelleborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 594826,
+    "datetime": "2025-07-22 14:22:04 +02:00",
+    "name": "22 juli 13.57, Trafikolycka, Västervik",
+    "summary": "Larm om trafikolycka på Norra Bangatan.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-13.57-trafikolycka-vastervik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 594805,
+    "datetime": "2025-07-22 10:41:54 +02:00",
+    "name": "22 juli 06.51, Våldtäkt, Rättvik",
+    "summary": "En man har gripits misstänkt för våldtäkt.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-06.51-valdtakt-rattvik/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
     "id": 594808,
     "datetime": "2025-07-22 11:19:32 +02:00",
     "name": "22 juli 11.19, Trafikkontroll, Norrbottens län",
@@ -9,6 +45,18 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 594824,
+    "datetime": "2025-07-22 14:04:07 +02:00",
+    "name": "22 juli 13.38, Brand, Mölndal",
+    "summary": "SOS får in flera samtal gällande en brand i ett flerfamiljshus på Åbybergsgatan i Broslätt.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-13.38-brand-molndal/",
+    "type": "Brand",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
     }
   },
   {
@@ -189,18 +237,6 @@
     "location": {
       "name": "Leksand",
       "gps": "60.730308,14.999892"
-    }
-  },
-  {
-    "id": 594805,
-    "datetime": "2025-07-22 10:41:54 +02:00",
-    "name": "22 juli 06.51, Våldtäkt, Rättvik",
-    "summary": "En man har gripits misstänkt för våldtäkt.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-06.51-valdtakt-rattvik/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Rättvik",
-      "gps": "60.889025,15.123373"
     }
   },
   {
@@ -480,18 +516,6 @@
     }
   },
   {
-    "id": 594764,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 00.54, Misshandel, Haninge",
-    "summary": "Man greps misstänkt för misshandel av kvinna.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
     "id": 594760,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -501,6 +525,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 594764,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 00.54, Misshandel, Haninge",
+    "summary": "Man greps misstänkt för misshandel av kvinna.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 594123,
-    "datetime": "2025-07-14 10:49:37 +02:00",
-    "name": "14 juli 09.07, Trafikbrott, Örebro",
-    "summary": "Vårdslöshet i trafik.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-09.07-trafikbrott-orebro/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 594117,
-    "datetime": "2025-07-14 10:24:28 +02:00",
-    "name": "14 juli 09.24, Trafikolycka, Knivsta",
-    "summary": "Bilist bötfälld efter trafikolycka.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-09.24-trafikolycka-knivsta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Knivsta",
-      "gps": "59.72612,17.792036"
-    }
-  },
-  {
-    "id": 594107,
-    "datetime": "2025-07-14 9:41:57 +02:00",
-    "name": "14 juli 08.28, Stöld/inbrott, Knivsta",
-    "summary": "Inbrott på byggarbetsplats.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-08.28-stoldinbrott-knivsta/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Knivsta",
-      "gps": "59.72612,17.792036"
     }
   }
 ]
