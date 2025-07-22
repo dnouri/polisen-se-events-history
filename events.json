@@ -1,17 +1,5 @@
 [
   {
-    "id": 594841,
-    "datetime": "2025-07-22 19:43:38 +02:00",
-    "name": "22 juli 18.31, Misshandel, Göteborg",
-    "summary": "Vi får larm om att två personer bråkar på vid en park i Brämaregården.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-18.31-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
     "id": 594842,
     "datetime": "2025-07-22 19:29:34 +02:00",
     "name": "22 juli 19.21, Trafikolycka, singel, Mariestad",
@@ -33,6 +21,42 @@
     "location": {
       "name": "Strömstad",
       "gps": "58.938346,11.179187"
+    }
+  },
+  {
+    "id": 594844,
+    "datetime": "2025-07-22 20:27:47 +02:00",
+    "name": "22 juli 19.25, Rån, Kalmar",
+    "summary": "Man gripen misstänkt för rån, Skeppsbrogatan.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-19.25-ran-kalmar/",
+    "type": "Rån",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 594843,
+    "datetime": "2025-07-22 20:24:33 +02:00",
+    "name": "22 juli 18.08, Bråk, Stockholm",
+    "summary": "Polis kallas till restaurang på Södermalm med anledning av att en kund vägrat betala nota.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-18.08-brak-stockholm/",
+    "type": "Bråk",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 594841,
+    "datetime": "2025-07-22 19:43:38 +02:00",
+    "name": "22 juli 18.31, Misshandel, Göteborg",
+    "summary": "Vi får larm om att två personer bråkar på vid en park i Brämaregården.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-18.31-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -600,18 +624,6 @@
     }
   },
   {
-    "id": 594760,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 594764,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 00.54, Misshandel, Haninge",
@@ -621,6 +633,18 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 594760,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Ekerö",
       "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 594132,
-    "datetime": "2025-07-14 12:31:41 +02:00",
-    "name": "14 juli 11.22, Stöld/inbrott, Gävle",
-    "summary": "Inbrott i ett garage på Brynäs.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-11.22-stoldinbrott-gavle/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 594118,
-    "datetime": "2025-07-14 10:26:02 +02:00",
-    "name": "14 juli 10.21, Brand, Höganäs",
-    "summary": "Det brinner i en friggebod i Höganäs.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-10.21-brand-hoganas/",
-    "type": "Brand",
-    "location": {
-      "name": "Höganäs",
-      "gps": "56.200639,12.555329"
     }
   }
 ]
