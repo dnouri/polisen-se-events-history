@@ -1,5 +1,101 @@
 [
   {
+    "id": 594820,
+    "datetime": "2025-07-22 12:31:41 +02:00",
+    "name": "22 juli 12.02, Övrigt, Halmstad",
+    "summary": "Larm inkommer till SOS gällande en hög smäll på Andersberg.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-12.02-ovrigt-halmstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 594804,
+    "datetime": "2025-07-22 10:16:50 +02:00",
+    "name": "22 juli 09.52, Trafikolycka, Tanum",
+    "summary": "Larm inkommer till SOS gällande en trafikolycka på E6 i Tanum.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-09.52-trafikolycka-tanum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 594818,
+    "datetime": "2025-07-22 12:06:21 +02:00",
+    "name": "22 juli 10.47, Trafikkontroll, Kumla",
+    "summary": "Under tisdagsförmiddagen genomfördes en trafikkontroll på riksväg 51 i Ekeby.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-10.47-trafikkontroll-kumla/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 594817,
+    "datetime": "2025-07-22 12:05:13 +02:00",
+    "name": "22 juli 11.02, Stöld, Enköping",
+    "summary": "Stöld ur bil.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-11.02-stold-enkoping/",
+    "type": "Stöld",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 594816,
+    "datetime": "2025-07-22 12:04:14 +02:00",
+    "name": "22 juli 08.41, Trafikbrott, Sunne",
+    "summary": "En kvinna misstänks för trafikbrott efter en olycka under tisdagsmorgonen.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-08.41-trafikbrott-sunne/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
+    "id": 594815,
+    "datetime": "2025-07-22 11:55:18 +02:00",
+    "name": "22 juli 10.25, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka, Lerbäcken.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-10.25-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 594814,
+    "datetime": "2025-07-22 11:43:58 +02:00",
+    "name": "22 juli 10.25, Trafikhinder, Mjölby",
+    "summary": "Många larm om cyklist på E4",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-10.25-trafikhinder-mjolby/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Mjölby",
+      "gps": "58.322691,15.133535"
+    }
+  },
+  {
+    "id": 594813,
+    "datetime": "2025-07-22 11:42:53 +02:00",
+    "name": "22 juli 08.46, Trafikolycka, Norrköping",
+    "summary": "Personbil och cykel i olycka i Norrköping",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-082.46-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
     "id": 594802,
     "datetime": "2025-07-22 10:05:51 +02:00",
     "name": "22 juli 09.39, Brand, Göteborg",
@@ -81,18 +177,6 @@
     "location": {
       "name": "Rättvik",
       "gps": "60.889025,15.123373"
-    }
-  },
-  {
-    "id": 594804,
-    "datetime": "2025-07-22 10:16:50 +02:00",
-    "name": "22 juli 09.52, Trafikolycka, Tanum",
-    "summary": "Larm inkommer till SOS gällande en trafikolycka på E6 i Tanum.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-09.52-trafikolycka-tanum/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Tanum",
-      "gps": "58.732727,11.457819"
     }
   },
   {
@@ -372,18 +456,6 @@
     }
   },
   {
-    "id": 594760,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 594764,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 00.54, Misshandel, Haninge",
@@ -393,6 +465,18 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 594760,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Ljusdal",
       "gps": "61.830839,16.08175"
-    }
-  },
-  {
-    "id": 594103,
-    "datetime": "2025-07-14 8:11:50 +02:00",
-    "name": "14 juli 05.54, Brand, Piteå",
-    "summary": "Brand i bil och husvagn på E4.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-05.54-brand-pitea/",
-    "type": "Brand",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 594102,
-    "datetime": "2025-07-14 8:08:31 +02:00",
-    "name": "14 juli 08.07, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-08.07-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 594101,
-    "datetime": "2025-07-14 8:05:56 +02:00",
-    "name": "14 juli 02.55, Skadegörelse, Ystad",
-    "summary": "Skadegörelse av bilar.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-02.55-skadegorelse-ystad/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 594100,
-    "datetime": "2025-07-14 8:02:47 +02:00",
-    "name": "14 juli 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser i Södermanlands län",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 594099,
-    "datetime": "2025-07-14 8:00:00 +02:00",
-    "name": "14 juli 07.58, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser i Jönköpings län",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-07.58-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 594098,
-    "datetime": "2025-07-14 7:58:28 +02:00",
-    "name": "14 juli 07.57, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser i Östergötlands län",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-07.57-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 594097,
-    "datetime": "2025-07-14 7:44:28 +02:00",
-    "name": "14 juli 07.44, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2025/juli/14/14-juli-07.44-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
