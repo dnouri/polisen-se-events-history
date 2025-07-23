@@ -1,5 +1,65 @@
 [
   {
+    "id": 594916,
+    "datetime": "2025-07-23 14:56:25 +02:00",
+    "name": "23 juli 14.56, Rattfylleri, Arvidsjaur",
+    "summary": "Misstänkt rattfylleri i Abborrträsk",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-14.56-rattfylleri-arvidsjaur/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Arvidsjaur",
+      "gps": "65.592077,19.180283"
+    }
+  },
+  {
+    "id": 594915,
+    "datetime": "2025-07-23 14:53:04 +02:00",
+    "name": "23 juli 09.49, Brand, Kalix",
+    "summary": "Brand i stuga utanför Töre, Kalix.",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-09.49-brand-kalix/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 594663,
+    "datetime": "2025-07-20 17:34:02 +02:00",
+    "name": "20 juli 17.30, Rån, försök, Hallsberg",
+    "summary": "Polisen utreder ett grovt våldsbrott i Hallsberg.",
+    "url": "/aktuellt/handelser/2025/juli/20/20-juli-17.30-ran-forsok-hallsberg/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
+    }
+  },
+  {
+    "id": 594914,
+    "datetime": "2025-07-23 14:38:22 +02:00",
+    "name": "23 juli 13.17, Misshandel, Gävle",
+    "summary": "Ett bråk mellan en man och kvinna på Söder slutade med att mannen greps och kvinnan fördes till sjukhus för ko",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-13.17-misshandel-gavle/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 594912,
+    "datetime": "2025-07-23 14:22:36 +02:00",
+    "name": "23 juli 13.12, Bråk, Kiruna",
+    "summary": "En man gripen efter bråk i Kiruna.",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-13.12-brak-kiruna/",
+    "type": "Bråk",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
     "id": 594906,
     "datetime": "2025-07-23 12:37:03 +02:00",
     "name": "23 juli 12.33, Trafikolycka, Mora",
@@ -9,6 +69,18 @@
     "location": {
       "name": "Mora",
       "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 591267,
+    "datetime": "2025-06-25 11:12:14 +02:00",
+    "name": "25 juni 10.24, Rån, Skellefteå",
+    "summary": "Burträsk, misstänkt rån mot en butik",
+    "url": "/aktuellt/handelser/2025/juni/25/25-juni-10.24-ran-skelleftea/",
+    "type": "Rån",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -1248,18 +1320,6 @@
     }
   },
   {
-    "id": 594764,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 00.54, Misshandel, Haninge",
-    "summary": "Man greps misstänkt för misshandel av kvinna.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
     "id": 594760,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -1269,6 +1329,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 594764,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 00.54, Misshandel, Haninge",
+    "summary": "Man greps misstänkt för misshandel av kvinna.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -1689,18 +1761,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 594663,
-    "datetime": "2025-07-20 17:34:02 +02:00",
-    "name": "20 juli 17.30, Misshandel, grov, Hallsberg",
-    "summary": "Polisen utreder ett grovt våldsbrott i Hallsberg.",
-    "url": "/aktuellt/handelser/2025/juli/20/20-juli-17.30-misshandel-grov-hallsberg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Hallsberg",
-      "gps": "59.066532,15.10229"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Borås",
       "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 594205,
-    "datetime": "2025-07-15 8:15:11 +02:00",
-    "name": "15 juli 02.31, Misshandel, Stockholm",
-    "summary": "Vid ett bråk utomhus i centrala Stockholm har en person fått skär- alternativt stickskador och två misstänkta ",
-    "url": "/aktuellt/handelser/2025/juli/15/15-juli-02.31-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 594203,
-    "datetime": "2025-07-15 8:08:31 +02:00",
-    "name": "15 juli 08.07, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av natten i Jönköping",
-    "url": "/aktuellt/handelser/2025/juli/15/15-juli-08.07-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 594202,
-    "datetime": "2025-07-15 8:07:43 +02:00",
-    "name": "15 juli 07.56, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av natten i Östergötland",
-    "url": "/aktuellt/handelser/2025/juli/15/15-juli-072.56-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 594201,
-    "datetime": "2025-07-15 8:00:20 +02:00",
-    "name": "15 juli 07.56, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av natten i Östergötland",
-    "url": "/aktuellt/handelser/2025/juli/15/15-juli-07.56-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 594200,
-    "datetime": "2025-07-15 7:55:10 +02:00",
-    "name": "15 juli 01.31, Rattfylleri, Gotlands län",
-    "summary": "En bilförare som stoppas på Färjeleden i Visby misstänks för rattfylleri och tas med för provtagning.",
-    "url": "/aktuellt/handelser/2025/juli/15/15-juli-01.31-rattfylleri-gotlands-lan/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Gotlands län",
-      "gps": "57.468412,18.486745"
     }
   }
 ]
