@@ -1,14 +1,38 @@
 [
   {
-    "id": 594893,
-    "datetime": "2025-07-23 10:12:40 +02:00",
-    "name": "23 juli 09.04, Misshandel, Malmö",
-    "summary": "Man i 35-årsåldern grips misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2025/juli/23/23-juli-09.04-misshandel-malmo/",
-    "type": "Misshandel",
+    "id": 594900,
+    "datetime": "2025-07-23 11:28:57 +02:00",
+    "name": "23 juli 08.40, Arbetsplatsolycka, Heby",
+    "summary": "En anställd på ett lantbruk skar sig i armen vid arbete med en foderblandare i Östervåla.",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-08.40-arbetsplatsolycka-heby/",
+    "type": "Arbetsplatsolycka",
     "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
+      "name": "Heby",
+      "gps": "59.939637,16.858759"
+    }
+  },
+  {
+    "id": 594899,
+    "datetime": "2025-07-23 11:14:38 +02:00",
+    "name": "23 juli 10.56, Trafikolycka, Oskarshamn",
+    "summary": "En trafikolycka med två personbilar sker på E22 i höjd med flygfältet.",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-10.56-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 594897,
+    "datetime": "2025-07-23 11:05:42 +02:00",
+    "name": "23 juli 10.38, Brand, Landskrona",
+    "summary": "Larm om brand i centrala Landskrona.",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-10.38-brand-landskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
     }
   },
   {
@@ -24,18 +48,6 @@
     }
   },
   {
-    "id": 594745,
-    "datetime": "2025-07-21 22:22:50 +02:00",
-    "name": "21 juli 22.12, Försvunnen person, Leksand",
-    "summary": "Polisen söker en försvunnen man.",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-22.12-forsvunnen-person-leksand/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Leksand",
-      "gps": "60.730308,14.999892"
-    }
-  },
-  {
     "id": 594892,
     "datetime": "2025-07-23 9:53:11 +02:00",
     "name": "23 juli 09.53, Försvunnen person, Örnsköldsvik",
@@ -45,6 +57,30 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 594893,
+    "datetime": "2025-07-23 10:12:40 +02:00",
+    "name": "23 juli 09.04, Misshandel, Malmö",
+    "summary": "Man i 35-årsåldern grips misstänkt för misshandel.",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-09.04-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 594745,
+    "datetime": "2025-07-21 22:22:50 +02:00",
+    "name": "21 juli 22.12, Försvunnen person, Leksand",
+    "summary": "Polisen söker en försvunnen man.",
+    "url": "/aktuellt/handelser/2025/juli/21/21-juli-22.12-forsvunnen-person-leksand/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Leksand",
+      "gps": "60.730308,14.999892"
     }
   },
   {
@@ -1128,18 +1164,6 @@
     }
   },
   {
-    "id": 594760,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 594764,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 00.54, Misshandel, Haninge",
@@ -1149,6 +1173,18 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 594760,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 594186,
-    "datetime": "2025-07-15 7:25:43 +02:00",
-    "name": "15 juli 05.33, Trafikbrott, Köping",
-    "summary": "Stoppad bil kördes av 16-åring.",
-    "url": "/aktuellt/handelser/2025/juli/15/15-juli-05.33-trafikbrott-koping/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 594188,
-    "datetime": "2025-07-15 7:25:38 +02:00",
-    "name": "15 juli 04.02, Motorfordon, anträffat stulet, Hudiksvall",
-    "summary": "Stulen husbil anträffad.",
-    "url": "/aktuellt/handelser/2025/juli/15/15-juli-04.02-motorfordon-antraffat-stulet-hudiksvall/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 594193,
-    "datetime": "2025-07-15 7:25:33 +02:00",
-    "name": "15 juli 01.38, Narkotikabrott, Gävle",
-    "summary": "Polispatrull sprang efter förare på elsparkcykel.",
-    "url": "/aktuellt/handelser/2025/juli/15/15-juli-01.38-narkotikabrott-gavle/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
