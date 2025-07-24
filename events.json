@@ -1,5 +1,65 @@
 [
   {
+    "id": 594962,
+    "datetime": "2025-07-24 9:25:55 +02:00",
+    "name": "23 juli 16.05, Trafikolycka, personskada, Hudiksvall",
+    "summary": "En man på elscooter körde ut i vägbanan vid Sågverksvägen i Åvik och kolliderade med en personbil.",
+    "url": "/aktuellt/handelser/2025/juli/23/23-juli-16.05-trafikolycka-personskada-hudiksvall/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
+    "id": 594960,
+    "datetime": "2025-07-24 9:22:58 +02:00",
+    "name": "24 juli 08.10, Misshandel, grov, Norrköping",
+    "summary": "Man gripen efter misstänkt misshandel.",
+    "url": "/aktuellt/handelser/2025/juli/24/24-juli-08.10-misshandel-grov-norrkoping/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 594956,
+    "datetime": "2025-07-24 8:03:58 +02:00",
+    "name": "24 juli 03.15, Försvunnen person, Oskarshamn",
+    "summary": "Försvunnen kvinna hittad.",
+    "url": "/aktuellt/handelser/2025/juli/24/24-juli-03.15-forsvunnen-person-oskarshamn/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 594953,
+    "datetime": "2025-07-24 7:42:01 +02:00",
+    "name": "24 juli 07.41, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2025/juli/24/24-juli-07.41-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 587571,
+    "datetime": "2025-06-01 11:05:10 +02:00",
+    "name": "01 juni 04.44, Räddningsinsats, Luleå",
+    "summary": "Luleå skärgård, larm inkommer om att en bogserbåt håller på att sjunka",
+    "url": "/aktuellt/handelser/2025/juni/1/01-juni-04.44-raddningsinsats-lulea/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
     "id": 594959,
     "datetime": "2025-07-24 8:34:22 +02:00",
     "name": "23 juli 23.17, Brand, Sigtuna",
@@ -36,18 +96,6 @@
     }
   },
   {
-    "id": 594956,
-    "datetime": "2025-07-24 8:03:58 +02:00",
-    "name": "24 juli 03.15, Försvunnen person, Oskarshamn",
-    "summary": "Polisen söker efter en kvinna i 75-årsåldern som anmälts försvunnen.",
-    "url": "/aktuellt/handelser/2025/juli/24/24-juli-03.15-forsvunnen-person-oskarshamn/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
-    }
-  },
-  {
     "id": 594955,
     "datetime": "2025-07-24 7:48:23 +02:00",
     "name": "23 juli 23.31, Inbrott, Håbo",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 594953,
-    "datetime": "2025-07-24 7:42:01 +02:00",
-    "name": "24 juli 07.41, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
-    "url": "/aktuellt/handelser/2025/juli/24/24-juli-07.41-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -1800,18 +1836,6 @@
     }
   },
   {
-    "id": 594764,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 00.54, Misshandel, Haninge",
-    "summary": "Man greps misstänkt för misshandel av kvinna.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
     "id": 594760,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -1821,6 +1845,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 594764,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 00.54, Misshandel, Haninge",
+    "summary": "Man greps misstänkt för misshandel av kvinna.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Ockelbo",
       "gps": "60.891784,16.720187"
-    }
-  },
-  {
-    "id": 594277,
-    "datetime": "2025-07-16 7:12:44 +02:00",
-    "name": "16 juli 07.10, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-07.10-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 594276,
-    "datetime": "2025-07-16 7:12:08 +02:00",
-    "name": "16 juli 07.05, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-07.05-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 594275,
-    "datetime": "2025-07-16 7:08:29 +02:00",
-    "name": "16 juli 00.46, Trafikolycka, Söderhamn",
-    "summary": "Trafikolycka i Söderhamn.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-00.46-trafikolycka-soderhamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Söderhamn",
-      "gps": "61.305576,17.06281"
     }
   }
 ]
