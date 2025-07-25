@@ -1,5 +1,41 @@
 [
   {
+    "id": 595054,
+    "datetime": "2025-07-25 12:35:11 +02:00",
+    "name": "25 juli 11.54, Trafikolycka, Ängelholm",
+    "summary": "Fyra personbilar kolliderar på Kungsgårdsleden.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-11.54-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 595051,
+    "datetime": "2025-07-25 10:10:20 +02:00",
+    "name": "25 juli 09.35, Fjällräddning, Malung-Sälen",
+    "summary": "Beslut om att inleda fjällräddning på Transtrandsfjällen i Lindvallen.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-09.35-fjallraddning-malung-salen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 595053,
+    "datetime": "2025-07-25 11:50:05 +02:00",
+    "name": "25 juli 11.41, Trafikolycka, singel, Örebro",
+    "summary": "En singelolycka har inträffat på E18/E20 strax norr om Lillkyrka.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-11.41-trafikolycka-singel-orebro/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 595049,
     "datetime": "2025-07-25 9:53:14 +02:00",
     "name": "25 juli 08.26, Trafikolycka, Piteå",
@@ -33,18 +69,6 @@
     "location": {
       "name": "Hässleholm",
       "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 595051,
-    "datetime": "2025-07-25 10:10:20 +02:00",
-    "name": "25 juli 09.35, Fjällräddning, Malung-Sälen",
-    "summary": "Beslut om att inleda fjällräddning på Transtrandsfjällen i Lindvallen.",
-    "url": "/aktuellt/handelser/2025/juli/25/25-juli-09.35-fjallraddning-malung-salen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Malung-Sälen",
-      "gps": "60.900926,13.322618"
     }
   },
   {
@@ -2664,18 +2688,6 @@
     }
   },
   {
-    "id": 594760,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 594764,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 00.54, Misshandel, Haninge",
@@ -2685,6 +2697,18 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 594760,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 594389,
-    "datetime": "2025-07-17 7:48:56 +02:00",
-    "name": "17 juli 07.39, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/juli/17/17-juli-07.39-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 594388,
-    "datetime": "2025-07-17 7:47:38 +02:00",
-    "name": "17 juli 05.10, Trafikbrott, Uppsala",
-    "summary": "Bilist fick körkort omhändertaget.",
-    "url": "/aktuellt/handelser/2025/juli/17/17-juli-05.10-trafikbrott-uppsala/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
