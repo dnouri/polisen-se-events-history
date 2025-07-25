@@ -1,5 +1,101 @@
 [
   {
+    "id": 595026,
+    "datetime": "2025-07-25 7:29:37 +02:00",
+    "name": "25 juli 05.48, Sexualbrott, Sigtuna",
+    "summary": "Anmälan om sexuellt ofredande.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-05.48-sexualbrott-sigtuna/",
+    "type": "Sexualbrott",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 595025,
+    "datetime": "2025-07-25 7:23:14 +02:00",
+    "name": "25 juli 04.39, Brand, Nacka",
+    "summary": "Brand på balkong.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-04.39-brand-nacka/",
+    "type": "Brand",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 595024,
+    "datetime": "2025-07-25 7:19:53 +02:00",
+    "name": "24 juli 19.45, Rattfylleri, Tierp",
+    "summary": "En kvinna körde av vid Nynäsvägen/Valnäsvägen i Skärplinge och fördes till sjukhus för kontroll.",
+    "url": "/aktuellt/handelser/2025/juli/24/24-juli-19.45-rattfylleri-tierp/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Tierp",
+      "gps": "60.347587,17.520509"
+    }
+  },
+  {
+    "id": 595023,
+    "datetime": "2025-07-25 7:19:02 +02:00",
+    "name": "25 juli 01.02, Stöld/inbrott, Sollentuna",
+    "summary": "Larm om inbrott.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-01.02-stoldinbrott-sollentuna/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 595022,
+    "datetime": "2025-07-25 7:06:55 +02:00",
+    "name": "24 juli 22.17, Misshandel, grov, Södertälje",
+    "summary": "Man misshandlad.",
+    "url": "/aktuellt/handelser/2025/juli/24/24-juli-22.17-misshandel-grov-sodertalje/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 595020,
+    "datetime": "2025-07-25 7:00:16 +02:00",
+    "name": "25 juli 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 595021,
+    "datetime": "2025-07-25 7:00:11 +02:00",
+    "name": "25 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 595019,
+    "datetime": "2025-07-25 6:58:47 +02:00",
+    "name": "25 juli 06.58, Mord/dråp, försök, Sollefteå",
+    "summary": "Misstänkt mordförsök i Sollefteå.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-06.58-morddrap-forsok-solleftea/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
     "id": 595018,
     "datetime": "2025-07-25 6:45:52 +02:00",
     "name": "25 juli 02.47, Misshandel, Lund",
@@ -2304,18 +2400,6 @@
     }
   },
   {
-    "id": 594764,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 00.54, Misshandel, Haninge",
-    "summary": "Man greps misstänkt för misshandel av kvinna.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
     "id": 594760,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -2325,6 +2409,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 594764,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 00.54, Misshandel, Haninge",
+    "summary": "Man greps misstänkt för misshandel av kvinna.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Lilla edet",
       "gps": "58.132158,12.124134"
-    }
-  },
-  {
-    "id": 594361,
-    "datetime": "2025-07-16 19:18:35 +02:00",
-    "name": "16 juli 18.50, Sexualbrott, Stockholm",
-    "summary": "Samtal om man i Skärholmen som visade könet.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-18.50-sexualbrott-stockholm/",
-    "type": "Sexualbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 594360,
-    "datetime": "2025-07-16 19:14:20 +02:00",
-    "name": "16 juli 19.06, Trafikolycka, Stockholm",
-    "summary": "Trafikolycka på E4 i höjd med Nybohov, södergående.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-19.06-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 594357,
-    "datetime": "2025-07-16 18:19:59 +02:00",
-    "name": "16 juli 18.13, Trafikolycka, Ystad",
-    "summary": "Larm om personbil i singelolycka på E65.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-18.13-trafikolycka-ystad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 594358,
-    "datetime": "2025-07-16 18:31:34 +02:00",
-    "name": "16 juli 18.16, Brand, Växjö",
-    "summary": "Larm om brand i förråd i flerfamiljshus.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-18.16-brand-vaxjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 594359,
-    "datetime": "2025-07-16 18:43:47 +02:00",
-    "name": "16 juli 17.55, Rattfylleri, Norrtälje",
-    "summary": "Samtal om bil som framfördes mycket vingligt.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-17.55-rattfylleri-norrtalje/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 594353,
-    "datetime": "2025-07-16 17:33:30 +02:00",
-    "name": "16 juli 17.22, Arbetsplatsolycka, Karlskrona",
-    "summary": "Man fallit i samband med arbete.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-17.22-arbetsplatsolycka-karlskrona/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 594356,
-    "datetime": "2025-07-16 17:51:15 +02:00",
-    "name": "16 juli 17.09, Trafikbrott, Botkyrka",
-    "summary": "Fordonsförare rapporteras för olovlig körning.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-17.09-trafikbrott-botkyrka/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 594354,
-    "datetime": "2025-07-16 17:44:18 +02:00",
-    "name": "16 juli 17.29, Trafikolycka, Solna",
-    "summary": "Trafikolycka vid trafikplats Järva krog, avfart Bergshamraleden.",
-    "url": "/aktuellt/handelser/2025/juli/16/16-juli-17.29-trafikolycka-solna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
     }
   }
 ]
