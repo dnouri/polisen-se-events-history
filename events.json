@@ -1,5 +1,77 @@
 [
   {
+    "id": 595019,
+    "datetime": "2025-07-25 6:58:47 +02:00",
+    "name": "25 juli 06.58, Mord/dråp, försök, Sollefteå",
+    "summary": "Misstänkt mordförsök i Sollefteå.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-06.58-morddrap-forsok-solleftea/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 595052,
+    "datetime": "2025-07-25 10:24:32 +02:00",
+    "name": "25 juli 10.22, Brand, Hässleholm",
+    "summary": "Ett lastbilsflak brinner på riksväg 24 väster om Röke.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-10.22-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 595051,
+    "datetime": "2025-07-25 10:10:20 +02:00",
+    "name": "25 juli 09.35, Fjällräddning, Malung-Sälen",
+    "summary": "Beslut om att inleda fjällräddning på Transtrandsfjällen i Lindvallen.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-09.35-fjallraddning-malung-salen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Malung-Sälen",
+      "gps": "60.900926,13.322618"
+    }
+  },
+  {
+    "id": 595050,
+    "datetime": "2025-07-25 9:58:07 +02:00",
+    "name": "25 juli 07.23, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på länsväg 642 Täfteå, Umeå.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-07.23-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 595049,
+    "datetime": "2025-07-25 9:53:14 +02:00",
+    "name": "25 juli 08.26, Trafikolycka, Piteå",
+    "summary": "Trafikolycka på E4 Höglandsnäs, Hortlax, Piteå.",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-08.26-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 595048,
+    "datetime": "2025-07-25 9:52:09 +02:00",
+    "name": "25 juli 09.23, Brand, Hässleholm",
+    "summary": "Larm om brinnande fordon, RV24 Röke",
+    "url": "/aktuellt/handelser/2025/juli/25/25-juli-09.23-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
     "id": 595047,
     "datetime": "2025-07-25 9:14:16 +02:00",
     "name": "25 juli 09.14, Sammanfattning natt, Västernorrlands län",
@@ -285,18 +357,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 595019,
-    "datetime": "2025-07-25 6:58:47 +02:00",
-    "name": "25 juli 06.58, Mord/dråp, försök, Sollefteå",
-    "summary": "Misstänkt mordförsök i Sollefteå.",
-    "url": "/aktuellt/handelser/2025/juli/25/25-juli-06.58-morddrap-forsok-solleftea/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
     }
   },
   {
@@ -2604,18 +2664,6 @@
     }
   },
   {
-    "id": 594760,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 594764,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 00.54, Misshandel, Haninge",
@@ -2625,6 +2673,18 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 594760,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 594386,
-    "datetime": "2025-07-17 7:39:48 +02:00",
-    "name": "17 juli 07.30, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/juli/17/17-juli-07.30-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 594385,
-    "datetime": "2025-07-17 7:32:22 +02:00",
-    "name": "17 juli 00.46, Rattfylleri, Upplands väsby",
-    "summary": "En bilförare som stoppas i Väsbyskogen misstänks för rattfylleri och tas med för provtagning.",
-    "url": "/aktuellt/handelser/2025/juli/17/17-juli-00.46-rattfylleri-upplands-vasby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Upplands väsby",
-      "gps": "59.51961,17.92834"
-    }
-  },
-  {
-    "id": 594384,
-    "datetime": "2025-07-17 7:29:58 +02:00",
-    "name": "17 juli 07.29, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/juli/17/17-juli-07.29-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 594382,
-    "datetime": "2025-07-17 7:29:29 +02:00",
-    "name": "17 juli 07.28, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/juli/17/17-juli-07.28-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 594383,
-    "datetime": "2025-07-17 7:29:07 +02:00",
-    "name": "17 juli 07.28, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/juli/17/17-juli-07.28-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
