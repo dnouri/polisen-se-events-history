@@ -1,5 +1,41 @@
 [
   {
+    "id": 595225,
+    "datetime": "2025-07-28 8:32:20 +02:00",
+    "name": "28 juli 06.34, Brand, Halmstad",
+    "summary": "Larm inkommer till SOS gällande att det brinner vid hamnen på Livbojsstigen.",
+    "url": "/aktuellt/handelser/2025/juli/28/28-juli-06.34-brand-halmstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 595205,
+    "datetime": "2025-07-28 6:15:46 +02:00",
+    "name": "28 juli 02.02, Trafikbrott, Malmö",
+    "summary": "Förföljande på personbil.",
+    "url": "/aktuellt/handelser/2025/juli/28/28-juli-02.02-trafikbrott-malmo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 595224,
+    "datetime": "2025-07-28 7:56:44 +02:00",
+    "name": "27 juli 20.11, Trafikbrott, Hallstahammar",
+    "summary": "Bil stoppades.",
+    "url": "/aktuellt/handelser/2025/juli/27/27-juli-20.11-trafikbrott-hallstahammar/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Hallstahammar",
+      "gps": "59.613204,16.229476"
+    }
+  },
+  {
     "id": 595217,
     "datetime": "2025-07-28 7:28:15 +02:00",
     "name": "28 juli 07.27, Sammanfattning natt, Östergötlands län",
@@ -213,18 +249,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 595205,
-    "datetime": "2025-07-28 6:15:46 +02:00",
-    "name": "28 juli 02.02, Trafikbrott, Malmö",
-    "summary": "Förföljande på personbil.",
-    "url": "/aktuellt/handelser/2025/juli/28/28-juli-02.02-trafikbrott-malmo/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -4404,18 +4428,6 @@
     }
   },
   {
-    "id": 594760,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 594764,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 00.54, Misshandel, Haninge",
@@ -4425,6 +4437,18 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 594760,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 594585,
-    "datetime": "2025-07-19 13:56:50 +02:00",
-    "name": "19 juli 13.21, Vapenlagen, Uppsala",
-    "summary": "Misstänkt vapen var ett knallpulvergevär.",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-13.21-vapenlagen-uppsala/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 594584,
-    "datetime": "2025-07-19 13:56:26 +02:00",
-    "name": "19 juli 12.08, Stöld, Örebro län",
-    "summary": "Stöld, Örebro",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-12.08-stold-orebro-lan/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
