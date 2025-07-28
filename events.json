@@ -1,5 +1,101 @@
 [
   {
+    "id": 595214,
+    "datetime": "2025-07-28 6:51:54 +02:00",
+    "name": "27 juli 22.48, Narkotikabrott, Landskrona",
+    "summary": "Man misstänkt för narkotikabrott, Borgmästargatan.",
+    "url": "/aktuellt/handelser/2025/juli/27/27-juli-22.48-narkotikabrott-landskrona/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 595211,
+    "datetime": "2025-07-28 6:49:08 +02:00",
+    "name": "28 juli 03.05, Brand, Hässleholm",
+    "summary": "Larm om brand i personbil, Ehrenborgs plan.",
+    "url": "/aktuellt/handelser/2025/juli/28/28-juli-03.05-brand-hassleholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 595210,
+    "datetime": "2025-07-28 6:47:53 +02:00",
+    "name": "28 juli 06.47, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "url": "/aktuellt/handelser/2025/juli/28/28-juli-06.47-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 595209,
+    "datetime": "2025-07-28 6:45:37 +02:00",
+    "name": "28 juli 00.31, Misshandel, Malmö",
+    "summary": "Kvinna anmälde misshandel, Kirseberg.",
+    "url": "/aktuellt/handelser/2025/juli/28/28-juli-00.31-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 595208,
+    "datetime": "2025-07-28 6:36:14 +02:00",
+    "name": "27 juli 22.56, Rån, Kalmar",
+    "summary": "Pojke utsatt för rån på Kungsgårdsvägen.",
+    "url": "/aktuellt/handelser/2025/juli/27/27-juli-22.56-ran-kalmar/",
+    "type": "Rån",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 595207,
+    "datetime": "2025-07-28 6:30:17 +02:00",
+    "name": "27 juli 22.46, Rån, Ronneby",
+    "summary": "Man rånad på Esplanaden.",
+    "url": "/aktuellt/handelser/2025/juli/27/27-juli-22.46-ran-ronneby/",
+    "type": "Rån",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 595206,
+    "datetime": "2025-07-28 6:21:02 +02:00",
+    "name": "28 juli 04.34, Trafikolycka, Karlskrona",
+    "summary": "Larm om singelolycka med personbil, E22.",
+    "url": "/aktuellt/handelser/2025/juli/28/28-juli-04.34-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 595205,
+    "datetime": "2025-07-28 6:15:46 +02:00",
+    "name": "28 juli 02.02, Trafikbrott, Malmö",
+    "summary": "Förföljande på personbil.",
+    "url": "/aktuellt/handelser/2025/juli/28/28-juli-02.02-trafikbrott-malmo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 595204,
     "datetime": "2025-07-28 4:19:07 +02:00",
     "name": "28 juli 04.15, Skottlossning, misstänkt, Gävle",
@@ -4176,18 +4272,6 @@
     }
   },
   {
-    "id": 594764,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 00.54, Misshandel, Haninge",
-    "summary": "Man greps misstänkt för misshandel av kvinna.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
     "id": 594760,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -4197,6 +4281,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 594764,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 00.54, Misshandel, Haninge",
+    "summary": "Man greps misstänkt för misshandel av kvinna.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-00.54-misshandel-haninge/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 594570,
-    "datetime": "2025-07-19 10:52:56 +02:00",
-    "name": "19 juli 10.51, Vållande till kroppsskada, Dalarnas län",
-    "summary": "Vållande till kroppsskada, igår 23:39 Malung",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-10.51-vallande-till-kroppsskada-dalarnas-lan/",
-    "type": "Vållande till kroppsskada",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 594569,
-    "datetime": "2025-07-19 10:35:35 +02:00",
-    "name": "19 juli 09.16, Trafikolycka, Kungsbacka",
-    "summary": "Polisen får uppgifter om att en cyklist och en bilist kolliderar i Hålabäck.",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-09.16-trafikolycka-kungsbacka/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 594568,
-    "datetime": "2025-07-19 9:42:16 +02:00",
-    "name": "19 juli 07.15, Trafikkontroll, Solna",
-    "summary": "Under morgonen har två polispatruller från lokalpolisområde Solna haft en trafikkontroll där flera brott uppda",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-07.15-trafikkontroll-solna/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 594567,
-    "datetime": "2025-07-19 8:23:45 +02:00",
-    "name": "19 juli 06.30, Trafikolycka, personskada, Hudiksvall",
-    "summary": "Man på motorcykel körde av E4.",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-06.30-trafikolycka-personskada-hudiksvall/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
-    "id": 594566,
-    "datetime": "2025-07-19 8:06:45 +02:00",
-    "name": "19 juli 08.06, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-08.06-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 594565,
-    "datetime": "2025-07-19 7:56:22 +02:00",
-    "name": "19 juli 05.03, Rattfylleri, Danderyd",
-    "summary": "När en polispatrull stoppade en bil för kontroll av föraren på Edsbergsvägen uppstod misstanke om drograttfyll",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-05.03-rattfylleri-danderyd/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Danderyd",
-      "gps": "59.407905,18.019075"
-    }
-  },
-  {
-    "id": 594564,
-    "datetime": "2025-07-19 7:55:31 +02:00",
-    "name": "19 juli 05.51, Trafikolycka, personskada, Värmlands län",
-    "summary": "Motorcykel olycka Värmland",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-05.51-trafikolycka-personskada-varmlands-lan/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 594563,
-    "datetime": "2025-07-19 7:50:19 +02:00",
-    "name": "19 juli 00.35, Trafikbrott, Uppsala",
-    "summary": "Förare misstänkt för vårdslöshet i trafik.",
-    "url": "/aktuellt/handelser/2025/juli/19/19-juli-00.35-trafikbrott-uppsala/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
