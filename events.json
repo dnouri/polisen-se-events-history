@@ -1,5 +1,89 @@
 [
   {
+    "id": 595372,
+    "datetime": "2025-07-29 19:28:08 +02:00",
+    "name": "29 juli 18.57, Brand, Falköping",
+    "summary": "Larm inkommer till SOS om att en bil brinner inne i en lokal, troligen ett garage, på Klostervägen.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-18.57-brand-falkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Falköping",
+      "gps": "58.175029,13.553217"
+    }
+  },
+  {
+    "id": 595361,
+    "datetime": "2025-07-29 16:06:59 +02:00",
+    "name": "29 juli 16.00, Trafikolycka, Oskarshamn",
+    "summary": "Två personbilar kolliderar på E22 söder om Oskarshamn",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-16.00-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Oskarshamn",
+      "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 595331,
+    "datetime": "2025-07-29 9:28:45 +02:00",
+    "name": "29 juli 08.54, Trafikolycka, Eskilstuna",
+    "summary": "En avliden efter kollision.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-08.54-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 595364,
+    "datetime": "2025-07-29 16:56:00 +02:00",
+    "name": "29 juli 15.43, Trafikolycka, Herrljunga",
+    "summary": "Larm inkommer till SOS gällande en trafikolycka på länsväg 1811/1848 strax norr om Almelund.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-15.43-trafikolycka-herrljunga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Herrljunga",
+      "gps": "58.078029,13.018839"
+    }
+  },
+  {
+    "id": 595371,
+    "datetime": "2025-07-29 18:54:19 +02:00",
+    "name": "29 juli 17.08, Bedrägeri, Botkyrka",
+    "summary": "Äldre kvinna utsatt för bedrägeriförsök.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-17.08-bedrageri-botkyrka/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
+    "id": 595370,
+    "datetime": "2025-07-29 18:42:45 +02:00",
+    "name": "29 juli 18.14, Misshandel, Lund",
+    "summary": "Ett bråk sker mellan två personer vid Bantorget.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-18.14-misshandel-lund/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 595367,
+    "datetime": "2025-07-29 17:14:48 +02:00",
+    "name": "29 juli 16.39, Trafikolycka, Hudiksvall",
+    "summary": "Bil kört in i mitträcket på E4 norr om Hudiksvall.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-16.39-trafikolycka-hudiksvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
     "id": 595365,
     "datetime": "2025-07-29 17:06:23 +02:00",
     "name": "29 juli 16.32, Trafikolycka, Håbo",
@@ -60,18 +144,6 @@
     }
   },
   {
-    "id": 595367,
-    "datetime": "2025-07-29 17:14:48 +02:00",
-    "name": "29 juli 16.39, Trafikolycka, Hudiksvall",
-    "summary": "Bil kört in i mitträcket på E4 norr om Hudiksvall.",
-    "url": "/aktuellt/handelser/2025/juli/29/29-juli-16.39-trafikolycka-hudiksvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hudiksvall",
-      "gps": "61.727391,17.107401"
-    }
-  },
-  {
     "id": 595366,
     "datetime": "2025-07-29 17:10:27 +02:00",
     "name": "29 juli 15.15, Trafikbrott, Stockholm",
@@ -81,42 +153,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 595364,
-    "datetime": "2025-07-29 16:56:00 +02:00",
-    "name": "29 juli 15.43, Trafikolycka, Herrljunga",
-    "summary": "Larm inkommer till SOS gällande en trafikolycka på länsväg 1811/1848 strax norr om Almelund.",
-    "url": "/aktuellt/handelser/2025/juli/29/29-juli-15.43-trafikolycka-herrljunga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Herrljunga",
-      "gps": "58.078029,13.018839"
-    }
-  },
-  {
-    "id": 595331,
-    "datetime": "2025-07-29 9:28:45 +02:00",
-    "name": "29 juli 08.54, Trafikolycka, Eskilstuna",
-    "summary": "Två svårt skadade efter kollision.",
-    "url": "/aktuellt/handelser/2025/juli/29/29-juli-08.54-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 595361,
-    "datetime": "2025-07-29 16:06:59 +02:00",
-    "name": "29 juli 16.00, Trafikolycka, Oskarshamn",
-    "summary": "Två personbilar kolliderar på E22 söder om Oskarshamn",
-    "url": "/aktuellt/handelser/2025/juli/29/29-juli-16.00-trafikolycka-oskarshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Oskarshamn",
-      "gps": "57.265699,16.447398"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Knivsta",
       "gps": "59.72612,17.792036"
-    }
-  },
-  {
-    "id": 594720,
-    "datetime": "2025-07-21 13:35:53 +02:00",
-    "name": "21 juli 12.32, Stöld, Örebro",
-    "summary": "Kvinna gripen misstänkt för stöld.",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-12.32-stold-orebro/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 594718,
-    "datetime": "2025-07-21 13:20:28 +02:00",
-    "name": "21 juli 07.58, Olovlig körning, Östersund",
-    "summary": "Misstänkt grov olovlig körning i centrala Östersund.",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-07.58-olovlig-korning-ostersund/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 594674,
-    "datetime": "2025-07-21 3:14:03 +02:00",
-    "name": "21 juli 01.39, Explosion, Malmö",
-    "summary": "Detonation på Limhamn",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-01.39-explosion-malmo/",
-    "type": "Explosion",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
