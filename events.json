@@ -1,5 +1,53 @@
 [
   {
+    "id": 595365,
+    "datetime": "2025-07-29 17:06:23 +02:00",
+    "name": "29 juli 16.32, Trafikolycka, Håbo",
+    "summary": "Trafikolycka på E18 mellan Ekolsund och Bålsta.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-16.32-trafikolycka-habo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
+    "id": 595369,
+    "datetime": "2025-07-29 17:57:26 +02:00",
+    "name": "29 juli 16.49, Trafikolycka, Tanum",
+    "summary": "SOS får in samtal om en mopedolycka på länsväg 900/Länsvägen i Hamburgsund.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-16.49-trafikolycka-tanum/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 595359,
+    "datetime": "2025-07-29 16:04:13 +02:00",
+    "name": "29 juli 15.05, Trafikolycka, Malmö",
+    "summary": "En personbil och en motorcykel kolliderar på inre ringvägen.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-15.05-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 595368,
+    "datetime": "2025-07-29 17:39:49 +02:00",
+    "name": "29 juli 17.21, Trafikolycka, Kalmar",
+    "summary": "En trafikolycka mellan två personbilar inträffar på Ölandsbron.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-17.21-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
     "id": 595358,
     "datetime": "2025-07-29 15:59:03 +02:00",
     "name": "29 juli 15.11, Arbetsplatsolycka, Trollhättan",
@@ -36,18 +84,6 @@
     }
   },
   {
-    "id": 595365,
-    "datetime": "2025-07-29 17:06:23 +02:00",
-    "name": "29 juli 16.32, Trafikolycka, Håbo",
-    "summary": "Trafikolycka på E18 mellan Ekolsund och Bålsta.",
-    "url": "/aktuellt/handelser/2025/juli/29/29-juli-16.32-trafikolycka-habo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Håbo",
-      "gps": "59.627071,17.452298"
-    }
-  },
-  {
     "id": 595364,
     "datetime": "2025-07-29 16:56:00 +02:00",
     "name": "29 juli 15.43, Trafikolycka, Herrljunga",
@@ -81,18 +117,6 @@
     "location": {
       "name": "Oskarshamn",
       "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 595359,
-    "datetime": "2025-07-29 16:04:13 +02:00",
-    "name": "29 juli 15.05, Trafikolycka, Malmö",
-    "summary": "En personbil och en motorcykel kolliderar på inre ringvägen.",
-    "url": "/aktuellt/handelser/2025/juli/29/29-juli-15.05-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5700,18 +5724,6 @@
     }
   },
   {
-    "id": 594760,
-    "datetime": "2025-07-22 7:00:13 +02:00",
-    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 594764,
     "datetime": "2025-07-22 7:00:13 +02:00",
     "name": "22 juli 00.54, Misshandel, Haninge",
@@ -5721,6 +5733,18 @@
     "location": {
       "name": "Haninge",
       "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 594760,
+    "datetime": "2025-07-22 7:00:13 +02:00",
+    "name": "22 juli 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2025/juli/22/22-juli-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 594686,
-    "datetime": "2025-07-21 7:33:39 +02:00",
-    "name": "21 juli 03.00, Brand, Gotland",
-    "summary": "Föremål kastades in i lägenhet.",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-03.00-brand-gotland/",
-    "type": "Brand",
-    "location": {
-      "name": "Gotland",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 594717,
-    "datetime": "2025-07-21 13:06:04 +02:00",
-    "name": "21 juli 12.53, Arbetsplatsolycka, Södertälje",
-    "summary": "Sopbilsförare har skadat sig i huvudet under arbete.",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-12.53-arbetsplatsolycka-sodertalje/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
