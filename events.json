@@ -1,14 +1,26 @@
 [
   {
-    "id": 595330,
-    "datetime": "2025-07-29 9:20:01 +02:00",
-    "name": "29 juli 08.55, Trafikolycka, Eskilstuna",
-    "summary": "En till sjukhus efter olycka i Skjulsta.",
-    "url": "/aktuellt/handelser/2025/juli/29/29-juli-08.55-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
+    "id": 595335,
+    "datetime": "2025-07-29 11:08:56 +02:00",
+    "name": "29 juli 10.52, Brand, Kalmar",
+    "summary": "Larm om brand i flerfamiljshus",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-10.52-brand-kalmar/",
+    "type": "Brand",
     "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 595336,
+    "datetime": "2025-07-29 10:56:50 +02:00",
+    "name": "29 juli 10.56, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-10.56-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -17,6 +29,18 @@
     "name": "29 juli 08.54, Trafikolycka, Eskilstuna",
     "summary": "Två svårt skadade efter kollision.",
     "url": "/aktuellt/handelser/2025/juli/29/29-juli-08.54-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 595330,
+    "datetime": "2025-07-29 9:20:01 +02:00",
+    "name": "29 juli 08.55, Trafikolycka, Eskilstuna",
+    "summary": "En till sjukhus efter olycka i Skjulsta.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-08.55-trafikolycka-eskilstuna/",
     "type": "Trafikolycka",
     "location": {
       "name": "Eskilstuna",
@@ -903,7 +927,7 @@
     "id": 595241,
     "datetime": "2025-07-28 10:48:27 +02:00",
     "name": "28 juli 10.48, Trafikkontroll, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "summary": "Resultat av polisens arbete i trafiken.",
     "url": "/aktuellt/handelser/2025/juli/28/28-juli-10.48-trafikkontroll-vasternorrlands-lan/",
     "type": "Trafikkontroll",
     "location": {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallstahammar",
       "gps": "59.613204,16.229476"
-    }
-  },
-  {
-    "id": 594690,
-    "datetime": "2025-07-21 7:48:34 +02:00",
-    "name": "21 juli 01.41, Trafikolycka, Surahammar",
-    "summary": "Trafikolycka på väg 66.",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-01.41-trafikolycka-surahammar/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Surahammar",
-      "gps": "59.707226,16.226841"
-    }
-  },
-  {
-    "id": 594689,
-    "datetime": "2025-07-21 7:40:34 +02:00",
-    "name": "20 juli 14.56, Trafikolycka, Heby",
-    "summary": "Trafikolycka på väg 56.",
-    "url": "/aktuellt/handelser/2025/juli/20/20-juli-14.56-trafikolycka-heby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
     }
   }
 ]
