@@ -1,5 +1,17 @@
 [
   {
+    "id": 595341,
+    "datetime": "2025-07-29 12:29:43 +02:00",
+    "name": "29 juli 11.24, Trafikolycka, Gävle",
+    "summary": "Buss och personbil i krock.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-11.24-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 595335,
     "datetime": "2025-07-29 11:08:56 +02:00",
     "name": "29 juli 10.52, Brand, Kalmar",
@@ -12,18 +24,6 @@
     }
   },
   {
-    "id": 595336,
-    "datetime": "2025-07-29 10:56:50 +02:00",
-    "name": "29 juli 10.56, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/juli/29/29-juli-10.56-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
     "id": 595331,
     "datetime": "2025-07-29 9:28:45 +02:00",
     "name": "29 juli 08.54, Trafikolycka, Eskilstuna",
@@ -33,6 +33,30 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 595339,
+    "datetime": "2025-07-29 11:41:10 +02:00",
+    "name": "29 juli 11.39, Trafikolycka, Norrköping",
+    "summary": "Cyklist påkörd i Norrköping.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-11.39-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 595336,
+    "datetime": "2025-07-29 10:56:50 +02:00",
+    "name": "29 juli 10.56, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/juli/29/29-juli-10.56-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 594692,
-    "datetime": "2025-07-21 7:53:07 +02:00",
-    "name": "21 juli 07.52, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av natten i Östergötland",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-07.52-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 594691,
-    "datetime": "2025-07-21 7:51:47 +02:00",
-    "name": "21 juli 03.01, Brand, Hallstahammar",
-    "summary": "Brand i industribyggnad.",
-    "url": "/aktuellt/handelser/2025/juli/21/21-juli-03.01-brand-hallstahammar/",
-    "type": "Brand",
-    "location": {
-      "name": "Hallstahammar",
-      "gps": "59.613204,16.229476"
     }
   }
 ]
