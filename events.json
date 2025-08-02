@@ -1,14 +1,74 @@
 [
   {
-    "id": 595675,
-    "datetime": "2025-08-02 12:40:16 +02:00",
-    "name": "02 augusti 12.32, Trafikolycka, Karlskrona",
-    "summary": "En personbil och en moped kolliderar på Gullbernavägen.",
-    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-12.32-trafikolycka-karlskrona/",
+    "id": 595680,
+    "datetime": "2025-08-02 13:20:11 +02:00",
+    "name": "02 augusti 11.03, Rattfylleri, Härjedalen",
+    "summary": "Misstänkt rattfylleri i Hede.",
+    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-11.03-rattfylleri-harjedalen/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 595679,
+    "datetime": "2025-08-02 13:17:15 +02:00",
+    "name": "02 augusti 13.13, Rattfylleri, Hallsberg",
+    "summary": "Misstänkt påverkad bilist stoppad i Pålsboda.",
+    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-13.13-rattfylleri-hallsberg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
+    }
+  },
+  {
+    "id": 595677,
+    "datetime": "2025-08-02 13:06:12 +02:00",
+    "name": "02 augusti 12.48, Försvunnen person, Örebro",
+    "summary": "En pojke i sexårsåldern saknas i Baronbacken.",
+    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-12.48-forsvunnen-person-orebro/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 595678,
+    "datetime": "2025-08-02 13:09:46 +02:00",
+    "name": "02 augusti 12.47, Trafikhinder, Tanum",
+    "summary": "En bilist har fått stopp på bilen på E6 söder om Rabbalshede i södergående riktning.",
+    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-12.47-trafikhinder-tanum/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Tanum",
+      "gps": "58.732727,11.457819"
+    }
+  },
+  {
+    "id": 595673,
+    "datetime": "2025-08-02 12:20:30 +02:00",
+    "name": "02 augusti 12.07, Trafikolycka, Smedjebacken",
+    "summary": "Trafikolycka på Rv 66 i Smedjebacken kommun.",
+    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-12.07-trafikolycka-smedjebacken/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
+    "id": 595676,
+    "datetime": "2025-08-02 13:02:04 +02:00",
+    "name": "02 augusti 09.14, Narkotikabrott, Örnsköldsvik",
+    "summary": "Man misstänks för ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-09.14-narkotikabrott-ornskoldsvik/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -24,6 +84,18 @@
     }
   },
   {
+    "id": 595675,
+    "datetime": "2025-08-02 12:40:16 +02:00",
+    "name": "02 augusti 12.32, Trafikolycka, Karlskrona",
+    "summary": "En personbil och en moped kolliderar på Gullbernavägen.",
+    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-12.32-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
     "id": 595668,
     "datetime": "2025-08-02 11:04:20 +02:00",
     "name": "02 augusti 10.57, Trafikolycka, Älmhult",
@@ -33,18 +105,6 @@
     "location": {
       "name": "Älmhult",
       "gps": "56.552446,14.137405"
-    }
-  },
-  {
-    "id": 595673,
-    "datetime": "2025-08-02 12:20:30 +02:00",
-    "name": "02 augusti 12.07, Trafikolycka, Smedjebacken",
-    "summary": "Trafikolycka på Rv 66 i Smedjebacken kommun.",
-    "url": "/aktuellt/handelser/2025/augusti/2/02-augusti-12.07-trafikolycka-smedjebacken/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Smedjebacken",
-      "gps": "60.143193,15.415992"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 595061,
-    "datetime": "2025-07-25 14:43:03 +02:00",
-    "name": "25 juli 13.32, Trafikolycka, Södertälje",
-    "summary": "Fyra bilar i krock.",
-    "url": "/aktuellt/handelser/2025/juli/25/25-juli-13.32-trafikolycka-sodertalje/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 595059,
-    "datetime": "2025-07-25 14:04:06 +02:00",
-    "name": "25 juli 13.53, Trafikolycka, Vellinge",
-    "summary": "Larm om trafikolycka, Östra Grevie",
-    "url": "/aktuellt/handelser/2025/juli/25/25-juli-13.53-trafikolycka-vellinge/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vellinge",
-      "gps": "55.470893,13.01999"
-    }
-  },
-  {
-    "id": 595060,
-    "datetime": "2025-07-25 14:11:45 +02:00",
-    "name": "25 juli 11.58, Trafikolycka, personskada, Heby",
-    "summary": "En personbil körde in i en husbil bakifrån, på riksväg 72 i korsningen med länsväg 621 i Vittinge.",
-    "url": "/aktuellt/handelser/2025/juli/25/25-juli-11.58-trafikolycka-personskada-heby/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Heby",
-      "gps": "59.939637,16.858759"
-    }
-  },
-  {
-    "id": 594418,
-    "datetime": "2025-07-17 14:16:32 +02:00",
-    "name": "17 juli 14.14, Försvunnen person, Hammarö",
-    "summary": "Den kille som försvann under vecka 29 har nu kommit till rätta.",
-    "url": "/aktuellt/handelser/2025/juli/17/17-juli-14.14-forsvunnen-person-hammaro/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Hammarö",
-      "gps": "59.311466,13.529854"
-    }
-  },
-  {
-    "id": 595054,
-    "datetime": "2025-07-25 12:35:11 +02:00",
-    "name": "25 juli 11.54, Trafikolycka, Ängelholm",
-    "summary": "Fyra personbilar kolliderar på Kungsgårdsleden.",
-    "url": "/aktuellt/handelser/2025/juli/25/25-juli-11.54-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
     }
   }
 ]
