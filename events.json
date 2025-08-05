@@ -1,5 +1,41 @@
 [
   {
+    "id": 595914,
+    "datetime": "2025-08-05 12:33:45 +02:00",
+    "name": "05 augusti 11.07, Brand, Laxå",
+    "summary": "Det har brunnit på en tillverkningsindustri i Hasselfors.",
+    "url": "/aktuellt/handelser/2025/augusti/5/05-augusti-11.07-brand-laxa/",
+    "type": "Brand",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
+    "id": 595913,
+    "datetime": "2025-08-05 12:33:32 +02:00",
+    "name": "05 augusti 10.56, Arbetsplatsolycka, Surahammar",
+    "summary": "Anmälan om vållande till kroppsskada.",
+    "url": "/aktuellt/handelser/2025/augusti/5/05-augusti-10.56-arbetsplatsolycka-surahammar/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Surahammar",
+      "gps": "59.707226,16.226841"
+    }
+  },
+  {
+    "id": 595912,
+    "datetime": "2025-08-05 12:28:40 +02:00",
+    "name": "05 augusti 10.51, Brand, Avesta",
+    "summary": "Det har brunnit i en förrådsliknande byggnad i Avesta.",
+    "url": "/aktuellt/handelser/2025/augusti/5/05-augusti-10.51-brand-avesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
     "id": 595906,
     "datetime": "2025-08-05 10:45:57 +02:00",
     "name": "05 augusti 07.51, Stöld, Luleå",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 595911,
+    "datetime": "2025-08-05 12:22:30 +02:00",
+    "name": "05 augusti 12.22, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/augusti/5/05-augusti-12.22-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 595910,
+    "datetime": "2025-08-05 12:18:16 +02:00",
+    "name": "05 augusti 11.34, Trafikolycka, Nordmaling",
+    "summary": "Larm om trafikolycka på E4, Håknäs.",
+    "url": "/aktuellt/handelser/2025/augusti/5/05-augusti-11.34-trafikolycka-nordmaling/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 595279,
-    "datetime": "2025-07-28 15:54:52 +02:00",
-    "name": "28 juli 15.36, Trafikolycka, Mariestad",
-    "summary": "Flera fordon involverade i en olycka på E20 vid Lugnås.",
-    "url": "/aktuellt/handelser/2025/juli/28/28-juli-15.36-trafikolycka-mariestad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mariestad",
-      "gps": "58.710112,13.821333"
-    }
-  },
-  {
-    "id": 595281,
-    "datetime": "2025-07-28 17:00:39 +02:00",
-    "name": "28 juli 10.41, Misshandel, Ovanåker",
-    "summary": "Man misshandlade kvinna i Edsbyn.",
-    "url": "/aktuellt/handelser/2025/juli/28/28-juli-10.41-misshandel-ovanaker/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Ovanåker",
-      "gps": "61.446923,15.738922"
-    }
-  },
-  {
-    "id": 595278,
-    "datetime": "2025-07-28 15:51:34 +02:00",
-    "name": "28 juli 14.54, Trafikolycka, Göteborg",
-    "summary": "En personbil och en elspark är involverade i en olycka vid Fabriksgatan.",
-    "url": "/aktuellt/handelser/2025/juli/28/28-juli-14.54-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 595240,
-    "datetime": "2025-07-28 10:21:49 +02:00",
-    "name": "28 juli 08.08, Misshandel, Ljusnarsberg",
-    "summary": "Polisen har gripit två män som misstänks för att ha misshandlat en annan man i dennes lägenhet i Kopparbergs k",
-    "url": "/aktuellt/handelser/2025/juli/28/28-juli-08.08-misshandel-ljusnarsberg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Ljusnarsberg",
-      "gps": "59.877447,14.998849"
-    }
-  },
-  {
-    "id": 595275,
-    "datetime": "2025-07-28 14:57:18 +02:00",
-    "name": "28 juli 14.32, Djur, Stockholm",
-    "summary": "Hund i parkerad bil i solen på Djurgården.",
-    "url": "/aktuellt/handelser/2025/juli/28/28-juli-14.32-djur-stockholm/",
-    "type": "Djur",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
