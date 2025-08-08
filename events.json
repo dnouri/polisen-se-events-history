@@ -1,5 +1,65 @@
 [
   {
+    "id": 596164,
+    "datetime": "2025-08-08 10:34:03 +02:00",
+    "name": "08 augusti 10.05, Trafikolycka, Härnösand",
+    "summary": "Trafikolycka på E4 Tjärnsjö, Kittjärn, Härnösand.",
+    "url": "/aktuellt/handelser/2025/augusti/8/08-augusti-10.05-trafikolycka-harnosand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 596163,
+    "datetime": "2025-08-08 10:24:51 +02:00",
+    "name": "08 augusti 10.24, Trafikkontroll, Norrbottens län",
+    "summary": "Ett urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/augusti/8/08-augusti-10.24-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 596120,
+    "datetime": "2025-08-07 18:00:46 +02:00",
+    "name": "07 augusti 17.39, Skottlossning, Upplands väsby",
+    "summary": "En skottskadad man är anträffad utomhus. Han förd till sjukhus i ambulans.",
+    "url": "/aktuellt/handelser/2025/augusti/7/07-augusti-17.39-skottlossning-upplands-vasby/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
+    "id": 596162,
+    "datetime": "2025-08-08 10:06:10 +02:00",
+    "name": "08 augusti 09.10, Fylleri/LOB, Stockholm",
+    "summary": "En berusad man beter sig hotfullt mot personal på en bensinstation i Farsta.",
+    "url": "/aktuellt/handelser/2025/augusti/8/08-augusti-09.10-fyllerilob-stockholm/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 596161,
+    "datetime": "2025-08-08 9:57:01 +02:00",
+    "name": "08 augusti 09.16, Skadegörelse, Malmö",
+    "summary": "En buss utsätts för skadegörelse.",
+    "url": "/aktuellt/handelser/2025/augusti/8/08-augusti-09.16-skadegorelse-malmo/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 596158,
     "datetime": "2025-08-08 9:30:56 +02:00",
     "name": "08 augusti 07.58, Stöld, Örebro",
@@ -333,18 +393,6 @@
     "location": {
       "name": "Nyköping",
       "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 596120,
-    "datetime": "2025-08-07 18:00:46 +02:00",
-    "name": "07 augusti 17.39, Skottlossning, Upplands väsby",
-    "summary": "En skottskadad man är anträffad utomhus. Han förd till sjukhus i ambulans.",
-    "url": "/aktuellt/handelser/2025/augusti/7/07-augusti-17.39-skottlossning-upplands-vasby/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Upplands väsby",
-      "gps": "59.51961,17.92834"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Markaryd",
       "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 595518,
-    "datetime": "2025-08-01 6:35:27 +02:00",
-    "name": "01 augusti 06.24, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser",
-    "url": "/aktuellt/handelser/2025/augusti/1/01-augusti-06.24-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 595517,
-    "datetime": "2025-08-01 6:24:30 +02:00",
-    "name": "01 augusti 06.10, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/1/01-augusti-06.10-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 595511,
-    "datetime": "2025-07-31 21:58:58 +02:00",
-    "name": "31 juli 21.58, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2025/juli/31/31-juli-21.58-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 595512,
-    "datetime": "2025-07-31 21:58:49 +02:00",
-    "name": "31 juli 21.58, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2025/juli/31/31-juli-21.58-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
