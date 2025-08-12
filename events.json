@@ -1,5 +1,41 @@
 [
   {
+    "id": 596477,
+    "datetime": "2025-08-12 12:45:50 +02:00",
+    "name": "12 augusti 10.33, Larm Överfall, Uppsala",
+    "summary": "Busschaufför larmade om stökig person.",
+    "url": "/aktuellt/handelser/2025/augusti/12/12-augusti-10.33-larm-overfall-uppsala/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 596476,
+    "datetime": "2025-08-12 12:45:40 +02:00",
+    "name": "12 augusti 11.40, Rån, Lund",
+    "summary": "Personrån",
+    "url": "/aktuellt/handelser/2025/augusti/12/12-augusti-11.40-ran-lund/",
+    "type": "Rån",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 596475,
+    "datetime": "2025-08-12 12:45:25 +02:00",
+    "name": "12 augusti 10.42, Våldtäkt, Stockholm",
+    "summary": "Polisen har gripit en man som har våldtagit en kvinna i Blackeberg.",
+    "url": "/aktuellt/handelser/2025/augusti/12/12-augusti-10.42-valdtakt-stockholm/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 596473,
     "datetime": "2025-08-12 11:58:12 +02:00",
     "name": "12 augusti 10.04, Trafikolycka, personskada, Heby",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 595792,
-    "datetime": "2025-08-04 7:52:43 +02:00",
-    "name": "04 augusti 07.51, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/4/04-augusti-07.51-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 595783,
-    "datetime": "2025-08-04 7:45:06 +02:00",
-    "name": "04 augusti 07.45, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2025/augusti/4/04-augusti-07.45-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 595790,
-    "datetime": "2025-08-04 7:44:24 +02:00",
-    "name": "04 augusti 07.44, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2025/augusti/4/04-augusti-07.44-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
