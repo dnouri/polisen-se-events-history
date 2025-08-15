@@ -1,5 +1,113 @@
 [
   {
+    "id": 596725,
+    "datetime": "2025-08-15 7:31:41 +02:00",
+    "name": "15 augusti 05.04, Skadegörelse, Håbo",
+    "summary": "Skadegörelse på skola.",
+    "url": "/aktuellt/handelser/2025/augusti/15/15-augusti-05.04-skadegorelse-habo/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
+    "id": 596724,
+    "datetime": "2025-08-15 7:16:42 +02:00",
+    "name": "15 augusti 07.06, Trafikolycka, Helsingborg",
+    "summary": "Bilist kört på cyklist i rondell i Helsingborg.",
+    "url": "/aktuellt/handelser/2025/augusti/15/15-augusti-07.06-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 596722,
+    "datetime": "2025-08-15 7:14:18 +02:00",
+    "name": "15 augusti 07.14, Sammanfattning natt, Dalarnas län",
+    "summary": "Natt till fredag polisområde Dalarna",
+    "url": "/aktuellt/handelser/2025/augusti/15/15-augusti-07.14-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 596723,
+    "datetime": "2025-08-15 7:12:58 +02:00",
+    "name": "15 augusti 06.58, Trafikolycka, Hässleholm",
+    "summary": "Personbil kört in i mitträcke på RV 21, Hässleholm",
+    "url": "/aktuellt/handelser/2025/augusti/15/15-augusti-06.58-trafikolycka-hassleholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 596708,
+    "datetime": "2025-08-14 22:02:17 +02:00",
+    "name": "14 augusti 19.51, Häleri, Orust",
+    "summary": "En man ringer in och uppger att han stängt in två personer som hanterar en stulen fyrhjuling i Tegneby.",
+    "url": "/aktuellt/handelser/2025/augusti/14/14-augusti-19.51-haleri-orust/",
+    "type": "Häleri",
+    "location": {
+      "name": "Orust",
+      "gps": "58.180267,11.675984"
+    }
+  },
+  {
+    "id": 596718,
+    "datetime": "2025-08-15 7:04:58 +02:00",
+    "name": "15 augusti 07.04, Sammanfattning natt, Örebro län",
+    "summary": "Natt till fredag polisområde Örebro",
+    "url": "/aktuellt/handelser/2025/augusti/15/15-augusti-07.04-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 596721,
+    "datetime": "2025-08-15 7:04:35 +02:00",
+    "name": "15 augusti 07.04, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till fredag polisområde Värmland",
+    "url": "/aktuellt/handelser/2025/augusti/15/15-augusti-07.04-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 596719,
+    "datetime": "2025-08-15 7:00:56 +02:00",
+    "name": "15 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/augusti/15/15-augusti-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 596720,
+    "datetime": "2025-08-15 7:00:29 +02:00",
+    "name": "15 augusti 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Här följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/augusti/15/15-augusti-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
     "id": 596717,
     "datetime": "2025-08-15 6:18:59 +02:00",
     "name": "15 augusti 00.34, Rattfylleri, Landskrona",
@@ -81,18 +189,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 596708,
-    "datetime": "2025-08-14 22:02:17 +02:00",
-    "name": "14 augusti 19.51, Häleri, Orust",
-    "summary": "En man ringer in och uppger att han stängt in två personer som hanterar en stulen fyrhjuling i Tegneby.",
-    "url": "/aktuellt/handelser/2025/augusti/14/14-augusti-19.51-haleri-orust/",
-    "type": "Häleri",
-    "location": {
-      "name": "Orust",
-      "gps": "58.180267,11.675984"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Höör",
       "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 596025,
-    "datetime": "2025-08-06 18:21:24 +02:00",
-    "name": "06 augusti 18.10, Trafikolycka, Växjö",
-    "summary": "Buss och MC i kollision, Hovshagarondellen.",
-    "url": "/aktuellt/handelser/2025/augusti/6/06-augusti-18.10-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 596024,
-    "datetime": "2025-08-06 18:18:21 +02:00",
-    "name": "06 augusti 17.45, Trafikolycka, Alvesta",
-    "summary": "Singelolycka, Skatelöv.",
-    "url": "/aktuellt/handelser/2025/augusti/6/06-augusti-17.45-trafikolycka-alvesta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
-    }
-  },
-  {
-    "id": 596021,
-    "datetime": "2025-08-06 17:29:39 +02:00",
-    "name": "06 augusti 17.04, Bråk, Stockholm",
-    "summary": "En bror som befinner sig hemma hos sin bror i Hökarängen anmäler att brodern blivit slagen.",
-    "url": "/aktuellt/handelser/2025/augusti/6/06-augusti-17.04-brak-stockholm/",
-    "type": "Bråk",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 596017,
-    "datetime": "2025-08-06 15:18:47 +02:00",
-    "name": "06 augusti 15.08, Trafikolycka, Strömstad",
-    "summary": "Ett flertal fordon är involverade i en olycka på E6 vid norr om Skee.",
-    "url": "/aktuellt/handelser/2025/augusti/6/06-augusti-15.08-trafikolycka-stromstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strömstad",
-      "gps": "58.938346,11.179187"
-    }
-  },
-  {
-    "id": 596014,
-    "datetime": "2025-08-06 14:30:59 +02:00",
-    "name": "06 augusti 14.18, Trafikolycka, Askersund",
-    "summary": "Två bilister är inblandade i en kollision vid trafikplats Skoporten, RV 50/ Rv49.",
-    "url": "/aktuellt/handelser/2025/augusti/6/06-augusti-14.18-trafikolycka-askersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 596016,
-    "datetime": "2025-08-06 14:51:16 +02:00",
-    "name": "06 augusti 13.16, Trafikolycka, personskada, Sala",
-    "summary": "Trafikolycka utanför Sala.",
-    "url": "/aktuellt/handelser/2025/augusti/6/06-augusti-13.16-trafikolycka-personskada-sala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Sala",
-      "gps": "59.920859,16.606328"
-    }
-  },
-  {
-    "id": 596015,
-    "datetime": "2025-08-06 14:37:43 +02:00",
-    "name": "06 augusti 13.36, Trafikolycka, Östersund",
-    "summary": "Ordningsbot utfärdades efter kollision.",
-    "url": "/aktuellt/handelser/2025/augusti/6/06-augusti-13.36-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 596011,
-    "datetime": "2025-08-06 13:34:27 +02:00",
-    "name": "06 augusti 13.13, Trafikolycka, Sundsvall",
-    "summary": "Trafikolycka på Gesällvägen, Birsta, Sundsvall.",
-    "url": "/aktuellt/handelser/2025/augusti/6/06-augusti-13.13-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
