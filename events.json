@@ -1,5 +1,113 @@
 [
   {
+    "id": 598005,
+    "datetime": "2025-08-18 14:48:00 +02:00",
+    "name": "18 augusti 14.40, Brand, Karlshamn",
+    "summary": "Larm om brand i byggnad, Erik Dahlbergsvägen.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-14.40-brand-karlshamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 597998,
+    "datetime": "2025-08-18 13:59:17 +02:00",
+    "name": "18 augusti 11.05, Trafikhinder, Västerås",
+    "summary": "Trafikhinder på E18.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-11.05-trafikhinder-vasteras/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 597997,
+    "datetime": "2025-08-18 13:53:45 +02:00",
+    "name": "18 augusti 13.47, Trafikolycka, Klippan",
+    "summary": "En personbil och en husbil kolliderar på E4.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-13.47-trafikolycka-klippan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Klippan",
+      "gps": "56.1349,13.129041"
+    }
+  },
+  {
+    "id": 597987,
+    "datetime": "2025-08-18 13:08:34 +02:00",
+    "name": "18 augusti 13.06, Trafikolycka, personskada, Nässjö",
+    "summary": "En till sjukhus efter singelolycka.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-13.06-trafikolycka-personskada-nassjo/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 598001,
+    "datetime": "2025-08-18 14:20:15 +02:00",
+    "name": "18 augusti 14.20, Fjällräddning, Kiruna",
+    "summary": "Vilsen man undsattes i Kirunafjällen.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-14.20-fjallraddning-kiruna/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 597996,
+    "datetime": "2025-08-18 13:53:11 +02:00",
+    "name": "18 augusti 11.20, Trafikolycka, Västerås",
+    "summary": "Två till sjukhus efter olycka.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-11.20-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 597995,
+    "datetime": "2025-08-18 13:50:26 +02:00",
+    "name": "18 augusti 12.12, Motorfordon, anträffat stulet, Lycksele",
+    "summary": "Stulen bil återfunnen i centrum.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-12.12-motorfordon-antraffat-stulet-lycksele/",
+    "type": "Motorfordon, anträffat stulet",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 597994,
+    "datetime": "2025-08-18 13:46:08 +02:00",
+    "name": "18 augusti 10.10, Trafikkontroll, Köping",
+    "summary": "Åtta personer fick ordningsböter.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-10.10-trafikkontroll-koping/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Köping",
+      "gps": "59.512096,15.99451"
+    }
+  },
+  {
+    "id": 597973,
+    "datetime": "2025-08-18 10:17:06 +02:00",
+    "name": "18 augusti 09.58, Trafikolycka, Halmstad",
+    "summary": "Två personbilar är involverade i en olycka på Wrangelsgatan.",
+    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-09.58-trafikolycka-halmstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
     "id": 597993,
     "datetime": "2025-08-18 13:37:14 +02:00",
     "name": "18 augusti 11.59, Djur, Sandviken",
@@ -33,18 +141,6 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 597987,
-    "datetime": "2025-08-18 13:08:34 +02:00",
-    "name": "18 augusti 13.06, Trafikolycka, personskada, Nässjö",
-    "summary": "En till sjukhus efter singelolycka.",
-    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-13.06-trafikolycka-personskada-nassjo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
     }
   },
   {
@@ -177,18 +273,6 @@
     "location": {
       "name": "Västmanlands län",
       "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 597973,
-    "datetime": "2025-08-18 10:17:06 +02:00",
-    "name": "18 augusti 09.58, Trafikolycka, Halmstad",
-    "summary": "Två personbilar är involverade i en olycka på Wrangelsgatan.",
-    "url": "/aktuellt/handelser/2025/augusti/18/18-augusti-09.58-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 596299,
-    "datetime": "2025-08-10 8:36:45 +02:00",
-    "name": "10 augusti 02.11, Misshandel, Malmö",
-    "summary": "Man blir misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2025/augusti/10/10-augusti-02.11-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 596298,
-    "datetime": "2025-08-10 8:25:14 +02:00",
-    "name": "10 augusti 08.23, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/10/10-augusti-08.23-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 596297,
-    "datetime": "2025-08-10 8:23:10 +02:00",
-    "name": "10 augusti 08.21, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/10/10-augusti-08.21-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 596296,
-    "datetime": "2025-08-10 8:21:04 +02:00",
-    "name": "10 augusti 08.16, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/10/10-augusti-08.16-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 596279,
-    "datetime": "2025-08-10 8:17:21 +02:00",
-    "name": "10 augusti 08.17, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2025/augusti/10/10-augusti-08.17-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 596293,
-    "datetime": "2025-08-10 8:17:05 +02:00",
-    "name": "10 augusti 08.17, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2025/augusti/10/10-augusti-08.17-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 596294,
-    "datetime": "2025-08-10 8:16:43 +02:00",
-    "name": "10 augusti 08.16, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2025/augusti/10/10-augusti-08.16-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
