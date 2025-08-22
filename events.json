@@ -1,5 +1,101 @@
 [
   {
+    "id": 598403,
+    "datetime": "2025-08-22 9:22:51 +02:00",
+    "name": "22 augusti 08.47, Trafikolycka, Luleå",
+    "summary": "Rutvik, singelolycka på E4.",
+    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-08.47-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 598398,
+    "datetime": "2025-08-22 8:29:39 +02:00",
+    "name": "22 augusti 07.38, Trafikolycka, personskada, Kungälv",
+    "summary": "Personbil kört in i träd.",
+    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-07.38-trafikolycka-personskada-kungalv/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
+    "id": 598388,
+    "datetime": "2025-08-22 8:06:05 +02:00",
+    "name": "22 augusti 07.19, Trafikolycka, vilt, Åsele",
+    "summary": "Viltolycka norr om Fredrika.",
+    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-07.19-trafikolycka-vilt-asele/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Åsele",
+      "gps": "64.160234,17.353615"
+    }
+  },
+  {
+    "id": 598411,
+    "datetime": "2025-08-22 10:07:10 +02:00",
+    "name": "22 augusti 08.31, Stöld/inbrott, Göteborg",
+    "summary": "Inbrott i husbil.",
+    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-08.31-stoldinbrott-goteborg/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 598401,
+    "datetime": "2025-08-22 8:54:47 +02:00",
+    "name": "22 augusti 08.42, Brand, Storfors",
+    "summary": "Det brinner enligt uppgift i ett garage.",
+    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-08.42-brand-storfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Storfors",
+      "gps": "59.533208,14.272209"
+    }
+  },
+  {
+    "id": 598410,
+    "datetime": "2025-08-22 9:44:15 +02:00",
+    "name": "22 augusti 09.43, Övrigt, Örebro län",
+    "summary": "Information om telefontider till Bergslagens pressavdelning under fredag förmiddag.",
+    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-09.43-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 598409,
+    "datetime": "2025-08-22 9:44:07 +02:00",
+    "name": "22 augusti 09.43, Övrigt, Dalarnas län",
+    "summary": "Information om telefontider till Bergslagens pressavdelning under fredag förmiddag.",
+    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-09.43-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 598408,
+    "datetime": "2025-08-22 9:43:58 +02:00",
+    "name": "22 augusti 09.43, Övrigt, Värmlands län",
+    "summary": "Information om telefontider till Bergslagens pressavdelning under fredag förmiddag.",
+    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-09.43-ovrigt-varmlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 598407,
     "datetime": "2025-08-22 9:39:00 +02:00",
     "name": "22 augusti 07.22, Olaga hot, Sala",
@@ -21,30 +117,6 @@
     "location": {
       "name": "Strömstad",
       "gps": "58.938346,11.179187"
-    }
-  },
-  {
-    "id": 598403,
-    "datetime": "2025-08-22 9:22:51 +02:00",
-    "name": "22 augusti 08.47, Trafikolycka, Luleå",
-    "summary": "Rutvik, singelolycka på E4.",
-    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-08.47-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 598401,
-    "datetime": "2025-08-22 8:54:47 +02:00",
-    "name": "22 augusti 08.42, Brand, Kristinehamn",
-    "summary": "Det brinner enligt uppgift i ett garage.",
-    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-08.42-brand-kristinehamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   },
   {
@@ -72,18 +144,6 @@
     }
   },
   {
-    "id": 598398,
-    "datetime": "2025-08-22 8:29:39 +02:00",
-    "name": "22 augusti 07.38, Trafikolycka, personskada, Kungälv",
-    "summary": "Personbil kört in i träd.",
-    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-07.38-trafikolycka-personskada-kungalv/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
-    }
-  },
-  {
     "id": 598393,
     "datetime": "2025-08-22 8:16:50 +02:00",
     "name": "21 augusti 23.20, Skadegörelse, Ockelbo",
@@ -93,18 +153,6 @@
     "location": {
       "name": "Ockelbo",
       "gps": "60.891784,16.720187"
-    }
-  },
-  {
-    "id": 598388,
-    "datetime": "2025-08-22 8:06:05 +02:00",
-    "name": "22 augusti 07.19, Trafikolycka, vilt, Åsele",
-    "summary": "Viltolycka norr om Fredrika.",
-    "url": "/aktuellt/handelser/2025/augusti/22/22-augusti-07.19-trafikolycka-vilt-asele/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Åsele",
-      "gps": "64.160234,17.353615"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 596707,
-    "datetime": "2025-08-14 20:30:51 +02:00",
-    "name": "14 augusti 19.34, Misshandel, grov, Stockholm",
-    "summary": "En man har slagits blodig i en trappuppgång i Vasastan.",
-    "url": "/aktuellt/handelser/2025/augusti/14/14-augusti-19.34-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 596702,
-    "datetime": "2025-08-14 19:50:21 +02:00",
-    "name": "14 augusti 19.38, Djur, Landskrona",
-    "summary": "Larm om kor vid E6 mellan Landskrona och Häljarp.",
-    "url": "/aktuellt/handelser/2025/augusti/14/14-augusti-19.38-djur-landskrona/",
-    "type": "Djur",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 596706,
-    "datetime": "2025-08-14 20:24:45 +02:00",
-    "name": "14 augusti 19.47, Trafikolycka, personskada, Huddinge",
-    "summary": "Polisen har frihetsberövat en berusad kvinna  som har kört på ett barn i barnvagn i Skogås.",
-    "url": "/aktuellt/handelser/2025/augusti/14/14-augusti-19.47-trafikolycka-personskada-huddinge/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 596705,
-    "datetime": "2025-08-14 20:23:27 +02:00",
-    "name": "14 augusti 19.17, Misshandel, Göteborg",
-    "summary": "Polisen får in flera samtal om att två familjer bråkar vid Askimsbadet.",
-    "url": "/aktuellt/handelser/2025/augusti/14/14-augusti-19.17-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
