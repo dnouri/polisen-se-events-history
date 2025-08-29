@@ -1,14 +1,26 @@
 [
   {
-    "id": 599199,
-    "datetime": "2025-08-29 16:32:01 +02:00",
-    "name": "29 augusti 16.31, Brand, Lycksele",
-    "summary": "Klockan 04.52 inkommer larm om en brand i ett garage sydväst om Bratten.",
-    "url": "/aktuellt/handelser/2025/augusti/29/29-augusti-16.31-brand-lycksele/",
-    "type": "Brand",
+    "id": 599202,
+    "datetime": "2025-08-29 17:21:45 +02:00",
+    "name": "29 augusti 17.01, Trafikolycka, Trelleborg",
+    "summary": "Påkörd person i korsningen Hedväen och Tommarpsvägen.",
+    "url": "/aktuellt/handelser/2025/augusti/29/29-augusti-17.01-trafikolycka-trelleborg/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 599201,
+    "datetime": "2025-08-29 17:05:21 +02:00",
+    "name": "29 augusti 16.38, Trafikolycka, vilt, Bräcke",
+    "summary": "Polisen får in en anmälan om en olycka med en personbil och en älg på länsväg 323 mellan Kälarne och Valla.",
+    "url": "/aktuellt/handelser/2025/augusti/29/29-augusti-16.38-trafikolycka-vilt-bracke/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Bräcke",
+      "gps": "62.750741,15.422575"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 599199,
+    "datetime": "2025-08-29 16:32:01 +02:00",
+    "name": "29 augusti 16.31, Brand, Lycksele",
+    "summary": "Klockan 04.52 inkommer larm om en brand i ett garage sydväst om Bratten.",
+    "url": "/aktuellt/handelser/2025/augusti/29/29-augusti-16.31-brand-lycksele/",
+    "type": "Brand",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 598510,
-    "datetime": "2025-08-23 8:28:09 +02:00",
-    "name": "23 augusti 07.42, Skadegörelse, Sollefteå",
-    "summary": "Skadegörelse på hotell i Sollefteå.",
-    "url": "/aktuellt/handelser/2025/augusti/23/23-augusti-07.42-skadegorelse-solleftea/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
-    }
-  },
-  {
-    "id": 598509,
-    "datetime": "2025-08-23 7:37:34 +02:00",
-    "name": "23 augusti 07.37, Sammanfattning natt, Jönköpings län",
-    "summary": "En lugn natt i Jönköpings län.",
-    "url": "/aktuellt/handelser/2025/augusti/23/23-augusti-07.37-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
