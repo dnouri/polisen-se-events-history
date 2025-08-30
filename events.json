@@ -1,5 +1,53 @@
 [
   {
+    "id": 599259,
+    "datetime": "2025-08-30 15:20:38 +02:00",
+    "name": "30 augusti 15.12, Trafikolycka, Markaryd",
+    "summary": "Trafikolycka på E4 vid Strömsnäsbruk.",
+    "url": "/aktuellt/handelser/2025/augusti/30/30-augusti-15.12-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 599252,
+    "datetime": "2025-08-30 12:26:53 +02:00",
+    "name": "30 augusti 10.54, Mord/dråp, försök, Götene",
+    "summary": "En kvinna gripen misstänkt för försök till mord, alternativt grov misshandel.",
+    "url": "/aktuellt/handelser/2025/augusti/30/30-augusti-10.54-morddrap-forsok-gotene/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Götene",
+      "gps": "58.528002,13.491428"
+    }
+  },
+  {
+    "id": 599256,
+    "datetime": "2025-08-30 14:04:26 +02:00",
+    "name": "30 augusti 14.02, Trafikolycka, Nässjö",
+    "summary": "Personbil hamnade på tomt.",
+    "url": "/aktuellt/handelser/2025/augusti/30/30-augusti-14.02-trafikolycka-nassjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 599258,
+    "datetime": "2025-08-30 14:51:20 +02:00",
+    "name": "30 augusti 14.51, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat i urval från dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/augusti/30/30-augusti-14.51-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 599253,
     "datetime": "2025-08-30 12:56:12 +02:00",
     "name": "30 augusti 12.24, Trafikolycka, Skellefteå",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Varberg",
       "gps": "57.107118,12.252091"
-    }
-  },
-  {
-    "id": 599256,
-    "datetime": "2025-08-30 14:04:26 +02:00",
-    "name": "30 augusti 14.02, Trafikolycka, Nässjö",
-    "summary": "Personbil hamnade på tomt.",
-    "url": "/aktuellt/handelser/2025/augusti/30/30-augusti-14.02-trafikolycka-nassjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
     }
   },
   {
@@ -69,18 +105,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 599252,
-    "datetime": "2025-08-30 12:26:53 +02:00",
-    "name": "30 augusti 10.54, Mord/dråp, försök, Götene",
-    "summary": "En kvinna gripen misstänkt för försök till mord, alternativt grov misshandel.",
-    "url": "/aktuellt/handelser/2025/augusti/30/30-augusti-10.54-morddrap-forsok-gotene/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Götene",
-      "gps": "58.528002,13.491428"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 598568,
-    "datetime": "2025-08-24 7:05:29 +02:00",
-    "name": "24 augusti 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/24/24-augusti-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 598567,
-    "datetime": "2025-08-24 7:04:12 +02:00",
-    "name": "24 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/24/24-augusti-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
