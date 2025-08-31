@@ -1,5 +1,101 @@
 [
   {
+    "id": 599318,
+    "datetime": "2025-08-31 14:28:18 +02:00",
+    "name": "31 augusti 14.16, Trafikolycka, Emmaboda",
+    "summary": "Singelolycka på Rv28 vid Eriksmåla.",
+    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-14.16-trafikolycka-emmaboda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Emmaboda",
+      "gps": "56.630686,15.540006"
+    }
+  },
+  {
+    "id": 599308,
+    "datetime": "2025-08-31 13:37:44 +02:00",
+    "name": "31 augusti 13.31, Trafikolycka, Laxå",
+    "summary": "Två fordon har kolliderat på E20 vid Finnerödja.",
+    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-13.31-trafikolycka-laxa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
+    "id": 599317,
+    "datetime": "2025-08-31 14:27:40 +02:00",
+    "name": "31 augusti 14.19, Övrigt, Örebro",
+    "summary": "Bilist rapporterad för hastighetsöverträdelse.",
+    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-14.19-ovrigt-orebro/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 599316,
+    "datetime": "2025-08-31 14:19:28 +02:00",
+    "name": "31 augusti 14.10, Misshandel, Arvika",
+    "summary": "Man gripen misstänkt för misshandel.",
+    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-14.10-misshandel-arvika/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 599314,
+    "datetime": "2025-08-31 14:18:16 +02:00",
+    "name": "31 augusti 14.18, Trafikkontroll, Umeå",
+    "summary": "Umeå, resultat från trafikkontroller efter lunch i dag.",
+    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-14.18-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 599313,
+    "datetime": "2025-08-31 13:57:11 +02:00",
+    "name": "31 augusti 13.04, Trafikolycka, personskada, Sollentuna",
+    "summary": "En bil har kört in i räcket på påfarten till E4 vid Häggvik. En person får åka ambulans till sjukhus.",
+    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-13.04-trafikolycka-personskada-sollentuna/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 599312,
+    "datetime": "2025-08-31 13:57:07 +02:00",
+    "name": "31 augusti 13.44, Fjällräddning, Mora",
+    "summary": "Två separata fjällräddningar pågår i nordvästra Dalarna.",
+    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-13.44-fjallraddning-mora/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 599311,
+    "datetime": "2025-08-31 13:44:12 +02:00",
+    "name": "31 augusti 13.37, Inbrott, Örebro",
+    "summary": "Inbrott i bostad anmält i Örebro.",
+    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-13.37-inbrott-orebro/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 599310,
     "datetime": "2025-08-31 13:42:48 +02:00",
     "name": "31 augusti 12.16, Stöld, Varberg",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 599308,
-    "datetime": "2025-08-31 13:37:44 +02:00",
-    "name": "31 augusti 13.31, Trafikolycka, Laxå",
-    "summary": "Två fordon har kolliderat på E20 vid Finnerödja.",
-    "url": "/aktuellt/handelser/2025/augusti/31/31-augusti-13.31-trafikolycka-laxa/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Laxå",
-      "gps": "58.98269,14.62289"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 598633,
-    "datetime": "2025-08-25 7:03:02 +02:00",
-    "name": "25 augusti 07.00, Sammanfattning natt, Örebro län",
-    "summary": "Natt till måndag i polisområde Örebro.",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-07.00-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 598632,
-    "datetime": "2025-08-25 7:02:59 +02:00",
-    "name": "25 augusti 07.00, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till måndag i polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-07.00-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 598631,
-    "datetime": "2025-08-25 7:02:56 +02:00",
-    "name": "25 augusti 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till måndag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 598630,
-    "datetime": "2025-08-25 7:02:23 +02:00",
-    "name": "25 augusti 07.00, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-07.00-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 598629,
-    "datetime": "2025-08-25 7:01:52 +02:00",
-    "name": "25 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 598628,
-    "datetime": "2025-08-25 6:56:52 +02:00",
-    "name": "25 augusti 05.06, Sexualbrott, Malmö",
-    "summary": "Köp av sexuell tjänst",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-05.06-sexualbrott-malmo/",
-    "type": "Sexualbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 598627,
-    "datetime": "2025-08-25 6:51:44 +02:00",
-    "name": "25 augusti 06.49, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-06.49-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
