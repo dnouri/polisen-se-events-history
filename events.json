@@ -1,5 +1,41 @@
 [
   {
+    "id": 599443,
+    "datetime": "2025-09-01 19:10:13 +02:00",
+    "name": "01 september 18.40, Misshandel, Bjuv",
+    "summary": "Misshandel på tåg, Bjuv/Åstorp.",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-18.40-misshandel-bjuv/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Bjuv",
+      "gps": "56.087102,12.912505"
+    }
+  },
+  {
+    "id": 599440,
+    "datetime": "2025-09-01 18:50:27 +02:00",
+    "name": "01 september 18.46, Trafikolycka, personskada, Söderköping",
+    "summary": "En allvarligt skadad efter kollision mellan motorcykel och personbil",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-18.46-trafikolycka-personskada-soderkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Söderköping",
+      "gps": "58.475901,16.323431"
+    }
+  },
+  {
+    "id": 599435,
+    "datetime": "2025-09-01 17:38:12 +02:00",
+    "name": "01 september 17.15, Trafikolycka, Sunne",
+    "summary": "Polisen är larmade till en trafikolycka i Sunne.",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-17.15-trafikolycka-sunne/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sunne",
+      "gps": "59.836558,13.144046"
+    }
+  },
+  {
     "id": 599439,
     "datetime": "2025-09-01 18:46:57 +02:00",
     "name": "01 september 15.42, Farligt föremål, misstänkt, Eskilstuna",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 599442,
+    "datetime": "2025-09-01 19:05:40 +02:00",
+    "name": "01 september 16.11, Trafikolycka, personskada, Sandviken",
+    "summary": "En person till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-16.11-trafikolycka-personskada-sandviken/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 599441,
+    "datetime": "2025-09-01 18:54:24 +02:00",
+    "name": "01 september 16.54, Rattfylleri, Åre",
+    "summary": "Länsväg 336, Kall. Polisen kontrollerar en personbil.",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-16.54-rattfylleri-are/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Åre",
+      "gps": "63.399043,13.081506"
     }
   },
   {
@@ -45,18 +105,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 599435,
-    "datetime": "2025-09-01 17:38:12 +02:00",
-    "name": "01 september 17.15, Trafikolycka, Sunne",
-    "summary": "Polisen är larmade till en trafikolycka i Sunne.",
-    "url": "/aktuellt/handelser/2025/september/1/01-september-17.15-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 598751,
-    "datetime": "2025-08-26 7:02:32 +02:00",
-    "name": "26 augusti 02.45, Stöld, Stockholm",
-    "summary": "En person som slagit sönder rutan på bilar i Kista och stulit föremål grips.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-02.45-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 598750,
-    "datetime": "2025-08-26 7:02:25 +02:00",
-    "name": "26 augusti 07.01, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-07.01-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 598748,
-    "datetime": "2025-08-26 7:01:56 +02:00",
-    "name": "26 augusti 07.01, Sammanfattning natt, Värmlands län",
-    "summary": "Polisiärt sett har det varit en lugn natt i länet.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-07.01-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 598743,
-    "datetime": "2025-08-26 7:00:26 +02:00",
-    "name": "26 augusti 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
