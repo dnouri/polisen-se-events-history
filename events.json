@@ -1,5 +1,53 @@
 [
   {
+    "id": 599422,
+    "datetime": "2025-09-01 16:04:28 +02:00",
+    "name": "01 september 11.16, Trafikolycka, Strömsund",
+    "summary": "Länsväg 342, Strand. En personbil har kört i diket.",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-11.16-trafikolycka-stromsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 599374,
+    "datetime": "2025-09-01 10:20:11 +02:00",
+    "name": "01 september 10.05, Trafikolycka, singel, Östersund",
+    "summary": "E14/E45 Brunflo, ett släp till en timmerbil har vält",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-10.05-trafikolycka-singel-ostersund/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 599420,
+    "datetime": "2025-09-01 15:54:31 +02:00",
+    "name": "01 september 15.30, Trafikolycka, Uddevalla",
+    "summary": "Två personbilar är involverade i en olycka på länsväg 832 vid Hogstorp.",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-15.30-trafikolycka-uddevalla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 599419,
+    "datetime": "2025-09-01 15:53:01 +02:00",
+    "name": "01 september 12.19, Övrigt, Umeå",
+    "summary": "Centrala stan, en kvinna ska ha hamnat i en dispyt med en väktare.",
+    "url": "/aktuellt/handelser/2025/september/1/01-september-12.19-ovrigt-umea/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 599416,
     "datetime": "2025-09-01 15:44:48 +02:00",
     "name": "01 september 11.36, Stöld, Luleå",
@@ -174,18 +222,6 @@
     "summary": "Odenslund, lastbil med släp stoppas för kontroll",
     "url": "/aktuellt/handelser/2025/september/1/01-september-09.40-trafikbrott-ostersund/",
     "type": "Trafikbrott",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 599374,
-    "datetime": "2025-09-01 10:20:11 +02:00",
-    "name": "01 september 10.05, Trafikolycka, singel, Östersund",
-    "summary": "E14/E45 Brunflo, ett släp till en timmerbil har vält",
-    "url": "/aktuellt/handelser/2025/september/1/01-september-10.05-trafikolycka-singel-ostersund/",
-    "type": "Trafikolycka, singel",
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Åsele",
       "gps": "64.160234,17.353615"
-    }
-  },
-  {
-    "id": 598730,
-    "datetime": "2025-08-25 20:53:00 +02:00",
-    "name": "25 augusti 17.13, Kontroll person/fordon, Nynäshamn",
-    "summary": "Personer försöker smyga ombord en fripassagerare på en färja.",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-17.13-kontroll-personfordon-nynashamn/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 598729,
-    "datetime": "2025-08-25 20:43:41 +02:00",
-    "name": "25 augusti 20.43, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, urval av kontroller som utförts i trafiken.",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-20.43-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 598728,
-    "datetime": "2025-08-25 20:41:08 +02:00",
-    "name": "25 augusti 18.14, Rån, Stockholm",
-    "summary": "Man rånar blomsterbutik.",
-    "url": "/aktuellt/handelser/2025/augusti/25/25-augusti-18.14-ran-stockholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
