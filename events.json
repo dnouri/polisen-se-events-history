@@ -1,5 +1,65 @@
 [
   {
+    "id": 599532,
+    "datetime": "2025-09-02 12:18:59 +02:00",
+    "name": "02 september 11.51, Explosion, Burlöv",
+    "summary": "Explosion vid en fastighet i Burlöv.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-11.51-explosion-burlov/",
+    "type": "Explosion",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 599538,
+    "datetime": "2025-09-02 12:58:35 +02:00",
+    "name": "02 september 10.41, Misshandel, Umeå",
+    "summary": "Mariehem, polis kontaktas gällande bråk i en bostad",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-10.41-misshandel-umea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 599536,
+    "datetime": "2025-09-02 12:49:59 +02:00",
+    "name": "02 september 11.40, Stöld, Luleå",
+    "summary": "Björkskatan, ung person stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-11.40-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 599531,
+    "datetime": "2025-09-02 12:11:16 +02:00",
+    "name": "02 september 11.39, Brand, Danderyd",
+    "summary": "Polis och räddningstjänst kallas till Enebyberg med anledning av brand i en fastighet.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-11.39-brand-danderyd/",
+    "type": "Brand",
+    "location": {
+      "name": "Danderyd",
+      "gps": "59.407905,18.019075"
+    }
+  },
+  {
+    "id": 599535,
+    "datetime": "2025-09-02 12:47:35 +02:00",
+    "name": "02 september 12.30, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-12.30-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 599527,
     "datetime": "2025-09-02 12:37:10 +02:00",
     "name": "02 september 10.09, Farligt föremål, misstänkt, Malmö",
@@ -21,30 +81,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 599532,
-    "datetime": "2025-09-02 12:18:59 +02:00",
-    "name": "02 september 11.51, Explosion, Burlöv",
-    "summary": "Explosion vid en fastighet i Burlöv.",
-    "url": "/aktuellt/handelser/2025/september/2/02-september-11.51-explosion-burlov/",
-    "type": "Explosion",
-    "location": {
-      "name": "Burlöv",
-      "gps": "55.631913,13.096379"
-    }
-  },
-  {
-    "id": 599531,
-    "datetime": "2025-09-02 12:11:16 +02:00",
-    "name": "02 september 11.39, Brand, Danderyd",
-    "summary": "Polis och räddningstjänst kallas till Enebyberg med anledning av brand i en fastighet.",
-    "url": "/aktuellt/handelser/2025/september/2/02-september-11.39-brand-danderyd/",
-    "type": "Brand",
-    "location": {
-      "name": "Danderyd",
-      "gps": "59.407905,18.019075"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 598849,
-    "datetime": "2025-08-26 20:26:17 +02:00",
-    "name": "26 augusti 20.26, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat i urval från kontroller i trafiken.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-20.26-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 598848,
-    "datetime": "2025-08-26 20:23:59 +02:00",
-    "name": "26 augusti 20.23, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat i urval från kontroller i trafiken.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-20.23-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 598835,
-    "datetime": "2025-08-26 17:13:22 +02:00",
-    "name": "26 augusti 17.00, Trafikolycka, Sundsvall",
-    "summary": "Sundsvall, trafikolycka på Västermalm.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-17.00-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
