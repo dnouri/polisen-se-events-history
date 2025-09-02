@@ -1,5 +1,101 @@
 [
   {
+    "id": 599580,
+    "datetime": "2025-09-02 16:28:28 +02:00",
+    "name": "02 september 15.10, Trafikolycka, Gagnef",
+    "summary": "En person i trettioårsåldern misstänks för rattfylleri efter en trafikolycka i Mockfjärd.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-15.10-trafikolycka-gagnef/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gagnef",
+      "gps": "60.590983,15.070049"
+    }
+  },
+  {
+    "id": 599574,
+    "datetime": "2025-09-02 16:27:47 +02:00",
+    "name": "02 september 14.57, Misshandel, Stockholm",
+    "summary": "Misshandel på restaurang.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-14.57-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 599571,
+    "datetime": "2025-09-02 16:27:42 +02:00",
+    "name": "02 september 14.28, Stöld, Haninge",
+    "summary": "Väktare och ledig polis fångar en snattare.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-14.28-stold-haninge/",
+    "type": "Stöld",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 599570,
+    "datetime": "2025-09-02 16:27:38 +02:00",
+    "name": "02 september 13.16, Skyddslagen, Stockholm",
+    "summary": "Drönarflygning på Gärdet.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-13.16-skyddslagen-stockholm/",
+    "type": "Skyddslagen",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 599569,
+    "datetime": "2025-09-02 16:27:34 +02:00",
+    "name": "02 september 10.32, Larm Inbrott, Nacka",
+    "summary": "Larmbolag ser ett pågående villainbrott.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-10.32-larm-inbrott-nacka/",
+    "type": "Larm Inbrott",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 599572,
+    "datetime": "2025-09-02 16:16:56 +02:00",
+    "name": "02 september 10.08, Stöld, Östersund",
+    "summary": "En man misstänks ha stulit en moped från en gård på Frösön.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-10.08-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 599556,
+    "datetime": "2025-09-02 15:03:24 +02:00",
+    "name": "02 september 14.55, Trafikolycka, Stenungsund",
+    "summary": "Vi får larm om en trafikolycka på Inre Ringleden.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-14.55-trafikolycka-stenungsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 599568,
+    "datetime": "2025-09-02 15:54:03 +02:00",
+    "name": "02 september 15.45, Trafikkontroll, Norrbottens län",
+    "summary": "Ett urval av polisens arbete i trafiken under eftermiddagen.",
+    "url": "/aktuellt/handelser/2025/september/2/02-september-15.45-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 599564,
     "datetime": "2025-09-02 15:27:23 +02:00",
     "name": "02 september 14.04, Skadegörelse, Malmö",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 599556,
-    "datetime": "2025-09-02 15:03:24 +02:00",
-    "name": "02 september 14.55, Trafikolycka, Stenungsund",
-    "summary": "Vi får larm om en trafikolycka på Inre Ringleden.",
-    "url": "/aktuellt/handelser/2025/september/2/02-september-14.55-trafikolycka-stenungsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Sollentuna",
       "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 598865,
-    "datetime": "2025-08-26 22:24:41 +02:00",
-    "name": "26 augusti 18.18, Misshandel, Salem",
-    "summary": "En kvinna söker hjälp hos en granne efter att hennes man misshandlat henne.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-18.18-misshandel-salem/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Salem",
-      "gps": "59.20768,17.774222"
-    }
-  },
-  {
-    "id": 598863,
-    "datetime": "2025-08-26 22:24:35 +02:00",
-    "name": "26 augusti 18.55, Trafikbrott, Stockholm",
-    "summary": "Båda förarna blir misstänkta för trafikbrott efter att de krockat med varandra på Sveavägen.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-18.55-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 598851,
-    "datetime": "2025-08-26 22:24:30 +02:00",
-    "name": "26 augusti 18.42, Motorfordon, stöld, Stockholm",
-    "summary": "Någon fixar med en moped i ett buskage.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-18.42-motorfordon-stold-stockholm/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 598854,
-    "datetime": "2025-08-26 22:24:24 +02:00",
-    "name": "26 augusti 15.20, Misshandel, Haninge",
-    "summary": "Polisen kontrollerar uppgifter om att en att man misshandlat sin fru.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-15.20-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 598862,
-    "datetime": "2025-08-26 21:46:46 +02:00",
-    "name": "26 augusti 19.49, Narkotikabrott, Lycksele",
-    "summary": "Lycksele, man misstänks för ringa narkotikabrott och ringa stöld.",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-19.49-narkotikabrott-lycksele/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 598856,
-    "datetime": "2025-08-26 21:45:42 +02:00",
-    "name": "26 augusti 21.45, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-21.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 598855,
-    "datetime": "2025-08-26 21:45:36 +02:00",
-    "name": "26 augusti 21.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
-    "url": "/aktuellt/handelser/2025/augusti/26/26-augusti-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
