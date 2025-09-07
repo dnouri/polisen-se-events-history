@@ -1,14 +1,50 @@
 [
   {
+    "id": 600116,
+    "datetime": "2025-09-07 11:44:57 +02:00",
+    "name": "07 september 11.06, Arbetsplatsolycka, Göteborg",
+    "summary": "Man avförd till sjukhus. Fick balk i huvudet.",
+    "url": "/aktuellt/handelser/2025/september/7/07-september-11.06-arbetsplatsolycka-goteborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 600114,
     "datetime": "2025-09-07 11:34:33 +02:00",
-    "name": "07 september 11.22, Kontroll person/fordon, Solna",
+    "name": "07 september 11.22, Farligt föremål, misstänkt, Solna",
     "summary": "Misstänkt farligt föremål i Solna.",
-    "url": "/aktuellt/handelser/2025/september/7/07-september-11.22-kontroll-personfordon-solna/",
-    "type": "Kontroll person/fordon",
+    "url": "/aktuellt/handelser/2025/september/7/07-september-11.22-farligt-foremal-misstankt-solna/",
+    "type": "Farligt föremål, misstänkt",
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 600117,
+    "datetime": "2025-09-07 11:49:43 +02:00",
+    "name": "07 september 11.40, Trafikolycka, Uppvidinge",
+    "summary": "Uranäs",
+    "url": "/aktuellt/handelser/2025/september/7/07-september-11.40-trafikolycka-uppvidinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppvidinge",
+      "gps": "57.014575,15.381174"
+    }
+  },
+  {
+    "id": 600115,
+    "datetime": "2025-09-07 11:44:48 +02:00",
+    "name": "07 september 10.35, Trafikolycka, personskada, Uppsala",
+    "summary": "Singelolycka med motorcykel vid Lindbacken.",
+    "url": "/aktuellt/handelser/2025/september/7/07-september-10.35-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 599338,
-    "datetime": "2025-09-01 4:51:38 +02:00",
-    "name": "01 september 03.25, Explosion, Stockholm",
-    "summary": "Något har smällt vid flerfamiljshus i Hammarby sjöstad.",
-    "url": "/aktuellt/handelser/2025/september/1/01-september-03.25-explosion-stockholm/",
-    "type": "Explosion",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 599348,
-    "datetime": "2025-09-01 7:10:31 +02:00",
-    "name": "01 september 07.00, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/september/1/01-september-07.00-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 599347,
-    "datetime": "2025-09-01 7:03:38 +02:00",
-    "name": "01 september 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av kvällens och nattens händelser.",
-    "url": "/aktuellt/handelser/2025/september/1/01-september-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
