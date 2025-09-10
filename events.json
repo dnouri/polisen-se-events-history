@@ -1,5 +1,41 @@
 [
   {
+    "id": 600371,
+    "datetime": "2025-09-09 22:21:34 +02:00",
+    "name": "09 september 21.55, Explosion, Katrineholm",
+    "summary": "Larm om explosion i Katrineholm.",
+    "url": "/aktuellt/handelser/2025/september/9/09-september-21.55-explosion-katrineholm/",
+    "type": "Explosion",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
+    }
+  },
+  {
+    "id": 600397,
+    "datetime": "2025-09-10 7:28:04 +02:00",
+    "name": "10 september 07.25, Övrigt, Örebro län",
+    "summary": "Regionalt mediacenter i region Bergslagen stänger i dag tidigare.",
+    "url": "/aktuellt/handelser/2025/september/10/10-september-07.25-ovrigt-orebro-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 600396,
+    "datetime": "2025-09-10 7:27:45 +02:00",
+    "name": "10 september 07.25, Övrigt, Dalarnas län",
+    "summary": "Regionalt mediacenter i region Bergslagen stänger i dag tidigare.",
+    "url": "/aktuellt/handelser/2025/september/10/10-september-07.25-ovrigt-dalarnas-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
     "id": 600395,
     "datetime": "2025-09-10 7:27:35 +02:00",
     "name": "10 september 07.25, Övrigt, Värmlands län",
@@ -261,18 +297,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 600371,
-    "datetime": "2025-09-09 22:21:34 +02:00",
-    "name": "09 september 21.55, Explosion, Katrineholm",
-    "summary": "Larm om explosion i Katrineholm.",
-    "url": "/aktuellt/handelser/2025/september/9/09-september-21.55-explosion-katrineholm/",
-    "type": "Explosion",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 599641,
-    "datetime": "2025-09-03 7:04:47 +02:00",
-    "name": "03 september 07.03, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en lugn natt operativt i länet",
-    "url": "/aktuellt/handelser/2025/september/3/03-september-07.03-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 599640,
-    "datetime": "2025-09-03 7:02:04 +02:00",
-    "name": "03 september 04.19, Stöld, Stockholm",
-    "summary": "Två män iakttas på Södermalm när de går iväg med en misstänkt stulen cykel. En man grips misstänkt för stöld.",
-    "url": "/aktuellt/handelser/2025/september/3/03-september-04.19-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
