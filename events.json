@@ -1,5 +1,17 @@
 [
   {
+    "id": 600501,
+    "datetime": "2025-09-11 8:19:59 +02:00",
+    "name": "11 september 07.43, Trafikolycka, Alvesta",
+    "summary": "Personbil och buss i kollision",
+    "url": "/aktuellt/handelser/2025/september/11/11-september-07.43-trafikolycka-alvesta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Alvesta",
+      "gps": "56.89921,14.556001"
+    }
+  },
+  {
     "id": 600495,
     "datetime": "2025-09-11 7:42:17 +02:00",
     "name": "11 september 07.33, Trafikolycka, Jönköping",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 600500,
+    "datetime": "2025-09-11 8:03:06 +02:00",
+    "name": "11 september 07.01, Trafikolycka, Ängelholm",
+    "summary": "Trafikolycka på E 6, Ängelholm",
+    "url": "/aktuellt/handelser/2025/september/11/11-september-07.01-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 600489,
+    "datetime": "2025-09-11 7:11:44 +02:00",
+    "name": "11 september 07.04, Sammanfattning natt, Jämtlands län",
+    "summary": "Jämtland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2025/september/11/11-september-07.04-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 600493,
+    "datetime": "2025-09-11 7:49:21 +02:00",
+    "name": "11 september 07.14, Rån, Stockholm",
+    "summary": "En man har hotat och rånat en kvinna i 75-årsåldern i Solberga på bland annat mobiltelefon, bankkort och konta",
+    "url": "/aktuellt/handelser/2025/september/11/11-september-07.14-ran-stockholm/",
+    "type": "Rån",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -117,18 +165,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 600489,
-    "datetime": "2025-09-11 7:11:44 +02:00",
-    "name": "11 september 07.04, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-07.04-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Uddevalla",
       "gps": "58.3498,11.935649"
-    }
-  },
-  {
-    "id": 599738,
-    "datetime": "2025-09-03 21:47:49 +02:00",
-    "name": "03 september 21.01, Trafikolycka, personskada, Stockholm",
-    "summary": "Kvinna påkörd av bil i Älvsjö.",
-    "url": "/aktuellt/handelser/2025/september/3/03-september-21.01-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 599696,
-    "datetime": "2025-09-03 15:54:45 +02:00",
-    "name": "03 september 11.10, Trafikolycka, personskada, Hallstahammar",
-    "summary": "Polis misstänker grovt våldsbrott i samband med trafikolycka.",
-    "url": "/aktuellt/handelser/2025/september/3/03-september-11.10-trafikolycka-personskada-hallstahammar/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Hallstahammar",
-      "gps": "59.613204,16.229476"
-    }
-  },
-  {
-    "id": 599737,
-    "datetime": "2025-09-03 21:39:44 +02:00",
-    "name": "03 september 18.54, Trafikolycka, Sundsvall",
-    "summary": "Singelolycka i Ljustadalen.",
-    "url": "/aktuellt/handelser/2025/september/3/03-september-18.54-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
