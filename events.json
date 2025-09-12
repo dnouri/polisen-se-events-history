@@ -1,5 +1,77 @@
 [
   {
+    "id": 600693,
+    "datetime": "2025-09-12 16:26:03 +02:00",
+    "name": "12 september 14.22, Trafikbrott, Vilhelmina",
+    "summary": "Vojmsjölandet, bilist med släp stoppad för kontroll",
+    "url": "/aktuellt/handelser/2025/september/12/12-september-14.22-trafikbrott-vilhelmina/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
+    }
+  },
+  {
+    "id": 600692,
+    "datetime": "2025-09-12 16:24:45 +02:00",
+    "name": "12 september 14.04, Fylleri/LOB, Skellefteå",
+    "summary": "Centrum, polis kontaktas gällande berusad man på hotell",
+    "url": "/aktuellt/handelser/2025/september/12/12-september-14.04-fyllerilob-skelleftea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 600691,
+    "datetime": "2025-09-12 16:15:08 +02:00",
+    "name": "12 september 13.52, Olaga intrång, Umeå",
+    "summary": "Väst på stan, någon eller några har olovligen tagit sig in i skyddsrum på en skola",
+    "url": "/aktuellt/handelser/2025/september/12/12-september-13.52-olaga-intrang-umea/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 600690,
+    "datetime": "2025-09-12 16:06:41 +02:00",
+    "name": "12 september 16.05, Stöld/inbrott, Motala",
+    "summary": "Två gripna för stöld i dödsbo",
+    "url": "/aktuellt/handelser/2025/september/12/12-september-16.05-stoldinbrott-motala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
+    }
+  },
+  {
+    "id": 600689,
+    "datetime": "2025-09-12 16:01:21 +02:00",
+    "name": "12 september 15.02, Trafikolycka, Kristianstad",
+    "summary": "En personbil och moped kolliderar på Tegelbruksvägen.",
+    "url": "/aktuellt/handelser/2025/september/12/12-september-15.02-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 600688,
+    "datetime": "2025-09-12 16:01:15 +02:00",
+    "name": "12 september 09.06, Stöld, Haparanda",
+    "summary": "Nordväst om Haparanda, en stöld har inträffat",
+    "url": "/aktuellt/handelser/2025/september/12/12-september-09.06-stold-haparanda/",
+    "type": "Stöld",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
     "id": 600687,
     "datetime": "2025-09-12 15:44:27 +02:00",
     "name": "12 september 15.44, Stöld, Örebro",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 599934,
-    "datetime": "2025-09-05 12:27:24 +02:00",
-    "name": "05 september 12.21, Trafikkontroll, Västerbottens län",
-    "summary": "Ett urval av polisens arbete i trafiken under morgonen.",
-    "url": "/aktuellt/handelser/2025/september/5/05-september-12.21-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 599933,
-    "datetime": "2025-09-05 12:21:13 +02:00",
-    "name": "05 september 12.18, Trafikolycka, Gällivare",
-    "summary": "Nedre Heden, två personbilar ska ha kolliderat i en rondell.",
-    "url": "/aktuellt/handelser/2025/september/5/05-september-12.18-trafikolycka-gallivare/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 599932,
-    "datetime": "2025-09-05 12:16:46 +02:00",
-    "name": "05 september 07.18, Skadegörelse, Kalix",
-    "summary": "Polisen larmas till ett stall.",
-    "url": "/aktuellt/handelser/2025/september/5/05-september-07.18-skadegorelse-kalix/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kalix",
-      "gps": "65.855281,23.143965"
-    }
-  },
-  {
-    "id": 599930,
-    "datetime": "2025-09-05 11:31:08 +02:00",
-    "name": "05 september 11.30, Trafikkontroll, Västernorrlands län",
-    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen.",
-    "url": "/aktuellt/handelser/2025/september/5/05-september-11.30-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 599929,
-    "datetime": "2025-09-05 11:06:13 +02:00",
-    "name": "05 september 10.51, Trafikolycka, Falkenberg",
-    "summary": "Vi får larm om en trafikolycka på E6:an i höjd med Morup. Det ska handla om en sidokrock mellan två personbila",
-    "url": "/aktuellt/handelser/2025/september/5/05-september-10.51-trafikolycka-falkenberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
-    }
-  },
-  {
-    "id": 599928,
-    "datetime": "2025-09-05 11:05:46 +02:00",
-    "name": "05 september 07.16, Brand, Södertälje",
-    "summary": "Balkongbrand i Hovsjö.",
-    "url": "/aktuellt/handelser/2025/september/5/05-september-07.16-brand-sodertalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
