@@ -1,5 +1,77 @@
 [
   {
+    "id": 601070,
+    "datetime": "2025-09-16 18:31:31 +02:00",
+    "name": "16 september 16.52, Brand, Sundsvall",
+    "summary": "Rökutveckling i lägenhet på Haga.",
+    "url": "/aktuellt/handelser/2025/september/16/16-september-16.52-brand-sundsvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 601069,
+    "datetime": "2025-09-16 18:22:56 +02:00",
+    "name": "16 september 17.09, Misshandel, Göteborg",
+    "summary": "Två omhändertagna enligt LOB efter bråklarm.",
+    "url": "/aktuellt/handelser/2025/september/16/16-september-17.09-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 601068,
+    "datetime": "2025-09-16 18:22:14 +02:00",
+    "name": "16 september 14.48, Fylleri/LOB, Haparanda",
+    "summary": "Berusad man omhändertagen i Haparanda.",
+    "url": "/aktuellt/handelser/2025/september/16/16-september-14.48-fyllerilob-haparanda/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 601057,
+    "datetime": "2025-09-16 16:27:48 +02:00",
+    "name": "16 september 16.21, Trafikolycka, Gislaved",
+    "summary": "Två bilar i krock.",
+    "url": "/aktuellt/handelser/2025/september/16/16-september-16.21-trafikolycka-gislaved/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gislaved",
+      "gps": "57.2985,13.54326"
+    }
+  },
+  {
+    "id": 601067,
+    "datetime": "2025-09-16 18:00:35 +02:00",
+    "name": "16 september 18.00, Bråk, Örnsköldsvik",
+    "summary": "Anmälan om misshandel efter bråk på skola.",
+    "url": "/aktuellt/handelser/2025/september/16/16-september-18.00-brak-ornskoldsvik/",
+    "type": "Bråk",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 601066,
+    "datetime": "2025-09-16 17:48:00 +02:00",
+    "name": "16 september 17.47, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/september/16/16-september-17.47-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 601064,
     "datetime": "2025-09-16 17:33:33 +02:00",
     "name": "16 september 15.39, Narkotikabrott, Sundsvall",
@@ -93,18 +165,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 601057,
-    "datetime": "2025-09-16 16:27:48 +02:00",
-    "name": "16 september 16.21, Trafikolycka, Gislaved",
-    "summary": "Två bilar i krock.",
-    "url": "/aktuellt/handelser/2025/september/16/16-september-16.21-trafikolycka-gislaved/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gislaved",
-      "gps": "57.2985,13.54326"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Skövde",
       "gps": "58.390278,13.846121"
-    }
-  },
-  {
-    "id": 600337,
-    "datetime": "2025-09-09 17:12:00 +02:00",
-    "name": "09 september 15.55, Arbetsplatsolycka, Uppsala",
-    "summary": "Två personer till sjukhus efter fallolycka.",
-    "url": "/aktuellt/handelser/2025/september/9/09-september-15.55-arbetsplatsolycka-uppsala/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 600336,
-    "datetime": "2025-09-09 17:03:29 +02:00",
-    "name": "09 september 17.03, Bedrägeri, Jämtlands län",
-    "summary": "Polisen varnar för bedrägerier via sms",
-    "url": "/aktuellt/handelser/2025/september/9/09-september-17.03-bedrageri-jamtlands-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 600335,
-    "datetime": "2025-09-09 17:02:41 +02:00",
-    "name": "09 september 17.02, Bedrägeri, Västernorrlands län",
-    "summary": "Polisen varnar för bedrägerier via sms",
-    "url": "/aktuellt/handelser/2025/september/9/09-september-17.02-bedrageri-vasternorrlands-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 600334,
-    "datetime": "2025-09-09 17:01:56 +02:00",
-    "name": "09 september 17.00, Bedrägeri, Västerbottens län",
-    "summary": "Polisen varnar för bedrägerier via sms",
-    "url": "/aktuellt/handelser/2025/september/9/09-september-17.00-bedrageri-vasterbottens-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 600333,
-    "datetime": "2025-09-09 17:00:50 +02:00",
-    "name": "09 september 17.00, Bedrägeri, Norrbottens län",
-    "summary": "Polisen varnar för sms-bedrägerier.",
-    "url": "/aktuellt/handelser/2025/september/9/09-september-17.00-bedrageri-norrbottens-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
