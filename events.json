@@ -1,5 +1,89 @@
 [
   {
+    "id": 601300,
+    "datetime": "2025-09-18 18:30:05 +02:00",
+    "name": "18 september 17.22, Olaga hot, Varberg",
+    "summary": "Man gripen misstänkt för att ha hotat busschaufför.",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-17.22-olaga-hot-varberg/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 601290,
+    "datetime": "2025-09-18 16:57:56 +02:00",
+    "name": "18 september 16.43, Trafikolycka, Malmö",
+    "summary": "Personbil och cyklist i olycka, Sofielund.",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-16.43-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 601289,
+    "datetime": "2025-09-18 16:56:54 +02:00",
+    "name": "18 september 15.52, Brand, Lindesberg",
+    "summary": "Polisen biträder räddningstjänsten vid en villabrand i Rockhammar",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-15.52-brand-lindesberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 601291,
+    "datetime": "2025-09-18 16:59:06 +02:00",
+    "name": "18 september 16.19, Trafikolycka, Örebro",
+    "summary": "En påkörningsolycka har inträffat på E20/riksväg 50",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-16.19-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 601299,
+    "datetime": "2025-09-18 18:10:52 +02:00",
+    "name": "18 september 16.29, Fylleri/LOB, Härnösand",
+    "summary": "Centrum, polis kontaktas gällande påverkad man utanför matbutik",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-16.29-fyllerilob-harnosand/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 601292,
+    "datetime": "2025-09-18 18:03:12 +02:00",
+    "name": "18 september 18.00, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-18.00-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 601298,
+    "datetime": "2025-09-18 17:51:11 +02:00",
+    "name": "18 september 17.50, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-17.50-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 601297,
     "datetime": "2025-09-18 17:31:50 +02:00",
     "name": "18 september 17.19, Misshandel, Malmö",
@@ -57,42 +141,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 601291,
-    "datetime": "2025-09-18 16:59:06 +02:00",
-    "name": "18 september 16.19, Trafikolycka, Örebro",
-    "summary": "En påkörningsolycka har inträffat på E20/riksväg 50",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-16.19-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 601290,
-    "datetime": "2025-09-18 16:57:56 +02:00",
-    "name": "18 september 16.43, Trafikolycka, Malmö",
-    "summary": "Personbil och cyklist i olycka, Sofielund.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-16.43-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 601289,
-    "datetime": "2025-09-18 16:56:54 +02:00",
-    "name": "18 september 15.52, Brand, Lindesberg",
-    "summary": "Polisen biträder räddningstjänsten vid en villabrand i Rockhammar",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-15.52-brand-lindesberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 600540,
-    "datetime": "2025-09-11 13:50:19 +02:00",
-    "name": "11 september 11.14, Motorfordon, stöld, Sunne",
-    "summary": "En man i trettiofemårsåldern har gripits misstänkt för stöld av motorfordon.",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-11.14-motorfordon-stold-sunne/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Sunne",
-      "gps": "59.836558,13.144046"
-    }
-  },
-  {
-    "id": 600539,
-    "datetime": "2025-09-11 13:46:04 +02:00",
-    "name": "11 september 12.03, Trafikolycka, personskada, Ljusdal",
-    "summary": "En ung pojke kolliderade med en personbil på Kjedjegatan. Pojken färdades på en elsparkcykel.",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-12.03-trafikolycka-personskada-ljusdal/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Ljusdal",
-      "gps": "61.830839,16.08175"
-    }
-  },
-  {
-    "id": 600535,
-    "datetime": "2025-09-11 13:36:27 +02:00",
-    "name": "11 september 11.40, Trafikolycka, personskada, Västerås",
-    "summary": "En bilist kolliderade med en cyklist på ett övergångsställe vid Skallbergsmotet vid E18.",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-11.40-trafikolycka-personskada-vasteras/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 600533,
-    "datetime": "2025-09-11 13:28:06 +02:00",
-    "name": "11 september 12.39, Trafikolycka, Härnösand",
-    "summary": "Gådeåstaden, en trafikolycka har inträffat vid Storgatan/Södra vägen",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-12.39-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   }
 ]
