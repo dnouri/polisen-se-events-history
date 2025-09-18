@@ -1,5 +1,41 @@
 [
   {
+    "id": 601241,
+    "datetime": "2025-09-18 8:33:56 +02:00",
+    "name": "18 september 08.02, Trafikolycka, Göteborg",
+    "summary": "I Kyrkbyn, Hisingen, kolliderar en personbil och en elspark/elscooter.",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-08.02-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 601240,
+    "datetime": "2025-09-18 8:32:24 +02:00",
+    "name": "18 september 08.10, Trafikolycka, Uddevalla",
+    "summary": "Tåg och personbil i olycka vid Kasen. Sammanstötningen ska ha skett i låg hastighet, ingen person uppges ha ko",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-08.10-trafikolycka-uddevalla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 601235,
+    "datetime": "2025-09-18 8:18:51 +02:00",
+    "name": "18 september 08.03, Trafikolycka, Älmhult",
+    "summary": "En trafikolycka mellan en personbil och en cyklist inträffar på Delaryvägen.",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-08.03-trafikolycka-almhult/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Älmhult",
+      "gps": "56.552446,14.137405"
+    }
+  },
+  {
     "id": 601231,
     "datetime": "2025-09-18 7:25:35 +02:00",
     "name": "17 september 19.44, Brand, Skara",
@@ -9,6 +45,42 @@
     "location": {
       "name": "Skara",
       "gps": "58.386013,13.439328"
+    }
+  },
+  {
+    "id": 601232,
+    "datetime": "2025-09-18 7:56:06 +02:00",
+    "name": "18 september 07.54, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-07.54-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 601233,
+    "datetime": "2025-09-18 7:55:35 +02:00",
+    "name": "18 september 07.54, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-07.54-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 601234,
+    "datetime": "2025-09-18 7:55:09 +02:00",
+    "name": "18 september 07.54, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/september/18/18-september-07.54-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 600487,
-    "datetime": "2025-09-11 7:06:39 +02:00",
-    "name": "11 september 07.05, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-07.05-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 600486,
-    "datetime": "2025-09-11 7:05:58 +02:00",
-    "name": "11 september 07.04, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-07.04-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 600485,
-    "datetime": "2025-09-11 7:04:20 +02:00",
-    "name": "11 september 07.00, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-07.00-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 600483,
-    "datetime": "2025-09-11 6:56:32 +02:00",
-    "name": "11 september 06.52, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-06.52-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 600482,
-    "datetime": "2025-09-11 6:52:54 +02:00",
-    "name": "11 september 06.48, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-06.48-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 600480,
-    "datetime": "2025-09-11 6:37:01 +02:00",
-    "name": "11 september 02.49, Inbrott, Växjö",
-    "summary": "Inbrott i företag.",
-    "url": "/aktuellt/handelser/2025/september/11/11-september-02.49-inbrott-vaxjo/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
