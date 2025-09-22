@@ -1,5 +1,113 @@
 [
   {
+    "id": 603690,
+    "datetime": "2025-09-22 20:35:25 +02:00",
+    "name": "22 september 19.15, Kontroll person/fordon, Malmö",
+    "summary": "Aggressiv man, centrum.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-19.15-kontroll-personfordon-malmo/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 603691,
+    "datetime": "2025-09-22 20:35:01 +02:00",
+    "name": "22 september 20.23, Mord/dråp, försök, Västra Götalands län",
+    "summary": "En person gripen misstänkt för försök till mord.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-20.23-morddrap-forsok-vastra-gotalands-lan/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 603679,
+    "datetime": "2025-09-22 18:07:20 +02:00",
+    "name": "22 september 17.22, Trafikolycka, Mark",
+    "summary": "En personbil och en timmerbil är involverade i en olycka på länsväg 503 vid Sätila.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-17.22-trafikolycka-mark/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
+    "id": 603688,
+    "datetime": "2025-09-22 20:16:05 +02:00",
+    "name": "22 september 19.10, Trafikolycka, Piteå",
+    "summary": "Piteå, trafikolycka på Furunäsvägen.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-19.10-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 603684,
+    "datetime": "2025-09-22 20:09:21 +02:00",
+    "name": "22 september 18.24, Skadegörelse, Sollefteå",
+    "summary": "Sollefteå, skadegörelse på butik.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-18.24-skadegorelse-solleftea/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 603689,
+    "datetime": "2025-09-22 20:06:33 +02:00",
+    "name": "22 september 19.02, Stöld, Östersund",
+    "summary": "Östersund, kvinna misstänks för stöld i butik.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-19.02-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 603672,
+    "datetime": "2025-09-22 20:01:09 +02:00",
+    "name": "22 september 16.43, Rattfylleri, Västerås",
+    "summary": "Förare misstänkt för rattfylleri efter olycka.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-16.43-rattfylleri-vasteras/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 603686,
+    "datetime": "2025-09-22 19:51:42 +02:00",
+    "name": "22 september 19.09, Trafikolycka, Gällivare",
+    "summary": "Singelolycka på E45 söder om Gällivare.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-19.09-trafikolycka-gallivare/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gällivare",
+      "gps": "67.1379,20.659362"
+    }
+  },
+  {
+    "id": 603685,
+    "datetime": "2025-09-22 19:48:05 +02:00",
+    "name": "22 september 19.15, Trafikolycka, personskada, Stockholm",
+    "summary": "Olycka mellan motorcyklist och cyklist.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-19.15-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 603683,
     "datetime": "2025-09-22 19:35:20 +02:00",
     "name": "22 september 16.39, Rattfylleri, Luleå",
@@ -57,18 +165,6 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 603679,
-    "datetime": "2025-09-22 18:07:20 +02:00",
-    "name": "22 september 17.22, Trafikolycka, Mark",
-    "summary": "En personbil och en timmerbil är involverade i en olycka på länsväg 503 vid Sätila.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-17.22-trafikolycka-mark/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 600969,
-    "datetime": "2025-09-15 18:52:58 +02:00",
-    "name": "15 september 18.42, Brand, Eslöv",
-    "summary": "Brand på gård utanför Stehag.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-18.42-brand-eslov/",
-    "type": "Brand",
-    "location": {
-      "name": "Eslöv",
-      "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 600982,
-    "datetime": "2025-09-15 20:53:08 +02:00",
-    "name": "15 september 19.59, Misshandel, Helsingborg",
-    "summary": "Bråk på Västra Sandgatan.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-19.59-misshandel-helsingborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 600981,
-    "datetime": "2025-09-15 20:45:23 +02:00",
-    "name": "15 september 17.11, Narkotikabrott, Sollentuna",
-    "summary": "En misstänkt för narkotikabrott efter larm om bråk i bostad.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-17.11-narkotikabrott-sollentuna/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 600976,
-    "datetime": "2025-09-15 20:00:19 +02:00",
-    "name": "15 september 19.45, Trafikolycka, vilt, Vetlanda",
-    "summary": "Två fordon körde på älg",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-19.45-trafikolycka-vilt-vetlanda/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Vetlanda",
-      "gps": "57.42746,15.08533"
-    }
-  },
-  {
-    "id": 600980,
-    "datetime": "2025-09-15 20:40:49 +02:00",
-    "name": "15 september 20.39, Efterlyst person, Älvdalen",
-    "summary": "Polispatrull har anträffat en efterlyst person.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-20.39-efterlyst-person-alvdalen/",
-    "type": "Efterlyst person",
-    "location": {
-      "name": "Älvdalen",
-      "gps": "61.227306,14.041987"
-    }
-  },
-  {
-    "id": 600979,
-    "datetime": "2025-09-15 20:33:17 +02:00",
-    "name": "15 september 20.33, Luftfartslagen, Luleå",
-    "summary": "Anmälan om brott mot luftfartslagen.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-20.33-luftfartslagen-lulea/",
-    "type": "Luftfartslagen",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 600957,
-    "datetime": "2025-09-15 16:09:11 +02:00",
-    "name": "15 september 15.58, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-15.58-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 600977,
-    "datetime": "2025-09-15 20:01:32 +02:00",
-    "name": "15 september 15.10, Brand, Enköping",
-    "summary": "Brand i byggnad.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-15.10-brand-enkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
     }
   }
 ]
