@@ -1,5 +1,101 @@
 [
   {
+    "id": 603680,
+    "datetime": "2025-09-22 18:30:13 +02:00",
+    "name": "22 september 18.00, Trafikolycka, Norrköping",
+    "summary": "Lastbil i mitträcket på E4.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-18.00-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 603666,
+    "datetime": "2025-09-22 17:08:15 +02:00",
+    "name": "22 september 16.46, Försvunnen person, Askersund",
+    "summary": "Den försvunna mannen är anträffad.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-16.46-forsvunnen-person-askersund/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 603679,
+    "datetime": "2025-09-22 18:07:20 +02:00",
+    "name": "22 september 17.22, Trafikolycka, Mark",
+    "summary": "En personbil och en timmerbil är involverade i en olycka på länsväg 503 vid Sätila.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-17.22-trafikolycka-mark/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
+    "id": 603669,
+    "datetime": "2025-09-22 18:03:30 +02:00",
+    "name": "22 september 14.42, Stöld, Västerås",
+    "summary": "Man gripen misstänkt för stöld.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-14.42-stold-vasteras/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 603678,
+    "datetime": "2025-09-22 17:51:56 +02:00",
+    "name": "22 september 16.00, Fylleri/LOB, Luleå",
+    "summary": "Luleå, person omhändertagen.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-16.00-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 603676,
+    "datetime": "2025-09-22 17:49:57 +02:00",
+    "name": "22 september 17.07, Trafikolycka, Västerås",
+    "summary": "Flera fordon inblandade i trafikolycka.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-17.07-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 603657,
+    "datetime": "2025-09-22 16:03:11 +02:00",
+    "name": "22 september 15.57, Trafikolycka, Söderköping",
+    "summary": "Trafikolycka med personbil och traktor.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-15.57-trafikolycka-soderkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Söderköping",
+      "gps": "58.475901,16.323431"
+    }
+  },
+  {
+    "id": 603675,
+    "datetime": "2025-09-22 17:47:06 +02:00",
+    "name": "22 september 17.09, Trafikolycka, Laxå",
+    "summary": "En singelolycka har inträffat på E20.",
+    "url": "/aktuellt/handelser/2025/september/22/22-september-17.09-trafikolycka-laxa/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Laxå",
+      "gps": "58.98269,14.62289"
+    }
+  },
+  {
     "id": 603674,
     "datetime": "2025-09-22 17:40:44 +02:00",
     "name": "22 september 16.58, Fylleri/LOB, Stockholm",
@@ -9,18 +105,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 603666,
-    "datetime": "2025-09-22 17:08:15 +02:00",
-    "name": "22 september 16.46, Försvunnen person, Askersund",
-    "summary": "Polisen söker efter en försvunnen man i Askersund.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-16.46-forsvunnen-person-askersund/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
     }
   },
   {
@@ -81,18 +165,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 603657,
-    "datetime": "2025-09-22 16:03:11 +02:00",
-    "name": "22 september 15.57, Trafikolycka, Söderköping",
-    "summary": "Trafikolycka med personbil och traktor.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-15.57-trafikolycka-soderkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Söderköping",
-      "gps": "58.475901,16.323431"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 600973,
-    "datetime": "2025-09-15 19:11:46 +02:00",
-    "name": "15 september 14.01, Fjällräddning, Jokkmokk",
-    "summary": "Fjällräddnings i Sareks nationalpark.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-14.01-fjallraddning-jokkmokk/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 600972,
-    "datetime": "2025-09-15 19:08:46 +02:00",
-    "name": "15 september 19.08, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-19.08-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 600971,
-    "datetime": "2025-09-15 18:55:14 +02:00",
-    "name": "15 september 17.37, Knivlagen, Stockholm",
-    "summary": "Personal på en snabbmatsrestaurang larmar polisen om en man som säljer vapes till minderåriga.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-17.37-knivlagen-stockholm/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 600970,
-    "datetime": "2025-09-15 18:55:04 +02:00",
-    "name": "15 september 18.12, Trafikolycka, Umeå",
-    "summary": "Trafikolycka på Järnvägsallén/Östra kyrkogatan, Öst på stan.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-18.12-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 600968,
-    "datetime": "2025-09-15 18:41:29 +02:00",
-    "name": "15 september 16.29, Trafikolycka, personskada, Orust",
-    "summary": "På länsväg 752 vid Röra är det två bilister som kolliderar.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-16.29-trafikolycka-personskada-orust/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Orust",
-      "gps": "58.180267,11.675984"
-    }
-  },
-  {
-    "id": 600967,
-    "datetime": "2025-09-15 18:16:15 +02:00",
-    "name": "15 september 15.44, Stöld, försök, Luleå",
-    "summary": "Förberedelse till stöld i Luleå.",
-    "url": "/aktuellt/handelser/2025/september/15/15-september-15.44-stold-forsok-lulea/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
