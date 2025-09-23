@@ -1,17 +1,5 @@
 [
   {
-    "id": 603827,
-    "datetime": "2025-09-23 17:16:42 +02:00",
-    "name": "23 september 16.36, Trafikolycka, Karlstad",
-    "summary": "Polisen är på plats vid en trafikolycka på E18.",
-    "url": "/aktuellt/handelser/2025/september/23/23-september-16.36-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
     "id": 603810,
     "datetime": "2025-09-23 15:58:11 +02:00",
     "name": "23 september 14.37, Försvunnen person, Uppsala",
@@ -21,6 +9,66 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 603831,
+    "datetime": "2025-09-23 18:30:00 +02:00",
+    "name": "23 september 17.04, Kontroll person/fordon, Stockholm",
+    "summary": "Polisen genomför en kontroll i ett flerfamiljshus i Kista.",
+    "url": "/aktuellt/handelser/2025/september/23/23-september-17.04-kontroll-personfordon-stockholm/",
+    "type": "Kontroll person/fordon",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 601521,
+    "datetime": "2025-09-20 18:57:18 +02:00",
+    "name": "20 september 18.15, Skottlossning, Norrköping",
+    "summary": "Polisinsats i Ektorp efter skottlossning.",
+    "url": "/aktuellt/handelser/2025/september/20/20-september-18.15-skottlossning-norrkoping/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 603830,
+    "datetime": "2025-09-23 18:28:03 +02:00",
+    "name": "23 september 18.11, Brand, Båstad",
+    "summary": "Brand i bil.",
+    "url": "/aktuellt/handelser/2025/september/23/23-september-18.11-brand-bastad/",
+    "type": "Brand",
+    "location": {
+      "name": "Båstad",
+      "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 603828,
+    "datetime": "2025-09-23 18:00:36 +02:00",
+    "name": "23 september 18.00, Övrigt, Örebro",
+    "summary": "Polisen genomför under kvällen en övning på polishuset i Örebro.",
+    "url": "/aktuellt/handelser/2025/september/23/23-september-18.00-ovrigt-orebro/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 603827,
+    "datetime": "2025-09-23 17:16:42 +02:00",
+    "name": "23 september 16.36, Trafikolycka, Karlstad",
+    "summary": "Polisen är på plats vid en trafikolycka på E18.",
+    "url": "/aktuellt/handelser/2025/september/23/23-september-16.36-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -1785,18 +1833,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 601521,
-    "datetime": "2025-09-20 18:57:18 +02:00",
-    "name": "20 september 18.15, Skottlossning, Norrköping",
-    "summary": "Polisinsats i Ektorp efter skottlossning.",
-    "url": "/aktuellt/handelser/2025/september/20/20-september-18.15-skottlossning-norrkoping/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norberg",
       "gps": "60.065042,15.923796"
-    }
-  },
-  {
-    "id": 601071,
-    "datetime": "2025-09-16 19:13:13 +02:00",
-    "name": "16 september 15.43, Rån, Landskrona",
-    "summary": "Man rånad på elsparkcykel.",
-    "url": "/aktuellt/handelser/2025/september/16/16-september-15.43-ran-landskrona/",
-    "type": "Rån",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
-    "id": 601070,
-    "datetime": "2025-09-16 18:31:31 +02:00",
-    "name": "16 september 16.52, Brand, Sundsvall",
-    "summary": "Rökutveckling i lägenhet på Haga.",
-    "url": "/aktuellt/handelser/2025/september/16/16-september-16.52-brand-sundsvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 601069,
-    "datetime": "2025-09-16 18:22:56 +02:00",
-    "name": "16 september 17.09, Misshandel, Göteborg",
-    "summary": "Två omhändertagna enligt LOB efter bråklarm.",
-    "url": "/aktuellt/handelser/2025/september/16/16-september-17.09-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
