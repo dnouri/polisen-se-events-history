@@ -1,5 +1,125 @@
 [
   {
+    "id": 604003,
+    "datetime": "2025-09-25 16:26:02 +02:00",
+    "name": "25 september 14.12, Skadegörelse, Sundsvall",
+    "summary": "Sundsvall, misstänkt skadegörelse på Södermalm.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-14.12-skadegorelse-sundsvall/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 604149,
+    "datetime": "2025-09-25 16:25:42 +02:00",
+    "name": "25 september 13.49, Bedrägeri, Gävle",
+    "summary": "Anmälan om försök till bedrägeri.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-13.49-bedrageri-gavle/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 604148,
+    "datetime": "2025-09-25 16:25:09 +02:00",
+    "name": "25 september 16.08, Trafikolycka, Kristinehamn",
+    "summary": "Två bilister har kollider på E 18 i västlig riktning strax innan södra Mon.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-16.08-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 604147,
+    "datetime": "2025-09-25 16:24:27 +02:00",
+    "name": "25 september 13.49, Trafikolycka, Östersund",
+    "summary": "Östersund, trafikolycka i centrum.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-13.49-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 604146,
+    "datetime": "2025-09-25 16:20:19 +02:00",
+    "name": "25 september 12.55, Stöld, Uppsala",
+    "summary": "Man misstänkt för ringa stöld.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-12.55-stold-uppsala/",
+    "type": "Stöld",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 604145,
+    "datetime": "2025-09-25 16:19:02 +02:00",
+    "name": "25 september 12.03, Stöld, Östersund",
+    "summary": "Östersund, misstänkt stöld i butik.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-12.03-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 604144,
+    "datetime": "2025-09-25 16:15:37 +02:00",
+    "name": "25 september 13.31, Brand, Strömsund",
+    "summary": "Backe, bilbrand utan misstanke om brott.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-13.31-brand-stromsund/",
+    "type": "Brand",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 604042,
+    "datetime": "2025-09-25 16:12:14 +02:00",
+    "name": "25 september 13.52, Trafikolycka, Uppsala",
+    "summary": "Person påkörd.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-13.52-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 604032,
+    "datetime": "2025-09-25 16:11:40 +02:00",
+    "name": "25 september 16.06, Trafikolycka, Örebro",
+    "summary": "Bilist och elsparkcyklist i kollision på öster i Örebro.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-16.06-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 604002,
+    "datetime": "2025-09-25 15:40:17 +02:00",
+    "name": "25 september 15.35, Trafikbrott, Jönköpings län",
+    "summary": "Sammanfattning nationell trafikvecka fokus hastighet.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-15.35-trafikbrott-jonkopings-lan/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 604001,
     "datetime": "2025-09-25 15:35:40 +02:00",
     "name": "25 september 15.34, Trafikbrott, Östergötlands län",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 601284,
-    "datetime": "2025-09-18 16:02:32 +02:00",
-    "name": "18 september 15.42, Trafikolycka, personskada, Strömstad",
-    "summary": "Fotgängare och EPA i trafikolycka.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-15.42-trafikolycka-personskada-stromstad/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Strömstad",
-      "gps": "58.938346,11.179187"
-    }
-  },
-  {
-    "id": 601286,
-    "datetime": "2025-09-18 16:33:08 +02:00",
-    "name": "18 september 16.22, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-16.22-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 601285,
-    "datetime": "2025-09-18 16:21:58 +02:00",
-    "name": "18 september 15.04, Stöld, Östersund",
-    "summary": "Norr, tonåring stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-15.04-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 601283,
-    "datetime": "2025-09-18 15:44:27 +02:00",
-    "name": "18 september 14.51, Stöld, Umeå",
-    "summary": "Röbäck, ung person stoppad efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-14.51-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 601279,
-    "datetime": "2025-09-18 13:32:17 +02:00",
-    "name": "18 september 12.15, Våld/hot mot tjänsteman, Örebro",
-    "summary": "Polis beordrades efter överfallslarm på buss.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-12.15-valdhot-mot-tjansteman-orebro/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 598797,
-    "datetime": "2025-08-26 12:51:59 +02:00",
-    "name": "18 september 12.27, Anträffad död, Karlstad",
-    "summary": "Uppdatering",
-    "url": "/aktuellt/handelser/2025/augusti/26/18-september-12.27-antraffad-dod-karlstad/",
-    "type": "Anträffad död",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 601278,
-    "datetime": "2025-09-18 13:25:51 +02:00",
-    "name": "18 september 13.25, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-13.25-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 601277,
-    "datetime": "2025-09-18 13:24:30 +02:00",
-    "name": "18 september 13.24, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från några av förmiddagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-13.24-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 601276,
-    "datetime": "2025-09-18 13:22:49 +02:00",
-    "name": "18 september 13.22, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-13.22-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 601275,
-    "datetime": "2025-09-18 13:19:41 +02:00",
-    "name": "18 september 13.19, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-13.19-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
