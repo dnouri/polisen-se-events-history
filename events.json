@@ -1,5 +1,53 @@
 [
   {
+    "id": 604001,
+    "datetime": "2025-09-25 15:35:40 +02:00",
+    "name": "25 september 15.34, Trafikbrott, Östergötlands län",
+    "summary": "Sammanfattning nationell trafikvecka - fokus hastighet",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-15.34-trafikbrott-ostergotlands-lan/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 603994,
+    "datetime": "2025-09-25 13:45:44 +02:00",
+    "name": "25 september 13.39, Trafikolycka, Jönköping",
+    "summary": "Olycka på E4.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-13.39-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 604000,
+    "datetime": "2025-09-25 15:34:09 +02:00",
+    "name": "25 september 15.32, Trafikbrott, Södermanlands län",
+    "summary": "Sammanfattning nationell trafikvecka fokus hastighet.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-15.32-trafikbrott-sodermanlands-lan/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 603992,
+    "datetime": "2025-09-25 13:38:55 +02:00",
+    "name": "25 september 13.12, Mord/dråp, försök, Stockholm",
+    "summary": "Kvinna påträffas skadad utomhus.",
+    "url": "/aktuellt/handelser/2025/september/25/25-september-13.12-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 603996,
     "datetime": "2025-09-25 14:52:55 +02:00",
     "name": "25 september 12.45, Misshandel, Gävle",
@@ -36,18 +84,6 @@
     }
   },
   {
-    "id": 603994,
-    "datetime": "2025-09-25 13:45:44 +02:00",
-    "name": "25 september 13.39, Trafikolycka, Jönköping",
-    "summary": "Olycka på E4.",
-    "url": "/aktuellt/handelser/2025/september/25/25-september-13.39-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
     "id": 603993,
     "datetime": "2025-09-25 13:44:33 +02:00",
     "name": "25 september 13.11, Trafikolycka, Lund",
@@ -81,18 +117,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 603992,
-    "datetime": "2025-09-25 13:38:55 +02:00",
-    "name": "25 september 13.12, Mord/dråp, försök, Stockholm",
-    "summary": "Kvinna påträffas skadad utomhus.",
-    "url": "/aktuellt/handelser/2025/september/25/25-september-13.12-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 601272,
-    "datetime": "2025-09-18 13:01:47 +02:00",
-    "name": "18 september 13.01, Övrigt, Skara",
-    "summary": "Pressträff med anledning av det senaste dygnets bränder i Skara.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-13.01-ovrigt-skara/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Skara",
-      "gps": "58.386013,13.439328"
-    }
-  },
-  {
-    "id": 601270,
-    "datetime": "2025-09-18 12:46:06 +02:00",
-    "name": "18 september 10.37, Inbrott, Salem",
-    "summary": "Polis larmas om pågående inbrott i Rönninge.",
-    "url": "/aktuellt/handelser/2025/september/18/18-september-10.37-inbrott-salem/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Salem",
-      "gps": "59.20768,17.774222"
     }
   }
 ]
