@@ -1,23 +1,71 @@
 [
   {
-    "id": 604331,
-    "datetime": "2025-09-26 20:50:26 +02:00",
-    "name": "26 september 20.20, Övrigt, Eskilstuna",
-    "summary": "Larm om smällar",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-20.20-ovrigt-eskilstuna/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
     "id": 604330,
     "datetime": "2025-09-26 20:45:39 +02:00",
     "name": "26 september 19.57, Brand, Eskilstuna",
     "summary": "Brand i industrilokal",
     "url": "/aktuellt/handelser/2025/september/26/26-september-19.57-brand-eskilstuna/",
     "type": "Brand",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 604335,
+    "datetime": "2025-09-26 21:16:02 +02:00",
+    "name": "26 september 20.51, Fylleri/LOB, Örebro",
+    "summary": "Berusad person omhändertagen på offentlig tillställning.",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-20.51-fyllerilob-orebro/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 604334,
+    "datetime": "2025-09-26 21:11:03 +02:00",
+    "name": "26 september 20.12, Rattfylleri, Vingåker",
+    "summary": "Brottsmisstanke efter singelolycka",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-20.12-rattfylleri-vingaker/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Vingåker",
+      "gps": "59.043375,15.870939"
+    }
+  },
+  {
+    "id": 604333,
+    "datetime": "2025-09-26 21:05:30 +02:00",
+    "name": "26 september 20.02, Brand, Sundsvall",
+    "summary": "Larm om brand i en personbil på E14, Vattjom.",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-20.02-brand-sundsvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 604332,
+    "datetime": "2025-09-26 20:57:24 +02:00",
+    "name": "26 september 20.53, Fylleri/LOB, Falun",
+    "summary": "Agiterad och påverkad kvinna omhändertagen i Falun.",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-20.53-fyllerilob-falun/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 604331,
+    "datetime": "2025-09-26 20:50:26 +02:00",
+    "name": "26 september 20.20, Övrigt, Eskilstuna",
+    "summary": "Larm om smällar",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-20.20-ovrigt-eskilstuna/",
+    "type": "Övrigt",
     "location": {
       "name": "Eskilstuna",
       "gps": "59.371249,16.509805"
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Ale",
       "gps": "57.841175,12.029249"
-    }
-  },
-  {
-    "id": 601450,
-    "datetime": "2025-09-19 22:27:30 +02:00",
-    "name": "19 september 20.53, Övrigt, Nacka",
-    "summary": "Polisen får samtal om kraftig smäll i Igelboda.",
-    "url": "/aktuellt/handelser/2025/september/19/19-september-20.53-ovrigt-nacka/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 601449,
-    "datetime": "2025-09-19 22:02:10 +02:00",
-    "name": "19 september 20.28, Trafikbrott, Stockholm",
-    "summary": "Mopedist och bilist inblandad i trafikolycka på Södermalm.",
-    "url": "/aktuellt/handelser/2025/september/19/19-september-20.28-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 601447,
-    "datetime": "2025-09-19 22:01:51 +02:00",
-    "name": "19 september 22.00, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2025/september/19/19-september-22.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 601448,
-    "datetime": "2025-09-19 22:01:46 +02:00",
-    "name": "19 september 22.00, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2025/september/19/19-september-22.00-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
