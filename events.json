@@ -1,5 +1,41 @@
 [
   {
+    "id": 604262,
+    "datetime": "2025-09-26 12:12:01 +02:00",
+    "name": "26 september 11.37, Trafikolycka, Jönköping",
+    "summary": "Lastbil och personbil i krock på E4.",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-11.37-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 604267,
+    "datetime": "2025-09-26 13:14:42 +02:00",
+    "name": "26 september 12.35, Trafikolycka, Skellefteå",
+    "summary": "Skellefteå, trafikolycka på Anderstorp.",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-12.35-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 604260,
+    "datetime": "2025-09-26 11:24:05 +02:00",
+    "name": "26 september 11.11, Trafikolycka, Rättvik",
+    "summary": "En trafikolycka har inträffat på länsväg 301/länsväg 898",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-11.11-trafikolycka-rattvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Rättvik",
+      "gps": "60.889025,15.123373"
+    }
+  },
+  {
     "id": 604265,
     "datetime": "2025-09-26 12:43:07 +02:00",
     "name": "26 september 12.39, Brand, Forshaga",
@@ -12,6 +48,18 @@
     }
   },
   {
+    "id": 604266,
+    "datetime": "2025-09-26 12:46:51 +02:00",
+    "name": "26 september 12.46, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat från några av förmiddagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/september/26/26-september-12.46-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 604261,
     "datetime": "2025-09-26 11:59:29 +02:00",
     "name": "26 september 11.57, Trafikolycka, Linköping",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 604262,
-    "datetime": "2025-09-26 12:12:01 +02:00",
-    "name": "26 september 11.37, Trafikolycka, Jönköping",
-    "summary": "Lastbil och personbil i krock på E4.",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-11.37-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -105,18 +141,6 @@
     "location": {
       "name": "Ulricehamn",
       "gps": "57.794789,13.420516"
-    }
-  },
-  {
-    "id": 604260,
-    "datetime": "2025-09-26 11:24:05 +02:00",
-    "name": "26 september 11.11, Trafikolycka, Rättvik",
-    "summary": "En trafikolycka har inträffat på länsväg 301/länsväg 898",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-11.11-trafikolycka-rattvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Rättvik",
-      "gps": "60.889025,15.123373"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 601409,
-    "datetime": "2025-09-19 15:44:30 +02:00",
-    "name": "19 september 13.50, Fylleri/LOB, Luleå",
-    "summary": "Innerstaden, polisen kontaktas gällande en berusad man",
-    "url": "/aktuellt/handelser/2025/september/19/19-september-13.50-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 601408,
-    "datetime": "2025-09-19 15:41:15 +02:00",
-    "name": "19 september 12.38, Arbetsplatsolycka, Luleå",
-    "summary": "Luleå, en man uppges ha fått en ställning över sig",
-    "url": "/aktuellt/handelser/2025/september/19/19-september-12.38-arbetsplatsolycka-lulea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
