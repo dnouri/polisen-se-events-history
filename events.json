@@ -1,5 +1,65 @@
 [
   {
+    "id": 604589,
+    "datetime": "2025-09-29 20:31:18 +02:00",
+    "name": "29 september 18.30, Våld/hot mot tjänsteman, Göteborg",
+    "summary": "Ordningsvakt kontaktar polis gällande två stökiga personer på Backavägen i Kvillebäcken.",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-18.30-valdhot-mot-tjansteman-goteborg/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 604588,
+    "datetime": "2025-09-29 20:06:16 +02:00",
+    "name": "29 september 18.04, Fylleri/LOB, Luleå",
+    "summary": "Lulsundet, polis kontaktas gällande berusad man utomhus",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-18.04-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 604587,
+    "datetime": "2025-09-29 19:54:22 +02:00",
+    "name": "29 september 19.00, Trafikolycka, Halmstad",
+    "summary": "Polisen får in uppgifter om att en bilist och en cyklist varit inblandade i någon form av kollision på Vallås.",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-19.00-trafikolycka-halmstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 604586,
+    "datetime": "2025-09-29 19:51:08 +02:00",
+    "name": "29 september 15.41, Trafikkontroll, Umeå",
+    "summary": "Obbola, misstänkt drograttfylleri uppstäckt i samband med trafikkontroll",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-15.41-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 604558,
+    "datetime": "2025-09-29 16:11:28 +02:00",
+    "name": "29 september 14.54, Misshandel, grov, Kalmar",
+    "summary": "Tre personer som blivit misshandlade i Kalmar.",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-14.54-misshandel-grov-kalmar/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
     "id": 604585,
     "datetime": "2025-09-29 19:43:23 +02:00",
     "name": "29 september 16.21, Narkotikabrott, Skellefteå",
@@ -273,18 +333,6 @@
     "location": {
       "name": "Timrå",
       "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 604558,
-    "datetime": "2025-09-29 16:11:28 +02:00",
-    "name": "29 september 14.54, Misshandel, grov, Kalmar",
-    "summary": "Tre personer som blivit misshandlade i Kalmar.",
-    "url": "/aktuellt/handelser/2025/september/29/29-september-14.54-misshandel-grov-kalmar/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Berg",
       "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 603647,
-    "datetime": "2025-09-22 14:05:54 +02:00",
-    "name": "22 september 14.05, Skyddslagen, Karlstad",
-    "summary": "En kvinna i 40-årsåldern misstänks för brott mot skyddslagen.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-14.05-skyddslagen-karlstad/",
-    "type": "Skyddslagen",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 603646,
-    "datetime": "2025-09-22 14:00:44 +02:00",
-    "name": "22 september 11.39, Rattfylleri, Berg",
-    "summary": "Misstänkt drograttfylleri i Bergs kommun.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-11.39-rattfylleri-berg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Berg",
-      "gps": "62.772481,14.169867"
-    }
-  },
-  {
-    "id": 603641,
-    "datetime": "2025-09-22 13:55:24 +02:00",
-    "name": "22 september 13.55, Övrigt, Västra Götalands län",
-    "summary": "Mellan klockan 14-15 är presstalespersonen på möte. Frågor från media besvaras av vakthavande befäl i mån av t",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-13.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 603642,
-    "datetime": "2025-09-22 13:40:50 +02:00",
-    "name": "22 september 13.40, Stöld, försök, Eskilstuna",
-    "summary": "Mystisk man försökte ta sig in i annans bostad – polisen vädjar till allmänheten.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-13.40-stold-forsok-eskilstuna/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   }
 ]
