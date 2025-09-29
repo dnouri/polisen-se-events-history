@@ -1,5 +1,101 @@
 [
   {
+    "id": 604556,
+    "datetime": "2025-09-29 14:45:52 +02:00",
+    "name": "29 september 14.20, Stöld, Borlänge",
+    "summary": "En man är misstänkt för brott på Norra Backa",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-14.20-stold-borlange/",
+    "type": "Stöld",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 604555,
+    "datetime": "2025-09-29 14:34:50 +02:00",
+    "name": "29 september 14.34, Övrigt, Jönköping",
+    "summary": "Information till media",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-14.34-ovrigt-jonkoping/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 604554,
+    "datetime": "2025-09-29 14:34:27 +02:00",
+    "name": "29 september 14.34, Övrigt, Östergötlands län",
+    "summary": "Information till media",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-14.34-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 604553,
+    "datetime": "2025-09-29 14:34:04 +02:00",
+    "name": "29 september 14.32, Övrigt, Södermanlands län",
+    "summary": "Information till media",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-14.32-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 604552,
+    "datetime": "2025-09-29 14:32:41 +02:00",
+    "name": "29 september 13.37, Misshandel, Örebro",
+    "summary": "En pojke har blivit knuffad av en man i närhetten av Boglundsängen.",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-13.37-misshandel-orebro/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 604473,
+    "datetime": "2025-09-29 7:05:40 +02:00",
+    "name": "29 september 07.14, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-07.14-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 604550,
+    "datetime": "2025-09-29 13:56:23 +02:00",
+    "name": "29 september 12.53, Trafikolycka, Skellefteå",
+    "summary": "Trafikolycka på Erikslid, Skellefteå.",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-12.53-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 604544,
+    "datetime": "2025-09-29 13:49:25 +02:00",
+    "name": "29 september 11.57, Trafikolycka, Sundsvall",
+    "summary": "Trafikolycka på Norrmalm i Sundsvall.",
+    "url": "/aktuellt/handelser/2025/september/29/29-september-11.57-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 604541,
     "datetime": "2025-09-29 13:41:56 +02:00",
     "name": "29 september 10.37, Brand, Sandviken",
@@ -357,18 +453,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 604473,
-    "datetime": "2025-09-29 7:05:40 +02:00",
-    "name": "29 september 07.14, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
-    "url": "/aktuellt/handelser/2025/september/29/29-september-07.14-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 603597,
-    "datetime": "2025-09-22 7:00:09 +02:00",
-    "name": "22 september 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 603595,
-    "datetime": "2025-09-22 7:00:00 +02:00",
-    "name": "22 september 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 603603,
-    "datetime": "2025-09-22 6:58:41 +02:00",
-    "name": "22 september 03.14, Stöld, Båstad",
-    "summary": "Inbrott i lastbil.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-03.14-stold-bastad/",
-    "type": "Stöld",
-    "location": {
-      "name": "Båstad",
-      "gps": "56.427389,12.847722"
-    }
-  },
-  {
-    "id": 603602,
-    "datetime": "2025-09-22 6:53:16 +02:00",
-    "name": "22 september 01.32, Stöld, Klippan",
-    "summary": "Stöld ur lastbil.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-01.32-stold-klippan/",
-    "type": "Stöld",
-    "location": {
-      "name": "Klippan",
-      "gps": "56.1349,13.129041"
-    }
-  },
-  {
-    "id": 603601,
-    "datetime": "2025-09-22 6:51:53 +02:00",
-    "name": "22 september 06.51, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-06.51-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 603600,
-    "datetime": "2025-09-22 6:45:18 +02:00",
-    "name": "22 september 01.24, Skadegörelse, Kristianstad",
-    "summary": "En bil brinner på en parkeringsplats på Långebro.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-01.24-skadegorelse-kristianstad/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 603599,
-    "datetime": "2025-09-22 6:43:47 +02:00",
-    "name": "22 september 06.43, Sammanfattning natt, Jämtlands län",
-    "summary": "Nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2025/september/22/22-september-06.43-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
