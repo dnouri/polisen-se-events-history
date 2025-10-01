@@ -1,5 +1,53 @@
 [
   {
+    "id": 604872,
+    "datetime": "2025-10-01 16:26:28 +02:00",
+    "name": "01 oktober 15.55, Trafikolycka, Linköping",
+    "summary": "Lastbil och personbil i kollision på Kallerstadsleden",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-15.55-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 604800,
+    "datetime": "2025-10-01 14:01:21 +02:00",
+    "name": "01 oktober 13.28, Trafikolycka, Sollefteå",
+    "summary": "Ramsele, trafikolycka vid korsning länsväg 331/345.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-13.28-trafikolycka-solleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 604803,
+    "datetime": "2025-10-01 15:57:41 +02:00",
+    "name": "01 oktober 13.49, Brand, Knivsta",
+    "summary": "En villa i Vassunda meddelades vara övertänd. Inga personer kvar i villan.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-13.49-brand-knivsta/",
+    "type": "Brand",
+    "location": {
+      "name": "Knivsta",
+      "gps": "59.72612,17.792036"
+    }
+  },
+  {
+    "id": 604809,
+    "datetime": "2025-10-01 15:23:51 +02:00",
+    "name": "01 oktober 15.18, Trafikolycka, Eskilstuna",
+    "summary": "Två personbilar i krock.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-15.18-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 604811,
     "datetime": "2025-10-01 15:34:28 +02:00",
     "name": "01 oktober 15.21, Trafikolycka, Härryda",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Härryda",
       "gps": "57.691744,12.294416"
+    }
+  },
+  {
+    "id": 604815,
+    "datetime": "2025-10-01 15:45:54 +02:00",
+    "name": "01 oktober 12.26, Brand, Umeå",
+    "summary": "Larm om mindre brand på Norrlands universitetssjukhus.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-12.26-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -33,18 +93,6 @@
     "location": {
       "name": "Svalöv",
       "gps": "55.91293,13.101817"
-    }
-  },
-  {
-    "id": 604809,
-    "datetime": "2025-10-01 15:23:51 +02:00",
-    "name": "01 oktober 15.18, Trafikolycka, Eskilstuna",
-    "summary": "Två personbilar i krock.",
-    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-15.18-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -93,18 +141,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 604800,
-    "datetime": "2025-10-01 14:01:21 +02:00",
-    "name": "01 oktober 13.28, Trafikolycka, Sollefteå",
-    "summary": "Ramsele, trafikolycka vid korsning länsväg 331/345.",
-    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-13.28-trafikolycka-solleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sollefteå",
-      "gps": "63.165407,17.277135"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 603933,
-    "datetime": "2025-09-24 18:52:09 +02:00",
-    "name": "24 september 17.44, Kontroll person/fordon, Köping",
-    "summary": "Man som gick på E18.",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-17.44-kontroll-personfordon-koping/",
-    "type": "Kontroll person/fordon",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 603932,
-    "datetime": "2025-09-24 18:46:55 +02:00",
-    "name": "24 september 17.13, Rån, Malmö",
-    "summary": "Två personer blev rånade i samband med försäljning.",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-17.13-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 603931,
-    "datetime": "2025-09-24 18:24:52 +02:00",
-    "name": "24 september 16.02, Trafikolycka, Solna",
-    "summary": "Bil och lastbil inblandad i trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-16.02-trafikolycka-solna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
     }
   }
 ]
