@@ -1,5 +1,41 @@
 [
   {
+    "id": 604772,
+    "datetime": "2025-10-01 10:33:03 +02:00",
+    "name": "01 oktober 10.00, Brand, Haparanda",
+    "summary": "Nikkala, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-10.00-brand-haparanda/",
+    "type": "Brand",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 604771,
+    "datetime": "2025-10-01 10:25:50 +02:00",
+    "name": "01 oktober 09.09, Arbetsplatsolycka, Boden",
+    "summary": "Boden, olycka under arbete.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-09.09-arbetsplatsolycka-boden/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 604768,
+    "datetime": "2025-10-01 10:16:15 +02:00",
+    "name": "01 oktober 09.39, Trafikolycka, personskada, Gävle",
+    "summary": "En mopedist körde in i en stolpe och skadade ett ben på Storgatan i Strömsbro.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-09.39-trafikolycka-personskada-gavle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
     "id": 604759,
     "datetime": "2025-10-01 9:14:40 +02:00",
     "name": "01 oktober 09.11, Trafikolycka, Örebro",
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Gällivare",
       "gps": "67.1379,20.659362"
-    }
-  },
-  {
-    "id": 603903,
-    "datetime": "2025-09-24 14:08:20 +02:00",
-    "name": "24 september 13.06, Trafikkontroll, Boden",
-    "summary": "Resultat efter en trafikkontroll på länväg 616, Unbyn.",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-13.06-trafikkontroll-boden/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 603895,
-    "datetime": "2025-09-24 13:06:06 +02:00",
-    "name": "24 september 13.06, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-13.06-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 603891,
-    "datetime": "2025-09-24 12:06:33 +02:00",
-    "name": "24 september 11.28, Trafikolycka, Mora",
-    "summary": "En olycka har inträffat på E 45 norr om Mora",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-11.28-trafikolycka-mora/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
     }
   }
 ]
