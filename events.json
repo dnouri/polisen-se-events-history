@@ -1,11 +1,59 @@
 [
   {
+    "id": 604811,
+    "datetime": "2025-10-01 15:34:28 +02:00",
+    "name": "01 oktober 15.21, Trafikolycka, Härryda",
+    "summary": "Två personbilar i trafikolycka.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-15.21-trafikolycka-harryda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härryda",
+      "gps": "57.691744,12.294416"
+    }
+  },
+  {
+    "id": 604810,
+    "datetime": "2025-10-01 15:26:11 +02:00",
+    "name": "01 oktober 15.13, Trafikolycka, Kumla",
+    "summary": "Polisen är på väg till en trafikolycka på riksväg 52.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-15.13-trafikolycka-kumla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 604780,
+    "datetime": "2025-10-01 11:51:24 +02:00",
+    "name": "01 oktober 11.22, Arbetsplatsolycka, Svalöv",
+    "summary": "Arbetsplatsolycka i Tågarp, Svalöv.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-11.22-arbetsplatsolycka-svalov/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Svalöv",
+      "gps": "55.91293,13.101817"
+    }
+  },
+  {
+    "id": 604809,
+    "datetime": "2025-10-01 15:23:51 +02:00",
+    "name": "01 oktober 15.18, Trafikolycka, Eskilstuna",
+    "summary": "Två personbilar i krock.",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-15.18-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
     "id": 604807,
     "datetime": "2025-10-01 14:50:48 +02:00",
-    "name": "01 oktober 14.11, Kontroll person/fordon, Landskrona",
+    "name": "01 oktober 14.11, Olaga hot, Landskrona",
     "summary": "Hotfull person på skola",
-    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-14.11-kontroll-personfordon-landskrona/",
-    "type": "Kontroll person/fordon",
+    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-14.11-olaga-hot-landskrona/",
+    "type": "Olaga hot",
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
@@ -117,18 +165,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 604780,
-    "datetime": "2025-10-01 11:51:24 +02:00",
-    "name": "01 oktober 11.22, Arbetsplatsolycka, Svalöv",
-    "summary": "Arbetsplatsolycka i Tågarp, Svalöv.",
-    "url": "/aktuellt/handelser/2025/oktober/1/01-oktober-11.22-arbetsplatsolycka-svalov/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Svalöv",
-      "gps": "55.91293,13.101817"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 603930,
-    "datetime": "2025-09-24 18:23:28 +02:00",
-    "name": "24 september 17.52, Brand, Uppsala",
-    "summary": "Larm om brand.",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-17.52-brand-uppsala/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 603929,
-    "datetime": "2025-09-24 18:16:44 +02:00",
-    "name": "24 september 14.50, Ofredande/förargelse, Uppsala",
-    "summary": "Anmälan om förolämpning mot tjänsteman.",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-14.50-ofredandeforargelse-uppsala/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 603928,
-    "datetime": "2025-09-24 18:12:46 +02:00",
-    "name": "24 september 17.51, Arbetsplatsolycka, Uppvidinge",
-    "summary": "Arbetsplatsolycka i Alstermo, Uppvidinge",
-    "url": "/aktuellt/handelser/2025/september/24/24-september-17.51-arbetsplatsolycka-uppvidinge/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Uppvidinge",
-      "gps": "57.014575,15.381174"
     }
   }
 ]
