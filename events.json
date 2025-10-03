@@ -1,14 +1,62 @@
 [
   {
+    "id": 605228,
+    "datetime": "2025-10-03 21:17:38 +02:00",
+    "name": "03 oktober 20.29, Brand, Kramfors",
+    "summary": "Brand i källare i Brunne, Kramfors.",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-20.29-brand-kramfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 605227,
+    "datetime": "2025-10-03 21:09:32 +02:00",
+    "name": "03 oktober 21.09, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-21.09-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 605219,
+    "datetime": "2025-10-03 18:16:11 +02:00",
+    "name": "03 oktober 17.31, Mord/dråp, försök, Jönköping",
+    "summary": "En person skadad med tillhygge",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.31-morddrap-forsok-jonkoping/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
     "id": 605217,
     "datetime": "2025-10-03 17:58:01 +02:00",
     "name": "03 oktober 17.54, Mord/dråp, försök, Linköping",
-    "summary": "Larm om smällar",
+    "summary": "Man skadad efter skjutning",
     "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.54-morddrap-forsok-linkoping/",
     "type": "Mord/dråp, försök",
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 605226,
+    "datetime": "2025-10-03 20:42:54 +02:00",
+    "name": "03 oktober 17.12, Rattfylleri, Ragunda",
+    "summary": "Misstänkt rattfylleri i Hammarstrand.",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.12-rattfylleri-ragunda/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Ragunda",
+      "gps": "63.061337,16.396683"
     }
   },
   {
@@ -93,18 +141,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 605219,
-    "datetime": "2025-10-03 18:16:11 +02:00",
-    "name": "03 oktober 17.31, Mord/dråp, försök, Jönköping",
-    "summary": "En person skadad med tillhygge",
-    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.31-morddrap-forsok-jonkoping/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Haparanda",
       "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 604327,
-    "datetime": "2025-09-26 20:12:53 +02:00",
-    "name": "26 september 20.12, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-20.12-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 604326,
-    "datetime": "2025-09-26 20:11:57 +02:00",
-    "name": "26 september 20.11, Trafikkontroll, Jämtlands län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-20.11-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 604322,
-    "datetime": "2025-09-26 19:42:56 +02:00",
-    "name": "26 september 16.06, Rattfylleri, Lycksele",
-    "summary": "Misstänkt grovt rattfylleri, Lycksele.",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-16.06-rattfylleri-lycksele/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Lycksele",
-      "gps": "64.59581,18.676367"
     }
   }
 ]
