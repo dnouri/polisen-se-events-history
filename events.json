@@ -1,26 +1,74 @@
 [
   {
-    "id": 605221,
-    "datetime": "2025-10-03 19:25:30 +02:00",
-    "name": "03 oktober 17.00, Rattfylleri, Umeå",
-    "summary": "Misstänkt drograttfylleri i Umeå.",
-    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.00-rattfylleri-umea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
     "id": 605217,
     "datetime": "2025-10-03 17:58:01 +02:00",
-    "name": "03 oktober 17.54, Skottlossning, Linköping",
+    "name": "03 oktober 17.54, Mord/dråp, försök, Linköping",
     "summary": "Larm om smällar",
-    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.54-skottlossning-linkoping/",
-    "type": "Skottlossning",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.54-morddrap-forsok-linkoping/",
+    "type": "Mord/dråp, försök",
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 605214,
+    "datetime": "2025-10-03 17:31:41 +02:00",
+    "name": "03 oktober 15.53, Trafikolycka, personskada, Stenungsund",
+    "summary": "Larm inkommer via SOS om en trafikolycka på Hasselbackevägen. Det ska handla om en sammanstötning mellan perso",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-15.53-trafikolycka-personskada-stenungsund/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stenungsund",
+      "gps": "58.067839,11.829434"
+    }
+  },
+  {
+    "id": 605225,
+    "datetime": "2025-10-03 20:14:46 +02:00",
+    "name": "03 oktober 18.57, Narkotikabrott, Kiruna",
+    "summary": "Man i Kiruna misstänks för bruk av narkotika.",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-18.57-narkotikabrott-kiruna/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 605224,
+    "datetime": "2025-10-03 20:13:46 +02:00",
+    "name": "03 oktober 17.31, Misshandel, Stockholm",
+    "summary": "Två personer misstänks ha slagit varandra i en bostad i västra Stockholm. I bostaden finns också barn.",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.31-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 605223,
+    "datetime": "2025-10-03 19:58:11 +02:00",
+    "name": "03 oktober 19.55, Rån, Uddevalla",
+    "summary": "En inringare larmar polisen om ett pågående bråk i centrala Uddevalla.",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-19.55-ran-uddevalla/",
+    "type": "Rån",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 605208,
+    "datetime": "2025-10-03 16:18:38 +02:00",
+    "name": "03 oktober 15.35, Trafikolycka, singel, Västerås",
+    "summary": "Motorcykel körde av vägen.",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-15.35-trafikolycka-singel-vasteras/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -33,6 +81,18 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 605221,
+    "datetime": "2025-10-03 19:25:30 +02:00",
+    "name": "03 oktober 17.00, Rattfylleri, Umeå",
+    "summary": "Misstänkt drograttfylleri i Umeå.",
+    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-17.00-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -96,18 +156,6 @@
     }
   },
   {
-    "id": 605214,
-    "datetime": "2025-10-03 17:31:41 +02:00",
-    "name": "03 oktober 15.53, Trafikolycka, personskada, Stenungsund",
-    "summary": "Larm inkommer via SOS om en trafikolycka på Hasselbackevägen. Det ska handla om en sammanstötning mellan perso",
-    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-15.53-trafikolycka-personskada-stenungsund/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
     "id": 605213,
     "datetime": "2025-10-03 17:31:17 +02:00",
     "name": "03 oktober 14.07, Olovlig körning, Östersund",
@@ -153,18 +201,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 605208,
-    "datetime": "2025-10-03 16:18:38 +02:00",
-    "name": "03 oktober 15.35, Trafikolycka, singel, Västerås",
-    "summary": "Motorcykel körde av vägen.",
-    "url": "/aktuellt/handelser/2025/oktober/3/03-oktober-15.35-trafikolycka-singel-vasteras/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Lycksele",
       "gps": "64.59581,18.676367"
-    }
-  },
-  {
-    "id": 604324,
-    "datetime": "2025-09-26 19:38:01 +02:00",
-    "name": "26 september 19.29, Stöld, Karlstad",
-    "summary": "Stöld av mobiltelefoner, två personer gripna.",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-19.29-stold-karlstad/",
-    "type": "Stöld",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 604323,
-    "datetime": "2025-09-26 19:37:03 +02:00",
-    "name": "26 september 19.36, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-19.36-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 604321,
-    "datetime": "2025-09-26 19:29:38 +02:00",
-    "name": "26 september 19.30, Narkotikabrott, Borlänge",
-    "summary": "Polispatrull misstänker man för att vara påverkad av narkotika.",
-    "url": "/aktuellt/handelser/2025/september/26/26-september-19.30-narkotikabrott-borlange/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   }
 ]
