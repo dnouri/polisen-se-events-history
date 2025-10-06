@@ -1,5 +1,101 @@
 [
   {
+    "id": 606363,
+    "datetime": "2025-10-06 7:19:20 +02:00",
+    "name": "06 oktober 06.40, Trafikolycka, Härryda",
+    "summary": "Olycka på riksväg 40, I höjd med Landvettermotet och i riktning mot Göteborg.",
+    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-06.40-trafikolycka-harryda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Härryda",
+      "gps": "57.691744,12.294416"
+    }
+  },
+  {
+    "id": 606380,
+    "datetime": "2025-10-06 8:21:51 +02:00",
+    "name": "05 oktober 07.22, Narkotikabrott, Stockholms län",
+    "summary": "En ordningsvakt på Södermalm grep en man misstänkt för narkotikabrott.",
+    "url": "/aktuellt/handelser/2025/oktober/5/05-oktober-07.22-narkotikabrott-stockholms-lan/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 606379,
+    "datetime": "2025-10-06 8:14:40 +02:00",
+    "name": "06 oktober 06.45, Brand, Nordmaling",
+    "summary": "Strax väster om Nyåker, larm om brand i byggnad",
+    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-06.45-brand-nordmaling/",
+    "type": "Brand",
+    "location": {
+      "name": "Nordmaling",
+      "gps": "63.567106,19.505022"
+    }
+  },
+  {
+    "id": 606378,
+    "datetime": "2025-10-06 8:05:18 +02:00",
+    "name": "06 oktober 08.04, Sammanfattning natt, Östergötlands län",
+    "summary": "Sammanfattning av natten i länet",
+    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-08.04-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 606377,
+    "datetime": "2025-10-06 8:04:48 +02:00",
+    "name": "06 oktober 08.04, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av natten i länet",
+    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-08.04-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 606376,
+    "datetime": "2025-10-06 8:04:14 +02:00",
+    "name": "06 oktober 08.02, Trafikolycka, Söderköping",
+    "summary": "Cyklist och bilist i olycka på E22",
+    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-08.02-trafikolycka-soderkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Söderköping",
+      "gps": "58.475901,16.323431"
+    }
+  },
+  {
+    "id": 605330,
+    "datetime": "2025-10-05 12:58:30 +02:00",
+    "name": "05 oktober 12.58, Polisinsats/kommendering, Göteborg",
+    "summary": "Här följer löpande uppdatering gällande dagens fotbollsmatch.",
+    "url": "/aktuellt/handelser/2025/oktober/5/05-oktober-12.58-polisinsatskommendering-goteborg/",
+    "type": "Polisinsats/kommendering",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 606375,
+    "datetime": "2025-10-06 8:02:43 +02:00",
+    "name": "06 oktober 08.02, Sammanfattning natt, Jönköpings län",
+    "summary": "Sammanfattning av natten i länet",
+    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-08.02-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 606368,
     "datetime": "2025-10-06 7:41:04 +02:00",
     "name": "06 oktober 02.34, Stöld, Trelleborg",
@@ -93,18 +189,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 606363,
-    "datetime": "2025-10-06 7:19:20 +02:00",
-    "name": "06 oktober 06.40, Trafikolycka, Härryda",
-    "summary": "Olycka på riksväg 40, I höjd med Landvettermotet och i riktning mot Göteborg.",
-    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-06.40-trafikolycka-harryda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härryda",
-      "gps": "57.691744,12.294416"
     }
   },
   {
@@ -321,18 +405,6 @@
     "location": {
       "name": "Sjöbo",
       "gps": "55.634822,13.70337"
-    }
-  },
-  {
-    "id": 605330,
-    "datetime": "2025-10-05 12:58:30 +02:00",
-    "name": "05 oktober 12.58, Polisinsats/kommendering, Göteborg",
-    "summary": "Här följer löpande uppdatering gällande dagens fotbollsmatch.",
-    "url": "/aktuellt/handelser/2025/oktober/5/05-oktober-12.58-polisinsatskommendering-goteborg/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 604534,
-    "datetime": "2025-09-29 12:47:09 +02:00",
-    "name": "29 september 11.36, Stöld, Eda",
-    "summary": "Två personer är misstänkta för brott i Charlottenberg",
-    "url": "/aktuellt/handelser/2025/september/29/29-september-11.36-stold-eda/",
-    "type": "Stöld",
-    "location": {
-      "name": "Eda",
-      "gps": "59.83754,12.314031"
-    }
-  },
-  {
-    "id": 604532,
-    "datetime": "2025-09-29 12:41:36 +02:00",
-    "name": "29 september 12.41, Trafikkontroll, Jämtlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/september/29/29-september-12.41-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 604531,
-    "datetime": "2025-09-29 12:38:44 +02:00",
-    "name": "29 september 12.38, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2025/september/29/29-september-12.38-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 604479,
-    "datetime": "2025-09-29 7:31:31 +02:00",
-    "name": "29 september 07.30, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en lugn natt i länet utan några större händelser att hantera.",
-    "url": "/aktuellt/handelser/2025/september/29/29-september-07.30-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 604521,
-    "datetime": "2025-09-29 10:23:28 +02:00",
-    "name": "29 september 10.15, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat vid Universitetet.",
-    "url": "/aktuellt/handelser/2025/september/29/29-september-10.15-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 604524,
-    "datetime": "2025-09-29 11:03:18 +02:00",
-    "name": "29 september 10.33, Arbetsplatsolycka, Boden",
-    "summary": "Arbetsplatsolycka på butik i Boden.",
-    "url": "/aktuellt/handelser/2025/september/29/29-september-10.33-arbetsplatsolycka-boden/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
     }
   }
 ]
