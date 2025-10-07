@@ -1,26 +1,38 @@
 [
   {
-    "id": 606617,
-    "datetime": "2025-10-07 19:42:07 +02:00",
-    "name": "07 oktober 19.38, Trafikolycka, Linköping",
-    "summary": "Personbil och cyklist i krock.",
-    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.38-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
+    "id": 606623,
+    "datetime": "2025-10-07 20:26:46 +02:00",
+    "name": "07 oktober 19.35, Rattfylleri, Södertälje",
+    "summary": "Fordonsförare i Södertälje rapporteras för drograttfylleri.",
+    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.35-rattfylleri-sodertalje/",
+    "type": "Rattfylleri",
     "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
     }
   },
   {
-    "id": 606616,
-    "datetime": "2025-10-07 19:38:50 +02:00",
-    "name": "07 oktober 17.04, Bedrägeri, Eskilstuna",
-    "summary": "Bedragare lurade till sig värdeföremål.",
-    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-17.04-bedrageri-eskilstuna/",
+    "id": 606622,
+    "datetime": "2025-10-07 20:05:56 +02:00",
+    "name": "07 oktober 20.01, Bedrägeri, Västra Götalands län",
+    "summary": "Vi får samtal från ett bankkontor i Skaraborg där en kund trott sig ha en bokad tid. Istället misstänks hon ha",
+    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-20.01-bedrageri-vastra-gotalands-lan/",
     "type": "Bedrägeri",
     "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 606620,
+    "datetime": "2025-10-07 20:00:20 +02:00",
+    "name": "07 oktober 19.19, Arbetsplatsolycka, Trelleborg",
+    "summary": "Person som trillat ned i hisschakt",
+    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.19-arbetsplatsolycka-trelleborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
     }
   },
   {
@@ -36,15 +48,39 @@
     }
   },
   {
-    "id": 606609,
-    "datetime": "2025-10-07 17:57:54 +02:00",
-    "name": "07 oktober 17.40, Brand, Linköping",
-    "summary": "Matlagning orsakade brand.",
-    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-17.40-brand-linkoping/",
-    "type": "Brand",
+    "id": 606617,
+    "datetime": "2025-10-07 19:42:07 +02:00",
+    "name": "07 oktober 19.38, Trafikolycka, Linköping",
+    "summary": "Personbil och cyklist i krock.",
+    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.38-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 606621,
+    "datetime": "2025-10-07 20:03:21 +02:00",
+    "name": "07 oktober 19.01, Brand, Katrineholm",
+    "summary": "Förrådsbyggnad brann.",
+    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.01-brand-katrineholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
+    }
+  },
+  {
+    "id": 606618,
+    "datetime": "2025-10-07 19:52:26 +02:00",
+    "name": "07 oktober 19.37, Narkotikabrott, Haninge",
+    "summary": "Person i Handen rapporterades för narkotikabrott.",
+    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.37-narkotikabrott-haninge/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -57,6 +93,30 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 606616,
+    "datetime": "2025-10-07 19:38:50 +02:00",
+    "name": "07 oktober 17.04, Bedrägeri, Eskilstuna",
+    "summary": "Bedragare lurade till sig värdeföremål.",
+    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-17.04-bedrageri-eskilstuna/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 606609,
+    "datetime": "2025-10-07 17:57:54 +02:00",
+    "name": "07 oktober 17.40, Brand, Linköping",
+    "summary": "Matlagning orsakade brand.",
+    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-17.40-brand-linkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 604695,
-    "datetime": "2025-09-30 17:15:59 +02:00",
-    "name": "30 september 16.14, Fylleri/LOB, Umeå",
-    "summary": "Vasaplan, berusad man påträffad",
-    "url": "/aktuellt/handelser/2025/september/30/30-september-16.14-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 604694,
-    "datetime": "2025-09-30 17:14:25 +02:00",
-    "name": "30 september 16.08, Fylleri/LOB, Skellefteå",
-    "summary": "Nordanå, polis kontaktas gällande berusad man",
-    "url": "/aktuellt/handelser/2025/september/30/30-september-16.08-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 604691,
-    "datetime": "2025-09-30 15:48:53 +02:00",
-    "name": "30 september 14.51, Trafikolycka, personskada, Herrljunga",
-    "summary": "Singelolycka.",
-    "url": "/aktuellt/handelser/2025/september/30/30-september-14.51-trafikolycka-personskada-herrljunga/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Herrljunga",
-      "gps": "58.078029,13.018839"
-    }
-  },
-  {
-    "id": 604688,
-    "datetime": "2025-09-30 15:26:26 +02:00",
-    "name": "30 september 14.28, Trafikolycka, singel, Skellefteå",
-    "summary": "Länsväg 364, en bilist har kört av vägen i Burträsk",
-    "url": "/aktuellt/handelser/2025/september/30/30-september-14.28-trafikolycka-singel-skelleftea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 604690,
-    "datetime": "2025-09-30 15:38:14 +02:00",
-    "name": "30 september 11.39, Narkotikabrott, Härnösand",
-    "summary": "Gådeåstaden, tre män kontrolleras utomhus",
-    "url": "/aktuellt/handelser/2025/september/30/30-september-11.39-narkotikabrott-harnosand/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
     }
   }
 ]
