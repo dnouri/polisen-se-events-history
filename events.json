@@ -1,17 +1,5 @@
 [
   {
-    "id": 606926,
-    "datetime": "2025-10-10 17:48:14 +02:00",
-    "name": "10 oktober 17.23, Brand, Luleå",
-    "summary": "Luleå, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-17.23-brand-lulea/",
-    "type": "Brand",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
     "id": 606931,
     "datetime": "2025-10-10 18:46:25 +02:00",
     "name": "10 oktober 18.35, Trafikolycka, Oskarshamn",
@@ -21,6 +9,66 @@
     "location": {
       "name": "Oskarshamn",
       "gps": "57.265699,16.447398"
+    }
+  },
+  {
+    "id": 606932,
+    "datetime": "2025-10-10 18:55:16 +02:00",
+    "name": "10 oktober 17.32, Försvunnen person, Staffanstorp",
+    "summary": "Försvunnen kvinna, Staffanstorp.",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-17.32-forsvunnen-person-staffanstorp/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 606935,
+    "datetime": "2025-10-10 19:13:53 +02:00",
+    "name": "10 oktober 18.10, Trafikbrott, Mora",
+    "summary": "En bilist är misstänkt för brott i Noret",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-18.10-trafikbrott-mora/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 606934,
+    "datetime": "2025-10-10 19:06:40 +02:00",
+    "name": "10 oktober 17.46, Stöld, Örebro",
+    "summary": "En kvinna är misstänkt för brott på Boglundsängen",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-17.46-stold-orebro/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 606933,
+    "datetime": "2025-10-10 18:58:46 +02:00",
+    "name": "10 oktober 15.39, Narkotikabrott, Sundsvall",
+    "summary": "Sundsvall, man misstänks vara påverkad.",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-15.39-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 606926,
+    "datetime": "2025-10-10 17:48:14 +02:00",
+    "name": "10 oktober 17.23, Brand, Luleå",
+    "summary": "Luleå, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-17.23-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 605018,
-    "datetime": "2025-10-02 16:30:06 +02:00",
-    "name": "02 oktober 16.17, Trafikolycka, Karlstad",
-    "summary": "Två personbilar har kolliderat på Lv554 vid Björkås.",
-    "url": "/aktuellt/handelser/2025/oktober/2/02-oktober-16.17-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 605015,
-    "datetime": "2025-10-02 16:19:35 +02:00",
-    "name": "02 oktober 16.02, Brand, Karlstad",
-    "summary": "Larm har inkommit att det brinner i en buss i ett garage i området Orrholmen.",
-    "url": "/aktuellt/handelser/2025/oktober/2/02-oktober-16.02-brand-karlstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 605026,
-    "datetime": "2025-10-02 17:35:45 +02:00",
-    "name": "02 oktober 15.57, Rattfylleri, Mariestad",
-    "summary": "Polisen får larm om en vinglig färd på E20. Enligt uppgift är det en lastbil med släp som framförs vårdslöst.",
-    "url": "/aktuellt/handelser/2025/oktober/2/02-oktober-15.57-rattfylleri-mariestad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Mariestad",
-      "gps": "58.710112,13.821333"
-    }
-  },
-  {
-    "id": 605024,
-    "datetime": "2025-10-02 17:16:03 +02:00",
-    "name": "02 oktober 16.40, Rån, försök, Malmö",
-    "summary": "Försök till rån i bostad",
-    "url": "/aktuellt/handelser/2025/oktober/2/02-oktober-16.40-ran-forsok-malmo/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
