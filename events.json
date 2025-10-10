@@ -1,5 +1,65 @@
 [
   {
+    "id": 606877,
+    "datetime": "2025-10-10 12:16:50 +02:00",
+    "name": "10 oktober 11.55, Brand, Alvesta",
+    "summary": "De brinner i en byggnad på Stationsgatan.",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-11.55-brand-alvesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Alvesta",
+      "gps": "56.89921,14.556001"
+    }
+  },
+  {
+    "id": 606895,
+    "datetime": "2025-10-10 13:32:23 +02:00",
+    "name": "10 oktober 13.27, Trafikolycka, Upplands väsby",
+    "summary": "Trafikolycka på E4 vid trafikplats Glädjen - lastbil brinner.",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-13.27-trafikolycka-upplands-vasby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
+    "id": 606874,
+    "datetime": "2025-10-10 11:54:30 +02:00",
+    "name": "10 oktober 11.42, Trafikolycka, Lindesberg",
+    "summary": "Två bilister i kollision på Lv 249 öster om Fellingsbro.",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-11.42-trafikolycka-lindesberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lindesberg",
+      "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 606893,
+    "datetime": "2025-10-10 13:26:38 +02:00",
+    "name": "09 oktober 20.52, Försvunnen person, Trelleborg",
+    "summary": "Polisen söker efter en man som anmälts försvunnen.",
+    "url": "/aktuellt/handelser/2025/oktober/9/09-oktober-20.52-forsvunnen-person-trelleborg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Trelleborg",
+      "gps": "55.376243,13.157423"
+    }
+  },
+  {
+    "id": 606892,
+    "datetime": "2025-10-10 13:24:24 +02:00",
+    "name": "10 oktober 13.19, Misshandel, Sundsvall",
+    "summary": "Under förmiddagen larmas polisen till en adress i Sundsvalls kommun.",
+    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-13.19-misshandel-sundsvall/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 606890,
     "datetime": "2025-10-10 13:13:02 +02:00",
     "name": "10 oktober 11.44, Rån, Luleå",
@@ -60,18 +120,6 @@
     }
   },
   {
-    "id": 606877,
-    "datetime": "2025-10-10 12:16:50 +02:00",
-    "name": "10 oktober 11.55, Brand, Alvesta",
-    "summary": "De brinner i en byggnad på Stationsgatan.",
-    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-11.55-brand-alvesta/",
-    "type": "Brand",
-    "location": {
-      "name": "Alvesta",
-      "gps": "56.89921,14.556001"
-    }
-  },
-  {
     "id": 606850,
     "datetime": "2025-10-10 8:10:24 +02:00",
     "name": "10 oktober 07.32, Misshandel, grov, Norrköping",
@@ -81,18 +129,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 606874,
-    "datetime": "2025-10-10 11:54:30 +02:00",
-    "name": "10 oktober 11.42, Trafikolycka, Lindesberg",
-    "summary": "Två bilister i kollision på Lv 249 öster om Fellingsbro.",
-    "url": "/aktuellt/handelser/2025/oktober/10/10-oktober-11.42-trafikolycka-lindesberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 604993,
-    "datetime": "2025-10-02 13:25:58 +02:00",
-    "name": "02 oktober 13.25, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från några av morgonens/förmiddagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/oktober/2/02-oktober-13.25-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 604986,
-    "datetime": "2025-10-02 12:55:51 +02:00",
-    "name": "02 oktober 12.55, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från några av morgonens/förmiddagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/oktober/2/02-oktober-12.55-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 604985,
-    "datetime": "2025-10-02 12:53:08 +02:00",
-    "name": "02 oktober 11.10, Narkotikabrott, Skellefteå",
-    "summary": "Skellefteå, man misstänks vara påverkad av narkotika.",
-    "url": "/aktuellt/handelser/2025/oktober/2/02-oktober-11.10-narkotikabrott-skelleftea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   }
 ]
