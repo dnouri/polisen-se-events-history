@@ -1,9 +1,93 @@
 [
   {
+    "id": 608213,
+    "datetime": "2025-10-13 19:16:59 +02:00",
+    "name": "13 oktober 19.11, Trafikolycka, Malmö",
+    "summary": "En singelolycka med en personbil inträffar på Flygfältsvägen.",
+    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-19.11-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 608223,
+    "datetime": "2025-10-13 21:02:11 +02:00",
+    "name": "13 oktober 21.02, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-21.02-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 608222,
+    "datetime": "2025-10-13 21:00:56 +02:00",
+    "name": "13 oktober 21.00, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-21.00-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 608221,
+    "datetime": "2025-10-13 20:58:42 +02:00",
+    "name": "13 oktober 17.43, Stöld, Sundsvall",
+    "summary": "Misstänkt stöld i butik, Birsta.",
+    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-17.43-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 608196,
+    "datetime": "2025-10-13 16:28:11 +02:00",
+    "name": "13 oktober 15.22, Trafikolycka, Strömsund",
+    "summary": "Larm om trafikolycka på väg 342, väster om Lidsjöberg.",
+    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-15.22-trafikolycka-stromsund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strömsund",
+      "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 608220,
+    "datetime": "2025-10-13 20:43:16 +02:00",
+    "name": "13 oktober 18.25, Brand, Nacka",
+    "summary": "Brand i byggnad i Älta.",
+    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-18.25-brand-nacka/",
+    "type": "Brand",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 608219,
+    "datetime": "2025-10-13 20:39:54 +02:00",
+    "name": "13 oktober 20.14, Trafikolycka, vilt, Sundsvall",
+    "summary": "Polisen får in en anmälan om en olycka med en personbil och ett rådjur på Skedlovägen, Njurunda.",
+    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-20.14-trafikolycka-vilt-sundsvall/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 608218,
     "datetime": "2025-10-13 20:33:50 +02:00",
     "name": "13 oktober 19.05, Misshandel, Stockholm",
-    "summary": "Kvinna gripen misstänkt för att misshandlat en person som hon har en relation till.",
+    "summary": "Kvinna gripen misstänkt för att ha misshandlat en person som hon har en relation till.",
     "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-19.05-misshandel-stockholm/",
     "type": "Misshandel",
     "location": {
@@ -81,18 +165,6 @@
     "location": {
       "name": "Tibro",
       "gps": "58.424323,14.161642"
-    }
-  },
-  {
-    "id": 608213,
-    "datetime": "2025-10-13 19:16:59 +02:00",
-    "name": "13 oktober 19.11, Trafikolycka, Malmö",
-    "summary": "En singelolycka med en personbil inträffar på Flygfältsvägen.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-19.11-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -225,18 +297,6 @@
     "location": {
       "name": "Finspång",
       "gps": "58.707488,15.773595"
-    }
-  },
-  {
-    "id": 608196,
-    "datetime": "2025-10-13 16:28:11 +02:00",
-    "name": "13 oktober 15.22, Trafikolycka, Strömsund",
-    "summary": "Larm om trafikolycka på väg 342, väster om Lidsjöberg.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-15.22-trafikolycka-stromsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 606345,
-    "datetime": "2025-10-06 0:08:26 +02:00",
-    "name": "05 oktober 23.18, Trafikolycka, personskada, Växjö",
-    "summary": "Personbil kört in i ett träd.",
-    "url": "/aktuellt/handelser/2025/oktober/5/05-oktober-23.18-trafikolycka-personskada-vaxjo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 605344,
-    "datetime": "2025-10-05 21:31:51 +02:00",
-    "name": "05 oktober 20.19, Rattfylleri, Hässleholm",
-    "summary": "Misstänkt rattfylleri vid Dammhuset, Vinslöv.",
-    "url": "/aktuellt/handelser/2025/oktober/5/05-oktober-20.19-rattfylleri-hassleholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 605343,
-    "datetime": "2025-10-05 21:20:21 +02:00",
-    "name": "05 oktober 18.37, Misshandel, Kristianstad",
-    "summary": "Man misshandlad på Vemmenhögsgatan.",
-    "url": "/aktuellt/handelser/2025/oktober/5/05-oktober-18.37-misshandel-kristianstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 605342,
-    "datetime": "2025-10-05 20:42:58 +02:00",
-    "name": "05 oktober 19.28, Sexualbrott, Lund",
-    "summary": "Blottare på Dag Hammarskjölds väg.",
-    "url": "/aktuellt/handelser/2025/oktober/5/05-oktober-19.28-sexualbrott-lund/",
-    "type": "Sexualbrott",
-    "location": {
-      "name": "Lund",
-      "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 605341,
-    "datetime": "2025-10-05 20:09:55 +02:00",
-    "name": "05 oktober 17.11, Brand, Växjö",
-    "summary": "Brand på Härlövsvägen.",
-    "url": "/aktuellt/handelser/2025/oktober/5/05-oktober-17.11-brand-vaxjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
     }
   }
 ]
