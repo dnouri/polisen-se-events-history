@@ -1,5 +1,65 @@
 [
   {
+    "id": 608339,
+    "datetime": "2025-10-14 18:29:09 +02:00",
+    "name": "14 oktober 17.01, Trafikolycka, Kristianstad",
+    "summary": "En person förs till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-17.01-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 608337,
+    "datetime": "2025-10-14 18:19:45 +02:00",
+    "name": "14 oktober 18.00, Brand, Piteå",
+    "summary": "Larm om rökutveckling i en restaurang i Djupviken.",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-18.00-brand-pitea/",
+    "type": "Brand",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 608322,
+    "datetime": "2025-10-14 16:44:34 +02:00",
+    "name": "14 oktober 16.27, Trafikolycka, Jönköping",
+    "summary": "Larm inkommer till SOS gällande en trafikolycka i norrgående körriktning på E4 i Ljungarum.",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-16.27-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 608332,
+    "datetime": "2025-10-14 17:59:00 +02:00",
+    "name": "14 oktober 16.23, Vållande till kroppsskada, Motala",
+    "summary": "En man i 25-årsåldern kontaktar polis och uppger att han blivit biten av en hund i närheten av Mariebergsskola",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-16.23-vallande-till-kroppsskada-motala/",
+    "type": "Vållande till kroppsskada",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
+    }
+  },
+  {
+    "id": 608327,
+    "datetime": "2025-10-14 17:48:50 +02:00",
+    "name": "14 oktober 16.24, Stöld, Umeå",
+    "summary": "Misstänkt ringa stöld i butik i centrala Umeå.",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-16.24-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 608314,
     "datetime": "2025-10-14 15:20:31 +02:00",
     "name": "14 oktober 15.10, Trafikolycka, Malmö",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 608322,
-    "datetime": "2025-10-14 16:44:34 +02:00",
-    "name": "14 oktober 16.27, Trafikolycka, Jönköping",
-    "summary": "Larm inkommer till SOS gällande en trafikolycka i norrgående körriktning på E4 i Ljungarum.",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-16.27-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 606482,
-    "datetime": "2025-10-06 20:10:44 +02:00",
-    "name": "06 oktober 20.07, Stöld, Örebro",
-    "summary": "Kvinna misstänks för ringa stöld.",
-    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-20.07-stold-orebro/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 606481,
-    "datetime": "2025-10-06 20:07:25 +02:00",
-    "name": "06 oktober 20.07, Olovlig körning, Örebro",
-    "summary": "Bilist misstänkt för grov olovlig körning.",
-    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-20.07-olovlig-korning-orebro/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 606480,
-    "datetime": "2025-10-06 19:54:41 +02:00",
-    "name": "06 oktober 19.50, Stöld, Säter",
-    "summary": "Minderåring person gripen för ringa stöld.",
-    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-19.50-stold-sater/",
-    "type": "Stöld",
-    "location": {
-      "name": "Säter",
-      "gps": "60.34665,15.7479"
-    }
-  },
-  {
-    "id": 606479,
-    "datetime": "2025-10-06 19:50:50 +02:00",
-    "name": "06 oktober 19.47, Olovlig körning, Borlänge",
-    "summary": "Bilist misstänkt för grov olovlig körning.",
-    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-19.47-olovlig-korning-borlange/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
     }
   }
 ]
