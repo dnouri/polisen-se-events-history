@@ -1,5 +1,65 @@
 [
   {
+    "id": 608273,
+    "datetime": "2025-10-14 10:16:06 +02:00",
+    "name": "14 oktober 09.18, Trafikolycka, Västerås",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-09.18-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 608272,
+    "datetime": "2025-10-14 10:10:52 +02:00",
+    "name": "14 oktober 09.47, Försvunnen person, Ludvika",
+    "summary": "Kvinnan är anträffad vid god vigör",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-09.47-forsvunnen-person-ludvika/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 608263,
+    "datetime": "2025-10-14 7:48:03 +02:00",
+    "name": "14 oktober 07.28, Trafikolycka, Skövde",
+    "summary": "En buss kör av oklar anledning av vägen på riksväg 49 i utkanten av Skövde. Enligt initiala uppgifter ska inge",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-07.28-trafikolycka-skovde/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skövde",
+      "gps": "58.390278,13.846121"
+    }
+  },
+  {
+    "id": 608271,
+    "datetime": "2025-10-14 9:52:20 +02:00",
+    "name": "14 oktober 09.37, Trafikolycka, Herrljunga",
+    "summary": "Vi får via SOS larm om en trafikolycka på väg 183 söder om Herrljunga. Enligt uppgift ska en lastbil ha kört i",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-09.37-trafikolycka-herrljunga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Herrljunga",
+      "gps": "58.078029,13.018839"
+    }
+  },
+  {
+    "id": 608270,
+    "datetime": "2025-10-14 9:43:50 +02:00",
+    "name": "14 oktober 07.36, Trafikolycka, smitning från, Stockholm",
+    "summary": "Cyklist påkörd på Södermalm.",
+    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-07.36-trafikolycka-smitning-fran-stockholm/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 608269,
     "datetime": "2025-10-14 9:40:38 +02:00",
     "name": "14 oktober 07.43, Trafikolycka, personskada, Uppsala",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 608263,
-    "datetime": "2025-10-14 7:48:03 +02:00",
-    "name": "14 oktober 07.28, Trafikolycka, Skövde",
-    "summary": "En buss kör av oklar anledning av vägen på riksväg 49 i utkanten av Skövde. Enligt initiala uppgifter ska inge",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-07.28-trafikolycka-skovde/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skövde",
-      "gps": "58.390278,13.846121"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 606433,
-    "datetime": "2025-10-06 12:23:07 +02:00",
-    "name": "06 oktober 09.16, Stöld/inbrott, Filipstad",
-    "summary": "Två personer i tjugo- respektive fyrtioårsåldern misstänks för brott efter att ha påträffats i ett förråd i Fi",
-    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-09.16-stoldinbrott-filipstad/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Filipstad",
-      "gps": "59.713997,14.169845"
-    }
-  },
-  {
-    "id": 606418,
-    "datetime": "2025-10-06 11:31:06 +02:00",
-    "name": "06 oktober 08.33, Stöld/inbrott, Västerås",
-    "summary": "Inbrott i skola.",
-    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-08.33-stoldinbrott-vasteras/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 605235,
-    "datetime": "2025-10-04 3:50:30 +02:00",
-    "name": "04 oktober 01.50, Skottlossning, Gävle",
-    "summary": "Skottlossning på Söder.",
-    "url": "/aktuellt/handelser/2025/oktober/4/04-oktober-01.50-skottlossning-gavle/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
-    }
-  },
-  {
-    "id": 606367,
-    "datetime": "2025-10-06 7:32:41 +02:00",
-    "name": "06 oktober 07.14, Trafikolycka, Ale",
-    "summary": "Trafikolycka på E45, i höjd med Älvängen.",
-    "url": "/aktuellt/handelser/2025/oktober/6/06-oktober-07.14-trafikolycka-ale/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ale",
-      "gps": "57.841175,12.029249"
     }
   }
 ]
