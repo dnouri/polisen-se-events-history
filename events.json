@@ -1,5 +1,41 @@
 [
   {
+    "id": 608430,
+    "datetime": "2025-10-15 14:46:31 +02:00",
+    "name": "15 oktober 09.56, Olaga intrång, Skellefteå",
+    "summary": "Skellefteå, ung man misstänks ha sovit över på gym",
+    "url": "/aktuellt/handelser/2025/oktober/15/15-oktober-09.56-olaga-intrang-skelleftea/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 608433,
+    "datetime": "2025-10-15 14:33:07 +02:00",
+    "name": "15 oktober 14.30, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/oktober/15/15-oktober-14.30-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 608432,
+    "datetime": "2025-10-15 14:26:03 +02:00",
+    "name": "15 oktober 13.54, Trafikolycka, Borlänge",
+    "summary": "Två fordon är inblandade i en olycka i Backarondellen.",
+    "url": "/aktuellt/handelser/2025/oktober/15/15-oktober-13.54-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 608425,
     "datetime": "2025-10-15 13:02:32 +02:00",
     "name": "15 oktober 12.39, Övrigt, Lindesberg",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Lindesberg",
       "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 608431,
+    "datetime": "2025-10-15 14:16:35 +02:00",
+    "name": "15 oktober 13.21, Arbetsplatsolycka, Ludvika",
+    "summary": "En man har skadat en arm under arbete i Saxdalen.",
+    "url": "/aktuellt/handelser/2025/oktober/15/15-oktober-13.21-arbetsplatsolycka-ludvika/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Ludvika",
+      "gps": "60.152358,15.191639"
+    }
+  },
+  {
+    "id": 608428,
+    "datetime": "2025-10-15 13:57:07 +02:00",
+    "name": "15 oktober 09.46, Stöld, Skellefteå",
+    "summary": "Skellefteå, en påverkad man uppges ha setts vid en skola",
+    "url": "/aktuellt/handelser/2025/oktober/15/15-oktober-09.46-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5934,66 +5994,6 @@
     "summary": "Personbil och cyklist i krock.",
     "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.38-trafikolycka-linkoping/",
     "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 606621,
-    "datetime": "2025-10-07 20:03:21 +02:00",
-    "name": "07 oktober 19.01, Brand, Katrineholm",
-    "summary": "Förrådsbyggnad brann.",
-    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.01-brand-katrineholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 606618,
-    "datetime": "2025-10-07 19:52:26 +02:00",
-    "name": "07 oktober 19.37, Narkotikabrott, Haninge",
-    "summary": "Person i Handen rapporterades för narkotikabrott.",
-    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-19.37-narkotikabrott-haninge/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 606614,
-    "datetime": "2025-10-07 19:05:18 +02:00",
-    "name": "07 oktober 18.42, Trafikolycka, Örebro",
-    "summary": "Polis är på plats på Norr med anledning av påkörningsolycka",
-    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-18.42-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 606616,
-    "datetime": "2025-10-07 19:38:50 +02:00",
-    "name": "07 oktober 17.04, Bedrägeri, Eskilstuna",
-    "summary": "Bedragare lurade till sig värdeföremål.",
-    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-17.04-bedrageri-eskilstuna/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 606609,
-    "datetime": "2025-10-07 17:57:54 +02:00",
-    "name": "07 oktober 17.40, Brand, Linköping",
-    "summary": "Matlagning orsakade brand.",
-    "url": "/aktuellt/handelser/2025/oktober/7/07-oktober-17.40-brand-linkoping/",
-    "type": "Brand",
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
