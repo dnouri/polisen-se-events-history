@@ -1,5 +1,65 @@
 [
   {
+    "id": 609964,
+    "datetime": "2025-10-20 21:53:08 +02:00",
+    "name": "20 oktober 21.48, Arbetsplatsolycka, Tingsryd",
+    "summary": "Polis larmas till Tingsryd med anledning av en arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-21.48-arbetsplatsolycka-tingsryd/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Tingsryd",
+      "gps": "56.524745,14.978534"
+    }
+  },
+  {
+    "id": 609963,
+    "datetime": "2025-10-20 21:46:20 +02:00",
+    "name": "20 oktober 21.11, Bedrägeri, Falun",
+    "summary": "Misstänkt bedrägeri utreds i Falun.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-21.11-bedrageri-falun/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 609962,
+    "datetime": "2025-10-20 21:45:26 +02:00",
+    "name": "20 oktober 21.03, Skadegörelse, Östersund",
+    "summary": "Östersund, skadegörelse på toalett.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-21.03-skadegorelse-ostersund/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 609961,
+    "datetime": "2025-10-20 21:45:20 +02:00",
+    "name": "20 oktober 21.45, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-21.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 609960,
+    "datetime": "2025-10-20 21:45:14 +02:00",
+    "name": "20 oktober 21.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns det ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på lednings",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-21.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 609959,
     "datetime": "2025-10-20 21:23:06 +02:00",
     "name": "20 oktober 21.23, Trafikkontroll, Västernorrlands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 608220,
-    "datetime": "2025-10-13 20:43:16 +02:00",
-    "name": "13 oktober 18.25, Brand, Nacka",
-    "summary": "Brand i byggnad i Älta.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-18.25-brand-nacka/",
-    "type": "Brand",
-    "location": {
-      "name": "Nacka",
-      "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 608219,
-    "datetime": "2025-10-13 20:39:54 +02:00",
-    "name": "13 oktober 20.14, Trafikolycka, vilt, Sundsvall",
-    "summary": "Polisen får in en anmälan om en olycka med en personbil och ett rådjur på Skedlovägen, Njurunda.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-20.14-trafikolycka-vilt-sundsvall/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 608218,
-    "datetime": "2025-10-13 20:33:50 +02:00",
-    "name": "13 oktober 19.05, Misshandel, Stockholm",
-    "summary": "Kvinna gripen misstänkt för att ha misshandlat en person som hon har en relation till.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-19.05-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 608214,
-    "datetime": "2025-10-13 20:20:45 +02:00",
-    "name": "13 oktober 19.04, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka på Sjöfruvägen, Tomtebo.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-19.04-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 608217,
-    "datetime": "2025-10-13 20:12:33 +02:00",
-    "name": "13 oktober 17.59, Trafikolycka, Gällivare",
-    "summary": "Larm om trafikolycka på väg 392, i höjd med Östra Lillselet.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-17.59-trafikolycka-gallivare/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
     }
   }
 ]
