@@ -1,5 +1,17 @@
 [
   {
+    "id": 609875,
+    "datetime": "2025-10-20 7:47:24 +02:00",
+    "name": "20 oktober 07.10, Brand, Kungälv",
+    "summary": "Via SOS inkommer larm om en lägenhetsbrand i Komarken. En lägenhet ska vara rökfylld.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-07.10-brand-kungalv/",
+    "type": "Brand",
+    "location": {
+      "name": "Kungälv",
+      "gps": "57.869754,11.974032"
+    }
+  },
+  {
     "id": 609904,
     "datetime": "2025-10-20 10:33:12 +02:00",
     "name": "20 oktober 10.07, Brand, Timrå",
@@ -21,6 +33,30 @@
     "location": {
       "name": "Vaggeryd",
       "gps": "57.498962,14.14863"
+    }
+  },
+  {
+    "id": 609910,
+    "datetime": "2025-10-20 11:07:00 +02:00",
+    "name": "20 oktober 07.21, Skadegörelse, Haninge",
+    "summary": "En man slår sönder ett fönster med ett trädgårdsredskap.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-07.21-skadegorelse-haninge/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
+    }
+  },
+  {
+    "id": 609907,
+    "datetime": "2025-10-20 11:01:10 +02:00",
+    "name": "20 oktober 10.53, Trafikkontroll, Karlstad",
+    "summary": "Kontroll av cyklister och förare av elsparkscykel.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-10.53-trafikkontroll-karlstad/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -165,18 +201,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 609875,
-    "datetime": "2025-10-20 7:47:24 +02:00",
-    "name": "20 oktober 07.10, Brand, Kungälv",
-    "summary": "Via SOS inkommer larm om en lägenhetsbrand i Komarken. En lägenhet ska vara rökfylld.",
-    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-07.10-brand-kungalv/",
-    "type": "Brand",
-    "location": {
-      "name": "Kungälv",
-      "gps": "57.869754,11.974032"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Grästorp",
       "gps": "58.33404,12.680218"
-    }
-  },
-  {
-    "id": 608089,
-    "datetime": "2025-10-13 7:58:24 +02:00",
-    "name": "13 oktober 07.56, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-07.56-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 608094,
-    "datetime": "2025-10-13 7:57:36 +02:00",
-    "name": "13 oktober 07.56, Sammanfattning natt, Östergötlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-07.56-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
