@@ -1,14 +1,50 @@
 [
   {
-    "id": 609917,
-    "datetime": "2025-10-20 13:04:35 +02:00",
-    "name": "20 oktober 12.49, Trafikolycka, Lilla edet",
-    "summary": "Vi får via SOS larm om en trafikolycka på länsväg 2002 i höjd med Kärra. Det ska handla om en kollision mellan",
-    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-12.49-trafikolycka-lilla-edet/",
-    "type": "Trafikolycka",
+    "id": 609927,
+    "datetime": "2025-10-20 14:41:46 +02:00",
+    "name": "20 oktober 13.55, Olovlig körning, Karlskoga",
+    "summary": "Ett fordon stoppas och föraren blir misstänkt för grov olovlig körning.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-13.55-olovlig-korning-karlskoga/",
+    "type": "Olovlig körning",
     "location": {
-      "name": "Lilla edet",
-      "gps": "58.132158,12.124134"
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 609924,
+    "datetime": "2025-10-20 14:21:14 +02:00",
+    "name": "20 oktober 13.34, Ofredande/förargelse, Uppsala",
+    "summary": "Aktivister stör föreläsning.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-13.34-ofredandeforargelse-uppsala/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 609926,
+    "datetime": "2025-10-20 14:25:02 +02:00",
+    "name": "20 oktober 12.13, Stöld/inbrott, Borlänge",
+    "summary": "Det har varit inbrott i ett hus i Romme.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-12.13-stoldinbrott-borlange/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 609925,
+    "datetime": "2025-10-20 14:24:27 +02:00",
+    "name": "20 oktober 12.45, Narkotikabrott, Umeå",
+    "summary": "Vis kontroll av en man Öst på stan uppstår misstanke om att han är påverkad av narkotika.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-12.45-narkotikabrott-umea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -21,6 +57,66 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 609922,
+    "datetime": "2025-10-20 14:14:17 +02:00",
+    "name": "20 oktober 00.11, Trafikolycka, vilt, Uppsala",
+    "summary": "Mopedist krockade med vildsvin.",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-002.11-trafikolycka-vilt-uppsala/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 608832,
+    "datetime": "2025-10-19 8:30:39 +02:00",
+    "name": "19 oktober 07.39, Övrigt, Umeå",
+    "summary": "Umeå, skadad man anträffad.",
+    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-07.39-ovrigt-umea/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 609921,
+    "datetime": "2025-10-20 13:50:41 +02:00",
+    "name": "20 oktober 13.50, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-13.50-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 609920,
+    "datetime": "2025-10-20 13:49:55 +02:00",
+    "name": "20 oktober 13.49, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-13.49-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 609917,
+    "datetime": "2025-10-20 13:04:35 +02:00",
+    "name": "20 oktober 12.49, Trafikolycka, Lilla edet",
+    "summary": "Vi får via SOS larm om en trafikolycka på länsväg 2002 i höjd med Kärra. Det ska handla om en kollision mellan",
+    "url": "/aktuellt/handelser/2025/oktober/20/20-oktober-12.49-trafikolycka-lilla-edet/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lilla edet",
+      "gps": "58.132158,12.124134"
     }
   },
   {
@@ -705,18 +801,6 @@
     "location": {
       "name": "Nacka",
       "gps": "59.307903,18.156042"
-    }
-  },
-  {
-    "id": 608832,
-    "datetime": "2025-10-19 8:30:39 +02:00",
-    "name": "19 oktober 07.39, Övrigt, Umeå",
-    "summary": "Umeå, skadad man anträffad.",
-    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-07.39-ovrigt-umea/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 608141,
-    "datetime": "2025-10-13 13:02:32 +02:00",
-    "name": "13 oktober 10.48, Narkotikabrott, Sundsvall",
-    "summary": "Bredsand, polisen kontrollerar en kvinna.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-10.48-narkotikabrott-sundsvall/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 608140,
-    "datetime": "2025-10-13 13:01:49 +02:00",
-    "name": "13 oktober 13.01, Övrigt, Örebro län",
-    "summary": "Ändrade öppettider på mediacentret i Bergslagen under måndagen",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-13.01-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 608139,
-    "datetime": "2025-10-13 13:01:38 +02:00",
-    "name": "13 oktober 13.01, Övrigt, Dalarnas län",
-    "summary": "Ändrade öppettider på mediacentret i Bergslagen under måndagen",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-13.01-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 608138,
-    "datetime": "2025-10-13 13:01:28 +02:00",
-    "name": "13 oktober 13.00, Övrigt, Värmlands län",
-    "summary": "Ändrade öppettider på mediacentret i Bergslagen under måndagen",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-13.00-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 608136,
-    "datetime": "2025-10-13 12:48:48 +02:00",
-    "name": "13 oktober 10.16, Misshandel, Falun",
-    "summary": "En kvinna i fyrtioårsåldern misstänks för misshandel.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-10.16-misshandel-falun/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 608135,
-    "datetime": "2025-10-13 12:46:31 +02:00",
-    "name": "13 oktober 08.24, Trafikolycka, personskada, Uppsala",
-    "summary": "Två personbilar i kollision i Fyrislund.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-08.24-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 608134,
-    "datetime": "2025-10-13 12:44:20 +02:00",
-    "name": "13 oktober 07.00, Rattfylleri, Orsa",
-    "summary": "En man i sextioårsåldern misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-07.00-rattfylleri-orsa/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Orsa",
-      "gps": "61.116937,14.628071"
     }
   }
 ]
