@@ -1,14 +1,74 @@
 [
   {
-    "id": 610066,
-    "datetime": "2025-10-21 15:42:22 +02:00",
-    "name": "21 oktober 15.16, Arbetsplatsolycka, Falkenberg",
-    "summary": "Vi får via SOS larm om en arbetsplatsolycka i Ullared. I samband med arbete vid ett elskåp ska en man ha fått ",
-    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-15.16-arbetsplatsolycka-falkenberg/",
+    "id": 610092,
+    "datetime": "2025-10-21 18:24:20 +02:00",
+    "name": "21 oktober 15.39, Bråk, Västerås",
+    "summary": "Samtal om bråk.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-15.39-brak-vasteras/",
+    "type": "Bråk",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 610079,
+    "datetime": "2025-10-21 16:50:42 +02:00",
+    "name": "21 oktober 16.41, Arbetsplatsolycka, Malmö",
+    "summary": "Person i olycka med truck, Östra hamnen.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-16.41-arbetsplatsolycka-malmo/",
     "type": "Arbetsplatsolycka",
     "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 610090,
+    "datetime": "2025-10-21 18:10:13 +02:00",
+    "name": "21 oktober 18.05, Våld/hot mot tjänsteman, Karlstad",
+    "summary": "Man misstänkt för hot mot tjänsteman.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-18.05-valdhot-mot-tjansteman-karlstad/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 610089,
+    "datetime": "2025-10-21 18:05:41 +02:00",
+    "name": "21 oktober 17.57, Våld/hot mot tjänsteman, Örebro",
+    "summary": "Man i 55-årsåldern misstänkt för förgripelse mot tjänsteman i två fall.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-17.57-valdhot-mot-tjansteman-orebro/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 610088,
+    "datetime": "2025-10-21 18:04:11 +02:00",
+    "name": "21 oktober 15.18, Stöld, Östersund",
+    "summary": "Östersund, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-15.18-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 610087,
+    "datetime": "2025-10-21 18:00:27 +02:00",
+    "name": "21 oktober 18.00, Övrigt, Falun",
+    "summary": "Polisen genomför under kvällen en övning på polishuset i Falun.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-18.00-ovrigt-falun/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -24,15 +84,15 @@
     }
   },
   {
-    "id": 610083,
-    "datetime": "2025-10-21 17:26:38 +02:00",
-    "name": "21 oktober 17.23, Olovlig körning, Karlstad",
-    "summary": "Man i 50-årsåldern misstänkt för grov olovlig körning.",
-    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-17.23-olovlig-korning-karlstad/",
-    "type": "Olovlig körning",
+    "id": 610085,
+    "datetime": "2025-10-21 17:55:07 +02:00",
+    "name": "21 oktober 16.54, Kontroll, Södertälje",
+    "summary": "Samtal om ungdomar med pistol i Geneta - var låtsasvapen.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-16.54-kontroll-sodertalje/",
+    "type": "Kontroll",
     "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
     }
   },
   {
@@ -45,6 +105,42 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 610084,
+    "datetime": "2025-10-21 17:49:14 +02:00",
+    "name": "21 oktober 17.49, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-17.49-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 610066,
+    "datetime": "2025-10-21 15:42:22 +02:00",
+    "name": "21 oktober 15.16, Arbetsplatsolycka, Falkenberg",
+    "summary": "Vi får via SOS larm om en arbetsplatsolycka i Ullared. I samband med arbete vid ett elskåp ska en man ha fått ",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-15.16-arbetsplatsolycka-falkenberg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
+    }
+  },
+  {
+    "id": 610083,
+    "datetime": "2025-10-21 17:26:38 +02:00",
+    "name": "21 oktober 17.23, Olovlig körning, Karlstad",
+    "summary": "Man i 50-årsåldern misstänkt för grov olovlig körning.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-17.23-olovlig-korning-karlstad/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -81,18 +177,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 610079,
-    "datetime": "2025-10-21 16:50:42 +02:00",
-    "name": "21 oktober 16.41, Arbetsplatsolycka, Malmö",
-    "summary": "Person i olycka med truck, Östra hamnen.",
-    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-16.41-arbetsplatsolycka-malmo/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Hedemora",
       "gps": "60.277545,15.985892"
-    }
-  },
-  {
-    "id": 608358,
-    "datetime": "2025-10-14 21:47:16 +02:00",
-    "name": "14 oktober 21.47, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-21.47-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 608357,
-    "datetime": "2025-10-14 21:46:52 +02:00",
-    "name": "14 oktober 21.46, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-21.46-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 608356,
-    "datetime": "2025-10-14 21:35:11 +02:00",
-    "name": "14 oktober 17.12, Brand, Norrtälje",
-    "summary": "Ett hus har brunnit i Häverö utanför Hallstavik.",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-17.12-brand-norrtalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 608355,
-    "datetime": "2025-10-14 21:09:30 +02:00",
-    "name": "14 oktober 20.36, Trafikolycka, vilt, Värnamo",
-    "summary": "Flera vildsvin på E4:an orsakar en trafikolycka strax söder om trafikplats 87 Skillingaryd södra.",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-20.36-trafikolycka-vilt-varnamo/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 608354,
-    "datetime": "2025-10-14 21:05:59 +02:00",
-    "name": "14 oktober 20.04, Trafikbrott, Grums",
-    "summary": "En kille är misstänkt för brott i Orrby.",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-20.04-trafikbrott-grums/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
-    }
-  },
-  {
-    "id": 608353,
-    "datetime": "2025-10-14 21:02:59 +02:00",
-    "name": "14 oktober 20.02, Trafikolycka, Markaryd",
-    "summary": "En singelolycka med en personbil inträffar på E4.",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-20.02-trafikolycka-markaryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
-    }
-  },
-  {
-    "id": 608352,
-    "datetime": "2025-10-14 21:01:01 +02:00",
-    "name": "14 oktober 16.50, Inbrott, Kramfors",
-    "summary": "Polispatrull i Bollstabruk kontaktas om ett inbrott på Stationsvägen.",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-16.50-inbrott-kramfors/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   }
 ]
