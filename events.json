@@ -1,14 +1,38 @@
 [
   {
-    "id": 610001,
-    "datetime": "2025-10-21 10:36:22 +02:00",
-    "name": "21 oktober 07.21, Trafikolycka, Örebro",
-    "summary": "En bilförare i sjuttiofemårsåldern har tilldelats ordningsbot efter att vållat en trafikolycka på Aspholmen.",
-    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-07.21-trafikolycka-orebro/",
-    "type": "Trafikolycka",
+    "id": 610008,
+    "datetime": "2025-10-21 11:05:50 +02:00",
+    "name": "21 oktober 10.56, Övrigt, Arjeplog",
+    "summary": "Arjeplog, polisen har kontrollerat personer i skogen",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-10.56-ovrigt-arjeplog/",
+    "type": "Övrigt",
     "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
+      "name": "Arjeplog",
+      "gps": "66.051505,17.890054"
+    }
+  },
+  {
+    "id": 610007,
+    "datetime": "2025-10-21 10:59:29 +02:00",
+    "name": "21 oktober 09.36, Övrigt, Mellerud",
+    "summary": "Skola tillfälligt inrymd.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-09.36-ovrigt-mellerud/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Mellerud",
+      "gps": "58.702568,12.451842"
+    }
+  },
+  {
+    "id": 610004,
+    "datetime": "2025-10-21 10:54:22 +02:00",
+    "name": "21 oktober 09.36, Brand, Kalix",
+    "summary": "Larm om brand i en byggnad, Västanfors.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-09.36-brand-kalix/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
+    }
+  },
+  {
+    "id": 610001,
+    "datetime": "2025-10-21 10:36:22 +02:00",
+    "name": "21 oktober 07.21, Trafikolycka, Örebro",
+    "summary": "En bilförare i sjuttiofemårsåldern har tilldelats ordningsbot efter att vållat en trafikolycka på Aspholmen.",
+    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-07.21-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 608261,
-    "datetime": "2025-10-14 7:44:51 +02:00",
-    "name": "14 oktober 07.44, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-07.44-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 608260,
-    "datetime": "2025-10-14 7:43:11 +02:00",
-    "name": "14 oktober 07.41, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/oktober/14/14-oktober-07.41-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 608254,
-    "datetime": "2025-10-14 7:40:46 +02:00",
-    "name": "13 oktober 22.35, Brand, Södertälje",
-    "summary": "Misstänkt anlagd bilbrand i Ronna.",
-    "url": "/aktuellt/handelser/2025/oktober/13/13-oktober-22.35-brand-sodertalje/",
-    "type": "Brand",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
