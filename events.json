@@ -1,5 +1,53 @@
 [
   {
+    "id": 610305,
+    "datetime": "2025-10-23 16:41:47 +02:00",
+    "name": "23 oktober 16.13, Brand, Kalmar",
+    "summary": "Brand i bostad",
+    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-16.13-brand-kalmar/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar",
+      "gps": "56.663445,16.356779"
+    }
+  },
+  {
+    "id": 610293,
+    "datetime": "2025-10-23 14:55:03 +02:00",
+    "name": "23 oktober 14.26, Trafikolycka, Krokom",
+    "summary": "E14/länsväg 666, två bilister har kolliderat i Näskott",
+    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-14.26-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 610296,
+    "datetime": "2025-10-23 15:12:30 +02:00",
+    "name": "23 oktober 14.47, Skadegörelse, Malmö",
+    "summary": "Man som skrapat bilar",
+    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-14.47-skadegorelse-malmo/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 610291,
+    "datetime": "2025-10-23 16:33:18 +02:00",
+    "name": "23 oktober 14.46, Polisinsats/kommendering, Malmö",
+    "summary": "Kvällens match i Europa League mellan Malmö FF och Dinamo Zagreb.",
+    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-14.46-polisinsatskommendering-malmo/",
+    "type": "Polisinsats/kommendering",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 610260,
     "datetime": "2025-10-23 9:25:34 +02:00",
     "name": "23 oktober 05.10, Stöld, Sundsvall",
@@ -48,18 +96,6 @@
     }
   },
   {
-    "id": 610296,
-    "datetime": "2025-10-23 15:12:30 +02:00",
-    "name": "23 oktober 14.47, Skadegörelse, Malmö",
-    "summary": "Man som skrapat bilar",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-14.47-skadegorelse-malmo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
     "id": 610295,
     "datetime": "2025-10-23 15:11:01 +02:00",
     "name": "23 oktober 14.46, Arbetsplatsolycka, Vimmerby",
@@ -69,18 +105,6 @@
     "location": {
       "name": "Vimmerby",
       "gps": "57.669034,15.858857"
-    }
-  },
-  {
-    "id": 610293,
-    "datetime": "2025-10-23 14:55:03 +02:00",
-    "name": "23 oktober 14.26, Trafikolycka, Krokom",
-    "summary": "E14/länsväg 666, två bilister har kolliderat i Näskott",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-14.26-trafikolycka-krokom/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 608610,
-    "datetime": "2025-10-16 19:20:03 +02:00",
-    "name": "16 oktober 14.18, Trafikolycka, Örnsköldsvik",
-    "summary": "Trafikolycka i Domsjö, Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2025/oktober/16/16-oktober-14.18-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 608609,
-    "datetime": "2025-10-16 19:05:02 +02:00",
-    "name": "16 oktober 18.51, Rattfylleri, Stockholm",
-    "summary": "Fordonsförare i Fruängen rapporterades för drograttfylleri och olovlig körning.",
-    "url": "/aktuellt/handelser/2025/oktober/16/16-oktober-18.51-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
