@@ -1,5 +1,125 @@
 [
   {
+    "id": 610501,
+    "datetime": "2025-10-24 18:15:17 +02:00",
+    "name": "24 oktober 18.10, Trafikolycka, Gislaved",
+    "summary": "Personbil och buss i krock.",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-18.10-trafikolycka-gislaved/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gislaved",
+      "gps": "57.2985,13.54326"
+    }
+  },
+  {
+    "id": 610513,
+    "datetime": "2025-10-24 20:23:43 +02:00",
+    "name": "24 oktober 19.10, Kontroll, Malmö",
+    "summary": "Pildammsparken",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.10-kontroll-malmo/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 610525,
+    "datetime": "2025-10-24 20:58:20 +02:00",
+    "name": "24 oktober 19.34, Trafikbrott, Piteå",
+    "summary": "E4 Norrfjärden, polis kontaktas gällande en bilist som kör vingligt och utan lysen",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.34-trafikbrott-pitea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 610524,
+    "datetime": "2025-10-24 20:55:27 +02:00",
+    "name": "24 oktober 20.11, Brand, Habo",
+    "summary": "Brand på campingplats.",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-20.11-brand-habo/",
+    "type": "Brand",
+    "location": {
+      "name": "Habo",
+      "gps": "57.909309,14.074367"
+    }
+  },
+  {
+    "id": 610523,
+    "datetime": "2025-10-24 20:54:16 +02:00",
+    "name": "24 oktober 18.23, Misshandel, Arvika",
+    "summary": "En man i femtiofemårsåldern har gripits misstänkt för misshandel i nära relation.",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-18.23-misshandel-arvika/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 610522,
+    "datetime": "2025-10-24 20:51:39 +02:00",
+    "name": "24 oktober 19.29, Trafikolycka, Kalix",
+    "summary": "Rolfs, två trafikanter har kolliderat",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.29-trafikolycka-kalix/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 610521,
+    "datetime": "2025-10-24 20:50:39 +02:00",
+    "name": "24 oktober 15.24, Trafikolycka, personskada, Örebro",
+    "summary": "En cyklist blev under eftermiddagen påkörd av en bilist vid Västhaga.",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-15.24-trafikolycka-personskada-orebro/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 610520,
+    "datetime": "2025-10-24 20:44:40 +02:00",
+    "name": "24 oktober 18.25, Fylleri/LOB, Luleå",
+    "summary": "Lulsundet, polis kontaktas gällande berusad man utomhus",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-18.25-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 610519,
+    "datetime": "2025-10-24 20:41:56 +02:00",
+    "name": "24 oktober 17.11, Narkotikabrott, Boden",
+    "summary": "Boden, polis kontaktas gällande misstänkt påverkad man på tåg",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-17.11-narkotikabrott-boden/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 610518,
+    "datetime": "2025-10-24 20:40:59 +02:00",
+    "name": "24 oktober 18.28, Rattfylleri, Falun",
+    "summary": "Man   i sextioårsålder misstänks för rattfylleri efter kontroll i Falun.",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-18.28-rattfylleri-falun/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
     "id": 610515,
     "datetime": "2025-10-24 20:35:37 +02:00",
     "name": "24 oktober 15.34, Trafikbrott, Karlskoga",
@@ -21,18 +141,6 @@
     "location": {
       "name": "Arvika",
       "gps": "59.654853,12.592136"
-    }
-  },
-  {
-    "id": 610513,
-    "datetime": "2025-10-24 20:23:43 +02:00",
-    "name": "24 oktober 19.10, Kontroll, Malmö",
-    "summary": "Pildammsparken",
-    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.10-kontroll-malmo/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -93,18 +201,6 @@
     "location": {
       "name": "Östersund",
       "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 610501,
-    "datetime": "2025-10-24 18:15:17 +02:00",
-    "name": "24 oktober 18.10, Trafikolycka, Gislaved",
-    "summary": "Personbil och buss i krock.",
-    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-18.10-trafikolycka-gislaved/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gislaved",
-      "gps": "57.2985,13.54326"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 608752,
-    "datetime": "2025-10-18 6:58:32 +02:00",
-    "name": "18 oktober 04.22, Brand, Malmö",
-    "summary": "Brand i trapphus på Sallerupsvägen.",
-    "url": "/aktuellt/handelser/2025/oktober/18/18-oktober-04.22-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 608749,
-    "datetime": "2025-10-18 6:53:22 +02:00",
-    "name": "18 oktober 00.59, Misshandel, Ystad",
-    "summary": "Misshandel på Stora Västergatan.",
-    "url": "/aktuellt/handelser/2025/oktober/18/18-oktober-00.59-misshandel-ystad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Ystad",
-      "gps": "55.429505,13.820031"
-    }
-  },
-  {
-    "id": 608748,
-    "datetime": "2025-10-18 6:49:34 +02:00",
-    "name": "18 oktober 00.32, Misshandel, Helsingborg",
-    "summary": "Misshandel utomhus i Mörarp.",
-    "url": "/aktuellt/handelser/2025/oktober/18/18-oktober-00.32-misshandel-helsingborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 608747,
-    "datetime": "2025-10-18 6:41:51 +02:00",
-    "name": "18 oktober 01.52, Brand, Kristianstad",
-    "summary": "Brand i villa på Nosabyvägen.",
-    "url": "/aktuellt/handelser/2025/oktober/18/18-oktober-01.52-brand-kristianstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 608746,
-    "datetime": "2025-10-18 6:35:07 +02:00",
-    "name": "18 oktober 00.43, Brand, Älmhult",
-    "summary": "Brand i fordon på Häradsgatan.",
-    "url": "/aktuellt/handelser/2025/oktober/18/18-oktober-00.43-brand-almhult/",
-    "type": "Brand",
-    "location": {
-      "name": "Älmhult",
-      "gps": "56.552446,14.137405"
-    }
-  },
-  {
-    "id": 608745,
-    "datetime": "2025-10-18 6:30:41 +02:00",
-    "name": "18 oktober 06.26, Misshandel, Växjö",
-    "summary": "Kvinna misshandlad av närstående.",
-    "url": "/aktuellt/handelser/2025/oktober/18/18-oktober-06.26-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 608744,
-    "datetime": "2025-10-18 6:26:35 +02:00",
-    "name": "18 oktober 01.17, Misshandel, Kalmar",
-    "summary": "Misshandel på Larmtorget.",
-    "url": "/aktuellt/handelser/2025/oktober/18/18-oktober-01.17-misshandel-kalmar/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 608743,
-    "datetime": "2025-10-18 6:20:08 +02:00",
-    "name": "18 oktober 00.34, Ofredande/förargelse, Karlskrona",
-    "summary": "Man knuffad till marken i Hoglands Park.",
-    "url": "/aktuellt/handelser/2025/oktober/18/18-oktober-00.34-ofredandeforargelse-karlskrona/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   }
 ]
