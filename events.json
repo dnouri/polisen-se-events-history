@@ -1,14 +1,98 @@
 [
   {
-    "id": 610506,
-    "datetime": "2025-10-24 19:39:00 +02:00",
-    "name": "24 oktober 19.09, Trafikolycka, singel, Jönköping",
-    "summary": "Singelolycka på E4 vid Gränna.",
-    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.09-trafikolycka-singel-jonkoping/",
-    "type": "Trafikolycka, singel",
+    "id": 610515,
+    "datetime": "2025-10-24 20:35:37 +02:00",
+    "name": "24 oktober 15.34, Trafikbrott, Karlskoga",
+    "summary": "En man i fyrtioårsålder har fått sitt körkort omhändertaget och tilldelats ordningsbot efter en incident på E1",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-15.34-trafikbrott-karlskoga/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 610514,
+    "datetime": "2025-10-24 20:27:47 +02:00",
+    "name": "24 oktober 14.57, Stöld, Arvika",
+    "summary": "Tre pojkar under femton år misstänks för stöld i butik.",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-14.57-stold-arvika/",
+    "type": "Stöld",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 610513,
+    "datetime": "2025-10-24 20:23:43 +02:00",
+    "name": "24 oktober 19.10, Kontroll, Malmö",
+    "summary": "Pildammsparken",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.10-kontroll-malmo/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 610512,
+    "datetime": "2025-10-24 20:22:16 +02:00",
+    "name": "24 oktober 14.18, Trafikbrott, Lekeberg",
+    "summary": "En man i trettiofemårsåldern misstänks för olovlig körning",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-14.18-trafikbrott-lekeberg/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Lekeberg",
+      "gps": "59.16539,14.743407"
+    }
+  },
+  {
+    "id": 610511,
+    "datetime": "2025-10-24 20:19:17 +02:00",
+    "name": "24 oktober 15.09, Misshandel, Örnsköldsvik",
+    "summary": "Örnsköldsvik, polis får information om att det ska ha skett en misshandel på en buss",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-15.09-misshandel-ornskoldsvik/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 610510,
+    "datetime": "2025-10-24 20:07:06 +02:00",
+    "name": "24 oktober 19.58, Trafikolycka, Jönköping",
+    "summary": "Personbil och lastbil i krock.",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.58-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 610509,
+    "datetime": "2025-10-24 20:04:56 +02:00",
+    "name": "24 oktober 19.14, Trafikolycka, personskada, Uppsala",
+    "summary": "Cyklist skadad",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.14-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 610508,
+    "datetime": "2025-10-24 20:00:46 +02:00",
+    "name": "24 oktober 18.34, Misshandel, Östersund",
+    "summary": "Centrum, under eftermiddagen har det varit bråk i Kyrkparken",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-18.34-misshandel-ostersund/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
     }
   },
   {
@@ -21,6 +105,18 @@
     "location": {
       "name": "Gislaved",
       "gps": "57.2985,13.54326"
+    }
+  },
+  {
+    "id": 610506,
+    "datetime": "2025-10-24 19:39:00 +02:00",
+    "name": "24 oktober 19.09, Trafikolycka, singel, Jönköping",
+    "summary": "Singelolycka på E4 vid Gränna.",
+    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-19.09-trafikolycka-singel-jonkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Karlskrona",
       "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 608740,
-    "datetime": "2025-10-18 1:23:31 +02:00",
-    "name": "17 oktober 22.30, Trafikbrott, Strömsund",
-    "summary": "Olovlig körning, beslag av A-traktor",
-    "url": "/aktuellt/handelser/2025/oktober/17/17-oktober-22.30-trafikbrott-stromsund/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 608736,
-    "datetime": "2025-10-17 21:45:25 +02:00",
-    "name": "17 oktober 21.45, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2025/oktober/17/17-oktober-21.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 608737,
-    "datetime": "2025-10-17 21:45:19 +02:00",
-    "name": "17 oktober 21.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2025/oktober/17/17-oktober-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 608739,
-    "datetime": "2025-10-17 21:41:58 +02:00",
-    "name": "17 oktober 21.35, Brand, Falun",
-    "summary": "Det brinner i en villa i Falun",
-    "url": "/aktuellt/handelser/2025/oktober/17/17-oktober-21.35-brand-falun/",
-    "type": "Brand",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 608738,
-    "datetime": "2025-10-17 21:40:36 +02:00",
-    "name": "17 oktober 21.21, Bråk, Kristianstad",
-    "summary": "Bråk på akuten i Kristianstad",
-    "url": "/aktuellt/handelser/2025/oktober/17/17-oktober-21.21-brak-kristianstad/",
-    "type": "Bråk",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 608735,
-    "datetime": "2025-10-17 21:21:52 +02:00",
-    "name": "17 oktober 21.06, Trafikolycka, Helsingborg",
-    "summary": "Tre personbilar i krock.",
-    "url": "/aktuellt/handelser/2025/oktober/17/17-oktober-21.06-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 608734,
-    "datetime": "2025-10-17 21:11:07 +02:00",
-    "name": "17 oktober 19.40, Misshandel, Jönköping",
-    "summary": "Två gripna efter misshandel i lägenhet",
-    "url": "/aktuellt/handelser/2025/oktober/17/17-oktober-19.40-misshandel-jonkoping/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 608733,
-    "datetime": "2025-10-17 21:07:33 +02:00",
-    "name": "17 oktober 18.44, Brand, Arvika",
-    "summary": "Det har brunnit i inredning i en stuga i Bogen",
-    "url": "/aktuellt/handelser/2025/oktober/17/17-oktober-18.44-brand-arvika/",
-    "type": "Brand",
-    "location": {
-      "name": "Arvika",
-      "gps": "59.654853,12.592136"
     }
   }
 ]
