@@ -1,5 +1,41 @@
 [
   {
+    "id": 610604,
+    "datetime": "2025-10-26 9:45:40 +01:00",
+    "name": "26 oktober 02.49, Arbetsplatsolycka, Pajala",
+    "summary": "Larm om olycka på en arbetsplats på en mindre ort i kommunen.",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-02.49-arbetsplatsolycka-pajala/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 610584,
+    "datetime": "2025-10-25 21:57:09 +02:00",
+    "name": "25 oktober 21.36, Mord/dråp, försök, Stockholm",
+    "summary": "En person skottskadas i Rinkeby.",
+    "url": "/aktuellt/handelser/2025/oktober/25/25-oktober-21.36-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 610603,
+    "datetime": "2025-10-26 9:32:11 +01:00",
+    "name": "26 oktober 04.10, Explosion, Mellerud",
+    "summary": "Polis larmas till ett lägenhetshus i Dals Rostock efter uppgift om att något ska ha exploderat i trappuppgånge",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-04.10-explosion-mellerud/",
+    "type": "Explosion",
+    "location": {
+      "name": "Mellerud",
+      "gps": "58.702568,12.451842"
+    }
+  },
+  {
     "id": 610554,
     "datetime": "2025-10-25 10:46:36 +02:00",
     "name": "25 oktober 10.41, Uppdatering, Avesta",
@@ -249,18 +285,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 610584,
-    "datetime": "2025-10-25 21:57:09 +02:00",
-    "name": "25 oktober 21.36, Mord/dråp, försök, Stockholm",
-    "summary": "En person skottskadas i Rinkeby.",
-    "url": "/aktuellt/handelser/2025/oktober/25/25-oktober-21.36-morddrap-forsok-stockholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 608828,
-    "datetime": "2025-10-19 8:07:27 +02:00",
-    "name": "19 oktober 08.07, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-08.07-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 608830,
-    "datetime": "2025-10-19 8:06:24 +02:00",
-    "name": "19 oktober 08.06, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-08.06-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
