@@ -1,5 +1,89 @@
 [
   {
+    "id": 610621,
+    "datetime": "2025-10-26 14:56:42 +01:00",
+    "name": "26 oktober 14.34, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat på Holmen.",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-14.34-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 610624,
+    "datetime": "2025-10-26 15:01:19 +01:00",
+    "name": "26 oktober 15.01, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-15.01-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 610623,
+    "datetime": "2025-10-26 15:01:01 +01:00",
+    "name": "26 oktober 15.00, Övrigt, Hallands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-15.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 610622,
+    "datetime": "2025-10-26 14:58:40 +01:00",
+    "name": "26 oktober 14.30, Trafikolycka, Falun",
+    "summary": "En olycka har inträffat i Vika.",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-14.30-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 610620,
+    "datetime": "2025-10-26 14:51:02 +01:00",
+    "name": "26 oktober 09.01, Skadegörelse, Kalix",
+    "summary": "Polispatrull beordras till en offentlig byggnad i centrala Kalix med anledning av en skadegörelse.",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-09.01-skadegorelse-kalix/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Kalix",
+      "gps": "65.855281,23.143965"
+    }
+  },
+  {
+    "id": 610603,
+    "datetime": "2025-10-26 9:32:11 +01:00",
+    "name": "26 oktober 04.10, Explosion, Mellerud",
+    "summary": "Polis larmas till ett lägenhetshus i Dals Rostock efter uppgift om att något ska ha exploderat i trappuppgånge",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-04.10-explosion-mellerud/",
+    "type": "Explosion",
+    "location": {
+      "name": "Mellerud",
+      "gps": "58.702568,12.451842"
+    }
+  },
+  {
+    "id": 610610,
+    "datetime": "2025-10-26 11:55:50 +01:00",
+    "name": "26 oktober 11.55, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-11.55-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 610619,
     "datetime": "2025-10-26 13:55:15 +01:00",
     "name": "26 oktober 10.03, Stöld/inbrott, Uppsala",
@@ -108,18 +192,6 @@
     }
   },
   {
-    "id": 610610,
-    "datetime": "2025-10-26 11:55:50 +01:00",
-    "name": "26 oktober 11.55, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-11.55-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
     "id": 610581,
     "datetime": "2025-10-25 21:41:15 +02:00",
     "name": "25 oktober 20.06, Mord/dråp, Gävle",
@@ -213,18 +285,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 610603,
-    "datetime": "2025-10-26 9:32:11 +01:00",
-    "name": "26 oktober 04.10, Explosion, Mellerud",
-    "summary": "Polis larmas till ett lägenhetshus i Dals Rostock efter uppgift om att något ska ha exploderat i trappuppgånge",
-    "url": "/aktuellt/handelser/2025/oktober/26/26-oktober-04.10-explosion-mellerud/",
-    "type": "Explosion",
-    "location": {
-      "name": "Mellerud",
-      "gps": "58.702568,12.451842"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Kalmar",
       "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 608859,
-    "datetime": "2025-10-19 20:04:47 +02:00",
-    "name": "19 oktober 18.42, Trafikolycka, Västervik",
-    "summary": "En singelolycka med en motorcykel inträffar på Stora infartsvägen.",
-    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-18.42-trafikolycka-vastervik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 608857,
-    "datetime": "2025-10-19 18:02:00 +02:00",
-    "name": "19 oktober 16.11, Skadegörelse, Helsingborg",
-    "summary": "Skadegörelse, Husensjö.",
-    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-16.11-skadegorelse-helsingborg/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 608856,
-    "datetime": "2025-10-19 18:01:59 +02:00",
-    "name": "19 oktober 18.00, Polisinsats/kommendering, Stockholm",
-    "summary": "Under söndagen har polisen genomfört en insats med anledning av fotbollsderby på 3Arena.",
-    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-18.00-polisinsatskommendering-stockholm/",
-    "type": "Polisinsats/kommendering",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 608855,
-    "datetime": "2025-10-19 17:05:31 +02:00",
-    "name": "19 oktober 16.55, Försvunnen person, Karlskrona",
-    "summary": "Försvunnen pojke anträffad.",
-    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-16.55-forsvunnen-person-karlskrona/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 608842,
-    "datetime": "2025-10-19 12:54:37 +02:00",
-    "name": "19 oktober 11.24, Försvunnen person, Malmö",
-    "summary": "Den kvinnan som anmäldes försvunnen på söndagen har hittats.",
-    "url": "/aktuellt/handelser/2025/oktober/19/19-oktober-11.24-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
