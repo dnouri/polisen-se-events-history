@@ -1,14 +1,26 @@
 [
   {
-    "id": 610789,
-    "datetime": "2025-10-28 8:24:40 +01:00",
-    "name": "28 oktober 08.13, Rattfylleri, Karlstad",
-    "summary": "En bilist är misstänkt för brott i Älvåker.",
-    "url": "/aktuellt/handelser/2025/oktober/28/28-oktober-08.13-rattfylleri-karlstad/",
+    "id": 610792,
+    "datetime": "2025-10-28 9:00:03 +01:00",
+    "name": "28 oktober 08.40, Trafikolycka, singel, Värnamo",
+    "summary": "Singelolycka på E4.",
+    "url": "/aktuellt/handelser/2025/oktober/28/28-oktober-08.40-trafikolycka-singel-varnamo/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
+    "id": 610796,
+    "datetime": "2025-10-28 9:34:19 +01:00",
+    "name": "28 oktober 08.41, Rattfylleri, Falun",
+    "summary": "En bilist är misstänkt för brott i centrum.",
+    "url": "/aktuellt/handelser/2025/oktober/28/28-oktober-08.41-rattfylleri-falun/",
     "type": "Rattfylleri",
     "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -21,6 +33,30 @@
     "location": {
       "name": "Kristinehamn",
       "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 610794,
+    "datetime": "2025-10-28 9:19:55 +01:00",
+    "name": "28 oktober 08.26, Brand, Örebro",
+    "summary": "Det har brunnit i en källare på Söder.",
+    "url": "/aktuellt/handelser/2025/oktober/28/28-oktober-08.26-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 610789,
+    "datetime": "2025-10-28 8:24:40 +01:00",
+    "name": "28 oktober 08.13, Rattfylleri, Karlstad",
+    "summary": "En bilist är misstänkt för brott i Älvåker.",
+    "url": "/aktuellt/handelser/2025/oktober/28/28-oktober-08.13-rattfylleri-karlstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 610018,
-    "datetime": "2025-10-21 12:29:18 +02:00",
-    "name": "21 oktober 09.40, Rattfylleri, Kumla",
-    "summary": "En man i sextioårsåldern misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-09.40-rattfylleri-kumla/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 609989,
-    "datetime": "2025-10-21 12:26:43 +02:00",
-    "name": "21 oktober 08.53, Trafikolycka, Jokkmokk",
-    "summary": "Larm om trafikolycka på länsväg 810, Jokkmokk.",
-    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-08.53-trafikolycka-jokkmokk/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 610017,
-    "datetime": "2025-10-21 12:25:13 +02:00",
-    "name": "21 oktober 09.50, Trafikbrott, Falun",
-    "summary": "En man i sextiofemårsåldern misstänks för grov olovlig körning.",
-    "url": "/aktuellt/handelser/2025/oktober/21/21-oktober-09.50-trafikbrott-falun/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   }
 ]
