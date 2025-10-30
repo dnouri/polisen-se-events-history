@@ -1,17 +1,5 @@
 [
   {
-    "id": 611080,
-    "datetime": "2025-10-30 12:42:18 +01:00",
-    "name": "30 oktober 11.17, Knivlagen, Linköping",
-    "summary": "Överfallslarm från Skäggetorp.",
-    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-11.17-knivlagen-linkoping/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
-    }
-  },
-  {
     "id": 611078,
     "datetime": "2025-10-30 12:07:44 +01:00",
     "name": "30 oktober 12.01, Trafikolycka, Landskrona",
@@ -24,6 +12,30 @@
     }
   },
   {
+    "id": 611087,
+    "datetime": "2025-10-30 13:37:10 +01:00",
+    "name": "30 oktober 13.19, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka, Ribersborg",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-13.19-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 611083,
+    "datetime": "2025-10-30 13:12:56 +01:00",
+    "name": "30 oktober 13.12, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-13.12-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 611077,
     "datetime": "2025-10-30 11:56:05 +01:00",
     "name": "30 oktober 11.32, Brand, Forshaga",
@@ -33,6 +45,18 @@
     "location": {
       "name": "Forshaga",
       "gps": "59.529761,13.486084"
+    }
+  },
+  {
+    "id": 611080,
+    "datetime": "2025-10-30 12:42:18 +01:00",
+    "name": "30 oktober 11.17, Misshandel, Linköping",
+    "summary": "Överfallslarm från Skäggetorp.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-11.17-misshandel-linkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Södertälje",
       "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 610249,
-    "datetime": "2025-10-23 7:41:36 +02:00",
-    "name": "23 oktober 07.27, Trafikolycka, Göteborg",
-    "summary": "Buss och personbil i trafikolycka.",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-07.27-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 610261,
-    "datetime": "2025-10-23 9:41:49 +02:00",
-    "name": "23 oktober 06.29, Trafikolycka, Umeå",
-    "summary": "Trafikolycka på Köksvägen, Ålidhem",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-06.29-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   }
 ]
