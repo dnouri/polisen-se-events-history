@@ -1,5 +1,17 @@
 [
   {
+    "id": 611142,
+    "datetime": "2025-10-30 21:25:05 +01:00",
+    "name": "30 oktober 18.58, Trafikolycka, Uppsala",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-18.58-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
     "id": 611137,
     "datetime": "2025-10-30 20:38:17 +01:00",
     "name": "30 oktober 20.24, Försvunnen person, Örnsköldsvik",
@@ -9,6 +21,54 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 611141,
+    "datetime": "2025-10-30 21:15:16 +01:00",
+    "name": "30 oktober 17.00, Bedrägeri, Håbo",
+    "summary": "Anmälan om försök till bedrägeri.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.00-bedrageri-habo/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
+    "id": 611140,
+    "datetime": "2025-10-30 21:10:07 +01:00",
+    "name": "30 oktober 17.26, Rattfylleri, Sundsvall",
+    "summary": "Söder om Sundsvall, en bilist uppges ha blivit påbackad av en annan trafikant",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.26-rattfylleri-sundsvall/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 611139,
+    "datetime": "2025-10-30 21:05:14 +01:00",
+    "name": "30 oktober 20.36, Rattfylleri, Filipstad",
+    "summary": "En man trettioårsåldern har omhändertagits för kroppsbesiktning.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-20.36-rattfylleri-filipstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 611138,
+    "datetime": "2025-10-30 20:58:13 +01:00",
+    "name": "30 oktober 19.24, Stöld, Sundsvall",
+    "summary": "Birsta, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-19.24-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -192,18 +252,6 @@
     }
   },
   {
-    "id": 611120,
-    "datetime": "2025-10-30 18:08:43 +01:00",
-    "name": "30 oktober 17.08, Misshandel, Sjöbo",
-    "summary": "Ambulans larmar om bråkig patient.",
-    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.08-misshandel-sjobo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sjöbo",
-      "gps": "55.634822,13.70337"
-    }
-  },
-  {
     "id": 611121,
     "datetime": "2025-10-30 18:08:43 +01:00",
     "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
@@ -213,6 +261,18 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 611120,
+    "datetime": "2025-10-30 18:08:43 +01:00",
+    "name": "30 oktober 17.08, Misshandel, Sjöbo",
+    "summary": "Ambulans larmar om bråkig patient.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.08-misshandel-sjobo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 610333,
-    "datetime": "2025-10-23 20:29:55 +02:00",
-    "name": "23 oktober 19.37, Rån, försök, Helsingborg",
-    "summary": "Försök till rån, livsmedelsbutik",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-19.37-ran-forsok-helsingborg/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 610320,
-    "datetime": "2025-10-23 20:06:32 +02:00",
-    "name": "23 oktober 18.40, Trafikolycka, Öckerö",
-    "summary": "Vi får larm om en trafikolycka på Hönövägen. Enligt inringare ska det vara två personbilar och en moped inblan",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-18.40-trafikolycka-ockero/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Öckerö",
-      "gps": "57.711741,11.648789"
-    }
-  },
-  {
-    "id": 610318,
-    "datetime": "2025-10-23 19:03:27 +02:00",
-    "name": "23 oktober 18.56, Trafikolycka, Stockholm",
-    "summary": "Bil som kört av vägen på 73:an i höjd med Skogskyrkogården.",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-18.56-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 610325,
-    "datetime": "2025-10-23 19:37:12 +02:00",
-    "name": "23 oktober 14.47, Våld/hot mot tjänsteman, Skellefteå",
-    "summary": "Centrum, ung man skulle avlägsnas från en adress",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-14.47-valdhot-mot-tjansteman-skelleftea/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 610321,
-    "datetime": "2025-10-23 19:23:06 +02:00",
-    "name": "23 oktober 17.45, Stöld, Luleå",
-    "summary": "Innerstaden, man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-17.45-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
