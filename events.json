@@ -1,5 +1,113 @@
 [
   {
+    "id": 611122,
+    "datetime": "2025-10-30 18:21:37 +01:00",
+    "name": "30 oktober 15.07, Rattfylleri, Söderhamn",
+    "summary": "Man misstänkt för rattfylleri.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-15.07-rattfylleri-soderhamn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Söderhamn",
+      "gps": "61.305576,17.06281"
+    }
+  },
+  {
+    "id": 611120,
+    "datetime": "2025-10-30 18:08:43 +01:00",
+    "name": "30 oktober 17.08, Misshandel, Sjöbo",
+    "summary": "Ambulans larmar om bråkig patient.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.08-misshandel-sjobo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 611121,
+    "datetime": "2025-10-30 18:08:43 +01:00",
+    "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
+    "summary": "Gullänget, en trafikolycka har inträffat vid Johannesvägen/Krokvägen",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.14-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 611119,
+    "datetime": "2025-10-30 17:57:14 +01:00",
+    "name": "30 oktober 15.37, Trafikolycka, personskada, Västerås",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-15.37-trafikolycka-personskada-vasteras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 611113,
+    "datetime": "2025-10-30 17:55:38 +01:00",
+    "name": "30 oktober 17.55, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.55-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 611118,
+    "datetime": "2025-10-30 17:53:31 +01:00",
+    "name": "30 oktober 16.11, Rattfylleri, Habo",
+    "summary": "Man misstänks för rattfylleri",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-16.11-rattfylleri-habo/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Habo",
+      "gps": "57.909309,14.074367"
+    }
+  },
+  {
+    "id": 611116,
+    "datetime": "2025-10-30 17:48:17 +01:00",
+    "name": "30 oktober 17.10, Trafikolycka, Västerås",
+    "summary": "Trafikolycka på E18.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.10-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 611115,
+    "datetime": "2025-10-30 17:41:31 +01:00",
+    "name": "30 oktober 17.18, Trafikolycka, Sundsvall",
+    "summary": "Stenstan, en trafikolycka har inträffat vid Esplanaden/Köpmangatan",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.18-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 611114,
+    "datetime": "2025-10-30 17:37:08 +01:00",
+    "name": "30 oktober 17.18, Trafikkontroll, Umeå",
+    "summary": "Täfteå, resultat efter trafikkontroll i höjd med Halängesvägen",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.18-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 611103,
     "datetime": "2025-10-30 16:10:06 +01:00",
     "name": "30 oktober 14.59, Misshandel, Lund",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 610299,
-    "datetime": "2025-10-23 15:38:51 +02:00",
-    "name": "23 oktober 14.08, Fylleri/LOB, Härnösand",
-    "summary": "Bondsjöstaden, polis kontaktas gällande en man som går runt utomhus",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-14.08-fyllerilob-harnosand/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 610270,
-    "datetime": "2025-10-23 10:35:05 +02:00",
-    "name": "23 oktober 10.04, Brand, Varberg",
-    "summary": "Larm om brand i villa.",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-10.04-brand-varberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Varberg",
-      "gps": "57.107118,12.252091"
-    }
-  },
-  {
-    "id": 610292,
-    "datetime": "2025-10-23 14:52:11 +02:00",
-    "name": "23 oktober 12.45, Rattfylleri, Strömsund",
-    "summary": "Strömsund, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-12.45-rattfylleri-stromsund/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Strömsund",
-      "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 610290,
-    "datetime": "2025-10-23 14:42:44 +02:00",
-    "name": "23 oktober 14.28, Arbetsplatsolycka, Trollhättan",
-    "summary": "Vi får larm om en arbetsplatsolycka på Kardanvägen. Enligt inringare ska en person ha klämt sin hand i en vals",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-14.28-arbetsplatsolycka-trollhattan/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Trollhättan",
-      "gps": "58.283489,12.285821"
-    }
-  },
-  {
-    "id": 610289,
-    "datetime": "2025-10-23 14:40:02 +02:00",
-    "name": "23 oktober 13.22, Trafikkontroll, Skellefteå",
-    "summary": "Riksväg 95, resultat efter trafikkontroll i Varuträsk",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-13.22-trafikkontroll-skelleftea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 610287,
-    "datetime": "2025-10-23 13:38:29 +02:00",
-    "name": "23 oktober 12.13, Anträffat gods, Norrköping",
-    "summary": "Föremål anträffat i Norrköping.",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-12.13-antraffat-gods-norrkoping/",
-    "type": "Anträffat gods",
-    "location": {
-      "name": "Norrköping",
-      "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 610288,
-    "datetime": "2025-10-23 13:54:20 +02:00",
-    "name": "23 oktober 12.45, Stöld, Uppsala",
-    "summary": "Större mängd gods har stulits från ett företag i Boländerna.",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-12.45-stold-uppsala/",
-    "type": "Stöld",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 610286,
-    "datetime": "2025-10-23 13:34:26 +02:00",
-    "name": "23 oktober 12.29, Fylleri/LOB, Östersund",
-    "summary": "Man omhändertagen vid busstation.",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-12.29-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 610285,
-    "datetime": "2025-10-23 13:29:28 +02:00",
-    "name": "23 oktober 13.29, Miljöbrott, Luleå",
-    "summary": "Anmälan om miljöbrott efter bränsleutsläpp.",
-    "url": "/aktuellt/handelser/2025/oktober/23/23-oktober-13.29-miljobrott-lulea/",
-    "type": "Miljöbrott",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
     }
   }
 ]
