@@ -1,5 +1,89 @@
 [
   {
+    "id": 611252,
+    "datetime": "2025-10-31 19:39:31 +01:00",
+    "name": "31 oktober 19.22, Övrigt, Eskilstuna",
+    "summary": "Polispatruller i Årby, Eskilstuna.",
+    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-19.22-ovrigt-eskilstuna/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 611234,
+    "datetime": "2025-10-31 16:17:08 +01:00",
+    "name": "31 oktober 15.33, Misshandel, Göteborg",
+    "summary": "Larm om misshandel.",
+    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-15.33-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 611251,
+    "datetime": "2025-10-31 19:25:32 +01:00",
+    "name": "31 oktober 17.01, Trafikolycka, Västerås",
+    "summary": "Kollision på E18.",
+    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-172.01-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 611249,
+    "datetime": "2025-10-31 19:07:45 +01:00",
+    "name": "31 oktober 18.52, Brand, Jönköping",
+    "summary": "Brand i en industribyggnad utanför Huskvarna.",
+    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-18.52-brand-jonkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 611250,
+    "datetime": "2025-10-31 19:13:05 +01:00",
+    "name": "31 oktober 16.24, Stöld, Luleå",
+    "summary": "Misstänkt ringa stöld i butik, Storheden.",
+    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-16.24-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 611248,
+    "datetime": "2025-10-31 19:01:03 +01:00",
+    "name": "31 oktober 18.36, Brand, Ödeshög",
+    "summary": "Personbil började brinna under färd.",
+    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-18.36-brand-odeshog/",
+    "type": "Brand",
+    "location": {
+      "name": "Ödeshög",
+      "gps": "58.228996,14.64882"
+    }
+  },
+  {
+    "id": 611170,
+    "datetime": "2025-10-31 7:44:20 +01:00",
+    "name": "31 oktober 07.11, Farligt föremål, misstänkt, Borås",
+    "summary": "Flera samtal inkommer under morgonen om ett misstänkt farligt föremål på Distansgatan, Hässleholmen.",
+    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-07.11-farligt-foremal-misstankt-boras/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
     "id": 611237,
     "datetime": "2025-10-31 17:10:45 +01:00",
     "name": "31 oktober 17.07, Trafikhinder, Ystad",
@@ -69,18 +153,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 611234,
-    "datetime": "2025-10-31 16:17:08 +01:00",
-    "name": "31 oktober 15.33, Misshandel, Göteborg",
-    "summary": "Larm om misshandel.",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-15.33-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   },
   {
@@ -285,18 +357,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 611170,
-    "datetime": "2025-10-31 7:44:20 +01:00",
-    "name": "31 oktober 07.11, Farligt föremål, misstänkt, Borås",
-    "summary": "Flera samtal inkommer under morgonen om ett misstänkt farligt föremål på Distansgatan, Hässleholmen.",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-07.11-farligt-foremal-misstankt-boras/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Lund",
       "gps": "55.70466,13.191007"
-    }
-  },
-  {
-    "id": 610504,
-    "datetime": "2025-10-24 18:56:26 +02:00",
-    "name": "24 oktober 18.05, Stöld/inbrott, Ängelholm",
-    "summary": "Man gripen",
-    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-18.05-stoldinbrott-angelholm/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 610496,
-    "datetime": "2025-10-24 18:34:55 +02:00",
-    "name": "24 oktober 18.00, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-18.00-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 610503,
-    "datetime": "2025-10-24 18:29:20 +02:00",
-    "name": "24 oktober 17.18, Fylleri/LOB, Skellefteå",
-    "summary": "Centrum, polis kontaktas gällande berusad man på ett hotell",
-    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-17.18-fyllerilob-skelleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 610502,
-    "datetime": "2025-10-24 18:16:28 +02:00",
-    "name": "24 oktober 17.13, Trafikolycka, personskada, Uppsala",
-    "summary": "Cyklist skadad.",
-    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-17.13-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 610499,
-    "datetime": "2025-10-24 17:57:24 +02:00",
-    "name": "24 oktober 17.46, Brand, Jönköping",
-    "summary": "Brand i flerfamiljshus i Råslätt.",
-    "url": "/aktuellt/handelser/2025/oktober/24/24-oktober-17.46-brand-jonkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
     }
   }
 ]
