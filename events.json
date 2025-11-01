@@ -1,5 +1,65 @@
 [
   {
+    "id": 611290,
+    "datetime": "2025-11-01 7:58:06 +01:00",
+    "name": "01 november 07.58, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/november/1/01-november-07.58-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 611306,
+    "datetime": "2025-11-01 11:20:51 +01:00",
+    "name": "01 november 11.20, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/november/1/01-november-11.20-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 611305,
+    "datetime": "2025-11-01 11:14:28 +01:00",
+    "name": "01 november 11.11, Larm Överfall, Nyköping",
+    "summary": "Aggressiv man i galleria.",
+    "url": "/aktuellt/handelser/2025/november/1/01-november-11.11-larm-overfall-nykoping/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
+    "id": 611302,
+    "datetime": "2025-11-01 10:25:43 +01:00",
+    "name": "01 november 09.27, Försvunnen person, Helsingborg",
+    "summary": "Den man som anmäldes försvunnen på lördagen har hittats.",
+    "url": "/aktuellt/handelser/2025/november/1/01-november-09.27-forsvunnen-person-helsingborg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 611304,
+    "datetime": "2025-11-01 10:45:00 +01:00",
+    "name": "01 november 10.44, Misshandel, Östersund",
+    "summary": "Kvinna anhållen misstänkt för brott mot närstående man.",
+    "url": "/aktuellt/handelser/2025/november/1/01-november-10.44-misshandel-ostersund/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 611303,
     "datetime": "2025-11-01 10:30:53 +01:00",
     "name": "01 november 07.03, Narkotikabrott, Luleå",
@@ -9,18 +69,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 611302,
-    "datetime": "2025-11-01 10:25:43 +01:00",
-    "name": "01 november 09.27, Försvunnen person, Helsingborg",
-    "summary": "Polisen söker efter en man i 80-årsåldern som anmälts försvunnen.",
-    "url": "/aktuellt/handelser/2025/november/1/01-november-09.27-forsvunnen-person-helsingborg/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -45,18 +93,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 611290,
-    "datetime": "2025-11-01 7:58:06 +01:00",
-    "name": "01 november 07.58, Sammanfattning natt, Södermanlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/november/1/01-november-07.58-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -1716,18 +1752,6 @@
     }
   },
   {
-    "id": 611120,
-    "datetime": "2025-10-30 18:08:43 +01:00",
-    "name": "30 oktober 17.08, Misshandel, Sjöbo",
-    "summary": "Ambulans larmar om bråkig patient.",
-    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.08-misshandel-sjobo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sjöbo",
-      "gps": "55.634822,13.70337"
-    }
-  },
-  {
     "id": 611121,
     "datetime": "2025-10-30 18:08:43 +01:00",
     "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
@@ -1737,6 +1761,18 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 611120,
+    "datetime": "2025-10-30 18:08:43 +01:00",
+    "name": "30 oktober 17.08, Misshandel, Sjöbo",
+    "summary": "Ambulans larmar om bråkig patient.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.08-misshandel-sjobo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 610558,
-    "datetime": "2025-10-25 11:52:03 +02:00",
-    "name": "25 oktober 11.09, Trafikolycka, Grums",
-    "summary": "En olycka har inträffat i Värmskog",
-    "url": "/aktuellt/handelser/2025/oktober/25/25-oktober-11.09-trafikolycka-grums/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
-    }
-  },
-  {
-    "id": 610561,
-    "datetime": "2025-10-25 12:25:36 +02:00",
-    "name": "25 oktober 11.59, Fylleri/LOB, Luleå",
-    "summary": "Polisen kontaktas angående en berusad man i Innerstaden.",
-    "url": "/aktuellt/handelser/2025/oktober/25/25-oktober-11.59-fyllerilob-lulea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 610560,
-    "datetime": "2025-10-25 12:23:46 +02:00",
-    "name": "25 oktober 11.47, Trafikolycka, vilt, Gällivare",
-    "summary": "Polisen får in en anmälan om en olycka med en mindre lastbil och två renar på E10, Hakkas.",
-    "url": "/aktuellt/handelser/2025/oktober/25/25-oktober-11.47-trafikolycka-vilt-gallivare/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Gällivare",
-      "gps": "67.1379,20.659362"
     }
   }
 ]
