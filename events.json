@@ -1,14 +1,50 @@
 [
   {
-    "id": 611491,
-    "datetime": "2025-11-03 19:29:56 +01:00",
-    "name": "03 november 17.30, Misshandel, Eskilstuna",
-    "summary": "Anmälan om misshandel efter bråk",
-    "url": "/aktuellt/handelser/2025/november/3/03-november-17.30-misshandel-eskilstuna/",
-    "type": "Misshandel",
+    "id": 611495,
+    "datetime": "2025-11-03 19:48:31 +01:00",
+    "name": "03 november 19.42, Brand, Helsingborg",
+    "summary": "Brand i flerfamiljshus, Eneborg.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-19.42-brand-helsingborg/",
+    "type": "Brand",
     "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 611496,
+    "datetime": "2025-11-03 19:53:15 +01:00",
+    "name": "03 november 19.14, Trafikolycka, Kramfors",
+    "summary": "Singelolycka öster om Kramfors.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-19.14-trafikolycka-kramfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 611494,
+    "datetime": "2025-11-03 19:46:48 +01:00",
+    "name": "03 november 19.06, Skadegörelse, Luleå",
+    "summary": "Luleå, skadegörelse på lastbil.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-19.06-skadegorelse-lulea/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 611493,
+    "datetime": "2025-11-03 19:42:54 +01:00",
+    "name": "03 november 19.28, Brand, Umeå",
+    "summary": "Umeå, larm om brand på Sandbacka.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-19.28-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -21,6 +57,30 @@
     "location": {
       "name": "Berg",
       "gps": "62.772481,14.169867"
+    }
+  },
+  {
+    "id": 611492,
+    "datetime": "2025-11-03 19:37:50 +01:00",
+    "name": "03 november 19.18, Brand, Östersund",
+    "summary": "Östersund, brand på Frösön.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-19.18-brand-ostersund/",
+    "type": "Brand",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 611491,
+    "datetime": "2025-11-03 19:29:56 +01:00",
+    "name": "03 november 17.30, Misshandel, Eskilstuna",
+    "summary": "Anmälan om misshandel efter bråk",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-17.30-misshandel-eskilstuna/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
     }
   },
   {
@@ -3468,18 +3528,6 @@
     }
   },
   {
-    "id": 611121,
-    "datetime": "2025-10-30 18:08:43 +01:00",
-    "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
-    "summary": "Gullänget, en trafikolycka har inträffat vid Johannesvägen/Krokvägen",
-    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.14-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
     "id": 611120,
     "datetime": "2025-10-30 18:08:43 +01:00",
     "name": "30 oktober 17.08, Misshandel, Sjöbo",
@@ -3489,6 +3537,18 @@
     "location": {
       "name": "Sjöbo",
       "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 611121,
+    "datetime": "2025-10-30 18:08:43 +01:00",
+    "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
+    "summary": "Gullänget, en trafikolycka har inträffat vid Johannesvägen/Krokvägen",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.14-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 610767,
-    "datetime": "2025-10-28 7:02:53 +01:00",
-    "name": "28 oktober 07.00, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/oktober/28/28-oktober-07.00-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 610766,
-    "datetime": "2025-10-28 7:02:47 +01:00",
-    "name": "28 oktober 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/oktober/28/28-oktober-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 610765,
-    "datetime": "2025-10-28 7:02:08 +01:00",
-    "name": "28 oktober 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/oktober/28/28-oktober-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 610763,
-    "datetime": "2025-10-28 6:23:59 +01:00",
-    "name": "27 oktober 22.41, Trafikolycka, Simrishamn",
-    "summary": "Personbil kör in i träd, Borrby.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-22.41-trafikolycka-simrishamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Simrishamn",
-      "gps": "55.557396,14.348965"
-    }
-  },
-  {
-    "id": 610712,
-    "datetime": "2025-10-27 21:55:33 +01:00",
-    "name": "27 oktober 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
