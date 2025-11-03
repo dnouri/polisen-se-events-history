@@ -1,5 +1,53 @@
 [
   {
+    "id": 611421,
+    "datetime": "2025-11-03 16:30:15 +01:00",
+    "name": "04 november 07.00, Information, Stockholm",
+    "summary": "Polisen har övning tillsammans med Stockholms stad den 4 och 5 november.",
+    "url": "/aktuellt/handelser/2025/november/4/04-november-07.00-information-stockholm/",
+    "type": "Information",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 611473,
+    "datetime": "2025-11-03 16:29:25 +01:00",
+    "name": "03 november 16.11, Trafikolycka, Timrå",
+    "summary": "Timrå, singelolycka på E4.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-16.11-trafikolycka-timra/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 611472,
+    "datetime": "2025-11-03 16:25:30 +01:00",
+    "name": "03 november 16.25, Brand, Karlstad",
+    "summary": "En husbil har brunnit i stadsdelen Marieberg.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-16.25-brand-karlstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 611466,
+    "datetime": "2025-11-03 15:58:08 +01:00",
+    "name": "03 november 15.57, Försvunnen person, Örebro",
+    "summary": "Polisen söker en försvunnen man.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-15.57-forsvunnen-person-orebro/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 611463,
     "datetime": "2025-11-03 15:23:55 +01:00",
     "name": "03 november 15.12, Trafikolycka, Båstad",
@@ -9,6 +57,42 @@
     "location": {
       "name": "Båstad",
       "gps": "56.427389,12.847722"
+    }
+  },
+  {
+    "id": 611470,
+    "datetime": "2025-11-03 16:02:50 +01:00",
+    "name": "03 november 11.40, Narkotikabrott, Lycksele",
+    "summary": "Lycksele, man misstänkt för narkotikabrott.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-11.40-narkotikabrott-lycksele/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
+    "id": 611469,
+    "datetime": "2025-11-03 16:00:31 +01:00",
+    "name": "03 november 14.42, Trafikolycka, Karlskrona",
+    "summary": "Två personbilar i olycka, Rödeby.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-14.42-trafikolycka-karlskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
+    "id": 611465,
+    "datetime": "2025-11-03 15:58:03 +01:00",
+    "name": "03 november 14.51, Trafikolycka, Falkenberg",
+    "summary": "En bilist kör in i en mur vid Smedjeholmen.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-14.51-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falkenberg",
+      "gps": "56.902733,12.488801"
     }
   },
   {
@@ -3180,18 +3264,6 @@
     }
   },
   {
-    "id": 611121,
-    "datetime": "2025-10-30 18:08:43 +01:00",
-    "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
-    "summary": "Gullänget, en trafikolycka har inträffat vid Johannesvägen/Krokvägen",
-    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.14-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
     "id": 611120,
     "datetime": "2025-10-30 18:08:43 +01:00",
     "name": "30 oktober 17.08, Misshandel, Sjöbo",
@@ -3201,6 +3273,18 @@
     "location": {
       "name": "Sjöbo",
       "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 611121,
+    "datetime": "2025-10-30 18:08:43 +01:00",
+    "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
+    "summary": "Gullänget, en trafikolycka har inträffat vid Johannesvägen/Krokvägen",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.14-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 610723,
-    "datetime": "2025-10-27 18:19:58 +01:00",
-    "name": "27 oktober 17.58, Trafikolycka, Habo",
-    "summary": "Två bilar i påkörningsolycka.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-17.58-trafikolycka-habo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Habo",
-      "gps": "57.909309,14.074367"
-    }
-  },
-  {
-    "id": 610729,
-    "datetime": "2025-10-27 19:36:49 +01:00",
-    "name": "27 oktober 19.08, Trafikbrott, Säffle",
-    "summary": "En man i trettioårsåldern blev under eftermiddagen påkörd av en epa-traktor i Säffles norra delar.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-19.08-trafikbrott-saffle/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Säffle",
-      "gps": "59.132661,12.930107"
-    }
-  },
-  {
-    "id": 610731,
-    "datetime": "2025-10-27 19:32:35 +01:00",
-    "name": "27 oktober 18.40, Rattfylleri, Örebro län",
-    "summary": "En man i fyrtioårsåldern misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-18.40-rattfylleri-orebro-lan/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 610728,
-    "datetime": "2025-10-27 19:01:35 +01:00",
-    "name": "27 oktober 16.22, Misshandel, Filipstad",
-    "summary": "En man i trettioårsåldern har gripits misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-16.22-misshandel-filipstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Filipstad",
-      "gps": "59.713997,14.169845"
-    }
-  },
-  {
-    "id": 610727,
-    "datetime": "2025-10-27 18:43:59 +01:00",
-    "name": "27 oktober 17.38, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på Haparandavägen, Bergviken.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-17.38-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 610726,
-    "datetime": "2025-10-27 18:39:51 +01:00",
-    "name": "27 oktober 11.14, Rån, Köping",
-    "summary": "Två personer grips misstänkta för rån.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-11.14-ran-koping/",
-    "type": "Rån",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 610725,
-    "datetime": "2025-10-27 18:38:57 +01:00",
-    "name": "27 oktober 17.37, Larm Överfall, Stockholm",
-    "summary": "Överfallslarm från en guldbutik.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-17.37-larm-overfall-stockholm/",
-    "type": "Larm Överfall",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
