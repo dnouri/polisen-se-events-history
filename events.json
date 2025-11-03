@@ -1,5 +1,41 @@
 [
   {
+    "id": 611436,
+    "datetime": "2025-11-03 12:37:56 +01:00",
+    "name": "03 november 10.25, Trafikbrott, Forshaga",
+    "summary": "Bil tagen i beslag efter trafikbrott",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-10.25-trafikbrott-forshaga/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Forshaga",
+      "gps": "59.529761,13.486084"
+    }
+  },
+  {
+    "id": 611435,
+    "datetime": "2025-11-03 12:37:11 +01:00",
+    "name": "03 november 12.13, Brand, Sundsvall",
+    "summary": "Stenstan, larm om bilbrand på Köpmangatan",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-12.13-brand-sundsvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 611414,
+    "datetime": "2025-11-03 9:00:52 +01:00",
+    "name": "03 november 08.21, Brand, Vellinge",
+    "summary": "Brand i bostad, Höllviken",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-08.21-brand-vellinge/",
+    "type": "Brand",
+    "location": {
+      "name": "Vellinge",
+      "gps": "55.470893,13.01999"
+    }
+  },
+  {
     "id": 611434,
     "datetime": "2025-11-03 11:57:15 +01:00",
     "name": "03 november 07.57, Trafikolycka, Örebro",
@@ -129,18 +165,6 @@
     "location": {
       "name": "Mönsterås",
       "gps": "57.04158,16.44312"
-    }
-  },
-  {
-    "id": 611414,
-    "datetime": "2025-11-03 9:00:52 +01:00",
-    "name": "03 november 08.21, Brand, Vellinge",
-    "summary": "Brand i bostad, Höllviken",
-    "url": "/aktuellt/handelser/2025/november/3/03-november-08.21-brand-vellinge/",
-    "type": "Brand",
-    "location": {
-      "name": "Vellinge",
-      "gps": "55.470893,13.01999"
     }
   },
   {
@@ -3036,18 +3060,6 @@
     }
   },
   {
-    "id": 611120,
-    "datetime": "2025-10-30 18:08:43 +01:00",
-    "name": "30 oktober 17.08, Misshandel, Sjöbo",
-    "summary": "Ambulans larmar om bråkig patient.",
-    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.08-misshandel-sjobo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Sjöbo",
-      "gps": "55.634822,13.70337"
-    }
-  },
-  {
     "id": 611121,
     "datetime": "2025-10-30 18:08:43 +01:00",
     "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
@@ -3057,6 +3069,18 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 611120,
+    "datetime": "2025-10-30 18:08:43 +01:00",
+    "name": "30 oktober 17.08, Misshandel, Sjöbo",
+    "summary": "Ambulans larmar om bråkig patient.",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.08-misshandel-sjobo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Sjöbo",
+      "gps": "55.634822,13.70337"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 610709,
-    "datetime": "2025-10-27 16:22:09 +01:00",
-    "name": "27 oktober 12.51, Bedrägeri, Hässleholm",
-    "summary": "Kvinna bestulen på värdesaker.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-12.51-bedrageri-hassleholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 610699,
-    "datetime": "2025-10-27 15:40:55 +01:00",
-    "name": "27 oktober 13.13, Brand, Åre",
-    "summary": "Brand vid villa sydöst om Åre.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-13.13-brand-are/",
-    "type": "Brand",
-    "location": {
-      "name": "Åre",
-      "gps": "63.399043,13.081506"
     }
   }
 ]
