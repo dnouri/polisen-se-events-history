@@ -1,5 +1,29 @@
 [
   {
+    "id": 611491,
+    "datetime": "2025-11-03 19:29:56 +01:00",
+    "name": "03 november 17.30, Misshandel, Eskilstuna",
+    "summary": "Anmälan om misshandel efter bråk",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-17.30-misshandel-eskilstuna/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 611489,
+    "datetime": "2025-11-03 19:05:27 +01:00",
+    "name": "03 november 18.44, Trafikolycka, Berg",
+    "summary": "Singelolycka norr om Hackås.",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-18.44-trafikolycka-berg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Berg",
+      "gps": "62.772481,14.169867"
+    }
+  },
+  {
     "id": 611476,
     "datetime": "2025-11-03 16:46:58 +01:00",
     "name": "03 november 16.40, Trafikolycka, Örebro",
@@ -110,9 +134,9 @@
   {
     "id": 611478,
     "datetime": "2025-11-03 16:55:02 +01:00",
-    "name": "03 november 16.50, Trafikolycka, Arjeplog",
+    "name": "03 november 15.31, Trafikolycka, Arjeplog",
     "summary": "Mellanström, singelolycka på länsväg 609.",
-    "url": "/aktuellt/handelser/2025/november/3/03-november-16.50-trafikolycka-arjeplog/",
+    "url": "/aktuellt/handelser/2025/november/3/03-november-15.31-trafikolycka-arjeplog/",
     "type": "Trafikolycka",
     "location": {
       "name": "Arjeplog",
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 610713,
-    "datetime": "2025-10-27 21:55:25 +01:00",
-    "name": "27 oktober 21.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-21.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 610744,
-    "datetime": "2025-10-27 21:42:48 +01:00",
-    "name": "27 oktober 20.42, Skadegörelse, Eskilstuna",
-    "summary": "Skadegörelse i Råbergstorp.",
-    "url": "/aktuellt/handelser/2025/oktober/27/27-oktober-20.42-skadegorelse-eskilstuna/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
     }
   }
 ]
