@@ -1,5 +1,41 @@
 [
   {
+    "id": 611650,
+    "datetime": "2025-11-05 9:37:34 +01:00",
+    "name": "05 november 09.37, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2025/november/5/05-november-09.37-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 611649,
+    "datetime": "2025-11-05 9:25:10 +01:00",
+    "name": "05 november 08.28, Trafikolycka, Luleå",
+    "summary": "Trafikolycka på E4 Råneå, Luleå.",
+    "url": "/aktuellt/handelser/2025/november/5/05-november-08.28-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 611648,
+    "datetime": "2025-11-05 9:19:05 +01:00",
+    "name": "05 november 05.58, Rattfylleri, Lycksele",
+    "summary": "Misstänkt drograttfylleri i Lycksele.",
+    "url": "/aktuellt/handelser/2025/november/5/05-november-05.58-rattfylleri-lycksele/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Lycksele",
+      "gps": "64.59581,18.676367"
+    }
+  },
+  {
     "id": 611640,
     "datetime": "2025-11-05 8:04:26 +01:00",
     "name": "05 november 07.36, Trafikolycka, Vilhelmina",
@@ -9,18 +45,6 @@
     "location": {
       "name": "Vilhelmina",
       "gps": "64.624471,16.655497"
-    }
-  },
-  {
-    "id": 611642,
-    "datetime": "2025-11-05 8:09:00 +01:00",
-    "name": "05 november 03.46, Stöld, Sollentuna",
-    "summary": "Anmälan om grov stöld efter inbrott hos företag i Häggvik.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-03.46-stold-sollentuna/",
-    "type": "Stöld",
-    "location": {
-      "name": "Sollentuna",
-      "gps": "59.43911,17.94148"
     }
   },
   {
@@ -36,15 +60,15 @@
     }
   },
   {
-    "id": 611627,
-    "datetime": "2025-11-05 7:04:43 +01:00",
-    "name": "05 november 06.52, Trafikolycka, Leksand",
-    "summary": "Två bilister i sidokollision på Rv 70.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-06.52-trafikolycka-leksand/",
+    "id": 611645,
+    "datetime": "2025-11-05 8:59:13 +01:00",
+    "name": "05 november 07.59, Trafikolycka, Örnsköldsvik",
+    "summary": "Två personbilar i olycka på E4 i Husum, Örnsköldsvik.",
+    "url": "/aktuellt/handelser/2025/november/5/05-november-07.59-trafikolycka-ornskoldsvik/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Leksand",
-      "gps": "60.730308,14.999892"
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -57,6 +81,30 @@
     "location": {
       "name": "Motala",
       "gps": "58.538034,15.047094"
+    }
+  },
+  {
+    "id": 611642,
+    "datetime": "2025-11-05 8:09:00 +01:00",
+    "name": "05 november 03.46, Stöld, Sollentuna",
+    "summary": "Anmälan om grov stöld efter inbrott hos företag i Häggvik.",
+    "url": "/aktuellt/handelser/2025/november/5/05-november-03.46-stold-sollentuna/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sollentuna",
+      "gps": "59.43911,17.94148"
+    }
+  },
+  {
+    "id": 611627,
+    "datetime": "2025-11-05 7:04:43 +01:00",
+    "name": "05 november 06.52, Trafikolycka, Leksand",
+    "summary": "Två bilister i sidokollision på Rv 70.",
+    "url": "/aktuellt/handelser/2025/november/5/05-november-06.52-trafikolycka-leksand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Leksand",
+      "gps": "60.730308,14.999892"
     }
   },
   {
@@ -4812,18 +4860,6 @@
     }
   },
   {
-    "id": 611121,
-    "datetime": "2025-10-30 18:08:43 +01:00",
-    "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
-    "summary": "Gullänget, en trafikolycka har inträffat vid Johannesvägen/Krokvägen",
-    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.14-trafikkontroll-ornskoldsvik/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
     "id": 611120,
     "datetime": "2025-10-30 18:08:43 +01:00",
     "name": "30 oktober 17.08, Misshandel, Sjöbo",
@@ -4833,6 +4869,18 @@
     "location": {
       "name": "Sjöbo",
       "gps": "55.634822,13.70337"
+    }
+  },
+  {
+    "id": 611121,
+    "datetime": "2025-10-30 18:08:43 +01:00",
+    "name": "30 oktober 17.14, Trafikkontroll, Örnsköldsvik",
+    "summary": "Gullänget, en trafikolycka har inträffat vid Johannesvägen/Krokvägen",
+    "url": "/aktuellt/handelser/2025/oktober/30/30-oktober-17.14-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Hällefors",
       "gps": "59.783688,14.522569"
-    }
-  },
-  {
-    "id": 610983,
-    "datetime": "2025-10-29 10:59:45 +01:00",
-    "name": "29 oktober 08.26, Arbetsplatsolycka, Kungsör",
-    "summary": "Man föll från stege, förd till sjukhus.",
-    "url": "/aktuellt/handelser/2025/oktober/29/29-oktober-08.26-arbetsplatsolycka-kungsor/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Kungsör",
-      "gps": "59.422397,16.097786"
-    }
-  },
-  {
-    "id": 610981,
-    "datetime": "2025-10-29 10:30:39 +01:00",
-    "name": "29 oktober 07.14, Misshandel, grov, Kungsör",
-    "summary": "Kvinna påkörd av bil, en person gripen.",
-    "url": "/aktuellt/handelser/2025/oktober/29/29-oktober-07.14-misshandel-grov-kungsor/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Kungsör",
-      "gps": "59.422397,16.097786"
-    }
-  },
-  {
-    "id": 610911,
-    "datetime": "2025-10-29 8:12:20 +01:00",
-    "name": "29 oktober 07.31, Trafikolycka, Östersund",
-    "summary": "Trafikolycka på Krondikesvägen/Tegelbruksvägen, Odenslund.",
-    "url": "/aktuellt/handelser/2025/oktober/29/29-oktober-07.31-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 610913,
-    "datetime": "2025-10-29 8:41:54 +01:00",
-    "name": "29 oktober 06.22, Misshandel, Stockholm",
-    "summary": "En taxichaufför får ta emot slag från aggressiv kund i Stadshagen.",
-    "url": "/aktuellt/handelser/2025/oktober/29/29-oktober-06.22-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
