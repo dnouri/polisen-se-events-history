@@ -1,5 +1,65 @@
 [
   {
+    "id": 611887,
+    "datetime": "2025-11-06 21:31:09 +01:00",
+    "name": "06 november 17.32, Trafikolycka, Kristianstad",
+    "summary": "Två personbilar kolliderar på E22.",
+    "url": "/aktuellt/handelser/2025/november/6/06-november-17.32-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 611886,
+    "datetime": "2025-11-06 21:20:00 +01:00",
+    "name": "06 november 17.35, Fylleri/LOB, Luleå",
+    "summary": "Innerstaden, berusad man påträffad",
+    "url": "/aktuellt/handelser/2025/november/6/06-november-17.35-fyllerilob-lulea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 611885,
+    "datetime": "2025-11-06 21:18:18 +01:00",
+    "name": "06 november 17.30, Rattfylleri, Piteå",
+    "summary": "Piteå, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2025/november/6/06-november-17.30-rattfylleri-pitea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 611884,
+    "datetime": "2025-11-06 21:15:12 +01:00",
+    "name": "06 november 17.09, Rattfylleri, Kiruna",
+    "summary": "Kiruna, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2025/november/6/06-november-17.09-rattfylleri-kiruna/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 611882,
+    "datetime": "2025-11-06 20:51:11 +01:00",
+    "name": "06 november 16.46, Misshandel, Skellefteå",
+    "summary": "Skellefteå, polis kontaktas gällande misshandel på en adress",
+    "url": "/aktuellt/handelser/2025/november/6/06-november-16.46-misshandel-skelleftea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 611880,
     "datetime": "2025-11-06 19:44:42 +01:00",
     "name": "06 november 19.20, Brand, Linköping",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 611172,
-    "datetime": "2025-10-31 7:52:00 +01:00",
-    "name": "31 oktober 07.51, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-07.51-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 611169,
-    "datetime": "2025-10-31 7:36:42 +01:00",
-    "name": "31 oktober 03.34, Stöld/inbrott, Osby",
-    "summary": "Inbrott på företagsområde och i lastbil.",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-03.34-stoldinbrott-osby/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
-    }
-  },
-  {
-    "id": 611167,
-    "datetime": "2025-10-31 7:28:56 +01:00",
-    "name": "31 oktober 01.51, Skadegörelse, Karlshamn",
-    "summary": "Skadegörlese på bil i Mörrum.",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-01.51-skadegorelse-karlshamn/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 611165,
-    "datetime": "2025-10-31 7:17:33 +01:00",
-    "name": "31 oktober 07.14, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer ett urval av nattens operativa verksamhet",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-07.14-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 611164,
-    "datetime": "2025-10-31 7:17:23 +01:00",
-    "name": "31 oktober 02.13, Narkotikabrott, Stockholms län",
-    "summary": "En man kontrollerades i Kista och medtogs enligt lagen om omhändertagande av berusade personer.",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-02.13-narkotikabrott-stockholms-lan/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
