@@ -1,5 +1,65 @@
 [
   {
+    "id": 612009,
+    "datetime": "2025-11-07 17:30:19 +01:00",
+    "name": "07 november 16.43, Fylleri/LOB, Borlänge",
+    "summary": "Ordningsvakt har omhändertagit en påverkad person.",
+    "url": "/aktuellt/handelser/2025/november/7/07-november-16.43-fyllerilob-borlange/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 612008,
+    "datetime": "2025-11-07 17:23:03 +01:00",
+    "name": "07 november 15.30, Narkotikabrott, Örebro",
+    "summary": "Man i 30-årsåldern misstänkt för narkotikabrott.",
+    "url": "/aktuellt/handelser/2025/november/7/07-november-15.30-narkotikabrott-orebro/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 612007,
+    "datetime": "2025-11-07 17:13:00 +01:00",
+    "name": "07 november 15.39, Stöld, Smedjebacken",
+    "summary": "Kvinna misstänkt för ringa stöld i livsmedelsbutik.",
+    "url": "/aktuellt/handelser/2025/november/7/07-november-15.39-stold-smedjebacken/",
+    "type": "Stöld",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
+    "id": 612006,
+    "datetime": "2025-11-07 16:57:51 +01:00",
+    "name": "07 november 16.51, Trafikolycka, Malmö",
+    "summary": "Elsparkcyklist och personbil i olycka, centrum.",
+    "url": "/aktuellt/handelser/2025/november/7/07-november-16.51-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 612005,
+    "datetime": "2025-11-07 16:51:18 +01:00",
+    "name": "07 november 14.58, Stöld/inbrott, Nora",
+    "summary": "Målsäganden har haft inbrott i sin verkstad.",
+    "url": "/aktuellt/handelser/2025/november/7/07-november-14.58-stoldinbrott-nora/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Nora",
+      "gps": "59.519206,15.037867"
+    }
+  },
+  {
     "id": 611992,
     "datetime": "2025-11-07 16:45:21 +01:00",
     "name": "07 november 12.30, Rattfylleri, Sundsvall",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Emmaboda",
       "gps": "56.630686,15.540006"
-    }
-  },
-  {
-    "id": 611268,
-    "datetime": "2025-11-01 6:49:02 +01:00",
-    "name": "31 oktober 22.54, Misshandel, grov, Trelleborg",
-    "summary": "Polis larmas till centrala Trelleborg med anledning av ett bråk.",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-22.54-misshandel-grov-trelleborg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Trelleborg",
-      "gps": "55.376243,13.157423"
-    }
-  },
-  {
-    "id": 611267,
-    "datetime": "2025-11-01 6:33:28 +01:00",
-    "name": "31 oktober 22.17, Brand, Västervik",
-    "summary": "Det brinner i en lägenhet i Gunnebo.",
-    "url": "/aktuellt/handelser/2025/november/1/31-oktober-22.17-brand-vastervik/",
-    "type": "Brand",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 611266,
-    "datetime": "2025-11-01 6:29:48 +01:00",
-    "name": "31 oktober 22.14, Skadegörelse, Bromölla",
-    "summary": "Man i 18-årsåldern misstänks för flera brott i samband med en fest.",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-22.14-skadegorelse-bromolla/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Bromölla",
-      "gps": "56.074362,14.477659"
-    }
-  },
-  {
-    "id": 611265,
-    "datetime": "2025-11-01 2:32:36 +01:00",
-    "name": "01 november 02.18, Trafikbrott, Sölvesborg",
-    "summary": "A-traktor stoppad med hjälp av spikmatta.",
-    "url": "/aktuellt/handelser/2025/november/1/01-november-02.18-trafikbrott-solvesborg/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
-    }
-  },
-  {
-    "id": 611262,
-    "datetime": "2025-10-31 22:01:25 +01:00",
-    "name": "31 oktober 22.01, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/oktober/31/31-oktober-22.01-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
