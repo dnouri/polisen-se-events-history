@@ -1,5 +1,65 @@
 [
   {
+    "id": 612280,
+    "datetime": "2025-11-10 17:35:32 +01:00",
+    "name": "10 november 17.20, Stöld/inbrott, Borlänge",
+    "summary": "Inbrott i bostad i Borlänge.",
+    "url": "/aktuellt/handelser/2025/november/10/10-november-17.20-stoldinbrott-borlange/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 612269,
+    "datetime": "2025-11-10 16:16:57 +01:00",
+    "name": "10 november 16.11, Trafikolycka, Karlstad",
+    "summary": "Två bilister har kolliderat på E18/ Sandbäcksgatan i Karlstad.",
+    "url": "/aktuellt/handelser/2025/november/10/10-november-16.11-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 612277,
+    "datetime": "2025-11-10 17:07:54 +01:00",
+    "name": "10 november 16.34, Trafikolycka, Krokom",
+    "summary": "Aspås, trafikolycka på väg 339.",
+    "url": "/aktuellt/handelser/2025/november/10/10-november-16.34-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
+    }
+  },
+  {
+    "id": 612271,
+    "datetime": "2025-11-10 16:22:43 +01:00",
+    "name": "10 november 16.22, Misshandel, Katrineholm",
+    "summary": "Park avspärrad i centrala Katrineholm efter slagsmål",
+    "url": "/aktuellt/handelser/2025/november/10/10-november-16.22-misshandel-katrineholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Katrineholm",
+      "gps": "58.995551,16.205476"
+    }
+  },
+  {
+    "id": 612276,
+    "datetime": "2025-11-10 16:53:27 +01:00",
+    "name": "10 november 16.53, Trafikolycka, Linköping",
+    "summary": "Långa köer efter olycka på E4",
+    "url": "/aktuellt/handelser/2025/november/10/10-november-16.53-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
     "id": 612272,
     "datetime": "2025-11-10 16:45:46 +01:00",
     "name": "10 november 11.15, Arbetsplatsolycka, Bräcke",
@@ -36,18 +96,6 @@
     }
   },
   {
-    "id": 612271,
-    "datetime": "2025-11-10 16:22:43 +01:00",
-    "name": "10 november 16.22, Misshandel, grov, Katrineholm",
-    "summary": "Park avspärrad i centrala Katrineholm efter slagsmål",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-16.22-misshandel-grov-katrineholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
     "id": 612270,
     "datetime": "2025-11-10 16:20:51 +01:00",
     "name": "10 november 12.42, Trafikolycka, personskada, Uppsala",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Uppsala",
       "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 612269,
-    "datetime": "2025-11-10 16:16:57 +01:00",
-    "name": "10 november 16.11, Trafikolycka, Karlstad",
-    "summary": "Två bilister har kolliderat på E18/ Sandbäcksgatan i Karlstad.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-16.11-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 611498,
-    "datetime": "2025-11-03 21:02:35 +01:00",
-    "name": "03 november 18.24, Inbrott, Örnsköldsvik",
-    "summary": "Örnsköldsvik, inbrott i villa.",
-    "url": "/aktuellt/handelser/2025/november/3/03-november-18.24-inbrott-ornskoldsvik/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 611492,
-    "datetime": "2025-11-03 19:37:50 +01:00",
-    "name": "03 november 19.18, Brand, Östersund",
-    "summary": "Östersund, brand på Frösön.",
-    "url": "/aktuellt/handelser/2025/november/3/03-november-19.18-brand-ostersund/",
-    "type": "Brand",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 611497,
-    "datetime": "2025-11-03 20:28:18 +01:00",
-    "name": "03 november 20.28, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från några av eftermiddagens/kvällens trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/november/3/03-november-20.28-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
