@@ -1,5 +1,41 @@
 [
   {
+    "id": 612256,
+    "datetime": "2025-11-10 15:31:39 +01:00",
+    "name": "10 november 15.30, Övrigt, Bjuv",
+    "summary": "Polisstationen i Bjuv stängd.",
+    "url": "/aktuellt/handelser/2025/november/10/10-november-15.30-ovrigt-bjuv/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Bjuv",
+      "gps": "56.087102,12.912505"
+    }
+  },
+  {
+    "id": 612255,
+    "datetime": "2025-11-10 15:30:04 +01:00",
+    "name": "10 november 14.49, Övrigt, Åstorp",
+    "summary": "Polisstation stängd",
+    "url": "/aktuellt/handelser/2025/november/10/10-november-14.49-ovrigt-astorp/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Åstorp",
+      "gps": "56.134262,12.945908"
+    }
+  },
+  {
+    "id": 612246,
+    "datetime": "2025-11-10 13:27:45 +01:00",
+    "name": "10 november 13.01, Trafikolycka, Lidköping",
+    "summary": "Flera fordon i trafikolycka.",
+    "url": "/aktuellt/handelser/2025/november/10/10-november-13.01-trafikolycka-lidkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lidköping",
+      "gps": "58.503505,13.157077"
+    }
+  },
+  {
     "id": 612200,
     "datetime": "2025-11-10 7:31:39 +01:00",
     "name": "10 november 00.02, Smällar, Luleå",
@@ -21,18 +57,6 @@
     "location": {
       "name": "Strömsund",
       "gps": "63.853662,15.556869"
-    }
-  },
-  {
-    "id": 612246,
-    "datetime": "2025-11-10 13:27:45 +01:00",
-    "name": "10 november 13.01, Trafikolycka, Lidköping",
-    "summary": "Flera fordon i trafikolycka.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-13.01-trafikolycka-lidkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lidköping",
-      "gps": "58.503505,13.157077"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Eslöv",
       "gps": "55.83912,13.303391"
-    }
-  },
-  {
-    "id": 611477,
-    "datetime": "2025-11-03 16:50:35 +01:00",
-    "name": "03 november 16.12, Trafikolycka, Härnösand",
-    "summary": "Härnösand, trafikolycka i Gådeåstaden.",
-    "url": "/aktuellt/handelser/2025/november/3/03-november-16.12-trafikolycka-harnosand/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 611483,
-    "datetime": "2025-11-03 17:30:51 +01:00",
-    "name": "03 november 12.46, Arbetsplatsolycka, Örnsköldsvik",
-    "summary": "Örnsköldsvik, olycka under arbete.",
-    "url": "/aktuellt/handelser/2025/november/3/03-november-12.46-arbetsplatsolycka-ornskoldsvik/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
