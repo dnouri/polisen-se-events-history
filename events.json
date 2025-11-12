@@ -1,5 +1,89 @@
 [
   {
+    "id": 612476,
+    "datetime": "2025-11-12 8:14:09 +01:00",
+    "name": "12 november 08.06, Trafikolycka, Staffanstorp",
+    "summary": "Påkörd pojke, Staffanstorp.",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-08.06-trafikolycka-staffanstorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Staffanstorp",
+      "gps": "55.641065,13.212229"
+    }
+  },
+  {
+    "id": 612459,
+    "datetime": "2025-11-12 7:17:24 +01:00",
+    "name": "12 november 06.36, Brand, Mölndal",
+    "summary": "SOS larmas om brand i en byggnad i Kållered.",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-06.36-brand-molndal/",
+    "type": "Brand",
+    "location": {
+      "name": "Mölndal",
+      "gps": "57.65,12.016667"
+    }
+  },
+  {
+    "id": 612460,
+    "datetime": "2025-11-12 7:19:52 +01:00",
+    "name": "12 november 05.09, Mord/dråp, försök, Upplands väsby",
+    "summary": "Polis och räddningstjänst kallas till ett bostadsområde i Upplands Väsby med anledning av att en kvinna sticks",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-05.09-morddrap-forsok-upplands-vasby/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Upplands väsby",
+      "gps": "59.51961,17.92834"
+    }
+  },
+  {
+    "id": 612474,
+    "datetime": "2025-11-12 7:57:57 +01:00",
+    "name": "12 november 03.29, Mordbrand, Gävle",
+    "summary": "Villabrand utreds som mordbrand.",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-03.29-mordbrand-gavle/",
+    "type": "Mordbrand",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 612473,
+    "datetime": "2025-11-12 7:50:45 +01:00",
+    "name": "12 november 07.50, Sammanfattning natt, Jönköpings län",
+    "summary": "Polisens regionledningscentral har hanterat runt 60 händelser under natten mellan 22.00 och 07.00 i Jönköpings",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-07.50-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 612472,
+    "datetime": "2025-11-12 7:50:14 +01:00",
+    "name": "12 november 07.49, Sammanfattning natt, Södermanlands län",
+    "summary": "Polisens regionledningscentral har hanterat runt 40 händelser under natten mellan 22.00 och 07.00 i Södermanla",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-07.49-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 612471,
+    "datetime": "2025-11-12 7:49:23 +01:00",
+    "name": "12 november 07.48, Sammanfattning natt, Östergötlands län",
+    "summary": "Polisens regionledningscentral har hanterat runt 80 händelser under natten mellan 22.00 och 07.00 i Östergötla",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-07.48-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 612464,
     "datetime": "2025-11-12 7:39:47 +01:00",
     "name": "12 november 07.37, Information, Örebro län",
@@ -48,18 +132,6 @@
     }
   },
   {
-    "id": 612460,
-    "datetime": "2025-11-12 7:19:52 +01:00",
-    "name": "12 november 05.09, Misshandel, grov, Upplands väsby",
-    "summary": "Polis och räddningstjänst kallas till ett bostadsområde i Upplands Väsby med anledning av att en kvinna sticks",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-05.09-misshandel-grov-upplands-vasby/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Upplands väsby",
-      "gps": "59.51961,17.92834"
-    }
-  },
-  {
     "id": 612458,
     "datetime": "2025-11-12 7:19:22 +01:00",
     "name": "12 november 07.19, Sammanfattning natt, Jämtlands län",
@@ -105,18 +177,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 612459,
-    "datetime": "2025-11-12 7:17:24 +01:00",
-    "name": "12 november 06.36, Brand, Mölndal",
-    "summary": "SOS larmas om brand i en byggnad i Kållered.",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-06.36-brand-molndal/",
-    "type": "Brand",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Flen",
       "gps": "59.057938,16.587912"
-    }
-  },
-  {
-    "id": 611645,
-    "datetime": "2025-11-05 8:59:13 +01:00",
-    "name": "05 november 07.59, Trafikolycka, Örnsköldsvik",
-    "summary": "Två personbilar i olycka på E4 i Husum, Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-07.59-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 611649,
-    "datetime": "2025-11-05 9:25:10 +01:00",
-    "name": "05 november 08.28, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på E4 Råneå, Luleå.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-08.28-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 611608,
-    "datetime": "2025-11-04 21:26:48 +01:00",
-    "name": "04 november 21.24, Försvunnen person, Stenungsund",
-    "summary": "Polisen söker efter en försvunnen man i 75-årsåldern. Mannen försvann från ett boende i centrala Stenungsund u",
-    "url": "/aktuellt/handelser/2025/november/4/04-november-21.24-forsvunnen-person-stenungsund/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Stenungsund",
-      "gps": "58.067839,11.829434"
-    }
-  },
-  {
-    "id": 611653,
-    "datetime": "2025-11-05 10:05:45 +01:00",
-    "name": "05 november 08.35, Rattfylleri, Norrtälje",
-    "summary": "Fordonsförare rapporteras för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-08.35-rattfylleri-norrtalje/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Norrtälje",
-      "gps": "59.759584,18.701358"
-    }
-  },
-  {
-    "id": 611651,
-    "datetime": "2025-11-05 9:59:14 +01:00",
-    "name": "05 november 09.04, Trafikolycka, Hässleholm",
-    "summary": "En trafikolycka inträffar på riksväg 21.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-09.04-trafikolycka-hassleholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
     }
   }
 ]
