@@ -1,5 +1,89 @@
 [
   {
+    "id": 612540,
+    "datetime": "2025-11-12 18:23:49 +01:00",
+    "name": "12 november 17.31, Misshandel, Borlänge",
+    "summary": "En man är misstänkt för misshandel",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-17.31-misshandel-borlange/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 612539,
+    "datetime": "2025-11-12 18:21:00 +01:00",
+    "name": "12 november 18.06, Brand, Avesta",
+    "summary": "Polis är på väg till en brand i centrum",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-18.06-brand-avesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 612538,
+    "datetime": "2025-11-12 18:16:07 +01:00",
+    "name": "12 november 10.54, Skyddslagen, Umeå",
+    "summary": "Polispatrull beordras till I20-området där en lastbilsförare passerat ett tillträdesförbud.",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-10.54-skyddslagen-umea/",
+    "type": "Skyddslagen",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 612530,
+    "datetime": "2025-11-12 16:43:29 +01:00",
+    "name": "12 november 16.41, Trafikolycka, Linköping",
+    "summary": "Riksväg 35 blockerad efter krock.",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-16.41-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 612534,
+    "datetime": "2025-11-12 17:24:45 +01:00",
+    "name": "12 november 16.57, Trafikolycka, Karlstad",
+    "summary": "En påkörningsolycka har inträffat på Herrhagen",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-16.57-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 612537,
+    "datetime": "2025-11-12 17:49:03 +01:00",
+    "name": "12 november 16.10, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka på E12/riksväg 92, Ersboda.",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-16.10-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 612536,
+    "datetime": "2025-11-12 17:46:19 +01:00",
+    "name": "12 november 16.55, Trafikolycka, Västerås",
+    "summary": "Kökrock på E18.",
+    "url": "/aktuellt/handelser/2025/november/12/12-november-16.55-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
     "id": 612535,
     "datetime": "2025-11-12 17:32:25 +01:00",
     "name": "12 november 15.51, Trafikolycka, personskada, Mölndal",
@@ -24,18 +108,6 @@
     }
   },
   {
-    "id": 612534,
-    "datetime": "2025-11-12 17:24:45 +01:00",
-    "name": "12 november 16.57, Trafikolycka, Karlstad",
-    "summary": "En påkörningsolycka har inträffat på Herrhagen",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-16.57-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
     "id": 612532,
     "datetime": "2025-11-12 17:01:05 +01:00",
     "name": "12 november 16.16, Trafikolycka, Piteå",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Piteå",
       "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 612530,
-    "datetime": "2025-11-12 16:43:29 +01:00",
-    "name": "12 november 16.41, Trafikolycka, Linköping",
-    "summary": "Riksväg 35 blockerad efter krock.",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-16.41-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Linköping",
-      "gps": "58.410807,15.621373"
     }
   },
   {
@@ -5934,66 +5994,6 @@
     "summary": "Trafikolycka på E4 söder om Antjärn.",
     "url": "/aktuellt/handelser/2025/november/5/05-november-16.39-trafikolycka-harnosand/",
     "type": "Trafikolycka",
-    "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
-    }
-  },
-  {
-    "id": 611712,
-    "datetime": "2025-11-05 17:44:14 +01:00",
-    "name": "05 november 17.39, Trafikolycka, Helsingborg",
-    "summary": "Lastbil i olycka, Ättekulla.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-17.39-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 611722,
-    "datetime": "2025-11-05 18:32:56 +01:00",
-    "name": "05 november 16.34, Misshandel, Kramfors",
-    "summary": "Kramfors, uppgifter om misshandel i centrum.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-16.34-misshandel-kramfors/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
-    }
-  },
-  {
-    "id": 611723,
-    "datetime": "2025-11-05 18:31:51 +01:00",
-    "name": "05 november 17.40, Trafikolycka, Sundsvall",
-    "summary": "Sundsvall, trafikolycka på Haga.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-17.40-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 611718,
-    "datetime": "2025-11-05 18:06:46 +01:00",
-    "name": "05 november 18.02, Försvunnen person, Ludvika",
-    "summary": "Mannen är hittad.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-18.02-forsvunnen-person-ludvika/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 611721,
-    "datetime": "2025-11-05 18:10:22 +01:00",
-    "name": "05 november 16.29, Fylleri/LOB, Härnösand",
-    "summary": "Härnösand, person omhändertagen.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-16.29-fyllerilob-harnosand/",
-    "type": "Fylleri/LOB",
     "location": {
       "name": "Härnösand",
       "gps": "62.63227,17.940871"
