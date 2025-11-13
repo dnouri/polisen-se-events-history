@@ -1,5 +1,101 @@
 [
   {
+    "id": 612598,
+    "datetime": "2025-11-13 8:20:18 +01:00",
+    "name": "13 november 03.56, Rattfylleri, Uppsala",
+    "summary": "En förare av en personbil kontrolleras och rapporterades för rattfylleri",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-03.56-rattfylleri-uppsala/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 612597,
+    "datetime": "2025-11-13 8:12:44 +01:00",
+    "name": "13 november 07.59, Trafikolycka, Hässleholm",
+    "summary": "Tre personbilar kolliderar i Nygatan.",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-07.59-trafikolycka-hassleholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 612591,
+    "datetime": "2025-11-13 7:45:15 +01:00",
+    "name": "13 november 07.38, Trafikolycka, Kävlinge",
+    "summary": "Larm om trafikolycka på E6:an, Löddeköpinge.",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-07.38-trafikolycka-kavlinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kävlinge",
+      "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 612588,
+    "datetime": "2025-11-13 7:26:04 +01:00",
+    "name": "13 november 06.57, Farligt föremål, misstänkt, Borås",
+    "summary": "Allmänhet kontaktar polisen med anledning av ett misstänkt farligt föremål utanför ett flerfamiljshus i Hulta.",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-06.57-farligt-foremal-misstankt-boras/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 612595,
+    "datetime": "2025-11-13 7:59:22 +01:00",
+    "name": "13 november 07.08, Trafikolycka, Borås",
+    "summary": "Fotgängare och personbil i olycka.",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-07.08-trafikolycka-boras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 612594,
+    "datetime": "2025-11-13 7:58:39 +01:00",
+    "name": "13 november 07.57, Sammanfattning natt, Östergötlands län",
+    "summary": "Polisens regionledningscentral har hanterat runt 70 händelser under natten mellan 22.00 och 07.00 i Östergötla",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-07.57-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 612593,
+    "datetime": "2025-11-13 7:54:08 +01:00",
+    "name": "13 november 07.53, Sammanfattning natt, Södermanlands län",
+    "summary": "Polisens regionledningscentral har hanterat runt 40 händelser under natten mellan 22.00 och 07.00 i Södermanla",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-07.53-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 612592,
+    "datetime": "2025-11-13 7:53:11 +01:00",
+    "name": "13 november 07.52, Sammanfattning natt, Jönköpings län",
+    "summary": "Polisens regionledningscentral har hanterat runt 60 händelser under natten mellan 22.00 och 07.00 i Jönköpings",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-07.52-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 612571,
     "datetime": "2025-11-13 6:21:21 +01:00",
     "name": "12 november 22.11, Mord/dråp, försök, Hässleholm",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 612588,
-    "datetime": "2025-11-13 7:26:04 +01:00",
-    "name": "13 november 06.57, Farligt föremål, misstänkt, Borås",
-    "summary": "Allmänhet kontaktar polisen med anledning av ett misstänkt farligt föremål utanför ett flerfamiljshus i Hulta.",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-06.57-farligt-foremal-misstankt-boras/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 611766,
-    "datetime": "2025-11-06 7:26:28 +01:00",
-    "name": "06 november 06.52, Trafikolycka, Karlskrona",
-    "summary": "Sidokollision på E22 vid Nättraby.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-06.52-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 611780,
-    "datetime": "2025-11-06 8:18:38 +01:00",
-    "name": "06 november 06.33, Trafikolycka, vilt, Södertälje",
-    "summary": "Älgkollision på Skanssundsleden.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-06.33-trafikolycka-vilt-sodertalje/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 611779,
-    "datetime": "2025-11-06 8:18:35 +01:00",
-    "name": "06 november 04.44, Narkotikabrott, Botkyrka",
-    "summary": "Man med tegelsten blir misstänkt för narkotikabrott.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-04.44-narkotikabrott-botkyrka/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Botkyrka",
-      "gps": "59.245941,17.840858"
-    }
-  },
-  {
-    "id": 611778,
-    "datetime": "2025-11-06 8:18:31 +01:00",
-    "name": "06 november 02.10, Misshandel, Stockholm",
-    "summary": "Tre män grips misstänkta för misshandel.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-02.10-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 611777,
-    "datetime": "2025-11-06 8:18:27 +01:00",
-    "name": "05 november 23.30, Stöld/inbrott, Ekerö",
-    "summary": "Polisen letar efter personer som tagit sig in på vägarbetesområdet på Lovön.",
-    "url": "/aktuellt/handelser/2025/november/5/05-november-23.30-stoldinbrott-ekero/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Ekerö",
-      "gps": "59.279834,17.790225"
-    }
-  },
-  {
-    "id": 611773,
-    "datetime": "2025-11-06 7:44:41 +01:00",
-    "name": "06 november 05.52, Trafikolycka, Örnsköldsvik",
-    "summary": "Trafikolyckor på E4 Ovansjö, Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-05.52-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 611768,
-    "datetime": "2025-11-06 7:57:58 +01:00",
-    "name": "06 november 07.54, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-07.54-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
