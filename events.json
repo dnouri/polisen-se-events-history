@@ -1,5 +1,89 @@
 [
   {
+    "id": 612634,
+    "datetime": "2025-11-13 13:57:40 +01:00",
+    "name": "13 november 13.57, Bedrägeri, Skellefteå",
+    "summary": "Skellefteå, bedrägerier med falsk swish-app.",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-13.57-bedrageri-skelleftea/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 612621,
+    "datetime": "2025-11-13 12:30:53 +01:00",
+    "name": "13 november 11.57, Brand, Klippan",
+    "summary": "Larm om brand i byggnad",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-11.57-brand-klippan/",
+    "type": "Brand",
+    "location": {
+      "name": "Klippan",
+      "gps": "56.1349,13.129041"
+    }
+  },
+  {
+    "id": 612632,
+    "datetime": "2025-11-13 13:51:13 +01:00",
+    "name": "13 november 11.31, Arbetsplatsolycka, Sandviken",
+    "summary": "Larm om arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-11.31-arbetsplatsolycka-sandviken/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Sandviken",
+      "gps": "60.621607,16.775918"
+    }
+  },
+  {
+    "id": 612627,
+    "datetime": "2025-11-13 13:15:45 +01:00",
+    "name": "13 november 13.15, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat från förmiddagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-13.15-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 612626,
+    "datetime": "2025-11-13 13:04:36 +01:00",
+    "name": "13 november 13.04, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från två av förmiddagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-13.04-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 612624,
+    "datetime": "2025-11-13 12:56:19 +01:00",
+    "name": "13 november 12.56, Övrigt, Västra Götalands län",
+    "summary": "Klockan 13-15 är presstelefonen obemannad. Under tiden besvaras frågor från media av befäl på ledningscentrale",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-12.56-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 612623,
+    "datetime": "2025-11-13 12:56:07 +01:00",
+    "name": "13 november 12.55, Övrigt, Hallands län",
+    "summary": "Klockan 13-15 är presstelefonen obemannad. Under tiden besvaras frågor från media av befäl på ledningscentrale",
+    "url": "/aktuellt/handelser/2025/november/13/13-november-12.55-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
     "id": 612622,
     "datetime": "2025-11-13 12:41:45 +01:00",
     "name": "13 november 06.12, Misshandel, Nacka",
@@ -21,18 +105,6 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
-    }
-  },
-  {
-    "id": 612621,
-    "datetime": "2025-11-13 12:30:53 +01:00",
-    "name": "13 november 11.57, Brand, Klippan",
-    "summary": "Larm om brand i byggnad",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-11.57-brand-klippan/",
-    "type": "Brand",
-    "location": {
-      "name": "Klippan",
-      "gps": "56.1349,13.129041"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 611833,
-    "datetime": "2025-11-06 13:54:48 +01:00",
-    "name": "06 november 13.54, Narkotikabrott, Haparanda",
-    "summary": "Två personer misstänks för ringa narkotikabrott.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-13.54-narkotikabrott-haparanda/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Haparanda",
-      "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 611832,
-    "datetime": "2025-11-06 13:48:47 +01:00",
-    "name": "06 november 12.02, Rån, försök, Gotland",
-    "summary": "Två unga personer grips för försök till rån.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-12.02-ran-forsok-gotland/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Gotland",
-      "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 611831,
-    "datetime": "2025-11-06 13:47:31 +01:00",
-    "name": "06 november 13.06, Trafikolycka, Bjurholm",
-    "summary": "Trafikolycka på länsväg 353 i Bjurholm.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-13.06-trafikolycka-bjurholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bjurholm",
-      "gps": "63.930406,19.219213"
-    }
-  },
-  {
-    "id": 611828,
-    "datetime": "2025-11-06 13:31:25 +01:00",
-    "name": "06 november 12.15, Trafikolycka, Smedjebacken",
-    "summary": "En bilist är avförd med ambulans",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-12.15-trafikolycka-smedjebacken/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Smedjebacken",
-      "gps": "60.143193,15.415992"
-    }
-  },
-  {
-    "id": 611817,
-    "datetime": "2025-11-06 12:42:54 +01:00",
-    "name": "06 november 12.41, Trafikbrott, Hedemora",
-    "summary": "Uppmaning till bilister i centrum",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-12.41-trafikbrott-hedemora/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Hedemora",
-      "gps": "60.277545,15.985892"
-    }
-  },
-  {
-    "id": 611822,
-    "datetime": "2025-11-06 13:15:19 +01:00",
-    "name": "06 november 10.34, Rattfylleri, Kramfors",
-    "summary": "Misstänkt drograttfylleri i Kramfors.",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-10.34-rattfylleri-kramfors/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   }
 ]
