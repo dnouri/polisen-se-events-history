@@ -1,14 +1,74 @@
 [
   {
-    "id": 612743,
-    "datetime": "2025-11-14 10:45:41 +01:00",
-    "name": "14 november 10.38, Brand, Halmstad",
-    "summary": "Larm inkommer via SOS om en fullt utvecklad brand i ett radhus på Vallås.",
-    "url": "/aktuellt/handelser/2025/november/14/14-november-10.38-brand-halmstad/",
-    "type": "Brand",
+    "id": 612746,
+    "datetime": "2025-11-14 10:51:14 +01:00",
+    "name": "14 november 10.50, Trafikolycka, singel, Gnosjö",
+    "summary": "Singelolycka på väg 151.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-10.50-trafikolycka-singel-gnosjo/",
+    "type": "Trafikolycka, singel",
     "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
+      "name": "Gnosjö",
+      "gps": "57.35804,13.73719"
+    }
+  },
+  {
+    "id": 612754,
+    "datetime": "2025-11-14 11:30:44 +01:00",
+    "name": "14 november 08.43, Skadegörelse, Luleå",
+    "summary": "Hertsön, en man ska ha uppträtt hotfull och gjort åverkan mot en ytterdörr.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-08.43-skadegorelse-lulea/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 612752,
+    "datetime": "2025-11-14 11:23:04 +01:00",
+    "name": "14 november 09.43, Arbetsplatsolycka, Skellefteå",
+    "summary": "Hedensbyn, en man har ramlat ner från ett lastbilsflak.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-09.43-arbetsplatsolycka-skelleftea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 612751,
+    "datetime": "2025-11-14 11:21:02 +01:00",
+    "name": "14 november 08.48, Inbrott, försök, Uppsala",
+    "summary": "Misstänkt försök att stjäla motorcyklar.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-08.48-inbrott-forsok-uppsala/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 612750,
+    "datetime": "2025-11-14 11:20:13 +01:00",
+    "name": "14 november 10.21, Rattfylleri, Markaryd",
+    "summary": "Kvinna misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-10.21-rattfylleri-markaryd/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 612749,
+    "datetime": "2025-11-14 11:20:03 +01:00",
+    "name": "14 november 08.17, Narkotikabrott, Vilhelmina",
+    "summary": "Tätorten, polisen kontrollerar en man som misstänks vara påverkad av narkotika.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-08.17-narkotikabrott-vilhelmina/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
     }
   },
   {
@@ -24,18 +84,6 @@
     }
   },
   {
-    "id": 612725,
-    "datetime": "2025-11-14 7:51:21 +01:00",
-    "name": "14 november 04.24, Brand, Stockholm",
-    "summary": "Larm om brand på Kungsholmen.",
-    "url": "/aktuellt/handelser/2025/november/14/14-november-04.24-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
     "id": 612737,
     "datetime": "2025-11-14 9:35:09 +01:00",
     "name": "14 november 09.28, Trafikolycka, Alingsås",
@@ -45,6 +93,42 @@
     "location": {
       "name": "Alingsås",
       "gps": "57.930021,12.536211"
+    }
+  },
+  {
+    "id": 612743,
+    "datetime": "2025-11-14 10:45:41 +01:00",
+    "name": "14 november 10.38, Brand, Halmstad",
+    "summary": "Larm inkommer via SOS om en fullt utvecklad brand i ett radhus på Vallås.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-10.38-brand-halmstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 612747,
+    "datetime": "2025-11-14 10:56:22 +01:00",
+    "name": "14 november 10.32, Trafikolycka, Malmö",
+    "summary": "En trafikolycka mellan två personbilar inträffar på Sandtagsgatan, vid Frihamnen i Malmö.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-10.32-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 612725,
+    "datetime": "2025-11-14 7:51:21 +01:00",
+    "name": "14 november 04.24, Brand, Stockholm",
+    "summary": "Larm om brand på Kungsholmen.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-04.24-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Falun",
       "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 611983,
-    "datetime": "2025-11-07 14:43:29 +01:00",
-    "name": "07 november 14.20, Trafikolycka, Vimmerby",
-    "summary": "MC och personbil i olycka, Vimmerby.",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-14.20-trafikolycka-vimmerby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vimmerby",
-      "gps": "57.669034,15.858857"
-    }
-  },
-  {
-    "id": 611999,
-    "datetime": "2025-11-07 16:20:12 +01:00",
-    "name": "07 november 16.00, Bedrägeri, Stockholms län",
-    "summary": "Runt om i länet larmar äldre personer just nu om att de blir utsatta för bedrägeriförsök av personer som utger",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-16.00-bedrageri-stockholms-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 611981,
-    "datetime": "2025-11-07 14:40:42 +01:00",
-    "name": "07 november 13.48, Brand, Sundsvall",
-    "summary": "Polisen larmas om att en man ska ha kastat ett brinnande föremål mot en yttervägg på kommunhuset i Sundsvall.",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-13.48-brand-sundsvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 611990,
-    "datetime": "2025-11-07 15:29:03 +01:00",
-    "name": "07 november 15.10, Trafikolycka, personskada, Sävsjö",
-    "summary": "Fordon körde in i viadukt",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-15.10-trafikolycka-personskada-savsjo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Sävsjö",
-      "gps": "57.398996,14.665814"
-    }
-  },
-  {
-    "id": 611998,
-    "datetime": "2025-11-07 16:11:00 +01:00",
-    "name": "07 november 16.02, Rån, Örebro",
-    "summary": "Man gripen för rån i motvänsfallet.",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-16.02-ran-orebro/",
-    "type": "Rån",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 611965,
-    "datetime": "2025-11-07 13:19:10 +01:00",
-    "name": "07 november 12.40, Trafikolycka, Östersund",
-    "summary": "Odenslund, trafikolycka vid Hårdängegatan/Odlarvägen",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-12.40-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
-    }
-  },
-  {
-    "id": 611996,
-    "datetime": "2025-11-07 16:01:15 +01:00",
-    "name": "07 november 13.53, Trafikolycka, personskada, Uppsala",
-    "summary": "Kollision i centrala Uppsala.",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-13.53-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
