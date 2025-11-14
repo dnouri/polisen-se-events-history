@@ -1,5 +1,65 @@
 [
   {
+    "id": 612733,
+    "datetime": "2025-11-14 8:24:39 +01:00",
+    "name": "14 november 04.01, Mordbrand, Skara",
+    "summary": "Vi larmas om en misstänkt anlagd brand på Svennegatan. En man har setts tända eld i ett återvinningskärl intil",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-04.01-mordbrand-skara/",
+    "type": "Mordbrand",
+    "location": {
+      "name": "Skara",
+      "gps": "58.386013,13.439328"
+    }
+  },
+  {
+    "id": 612728,
+    "datetime": "2025-11-14 8:17:45 +01:00",
+    "name": "14 november 08.07, Trafikolycka, Norrköping",
+    "summary": "Flicka på elkick påkörd av personbil.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-08.07-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 612727,
+    "datetime": "2025-11-14 8:12:22 +01:00",
+    "name": "14 november 06.47, Trafikolycka, Varberg",
+    "summary": "Vi får via SOS larm om en trafikolycka på Härdgatan. Inblandade ska vara en personbil och en moped.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-06.47-trafikolycka-varberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 612724,
+    "datetime": "2025-11-14 7:51:14 +01:00",
+    "name": "14 november 07.38, Trafikolycka, singel, Habo",
+    "summary": "Bil i diket söder om Habo.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-07.38-trafikolycka-singel-habo/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Habo",
+      "gps": "57.909309,14.074367"
+    }
+  },
+  {
+    "id": 612725,
+    "datetime": "2025-11-14 7:51:21 +01:00",
+    "name": "14 november 04.24, Brand, Stockholm",
+    "summary": "Larm om brand på Kungsholmen.",
+    "url": "/aktuellt/handelser/2025/november/14/14-november-04.24-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
     "id": 612715,
     "datetime": "2025-11-14 7:35:15 +01:00",
     "name": "14 november 07.34, Sammanfattning natt, Södermanlands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Degerfors",
       "gps": "59.239103,14.433918"
-    }
-  },
-  {
-    "id": 611991,
-    "datetime": "2025-11-07 15:45:53 +01:00",
-    "name": "07 november 14.53, Misshandel, Falun",
-    "summary": "Man misstänkt för misshandel i centrum.",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-14.53-misshandel-falun/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 611878,
-    "datetime": "2025-11-06 19:22:25 +01:00",
-    "name": "06 november 17.50, Stöld, Göteborg",
-    "summary": "Ett överfallslarm går i en guldsmedsbutik vid Heden. Enligt larmcentralen visar övervakningsbilder ett pågåend",
-    "url": "/aktuellt/handelser/2025/november/6/06-november-17.50-stold-goteborg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 611988,
-    "datetime": "2025-11-07 15:16:43 +01:00",
-    "name": "07 november 13.29, Trafikolycka, Askersund",
-    "summary": "Bilist rapporterad för ej iakttagit väjningsplikt.",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-13.29-trafikolycka-askersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Askersund",
-      "gps": "58.889427,14.910987"
-    }
-  },
-  {
-    "id": 611980,
-    "datetime": "2025-11-07 14:38:02 +01:00",
-    "name": "07 november 14.18, Trafikolycka, Katrineholm",
-    "summary": "Trafikolycka på riksväg 55",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-14.18-trafikolycka-katrineholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 611947,
-    "datetime": "2025-11-07 10:44:08 +01:00",
-    "name": "07 november 07.52, Anträffat gods, Borås",
-    "summary": "Vi har blivit larmade till en lager i Viared med anledning ett paket med ett pulver.",
-    "url": "/aktuellt/handelser/2025/november/7/07-november-07.52-antraffat-gods-boras/",
-    "type": "Anträffat gods",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   }
 ]
