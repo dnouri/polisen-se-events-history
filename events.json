@@ -1,5 +1,65 @@
 [
   {
+    "id": 612981,
+    "datetime": "2025-11-17 15:26:18 +01:00",
+    "name": "17 november 13.19, Brand, Norberg",
+    "summary": "Larm om brand.",
+    "url": "/aktuellt/handelser/2025/november/17/17-november-13.19-brand-norberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Norberg",
+      "gps": "60.065042,15.923796"
+    }
+  },
+  {
+    "id": 612980,
+    "datetime": "2025-11-17 15:23:21 +01:00",
+    "name": "17 november 12.12, Stöld/inbrott, Uppsala",
+    "summary": "Anmälan om stöld genom inbrott.",
+    "url": "/aktuellt/handelser/2025/november/17/17-november-12.12-stoldinbrott-uppsala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 612979,
+    "datetime": "2025-11-17 15:21:33 +01:00",
+    "name": "17 november 14.27, Trafikbrott, Karlstad",
+    "summary": "Information gällande trafikolycka i Edsvalla",
+    "url": "/aktuellt/handelser/2025/november/17/17-november-14.27-trafikbrott-karlstad/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 612978,
+    "datetime": "2025-11-17 15:07:52 +01:00",
+    "name": "17 november 13.56, Brand, Öckerö",
+    "summary": "Via SOS inkommer larm om en brand i ett flerfamiljshus på Hönö. Flera blåljusresurser kallas till platsen.",
+    "url": "/aktuellt/handelser/2025/november/17/17-november-13.56-brand-ockero/",
+    "type": "Brand",
+    "location": {
+      "name": "Öckerö",
+      "gps": "57.711741,11.648789"
+    }
+  },
+  {
+    "id": 612977,
+    "datetime": "2025-11-17 15:02:28 +01:00",
+    "name": "17 november 14.13, Trafikbrott, Borlänge",
+    "summary": "En bilist är misstänkt för brott",
+    "url": "/aktuellt/handelser/2025/november/17/17-november-14.13-trafikbrott-borlange/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
     "id": 612788,
     "datetime": "2025-11-14 16:17:48 +01:00",
     "name": "14 november 15.23, Trafikolycka, personskada, Stockholm",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Fagersta",
       "gps": "59.989144,15.816642"
-    }
-  },
-  {
-    "id": 612194,
-    "datetime": "2025-11-10 7:15:12 +01:00",
-    "name": "10 november 02.19, Våld/hot mot tjänsteman, Sölvesborg",
-    "summary": "Förgripelse mot tjänsteman.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-02.19-valdhot-mot-tjansteman-solvesborg/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Sölvesborg",
-      "gps": "56.053743,14.579688"
-    }
-  },
-  {
-    "id": 612190,
-    "datetime": "2025-11-10 7:12:58 +01:00",
-    "name": "10 november 07.06, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-07.06-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 612192,
-    "datetime": "2025-11-10 7:11:47 +01:00",
-    "name": "10 november 07.07, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-07.07-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 612193,
-    "datetime": "2025-11-10 7:11:28 +01:00",
-    "name": "10 november 07.10, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-07.10-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 612191,
-    "datetime": "2025-11-10 7:08:01 +01:00",
-    "name": "10 november 21.40, Stöld/inbrott, Malmö",
-    "summary": "Inbrott på Skatbogatan.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-21.40-stoldinbrott-malmo/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
