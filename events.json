@@ -1,5 +1,101 @@
 [
   {
+    "id": 614046,
+    "datetime": "2025-11-18 8:20:20 +01:00",
+    "name": "17 november 21.55, Misshandel, Västerås",
+    "summary": "Larm om misshandel.",
+    "url": "/aktuellt/handelser/2025/november/17/17-november-21.55-misshandel-vasteras/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 614045,
+    "datetime": "2025-11-18 8:11:27 +01:00",
+    "name": "18 november 01.29, Olaga hot, Stockholm",
+    "summary": "En man står utanför sitt ex bostad och hotar henne.",
+    "url": "/aktuellt/handelser/2025/november/18/18-november-01.29-olaga-hot-stockholm/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 614031,
+    "datetime": "2025-11-18 7:00:33 +01:00",
+    "name": "18 november 06.25, Trafikolycka, Höganäs",
+    "summary": "Larm om trafikolycka på LV111, Hittarp.",
+    "url": "/aktuellt/handelser/2025/november/18/18-november-06.25-trafikolycka-hoganas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Höganäs",
+      "gps": "56.200639,12.555329"
+    }
+  },
+  {
+    "id": 614037,
+    "datetime": "2025-11-18 7:49:57 +01:00",
+    "name": "18 november 07.48, Brand, Vetlanda",
+    "summary": "Ingen allvarligt skadad efter brand i Vetlanda",
+    "url": "/aktuellt/handelser/2025/november/18/18-november-07.48-brand-vetlanda/",
+    "type": "Brand",
+    "location": {
+      "name": "Vetlanda",
+      "gps": "57.42746,15.08533"
+    }
+  },
+  {
+    "id": 614023,
+    "datetime": "2025-11-18 6:36:44 +01:00",
+    "name": "18 november 05.54, Trafikolycka, Helsingborg",
+    "summary": "Två personbilar i kollision på E6:an.",
+    "url": "/aktuellt/handelser/2025/november/18/18-november-05.54-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 614040,
+    "datetime": "2025-11-18 7:50:59 +01:00",
+    "name": "18 november 07.50, Sammanfattning natt, Östergötlands län",
+    "summary": "Polisens regionledningscentral har hanterat runt 70 händelser under natten mellan 22.00 och 07.00 i Östergötla",
+    "url": "/aktuellt/handelser/2025/november/18/18-november-07.50-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 614039,
+    "datetime": "2025-11-18 7:50:37 +01:00",
+    "name": "18 november 07.50, Sammanfattning natt, Södermanlands län",
+    "summary": "Polisens regionledningscentral har hanterat runt 40 händelser under natten mellan 22.00 och 07.00 i Södermanla",
+    "url": "/aktuellt/handelser/2025/november/18/18-november-07.50-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 614038,
+    "datetime": "2025-11-18 7:50:19 +01:00",
+    "name": "18 november 07.50, Sammanfattning natt, Jönköpings län",
+    "summary": "Polisens regionledningscentral har hanterat runt 50 händelser under natten mellan 22.00 och 07.00 i Jönköpings",
+    "url": "/aktuellt/handelser/2025/november/18/18-november-07.50-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 614036,
     "datetime": "2025-11-18 7:13:57 +01:00",
     "name": "18 november 01.26, Brand, Stockholm",
@@ -96,18 +192,6 @@
     }
   },
   {
-    "id": 614031,
-    "datetime": "2025-11-18 7:00:33 +01:00",
-    "name": "18 november 06.25, Trafikolycka, Höganäs",
-    "summary": "Larm om trafikolycka på LV111, Hittarp.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-06.25-trafikolycka-hoganas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Höganäs",
-      "gps": "56.200639,12.555329"
-    }
-  },
-  {
     "id": 614030,
     "datetime": "2025-11-18 7:00:09 +01:00",
     "name": "18 november 07.00, Sammanfattning kväll och natt, Västra Götalands län",
@@ -141,18 +225,6 @@
     "location": {
       "name": "Karlshamn",
       "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 614023,
-    "datetime": "2025-11-18 6:36:44 +01:00",
-    "name": "18 november 05.54, Trafikolycka, Helsingborg",
-    "summary": "Två personbilar i kollision på E6:an.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-05.54-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Krokom",
       "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 612271,
-    "datetime": "2025-11-10 16:22:43 +01:00",
-    "name": "10 november 16.22, Misshandel, Katrineholm",
-    "summary": "Park avspärrad i centrala Katrineholm efter slagsmål",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-16.22-misshandel-katrineholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Katrineholm",
-      "gps": "58.995551,16.205476"
-    }
-  },
-  {
-    "id": 612281,
-    "datetime": "2025-11-10 17:43:06 +01:00",
-    "name": "10 november 15.23, Stöld, Boden",
-    "summary": "Boden, ringa stöld i matbutik.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-15.23-stold-boden/",
-    "type": "Stöld",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 612280,
-    "datetime": "2025-11-10 17:35:32 +01:00",
-    "name": "10 november 17.20, Stöld/inbrott, Borlänge",
-    "summary": "Inbrott i bostad i Borlänge.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-17.20-stoldinbrott-borlange/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 612269,
-    "datetime": "2025-11-10 16:16:57 +01:00",
-    "name": "10 november 16.11, Trafikolycka, Karlstad",
-    "summary": "Två bilister har kolliderat på E18/ Sandbäcksgatan i Karlstad.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-16.11-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 612272,
-    "datetime": "2025-11-10 16:45:46 +01:00",
-    "name": "10 november 11.15, Arbetsplatsolycka, Bräcke",
-    "summary": "Bräcke kommun, olycka under arbete.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-11.15-arbetsplatsolycka-bracke/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Bräcke",
-      "gps": "62.750741,15.422575"
-    }
-  },
-  {
-    "id": 612273,
-    "datetime": "2025-11-10 16:33:33 +01:00",
-    "name": "10 november 16.33, Trafikolycka, vilt, Norrbottens län",
-    "summary": "Norrbotten, fem viltolyckor anmälda sedan klockan 15:40.",
-    "url": "/aktuellt/handelser/2025/november/10/10-november-16.33-trafikolycka-vilt-norrbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
