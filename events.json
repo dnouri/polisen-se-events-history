@@ -1,5 +1,101 @@
 [
   {
+    "id": 614264,
+    "datetime": "2025-11-19 15:30:30 +01:00",
+    "name": "19 november 13.00, Brand, Norrtälje",
+    "summary": "Polisen biträder Räddningstjänsten med brand i Norrtälje.",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-13.00-brand-norrtalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrtälje",
+      "gps": "59.759584,18.701358"
+    }
+  },
+  {
+    "id": 614260,
+    "datetime": "2025-11-19 15:27:58 +01:00",
+    "name": "19 november 14.30, Trafikolycka, Hedemora",
+    "summary": "En olycka har inträffat i centrum",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-14.30-trafikolycka-hedemora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hedemora",
+      "gps": "60.277545,15.985892"
+    }
+  },
+  {
+    "id": 614253,
+    "datetime": "2025-11-19 15:16:59 +01:00",
+    "name": "19 november 14.49, Trafikolycka, Vaggeryd",
+    "summary": "Man påkörd av bilist.",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-14.49-trafikolycka-vaggeryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vaggeryd",
+      "gps": "57.498962,14.14863"
+    }
+  },
+  {
+    "id": 614225,
+    "datetime": "2025-11-19 12:55:19 +01:00",
+    "name": "19 november 12.40, Trafikolycka, Örkelljunga",
+    "summary": "Larm om trafikolycka på Valhallavägen",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-12.40-trafikolycka-orkelljunga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örkelljunga",
+      "gps": "56.283635,13.278832"
+    }
+  },
+  {
+    "id": 614252,
+    "datetime": "2025-11-19 15:10:02 +01:00",
+    "name": "19 november 12.22, Stöld, Umeå",
+    "summary": "Centrala stan, ung man stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-12.22-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 614236,
+    "datetime": "2025-11-19 13:34:28 +01:00",
+    "name": "19 november 13.14, Brand, Avesta",
+    "summary": "Polisen biträder just nu räddningstjänsten vid en brand i en fastighet i centrala Avesta.",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-13.14-brand-avesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 614251,
+    "datetime": "2025-11-19 15:05:51 +01:00",
+    "name": "19 november 11.19, Stöld, Piteå",
+    "summary": "Strömnäs, tonåring stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-11.19-stold-pitea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 614250,
+    "datetime": "2025-11-19 15:00:25 +01:00",
+    "name": "19 november 10.57, Olaga hot, Sundsvall",
+    "summary": "Sundsvall, polis kontaktas gällande hotfull situation på ett boende",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-10.57-olaga-hot-sundsvall/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
     "id": 614243,
     "datetime": "2025-11-19 14:16:53 +01:00",
     "name": "19 november 14.02, Uppdatering, Borås",
@@ -105,30 +201,6 @@
     "location": {
       "name": "Sundsvall",
       "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 614236,
-    "datetime": "2025-11-19 13:34:28 +01:00",
-    "name": "19 november 13.14, Brand, Avesta",
-    "summary": "Polisen biträder just nu räddningstjänsten vid en brand i en fastighet i centrala Avesta.",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-13.14-brand-avesta/",
-    "type": "Brand",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 614225,
-    "datetime": "2025-11-19 12:55:19 +01:00",
-    "name": "19 november 12.40, Trafikolycka, Örkelljunga",
-    "summary": "Larm om trafikolycka på Valhallavägen",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-12.40-trafikolycka-orkelljunga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örkelljunga",
-      "gps": "56.283635,13.278832"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 612471,
-    "datetime": "2025-11-12 7:49:23 +01:00",
-    "name": "12 november 07.48, Sammanfattning natt, Östergötlands län",
-    "summary": "Polisens regionledningscentral har hanterat runt 80 händelser under natten mellan 22.00 och 07.00 i Östergötla",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-07.48-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 612464,
-    "datetime": "2025-11-12 7:39:47 +01:00",
-    "name": "12 november 07.37, Information, Örebro län",
-    "summary": "Ändrade öppettider för Bergslagens regionala mediecenter under onsdagen.",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-07.37-information-orebro-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 612463,
-    "datetime": "2025-11-12 7:39:31 +01:00",
-    "name": "12 november 07.37, Information, Dalarnas län",
-    "summary": "Ändrade öppettider för Bergslagens regionala mediecenter under onsdagen.",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-07.37-information-dalarnas-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 612462,
-    "datetime": "2025-11-12 7:39:15 +01:00",
-    "name": "12 november 07.37, Information, Värmlands län",
-    "summary": "Ändrade öppettider för Bergslagens regionala mediecenter under onsdagen.",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-07.37-information-varmlands-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 612458,
-    "datetime": "2025-11-12 7:19:22 +01:00",
-    "name": "12 november 07.19, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-07.19-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 612457,
-    "datetime": "2025-11-12 7:19:08 +01:00",
-    "name": "12 november 07.19, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-07.19-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
