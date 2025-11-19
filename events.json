@@ -1,14 +1,38 @@
 [
   {
-    "id": 614260,
-    "datetime": "2025-11-19 15:27:58 +01:00",
-    "name": "19 november 14.30, Trafikolycka, Hedemora",
-    "summary": "En olycka har inträffat i centrum",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-14.30-trafikolycka-hedemora/",
+    "id": 614274,
+    "datetime": "2025-11-19 16:19:33 +01:00",
+    "name": "19 november 16.12, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat i Viken",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-16.12-trafikolycka-karlstad/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Hedemora",
-      "gps": "60.277545,15.985892"
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 614271,
+    "datetime": "2025-11-19 16:03:12 +01:00",
+    "name": "19 november 15.35, Försvunnen person, Skara",
+    "summary": "Polisen eftersöker 60-åriga Cecylia hemmahörande i Skara.",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-15.35-forsvunnen-person-skara/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skara",
+      "gps": "58.386013,13.439328"
+    }
+  },
+  {
+    "id": 614270,
+    "datetime": "2025-11-19 16:02:37 +01:00",
+    "name": "19 november 15.51, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Skebäck",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-15.51-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Gislaved",
       "gps": "57.2985,13.54326"
+    }
+  },
+  {
+    "id": 614260,
+    "datetime": "2025-11-19 15:27:58 +01:00",
+    "name": "19 november 14.30, Trafikolycka, Hedemora",
+    "summary": "En olycka har inträffat i centrum",
+    "url": "/aktuellt/handelser/2025/november/19/19-november-14.30-trafikolycka-hedemora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hedemora",
+      "gps": "60.277545,15.985892"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 612459,
-    "datetime": "2025-11-12 7:17:24 +01:00",
-    "name": "12 november 06.36, Brand, Mölndal",
-    "summary": "SOS larmas om brand i en byggnad i Kållered.",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-06.36-brand-molndal/",
-    "type": "Brand",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 612460,
-    "datetime": "2025-11-12 7:19:52 +01:00",
-    "name": "12 november 05.09, Mord/dråp, försök, Upplands väsby",
-    "summary": "Polis och räddningstjänst kallas till ett bostadsområde i Upplands Väsby med anledning av att en kvinna sticks",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-05.09-morddrap-forsok-upplands-vasby/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Upplands väsby",
-      "gps": "59.51961,17.92834"
-    }
-  },
-  {
-    "id": 612473,
-    "datetime": "2025-11-12 7:50:45 +01:00",
-    "name": "12 november 07.50, Sammanfattning natt, Jönköpings län",
-    "summary": "Polisens regionledningscentral har hanterat runt 60 händelser under natten mellan 22.00 och 07.00 i Jönköpings",
-    "url": "/aktuellt/handelser/2025/november/12/12-november-07.50-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
