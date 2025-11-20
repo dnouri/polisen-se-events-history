@@ -1,5 +1,65 @@
 [
   {
+    "id": 614444,
+    "datetime": "2025-11-20 15:30:40 +01:00",
+    "name": "20 november 14.30, Brand, Kramfors",
+    "summary": "Väja, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-14.30-brand-kramfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 614443,
+    "datetime": "2025-11-20 15:27:44 +01:00",
+    "name": "20 november 14.42, Trafikolycka, Sundsvall",
+    "summary": "Birsta, trafikolycka i korsning.",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-14.42-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 614440,
+    "datetime": "2025-11-20 14:52:01 +01:00",
+    "name": "20 november 14.27, Trafikolycka, Eskilstuna",
+    "summary": "Två fordon är involverade i en trafikolycka på Montörgatan.",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-14.27-trafikolycka-eskilstuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 614352,
+    "datetime": "2025-11-20 7:08:59 +01:00",
+    "name": "20 november 07.07, Sammanfattning natt, Västerbottens län",
+    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-07.07-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 614438,
+    "datetime": "2025-11-20 14:43:25 +01:00",
+    "name": "20 november 13.52, Skadegörelse, Hammarö",
+    "summary": "Det ha brunnit i en papperskorg i en toalett på Mörmoskolan i Skoghall",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-13.52-skadegorelse-hammaro/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Hammarö",
+      "gps": "59.311466,13.529854"
+    }
+  },
+  {
     "id": 614434,
     "datetime": "2025-11-20 14:03:00 +01:00",
     "name": "20 november 10.33, Rattfylleri, Kramfors",
@@ -513,18 +573,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 614352,
-    "datetime": "2025-11-20 7:08:59 +01:00",
-    "name": "20 november 07.07, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-07.07-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 612593,
-    "datetime": "2025-11-13 7:54:08 +01:00",
-    "name": "13 november 07.53, Sammanfattning natt, Södermanlands län",
-    "summary": "Polisens regionledningscentral har hanterat runt 40 händelser under natten mellan 22.00 och 07.00 i Södermanla",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-07.53-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 612592,
-    "datetime": "2025-11-13 7:53:11 +01:00",
-    "name": "13 november 07.52, Sammanfattning natt, Jönköpings län",
-    "summary": "Polisens regionledningscentral har hanterat runt 60 händelser under natten mellan 22.00 och 07.00 i Jönköpings",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-07.52-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 612571,
-    "datetime": "2025-11-13 6:21:21 +01:00",
-    "name": "12 november 22.11, Mord/dråp, försök, Hässleholm",
-    "summary": "Polis larmas till Sösdala där en man i 35-årsåldern skadats med ett vasst föremål.",
-    "url": "/aktuellt/handelser/2025/november/13/12-november-22.11-morddrap-forsok-hassleholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Hässleholm",
-      "gps": "56.158915,13.766765"
-    }
-  },
-  {
-    "id": 612590,
-    "datetime": "2025-11-13 7:29:56 +01:00",
-    "name": "13 november 02.45, Misshandel, grov, Stockholm",
-    "summary": "Man greps efter misshandel på Södermalm.",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-02.45-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
