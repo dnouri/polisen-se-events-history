@@ -1,5 +1,65 @@
 [
   {
+    "id": 614542,
+    "datetime": "2025-11-21 13:46:23 +01:00",
+    "name": "21 november 13.31, Brand, Torsby",
+    "summary": "SOS meddelar att de skickar resurser på en brand i Stöllet.",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.31-brand-torsby/",
+    "type": "Brand",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 614540,
+    "datetime": "2025-11-21 13:36:38 +01:00",
+    "name": "21 november 13.36, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Två renolyckor anmälda till polisen",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.36-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 614535,
+    "datetime": "2025-11-21 13:36:25 +01:00",
+    "name": "21 november 13.36, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.36-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 614539,
+    "datetime": "2025-11-21 13:36:02 +01:00",
+    "name": "21 november 13.35, Trafikkontroll, Härjedalen",
+    "summary": "Resultat efter en trafikkontroll på riksväg 84, Linsell.",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.35-trafikkontroll-harjedalen/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 614534,
+    "datetime": "2025-11-21 13:35:44 +01:00",
+    "name": "21 november 13.35, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.35-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 614504,
     "datetime": "2025-11-21 8:10:52 +01:00",
     "name": "21 november 07.52, Trafikolycka, Malmö",
@@ -396,18 +456,6 @@
     }
   },
   {
-    "id": 614490,
-    "datetime": "2025-11-21 7:07:27 +01:00",
-    "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till fredag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2025/november/21/21-november-07.05-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 614491,
     "datetime": "2025-11-21 7:07:27 +01:00",
     "name": "20 november 22.01, Rån, Landskrona",
@@ -417,6 +465,18 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 614490,
+    "datetime": "2025-11-21 7:07:27 +01:00",
+    "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till fredag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-07.05-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Svedala",
       "gps": "55.508908,13.23711"
-    }
-  },
-  {
-    "id": 612698,
-    "datetime": "2025-11-13 22:01:59 +01:00",
-    "name": "13 november 21.39, Kontroll, Uppsala",
-    "summary": "Tv-bild vållade utryckning.",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-21.39-kontroll-uppsala/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 612697,
-    "datetime": "2025-11-13 21:46:26 +01:00",
-    "name": "13 november 21.19, Brand, Helsingborg",
-    "summary": "Brand i lägenhet, Högasten.",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-21.19-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 612696,
-    "datetime": "2025-11-13 21:41:14 +01:00",
-    "name": "13 november 21.41, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-21.41-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 612695,
-    "datetime": "2025-11-13 21:40:56 +01:00",
-    "name": "13 november 21.40, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-21.40-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 612689,
-    "datetime": "2025-11-13 21:29:50 +01:00",
-    "name": "13 november 21.29, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-21.29-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
