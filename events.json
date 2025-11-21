@@ -1,5 +1,41 @@
 [
   {
+    "id": 614550,
+    "datetime": "2025-11-21 14:25:11 +01:00",
+    "name": "21 november 14.23, Brand, Örebro",
+    "summary": "Det brinner i ett fordon på Drottninggatan",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-14.23-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 614549,
+    "datetime": "2025-11-21 14:16:58 +01:00",
+    "name": "21 november 13.27, Trafikolycka, Ängelholm",
+    "summary": "Kollison på E6.",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.27-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 614548,
+    "datetime": "2025-11-21 14:13:51 +01:00",
+    "name": "21 november 13.17, Arbetsplatsolycka, Umeå",
+    "summary": "Larm om olycka i Brännland",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.17-arbetsplatsolycka-umea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
     "id": 614542,
     "datetime": "2025-11-21 13:46:23 +01:00",
     "name": "21 november 13.31, Brand, Torsby",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Torsby",
       "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 614546,
+    "datetime": "2025-11-21 14:01:29 +01:00",
+    "name": "21 november 13.00, Trafikolycka, Ängelholm",
+    "summary": "Två personbilar och en lastbil kolliderar på länsväg 112, nordväst om Strövelstorp.",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.00-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ängelholm",
+      "gps": "56.245748,12.863881"
+    }
+  },
+  {
+    "id": 614543,
+    "datetime": "2025-11-21 14:00:04 +01:00",
+    "name": "21 november 13.52, Övrigt, Avesta",
+    "summary": "Polisen kan komma att kamerabevaka med drönare Avesta",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-13.52-ovrigt-avesta/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 612709,
-    "datetime": "2025-11-14 7:01:02 +01:00",
-    "name": "14 november 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2025/november/14/14-november-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 612706,
-    "datetime": "2025-11-14 6:42:41 +01:00",
-    "name": "14 november 02.15, Rattfylleri, Malmö",
-    "summary": "Man i 25-årsåldern misstänks för grovt rattfylleri.",
-    "url": "/aktuellt/handelser/2025/november/14/14-november-02.15-rattfylleri-malmo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 612705,
-    "datetime": "2025-11-14 6:23:51 +01:00",
-    "name": "14 november 00.20, Skadegörelse, Kristianstad",
-    "summary": "Skadegörelse av bil.",
-    "url": "/aktuellt/handelser/2025/november/14/14-november-00.20-skadegorelse-kristianstad/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
-    }
-  },
-  {
-    "id": 612704,
-    "datetime": "2025-11-14 6:16:14 +01:00",
-    "name": "14 november 00.21, Rattfylleri, Kalmar",
-    "summary": "Misstänkt rattfylleri på Galggatan.",
-    "url": "/aktuellt/handelser/2025/november/14/14-november-00.21-rattfylleri-kalmar/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kalmar",
-      "gps": "56.663445,16.356779"
-    }
-  },
-  {
-    "id": 612702,
-    "datetime": "2025-11-14 6:15:02 +01:00",
-    "name": "13 november 23.27, Rattfylleri, Svedala",
-    "summary": "Man i 45-årsåldern misstänks för rattfylleri efter kontroll.",
-    "url": "/aktuellt/handelser/2025/november/13/13-november-23.27-rattfylleri-svedala/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Svedala",
-      "gps": "55.508908,13.23711"
     }
   }
 ]
