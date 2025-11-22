@@ -1,5 +1,29 @@
 [
   {
+    "id": 614599,
+    "datetime": "2025-11-22 6:23:03 +01:00",
+    "name": "22 november 02.24, Misshandel, Ljungby",
+    "summary": "Misshandel på Stora torget.",
+    "url": "/aktuellt/handelser/2025/november/22/22-november-02.24-misshandel-ljungby/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Ljungby",
+      "gps": "56.833877,13.941042"
+    }
+  },
+  {
+    "id": 614598,
+    "datetime": "2025-11-22 6:16:50 +01:00",
+    "name": "22 november 02.49, Rattfylleri, Karlshamn",
+    "summary": "Misstänkt rattfylleri, Svängsta.",
+    "url": "/aktuellt/handelser/2025/november/22/22-november-02.49-rattfylleri-karlshamn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
     "id": 614597,
     "datetime": "2025-11-22 0:04:08 +01:00",
     "name": "22 november 00.02, Explosion, Jönköping",
@@ -864,18 +888,6 @@
     }
   },
   {
-    "id": 614491,
-    "datetime": "2025-11-21 7:07:27 +01:00",
-    "name": "20 november 22.01, Rån, Landskrona",
-    "summary": "Misstänkt rån vid försäljning av jacka.",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-22.01-ran-landskrona/",
-    "type": "Rån",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
     "id": 614490,
     "datetime": "2025-11-21 7:07:27 +01:00",
     "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
@@ -885,6 +897,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 614491,
+    "datetime": "2025-11-21 7:07:27 +01:00",
+    "name": "20 november 22.01, Rån, Landskrona",
+    "summary": "Misstänkt rån vid försäljning av jacka.",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-22.01-ran-landskrona/",
+    "type": "Rån",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Gnosjö",
       "gps": "57.35804,13.73719"
-    }
-  },
-  {
-    "id": 612759,
-    "datetime": "2025-11-14 12:46:46 +01:00",
-    "name": "14 november 12.42, Trafikkontroll, Västernorrlands län",
-    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen.",
-    "url": "/aktuellt/handelser/2025/november/14/14-november-12.42-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 612747,
-    "datetime": "2025-11-14 10:56:22 +01:00",
-    "name": "14 november 10.32, Trafikolycka, Malmö",
-    "summary": "En trafikolycka mellan två personbilar inträffar på Sandtagsgatan, vid Frihamnen i Malmö.",
-    "url": "/aktuellt/handelser/2025/november/14/14-november-10.32-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
