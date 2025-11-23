@@ -1,5 +1,41 @@
 [
   {
+    "id": 614657,
+    "datetime": "2025-11-23 6:13:59 +01:00",
+    "name": "23 november 04.44, Explosion, Norrköping",
+    "summary": "Explosion i Norrköping",
+    "url": "/aktuellt/handelser/2025/november/23/23-november-04.44-explosion-norrkoping/",
+    "type": "Explosion",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 614659,
+    "datetime": "2025-11-23 6:23:44 +01:00",
+    "name": "23 november 00.51, Rattfylleri, Vimmerby",
+    "summary": "Misstänkt rattfylleri på Hultsfredsvägen.",
+    "url": "/aktuellt/handelser/2025/november/23/23-november-00.51-rattfylleri-vimmerby/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Vimmerby",
+      "gps": "57.669034,15.858857"
+    }
+  },
+  {
+    "id": 614658,
+    "datetime": "2025-11-23 6:18:23 +01:00",
+    "name": "23 november 00.51, Rattfylleri, Nybro",
+    "summary": "Misstänkt rattfyleri på riksväg 25.",
+    "url": "/aktuellt/handelser/2025/november/23/23-november-00.51-rattfylleri-nybro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Nybro",
+      "gps": "56.7438,15.908681"
+    }
+  },
+  {
     "id": 614655,
     "datetime": "2025-11-22 22:49:04 +01:00",
     "name": "22 november 19.13, Misshandel, Södertälje",
@@ -1560,18 +1596,6 @@
     }
   },
   {
-    "id": 614491,
-    "datetime": "2025-11-21 7:07:27 +01:00",
-    "name": "20 november 22.01, Rån, Landskrona",
-    "summary": "Misstänkt rån vid försäljning av jacka.",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-22.01-ran-landskrona/",
-    "type": "Rån",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
     "id": 614490,
     "datetime": "2025-11-21 7:07:27 +01:00",
     "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
@@ -1581,6 +1605,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 614491,
+    "datetime": "2025-11-21 7:07:27 +01:00",
+    "name": "20 november 22.01, Rån, Landskrona",
+    "summary": "Misstänkt rån vid försäljning av jacka.",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-22.01-ran-landskrona/",
+    "type": "Rån",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Huddinge",
       "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 612843,
-    "datetime": "2025-11-15 19:12:06 +01:00",
-    "name": "15 november 18.48, Rattfylleri, Karlshamn",
-    "summary": "Vinglig färd",
-    "url": "/aktuellt/handelser/2025/november/15/15-november-18.48-rattfylleri-karlshamn/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 612842,
-    "datetime": "2025-11-15 18:49:52 +01:00",
-    "name": "15 november 16.49, Trafikolycka, Solna",
-    "summary": "Två bilar inblandad i trafikolycka på E4.",
-    "url": "/aktuellt/handelser/2025/november/15/15-november-16.49-trafikolycka-solna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Solna",
-      "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 612840,
-    "datetime": "2025-11-15 16:40:59 +01:00",
-    "name": "15 november 16.08, Farligt föremål, misstänkt, Göteborg",
-    "summary": "I samband med ett fordonstopp utanför Nordstan i Göteborg anträffar patrullen ett misstänkt farligt föremål i ",
-    "url": "/aktuellt/handelser/2025/november/15/15-november-16.08-farligt-foremal-misstankt-goteborg/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
