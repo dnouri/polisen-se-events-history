@@ -1,5 +1,53 @@
 [
   {
+    "id": 614689,
+    "datetime": "2025-11-23 12:42:48 +01:00",
+    "name": "23 november 11.33, Olovlig körning, Mora",
+    "summary": "Bilförare utan körkort stoppad i Mora.",
+    "url": "/aktuellt/handelser/2025/november/23/23-november-11.33-olovlig-korning-mora/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 614688,
+    "datetime": "2025-11-23 12:35:01 +01:00",
+    "name": "23 november 09.59, Rattfylleri, Skellefteå",
+    "summary": "Tuvan, polisen kontrollerar en personbil.",
+    "url": "/aktuellt/handelser/2025/november/23/23-november-09.59-rattfylleri-skelleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 614687,
+    "datetime": "2025-11-23 12:30:48 +01:00",
+    "name": "23 november 10.46, Misshandel, Sigtuna",
+    "summary": "Man gripen misstänkt för misshandel av kvinna han har relation med.",
+    "url": "/aktuellt/handelser/2025/november/23/23-november-10.46-misshandel-sigtuna/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 614686,
+    "datetime": "2025-11-23 12:30:37 +01:00",
+    "name": "23 november 12.24, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Ett antal viltolytckor har rapporterats in till polisens ledningscentral under förmiddagen.",
+    "url": "/aktuellt/handelser/2025/november/23/23-november-12.24-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 614685,
     "datetime": "2025-11-23 11:25:51 +01:00",
     "name": "23 november 10.57, Trafikolycka, Skövde",
@@ -1908,18 +1956,6 @@
     }
   },
   {
-    "id": 614490,
-    "datetime": "2025-11-21 7:07:27 +01:00",
-    "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till fredag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2025/november/21/21-november-07.05-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 614491,
     "datetime": "2025-11-21 7:07:27 +01:00",
     "name": "20 november 22.01, Rån, Landskrona",
@@ -1929,6 +1965,18 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 614490,
+    "datetime": "2025-11-21 7:07:27 +01:00",
+    "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till fredag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-07.05-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 612880,
-    "datetime": "2025-11-16 12:52:16 +01:00",
-    "name": "16 november 10.07, Stöld, försök, Västerås",
-    "summary": "Försök till stöld genom inbrott i Västerås.",
-    "url": "/aktuellt/handelser/2025/november/16/16-november-10.07-stold-forsok-vasteras/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 612879,
-    "datetime": "2025-11-16 12:41:22 +01:00",
-    "name": "16 november 11.23, Trafikolycka, personskada, Enköping",
-    "summary": "Singelolycka på LV519, en person till sjukhus.",
-    "url": "/aktuellt/handelser/2025/november/16/16-november-11.23-trafikolycka-personskada-enkoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 612878,
-    "datetime": "2025-11-16 10:39:22 +01:00",
-    "name": "16 november 10.09, Motorfordon, stöld, Stockholm",
-    "summary": "Polisen söker i Västberga efter två personer som befunnit sig vid en bil som har stulits i närtid.",
-    "url": "/aktuellt/handelser/2025/november/16/16-november-10.09-motorfordon-stold-stockholm/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 612877,
-    "datetime": "2025-11-16 8:50:42 +01:00",
-    "name": "16 november 06.00, Motorfordon, stöld, Knivsta",
-    "summary": "Företagsbil stulen i Knivsta.",
-    "url": "/aktuellt/handelser/2025/november/16/16-november-06.00-motorfordon-stold-knivsta/",
-    "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Knivsta",
-      "gps": "59.72612,17.792036"
     }
   }
 ]
