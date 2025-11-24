@@ -1,5 +1,101 @@
 [
   {
+    "id": 614841,
+    "datetime": "2025-11-24 20:17:27 +01:00",
+    "name": "24 november 19.12, Bedrägeri, Stockholm",
+    "summary": "En kvinna i 80-årsåldern på Kungsholmen i Stockholm har blivit utsatt för bedrägeri.",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-19.12-bedrageri-stockholm/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 614840,
+    "datetime": "2025-11-24 20:14:45 +01:00",
+    "name": "24 november 18.33, Skadegörelse, Hässleholm",
+    "summary": "Skadegörelse i lägenhet i Tyringe, Hässleholm",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-18.33-skadegorelse-hassleholm/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Hässleholm",
+      "gps": "56.158915,13.766765"
+    }
+  },
+  {
+    "id": 614839,
+    "datetime": "2025-11-24 20:08:08 +01:00",
+    "name": "24 november 18.30, Trafikolycka, Sollefteå",
+    "summary": "Trafikolycka i centrala Sollefteå.",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-18.30-trafikolycka-solleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sollefteå",
+      "gps": "63.165407,17.277135"
+    }
+  },
+  {
+    "id": 614838,
+    "datetime": "2025-11-24 19:58:47 +01:00",
+    "name": "24 november 19.58, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Flertalet viltolyckor, främst renpåkörningar, i Norrbotten.",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-19.58-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 614834,
+    "datetime": "2025-11-24 19:43:34 +01:00",
+    "name": "24 november 19.22, Brand, Lomma",
+    "summary": "Bilbrand på E6 Lomma.",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-19.22-brand-lomma/",
+    "type": "Brand",
+    "location": {
+      "name": "Lomma",
+      "gps": "55.673138,13.067406"
+    }
+  },
+  {
+    "id": 614837,
+    "datetime": "2025-11-24 19:50:45 +01:00",
+    "name": "24 november 19.42, Brand, Lilla edet",
+    "summary": "Larm om brinnande lastbil på E45.",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-19.42-brand-lilla-edet/",
+    "type": "Brand",
+    "location": {
+      "name": "Lilla edet",
+      "gps": "58.132158,12.124134"
+    }
+  },
+  {
+    "id": 614836,
+    "datetime": "2025-11-24 19:50:04 +01:00",
+    "name": "24 november 18.54, Arbetsplatsolycka, Västervik",
+    "summary": "Arbetsplatsolycka i Västervik.",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-18.54-arbetsplatsolycka-vastervik/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Västervik",
+      "gps": "57.757716,16.636976"
+    }
+  },
+  {
+    "id": 614835,
+    "datetime": "2025-11-24 19:46:00 +01:00",
+    "name": "24 november 18.19, Olovlig körning, Bräcke",
+    "summary": "Grov olovlig körning i Bräcke.",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-18.19-olovlig-korning-bracke/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Bräcke",
+      "gps": "62.750741,15.422575"
+    }
+  },
+  {
     "id": 614832,
     "datetime": "2025-11-24 19:03:33 +01:00",
     "name": "24 november 18.07, Trafikolycka, Skellefteå",
@@ -3048,18 +3144,6 @@
     }
   },
   {
-    "id": 614491,
-    "datetime": "2025-11-21 7:07:27 +01:00",
-    "name": "20 november 22.01, Rån, Landskrona",
-    "summary": "Misstänkt rån vid försäljning av jacka.",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-22.01-ran-landskrona/",
-    "type": "Rån",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
     "id": 614490,
     "datetime": "2025-11-21 7:07:27 +01:00",
     "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
@@ -3069,6 +3153,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 614491,
+    "datetime": "2025-11-21 7:07:27 +01:00",
+    "name": "20 november 22.01, Rån, Landskrona",
+    "summary": "Misstänkt rån vid försäljning av jacka.",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-22.01-ran-landskrona/",
+    "type": "Rån",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 614038,
-    "datetime": "2025-11-18 7:50:19 +01:00",
-    "name": "18 november 07.50, Sammanfattning natt, Jönköpings län",
-    "summary": "Polisens regionledningscentral har hanterat runt 50 händelser under natten mellan 22.00 och 07.00 i Jönköpings",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.50-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 614036,
-    "datetime": "2025-11-18 7:13:57 +01:00",
-    "name": "18 november 01.26, Brand, Stockholm",
-    "summary": "Brand i en restaurang på Djurgården.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-01.26-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 614025,
-    "datetime": "2025-11-18 7:04:39 +01:00",
-    "name": "18 november 07.04, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.04-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 614026,
-    "datetime": "2025-11-18 7:04:28 +01:00",
-    "name": "18 november 07.04, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.04-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 614027,
-    "datetime": "2025-11-18 7:04:10 +01:00",
-    "name": "18 november 07.04, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.04-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 614035,
-    "datetime": "2025-11-18 7:04:00 +01:00",
-    "name": "18 november 07.03, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.03-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 614034,
-    "datetime": "2025-11-18 7:01:54 +01:00",
-    "name": "18 november 07.00, Sammanfattning natt, Örebro län",
-    "summary": "Natt till tisdag i polisområde Örebro.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.00-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 614033,
-    "datetime": "2025-11-18 7:01:48 +01:00",
-    "name": "18 november 07.00, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till tisdag i polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.00-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
