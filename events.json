@@ -1,5 +1,53 @@
 [
   {
+    "id": 614844,
+    "datetime": "2025-11-24 21:04:35 +01:00",
+    "name": "24 november 20.33, Smällar, Eskilstuna",
+    "summary": "Larm om smällar",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-20.33-smallar-eskilstuna/",
+    "type": "Smällar",
+    "location": {
+      "name": "Eskilstuna",
+      "gps": "59.371249,16.509805"
+    }
+  },
+  {
+    "id": 614843,
+    "datetime": "2025-11-24 20:58:00 +01:00",
+    "name": "24 november 19.30, Misshandel, Stockholm",
+    "summary": "Polis frihetsberövar en man som är misstänkt för att ha misshandlat en kvinna som han har en nära relation med",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-19.30-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 614842,
+    "datetime": "2025-11-24 20:57:03 +01:00",
+    "name": "24 november 19.25, Trafikolycka, vilt, Jönköping",
+    "summary": "Bromsade för vilt - blev påkörd",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-19.25-trafikolycka-vilt-jonkoping/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 614837,
+    "datetime": "2025-11-24 19:50:45 +01:00",
+    "name": "24 november 19.42, Brand, Lilla edet",
+    "summary": "Larm om brinnande lastbil på E45.",
+    "url": "/aktuellt/handelser/2025/november/24/24-november-19.42-brand-lilla-edet/",
+    "type": "Brand",
+    "location": {
+      "name": "Lilla edet",
+      "gps": "58.132158,12.124134"
+    }
+  },
+  {
     "id": 614696,
     "datetime": "2025-11-23 14:12:15 +01:00",
     "name": "23 november 14.10, Misshandel, Karlstad",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Lomma",
       "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 614837,
-    "datetime": "2025-11-24 19:50:45 +01:00",
-    "name": "24 november 19.42, Brand, Lilla edet",
-    "summary": "Larm om brinnande lastbil på E45.",
-    "url": "/aktuellt/handelser/2025/november/24/24-november-19.42-brand-lilla-edet/",
-    "type": "Brand",
-    "location": {
-      "name": "Lilla edet",
-      "gps": "58.132158,12.124134"
     }
   },
   {
@@ -3144,18 +3180,6 @@
     }
   },
   {
-    "id": 614491,
-    "datetime": "2025-11-21 7:07:27 +01:00",
-    "name": "20 november 22.01, Rån, Landskrona",
-    "summary": "Misstänkt rån vid försäljning av jacka.",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-22.01-ran-landskrona/",
-    "type": "Rån",
-    "location": {
-      "name": "Landskrona",
-      "gps": "55.870348,12.83008"
-    }
-  },
-  {
     "id": 614490,
     "datetime": "2025-11-21 7:07:27 +01:00",
     "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
@@ -3165,6 +3189,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 614491,
+    "datetime": "2025-11-21 7:07:27 +01:00",
+    "name": "20 november 22.01, Rån, Landskrona",
+    "summary": "Misstänkt rån vid försäljning av jacka.",
+    "url": "/aktuellt/handelser/2025/november/20/20-november-22.01-ran-landskrona/",
+    "type": "Rån",
+    "location": {
+      "name": "Landskrona",
+      "gps": "55.870348,12.83008"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Vetlanda",
       "gps": "57.42746,15.08533"
-    }
-  },
-  {
-    "id": 614023,
-    "datetime": "2025-11-18 6:36:44 +01:00",
-    "name": "18 november 05.54, Trafikolycka, Helsingborg",
-    "summary": "Två personbilar i kollision på E6:an.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-05.54-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 614040,
-    "datetime": "2025-11-18 7:50:59 +01:00",
-    "name": "18 november 07.50, Sammanfattning natt, Östergötlands län",
-    "summary": "Polisens regionledningscentral har hanterat runt 70 händelser under natten mellan 22.00 och 07.00 i Östergötla",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.50-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 614039,
-    "datetime": "2025-11-18 7:50:37 +01:00",
-    "name": "18 november 07.50, Sammanfattning natt, Södermanlands län",
-    "summary": "Polisens regionledningscentral har hanterat runt 40 händelser under natten mellan 22.00 och 07.00 i Södermanla",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-07.50-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
