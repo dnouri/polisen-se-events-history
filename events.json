@@ -1,5 +1,65 @@
 [
   {
+    "id": 614899,
+    "datetime": "2025-11-25 12:25:55 +01:00",
+    "name": "25 november 12.25, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/november/25/25-november-12.25-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 614898,
+    "datetime": "2025-11-25 12:24:52 +01:00",
+    "name": "25 november 08.23, Trafikkontroll, Luleå",
+    "summary": "Resultat efter en trafikkontroll på länsväg 968, Storheden,",
+    "url": "/aktuellt/handelser/2025/november/25/25-november-08.23-trafikkontroll-lulea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 614897,
+    "datetime": "2025-11-25 12:11:48 +01:00",
+    "name": "25 november 11.42, Trafikolycka, Arvika",
+    "summary": "En olycka har inträffat i höjd med Ny",
+    "url": "/aktuellt/handelser/2025/november/25/25-november-11.42-trafikolycka-arvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 614884,
+    "datetime": "2025-11-25 9:41:53 +01:00",
+    "name": "25 november 09.25, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Karlslund",
+    "url": "/aktuellt/handelser/2025/november/25/25-november-09.25-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 614890,
+    "datetime": "2025-11-25 10:38:32 +01:00",
+    "name": "25 november 10.03, Mord/dråp, försök, Örebro",
+    "summary": "Vi är på plats på Boglundsängen med anledning av ett misstänkt mordförsök",
+    "url": "/aktuellt/handelser/2025/november/25/25-november-10.03-morddrap-forsok-orebro/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 614889,
     "datetime": "2025-11-25 10:30:57 +01:00",
     "name": "25 november 10.11, Trafikolycka, Göteborg",
@@ -24,18 +84,6 @@
     }
   },
   {
-    "id": 614890,
-    "datetime": "2025-11-25 10:38:32 +01:00",
-    "name": "25 november 10.03, Övrigt, Örebro",
-    "summary": "Vi är på plats på Boglundsängen med anledning av ett grovt brott",
-    "url": "/aktuellt/handelser/2025/november/25/25-november-10.03-ovrigt-orebro/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
     "id": 614888,
     "datetime": "2025-11-25 10:20:36 +01:00",
     "name": "25 november 08.09, Arbetsplatsolycka, Österåker",
@@ -45,18 +93,6 @@
     "location": {
       "name": "Österåker",
       "gps": "59.500058,18.352485"
-    }
-  },
-  {
-    "id": 614884,
-    "datetime": "2025-11-25 9:41:53 +01:00",
-    "name": "25 november 09.25, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i Karlslund",
-    "url": "/aktuellt/handelser/2025/november/25/25-november-09.25-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -3540,18 +3576,6 @@
     }
   },
   {
-    "id": 614490,
-    "datetime": "2025-11-21 7:07:27 +01:00",
-    "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till fredag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2025/november/21/21-november-07.05-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 614491,
     "datetime": "2025-11-21 7:07:27 +01:00",
     "name": "20 november 22.01, Rån, Landskrona",
@@ -3561,6 +3585,18 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 614490,
+    "datetime": "2025-11-21 7:07:27 +01:00",
+    "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till fredag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-07.05-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 614101,
-    "datetime": "2025-11-18 19:22:49 +01:00",
-    "name": "18 november 17.37, Trafikolycka, Sala",
-    "summary": "Larm om trafikolycka.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-17.37-trafikolycka-sala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sala",
-      "gps": "59.920859,16.606328"
-    }
-  },
-  {
-    "id": 614100,
-    "datetime": "2025-11-18 19:14:42 +01:00",
-    "name": "18 november 16.33, Trafikolycka, Kiruna",
-    "summary": "Larm om singelolycka på E45, norr om Vittangi.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-16.33-trafikolycka-kiruna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kiruna",
-      "gps": "67.8558,20.225282"
-    }
-  },
-  {
-    "id": 614098,
-    "datetime": "2025-11-18 18:19:49 +01:00",
-    "name": "18 november 16.34, Rån, Enköping",
-    "summary": "Man gripen.",
-    "url": "/aktuellt/handelser/2025/november/18/18-november-16.34-ran-enkoping/",
-    "type": "Rån",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
     }
   }
 ]
