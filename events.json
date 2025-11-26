@@ -1,5 +1,65 @@
 [
   {
+    "id": 615039,
+    "datetime": "2025-11-26 18:20:07 +01:00",
+    "name": "26 november 16.22, Information, Örebro",
+    "summary": "En anmälan är upprättad efter händelse på en buss",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-16.22-information-orebro/",
+    "type": "Information",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 615038,
+    "datetime": "2025-11-26 18:18:23 +01:00",
+    "name": "26 november 17.50, Trafikolycka, Östra göinge",
+    "summary": "Trafikolycka på riksväg 19 söder om Broby.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-17.50-trafikolycka-ostra-goinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östra göinge",
+      "gps": "56.237877,14.216166"
+    }
+  },
+  {
+    "id": 615037,
+    "datetime": "2025-11-26 18:17:20 +01:00",
+    "name": "26 november 16.53, Smällar, Uddevalla",
+    "summary": "Larm om smällar vid bostadshus.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-16.53-smallar-uddevalla/",
+    "type": "Smällar",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 615028,
+    "datetime": "2025-11-26 17:19:51 +01:00",
+    "name": "26 november 16.52, Trafikolycka, Gävle",
+    "summary": "Flera fordon i krock på E4.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-16.52-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 615032,
+    "datetime": "2025-11-26 17:40:17 +01:00",
+    "name": "26 november 17.15, Trafikolycka, Burlöv",
+    "summary": "Burlöv, trafikolycka på E6/E20.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-17.15-trafikolycka-burlov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
     "id": 615030,
     "datetime": "2025-11-26 17:32:43 +01:00",
     "name": "26 november 16.50, Trafikolycka, Kävlinge",
@@ -9,6 +69,42 @@
     "location": {
       "name": "Kävlinge",
       "gps": "55.794,13.110429"
+    }
+  },
+  {
+    "id": 615036,
+    "datetime": "2025-11-26 18:07:11 +01:00",
+    "name": "26 november 16.49, Misshandel, Göteborg",
+    "summary": "Larm om skadad man.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-16.49-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 615035,
+    "datetime": "2025-11-26 18:07:03 +01:00",
+    "name": "26 november 16.35, Trafikolycka, smitning från, Enköping",
+    "summary": "Bilförare smet från trafikolycka.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-16.35-trafikolycka-smitning-fran-enkoping/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 615033,
+    "datetime": "2025-11-26 17:51:39 +01:00",
+    "name": "26 november 16.27, Olaga hot, Uppsala",
+    "summary": "Kvinna hotade butikspersonal.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-16.27-olaga-hot-uppsala/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
     }
   },
   {
@@ -33,18 +129,6 @@
     "location": {
       "name": "Strängnäs",
       "gps": "59.377452,17.032119"
-    }
-  },
-  {
-    "id": 615028,
-    "datetime": "2025-11-26 17:19:51 +01:00",
-    "name": "26 november 16.52, Trafikolycka, Gävle",
-    "summary": "Flera fordon i krock på E4.",
-    "url": "/aktuellt/handelser/2025/november/26/26-november-16.52-trafikolycka-gavle/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Karlstad",
       "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 614286,
-    "datetime": "2025-11-19 17:21:29 +01:00",
-    "name": "19 november 16.04, Rattfylleri, Grums",
-    "summary": "En lastbilschaufför är misstänkt för brott på Gruvön",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-16.04-rattfylleri-grums/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Grums",
-      "gps": "59.353179,13.111732"
-    }
-  },
-  {
-    "id": 614285,
-    "datetime": "2025-11-19 17:13:56 +01:00",
-    "name": "19 november 12.55, Rattfylleri, Krokom",
-    "summary": "Krokoms kommun, förare misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-12.55-rattfylleri-krokom/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 614270,
-    "datetime": "2025-11-19 16:02:37 +01:00",
-    "name": "19 november 15.51, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i Skebäck",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-15.51-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 614282,
-    "datetime": "2025-11-19 16:59:09 +01:00",
-    "name": "19 november 16.04, Stöld, Örebro",
-    "summary": "En kvinna är misstänkt för brott i Varberga",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-16.04-stold-orebro/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 614273,
-    "datetime": "2025-11-19 16:55:43 +01:00",
-    "name": "19 november 15.10, Trafikolycka, Robertsfors",
-    "summary": "Sikeå, singelolycka på E4.",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-15.10-trafikolycka-robertsfors/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 614281,
-    "datetime": "2025-11-19 16:54:59 +01:00",
-    "name": "19 november 16.41, Rattfylleri, Kumla",
-    "summary": "En bilist är misstänkt för brott i Haga",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-16.41-rattfylleri-kumla/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kumla",
-      "gps": "59.126536,15.140105"
-    }
-  },
-  {
-    "id": 614280,
-    "datetime": "2025-11-19 16:51:44 +01:00",
-    "name": "19 november 15.16, Arbetsplatsolycka, Stockholm",
-    "summary": "Arbetsplatsolycka i Johanneshov.",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-15.16-arbetsplatsolycka-stockholm/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
