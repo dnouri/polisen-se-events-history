@@ -1,5 +1,53 @@
 [
   {
+    "id": 614967,
+    "datetime": "2025-11-26 8:24:18 +01:00",
+    "name": "26 november 02.04, Mordbrand, Håbo",
+    "summary": "Misstänkt anlagd brand i Övergran.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-02.04-mordbrand-habo/",
+    "type": "Mordbrand",
+    "location": {
+      "name": "Håbo",
+      "gps": "59.627071,17.452298"
+    }
+  },
+  {
+    "id": 614964,
+    "datetime": "2025-11-26 7:59:16 +01:00",
+    "name": "26 november 07.57, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-07.57-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 614965,
+    "datetime": "2025-11-26 7:58:36 +01:00",
+    "name": "26 november 07.57, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-07.57-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 614966,
+    "datetime": "2025-11-26 7:58:16 +01:00",
+    "name": "26 november 07.57, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2025/november/26/26-november-07.57-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 614963,
     "datetime": "2025-11-26 7:28:31 +01:00",
     "name": "25 november 18.48, Mord/dråp, Uppsala",
@@ -4104,18 +4152,6 @@
     }
   },
   {
-    "id": 614490,
-    "datetime": "2025-11-21 7:07:27 +01:00",
-    "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till fredag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2025/november/21/21-november-07.05-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 614491,
     "datetime": "2025-11-21 7:07:27 +01:00",
     "name": "20 november 22.01, Rån, Landskrona",
@@ -4125,6 +4161,18 @@
     "location": {
       "name": "Landskrona",
       "gps": "55.870348,12.83008"
+    }
+  },
+  {
+    "id": 614490,
+    "datetime": "2025-11-21 7:07:27 +01:00",
+    "name": "21 november 07.05, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till fredag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2025/november/21/21-november-07.05-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Partille",
       "gps": "57.73665,12.125197"
-    }
-  },
-  {
-    "id": 614203,
-    "datetime": "2025-11-19 10:56:59 +01:00",
-    "name": "19 november 07.55, Trafikolycka, singel, Köping",
-    "summary": "Larm om trafikolycka.",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-07.55-trafikolycka-singel-koping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 614161,
-    "datetime": "2025-11-19 9:50:15 +01:00",
-    "name": "19 november 09.38, Trafikolycka, Lerum",
-    "summary": "Singelolycka på E20 söder om Floda, riktning mot Göteborg.",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-09.38-trafikolycka-lerum/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lerum",
-      "gps": "57.769484,12.26882"
-    }
-  },
-  {
-    "id": 614196,
-    "datetime": "2025-11-19 10:13:26 +01:00",
-    "name": "19 november 10.02, Trafikolycka, Helsingborg",
-    "summary": "En kollission mellan en personbil och en elsparkcyklist inträffar på Kopparmöllegatan.",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-10.02-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 614156,
-    "datetime": "2025-11-19 9:16:01 +01:00",
-    "name": "19 november 07.33, Trafikolycka, personskada, Säter",
-    "summary": "Ett personbil och en lastbil har kanat av vägen i en rondell strax öster om Säter samhälle.",
-    "url": "/aktuellt/handelser/2025/november/19/19-november-07.33-trafikolycka-personskada-sater/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Säter",
-      "gps": "60.34665,15.7479"
     }
   }
 ]
