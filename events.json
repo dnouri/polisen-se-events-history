@@ -1,14 +1,26 @@
 [
   {
-    "id": 615152,
-    "datetime": "2025-11-27 15:38:17 +01:00",
-    "name": "27 november 15.07, Trafikolycka, Mora",
-    "summary": "En singelolycka med lastbil har inträffat på E 45.",
-    "url": "/aktuellt/handelser/2025/november/27/27-november-15.07-trafikolycka-mora/",
-    "type": "Trafikolycka",
+    "id": 615163,
+    "datetime": "2025-11-27 16:28:16 +01:00",
+    "name": "27 november 14.07, Trafikkontroll, Umeå",
+    "summary": "E4 Röbäck, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2025/november/27/27-november-14.07-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
     "location": {
-      "name": "Mora",
-      "gps": "61.004878,14.537003"
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 615162,
+    "datetime": "2025-11-27 16:27:42 +01:00",
+    "name": "27 november 16.27, Misshandel, Örebro",
+    "summary": "Tonåring misshandlad i centrala Örebro.",
+    "url": "/aktuellt/handelser/2025/november/27/27-november-16.27-misshandel-orebro/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -24,18 +36,6 @@
     }
   },
   {
-    "id": 615150,
-    "datetime": "2025-11-27 15:25:24 +01:00",
-    "name": "27 november 15.24, Misshandel, Örebro",
-    "summary": "Polis har upprättat anmälan om misshandel.",
-    "url": "/aktuellt/handelser/2025/november/27/27-november-15.24-misshandel-orebro/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
     "id": 615149,
     "datetime": "2025-11-27 15:24:36 +01:00",
     "name": "27 november 15.24, Stöld, Karlskoga",
@@ -45,6 +45,66 @@
     "location": {
       "name": "Karlskoga",
       "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 615160,
+    "datetime": "2025-11-27 16:09:57 +01:00",
+    "name": "27 november 13.51, Trafikolycka, singel, Haparanda",
+    "summary": "Nikkala, en singelolycka har inträffat på E4",
+    "url": "/aktuellt/handelser/2025/november/27/27-november-13.51-trafikolycka-singel-haparanda/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Haparanda",
+      "gps": "65.841709,24.127664"
+    }
+  },
+  {
+    "id": 615152,
+    "datetime": "2025-11-27 15:38:17 +01:00",
+    "name": "27 november 15.07, Trafikolycka, Mora",
+    "summary": "En singelolycka med lastbil har inträffat på E 45.",
+    "url": "/aktuellt/handelser/2025/november/27/27-november-15.07-trafikolycka-mora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
+    "id": 615156,
+    "datetime": "2025-11-27 15:57:16 +01:00",
+    "name": "27 november 15.33, Trafikolycka, Varberg",
+    "summary": "I en vägkorsning i Susvind kolliderar två fordon.",
+    "url": "/aktuellt/handelser/2025/november/27/27-november-15.33-trafikolycka-varberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 615155,
+    "datetime": "2025-11-27 15:53:58 +01:00",
+    "name": "27 november 15.19, Trafikolycka, Borås",
+    "summary": "I korsningen länsväg 1700 och länsväg 1702 kolliderar två fordon av okänd anledning.",
+    "url": "/aktuellt/handelser/2025/november/27/27-november-15.19-trafikolycka-boras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
+    "id": 615150,
+    "datetime": "2025-11-27 15:25:24 +01:00",
+    "name": "27 november 15.24, Misshandel, Örebro",
+    "summary": "Polis har upprättat anmälan om misshandel.",
+    "url": "/aktuellt/handelser/2025/november/27/27-november-15.24-misshandel-orebro/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 614432,
-    "datetime": "2025-11-20 18:05:34 +01:00",
-    "name": "20 november 12.52, Trafikbrott, Umeå",
-    "summary": "Väst på stan, polis kontaktades gällande sladdande fordon på Noliaområdet",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-12.52-trafikbrott-umea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 614457,
-    "datetime": "2025-11-20 17:57:49 +01:00",
-    "name": "20 november 17.00, Trafikolycka, Härryda",
-    "summary": "En olycka mellan två personbilar inträffar på riksväg 40 i höjd med Björrödsmotet.",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-17.00-trafikolycka-harryda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Härryda",
-      "gps": "57.691744,12.294416"
-    }
-  },
-  {
-    "id": 614455,
-    "datetime": "2025-11-20 17:25:52 +01:00",
-    "name": "20 november 16.48, Trafikolycka, Karlstad",
-    "summary": "En trafikolycka har inträffat på E18.",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-16.48-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
-    "id": 614454,
-    "datetime": "2025-11-20 17:19:24 +01:00",
-    "name": "20 november 15.43, Trafikolycka, Kungsbacka",
-    "summary": "Två bilister kolliderar vid trafikplats 59 Kungsbacka södra, på Onsalavägen i riktning mot Onsala.",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-15.43-trafikolycka-kungsbacka/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
-    }
-  },
-  {
-    "id": 614443,
-    "datetime": "2025-11-20 15:27:44 +01:00",
-    "name": "20 november 14.42, Trafikolycka, Sundsvall",
-    "summary": "Birsta, trafikolycka i korsning.",
-    "url": "/aktuellt/handelser/2025/november/20/20-november-14.42-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
     }
   }
 ]
