@@ -1,5 +1,89 @@
 [
   {
+    "id": 615375,
+    "datetime": "2025-11-29 13:26:39 +01:00",
+    "name": "29 november 12.39, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på E4, Antnäs.",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-12.39-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 615380,
+    "datetime": "2025-11-29 13:29:54 +01:00",
+    "name": "29 november 13.17, Trafikolycka, Boden",
+    "summary": "Larm om trafikolycka på Sveavägen/Åbergsleden, Boden.",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-13.17-trafikolycka-boden/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
+    "id": 615379,
+    "datetime": "2025-11-29 13:26:07 +01:00",
+    "name": "29 november 10.25, Stöld, Sundsvall",
+    "summary": "Polis beordras till Birsta med anledning av en misstänkt stöld i en butik.",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-10.25-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 615378,
+    "datetime": "2025-11-29 13:24:06 +01:00",
+    "name": "29 november 13.46, Trafikolycka, Filipstad",
+    "summary": "En olycka har inträffat i Brattfors",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-13.46-trafikolycka-filipstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 615377,
+    "datetime": "2025-11-29 13:18:41 +01:00",
+    "name": "29 november 13.15, Trafikolycka, singel, Nässjö",
+    "summary": "Man misstänks för brott efter singelolycka",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-13.15-trafikolycka-singel-nassjo/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 615376,
+    "datetime": "2025-11-29 13:15:07 +01:00",
+    "name": "29 november 13.14, Trafikolycka, Linköping",
+    "summary": "Elsparkcyklist misstänkt för brott",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-13.14-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 615367,
+    "datetime": "2025-11-29 11:07:13 +01:00",
+    "name": "29 november 07.28, Misshandel, Kristinehamn",
+    "summary": "En man är misstänkt för brott i Rönneberg",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-07.28-misshandel-kristinehamn/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
     "id": 615372,
     "datetime": "2025-11-29 12:42:39 +01:00",
     "name": "29 november 12.25, Brand, Stockholm",
@@ -9,6 +93,30 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 615374,
+    "datetime": "2025-11-29 12:47:23 +01:00",
+    "name": "29 november 12.47, Trafikkontroll, Härnösand",
+    "summary": "Resultat efter två trafikkontroller",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-12.47-trafikkontroll-harnosand/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 615373,
+    "datetime": "2025-11-29 12:46:22 +01:00",
+    "name": "29 november 12.46, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/november/29/29-november-12.46-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -57,18 +165,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 615367,
-    "datetime": "2025-11-29 11:07:13 +01:00",
-    "name": "29 november 07.28, Misshandel, Kristinehamn",
-    "summary": "En man är misstänkt för brott i Rönneberg",
-    "url": "/aktuellt/handelser/2025/november/29/29-november-07.28-misshandel-kristinehamn/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kristinehamn",
-      "gps": "59.310068,14.108919"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 614643,
-    "datetime": "2025-11-22 19:04:55 +01:00",
-    "name": "22 november 18.39, Brand, Mölndal",
-    "summary": "Larm inkommer via SOS om en brand i en villa i Lindome.",
-    "url": "/aktuellt/handelser/2025/november/22/22-november-18.39-brand-molndal/",
-    "type": "Brand",
-    "location": {
-      "name": "Mölndal",
-      "gps": "57.65,12.016667"
-    }
-  },
-  {
-    "id": 614647,
-    "datetime": "2025-11-22 20:06:53 +01:00",
-    "name": "22 november 18.21, Bedrägeri, Stockholm",
-    "summary": "Kvinna i 80-årsåldern utsatt för bedrägeriförsök.",
-    "url": "/aktuellt/handelser/2025/november/22/22-november-18.21-bedrageri-stockholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 614648,
-    "datetime": "2025-11-22 20:06:57 +01:00",
-    "name": "22 november 17.51, Rån, Haninge",
-    "summary": "En man rånar ett hotell på två flaskor vin.",
-    "url": "/aktuellt/handelser/2025/november/22/22-november-17.51-ran-haninge/",
-    "type": "Rån",
-    "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
-    }
-  },
-  {
-    "id": 614646,
-    "datetime": "2025-11-22 20:06:49 +01:00",
-    "name": "22 november 17.12, Bedrägeri, Stockholm",
-    "summary": "Bedrägeriförsök riktat mot äldre kvinna på Lilla Essingen.",
-    "url": "/aktuellt/handelser/2025/november/22/22-november-17.12-bedrageri-stockholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 614645,
-    "datetime": "2025-11-22 20:06:44 +01:00",
-    "name": "22 november 16.12, Bedrägeri, Huddinge",
-    "summary": "Äldre man utsatt för bedrägeri i Vårby.",
-    "url": "/aktuellt/handelser/2025/november/22/22-november-16.12-bedrageri-huddinge/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Huddinge",
-      "gps": "59.23633,17.982156"
-    }
-  },
-  {
-    "id": 614644,
-    "datetime": "2025-11-22 20:06:39 +01:00",
-    "name": "22 november 16.21, Rån, försök, Stockholm",
-    "summary": "Man vid Stockholms södra behöver hjälp efter ett rån.",
-    "url": "/aktuellt/handelser/2025/november/22/22-november-16.21-ran-forsok-stockholm/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 614640,
-    "datetime": "2025-11-22 17:03:10 +01:00",
-    "name": "22 november 16.58, Trafikolycka, Karlskrona",
-    "summary": "Påkörd person, Pottholmen.",
-    "url": "/aktuellt/handelser/2025/november/22/22-november-16.58-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
-    }
-  },
-  {
-    "id": 614641,
-    "datetime": "2025-11-22 17:26:28 +01:00",
-    "name": "22 november 17.21, Djur, Hörby",
-    "summary": "Hästar på vägen, E22.",
-    "url": "/aktuellt/handelser/2025/november/22/22-november-17.21-djur-horby/",
-    "type": "Djur",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
     }
   }
 ]
