@@ -1,5 +1,65 @@
 [
   {
+    "id": 615606,
+    "datetime": "2025-12-01 21:17:21 +01:00",
+    "name": "01 december 20.26, Trafikbrott, Arjeplog",
+    "summary": "Arjeplog, ordningsböter utfärdade.",
+    "url": "/aktuellt/handelser/2025/december/1/01-december-20.26-trafikbrott-arjeplog/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Arjeplog",
+      "gps": "66.051505,17.890054"
+    }
+  },
+  {
+    "id": 615605,
+    "datetime": "2025-12-01 20:57:55 +01:00",
+    "name": "01 december 20.36, Brand, Lund",
+    "summary": "3 bilar i brand.",
+    "url": "/aktuellt/handelser/2025/december/1/01-december-20.36-brand-lund/",
+    "type": "Brand",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 615604,
+    "datetime": "2025-12-01 20:52:34 +01:00",
+    "name": "01 december 20.19, Stöld, Malmö",
+    "summary": "Kvinna blivit bestulen på sin väska.",
+    "url": "/aktuellt/handelser/2025/december/1/01-december-20.19-stold-malmo/",
+    "type": "Stöld",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 615603,
+    "datetime": "2025-12-01 20:48:08 +01:00",
+    "name": "01 december 18.11, Trafikbrott, Umeå",
+    "summary": "Umeå, förare misstänks för grov olovlig körning",
+    "url": "/aktuellt/handelser/2025/december/1/01-december-18.11-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 615590,
+    "datetime": "2025-12-01 17:11:33 +01:00",
+    "name": "01 december 14.25, Försvunnen person, Helsingborg",
+    "summary": "Försvunnen man från sitt boende i Helsingborg.",
+    "url": "/aktuellt/handelser/2025/december/1/01-december-14.25-forsvunnen-person-helsingborg/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
     "id": 615602,
     "datetime": "2025-12-01 19:57:04 +01:00",
     "name": "01 december 19.33, Trafikolycka, Kalix",
@@ -153,18 +213,6 @@
     "location": {
       "name": "Avesta",
       "gps": "60.14533,16.17384"
-    }
-  },
-  {
-    "id": 615590,
-    "datetime": "2025-12-01 17:11:33 +01:00",
-    "name": "01 december 14.25, Försvunnen person, Helsingborg",
-    "summary": "Försvunnen man från sitt boende i Helsingborg.",
-    "url": "/aktuellt/handelser/2025/december/1/01-december-14.25-forsvunnen-person-helsingborg/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 614844,
-    "datetime": "2025-11-24 21:04:35 +01:00",
-    "name": "24 november 20.33, Smällar, Eskilstuna",
-    "summary": "Larm om smällar",
-    "url": "/aktuellt/handelser/2025/november/24/24-november-20.33-smallar-eskilstuna/",
-    "type": "Smällar",
-    "location": {
-      "name": "Eskilstuna",
-      "gps": "59.371249,16.509805"
-    }
-  },
-  {
-    "id": 614843,
-    "datetime": "2025-11-24 20:58:00 +01:00",
-    "name": "24 november 19.30, Misshandel, Stockholm",
-    "summary": "Polis frihetsberövar en man som är misstänkt för att ha misshandlat en kvinna som han har en nära relation med",
-    "url": "/aktuellt/handelser/2025/november/24/24-november-19.30-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 614842,
-    "datetime": "2025-11-24 20:57:03 +01:00",
-    "name": "24 november 19.25, Trafikolycka, vilt, Jönköping",
-    "summary": "Bromsade för vilt - blev påkörd",
-    "url": "/aktuellt/handelser/2025/november/24/24-november-19.25-trafikolycka-vilt-jonkoping/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 614837,
-    "datetime": "2025-11-24 19:50:45 +01:00",
-    "name": "24 november 19.42, Brand, Lilla edet",
-    "summary": "Larm om brinnande lastbil på E45.",
-    "url": "/aktuellt/handelser/2025/november/24/24-november-19.42-brand-lilla-edet/",
-    "type": "Brand",
-    "location": {
-      "name": "Lilla edet",
-      "gps": "58.132158,12.124134"
     }
   }
 ]
