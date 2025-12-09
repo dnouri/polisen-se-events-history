@@ -1,17 +1,5 @@
 [
   {
-    "id": 616567,
-    "datetime": "2025-12-09 13:55:12 +01:00",
-    "name": "09 december 13.43, Kontroll, Hörby",
-    "summary": "Polisen utreder ärende i Hörby.",
-    "url": "/aktuellt/handelser/2025/december/9/09-december-13.43-kontroll-horby/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
-    }
-  },
-  {
     "id": 616587,
     "datetime": "2025-12-09 19:11:15 +01:00",
     "name": "09 december 18.41, Trafikolycka, Härryda",
@@ -21,6 +9,42 @@
     "location": {
       "name": "Härryda",
       "gps": "57.691744,12.294416"
+    }
+  },
+  {
+    "id": 616590,
+    "datetime": "2025-12-09 19:57:56 +01:00",
+    "name": "09 december 17.13, Larm Överfall, Enköping",
+    "summary": "Överfallslarm från butik i Enköping.",
+    "url": "/aktuellt/handelser/2025/december/9/09-december-17.13-larm-overfall-enkoping/",
+    "type": "Larm Överfall",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 616589,
+    "datetime": "2025-12-09 19:44:13 +01:00",
+    "name": "09 december 17.15, Brand, Södertälje",
+    "summary": "Radhuslänga evakueras i samband med brand.",
+    "url": "/aktuellt/handelser/2025/december/9/09-december-17.15-brand-sodertalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 616567,
+    "datetime": "2025-12-09 13:55:12 +01:00",
+    "name": "09 december 13.43, Kontroll, Hörby",
+    "summary": "Polisen utreder ärende i Hörby.",
+    "url": "/aktuellt/handelser/2025/december/9/09-december-13.43-kontroll-horby/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Hörby",
+      "gps": "55.851716,13.661926"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Göteborg",
       "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 615723,
-    "datetime": "2025-12-02 16:45:53 +01:00",
-    "name": "02 december 16.25, Trafikolycka, Jokkmokk",
-    "summary": "Jokkmokk, viltolycka på E45/länsväg 804.",
-    "url": "/aktuellt/handelser/2025/december/2/02-december-16.25-trafikolycka-jokkmokk/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jokkmokk",
-      "gps": "66.606961,19.822921"
-    }
-  },
-  {
-    "id": 615728,
-    "datetime": "2025-12-02 17:38:50 +01:00",
-    "name": "02 december 14.00, Trafikbrott, Degerfors",
-    "summary": "En lastbilschaufför har rapporterats för olovlig körning.",
-    "url": "/aktuellt/handelser/2025/december/2/02-december-14.00-trafikbrott-degerfors/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Degerfors",
-      "gps": "59.239103,14.433918"
     }
   }
 ]
