@@ -1,5 +1,65 @@
 [
   {
+    "id": 616804,
+    "datetime": "2025-12-11 17:46:11 +01:00",
+    "name": "11 december 17.37, Stöld, Östersund",
+    "summary": "Under eftermiddagen har polisen hanterat två butiksstölder i Östersund.",
+    "url": "/aktuellt/handelser/2025/december/11/11-december-17.37-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 616803,
+    "datetime": "2025-12-11 17:37:49 +01:00",
+    "name": "11 december 13.12, Trafikbrott, Östersund",
+    "summary": "E14, Grytan. Polisen får samtal om en personbil som kör vingligt.",
+    "url": "/aktuellt/handelser/2025/december/11/11-december-13.12-trafikbrott-ostersund/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 616801,
+    "datetime": "2025-12-11 17:30:43 +01:00",
+    "name": "11 december 17.29, Rattfylleri, Hallsberg",
+    "summary": "Bilist misstänkt för flera brott.",
+    "url": "/aktuellt/handelser/2025/december/11/11-december-17.29-rattfylleri-hallsberg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
+    }
+  },
+  {
+    "id": 616798,
+    "datetime": "2025-12-11 16:40:02 +01:00",
+    "name": "11 december 16.11, Trafikolycka, Grums",
+    "summary": "Två fordon inblandade i en trafikolycka på E 45.",
+    "url": "/aktuellt/handelser/2025/december/11/11-december-16.11-trafikolycka-grums/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Grums",
+      "gps": "59.353179,13.111732"
+    }
+  },
+  {
+    "id": 616800,
+    "datetime": "2025-12-11 16:45:46 +01:00",
+    "name": "11 december 16.29, Trafikolycka, vilt, Mora",
+    "summary": "Bilist i kollision med älg längs Lv 946.",
+    "url": "/aktuellt/handelser/2025/december/11/11-december-16.29-trafikolycka-vilt-mora/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Mora",
+      "gps": "61.004878,14.537003"
+    }
+  },
+  {
     "id": 616797,
     "datetime": "2025-12-11 16:34:59 +01:00",
     "name": "11 december 14.09, Trafikbrott, Älvdalen",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 615925,
-    "datetime": "2025-12-04 7:24:03 +01:00",
-    "name": "04 december 07.22, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av polisens arbete under natten.",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-07.22-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 615924,
-    "datetime": "2025-12-04 7:16:51 +01:00",
-    "name": "04 december 07.00, Trafikolycka, Höör",
-    "summary": "Flera bilar i olycka, Rolsberga.",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-07.00-trafikolycka-hoor/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Höör",
-      "gps": "55.934859,13.53959"
-    }
-  },
-  {
-    "id": 615920,
-    "datetime": "2025-12-04 7:07:49 +01:00",
-    "name": "04 december 07.07, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit lugnt operativt i länet under natten",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-07.07-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 615919,
-    "datetime": "2025-12-04 7:07:15 +01:00",
-    "name": "04 december 07.06, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit lugnt operativt i länet under natten",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-07.06-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 615918,
-    "datetime": "2025-12-04 7:06:46 +01:00",
-    "name": "04 december 07.06, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit lugnt operativt i länet under natten",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-07.06-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
