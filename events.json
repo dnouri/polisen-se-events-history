@@ -1,17 +1,5 @@
 [
   {
-    "id": 616876,
-    "datetime": "2025-12-12 12:36:14 +01:00",
-    "name": "12 december 12.25, Trafikkontroll, Västerbottens län",
-    "summary": "Umeå/Skellefteå, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/december/12/12-december-12.25-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
     "id": 616875,
     "datetime": "2025-12-12 12:33:33 +01:00",
     "name": "12 december 12.17, Trafikolycka, Mölndal",
@@ -24,15 +12,63 @@
     }
   },
   {
-    "id": 616874,
-    "datetime": "2025-12-12 12:16:46 +01:00",
-    "name": "12 december 08.54, Trafikolycka, Kramfors",
-    "summary": "Riksväg 90/Ringvägen, två bilister har kolliderat i en rondell",
-    "url": "/aktuellt/handelser/2025/december/12/12-december-08.54-trafikolycka-kramfors/",
+    "id": 616885,
+    "datetime": "2025-12-12 13:55:53 +01:00",
+    "name": "12 december 11.23, Trafikolycka, Örnsköldsvik",
+    "summary": "E4 Husum, en olycka har inträffat i södergående körfält",
+    "url": "/aktuellt/handelser/2025/december/12/12-december-11.23-trafikolycka-ornskoldsvik/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 616884,
+    "datetime": "2025-12-12 13:48:36 +01:00",
+    "name": "12 december 10.43, Rattfylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2025/december/12/12-december-10.43-rattfylleri-ornskoldsvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 616882,
+    "datetime": "2025-12-12 13:47:38 +01:00",
+    "name": "12 december 12.16, Olaga hot, Svenljunga",
+    "summary": "Polis larmas om en agiterad och verbalt hotfull man utanför Svenljunga.",
+    "url": "/aktuellt/handelser/2025/december/12/12-december-12.16-olaga-hot-svenljunga/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Svenljunga",
+      "gps": "57.495572,13.114623"
+    }
+  },
+  {
+    "id": 616883,
+    "datetime": "2025-12-12 13:34:31 +01:00",
+    "name": "12 december 13.30, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/december/12/12-december-13.30-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 616862,
+    "datetime": "2025-12-12 10:43:21 +01:00",
+    "name": "12 december 09.38, Djur, Västerås",
+    "summary": "Stressad räv jagas i kontorsbyggnad.",
+    "url": "/aktuellt/handelser/2025/december/12/12-december-09.38-djur-vasteras/",
+    "type": "Djur",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -45,6 +81,42 @@
     "location": {
       "name": "Säffle",
       "gps": "59.132661,12.930107"
+    }
+  },
+  {
+    "id": 616878,
+    "datetime": "2025-12-12 12:55:06 +01:00",
+    "name": "12 december 09.40, Trafikbrott, Uppsala",
+    "summary": "Många fick körkortet omhändertaget efter olycka.",
+    "url": "/aktuellt/handelser/2025/december/12/12-december-09.40-trafikbrott-uppsala/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 616876,
+    "datetime": "2025-12-12 12:36:14 +01:00",
+    "name": "12 december 12.25, Trafikkontroll, Västerbottens län",
+    "summary": "Umeå/Skellefteå, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/december/12/12-december-12.25-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 616874,
+    "datetime": "2025-12-12 12:16:46 +01:00",
+    "name": "12 december 08.54, Trafikolycka, Kramfors",
+    "summary": "Riksväg 90/Ringvägen, två bilister har kolliderat i en rondell",
+    "url": "/aktuellt/handelser/2025/december/12/12-december-08.54-trafikolycka-kramfors/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
     }
   },
   {
@@ -81,18 +153,6 @@
     "location": {
       "name": "Nordmaling",
       "gps": "63.567106,19.505022"
-    }
-  },
-  {
-    "id": 616862,
-    "datetime": "2025-12-12 10:43:21 +01:00",
-    "name": "12 december 09.38, Djur, Västerås",
-    "summary": "Stressad räv jagas i kontorsbyggnad.",
-    "url": "/aktuellt/handelser/2025/december/12/12-december-09.38-djur-vasteras/",
-    "type": "Djur",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 616006,
-    "datetime": "2025-12-04 21:28:49 +01:00",
-    "name": "04 december 17.26, Knivlagen, Sundsvall",
-    "summary": "Inre hamnen, polis kontaktas gällande någon form av bråk",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-17.26-knivlagen-sundsvall/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 616012,
-    "datetime": "2025-12-04 21:08:56 +01:00",
-    "name": "04 december 19.45, Fylleri/LOB, Umeå",
-    "summary": "Centrala stan, berusad kvinna omhändertagen",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-19.45-fyllerilob-umea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 616011,
-    "datetime": "2025-12-04 20:58:22 +01:00",
-    "name": "04 december 20.15, Trafikkontroll, Piteå",
-    "summary": "Norrfjärden, resultat efter trafikkontroll på E4",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-20.15-trafikkontroll-pitea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 616010,
-    "datetime": "2025-12-04 20:53:47 +01:00",
-    "name": "04 december 19.06, Stöld, Luleå",
-    "summary": "Skutvikens industriområde, två unga personer stoppade efter misstänkt ringa stöld i butik",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-19.06-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 616009,
-    "datetime": "2025-12-04 20:45:31 +01:00",
-    "name": "04 december 19.40, Misshandel, grov, Göteborg",
-    "summary": "En man i 70-årsåldern blir beskjuten med grön laser på Norra fjädermolnsgatan i Svartedalen.",
-    "url": "/aktuellt/handelser/2025/december/4/04-december-19.40-misshandel-grov-goteborg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
