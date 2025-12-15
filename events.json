@@ -1,14 +1,26 @@
 [
   {
-    "id": 617249,
-    "datetime": "2025-12-15 17:08:26 +01:00",
-    "name": "15 december 17.04, Brand, Borlänge",
-    "summary": "Det brinner i en lägenhet i Domnarvet.",
-    "url": "/aktuellt/handelser/2025/december/15/15-december-17.04-brand-borlange/",
-    "type": "Brand",
+    "id": 617256,
+    "datetime": "2025-12-15 17:57:28 +01:00",
+    "name": "15 december 17.31, Trafikolycka, Stockholm",
+    "summary": "Polis kallas till Hammarbytunneln i avfarten till riksväg 73 med anledning av en trafikolycka.",
+    "url": "/aktuellt/handelser/2025/december/15/15-december-17.31-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 617257,
+    "datetime": "2025-12-15 18:08:31 +01:00",
+    "name": "15 december 16.58, Trafikolycka, personskada, Enköping",
+    "summary": "Cyklist till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2025/december/15/15-december-16.58-trafikolycka-personskada-enkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
     }
   },
   {
@@ -21,6 +33,42 @@
     "location": {
       "name": "Lindesberg",
       "gps": "59.597698,15.222911"
+    }
+  },
+  {
+    "id": 617255,
+    "datetime": "2025-12-15 17:50:01 +01:00",
+    "name": "15 december 14.15, Trafikbrott, Ljusdal",
+    "summary": "Man misstänks för olovlig körning.",
+    "url": "/aktuellt/handelser/2025/december/15/15-december-14.15-trafikbrott-ljusdal/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Ljusdal",
+      "gps": "61.830839,16.08175"
+    }
+  },
+  {
+    "id": 617254,
+    "datetime": "2025-12-15 17:49:58 +01:00",
+    "name": "15 december 16.06, Trafikolycka, Örnsköldsvik",
+    "summary": "Moliden, en personbil har kört av vägen.",
+    "url": "/aktuellt/handelser/2025/december/15/15-december-16.06-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 617249,
+    "datetime": "2025-12-15 17:08:26 +01:00",
+    "name": "15 december 17.04, Brand, Borlänge",
+    "summary": "Det brinner i en lägenhet i Domnarvet.",
+    "url": "/aktuellt/handelser/2025/december/15/15-december-17.04-brand-borlange/",
+    "type": "Brand",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrköping",
       "gps": "58.587745,16.192421"
-    }
-  },
-  {
-    "id": 616268,
-    "datetime": "2025-12-08 7:28:25 +01:00",
-    "name": "08 december 07.28, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/8/08-december-07.28-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 616267,
-    "datetime": "2025-12-08 7:28:17 +01:00",
-    "name": "08 december 07.28, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/8/08-december-07.28-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 616269,
-    "datetime": "2025-12-08 7:28:09 +01:00",
-    "name": "08 december 07.28, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/8/08-december-07.28-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 616274,
-    "datetime": "2025-12-08 7:28:08 +01:00",
-    "name": "08 december 00.26, Stöld/inbrott, Stockholm",
-    "summary": "Flera larm till en butik i Sköndal indikerade att ett inbrott skett.",
-    "url": "/aktuellt/handelser/2025/december/8/08-december-00.26-stoldinbrott-stockholm/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   }
 ]
