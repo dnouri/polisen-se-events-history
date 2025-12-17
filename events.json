@@ -1,14 +1,74 @@
 [
   {
-    "id": 617513,
-    "datetime": "2025-12-17 13:52:38 +01:00",
-    "name": "17 december 13.52, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-13.52-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
+    "id": 617527,
+    "datetime": "2025-12-17 14:56:40 +01:00",
+    "name": "17 december 14.22, Trafikbrott, Umeå",
+    "summary": "Larm om trafikolycka på Blå vägen/Nytorgsgatan, Umeå.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-14.22-trafikbrott-umea/",
+    "type": "Trafikbrott",
     "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 617516,
+    "datetime": "2025-12-17 15:31:47 +01:00",
+    "name": "17 december 15.31, Misshandel, Kiruna",
+    "summary": "Kiruna, man anhållen misstänkt för misshandel.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-15.31-misshandel-kiruna/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Kiruna",
+      "gps": "67.8558,20.225282"
+    }
+  },
+  {
+    "id": 617529,
+    "datetime": "2025-12-17 15:12:47 +01:00",
+    "name": "17 december 14.23, Arbetsplatsolycka, Arvika",
+    "summary": "En man i tjugoårsåldern har förts till sjukhus efter en arbetsplatsolycka i Arvika.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-14.23-arbetsplatsolycka-arvika/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
+    "id": 617528,
+    "datetime": "2025-12-17 15:01:54 +01:00",
+    "name": "17 december 14.26, Trafikolycka, personskada, Örebro",
+    "summary": "En kvinna har blivit påkörd av en mindre skåpbil på Söder.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-14.26-trafikolycka-personskada-orebro/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 617525,
+    "datetime": "2025-12-17 14:54:41 +01:00",
+    "name": "17 december 14.17, Trafikolycka, Mark",
+    "summary": "Buss och personbil i krock.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-14.17-trafikolycka-mark/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mark",
+      "gps": "57.425318,12.569522"
+    }
+  },
+  {
+    "id": 617524,
+    "datetime": "2025-12-17 14:54:13 +01:00",
+    "name": "17 december 13.51, Trafikolycka, Skellefteå",
+    "summary": "Polispatrull får kännedom om en olycka på E4, Boviken.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-13.51-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -21,6 +81,42 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
+    }
+  },
+  {
+    "id": 617522,
+    "datetime": "2025-12-17 14:48:03 +01:00",
+    "name": "17 december 14.48, Övrigt, Västra Götalands län",
+    "summary": "Toyotaägare manas till vaksamhet.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-14.48-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 617520,
+    "datetime": "2025-12-17 14:47:42 +01:00",
+    "name": "17 december 13.56, Trafikolycka, Nordanstig",
+    "summary": "Köbildning på E4 efter lastbilskollission.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-13.56-trafikolycka-nordanstig/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nordanstig",
+      "gps": "62.036668,17.205249"
+    }
+  },
+  {
+    "id": 617513,
+    "datetime": "2025-12-17 13:52:38 +01:00",
+    "name": "17 december 13.52, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-13.52-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 616604,
-    "datetime": "2025-12-10 6:59:32 +01:00",
-    "name": "10 december 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 616603,
-    "datetime": "2025-12-10 6:53:03 +01:00",
-    "name": "10 december 02.53, Trafikolycka, Tingsryd",
-    "summary": "Singelolycka på länsväg 126 vid Ryd.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-02.53-trafikolycka-tingsryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Tingsryd",
-      "gps": "56.524745,14.978534"
-    }
-  },
-  {
-    "id": 616602,
-    "datetime": "2025-12-10 6:44:01 +01:00",
-    "name": "10 december 06.43, Information, Örebro län",
-    "summary": "I dag, onsdag, håller det regionala mediacentret stängt",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-06.43-information-orebro-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 616601,
-    "datetime": "2025-12-10 6:43:44 +01:00",
-    "name": "10 december 06.43, Information, Dalarnas län",
-    "summary": "I dag, onsdag, håller det regionala mediacentret stängt",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-06.43-information-dalarnas-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 616600,
-    "datetime": "2025-12-10 6:43:24 +01:00",
-    "name": "10 december 06.41, Information, Värmlands län",
-    "summary": "I dag, onsdag, håller det regionala mediacentret stängt",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-06.41-information-varmlands-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 616599,
-    "datetime": "2025-12-10 6:34:49 +01:00",
-    "name": "10 december 00.28, Rattfylleri, Växjö",
-    "summary": "Grovt rattfylleri på Brittsommarvägen.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-00.28-rattfylleri-vaxjo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 616598,
-    "datetime": "2025-12-10 6:26:58 +01:00",
-    "name": "10 december 01.57, Brand, Högsby",
-    "summary": "Brand i bostad, Långemåla.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-01.57-brand-hogsby/",
-    "type": "Brand",
-    "location": {
-      "name": "Högsby",
-      "gps": "57.172604,16.020619"
-    }
-  },
-  {
-    "id": 616596,
-    "datetime": "2025-12-10 6:21:39 +01:00",
-    "name": "09 december 22.49, Rattfylleri, Karlskrona",
-    "summary": "Misstänkt rattfylleri på Ronnebyvägen.",
-    "url": "/aktuellt/handelser/2025/december/9/09-december-22.49-rattfylleri-karlskrona/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Karlskrona",
-      "gps": "56.161224,15.5869"
     }
   }
 ]
