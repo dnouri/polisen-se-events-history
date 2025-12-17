@@ -1,5 +1,101 @@
 [
   {
+    "id": 617567,
+    "datetime": "2025-12-17 19:17:07 +01:00",
+    "name": "17 december 18.48, Försvunnen person, Borlänge",
+    "summary": "Polisen söker en försvunnen man i Borlänge.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-18.48-forsvunnen-person-borlange/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 617573,
+    "datetime": "2025-12-17 19:36:08 +01:00",
+    "name": "17 december 16.29, Skadegörelse, Smedjebacken",
+    "summary": "Tre barn under femton år misstänks för skadegörelse.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-16.29-skadegorelse-smedjebacken/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Smedjebacken",
+      "gps": "60.143193,15.415992"
+    }
+  },
+  {
+    "id": 617546,
+    "datetime": "2025-12-17 17:31:20 +01:00",
+    "name": "17 december 17.31, Trafikolycka, vilt, Västerbottens län",
+    "summary": "Fortsatt många vilt- och renolyckor i länet.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-17.31-trafikolycka-vilt-vasterbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 617570,
+    "datetime": "2025-12-17 19:22:19 +01:00",
+    "name": "17 december 19.03, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på Mariebergsvägen, Gammelstad.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-19.03-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 617564,
+    "datetime": "2025-12-17 19:17:46 +01:00",
+    "name": "17 december 15.50, Rattfylleri, Luleå",
+    "summary": "Misstänkt grovt rattfylleri, Hertsön.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-15.50-rattfylleri-lulea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 617556,
+    "datetime": "2025-12-17 18:24:45 +01:00",
+    "name": "17 december 18.02, Brand, Stockholm",
+    "summary": "Polis och räddningstjänst kallas till en lägenhet på Södermalm med uppgifter om en befarad brand.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-18.02-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 617566,
+    "datetime": "2025-12-17 19:08:56 +01:00",
+    "name": "17 december 17.56, Fylleri/LOB, Timrå",
+    "summary": "Polisen kontaktas angående en berusad man i Timrådalen.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-17.56-fyllerilob-timra/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Timrå",
+      "gps": "62.485456,17.324865"
+    }
+  },
+  {
+    "id": 617565,
+    "datetime": "2025-12-17 19:07:52 +01:00",
+    "name": "17 december 18.57, Trafikolycka, Göteborg",
+    "summary": "Tre personbilar i trafikolycka.",
+    "url": "/aktuellt/handelser/2025/december/17/17-december-18.57-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
     "id": 617562,
     "datetime": "2025-12-17 18:39:16 +01:00",
     "name": "17 december 18.05, Brand, Mellerud",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 617556,
-    "datetime": "2025-12-17 18:24:45 +01:00",
-    "name": "17 december 18.02, Brand, Stockholm",
-    "summary": "Polis och räddningstjänst kallas till en lägenhet på Södermalm med uppgifter om en befarad brand.",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-18.02-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -93,18 +177,6 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
-    }
-  },
-  {
-    "id": 617546,
-    "datetime": "2025-12-17 17:31:20 +01:00",
-    "name": "17 december 17.31, Trafikolycka, vilt, Västerbottens län",
-    "summary": "Fortsatt många vilt- och renolyckor i länet.",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-17.31-trafikolycka-vilt-vasterbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Lomma",
       "gps": "55.673138,13.067406"
-    }
-  },
-  {
-    "id": 616621,
-    "datetime": "2025-12-10 8:02:25 +01:00",
-    "name": "10 december 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 616622,
-    "datetime": "2025-12-10 8:01:14 +01:00",
-    "name": "10 december 08.00, Sammanfattning natt, Östergötlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-08.00-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 616623,
-    "datetime": "2025-12-10 8:00:52 +01:00",
-    "name": "10 december 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 616614,
-    "datetime": "2025-12-10 7:15:26 +01:00",
-    "name": "10 december 06.29, Trafikolycka, Göteborg",
-    "summary": "Flerbilskrock på E6, södergående riktning i höjd med Rödbo.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-06.29-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 616609,
-    "datetime": "2025-12-10 7:08:41 +01:00",
-    "name": "10 december 06.46, Trafikolycka, Göteborg",
-    "summary": "Vid Korsvägen sker en olycka mellan spårvagn och cyklist.",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-06.46-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 616617,
-    "datetime": "2025-12-10 7:26:08 +01:00",
-    "name": "10 december 07.17, Sammanfattning natt, Jämtlands län",
-    "summary": "Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2025/december/10/10-december-07.17-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
