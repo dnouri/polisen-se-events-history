@@ -1,14 +1,38 @@
 [
   {
-    "id": 617767,
-    "datetime": "2025-12-18 18:26:47 +01:00",
-    "name": "18 december 16.40, Trafikolycka, Gagnef",
-    "summary": "En olycka har inträffat i Floda",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-16.40-trafikolycka-gagnef/",
+    "id": 617772,
+    "datetime": "2025-12-18 19:31:20 +01:00",
+    "name": "18 december 17.30, Misshandel, Gotlands län",
+    "summary": "En man har blivit misshandlad av en okänd person i Visby.",
+    "url": "/aktuellt/handelser/2025/december/18/18-december-17.30-misshandel-gotlands-lan/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 617771,
+    "datetime": "2025-12-18 19:12:21 +01:00",
+    "name": "18 december 17.25, Inbrott, Askersund",
+    "summary": "Det har varit inbrott i ett hus i Lustenrust",
+    "url": "/aktuellt/handelser/2025/december/18/18-december-17.25-inbrott-askersund/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Askersund",
+      "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 617760,
+    "datetime": "2025-12-18 18:06:21 +01:00",
+    "name": "18 december 17.44, Trafikolycka, Boden",
+    "summary": "Boden, trafikolycka på Svedjebergsleden i höjd med Fagernäs.",
+    "url": "/aktuellt/handelser/2025/december/18/18-december-17.44-trafikolycka-boden/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Gagnef",
-      "gps": "60.590983,15.070049"
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Uddevalla",
       "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 617770,
+    "datetime": "2025-12-18 18:58:40 +01:00",
+    "name": "18 december 18.58, Trafikolycka, vilt, Västerbottens län",
+    "summary": "Västerbotten, anmälda viltolyckor efter klockan 16 i dag.",
+    "url": "/aktuellt/handelser/2025/december/18/18-december-18.58-trafikolycka-vilt-vasterbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 617767,
+    "datetime": "2025-12-18 18:26:47 +01:00",
+    "name": "18 december 16.40, Trafikolycka, Gagnef",
+    "summary": "En olycka har inträffat i Floda",
+    "url": "/aktuellt/handelser/2025/december/18/18-december-16.40-trafikolycka-gagnef/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gagnef",
+      "gps": "60.590983,15.070049"
     }
   },
   {
@@ -57,18 +105,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 617760,
-    "datetime": "2025-12-18 18:06:21 +01:00",
-    "name": "18 december 17.44, Trafikolycka, Boden",
-    "summary": "Boden, trafikolycka på Svedjebergsleden i höjd med Fagernäs.",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-17.44-trafikolycka-boden/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 616773,
-    "datetime": "2025-12-11 13:53:33 +01:00",
-    "name": "11 december 12.33, Trafikolycka, Piteå",
-    "summary": "Piteå, singelolycka på E4 vid Kopparnäs.",
-    "url": "/aktuellt/handelser/2025/december/11/11-december-12.33-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Piteå",
-      "gps": "65.316698,21.480036"
-    }
-  },
-  {
-    "id": 616772,
-    "datetime": "2025-12-11 13:45:15 +01:00",
-    "name": "11 december 13.13, Trafikolycka, Luleå",
-    "summary": "Luleå, singelolycka utan misstanke om brott.",
-    "url": "/aktuellt/handelser/2025/december/11/11-december-13.13-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Luleå",
-      "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 616770,
-    "datetime": "2025-12-11 13:37:08 +01:00",
-    "name": "11 december 08.37, Stöld, Östersund",
-    "summary": "Östersund, två misstänkta för stöld.",
-    "url": "/aktuellt/handelser/2025/december/11/11-december-08.37-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Östersund",
-      "gps": "63.176683,14.636068"
     }
   }
 ]
