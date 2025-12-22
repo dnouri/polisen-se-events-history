@@ -1,5 +1,89 @@
 [
   {
+    "id": 618191,
+    "datetime": "2025-12-22 21:11:50 +01:00",
+    "name": "22 december 19.12, Försvunnen person, Kristianstad",
+    "summary": "Polis söker efter en försvunnen man i personbil.",
+    "url": "/aktuellt/handelser/2025/december/22/22-december-19.12-forsvunnen-person-kristianstad/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 618201,
+    "datetime": "2025-12-22 22:05:10 +01:00",
+    "name": "22 december 16.44, Knivlagen, Sala",
+    "summary": "Misstanke om grovt brott mot knivlagen.",
+    "url": "/aktuellt/handelser/2025/december/22/22-december-16.44-knivlagen-sala/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
+    }
+  },
+  {
+    "id": 618199,
+    "datetime": "2025-12-22 22:02:50 +01:00",
+    "name": "22 december 22.00, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2025/december/22/22-december-22.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 618200,
+    "datetime": "2025-12-22 22:02:42 +01:00",
+    "name": "22 december 22.02, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2025/december/22/22-december-22.02-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 618181,
+    "datetime": "2025-12-22 19:03:55 +01:00",
+    "name": "22 december 18.13, Trafikolycka, personskada, Tyresö",
+    "summary": "En person har blivit påkörd av en linjebuss i närheten av Tyresö centrum.",
+    "url": "/aktuellt/handelser/2025/december/22/22-december-18.13-trafikolycka-personskada-tyreso/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Tyresö",
+      "gps": "59.242595,18.283392"
+    }
+  },
+  {
+    "id": 618164,
+    "datetime": "2025-12-22 15:11:55 +01:00",
+    "name": "22 december 14.52, Trafikolycka, Götene",
+    "summary": "Larm inkommer om en trafikolycka på E20 vid Brännebrona norr om Götene. Det ska vara en krock mellan en lastbi",
+    "url": "/aktuellt/handelser/2025/december/22/22-december-14.52-trafikolycka-gotene/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Götene",
+      "gps": "58.528002,13.491428"
+    }
+  },
+  {
+    "id": 618198,
+    "datetime": "2025-12-22 21:51:37 +01:00",
+    "name": "22 december 21.02, Brand, Kumla",
+    "summary": "Det har brunnit vid ett vindskydd i Viaskogen",
+    "url": "/aktuellt/handelser/2025/december/22/22-december-21.02-brand-kumla/",
+    "type": "Brand",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
     "id": 618197,
     "datetime": "2025-12-22 21:47:08 +01:00",
     "name": "22 december 21.30, Knivlagen, Örebro",
@@ -69,18 +153,6 @@
     "location": {
       "name": "Boden",
       "gps": "65.825119,21.688703"
-    }
-  },
-  {
-    "id": 618191,
-    "datetime": "2025-12-22 21:11:50 +01:00",
-    "name": "22 december 19.12, Försvunnen person, Kristianstad",
-    "summary": "Polis söker efter en försvunnen man i personbil.",
-    "url": "/aktuellt/handelser/2025/december/22/22-december-19.12-forsvunnen-person-kristianstad/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kristianstad",
-      "gps": "56.029394,14.156678"
     }
   },
   {
@@ -189,30 +261,6 @@
     "location": {
       "name": "Örnsköldsvik",
       "gps": "63.290047,18.716617"
-    }
-  },
-  {
-    "id": 618181,
-    "datetime": "2025-12-22 19:03:55 +01:00",
-    "name": "22 december 18.13, Trafikolycka, personskada, Tyresö",
-    "summary": "En person har blivit påkörd av en linjebuss i närheten av Tyresö centrum.",
-    "url": "/aktuellt/handelser/2025/december/22/22-december-18.13-trafikolycka-personskada-tyreso/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Tyresö",
-      "gps": "59.242595,18.283392"
-    }
-  },
-  {
-    "id": 618164,
-    "datetime": "2025-12-22 15:11:55 +01:00",
-    "name": "22 december 14.52, Trafikolycka, Götene",
-    "summary": "Larm inkommer om en trafikolycka på E20 vid Brännebrona norr om Götene. Det ska vara en krock mellan en lastbi",
-    "url": "/aktuellt/handelser/2025/december/22/22-december-14.52-trafikolycka-gotene/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Götene",
-      "gps": "58.528002,13.491428"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 617276,
-    "datetime": "2025-12-16 6:24:39 +01:00",
-    "name": "16 december 02.09, Skadegörelse, Osby",
-    "summary": "Krossad ruta på Västra Järnvägsgatan.",
-    "url": "/aktuellt/handelser/2025/december/16/16-december-02.09-skadegorelse-osby/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Osby",
-      "gps": "56.381536,13.992941"
-    }
-  },
-  {
-    "id": 617275,
-    "datetime": "2025-12-16 6:21:47 +01:00",
-    "name": "16 december 01.22, Brand, Kävlinge",
-    "summary": "Det brinner i ett gatuök i Kävlinge.",
-    "url": "/aktuellt/handelser/2025/december/16/16-december-01.22-brand-kavlinge/",
-    "type": "Brand",
-    "location": {
-      "name": "Kävlinge",
-      "gps": "55.794,13.110429"
-    }
-  },
-  {
-    "id": 617270,
-    "datetime": "2025-12-15 21:32:23 +01:00",
-    "name": "15 december 18.52, Försvunnen person, Malmö",
-    "summary": "Försvunnen man",
-    "url": "/aktuellt/handelser/2025/december/15/15-december-18.52-forsvunnen-person-malmo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 617273,
-    "datetime": "2025-12-15 21:47:47 +01:00",
-    "name": "15 december 21.47, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2025/december/15/15-december-21.47-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
