@@ -23,6 +23,7 @@ Usage:
 # requires-python = ">=3.10"
 # dependencies = [
 #     "lxml>=5.0.0",
+#     "cssselect>=1.2.0",
 #     "duckdb>=1.0.0",
 #     "tqdm>=4.66.0",
 # ]
@@ -353,18 +354,21 @@ def flatten_event_for_export(event: dict) -> dict:
 
 
 def export_to_parquet(events: list[dict], output_path: Path) -> None:
-    """Export events to Parquet using DuckDB."""
+    """Export events to Parquet using DuckDB.
+
+    Uses parameter binding with unnest() to convert Python list to DuckDB relation.
+    All dictionaries must have the same keys.
+    """
     logger.info(f"Exporting to Parquet: {output_path}")
 
-    conn = duckdb.connect(':memory:')
+    # Create relation from Python list using unnest with parameter binding
+    rel = duckdb.query(
+        "SELECT x.* FROM (SELECT unnest($events) as x)",
+        params={"events": events}
+    )
 
-    # Create table from Python list
-    conn.execute("CREATE TABLE events AS SELECT * FROM events")
-
-    # Export to Parquet with compression
-    conn.execute(f"COPY events TO '{output_path}' (FORMAT PARQUET, COMPRESSION 'zstd')")
-
-    conn.close()
+    # Write directly to Parquet
+    rel.to_parquet(str(output_path), compression='zstd')
 
     file_size = output_path.stat().st_size
     logger.info(f"Exported {len(events):,} events to {output_path} ({file_size:,} bytes)")
