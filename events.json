@@ -1,5 +1,53 @@
 [
   {
+    "id": 619289,
+    "datetime": "2025-12-23 19:42:24 +01:00",
+    "name": "23 december 19.12, Brand, Gislaved",
+    "summary": "SOS-larm om brand i villa på Torggatan.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-19.12-brand-gislaved/",
+    "type": "Brand",
+    "location": {
+      "name": "Gislaved",
+      "gps": "57.2985,13.54326"
+    }
+  },
+  {
+    "id": 619299,
+    "datetime": "2025-12-23 21:42:23 +01:00",
+    "name": "23 december 21.42, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-21.42-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 619298,
+    "datetime": "2025-12-23 21:42:10 +01:00",
+    "name": "23 december 21.42, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-21.42-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 619283,
+    "datetime": "2025-12-23 19:08:00 +01:00",
+    "name": "23 december 18.54, Explosion, Södertälje",
+    "summary": "Något har exploderat i en port till ett flerbostadshus i Södertälje.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-18.54-explosion-sodertalje/",
+    "type": "Explosion",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
     "id": 619297,
     "datetime": "2025-12-23 21:14:54 +01:00",
     "name": "23 december 21.01, Trafikolycka, vilt, Bjuv",
@@ -84,18 +132,6 @@
     }
   },
   {
-    "id": 619283,
-    "datetime": "2025-12-23 19:08:00 +01:00",
-    "name": "23 december 18.54, Explosion, Södertälje",
-    "summary": "Något har exploderat i en port till ett flerbostadshus i Södertälje.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-18.54-explosion-sodertalje/",
-    "type": "Explosion",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
     "id": 619293,
     "datetime": "2025-12-23 19:57:34 +01:00",
     "name": "23 december 18.49, Fylleri/LOB, Gävle",
@@ -129,18 +165,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 619289,
-    "datetime": "2025-12-23 19:42:24 +01:00",
-    "name": "23 december 19.12, Brand, Gislaved",
-    "summary": "SOS-larm om brand i villa på Torggatan.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-19.12-brand-gislaved/",
-    "type": "Brand",
-    "location": {
-      "name": "Gislaved",
-      "gps": "57.2985,13.54326"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Helsingborg",
       "gps": "56.046467,12.694512"
-    }
-  },
-  {
-    "id": 617450,
-    "datetime": "2025-12-17 7:32:56 +01:00",
-    "name": "17 december 06.52, Trafikolycka, Ängelholm",
-    "summary": "En singelolycka med en personbil inträffar på Värngatan.",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-06.52-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Ängelholm",
-      "gps": "56.245748,12.863881"
-    }
-  },
-  {
-    "id": 617439,
-    "datetime": "2025-12-17 7:32:33 +01:00",
-    "name": "17 december 07.32, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-07.32-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
