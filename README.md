@@ -1,60 +1,158 @@
 # Swedish Police Events Archive
 
-A git-based archive of Swedish police events, scraped twice hourly from the official Polisen.se API, providing 2+ years of historical crime data across all regions and event types.
-
-**Live Site:** [View the interactive map](https://dnouri.github.io/polisen-se-events-history/)
+68,000+ Swedish police events (2022-2025) queryable directly via DuckDB - no download required.
 
 [![Latest Scrape](https://github.com/dnouri/polisen-se-events-history/workflows/Scrape%20latest%20data/badge.svg)](https://github.com/dnouri/polisen-se-events-history/actions)
 
 ---
 
-## Overview
+## Query Now
 
-This project implements the [git-scraping pattern](https://simonwillison.net/2020/Oct/9/git-scraping/) to create a historical archive of Swedish police events. Every 30 minutes, GitHub Actions:
+Analyze 2+ years of Swedish crime data directly from your terminal:
 
-1. Fetches the latest events from `https://polisen.se/api/events`
-2. Archives individual HTML event pages to `html/` directory
-3. Commits changes to git if data has changed
-4. Deploys the updated visualization to GitHub Pages
+```sql
+-- Top event types (run with: duckdb -c "...")
+SELECT type, COUNT(*) as count
+FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
+GROUP BY type ORDER BY count DESC LIMIT 10;
+```
 
-With **28,000+ commits** over 2+ years of operation, this archive provides a reliable, continuously updated dataset of Swedish crime events.
+```
+┌───────────────────────────┬───────┐
+│           type            │ count │
+├───────────────────────────┼───────┤
+│ Trafikolycka              │ 10434 │
+│ Sammanfattning natt       │ 10092 │
+│ Brand                     │  4407 │
+│ Trafikkontroll            │  4068 │
+│ Rattfylleri               │  4001 │
+│ Misshandel                │  3124 │
+│ Stöld                     │  2497 │
+│ Trafikolycka, personskada │  2095 │
+│ ...                       │   ... │
+└───────────────────────────┴───────┘
+```
 
-**Data Source:** [Swedish Police Authority Open Data API](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/)
+```sql
+-- Traffic accidents by city
+SELECT location_name, COUNT(*) as accidents
+FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
+WHERE type = 'Trafikolycka'
+GROUP BY location_name ORDER BY accidents DESC LIMIT 10;
+```
 
----
+```
+┌──────────────┬───────────┐
+│ location_name│ accidents │
+├──────────────┼───────────┤
+│ Malmö        │       466 │
+│ Örebro       │       291 │
+│ Helsingborg  │       257 │
+│ Umeå         │       254 │
+│ Göteborg     │       248 │
+│ Sundsvall    │       227 │
+│ Växjö        │       208 │
+│ Luleå        │       206 │
+│ ...          │       ... │
+└──────────────┴───────────┘
+```
 
-## Quick Start
+```sql
+-- Events per month
+SELECT substr(datetime, 1, 7) as month, COUNT(*) as events
+FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
+GROUP BY month ORDER BY month DESC LIMIT 6;
+```
 
-```bash
-# Clone the repository (note: 1.4+ GB repository due to HTML archive)
-git clone https://github.com/dnouri/polisen-se-events-history.git
-cd polisen-se-events-history
-
-# For faster clone, use shallow clone:
-git clone --depth 1 https://github.com/dnouri/polisen-se-events-history.git
-
-# View the current events data
-cat events.json | jq '.[0]'  # Show first event
-
-# View the interactive map
-python3 -m http.server 8000
-# Open http://localhost:8000
+```
+┌─────────┬────────┐
+│  month  │ events │
+├─────────┼────────┤
+│ 2025-11 │   2112 │
+│ 2025-10 │   2151 │
+│ 2025-09 │   2140 │
+│ 2025-08 │   2060 │
+│ 2025-07 │   1862 │
+│ 2025-06 │   2108 │
+└─────────┴────────┘
 ```
 
 ---
 
-## Data Overview
+## Dataset Overview
 
-### Current Snapshot (`events.json`)
+| Metric | Value |
+|--------|-------|
+| Total events | 68,000+ |
+| Date range | Sept 2022 - Present |
+| Event types | 94 categories |
+| Locations | 311 municipalities |
+| Update frequency | Daily (04:15 UTC) |
+| Format | Apache Parquet (~11 MB) |
 
-- **Records:** ~500 events (9-day rolling window)
-- **Update Frequency:** Every 30 minutes (`6,36 * * * *` cron)
-- **File Size:** ~205 KB
-- **Data Completeness:** 100% (no missing fields)
-- **Event Types:** 57 distinct categories
-- **Geographic Coverage:** 161 locations nationwide
+**All text is in Swedish.** Event types (`Trafikolycka`, `Misshandel`, `Stöld`), summaries, and locations use Swedish terminology.
 
-### Event Schema
+### Top Event Categories
+
+| Swedish | English | Count |
+|---------|---------|-------|
+| Trafikolycka | Traffic accident | 10,434 |
+| Sammanfattning natt | Night summary | 10,092 |
+| Brand | Fire | 4,407 |
+| Trafikkontroll | Traffic control | 4,068 |
+| Rattfylleri | Drunk driving | 4,001 |
+| Misshandel | Assault | 3,124 |
+| Stöld | Theft | 2,497 |
+
+---
+
+## Data Schema
+
+```sql
+DESCRIBE SELECT * FROM 'events.parquet';
+```
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `event_id` | VARCHAR | Unique identifier |
+| `datetime` | VARCHAR | ISO 8601 timestamp with timezone |
+| `name` | VARCHAR | Event title (Swedish) |
+| `summary` | VARCHAR | Brief description |
+| `url` | VARCHAR | Path to full report on polisen.se |
+| `type` | VARCHAR | Event category (94 types) |
+| `location_name` | VARCHAR | Municipality/city name |
+| `latitude` | DOUBLE | WGS84 latitude |
+| `longitude` | DOUBLE | WGS84 longitude |
+| `html_title` | VARCHAR | Full title from archived HTML |
+| `html_preamble` | VARCHAR | Summary paragraph |
+| `html_body` | VARCHAR | Complete narrative text |
+| `html_published_datetime` | VARCHAR | Publication timestamp |
+| `html_author` | VARCHAR | Report author |
+| `html_available` | BOOLEAN | Whether HTML was parsed |
+
+### Location Precision
+
+**Coordinates are municipality centroids, not incident addresses.** The Swedish Police API reports all events for a city at a single point (e.g., all Stockholm events at 59.33°N, 18.07°E). This affects analysis:
+
+- Suitable for: Municipality-level aggregation, regional trends, event type distribution
+- Not suitable for: Street-level analysis, neighborhood patterns, distance calculations
+
+---
+
+## Other Access Methods
+
+### Interactive Map
+
+**Live Site:** [dnouri.github.io/polisen-se-events-history](https://dnouri.github.io/polisen-se-events-history/)
+
+A basic web interface showing recent events (9-day window) with filtering by type and date.
+
+### Current Events JSON
+
+```bash
+# Latest ~500 events (9-day rolling window, updates every 30 min)
+curl -s https://raw.githubusercontent.com/dnouri/polisen-se-events-history/main/events.json | jq '.[0]'
+```
 
 ```json
 {
@@ -62,267 +160,102 @@ python3 -m http.server 8000
   "datetime": "2025-11-13 20:14:24 +01:00",
   "name": "13 november 18.28, Stöld, Härnösand",
   "summary": "Misstänkt stöld i butik, Kronholmen.",
-  "url": "/aktuellt/handelser/2025/november/13/13-november-18.28-stold-harnosand/",
   "type": "Stöld",
-  "location": {
-    "name": "Härnösand",
-    "gps": "62.63227,17.940871"
-  }
+  "location": { "name": "Härnösand", "gps": "62.63227,17.940871" }
 }
 ```
 
-**All text is in Swedish.** Event types, summaries, and location names use Swedish terminology.
-
-### Top Event Categories
-
-| Type | Translation | Frequency |
-|------|-------------|-----------|
-| `Trafikolycka` | Traffic accident | 15.8% |
-| `Sammanfattning natt` | Night summary | 14.2% |
-| `Rattfylleri` | Drunk driving | 7.8% |
-| `Misshandel` | Assault | 6.0% |
-| `Brand` | Fire | 5.2% |
-| `Stöld` | Theft | 3.8% |
-| `Rån` | Robbery | 2.4% |
-
-### Historical Archive (`html/` directory)
-
-- **Total Files:** 27,437+ HTML snapshots
-- **Size:** 1.1 GB
-- **Format:** Full webpage snapshots from polisen.se
-- **Naming:** `{event_id}.html` (e.g., `612685.html`)
-- **Content:** Complete event narratives, metadata, and context
-- **Coverage:** 2+ years of archived incidents
-
-**Note:** HTML files are only downloaded once per event ID (incremental archival). Thus, updates to existing HTML reports are currently lost. They contain full website boilerplate (~30-40 KB overhead) plus 5-10 KB of actual event content.
-
----
-
-## Visualization
-
-The project includes a basic interactive map built with:
-
-- **Leaflet.js** for map rendering (OpenStreetMap tiles)
-- **Leaflet.MarkerCluster** for marker aggregation
-- **Type-based filtering** with emoji categorization
-- **Date range selection**
-- **Full-text search** across event names and summaries
-- **Local storage** for filter persistence
-
-### Features
-
-✅ Click markers to view event details
-✅ Filter by 57+ event types with checkboxes
-✅ Search events by keyword
-✅ Select date range with date pickers
-✅ Mobile-responsive with collapsible sidebar
-✅ Color-coded badges and emoji icons
-
-### Limitations
-
-❌ City-level markers only (cluster at urban centers)
-❌ No time series analysis or trend visualization
-❌ No crime rate normalization (absolute counts only)
-❌ Limited to current 9-day window (no historical view)
-❌ Client-side rendering (performance degrades with large datasets)
-
----
-
-## Technical Architecture
-
-### Automated Scraping Workflow
-
-**File:** `.github/workflows/scrape.yml`
-
-```yaml
-Schedule: '6,36 * * * *'  # Every 30 minutes (48 times/day)
-Steps:
-  1. Fetch JSON: curl https://polisen.se/api/events | jq . > events.json
-  2. Download HTML: bash download-html.sh (incremental, only new events)
-  3. Commit: git commit -m "Latest data: {timestamp}" (only if changed)
-  4. Push: Trigger deployment to GitHub Pages
-```
-
-**Incremental HTML Archival:**
-The `download-html.sh` script checks if `html/{id}.html` exists before downloading. This prevents re-downloading 27K+ files on every run.
+### Clone Repository
 
 ```bash
-while read -r id url; do
-    if [ ! -f html/${id}.html ]; then
-        curl https://polisen.se/${url} -o html/${id}.html
-    fi
-done < <(cat events.json | jq -r '.[] | "\(.id) \(.url)"')
+# Full history (1.4+ GB due to HTML archive)
+git clone https://github.com/dnouri/polisen-se-events-history.git
+
+# Shallow clone (faster, ~1.1 GB)
+git clone --depth 1 https://github.com/dnouri/polisen-se-events-history.git
 ```
 
-### Data Retention Strategy
+### Download Parquet
 
-**Current Approach:**
-- `events.json` overwrites on every scrape (9-day rolling window)
-- HTML files persist forever (incremental addition)
-- Git history preserves all changes to `events.json`
-
-**Historical Analysis:**
-To analyze trends over time, you must:
-1. Mine git history: `git log --all -- events.json`
-2. Checkout historical commits: `git show <commit-hash>:events.json`
-3. Aggregate data across commits
-
-**Limitation:** The API only returns recent events (~9 days). Older events may not appear in `events.json` but are preserved in HTML archives.
-
-### Storage Characteristics
-
-| Component | Size | Count | Growth Rate |
-|-----------|------|-------|-------------|
-| `events.json` | ~200 KB | 500 events | Stable (overwrites) |
-| HTML archive | 1+ GB | 27,000+ files | +50-100 MB/month |
-| Git history | ~200+ MB | 28,000+ commits | +10-20 MB/month |
-| **Total** | **~1.4+ GB** | - | ~60-120 MB/month |
-
-**Clone Time:** ~2-5 minutes on broadband
-**Shallow Clone:** `git clone --depth 1` reduces to ~1.1 GB
-
----
-
-## Known Issues & Limitations
-
-### Data Quality
-
-1. **Location Precision:** City centroids only (~5-50 km accuracy). Not suitable for street-level analysis.
-2. **Event Summaries:** "Sammanfattning natt" (night summary) entries aggregate multiple incidents, inflating event counts by ~14%.
-3. **API Window:** Only 9 days of current data. Historical analysis requires git archaeology.
-4. **HTML files:** Only the first version of HTML reports is ever stored in the `html/` folder. Updates are lost.
-5. **Language:** All text in Swedish (event types, summaries, locations).
-
----
-
-## Data Access
-
-### Current Events
-
-- **JSON:** [`events.json`](events.json) (updates every 30 minutes)
-- **Web Interface:** [Interactive map](https://dnouri.github.io/polisen-se-events-history/)
-
-### Historical Events
-
-- **Git History:** `git log --all -- events.json`
-- **HTML Archive:** `html/` directory (27k+ files)
-
-### Example Queries
-
-**Find all robberies in Stockholm:**
 ```bash
-cat events.json | jq '.[] | select(.type == "Rån" and .location.name == "Stockholm")'
-```
-
-**Count events by type:**
-```bash
-cat events.json | jq -r '.[].type' | sort | uniq -c | sort -rn
-```
-
-**Extract all GPS coordinates:**
-```bash
-cat events.json | jq -r '.[] | "\(.location.name),\(.location.gps)"' > coordinates.csv
-```
-
-**View historical events from specific date:**
-```bash
-git log --all --format=%H -- events.json | while read commit; do
-    echo "=== Commit: $commit ==="
-    git show $commit:events.json | jq -r '.[0].datetime' | head -1
-done
+curl -LO https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet
 ```
 
 ---
 
-## Advanced Data Export
+## How It Works
 
-The `export-events.py` script extracts the complete historical dataset from git history and exports to analysis-ready formats.
+This project uses the [git-scraping pattern](https://simonwillison.net/2020/Oct/9/git-scraping/) to archive Swedish police events:
 
-### Features
+1. **Every 30 minutes**: GitHub Actions fetches `https://polisen.se/api/events`
+2. **HTML archival**: Individual event pages are downloaded to `html/` directory
+3. **Git history**: Changes are committed, preserving full history
+4. **Daily export**: All events are extracted from git history and published as Parquet
 
-- **Git Archaeology:** Extracts events from all 28,000+ commits (2+ years of history)
-- **Deduplication:** Keeps most recent version of each event
-- **GPS Parsing:** Converts location strings to separate `latitude`/`longitude` DOUBLE columns
-- **HTML Enrichment:** Optionally extracts structured narrative data from archived HTML files
-- **Multiple Formats:** Auto-detects output format from extension (.parquet, .json, .jsonl)
-- **Date Filtering:** Export specific time periods
+With 28,000+ commits over 2+ years, this provides a reliable historical dataset.
 
-### Usage
+### Data Pipeline
 
-```bash
-# Export all events to Parquet (recommended for analysis)
-uv run export-events.py --output all_events.parquet
-
-# Export specific time period
-uv run export-events.py \
-  --start-date 2024-01-01 \
-  --end-date 2024-12-31 \
-  --output 2024_events.parquet
-
-# Include HTML narrative content
-uv run export-events.py --include-html --output enriched.parquet
-
-# Export to JSON for debugging
-uv run export-events.py --output events.json
+```
+polisen.se/api/events (9-day rolling window)
+    ↓ GitHub Actions (every 30 min)
+events.json + html/{id}.html
+    ↓ Git history (28,000+ commits)
+export-events.py --include-html
+    ↓ Daily release
+events.parquet (68,000+ unique events)
 ```
 
-### Parquet Output Schema
+### Generate Parquet Locally
 
-The exported Parquet file contains:
+```bash
+# Clone with full history
+git clone https://github.com/dnouri/polisen-se-events-history.git
+cd polisen-se-events-history
 
-**Core Fields (from git history):**
-- `event_id` (VARCHAR) - Unique event identifier
-- `datetime` (VARCHAR) - ISO 8601 timestamp with timezone
-- `name` (VARCHAR) - Event title
-- `summary` (VARCHAR) - Brief description
-- `url` (VARCHAR) - Path to full report on polisen.se
-- `type` (VARCHAR) - Event category (57 types)
-- `location_name` (VARCHAR) - City/region name
-- `latitude` (DOUBLE) - WGS84 latitude (city centroid, ~5-50km precision)
-- `longitude` (DOUBLE) - WGS84 longitude (city centroid)
+# Export all events (requires uv)
+uv run export-events.py --include-html --output events.parquet
 
-**HTML Fields (if --include-html used):**
-- `html_title` (VARCHAR) - Full event title from HTML
-- `html_preamble` (VARCHAR) - Summary paragraph
-- `html_body` (VARCHAR) - Complete narrative text
-- `html_published_datetime` (VARCHAR) - ISO 8601 timestamp from HTML
-- `html_author` (VARCHAR) - Report author
-- `html_available` (BOOLEAN) - Whether HTML was found and parsed
-
-**Key characteristics:**
-- Geographic coordinates as separate DOUBLE columns (H3/DuckDB-ready)
-- All unique events across 2+ years (deduplicated by ID)
-- Optimized for spatial analysis and visualization
-- Compatible with DuckDB, pandas, and geospatial tools
-
-### Example Analysis with DuckDB
-
-```sql
--- Load and query Parquet file
-INSTALL h3; LOAD h3;
-
--- Aggregate by H3 hexagon (resolution 6 ≈ 6km)
-SELECT
-    h3_latlng_to_cell(latitude, longitude, 6) as h3_cell,
-    COUNT(*) as event_count,
-    array_agg(DISTINCT type) as crime_types
-FROM 'all_events.parquet'
-GROUP BY h3_cell
-ORDER BY event_count DESC
-LIMIT 20;
+# Export specific date range
+uv run export-events.py --start-date 2024-01-01 --end-date 2024-12-31 --output 2024.parquet
 ```
 
 ---
 
-## Credits
+## Known Limitations
 
-- **Data Source:** [Swedish Police Authority](https://polisen.se)
-- **Inspiration:** [Git Scraping Pattern](https://simonwillison.net/2020/Oct/9/git-scraping/) by Simon Willison
+1. **Municipality centroids**: Coordinates are city center points, not actual incident locations
+2. **Night summaries**: `Sammanfattning natt` entries aggregate multiple incidents (~15% of events)
+3. **Swedish only**: All text in Swedish
+4. **HTML snapshots**: Only first version of each event page is archived; updates are lost
+5. **9-day API window**: Historical data requires git archaeology or the Parquet export
+
+---
+
+## Data Source & Attribution
+
+This project archives publicly available data from the **Swedish Police Authority** (Polismyndigheten).
+
+| Resource | Link |
+|----------|------|
+| Official API | [polisen.se/api/events](https://polisen.se/api/events) |
+| API Documentation | [Öppna data - API över polisens händelser](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/) |
+| Terms of Use | [polisen.se](https://polisen.se) |
+
+### How Data Is Collected
+
+This project uses automated git-scraping to archive the Police API's 9-day rolling window before events expire. The [git-scraping pattern](https://simonwillison.net/2020/Oct/9/git-scraping/) (by Simon Willison) enables historical preservation of otherwise ephemeral public data.
+
+### Legal Context
+
+- **Swedish PSI Law** ([Lag 2010:566](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2010566-om-vidareutnyttjande-av-handlingar_sfs-2010-566/)): Permits reuse of public sector information
+- **Similar Projects**: [buren/polisen-api](https://github.com/buren/polisen-api), [LarsBergqvist/police-events](https://github.com/LarsBergqvist/police-events)
+
+The Swedish Police API terms require a User-Agent header and impose rate limits (60 requests/hour). This project respects those limits.
 
 ---
 
 ## License
 
-The code in this repository is released into the public domain.
-
-The data is sourced from the Swedish Police Authority's open data API and is subject to their terms of use.
+- **Code**: Public Domain
+- **Data**: Derived from Swedish Police Authority public information
