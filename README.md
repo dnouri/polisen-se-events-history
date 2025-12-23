@@ -232,14 +232,30 @@ uv run export-events.py --start-date 2024-01-01 --end-date 2024-12-31 --output 2
 
 ---
 
-## Credits
+## Data Source & Attribution
 
-- **Data Source:** [Swedish Police Authority Open Data API](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/)
-- **Pattern:** [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) by Simon Willison
+This project archives publicly available data from the **Swedish Police Authority** (Polismyndigheten).
+
+| Resource | Link |
+|----------|------|
+| Official API | [polisen.se/api/events](https://polisen.se/api/events) |
+| API Documentation | [Öppna data - API över polisens händelser](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/) |
+| Terms of Use | [polisen.se](https://polisen.se) |
+
+### How Data Is Collected
+
+This project uses automated git-scraping to archive the Police API's 9-day rolling window before events expire. The [git-scraping pattern](https://simonwillison.net/2020/Oct/9/git-scraping/) (by Simon Willison) enables historical preservation of otherwise ephemeral public data.
+
+### Legal Context
+
+- **Swedish PSI Law** ([Lag 2010:566](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2010566-om-vidareutnyttjande-av-handlingar_sfs-2010-566/)): Permits reuse of public sector information
+- **Similar Projects**: [buren/polisen-api](https://github.com/buren/polisen-api), [LarsBergqvist/police-events](https://github.com/LarsBergqvist/police-events)
+
+The Swedish Police API terms require a User-Agent header and impose rate limits (60 requests/hour). This project respects those limits.
 
 ---
 
 ## License
 
-Code: Public Domain
-Data: Subject to [Swedish Police Authority terms of use](https://polisen.se)
+- **Code**: Public Domain
+- **Data**: Derived from Swedish Police Authority public information
