@@ -1,5 +1,101 @@
 [
   {
+    "id": 619295,
+    "datetime": "2025-12-23 20:24:54 +01:00",
+    "name": "23 december 19.19, Brand, Stockholm",
+    "summary": "Det har brunnit i ett cykelrum i Sätra.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-19.19-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 619281,
+    "datetime": "2025-12-23 18:24:35 +01:00",
+    "name": "23 december 18.22, Trafikolycka, vilt, Västerbottens län",
+    "summary": "Ett antal viltolyckor och renpåkörningar har rapporterats in till polisen under eftermiddagen/kvällen.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-18.22-trafikolycka-vilt-vasterbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 619291,
+    "datetime": "2025-12-23 19:47:00 +01:00",
+    "name": "23 december 19.12, Trafikolycka, Norrköping",
+    "summary": "Kollision mellan tre bilar på Lidaleden.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-19.12-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrköping",
+      "gps": "58.587745,16.192421"
+    }
+  },
+  {
+    "id": 619294,
+    "datetime": "2025-12-23 20:03:25 +01:00",
+    "name": "23 december 17.36, Trafikolycka, Karlshamn",
+    "summary": "Singelolycka på Elleholmsvägen, Mörrum.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-17.36-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 619283,
+    "datetime": "2025-12-23 19:08:00 +01:00",
+    "name": "23 december 18.54, Explosion, Södertälje",
+    "summary": "Något har exploderat i en port till ett flerbostadshus i Södertälje.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-18.54-explosion-sodertalje/",
+    "type": "Explosion",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 619293,
+    "datetime": "2025-12-23 19:57:34 +01:00",
+    "name": "23 december 18.49, Fylleri/LOB, Gävle",
+    "summary": "Kvinna omhändertagen på restaurang i centrum.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-18.49-fyllerilob-gavle/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 619282,
+    "datetime": "2025-12-23 18:27:07 +01:00",
+    "name": "23 december 18.11, Trafikolycka, personskada, Uppsala",
+    "summary": "Person påkörd i centrala Uppsala.",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-18.11-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 619292,
+    "datetime": "2025-12-23 19:49:37 +01:00",
+    "name": "23 december 19.08, Fylleri/LOB, Örebro",
+    "summary": "En man är omhändertagen i City",
+    "url": "/aktuellt/handelser/2025/december/23/23-december-19.08-fyllerilob-orebro/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 619289,
     "datetime": "2025-12-23 19:42:24 +01:00",
     "name": "23 december 19.12, Brand, Gislaved",
@@ -84,30 +180,6 @@
     }
   },
   {
-    "id": 619283,
-    "datetime": "2025-12-23 19:08:00 +01:00",
-    "name": "23 december 18.54, Explosion, Södertälje",
-    "summary": "Något har exploderat i en port till ett flerbostadshus i Södertälje.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-18.54-explosion-sodertalje/",
-    "type": "Explosion",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
-    }
-  },
-  {
-    "id": 619282,
-    "datetime": "2025-12-23 18:27:07 +01:00",
-    "name": "23 december 18.11, Trafikolycka, personskada, Uppsala",
-    "summary": "Person påkörd i centrala Uppsala.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-18.11-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
     "id": 619279,
     "datetime": "2025-12-23 18:16:00 +01:00",
     "name": "23 december 17.55, Trafikolycka, Vänersborg",
@@ -117,18 +189,6 @@
     "location": {
       "name": "Vänersborg",
       "gps": "58.379728,12.324803"
-    }
-  },
-  {
-    "id": 619281,
-    "datetime": "2025-12-23 18:24:35 +01:00",
-    "name": "23 december 18.22, Trafikolycka, vilt, Västerbottens län",
-    "summary": "Ett antal viltolyckor och renpåkörningar har rapporterats in till polisen under eftermiddagen.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-18.22-trafikolycka-vilt-vasterbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 617449,
-    "datetime": "2025-12-17 7:31:34 +01:00",
-    "name": "17 december 07.31, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-07.31-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 617445,
-    "datetime": "2025-12-17 7:23:20 +01:00",
-    "name": "17 december 07.17, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-07.17-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 617447,
-    "datetime": "2025-12-17 7:23:14 +01:00",
-    "name": "17 december 07.19, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-07.19-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 617448,
-    "datetime": "2025-12-17 7:23:08 +01:00",
-    "name": "17 december 07.21, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
-    "url": "/aktuellt/handelser/2025/december/17/17-december-07.21-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 617443,
-    "datetime": "2025-12-17 7:17:42 +01:00",
-    "name": "16 december 22.34, Rattfylleri, Helsingborg",
-    "summary": "Misstänkt rattfylleri på Södra Stenbocksgatan.",
-    "url": "/aktuellt/handelser/2025/december/16/16-december-22.34-rattfylleri-helsingborg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   }
 ]
