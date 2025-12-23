@@ -1,0 +1,79 @@
+name: Daily Parquet Release
+
+on:
+  schedule:
+    # Run at 04:15 UTC daily (05:15 CET / 06:15 CEST)
+    # Using :15 to avoid peak load at the top of the hour
+    - cron: '15 4 * * *'
+  workflow_dispatch:
+    # Allow manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Full history needed for git archaeology (extracting events from all commits)
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Generate events.parquet
+        run: uv run export-events.py --include-html --output events.parquet
+
+      - name: Get event count and date range
+        id: stats
+        run: |
+          # Use DuckDB to get stats from the parquet file
+          STATS=$(uv run --with duckdb python -c "
+          import duckdb
+          conn = duckdb.connect(':memory:')
+          result = conn.execute('''
+              SELECT
+                  COUNT(*) as count,
+                  MIN(datetime) as min_date,
+                  MAX(datetime) as max_date
+              FROM read_parquet('events.parquet')
+          ''').fetchone()
+          print(f'{result[0]}|{result[1][:10]}|{result[2][:10]}')
+          ")
+          echo "count=$(echo $STATS | cut -d'|' -f1)" >> $GITHUB_OUTPUT
+          echo "min_date=$(echo $STATS | cut -d'|' -f2)" >> $GITHUB_OUTPUT
+          echo "max_date=$(echo $STATS | cut -d'|' -f3)" >> $GITHUB_OUTPUT
+
+      - name: Create or update release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: data-latest
+          name: Latest Events Data
+          body: |
+            ## Swedish Police Events Dataset
+
+            **Updated:** ${{ github.event.repository.updated_at || 'Daily at 04:15 UTC' }}
+            **Events:** ${{ steps.stats.outputs.count }} unique events
+            **Date range:** ${{ steps.stats.outputs.min_date }} to ${{ steps.stats.outputs.max_date }}
+
+            ### Download
+
+            ```bash
+            curl -LO https://github.com/${{ github.repository }}/releases/download/data-latest/events.parquet
+            ```
+
+            ### Quick Analysis with DuckDB
+
+            ```sql
+            -- Query directly from URL (no download needed)
+            SELECT type, COUNT(*) as count
+            FROM 'https://github.com/${{ github.repository }}/releases/download/data-latest/events.parquet'
+            GROUP BY type
+            ORDER BY count DESC
+            LIMIT 10;
+            ```
+          files: events.parquet
+          make_latest: true
