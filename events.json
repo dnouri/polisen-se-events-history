@@ -1,5 +1,17 @@
 [
   {
+    "id": 619456,
+    "datetime": "2025-12-26 13:54:53 +01:00",
+    "name": "26 december 13.43, Brand, Örebro",
+    "summary": "Polis beordrad på brand i lägenhet.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-13.43-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
     "id": 619457,
     "datetime": "2025-12-26 13:58:56 +01:00",
     "name": "26 december 13.19, Trafikolycka, Laxå",
@@ -12,15 +24,51 @@
     }
   },
   {
-    "id": 619456,
-    "datetime": "2025-12-26 13:54:53 +01:00",
-    "name": "26 december 13.43, Brand, Örebro",
-    "summary": "Polis beordrad på brand i lägenhet.",
-    "url": "/aktuellt/handelser/2025/december/26/26-december-13.43-brand-orebro/",
-    "type": "Brand",
+    "id": 619454,
+    "datetime": "2025-12-26 14:10:18 +01:00",
+    "name": "26 december 13.02, Trafikolycka, singel, Enköping",
+    "summary": "Bil har kört av vägen.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-13.02-trafikolycka-singel-enkoping/",
+    "type": "Trafikolycka, singel",
     "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 619453,
+    "datetime": "2025-12-26 14:05:56 +01:00",
+    "name": "26 december 12.59, Trafikolycka, personskada, Knivsta",
+    "summary": "Bil har kört in i ett träd.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-12.59-trafikolycka-personskada-knivsta/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Knivsta",
+      "gps": "59.72612,17.792036"
+    }
+  },
+  {
+    "id": 619459,
+    "datetime": "2025-12-26 14:05:11 +01:00",
+    "name": "26 december 11.51, Skadegörelse, Göteborg",
+    "summary": "Polisen kontaktas med uppgift om att någon punkterat däck på ett flertal fordon på August Barks gata.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-11.51-skadegorelse-goteborg/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 619458,
+    "datetime": "2025-12-26 14:00:44 +01:00",
+    "name": "26 december 12.33, Trafikbrott, Partille",
+    "summary": "En fotgängare blir påkörd vid ett övergångsställe på Utbyvägen.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-12.33-trafikbrott-partille/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Partille",
+      "gps": "57.73665,12.125197"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 617804,
-    "datetime": "2025-12-19 7:09:07 +01:00",
-    "name": "19 december 02.01, Brand, Nybro",
-    "summary": "Brand i en bil i Örsjö.",
-    "url": "/aktuellt/handelser/2025/december/19/19-december-02.01-brand-nybro/",
-    "type": "Brand",
-    "location": {
-      "name": "Nybro",
-      "gps": "56.7438,15.908681"
-    }
-  },
-  {
-    "id": 617798,
-    "datetime": "2025-12-19 7:00:28 +01:00",
-    "name": "19 december 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/19/19-december-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 617796,
-    "datetime": "2025-12-19 7:00:17 +01:00",
-    "name": "19 december 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2025/december/19/19-december-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 617801,
-    "datetime": "2025-12-19 6:59:16 +01:00",
-    "name": "19 december 01.08, Skadegörelse, Malmö",
-    "summary": "Personer som tagit sig in på byggarbetsplats.",
-    "url": "/aktuellt/handelser/2025/december/19/19-december-01.08-skadegorelse-malmo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
