@@ -1,5 +1,89 @@
 [
   {
+    "id": 619416,
+    "datetime": "2025-12-26 7:41:45 +01:00",
+    "name": "26 december 02.17, Misshandel, Uppsala",
+    "summary": "Man slagen utanför nattklubb.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-02.17-misshandel-uppsala/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 619414,
+    "datetime": "2025-12-26 7:36:48 +01:00",
+    "name": "26 december 02.18, Narkotikabrott, Fagersta",
+    "summary": "Misstänkt för narkotikabrott försökte springa ifrån polisen.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-02.18-narkotikabrott-fagersta/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Fagersta",
+      "gps": "59.989144,15.816642"
+    }
+  },
+  {
+    "id": 619413,
+    "datetime": "2025-12-26 7:28:48 +01:00",
+    "name": "26 december 02.26, Bråk, Uppsala",
+    "summary": "Bråk mellan flera personer.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-02.26-brak-uppsala/",
+    "type": "Bråk",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 619412,
+    "datetime": "2025-12-26 7:21:48 +01:00",
+    "name": "26 december 02.26, Trafikolycka, Bollnäs",
+    "summary": "Kollsion mellan personbil och A-traktor.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-02.26-trafikolycka-bollnas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Bollnäs",
+      "gps": "61.34838,16.394269"
+    }
+  },
+  {
+    "id": 619411,
+    "datetime": "2025-12-26 7:17:07 +01:00",
+    "name": "26 december 02.52, Narkotikabrott, Västerås",
+    "summary": "Narkotikapåverkad kvinna vägrade kliva ur bil.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-02.52-narkotikabrott-vasteras/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 619410,
+    "datetime": "2025-12-26 7:11:44 +01:00",
+    "name": "26 december 02.53, Trafikolycka, personskada, Västerås",
+    "summary": "Trafikolycka på Erikslund.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-02.53-trafikolycka-personskada-vasteras/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 619409,
+    "datetime": "2025-12-26 7:05:34 +01:00",
+    "name": "26 december 05.27, Inbrott, försök, Arboga",
+    "summary": "Inbrott i en ishall.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-05.27-inbrott-forsok-arboga/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Arboga",
+      "gps": "59.393688,15.838175"
+    }
+  },
+  {
     "id": 619403,
     "datetime": "2025-12-25 21:54:13 +01:00",
     "name": "25 december 21.37, Brand, Malmö",
@@ -9,6 +93,30 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 619407,
+    "datetime": "2025-12-26 7:02:02 +01:00",
+    "name": "26 december 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 619406,
+    "datetime": "2025-12-26 6:58:58 +01:00",
+    "name": "26 december 06.58, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2025/december/26/26-december-06.58-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 617649,
-    "datetime": "2025-12-18 12:41:10 +01:00",
-    "name": "18 december 11.21, Stöld/inbrott, Falkenberg",
-    "summary": "Larm kommer in till polis om att flera personer springer efter en gärningsperson som gjort inbrott i vindsförr",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-11.21-stoldinbrott-falkenberg/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Falkenberg",
-      "gps": "56.902733,12.488801"
-    }
-  },
-  {
-    "id": 617648,
-    "datetime": "2025-12-18 12:39:09 +01:00",
-    "name": "18 december 11.26, Olovlig körning, Örebro",
-    "summary": "Det skrivs en anmälan om olovlig körning efter att polisen stoppat en a-traktor som går för fort.",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-11.26-olovlig-korning-orebro/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 617647,
-    "datetime": "2025-12-18 12:37:19 +01:00",
-    "name": "18 december 12.35, Information, Örebro",
-    "summary": "Polisen söker vittnen efter våldsbrott i Örebro",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-12.35-information-orebro/",
-    "type": "Information",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 617640,
-    "datetime": "2025-12-18 11:16:00 +01:00",
-    "name": "18 december 11.05, Trafikolycka, Malmö",
-    "summary": "Påkörd elsparkcyklist på Annelundsgatan.",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-11.05-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 617604,
-    "datetime": "2025-12-18 7:41:29 +01:00",
-    "name": "18 december 06.26, Farligt föremål, misstänkt, Perstorp",
-    "summary": "Misstänkt farligt föremål.",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-06.26-farligt-foremal-misstankt-perstorp/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Perstorp",
-      "gps": "56.137972,13.394986"
-    }
-  },
-  {
-    "id": 616017,
-    "datetime": "2025-12-05 1:39:55 +01:00",
-    "name": "05 december 01.29, Explosion, Göteborg",
-    "summary": "Explosion i Johanneberg (Göteborg)",
-    "url": "/aktuellt/handelser/2025/december/5/05-december-01.29-explosion-goteborg/",
-    "type": "Explosion",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
-    }
-  },
-  {
-    "id": 617611,
-    "datetime": "2025-12-18 7:52:03 +01:00",
-    "name": "18 december 07.51, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer ett urval av nattens ärenden",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-07.51-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 617610,
-    "datetime": "2025-12-18 7:51:12 +01:00",
-    "name": "18 december 07.50, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer ett urval av nattens ärenden",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-07.50-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 617609,
-    "datetime": "2025-12-18 7:50:53 +01:00",
-    "name": "18 december 07.41, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer ett urval av nattens ärenden",
-    "url": "/aktuellt/handelser/2025/december/18/18-december-07.41-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
