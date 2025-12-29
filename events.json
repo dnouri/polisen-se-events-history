@@ -1,5 +1,113 @@
 [
   {
+    "id": 619682,
+    "datetime": "2025-12-29 13:48:23 +01:00",
+    "name": "29 december 13.28, Trafikbrott, Vilhelmina",
+    "summary": "Föreningsgatan, bilist stoppad av polis",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-13.28-trafikbrott-vilhelmina/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Vilhelmina",
+      "gps": "64.624471,16.655497"
+    }
+  },
+  {
+    "id": 619681,
+    "datetime": "2025-12-29 13:43:58 +01:00",
+    "name": "29 december 13.40, Trafikolycka, Kristinehamn",
+    "summary": "En bilist har kört på en fotgängare i Jakobsberg",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-13.40-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 619680,
+    "datetime": "2025-12-29 13:34:49 +01:00",
+    "name": "29 december 13.20, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-13.20-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 619679,
+    "datetime": "2025-12-29 13:34:41 +01:00",
+    "name": "29 december 11.13, Rattfylleri, Örebro",
+    "summary": "En bilist är misstänkt för brott",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-11.13-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 619673,
+    "datetime": "2025-12-29 12:46:17 +01:00",
+    "name": "29 december 12.28, Trafikolycka, Örebro",
+    "summary": "Polis är på plats vid en flerbilskollision på E20, i höjd med Mosås",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-12.28-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 619678,
+    "datetime": "2025-12-29 13:19:08 +01:00",
+    "name": "29 december 11.35, Trafikolycka, smitning från, Motala",
+    "summary": "Smitning från trafikolycksplats",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-11.35-trafikolycka-smitning-fran-motala/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Motala",
+      "gps": "58.538034,15.047094"
+    }
+  },
+  {
+    "id": 619672,
+    "datetime": "2025-12-29 13:18:31 +01:00",
+    "name": "29 december 12.06, Misshandel, Ronneby",
+    "summary": "Larm om misshandel i lägenhet",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-12.06-misshandel-ronneby/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
+    "id": 619677,
+    "datetime": "2025-12-29 13:18:16 +01:00",
+    "name": "29 december 09.11, Sammanfattning natt, Finspång",
+    "summary": "Misshandel i relation, Finspång",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-09.11-sammanfattning-natt-finspang/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Finspång",
+      "gps": "58.707488,15.773595"
+    }
+  },
+  {
+    "id": 619400,
+    "datetime": "2025-12-25 17:36:02 +01:00",
+    "name": "25 december 11.56, Mord/dråp, Boden",
+    "summary": "Sanden, polis beordras till en adress med anledning av en misstänkt misshandel i en bostad",
+    "url": "/aktuellt/handelser/2025/december/25/25-december-11.56-morddrap-boden/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Boden",
+      "gps": "65.825119,21.688703"
+    }
+  },
+  {
     "id": 619665,
     "datetime": "2025-12-29 10:51:47 +01:00",
     "name": "29 december 10.06, Trafikhinder, Lund",
@@ -1545,18 +1653,6 @@
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 619400,
-    "datetime": "2025-12-25 17:36:02 +01:00",
-    "name": "25 december 11.56, Mord/dråp, Boden",
-    "summary": "Sanden, polis beordras till en adress med anledning av en misstänkt misshandel i en bostad",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-11.56-morddrap-boden/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Boden",
-      "gps": "65.825119,21.688703"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Värnamo",
       "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 618016,
-    "datetime": "2025-12-21 7:34:18 +01:00",
-    "name": "21 december 06.47, Trafikolycka, Skellefteå",
-    "summary": "Riksväg 95, en bilist har voltat väster om Skellefteå",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-06.47-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 618047,
-    "datetime": "2025-12-21 14:10:34 +01:00",
-    "name": "21 december 11.38, Rattfylleri, Västerås",
-    "summary": "Förare misstänkt för grovt rattfylleri.",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-11.38-rattfylleri-vasteras/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 618046,
-    "datetime": "2025-12-21 14:10:18 +01:00",
-    "name": "21 december 12.55, Trafikbrott, Järfälla",
-    "summary": "Fordonsförare i Kallhäll rapporteras för olovlig körning.",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-12.55-trafikbrott-jarfalla/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Järfälla",
-      "gps": "59.410065,17.836804"
-    }
-  },
-  {
-    "id": 618039,
-    "datetime": "2025-12-21 13:42:36 +01:00",
-    "name": "21 december 12.23, Trafikolycka, personskada, Uppsala",
-    "summary": "Bil har kört av vägen på länsväg 590.",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-12.23-trafikolycka-personskada-uppsala/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 618038,
-    "datetime": "2025-12-21 13:41:49 +01:00",
-    "name": "21 december 12.14, Trafikolycka, personskada, Enköping",
-    "summary": "Trafikolycka i Lillkyrka.",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-12.14-trafikolycka-personskada-enkoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 618043,
-    "datetime": "2025-12-21 13:25:19 +01:00",
-    "name": "21 december 13.20, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-13.20-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 618041,
-    "datetime": "2025-12-21 12:50:17 +01:00",
-    "name": "21 december 11.30, Rån, Åstorp",
-    "summary": "Rån i bostad, Hyllinge",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-11.30-ran-astorp/",
-    "type": "Rån",
-    "location": {
-      "name": "Åstorp",
-      "gps": "56.134262,12.945908"
-    }
-  },
-  {
-    "id": 618037,
-    "datetime": "2025-12-21 11:28:40 +01:00",
-    "name": "21 december 11.02, Trafikolycka, Motala",
-    "summary": "Två bilar i olycka på landsväg.",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-11.02-trafikolycka-motala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Motala",
-      "gps": "58.538034,15.047094"
     }
   }
 ]
