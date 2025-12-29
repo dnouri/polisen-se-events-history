@@ -1,5 +1,65 @@
 [
   {
+    "id": 619727,
+    "datetime": "2025-12-29 21:15:48 +01:00",
+    "name": "29 december 21.15, Trafikbrott, Örnsköldsvik",
+    "summary": "Örnsköldsvik, resultat från två kontroller i trafiken.",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-21.15-trafikbrott-ornskoldsvik/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 619726,
+    "datetime": "2025-12-29 21:01:03 +01:00",
+    "name": "29 december 20.16, Trafikbrott, Umeå",
+    "summary": "Umeå, trafikbrott Öst på stan.",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-20.16-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 619720,
+    "datetime": "2025-12-29 20:12:00 +01:00",
+    "name": "29 december 19.59, Brand, Jönköping",
+    "summary": "Brand i uthus.",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-19.59-brand-jonkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 619725,
+    "datetime": "2025-12-29 20:48:38 +01:00",
+    "name": "29 december 16.14, Misshandel, Pajala",
+    "summary": "Pajala, man anhållen misstänkt för grov misshandel.",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-16.14-misshandel-pajala/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Pajala",
+      "gps": "67.212782,23.367392"
+    }
+  },
+  {
+    "id": 619717,
+    "datetime": "2025-12-29 18:50:35 +01:00",
+    "name": "29 december 18.34, Brand, Uddevalla",
+    "summary": "Larm om brand i villa.",
+    "url": "/aktuellt/handelser/2025/december/29/29-december-18.34-brand-uddevalla/",
+    "type": "Brand",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
     "id": 619724,
     "datetime": "2025-12-29 20:38:45 +01:00",
     "name": "29 december 18.38, Misshandel, Åre",
@@ -48,18 +108,6 @@
     }
   },
   {
-    "id": 619720,
-    "datetime": "2025-12-29 20:12:00 +01:00",
-    "name": "29 december 19.59, Brand, Jönköping",
-    "summary": "Brand i uthus.",
-    "url": "/aktuellt/handelser/2025/december/29/29-december-19.59-brand-jonkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
     "id": 619719,
     "datetime": "2025-12-29 19:57:31 +01:00",
     "name": "29 december 19.02, Arbetsplatsolycka, Varberg",
@@ -81,18 +129,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 619717,
-    "datetime": "2025-12-29 18:50:35 +01:00",
-    "name": "29 december 18.34, Brand, Uddevalla",
-    "summary": "Larm om brand i villa.",
-    "url": "/aktuellt/handelser/2025/december/29/29-december-18.34-brand-uddevalla/",
-    "type": "Brand",
-    "location": {
-      "name": "Uddevalla",
-      "gps": "58.3498,11.935649"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholm",
       "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 618069,
-    "datetime": "2025-12-22 7:10:12 +01:00",
-    "name": "22 december 06.15, Rattfylleri, Västervik",
-    "summary": "Misttänkt rattfylleri i Brevik.",
-    "url": "/aktuellt/handelser/2025/december/22/22-december-06.15-rattfylleri-vastervik/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västervik",
-      "gps": "57.757716,16.636976"
-    }
-  },
-  {
-    "id": 618067,
-    "datetime": "2025-12-22 7:06:36 +01:00",
-    "name": "22 december 03.32, Stöld/inbrott, Höganäs",
-    "summary": "Inbrott i företagslokal.",
-    "url": "/aktuellt/handelser/2025/december/22/22-december-03.32-stoldinbrott-hoganas/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Höganäs",
-      "gps": "56.200639,12.555329"
-    }
-  },
-  {
-    "id": 618066,
-    "datetime": "2025-12-22 7:04:41 +01:00",
-    "name": "21 december 22.48, Trafikolycka, Helsingborg",
-    "summary": "Singelolycka vid korsningen Regementsvägen/Vasatorpsvägen.",
-    "url": "/aktuellt/handelser/2025/december/21/21-december-22.48-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Helsingborg",
-      "gps": "56.046467,12.694512"
     }
   }
 ]
