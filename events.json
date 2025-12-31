@@ -1,5 +1,29 @@
 [
   {
+    "id": 619778,
+    "datetime": "2025-12-30 11:01:26 +01:00",
+    "name": "30 december 09.31, Brand, Kramfors",
+    "summary": "Mjällom, larm om brand i byggnad",
+    "url": "/aktuellt/handelser/2025/december/30/30-december-09.31-brand-kramfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Kramfors",
+      "gps": "62.928433,17.786295"
+    }
+  },
+  {
+    "id": 619853,
+    "datetime": "2025-12-31 14:43:08 +01:00",
+    "name": "31 december 13.49, Trafikolycka, personskada, Arvika",
+    "summary": "En kvinna har blivit påkörd av en bil i anslutning till en stormarknadsparkering i Arvika.",
+    "url": "/aktuellt/handelser/2025/december/31/31-december-13.49-trafikolycka-personskada-arvika/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Arvika",
+      "gps": "59.654853,12.592136"
+    }
+  },
+  {
     "id": 619852,
     "datetime": "2025-12-31 13:46:44 +01:00",
     "name": "31 december 13.34, Trafikolycka, personskada, Västerås",
@@ -9,6 +33,42 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 619856,
+    "datetime": "2025-12-31 14:45:36 +01:00",
+    "name": "31 december 09.45, Rattfylleri, Nordanstig",
+    "summary": "Trafikpoliser fick stopp på drograttfull efter förföljelse.",
+    "url": "/aktuellt/handelser/2025/december/31/31-december-09.45-rattfylleri-nordanstig/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Nordanstig",
+      "gps": "62.036668,17.205249"
+    }
+  },
+  {
+    "id": 619855,
+    "datetime": "2025-12-31 14:45:15 +01:00",
+    "name": "31 december 14.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2025/december/31/31-december-14.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 619854,
+    "datetime": "2025-12-31 14:45:11 +01:00",
+    "name": "31 december 14.45, Övrigt, Hallands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2025/december/31/31-december-14.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -621,18 +681,6 @@
     "location": {
       "name": "Oskarshamn",
       "gps": "57.265699,16.447398"
-    }
-  },
-  {
-    "id": 619778,
-    "datetime": "2025-12-30 11:01:26 +01:00",
-    "name": "30 december 09.31, Brand, Kramfors",
-    "summary": "Mjällom, larm om brand i byggnad",
-    "url": "/aktuellt/handelser/2025/december/30/30-december-09.31-brand-kramfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Kramfors",
-      "gps": "62.928433,17.786295"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Arboga",
       "gps": "59.393688,15.838175"
-    }
-  },
-  {
-    "id": 619228,
-    "datetime": "2025-12-23 7:58:06 +01:00",
-    "name": "23 december 00.05, Stöld, Västerås",
-    "summary": "Stulna julklappar anträffades av allmänhet.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-00.05-stold-vasteras/",
-    "type": "Stöld",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 619215,
-    "datetime": "2025-12-23 7:27:23 +01:00",
-    "name": "23 december 06.48, Sammanfattning natt, Jönköpings län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-06.48-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 619222,
-    "datetime": "2025-12-23 7:54:00 +01:00",
-    "name": "23 december 02.50, Rattfylleri, Ronneby",
-    "summary": "Misstänkt drograttfylleri på E22, i höjd med Djupafors.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-02.50-rattfylleri-ronneby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ronneby",
-      "gps": "56.210434,15.276023"
-    }
-  },
-  {
-    "id": 619208,
-    "datetime": "2025-12-23 7:53:13 +01:00",
-    "name": "22 december 23.23, Stöld, försök, Markaryd",
-    "summary": "Person försöker stjäla bränsle på E4:an, i höjd med Traryd.",
-    "url": "/aktuellt/handelser/2025/december/23/22-december-23.23-stold-forsok-markaryd/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Markaryd",
-      "gps": "56.461774,13.596274"
     }
   }
 ]
