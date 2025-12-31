@@ -1,5 +1,53 @@
 [
   {
+    "id": 619844,
+    "datetime": "2025-12-31 10:29:47 +01:00",
+    "name": "31 december 05.30, Brand, Gävle",
+    "summary": "En till sjukhus efter lägenhetsbrand.",
+    "url": "/aktuellt/handelser/2025/december/31/31-december-05.30-brand-gavle/",
+    "type": "Brand",
+    "location": {
+      "name": "Gävle",
+      "gps": "60.67488,17.141273"
+    }
+  },
+  {
+    "id": 619830,
+    "datetime": "2025-12-31 7:19:33 +01:00",
+    "name": "31 december 07.19, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
+    "url": "/aktuellt/handelser/2025/december/31/31-december-07.19-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 619843,
+    "datetime": "2025-12-31 10:15:56 +01:00",
+    "name": "31 december 07.29, Inbrott, försök, Västerås",
+    "summary": "Boende överraskade inbrottstjuv.",
+    "url": "/aktuellt/handelser/2025/december/31/31-december-07.29-inbrott-forsok-vasteras/",
+    "type": "Inbrott, försök",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 619842,
+    "datetime": "2025-12-31 9:51:44 +01:00",
+    "name": "30 december 17.01, Sjukdom/olycksfall, Hudiksvall",
+    "summary": "Man fick träd över sig.",
+    "url": "/aktuellt/handelser/2025/december/30/30-december-17.01-sjukdomolycksfall-hudiksvall/",
+    "type": "Sjukdom/olycksfall",
+    "location": {
+      "name": "Hudiksvall",
+      "gps": "61.727391,17.107401"
+    }
+  },
+  {
     "id": 619841,
     "datetime": "2025-12-31 9:30:22 +01:00",
     "name": "31 december 03.50, Misshandel, grov, Söderhamn",
@@ -15,7 +63,7 @@
     "id": 619840,
     "datetime": "2025-12-31 8:53:31 +01:00",
     "name": "31 december 08.46, Trafikolycka, Lund",
-    "summary": "Larm om trafikolycka på riksväg 11, Dalby",
+    "summary": "Larm om ett flertal trafikolyckor på riksväg 11, Dalby",
     "url": "/aktuellt/handelser/2025/december/31/31-december-08.46-trafikolycka-lund/",
     "type": "Trafikolycka",
     "location": {
@@ -165,18 +213,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 619830,
-    "datetime": "2025-12-31 7:19:33 +01:00",
-    "name": "31 december 07.19, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
-    "url": "/aktuellt/handelser/2025/december/31/31-december-07.19-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 619220,
-    "datetime": "2025-12-23 7:26:39 +01:00",
-    "name": "23 december 07.26, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-07.26-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 619223,
-    "datetime": "2025-12-23 7:26:21 +01:00",
-    "name": "23 december 07.26, Sammanfattning natt, Södermanlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-07.26-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 619221,
-    "datetime": "2025-12-23 7:18:04 +01:00",
-    "name": "23 december 05.08, Stöld, Södertälje",
-    "summary": "En man greps misstänkt för stöld i en butikslokal i Södertälje.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-05.08-stold-sodertalje/",
-    "type": "Stöld",
-    "location": {
-      "name": "Södertälje",
-      "gps": "59.195363,17.625689"
     }
   }
 ]
