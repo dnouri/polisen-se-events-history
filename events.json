@@ -1,5 +1,101 @@
 [
   {
+    "id": 619925,
+    "datetime": "2026-01-01 13:51:43 +01:00",
+    "name": "01 januari 13.46, Trafikbrott, Uppsala",
+    "summary": "Bil kör i fel färdriktning på E4.",
+    "url": "/aktuellt/handelser/2026/januari/1/01-januari-13.46-trafikbrott-uppsala/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 619924,
+    "datetime": "2026-01-01 13:37:43 +01:00",
+    "name": "01 januari 10.09, Olaga hot, Filipstad",
+    "summary": "En man i femtioårsåldern har gripits misstänkt för olaga hot.",
+    "url": "/aktuellt/handelser/2026/januari/1/01-januari-10.09-olaga-hot-filipstad/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Filipstad",
+      "gps": "59.713997,14.169845"
+    }
+  },
+  {
+    "id": 619923,
+    "datetime": "2026-01-01 13:37:24 +01:00",
+    "name": "01 januari 12.46, Trafikolycka, personskada, Enköping",
+    "summary": "Körde på bil bakifrån.",
+    "url": "/aktuellt/handelser/2026/januari/1/01-januari-12.46-trafikolycka-personskada-enkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Enköping",
+      "gps": "59.635691,17.077823"
+    }
+  },
+  {
+    "id": 619922,
+    "datetime": "2026-01-01 13:29:48 +01:00",
+    "name": "01 januari 06.10, Misshandel, Kristinehamn",
+    "summary": "En man i trettioårsåldern har gripits misstänkt för misshandel.",
+    "url": "/aktuellt/handelser/2026/januari/1/01-januari-06.10-misshandel-kristinehamn/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Kristinehamn",
+      "gps": "59.310068,14.108919"
+    }
+  },
+  {
+    "id": 619918,
+    "datetime": "2026-01-01 13:00:32 +01:00",
+    "name": "01 januari 12.45, Trafikolycka, Vaggeryd",
+    "summary": "Fordon har kört in i viltstängsel",
+    "url": "/aktuellt/handelser/2026/januari/1/01-januari-12.45-trafikolycka-vaggeryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Vaggeryd",
+      "gps": "57.498962,14.14863"
+    }
+  },
+  {
+    "id": 619921,
+    "datetime": "2026-01-01 13:14:41 +01:00",
+    "name": "01 januari 06.48, Misshandel, Borlänge",
+    "summary": "En kvinna i trettiofemårsåldern och en man i fyrtiofemårsåldern misstänks för misshandel och barnfridsbrott.",
+    "url": "/aktuellt/handelser/2026/januari/1/01-januari-06.48-misshandel-borlange/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
+    }
+  },
+  {
+    "id": 619920,
+    "datetime": "2026-01-01 13:14:17 +01:00",
+    "name": "01 januari 13.00, Trafikolycka, Karlshamn",
+    "summary": "Singelolycka på Halasjövägen.",
+    "url": "/aktuellt/handelser/2026/januari/1/01-januari-13.00-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlshamn",
+      "gps": "56.170303,14.863073"
+    }
+  },
+  {
+    "id": 619911,
+    "datetime": "2026-01-01 10:58:43 +01:00",
+    "name": "01 januari 10.47, Trafikolycka, personskada, Värnamo",
+    "summary": "Personbil har voltat",
+    "url": "/aktuellt/handelser/2026/januari/1/01-januari-10.47-trafikolycka-personskada-varnamo/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Värnamo",
+      "gps": "57.183161,14.047821"
+    }
+  },
+  {
     "id": 619912,
     "datetime": "2026-01-01 11:25:35 +01:00",
     "name": "01 januari 11.14, Trafikolycka, singel, Stockholm",
@@ -81,18 +177,6 @@
     "location": {
       "name": "Sundbyberg",
       "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 619911,
-    "datetime": "2026-01-01 10:58:43 +01:00",
-    "name": "01 januari 10.47, Trafikolycka, personskada, Värnamo",
-    "summary": "Personbil har voltat",
-    "url": "/aktuellt/handelser/2026/januari/1/01-januari-10.47-trafikolycka-personskada-varnamo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 619320,
-    "datetime": "2025-12-24 7:10:56 +01:00",
-    "name": "24 december 07.10, Sammanfattning natt, Örebro län",
-    "summary": "Natt till onsdag i Polisområde Örebro.",
-    "url": "/aktuellt/handelser/2025/december/24/24-december-072.10-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 619318,
-    "datetime": "2025-12-24 7:10:53 +01:00",
-    "name": "24 december 07.10, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till onsdag i Polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2025/december/24/24-december-07.10-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 619317,
-    "datetime": "2025-12-24 7:10:51 +01:00",
-    "name": "24 december 07.10, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till onsdag i Polisområde Värmland.",
-    "url": "/aktuellt/handelser/2025/december/24/24-december-07.10-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 619316,
-    "datetime": "2025-12-24 7:10:45 +01:00",
-    "name": "23 december 21.17, Rattfylleri, Surahammar",
-    "summary": "Man körde bil med narkotika i kroppen.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-21.17-rattfylleri-surahammar/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Surahammar",
-      "gps": "59.707226,16.226841"
-    }
-  },
-  {
-    "id": 619314,
-    "datetime": "2025-12-24 7:07:20 +01:00",
-    "name": "23 december 23.30, Stöld/inbrott, Enköping",
-    "summary": "Inbrott i en företagslokal i Örsundsbro.",
-    "url": "/aktuellt/handelser/2025/december/23/23-december-23.30-stoldinbrott-enkoping/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 619306,
-    "datetime": "2025-12-24 7:05:10 +01:00",
-    "name": "24 december 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats och önskar er en god jul.",
-    "url": "/aktuellt/handelser/2025/december/24/24-december-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 619312,
-    "datetime": "2025-12-24 7:04:53 +01:00",
-    "name": "24 december 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats och önskar er en god jul.",
-    "url": "/aktuellt/handelser/2025/december/24/24-december-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
