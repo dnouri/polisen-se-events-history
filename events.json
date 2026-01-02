@@ -1,5 +1,53 @@
 [
   {
+    "id": 620007,
+    "datetime": "2026-01-02 18:19:09 +01:00",
+    "name": "02 januari 17.46, Trafikolycka, Hylte",
+    "summary": "Trafikolycka på länsväg 718, norr om Torup.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-17.46-trafikolycka-hylte/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hylte",
+      "gps": "56.977313,13.338766"
+    }
+  },
+  {
+    "id": 620006,
+    "datetime": "2026-01-02 18:08:41 +01:00",
+    "name": "02 januari 17.43, Trafikolycka, Halmstad",
+    "summary": "Olycka på E6 i höjd med Trönninge, norrgåend riktning.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-17.43-trafikolycka-halmstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 620005,
+    "datetime": "2026-01-02 18:06:42 +01:00",
+    "name": "02 januari 18.00, Trafikolycka, Sävsjö",
+    "summary": "Singelolycka på landsväg.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-18.00-trafikolycka-savsjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sävsjö",
+      "gps": "57.398996,14.665814"
+    }
+  },
+  {
+    "id": 619998,
+    "datetime": "2026-01-02 15:53:31 +01:00",
+    "name": "02 januari 15.46, Övrigt, Karlstad",
+    "summary": "Polis har varit på plats i Mitt i city med anledning av ett ofredande",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-15.46-ovrigt-karlstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
     "id": 620000,
     "datetime": "2026-01-02 16:06:42 +01:00",
     "name": "02 januari 15.54, Trafikolycka, Karlskoga",
@@ -60,18 +108,6 @@
     }
   },
   {
-    "id": 619984,
-    "datetime": "2026-01-02 12:45:29 +01:00",
-    "name": "02 januari 12.10, Trafikolycka, Skellefteå",
-    "summary": "E4, trafikolycka vid Önnesmark.",
-    "url": "/aktuellt/handelser/2026/januari/2/02-januari-12.10-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
     "id": 619997,
     "datetime": "2026-01-02 15:46:33 +01:00",
     "name": "02 januari 15.33, Trafikhinder, Rättvik",
@@ -105,18 +141,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 619998,
-    "datetime": "2026-01-02 15:53:31 +01:00",
-    "name": "02 januari 15.46, Övrigt, Karlstad",
-    "summary": "Polis har varit på plats i Mitt i city med anledning av ett ofredande",
-    "url": "/aktuellt/handelser/2026/januari/2/02-januari-15.46-ovrigt-karlstad/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Sundbyberg",
       "gps": "59.367047,17.966309"
-    }
-  },
-  {
-    "id": 619374,
-    "datetime": "2025-12-25 7:20:44 +01:00",
-    "name": "25 december 07.10, Stöld, Falun",
-    "summary": "Grov stöld genom inbrott.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-07.10-stold-falun/",
-    "type": "Stöld",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
-    }
-  },
-  {
-    "id": 619359,
-    "datetime": "2025-12-25 7:19:36 +01:00",
-    "name": "25 december 07.19, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-07.19-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
