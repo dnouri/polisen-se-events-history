@@ -1,5 +1,53 @@
 [
   {
+    "id": 620000,
+    "datetime": "2026-01-02 16:06:42 +01:00",
+    "name": "02 januari 15.54, Trafikolycka, Karlskoga",
+    "summary": "Det råder stopp i trafiken på E18/Tolenvägen, i riktning mot Örebro",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-15.54-trafikolycka-karlskoga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 620003,
+    "datetime": "2026-01-02 17:18:20 +01:00",
+    "name": "02 januari 16.27, Brand, Östersund",
+    "summary": "Brand i garagelänga på Körfältet.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-16.27-brand-ostersund/",
+    "type": "Brand",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
+    "id": 620002,
+    "datetime": "2026-01-02 16:59:44 +01:00",
+    "name": "02 januari 15.26, Misshandel, grov, Mariestad",
+    "summary": "Allmänhet larmar polisen om en misshandel på Nya Torget.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-15.26-misshandel-grov-mariestad/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Mariestad",
+      "gps": "58.710112,13.821333"
+    }
+  },
+  {
+    "id": 620001,
+    "datetime": "2026-01-02 16:51:32 +01:00",
+    "name": "02 januari 16.18, Trafikolycka, Nyköping",
+    "summary": "Frontalkrock i Nyköping.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-16.18-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nyköping",
+      "gps": "58.752844,17.009159"
+    }
+  },
+  {
     "id": 619400,
     "datetime": "2025-12-25 17:36:02 +01:00",
     "name": "25 december 11.56, Mord/dråp, Boden",
@@ -33,18 +81,6 @@
     "location": {
       "name": "Rättvik",
       "gps": "60.889025,15.123373"
-    }
-  },
-  {
-    "id": 620000,
-    "datetime": "2026-01-02 16:06:42 +01:00",
-    "name": "02 januari 15.54, Trafikolycka, Karlskoga",
-    "summary": "Det råder stopp i trafiken på E18/Tolenvägen, i riktning mot Örebro",
-    "url": "/aktuellt/handelser/2026/januari/2/02-januari-15.54-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlskoga",
-      "gps": "59.328634,14.536414"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 619373,
-    "datetime": "2025-12-25 7:19:31 +01:00",
-    "name": "25 december 03.38, Rattfylleri, Vallentuna",
-    "summary": "En bilförare som kontrolleras på Industrivägen misstänks för rattfylleri och tas med för provtagning.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-03.38-rattfylleri-vallentuna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Vallentuna",
-      "gps": "59.5357,18.078017"
-    }
-  },
-  {
-    "id": 619372,
-    "datetime": "2025-12-25 7:19:20 +01:00",
-    "name": "25 december 07.19, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-07.19-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 619367,
-    "datetime": "2025-12-25 7:18:20 +01:00",
-    "name": "25 december 07.18, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-07.18-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
