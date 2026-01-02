@@ -1,14 +1,74 @@
 [
   {
-    "id": 620011,
-    "datetime": "2026-01-02 19:19:37 +01:00",
-    "name": "02 januari 18.47, Trafikolycka, Borlänge",
-    "summary": "En lastbil är inblandad i en singelolycka på E16/riksväg 50 i Ornäs",
-    "url": "/aktuellt/handelser/2026/januari/2/02-januari-18.47-trafikolycka-borlange/",
+    "id": 620016,
+    "datetime": "2026-01-02 20:08:30 +01:00",
+    "name": "02 januari 16.28, Fylleri/LOB, Hammarö",
+    "summary": "En man i 35-årsåldern misstänks för brott",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-16.28-fyllerilob-hammaro/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Hammarö",
+      "gps": "59.311466,13.529854"
+    }
+  },
+  {
+    "id": 620015,
+    "datetime": "2026-01-02 20:05:57 +01:00",
+    "name": "02 januari 19.34, Olovlig körning, Torsby",
+    "summary": "En bilist är misstänkt för brott",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-19.34-olovlig-korning-torsby/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
+    "id": 620014,
+    "datetime": "2026-01-02 19:56:53 +01:00",
+    "name": "02 januari 18.30, Misshandel, Linköping",
+    "summary": "Bråk på buss i Linköping.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-18.30-misshandel-linkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 620013,
+    "datetime": "2026-01-02 19:49:54 +01:00",
+    "name": "02 januari 19.13, Trafikolycka, Härnösand",
+    "summary": "Singelolycka på E4 Ytterfälle, Härnösand.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-19.13-trafikolycka-harnosand/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 620005,
+    "datetime": "2026-01-02 18:06:42 +01:00",
+    "name": "02 januari 18.00, Trafikolycka, Sävsjö",
+    "summary": "Singelolycka på landsväg.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-18.00-trafikolycka-savsjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sävsjö",
+      "gps": "57.398996,14.665814"
+    }
+  },
+  {
+    "id": 620012,
+    "datetime": "2026-01-02 19:43:08 +01:00",
+    "name": "02 januari 13.18, Stöld, Sundsvall",
+    "summary": "Man greps misstänkt för stöld.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-13.18-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
     }
   },
   {
@@ -21,6 +81,18 @@
     "location": {
       "name": "Linköping",
       "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 620011,
+    "datetime": "2026-01-02 19:19:37 +01:00",
+    "name": "02 januari 18.47, Trafikolycka, Borlänge",
+    "summary": "En lastbil är inblandad i en singelolycka på E16/riksväg 50 i Ornäs",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-18.47-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -81,18 +153,6 @@
     "location": {
       "name": "Halmstad",
       "gps": "56.674375,12.857789"
-    }
-  },
-  {
-    "id": 620005,
-    "datetime": "2026-01-02 18:06:42 +01:00",
-    "name": "02 januari 18.00, Trafikolycka, Sävsjö",
-    "summary": "Singelolycka på landsväg.",
-    "url": "/aktuellt/handelser/2026/januari/2/02-januari-18.00-trafikolycka-savsjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sävsjö",
-      "gps": "57.398996,14.665814"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 619382,
-    "datetime": "2025-12-25 8:51:21 +01:00",
-    "name": "24 december 22.18, Stöld/inbrott, Surahammar",
-    "summary": "Inbrott i en villa.",
-    "url": "/aktuellt/handelser/2025/december/24/24-december-22.18-stoldinbrott-surahammar/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Surahammar",
-      "gps": "59.707226,16.226841"
-    }
-  },
-  {
-    "id": 619381,
-    "datetime": "2025-12-25 8:51:05 +01:00",
-    "name": "25 december 06.24, Stöld, Malmö",
-    "summary": "Stöld av batteri från elcykel.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-06.24-stold-malmo/",
-    "type": "Stöld",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 619380,
-    "datetime": "2025-12-25 8:43:05 +01:00",
-    "name": "25 december 08.42, Trafikolycka, vilt, Norrbottens län",
-    "summary": "Vilt- och renolyckor anmälda till polisens ledningscentral",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-08.42-trafikolycka-vilt-norrbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 619379,
-    "datetime": "2025-12-25 8:26:49 +01:00",
-    "name": "25 december 08.23, Rattfylleri, Ludvika",
-    "summary": "Misstänkt påverkad bilist kontrollerad i Ludvika.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-08.23-rattfylleri-ludvika/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Ludvika",
-      "gps": "60.152358,15.191639"
-    }
-  },
-  {
-    "id": 619370,
-    "datetime": "2025-12-25 7:47:46 +01:00",
-    "name": "25 december 01.41, Övrigt, Uppsala",
-    "summary": "Omhändertagen man fick hjärtstopp i arresten.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-01.41-ovrigt-uppsala/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
     }
   }
 ]
