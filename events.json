@@ -1,5 +1,17 @@
 [
   {
+    "id": 619984,
+    "datetime": "2026-01-02 12:45:29 +01:00",
+    "name": "02 januari 12.10, Trafikolycka, Skellefteå",
+    "summary": "E4, trafikolycka vid Önnesmark.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-12.10-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 619997,
     "datetime": "2026-01-02 15:46:33 +01:00",
     "name": "02 januari 15.33, Trafikhinder, Rättvik",
@@ -12,15 +24,27 @@
     }
   },
   {
-    "id": 619990,
-    "datetime": "2026-01-02 14:31:13 +01:00",
-    "name": "02 januari 14.08, Trafikolycka, Salem",
-    "summary": "Polis och räddningstjänst kallas till E4:an mellan Salem och Hallunda i riktning Stockholm.",
-    "url": "/aktuellt/handelser/2026/januari/2/02-januari-14.08-trafikolycka-salem/",
+    "id": 620000,
+    "datetime": "2026-01-02 16:06:42 +01:00",
+    "name": "02 januari 15.54, Trafikolycka, Karlskoga",
+    "summary": "Det råder stopp i trafiken på E18/Tolenvägen, i riktning mot Örebro",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-15.54-trafikolycka-karlskoga/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Salem",
-      "gps": "59.20768,17.774222"
+      "name": "Karlskoga",
+      "gps": "59.328634,14.536414"
+    }
+  },
+  {
+    "id": 619999,
+    "datetime": "2026-01-02 16:06:27 +01:00",
+    "name": "02 januari 08.58, Rattfylleri, Krokom",
+    "summary": "Krokom, man misstänks för flertalet brott.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-08.58-rattfylleri-krokom/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Krokom",
+      "gps": "63.326242,14.448654"
     }
   },
   {
@@ -33,6 +57,30 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 619998,
+    "datetime": "2026-01-02 15:53:31 +01:00",
+    "name": "02 januari 15.46, Övrigt, Karlstad",
+    "summary": "Polis har varit på plats i Mitt i city med anledning av ett ofredande",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-15.46-ovrigt-karlstad/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 619990,
+    "datetime": "2026-01-02 14:31:13 +01:00",
+    "name": "02 januari 14.08, Trafikolycka, Salem",
+    "summary": "Polis och räddningstjänst kallas till E4:an mellan Salem och Hallunda i riktning Stockholm.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-14.08-trafikolycka-salem/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Salem",
+      "gps": "59.20768,17.774222"
     }
   },
   {
@@ -81,18 +129,6 @@
     "location": {
       "name": "Haparanda",
       "gps": "65.841709,24.127664"
-    }
-  },
-  {
-    "id": 619984,
-    "datetime": "2026-01-02 12:45:29 +01:00",
-    "name": "02 januari 12.10, Trafikolycka, Skellefteå",
-    "summary": "E4, trafikolycka vid Önnesmark.",
-    "url": "/aktuellt/handelser/2026/januari/2/02-januari-12.10-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 619362,
-    "datetime": "2025-12-25 7:16:35 +01:00",
-    "name": "25 december 07.15, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-07.15-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 619361,
-    "datetime": "2025-12-25 7:16:24 +01:00",
-    "name": "25 december 07.15, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-07.15-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 619363,
-    "datetime": "2025-12-25 7:16:11 +01:00",
-    "name": "25 december 07.15, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-07.15-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
