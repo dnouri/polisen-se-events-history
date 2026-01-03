@@ -1,5 +1,89 @@
 [
   {
+    "id": 620031,
+    "datetime": "2026-01-03 6:48:04 +01:00",
+    "name": "03 januari 04.19, Mordbrand, Stockholm",
+    "summary": "Polisen har inlett en brottsutredning om mordbrand i samband med en lägenhetsbrand på Kungsholmen.",
+    "url": "/aktuellt/handelser/2026/januari/3/03-januari-04.19-mordbrand-stockholm/",
+    "type": "Mordbrand",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 620065,
+    "datetime": "2026-01-03 13:24:23 +01:00",
+    "name": "03 januari 13.16, Trafikolycka, Örkelljunga",
+    "summary": "Trafikolycka på E4 vid Åsljunga.",
+    "url": "/aktuellt/handelser/2026/januari/3/03-januari-13.16-trafikolycka-orkelljunga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örkelljunga",
+      "gps": "56.283635,13.278832"
+    }
+  },
+  {
+    "id": 620064,
+    "datetime": "2026-01-03 13:20:01 +01:00",
+    "name": "03 januari 13.01, Trafikkontroll, Älvdalen",
+    "summary": "Skoterolycka norr om Särna.",
+    "url": "/aktuellt/handelser/2026/januari/3/03-januari-13.01-trafikkontroll-alvdalen/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Älvdalen",
+      "gps": "61.227306,14.041987"
+    }
+  },
+  {
+    "id": 620063,
+    "datetime": "2026-01-03 13:17:18 +01:00",
+    "name": "03 januari 13.01, Trafikolycka, Burlöv",
+    "summary": "Singelolycka på riksväg 11 vid trafikplats Sunnan å.",
+    "url": "/aktuellt/handelser/2026/januari/3/03-januari-13.01-trafikolycka-burlov/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Burlöv",
+      "gps": "55.631913,13.096379"
+    }
+  },
+  {
+    "id": 620056,
+    "datetime": "2026-01-03 12:29:23 +01:00",
+    "name": "03 januari 11.25, Trafikolycka, Mjölby",
+    "summary": "11.25 larmas SOS om en trafikolycka mellan två fordon i Mjölby.",
+    "url": "/aktuellt/handelser/2026/januari/3/03-januari-11.25-trafikolycka-mjolby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Mjölby",
+      "gps": "58.322691,15.133535"
+    }
+  },
+  {
+    "id": 620062,
+    "datetime": "2026-01-03 12:49:09 +01:00",
+    "name": "03 januari 11.03, Misshandel, Helsingborg",
+    "summary": "Misshandel på Gustav Adolfs torg.",
+    "url": "/aktuellt/handelser/2026/januari/3/03-januari-11.03-misshandel-helsingborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Helsingborg",
+      "gps": "56.046467,12.694512"
+    }
+  },
+  {
+    "id": 620052,
+    "datetime": "2026-01-03 11:20:17 +01:00",
+    "name": "03 januari 10.56, Trafikolycka, Skellefteå",
+    "summary": "Skellefteå, trafikolycka i Klemensnäs.",
+    "url": "/aktuellt/handelser/2026/januari/3/03-januari-10.56-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skellefteå",
+      "gps": "64.750244,20.950917"
+    }
+  },
+  {
     "id": 620061,
     "datetime": "2026-01-03 12:44:16 +01:00",
     "name": "03 januari 09.45, Miljöbrott, Nynäshamn",
@@ -60,18 +144,6 @@
     }
   },
   {
-    "id": 620056,
-    "datetime": "2026-01-03 12:29:23 +01:00",
-    "name": "03 januari 11.25, Trafikolycka, Mjölby",
-    "summary": "11.25 larmas SOS om en trafikolycka mellan två fordon i Mjölby.",
-    "url": "/aktuellt/handelser/2026/januari/3/03-januari-11.25-trafikolycka-mjolby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Mjölby",
-      "gps": "58.322691,15.133535"
-    }
-  },
-  {
     "id": 620054,
     "datetime": "2026-01-03 12:15:03 +01:00",
     "name": "03 januari 11.57, Trafikolycka, singel, Örebro",
@@ -81,18 +153,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 620052,
-    "datetime": "2026-01-03 11:20:17 +01:00",
-    "name": "03 januari 10.56, Trafikolycka, Skellefteå",
-    "summary": "Skellefteå, trafikolycka i Klemensnäs.",
-    "url": "/aktuellt/handelser/2026/januari/3/03-januari-10.56-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
     }
   },
   {
@@ -357,18 +417,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 620031,
-    "datetime": "2026-01-03 6:48:04 +01:00",
-    "name": "03 januari 04.19, Mordbrand, Stockholm",
-    "summary": "Polisen har inlett en brottsutredning om mordbrand i samband med en lägenhetsbrand på Kungsholmen.",
-    "url": "/aktuellt/handelser/2026/januari/3/03-januari-04.19-mordbrand-stockholm/",
-    "type": "Mordbrand",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Sandviken",
       "gps": "60.621607,16.775918"
-    }
-  },
-  {
-    "id": 619437,
-    "datetime": "2025-12-26 8:35:54 +01:00",
-    "name": "25 december 21.58, Rattfylleri, Tierp",
-    "summary": "Man blåste positivt efter fordonskontroll på E4.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-21.58-rattfylleri-tierp/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Tierp",
-      "gps": "60.347587,17.520509"
-    }
-  },
-  {
-    "id": 619436,
-    "datetime": "2025-12-26 8:29:51 +01:00",
-    "name": "25 december 21.04, Trafikbrott, Enköping",
-    "summary": "Långt förföljande efter körkortslös förare på E18.",
-    "url": "/aktuellt/handelser/2025/december/25/25-december-21.04-trafikbrott-enkoping/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Enköping",
-      "gps": "59.635691,17.077823"
-    }
-  },
-  {
-    "id": 619435,
-    "datetime": "2025-12-26 8:24:03 +01:00",
-    "name": "26 december 06.55, Rån, Stockholm",
-    "summary": "En man har blivit slagen och rånad på sin mobiltelefon av en annan man.",
-    "url": "/aktuellt/handelser/2025/december/26/26-december-06.55-ran-stockholm/",
-    "type": "Rån",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 619434,
-    "datetime": "2025-12-26 8:21:03 +01:00",
-    "name": "26 december 00.17, Misshandel, Gävle",
-    "summary": "Man fördes till sjukhus efter att ha blivit knuffad.",
-    "url": "/aktuellt/handelser/2025/december/26/26-december-00.17-misshandel-gavle/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Gävle",
-      "gps": "60.67488,17.141273"
     }
   }
 ]
