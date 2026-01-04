@@ -1,5 +1,65 @@
 [
   {
+    "id": 620110,
+    "datetime": "2026-01-04 9:16:30 +01:00",
+    "name": "04 januari 08.54, Kontroll, Västerås",
+    "summary": "Man avvisades.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-08.54-kontroll-vasteras/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Västerås",
+      "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 620109,
+    "datetime": "2026-01-04 9:02:28 +01:00",
+    "name": "04 januari 08.51, Trafikolycka, Solna",
+    "summary": "En långtradare har kört av vägen på E4:an i höjd med Haga norra, norrgående riktning.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-08.51-trafikolycka-solna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Solna",
+      "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 620108,
+    "datetime": "2026-01-04 8:58:12 +01:00",
+    "name": "04 januari 07.59, Brand, Piteå",
+    "summary": "Piteå, brand utan misstanke om brott.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-07.59-brand-pitea/",
+    "type": "Brand",
+    "location": {
+      "name": "Piteå",
+      "gps": "65.316698,21.480036"
+    }
+  },
+  {
+    "id": 620107,
+    "datetime": "2026-01-04 8:48:49 +01:00",
+    "name": "04 januari 03.05, Mord/dråp, försök, Gotlands län",
+    "summary": "En man har gripits efter att ha misshandlat den kvinna han lever med.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-03.05-morddrap-forsok-gotlands-lan/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 620084,
+    "datetime": "2026-01-04 8:46:24 +01:00",
+    "name": "04 januari 01.45, Misshandel, Karlskrona",
+    "summary": "Misshandel på Stortorget.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-01.45-misshandel-karlskrona/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Karlskrona",
+      "gps": "56.161224,15.5869"
+    }
+  },
+  {
     "id": 620106,
     "datetime": "2026-01-04 8:40:31 +01:00",
     "name": "04 januari 00.30, Motorfordon, stöld, Malmö",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 619490,
-    "datetime": "2025-12-27 7:32:42 +01:00",
-    "name": "27 december 07.30, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/december/27/27-december-07.30-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 619488,
-    "datetime": "2025-12-27 7:27:16 +01:00",
-    "name": "27 december 07.12, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av nattens polisverksamhet",
-    "url": "/aktuellt/handelser/2025/december/27/27-december-07.12-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 619487,
-    "datetime": "2025-12-27 7:20:18 +01:00",
-    "name": "27 december 07.18, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2025/december/27/27-december-07.18-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 619486,
-    "datetime": "2025-12-27 7:19:40 +01:00",
-    "name": "27 december 07.18, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2025/december/27/27-december-07.18-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 619484,
-    "datetime": "2025-12-27 7:18:51 +01:00",
-    "name": "27 december 07.18, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2025/december/27/27-december-07.18-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
