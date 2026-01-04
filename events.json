@@ -1,5 +1,65 @@
 [
   {
+    "id": 620130,
+    "datetime": "2026-01-04 14:57:09 +01:00",
+    "name": "04 januari 14.55, Övrigt, Hallands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-14.55-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 620131,
+    "datetime": "2026-01-04 14:57:03 +01:00",
+    "name": "04 januari 14.56, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-14.56-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 620129,
+    "datetime": "2026-01-04 14:52:08 +01:00",
+    "name": "04 januari 10.45, Trafikkontroll, Ånge",
+    "summary": "Kölsillre, 18 fortkörningar i byn.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-10.45-trafikkontroll-ange/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Ånge",
+      "gps": "62.522874,15.658942"
+    }
+  },
+  {
+    "id": 620124,
+    "datetime": "2026-01-04 14:12:23 +01:00",
+    "name": "04 januari 14.03, Trafikolycka, personskada, Varberg",
+    "summary": "Via SOS kommer larm om en trafikolycka på väg 752 i Tvååker. Det ska röra sig om en frontalkrock mellan två pe",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-14.03-trafikolycka-personskada-varberg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Varberg",
+      "gps": "57.107118,12.252091"
+    }
+  },
+  {
+    "id": 620128,
+    "datetime": "2026-01-04 14:38:52 +01:00",
+    "name": "04 januari 14.17, Trafikolycka, Ronneby",
+    "summary": "Personbil i olycka, Bräkne-Hoby.",
+    "url": "/aktuellt/handelser/2026/januari/4/04-januari-14.17-trafikolycka-ronneby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ronneby",
+      "gps": "56.210434,15.276023"
+    }
+  },
+  {
     "id": 620127,
     "datetime": "2026-01-04 14:36:38 +01:00",
     "name": "04 januari 14.18, Trafikbrott, Piteå",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
-    }
-  },
-  {
-    "id": 620124,
-    "datetime": "2026-01-04 14:12:23 +01:00",
-    "name": "04 januari 14.03, Trafikolycka, personskada, Varberg",
-    "summary": "Via SOS kommer larm om en trafikolycka på väg 752 i Tvååker. Det ska röra sig om en frontalkrock mellan två pe",
-    "url": "/aktuellt/handelser/2026/januari/4/04-januari-14.03-trafikolycka-personskada-varberg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Varberg",
-      "gps": "57.107118,12.252091"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 619507,
-    "datetime": "2025-12-27 12:07:47 +01:00",
-    "name": "27 december 11.46, Trafikhinder, Gävleborgs län",
-    "summary": "Hårda vindar orsakar många trafikstörningar.",
-    "url": "/aktuellt/handelser/2025/december/27/27-december-11.46-trafikhinder-gavleborgs-lan/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 619508,
-    "datetime": "2025-12-27 12:29:40 +01:00",
-    "name": "27 december 11.55, Stöld, Skellefteå",
-    "summary": "Centrum, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2025/december/27/27-december-11.55-stold-skelleftea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 619474,
-    "datetime": "2025-12-26 23:38:01 +01:00",
-    "name": "26 december 23.31, Försvunnen person, Mark",
-    "summary": "Polisen söker upplysningar en man som försvunnit från sitt hem i Marks kommun.",
-    "url": "/aktuellt/handelser/2025/december/26/26-december-23.31-forsvunnen-person-mark/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Mark",
-      "gps": "57.425318,12.569522"
-    }
-  },
-  {
-    "id": 619503,
-    "datetime": "2025-12-27 10:02:27 +01:00",
-    "name": "27 december 09.48, Trafikolycka, Malmö",
-    "summary": "Larm om trafikolycka, Kristineberg",
-    "url": "/aktuellt/handelser/2025/december/27/27-december-09.48-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   }
 ]
