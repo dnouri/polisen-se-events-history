@@ -1,5 +1,101 @@
 [
   {
+    "id": 620255,
+    "datetime": "2026-01-06 8:25:44 +01:00",
+    "name": "05 januari 22.00, Olaga hot, Gävleborgs län",
+    "summary": "En anhållen misstänkt för brott i nära relation.",
+    "url": "/aktuellt/handelser/2026/januari/5/05-januari-22.00-olaga-hot-gavleborgs-lan/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 620254,
+    "datetime": "2026-01-06 8:24:45 +01:00",
+    "name": "06 januari 08.02, Trafikolycka, Markaryd",
+    "summary": "Larm om trafikolycka på E4:an",
+    "url": "/aktuellt/handelser/2026/januari/6/06-januari-08.02-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Markaryd",
+      "gps": "56.461774,13.596274"
+    }
+  },
+  {
+    "id": 620248,
+    "datetime": "2026-01-06 7:29:01 +01:00",
+    "name": "06 januari 07.28, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
+    "url": "/aktuellt/handelser/2026/januari/6/06-januari-07.28-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 620253,
+    "datetime": "2026-01-06 8:11:32 +01:00",
+    "name": "06 januari 02.27, Misshandel, Södertälje",
+    "summary": "Larm om hotellgäster som bråkar.",
+    "url": "/aktuellt/handelser/2026/januari/6/06-januari-02.27-misshandel-sodertalje/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 620252,
+    "datetime": "2026-01-06 8:11:27 +01:00",
+    "name": "05 januari 23.36, Brand, Nacka",
+    "summary": "Mopedbil förstörs i brand.",
+    "url": "/aktuellt/handelser/2026/januari/5/05-januari-23.36-brand-nacka/",
+    "type": "Brand",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 620251,
+    "datetime": "2026-01-06 8:11:16 +01:00",
+    "name": "05 januari 22.51, Rattfylleri, Nacka",
+    "summary": "Butikskontrollant upptäcker att en kund försöker köra bil påverkad.",
+    "url": "/aktuellt/handelser/2026/januari/5/05-januari-22.51-rattfylleri-nacka/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 620250,
+    "datetime": "2026-01-06 8:11:07 +01:00",
+    "name": "05 januari 22.28, Misshandel, grov, Stockholm",
+    "summary": "Man misshandlad med tillhygge inomhus.",
+    "url": "/aktuellt/handelser/2026/januari/5/05-januari-22.28-misshandel-grov-stockholm/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Stockholm",
+      "gps": "59.329324,18.068581"
+    }
+  },
+  {
+    "id": 620246,
+    "datetime": "2026-01-06 8:10:58 +01:00",
+    "name": "05 januari 22.34, Skadegörelse, Botkyrka",
+    "summary": "Okänd person punkterar bildäck i Fittja.",
+    "url": "/aktuellt/handelser/2026/januari/5/05-januari-22.34-skadegorelse-botkyrka/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Botkyrka",
+      "gps": "59.245941,17.840858"
+    }
+  },
+  {
     "id": 620241,
     "datetime": "2026-01-06 7:34:57 +01:00",
     "name": "06 januari 07.34, Sammanfattning natt, Jönköpings län",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 620248,
-    "datetime": "2026-01-06 7:29:01 +01:00",
-    "name": "06 januari 07.28, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-07.28-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5910,90 +5994,6 @@
     "summary": "Bilbrand i villaområde",
     "url": "/aktuellt/handelser/2025/december/28/28-december-23.17-brand-malmo/",
     "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 619614,
-    "datetime": "2025-12-29 6:40:56 +01:00",
-    "name": "28 december 22.53, Trafikolycka, Hörby",
-    "summary": "Trafikolycka utan misstanke om brott, Södra Rörum",
-    "url": "/aktuellt/handelser/2025/december/28/28-december-22.53-trafikolycka-horby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hörby",
-      "gps": "55.851716,13.661926"
-    }
-  },
-  {
-    "id": 619613,
-    "datetime": "2025-12-29 6:35:09 +01:00",
-    "name": "28 december 22.40, Brand, Malmö",
-    "summary": "Brand i konstgräs, Klågerupsvägen",
-    "url": "/aktuellt/handelser/2025/december/28/28-december-22.40-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 619612,
-    "datetime": "2025-12-29 6:26:53 +01:00",
-    "name": "29 december 05.02, Brand, Malmö",
-    "summary": "Larm om bilbrand, Lindängen",
-    "url": "/aktuellt/handelser/2025/december/29/29-december-05.02-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 619611,
-    "datetime": "2025-12-29 6:20:17 +01:00",
-    "name": "29 december 03.20, Brand, Hultsfred",
-    "summary": "Bilbrand på länsväg 129, Silverdalen",
-    "url": "/aktuellt/handelser/2025/december/29/29-december-03.20-brand-hultsfred/",
-    "type": "Brand",
-    "location": {
-      "name": "Hultsfred",
-      "gps": "57.49484,15.841651"
-    }
-  },
-  {
-    "id": 619610,
-    "datetime": "2025-12-29 2:19:28 +01:00",
-    "name": "29 december 00.38, Brand, Uppsala",
-    "summary": "Brand på veranda, Mångsbo, Uppsala kommun",
-    "url": "/aktuellt/handelser/2025/december/29/29-december-00.38-brand-uppsala/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala",
-      "gps": "59.858564,17.638927"
-    }
-  },
-  {
-    "id": 619609,
-    "datetime": "2025-12-29 1:48:54 +01:00",
-    "name": "29 december 00.56, Brand, Tierp",
-    "summary": "Brand i fordon utanför Vendel, Tierps Kommun.",
-    "url": "/aktuellt/handelser/2025/december/29/29-december-00.56-brand-tierp/",
-    "type": "Brand",
-    "location": {
-      "name": "Tierp",
-      "gps": "60.347587,17.520509"
-    }
-  },
-  {
-    "id": 619594,
-    "datetime": "2025-12-28 22:02:58 +01:00",
-    "name": "28 december 20.30, Skadegörelse, Malmö",
-    "summary": "Brand i container.",
-    "url": "/aktuellt/handelser/2025/december/28/28-december-20.30-skadegorelse-malmo/",
-    "type": "Skadegörelse",
     "location": {
       "name": "Malmö",
       "gps": "55.604981,13.003822"
