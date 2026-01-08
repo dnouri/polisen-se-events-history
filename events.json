@@ -1,5 +1,101 @@
 [
   {
+    "id": 620459,
+    "datetime": "2026-01-08 13:39:09 +01:00",
+    "name": "08 januari 13.37, Trafikolycka, singel, Söderköping",
+    "summary": "Personbil stående på E22.",
+    "url": "/aktuellt/handelser/2026/januari/8/08-januari-13.37-trafikolycka-singel-soderkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Söderköping",
+      "gps": "58.475901,16.323431"
+    }
+  },
+  {
+    "id": 620462,
+    "datetime": "2026-01-08 13:46:16 +01:00",
+    "name": "08 januari 13.28, Försvunnen person, Uddevalla",
+    "summary": "Polisen letar efter en försvunnen kvinna i Uddevalla",
+    "url": "/aktuellt/handelser/2026/januari/8/08-januari-13.28-forsvunnen-person-uddevalla/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Uddevalla",
+      "gps": "58.3498,11.935649"
+    }
+  },
+  {
+    "id": 620457,
+    "datetime": "2026-01-08 13:37:54 +01:00",
+    "name": "08 januari 11.16, Trafikbrott, Uppsala",
+    "summary": "Man misstänks för grov olovlig körning.",
+    "url": "/aktuellt/handelser/2026/januari/8/08-januari-11.16-trafikbrott-uppsala/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Uppsala",
+      "gps": "59.858564,17.638927"
+    }
+  },
+  {
+    "id": 620453,
+    "datetime": "2026-01-08 13:20:24 +01:00",
+    "name": "08 januari 13.13, Trafikolycka, Nässjö",
+    "summary": "Två bilar i krock.",
+    "url": "/aktuellt/handelser/2026/januari/8/08-januari-13.13-trafikolycka-nassjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Nässjö",
+      "gps": "57.653036,14.696725"
+    }
+  },
+  {
+    "id": 620444,
+    "datetime": "2026-01-08 13:09:40 +01:00",
+    "name": "08 januari 13.09, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/januari/8/08-januari-13.09-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 620445,
+    "datetime": "2026-01-08 13:09:29 +01:00",
+    "name": "08 januari 13.09, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/januari/8/08-januari-13.09-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 620446,
+    "datetime": "2026-01-08 13:09:13 +01:00",
+    "name": "08 januari 13.09, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/januari/8/08-januari-13.09-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 620421,
+    "datetime": "2026-01-08 8:51:05 +01:00",
+    "name": "08 januari 07.59, Farligt föremål, misstänkt, Borås",
+    "summary": "Polis kalllas till adress på Hässleholmen i Borås för att kontrollera uppgifter om ett misstänkt farligt förem",
+    "url": "/aktuellt/handelser/2026/januari/8/08-januari-07.59-farligt-foremal-misstankt-boras/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Borås",
+      "gps": "57.721035,12.939819"
+    }
+  },
+  {
     "id": 620443,
     "datetime": "2026-01-08 12:25:51 +01:00",
     "name": "08 januari 09.59, Trafikolycka, Örnsköldsvik",
@@ -105,18 +201,6 @@
     "location": {
       "name": "Vaggeryd",
       "gps": "57.498962,14.14863"
-    }
-  },
-  {
-    "id": 620421,
-    "datetime": "2026-01-08 8:51:05 +01:00",
-    "name": "08 januari 07.59, Farligt föremål, misstänkt, Borås",
-    "summary": "Polis kalllas till adress på Hässleholmen i Borås för att kontrollera uppgifter om ett misstänkt farligt förem",
-    "url": "/aktuellt/handelser/2026/januari/8/08-januari-07.59-farligt-foremal-misstankt-boras/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 619819,
-    "datetime": "2025-12-31 7:25:03 +01:00",
-    "name": "31 december 07.25, Sammanfattning natt, Örebro län",
-    "summary": "Natt till onsdag polisområde Örebro",
-    "url": "/aktuellt/handelser/2025/december/31/31-december-07.25-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 619821,
-    "datetime": "2025-12-31 7:24:45 +01:00",
-    "name": "31 december 07.24, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till onsdag polisområde Värmland",
-    "url": "/aktuellt/handelser/2025/december/31/31-december-07.24-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 619829,
-    "datetime": "2025-12-31 7:24:14 +01:00",
-    "name": "31 december 07.24, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till onsdag polisområde Dalarna",
-    "url": "/aktuellt/handelser/2025/december/31/31-december-07.24-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 619828,
-    "datetime": "2025-12-31 7:03:21 +01:00",
-    "name": "31 december 07.02, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
-    "url": "/aktuellt/handelser/2025/december/31/31-december-07.02-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 619827,
-    "datetime": "2025-12-31 7:03:02 +01:00",
-    "name": "31 december 02.04, Brand, Växjö",
-    "summary": "Larm om bilbrand",
-    "url": "/aktuellt/handelser/2025/december/31/31-december-02.04-brand-vaxjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 619824,
-    "datetime": "2025-12-31 7:00:19 +01:00",
-    "name": "31 december 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/31/31-december-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 619825,
-    "datetime": "2025-12-31 7:00:08 +01:00",
-    "name": "31 december 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2025/december/31/31-december-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
