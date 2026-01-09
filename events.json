@@ -1,14 +1,38 @@
 [
   {
-    "id": 620570,
-    "datetime": "2026-01-09 18:16:52 +01:00",
-    "name": "09 januari 17.02, Stöld, Borlänge",
-    "summary": "En man är misstänkt för brott på Norra backa",
-    "url": "/aktuellt/handelser/2026/januari/9/09-januari-17.02-stold-borlange/",
-    "type": "Stöld",
+    "id": 620585,
+    "datetime": "2026-01-09 21:23:41 +01:00",
+    "name": "09 januari 20.35, Skadegörelse, Malmö",
+    "summary": "En bil brinner på Limhamn.",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-20.35-skadegorelse-malmo/",
+    "type": "Skadegörelse",
     "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 620584,
+    "datetime": "2026-01-09 21:17:48 +01:00",
+    "name": "09 januari 20.21, Skadegörelse, Falun",
+    "summary": "En man är misstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-20.21-skadegorelse-falun/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 620557,
+    "datetime": "2026-01-09 16:05:26 +01:00",
+    "name": "09 januari 14.46, Knivlagen, Falun",
+    "summary": "En man är misstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-14.46-knivlagen-falun/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -24,6 +48,18 @@
     }
   },
   {
+    "id": 620583,
+    "datetime": "2026-01-09 21:03:17 +01:00",
+    "name": "09 januari 17.30, Alkohollagen, Östersund",
+    "summary": "Lillänge, polispatrull kontrollerar en man som misstänks ha köpt ut alkohol till en minderårig person.",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-17.30-alkohollagen-ostersund/",
+    "type": "Alkohollagen",
+    "location": {
+      "name": "Östersund",
+      "gps": "63.176683,14.636068"
+    }
+  },
+  {
     "id": 620582,
     "datetime": "2026-01-09 20:31:48 +01:00",
     "name": "09 januari 20.06, Bråk, Solna",
@@ -33,6 +69,18 @@
     "location": {
       "name": "Solna",
       "gps": "59.368879,18.008433"
+    }
+  },
+  {
+    "id": 620570,
+    "datetime": "2026-01-09 18:16:52 +01:00",
+    "name": "09 januari 17.02, Stöld, Borlänge",
+    "summary": "En man är misstänkt för brott på Norra backa",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-17.02-stold-borlange/",
+    "type": "Stöld",
+    "location": {
+      "name": "Borlänge",
+      "gps": "60.484304,15.433969"
     }
   },
   {
@@ -249,18 +297,6 @@
     "location": {
       "name": "Skellefteå",
       "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 620557,
-    "datetime": "2026-01-09 16:05:26 +01:00",
-    "name": "09 januari 14.46, Knivlagen, Falun",
-    "summary": "En man är misstänkt för brott i centrum",
-    "url": "/aktuellt/handelser/2026/januari/9/09-januari-14.46-knivlagen-falun/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Falun",
-      "gps": "60.60646,15.6355"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 619920,
-    "datetime": "2026-01-01 13:14:17 +01:00",
-    "name": "01 januari 13.00, Trafikolycka, Karlshamn",
-    "summary": "Singelolycka på Halasjövägen.",
-    "url": "/aktuellt/handelser/2026/januari/1/01-januari-13.00-trafikolycka-karlshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlshamn",
-      "gps": "56.170303,14.863073"
-    }
-  },
-  {
-    "id": 619928,
-    "datetime": "2026-01-01 14:21:39 +01:00",
-    "name": "01 januari 13.05, Trafikolycka, singel, Stockholm",
-    "summary": "En lastbil har fastnat vid nedfarten från Västerbron på Kungsholmen i Stockholm.",
-    "url": "/aktuellt/handelser/2026/januari/1/01-januari-13.05-trafikolycka-singel-stockholm/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 619918,
-    "datetime": "2026-01-01 13:00:32 +01:00",
-    "name": "01 januari 12.45, Trafikolycka, Vaggeryd",
-    "summary": "Fordon har kört in i viltstängsel",
-    "url": "/aktuellt/handelser/2026/januari/1/01-januari-12.45-trafikolycka-vaggeryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Vaggeryd",
-      "gps": "57.498962,14.14863"
     }
   }
 ]
