@@ -1,5 +1,17 @@
 [
   {
+    "id": 620576,
+    "datetime": "2026-01-09 19:23:51 +01:00",
+    "name": "09 januari 17.26, Trafikbrott, Malmö",
+    "summary": "Polis kontrollerar fordon.",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-17.26-trafikbrott-malmo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
     "id": 620573,
     "datetime": "2026-01-09 18:47:44 +01:00",
     "name": "09 januari 18.32, Trafikolycka, Askersund",
@@ -9,6 +21,42 @@
     "location": {
       "name": "Askersund",
       "gps": "58.889427,14.910987"
+    }
+  },
+  {
+    "id": 620569,
+    "datetime": "2026-01-09 17:52:52 +01:00",
+    "name": "09 januari 17.30, Misshandel, Nynäshamn",
+    "summary": "Det har kommit till polisens kännedom att en kvinna troligtvis har blivit misshandlad i en lägenhet i Nynäsham",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-17.30-misshandel-nynashamn/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Nynäshamn",
+      "gps": "58.902926,17.946529"
+    }
+  },
+  {
+    "id": 620575,
+    "datetime": "2026-01-09 19:14:31 +01:00",
+    "name": "09 januari 18.30, Trafikolycka, Ystad",
+    "summary": "Bilar i kollision på E65",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-18.30-trafikolycka-ystad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Ystad",
+      "gps": "55.429505,13.820031"
+    }
+  },
+  {
+    "id": 620574,
+    "datetime": "2026-01-09 18:52:41 +01:00",
+    "name": "09 januari 18.32, Rattfylleri, Hallsberg",
+    "summary": "En bilist är misstänkt för brott i Hässleberg",
+    "url": "/aktuellt/handelser/2026/januari/9/09-januari-18.32-rattfylleri-hallsberg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
     }
   },
   {
@@ -69,18 +117,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 620569,
-    "datetime": "2026-01-09 17:52:52 +01:00",
-    "name": "09 januari 17.30, Misshandel, Nynäshamn",
-    "summary": "Det har kommit till polisens kännedom att en kvinna troligtvis har blivit misshandlad i en lägenhet i Nynäsham",
-    "url": "/aktuellt/handelser/2026/januari/9/09-januari-17.30-misshandel-nynashamn/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Borlänge",
       "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 619911,
-    "datetime": "2026-01-01 10:58:43 +01:00",
-    "name": "01 januari 10.47, Trafikolycka, personskada, Värnamo",
-    "summary": "Personbil har voltat",
-    "url": "/aktuellt/handelser/2026/januari/1/01-januari-10.47-trafikolycka-personskada-varnamo/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Värnamo",
-      "gps": "57.183161,14.047821"
-    }
-  },
-  {
-    "id": 619912,
-    "datetime": "2026-01-01 11:25:35 +01:00",
-    "name": "01 januari 11.14, Trafikolycka, singel, Stockholm",
-    "summary": "En lastbil har vält på Essingeleden i Stockholm.",
-    "url": "/aktuellt/handelser/2026/januari/1/01-januari-11.14-trafikolycka-singel-stockholm/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 619917,
-    "datetime": "2026-01-01 12:31:50 +01:00",
-    "name": "01 januari 03.40, Våldtäkt, Uppsala län",
-    "summary": "En anhållen misstänkt för våldtäkt.",
-    "url": "/aktuellt/handelser/2026/januari/1/01-januari-03.40-valdtakt-uppsala-lan/",
-    "type": "Våldtäkt",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
     }
   }
 ]
