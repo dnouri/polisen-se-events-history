@@ -1,5 +1,89 @@
 [
   {
+    "id": 620944,
+    "datetime": "2026-01-13 13:52:53 +01:00",
+    "name": "13 januari 13.31, Smällar, Nacka",
+    "summary": "Någon har kastat en smällare i en skola i Sickla.",
+    "url": "/aktuellt/handelser/2026/januari/13/13-januari-13.31-smallar-nacka/",
+    "type": "Smällar",
+    "location": {
+      "name": "Nacka",
+      "gps": "59.307903,18.156042"
+    }
+  },
+  {
+    "id": 620941,
+    "datetime": "2026-01-13 13:32:14 +01:00",
+    "name": "13 januari 13.31, Trafikkontroll, Västernorrlands län",
+    "summary": "Ett urval av polisens arbete i trafiken under dagen.",
+    "url": "/aktuellt/handelser/2026/januari/13/13-januari-13.31-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 620940,
+    "datetime": "2026-01-13 13:30:49 +01:00",
+    "name": "13 januari 13.01, Räddningsinsats, Södertälje",
+    "summary": "Polis, räddningstjänst, ambulans och ambulanshelikopter har genomfört en räddningsinsats i Södertälje.",
+    "url": "/aktuellt/handelser/2026/januari/13/13-januari-13.01-raddningsinsats-sodertalje/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Södertälje",
+      "gps": "59.195363,17.625689"
+    }
+  },
+  {
+    "id": 620939,
+    "datetime": "2026-01-13 13:21:31 +01:00",
+    "name": "13 januari 13.20, Övrigt, Västra Götalands län",
+    "summary": "Efter flera fall av bedrägerier på kort tid vill Polisen återigen betona vikten av att aldrig lämna ifrån sig ",
+    "url": "/aktuellt/handelser/2026/januari/13/13-januari-13.20-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 620937,
+    "datetime": "2026-01-13 12:58:45 +01:00",
+    "name": "13 januari 12.41, Brand, Partille",
+    "summary": "Via SOS inkommer larm om en villabrand i Sävedalen. Enligt larmet ska det synas rök och lågor från huset.",
+    "url": "/aktuellt/handelser/2026/januari/13/13-januari-12.41-brand-partille/",
+    "type": "Brand",
+    "location": {
+      "name": "Partille",
+      "gps": "57.73665,12.125197"
+    }
+  },
+  {
+    "id": 620938,
+    "datetime": "2026-01-13 13:04:00 +01:00",
+    "name": "13 januari 09.52, Trafikolycka, Örnsköldsvik",
+    "summary": "E4, Själevad. En lastbil har kört av vägen.",
+    "url": "/aktuellt/handelser/2026/januari/13/13-januari-09.52-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örnsköldsvik",
+      "gps": "63.290047,18.716617"
+    }
+  },
+  {
+    "id": 620927,
+    "datetime": "2026-01-13 11:43:25 +01:00",
+    "name": "13 januari 11.12, Trafikolycka, personskada, Torsby",
+    "summary": "Två lastbilar har frontalkolliderat på riksväg 62 söder om Stöllet.",
+    "url": "/aktuellt/handelser/2026/januari/13/13-januari-11.12-trafikolycka-personskada-torsby/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Torsby",
+      "gps": "60.140907,13.010213"
+    }
+  },
+  {
     "id": 620931,
     "datetime": "2026-01-13 12:32:41 +01:00",
     "name": "13 januari 11.45, Trafikolycka, personskada, Västerås",
@@ -9,6 +93,18 @@
     "location": {
       "name": "Västerås",
       "gps": "59.609901,16.544809"
+    }
+  },
+  {
+    "id": 620936,
+    "datetime": "2026-01-13 12:55:15 +01:00",
+    "name": "13 januari 12.02, Trafikolycka, Munkedal",
+    "summary": "En lastbil har kört av vägen på E6:an strax söder om trafikplats 99.",
+    "url": "/aktuellt/handelser/2026/januari/13/13-januari-12.02-trafikolycka-munkedal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Munkedal",
+      "gps": "58.471505,11.680192"
     }
   },
   {
@@ -45,18 +141,6 @@
     "location": {
       "name": "Årjäng",
       "gps": "59.389159,12.132717"
-    }
-  },
-  {
-    "id": 620927,
-    "datetime": "2026-01-13 11:43:25 +01:00",
-    "name": "13 januari 11.12, Trafikolycka, personskada, Torsby",
-    "summary": "Två lastbilar har frontalkolliderat på riksväg 62 söder om Stöllet.",
-    "url": "/aktuellt/handelser/2026/januari/13/13-januari-11.12-trafikolycka-personskada-torsby/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Torsby",
-      "gps": "60.140907,13.010213"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Robertsfors",
       "gps": "64.191835,20.84891"
-    }
-  },
-  {
-    "id": 620165,
-    "datetime": "2026-01-05 8:02:59 +01:00",
-    "name": "04 januari 01.43, Rattfylleri, Täby",
-    "summary": "En man i Ella kontrollerades för rattfylla och medtogs till polisstation för vidare utredning.",
-    "url": "/aktuellt/handelser/2026/januari/5/04-januari-01.43-rattfylleri-taby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Täby",
-      "gps": "59.4419,18.07033"
-    }
-  },
-  {
-    "id": 620156,
-    "datetime": "2026-01-05 7:28:23 +01:00",
-    "name": "05 januari 07.27, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/januari/5/05-januari-07.27-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 620155,
-    "datetime": "2026-01-05 7:28:10 +01:00",
-    "name": "05 januari 07.27, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/januari/5/05-januari-07.27-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 620157,
-    "datetime": "2026-01-05 7:27:59 +01:00",
-    "name": "05 januari 07.27, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/januari/5/05-januari-07.27-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 620164,
-    "datetime": "2026-01-05 7:18:35 +01:00",
-    "name": "04 januari 22.33, Brand, Västerås",
-    "summary": "Brand i buss.",
-    "url": "/aktuellt/handelser/2026/januari/4/04-januari-22.33-brand-vasteras/",
-    "type": "Brand",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 620163,
-    "datetime": "2026-01-05 7:17:19 +01:00",
-    "name": "05 januari 00.07, Narkotikabrott, Stockholm",
-    "summary": "En ordningsvakt ringde angående att personer på en pub på Norrmalm uppträdde narkotikapåverkade.",
-    "url": "/aktuellt/handelser/2026/januari/5/05-januari-00.07-narkotikabrott-stockholm/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Stockholm",
-      "gps": "59.329324,18.068581"
-    }
-  },
-  {
-    "id": 620162,
-    "datetime": "2026-01-05 7:13:44 +01:00",
-    "name": "05 januari 00.59, Sabotage mot blåljusverksamhet, Sandviken",
-    "summary": "Polisen skriver en anmälan om sabotage mot blåljusverksamhet.",
-    "url": "/aktuellt/handelser/2026/januari/5/05-januari-00.59-sabotage-mot-blaljusverksamhet-sandviken/",
-    "type": "Sabotage mot blåljusverksamhet",
-    "location": {
-      "name": "Sandviken",
-      "gps": "60.621607,16.775918"
     }
   }
 ]
