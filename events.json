@@ -1,14 +1,14 @@
 [
   {
-    "id": 621111,
-    "datetime": "2026-01-14 9:40:47 +01:00",
-    "name": "14 januari 08.00, Rattfylleri, Härnösand",
-    "summary": "Misstänkt drograttfylleri i Härnösand.",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.00-rattfylleri-harnosand/",
-    "type": "Rattfylleri",
+    "id": 621020,
+    "datetime": "2026-01-14 8:09:54 +01:00",
+    "name": "14 januari 07.29, Trafikolycka, Hallsberg",
+    "summary": "En olycka har inträffat i höjd med Svennevad",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.29-trafikolycka-hallsberg/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Härnösand",
-      "gps": "62.63227,17.940871"
+      "name": "Hallsberg",
+      "gps": "59.066532,15.10229"
     }
   },
   {
@@ -21,6 +21,66 @@
     "location": {
       "name": "Kumla",
       "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 621107,
+    "datetime": "2026-01-14 9:24:25 +01:00",
+    "name": "14 januari 09.12, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat i Sundsta",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-09.12-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 621241,
+    "datetime": "2026-01-14 10:04:55 +01:00",
+    "name": "14 januari 09.49, Trafikolycka, Lomma",
+    "summary": "Trafikolyckolycka på E6, norr om Lomma.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-09.49-trafikolycka-lomma/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Lomma",
+      "gps": "55.673138,13.067406"
+    }
+  },
+  {
+    "id": 621012,
+    "datetime": "2026-01-14 7:37:06 +01:00",
+    "name": "14 januari 07.15, Trafikolycka, Sigtuna",
+    "summary": "En personbil på LV263 har kört in i mitträcket.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.15-trafikolycka-sigtuna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sigtuna",
+      "gps": "59.619146,17.723419"
+    }
+  },
+  {
+    "id": 621186,
+    "datetime": "2026-01-14 9:53:06 +01:00",
+    "name": "14 januari 09.52, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-09.52-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 621111,
+    "datetime": "2026-01-14 9:40:47 +01:00",
+    "name": "14 januari 08.00, Rattfylleri, Härnösand",
+    "summary": "Misstänkt drograttfylleri i Härnösand.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.00-rattfylleri-harnosand/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
     }
   },
   {
@@ -60,18 +120,6 @@
     }
   },
   {
-    "id": 621107,
-    "datetime": "2026-01-14 9:24:25 +01:00",
-    "name": "14 januari 09.12, Trafikolycka, Karlstad",
-    "summary": "En olycka har inträffat i Sundsta",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-09.12-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Karlstad",
-      "gps": "59.402181,13.511498"
-    }
-  },
-  {
     "id": 621025,
     "datetime": "2026-01-14 9:09:37 +01:00",
     "name": "14 januari 08.40, Trafikolycka, Jönköping",
@@ -96,18 +144,6 @@
     }
   },
   {
-    "id": 621020,
-    "datetime": "2026-01-14 8:09:54 +01:00",
-    "name": "14 januari 07.29, Trafikolycka, Hallsberg",
-    "summary": "En olycka har inträffat i höjd med Svennevad",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.29-trafikolycka-hallsberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hallsberg",
-      "gps": "59.066532,15.10229"
-    }
-  },
-  {
     "id": 621019,
     "datetime": "2026-01-14 8:06:05 +01:00",
     "name": "14 januari 07.54, Trafikolycka, Umeå",
@@ -117,18 +153,6 @@
     "location": {
       "name": "Umeå",
       "gps": "63.825847,20.263035"
-    }
-  },
-  {
-    "id": 621012,
-    "datetime": "2026-01-14 7:37:06 +01:00",
-    "name": "14 januari 07.15, Trafikolycka, Sigtuna",
-    "summary": "En personbil på LV263 har kört in i mitträcket.",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.15-trafikolycka-sigtuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sigtuna",
-      "gps": "59.619146,17.723419"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Bollnäs",
       "gps": "61.34838,16.394269"
-    }
-  },
-  {
-    "id": 620269,
-    "datetime": "2026-01-06 13:19:17 +01:00",
-    "name": "06 januari 13.19, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-13.19-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 620268,
-    "datetime": "2026-01-06 13:16:03 +01:00",
-    "name": "06 januari 13.15, Stöld, Örebro",
-    "summary": "Ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-13.15-stold-orebro/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro",
-      "gps": "59.275263,15.213411"
     }
   }
 ]
