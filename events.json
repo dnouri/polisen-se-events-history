@@ -1,5 +1,89 @@
 [
   {
+    "id": 621111,
+    "datetime": "2026-01-14 9:40:47 +01:00",
+    "name": "14 januari 08.00, Rattfylleri, Härnösand",
+    "summary": "Misstänkt drograttfylleri i Härnösand.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.00-rattfylleri-harnosand/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Härnösand",
+      "gps": "62.63227,17.940871"
+    }
+  },
+  {
+    "id": 621110,
+    "datetime": "2026-01-14 9:39:04 +01:00",
+    "name": "14 januari 09.25, Trafikolycka, Kumla",
+    "summary": "En olycka har inträffat på E20",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-09.25-trafikolycka-kumla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kumla",
+      "gps": "59.126536,15.140105"
+    }
+  },
+  {
+    "id": 621109,
+    "datetime": "2026-01-14 9:35:42 +01:00",
+    "name": "14 januari 08.50, Brand, Halmstad",
+    "summary": "Larm om brand i sommarstuga i Haverdal.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.50-brand-halmstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 621013,
+    "datetime": "2026-01-14 7:51:48 +01:00",
+    "name": "14 januari 07.35, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka på länsväg 363/länsväg 692 Hissjö.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.35-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 621023,
+    "datetime": "2026-01-14 8:41:11 +01:00",
+    "name": "14 januari 08.22, Trafikolycka, Avesta",
+    "summary": "En olycka har inträffat i höjd med Jularbo",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.22-trafikolycka-avesta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Avesta",
+      "gps": "60.14533,16.17384"
+    }
+  },
+  {
+    "id": 621107,
+    "datetime": "2026-01-14 9:24:25 +01:00",
+    "name": "14 januari 09.12, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat i Sundsta",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-09.12-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Karlstad",
+      "gps": "59.402181,13.511498"
+    }
+  },
+  {
+    "id": 621025,
+    "datetime": "2026-01-14 9:09:37 +01:00",
+    "name": "14 januari 08.40, Trafikolycka, Jönköping",
+    "summary": "Kollision mellan personbil och buss vid en korsning till Torsgatan.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.40-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköping",
+      "gps": "57.782614,14.161788"
+    }
+  },
+  {
     "id": 621024,
     "datetime": "2026-01-14 8:51:31 +01:00",
     "name": "14 januari 07.58, Trafikolycka, Jönköping",
@@ -21,18 +105,6 @@
     "location": {
       "name": "Hallsberg",
       "gps": "59.066532,15.10229"
-    }
-  },
-  {
-    "id": 621023,
-    "datetime": "2026-01-14 8:41:11 +01:00",
-    "name": "14 januari 08.22, Trafikolycka, Avesta",
-    "summary": "En olycka har inträffat i höjd med Jularbo",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.22-trafikolycka-avesta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Avesta",
-      "gps": "60.14533,16.17384"
     }
   },
   {
@@ -177,18 +249,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 621013,
-    "datetime": "2026-01-14 7:51:48 +01:00",
-    "name": "14 januari 07.35, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka på länsväg 363/länsväg 692 Hissjö.",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.35-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Örebro",
       "gps": "59.275263,15.213411"
-    }
-  },
-  {
-    "id": 620263,
-    "datetime": "2026-01-06 12:17:23 +01:00",
-    "name": "06 januari 12.11, Trafikolycka, singel, Nyköping",
-    "summary": "Singelolycka på E4.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-12.11-trafikolycka-singel-nykoping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 620264,
-    "datetime": "2026-01-06 12:23:33 +01:00",
-    "name": "06 januari 07.11, Rån, Västerås",
-    "summary": "Anmälan om grovt rån.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-07.11-ran-vasteras/",
-    "type": "Rån",
-    "location": {
-      "name": "Västerås",
-      "gps": "59.609901,16.544809"
-    }
-  },
-  {
-    "id": 620262,
-    "datetime": "2026-01-06 11:57:38 +01:00",
-    "name": "06 januari 10.53, Trafikolycka, Skellefteå",
-    "summary": "Trafikolycka på Kanalgatan/Viktoriagatan i centrum.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-10.53-trafikolycka-skelleftea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skellefteå",
-      "gps": "64.750244,20.950917"
-    }
-  },
-  {
-    "id": 620261,
-    "datetime": "2026-01-06 11:05:44 +01:00",
-    "name": "06 januari 11.05, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-11.05-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 620260,
-    "datetime": "2026-01-06 10:54:16 +01:00",
-    "name": "06 januari 10.04, Brand, Örnsköldsvik",
-    "summary": "Larm om brand i flerfamiljshus i Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-10.04-brand-ornskoldsvik/",
-    "type": "Brand",
-    "location": {
-      "name": "Örnsköldsvik",
-      "gps": "63.290047,18.716617"
     }
   }
 ]
