@@ -1,5 +1,89 @@
 [
   {
+    "id": 621465,
+    "datetime": "2026-01-14 11:37:45 +01:00",
+    "name": "14 januari 10.04, Djur, Kristianstad",
+    "summary": "Upphittad hundvalp i Önnestad.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-10.04-djur-kristianstad/",
+    "type": "Djur",
+    "location": {
+      "name": "Kristianstad",
+      "gps": "56.029394,14.156678"
+    }
+  },
+  {
+    "id": 621464,
+    "datetime": "2026-01-14 11:32:46 +01:00",
+    "name": "14 januari 11.23, Trafikolycka, Sala",
+    "summary": "Lastbil blockerar väg 56 efter krock.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-11.23-trafikolycka-sala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Sala",
+      "gps": "59.920859,16.606328"
+    }
+  },
+  {
+    "id": 621461,
+    "datetime": "2026-01-14 11:09:18 +01:00",
+    "name": "14 januari 11.09, Polisinsats/kommendering, Norrbottens län",
+    "summary": "Riktad insats mot kriminell ekonomi i Östra Norrbotten",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-11.09-polisinsatskommendering-norrbottens-lan/",
+    "type": "Polisinsats/kommendering",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 621460,
+    "datetime": "2026-01-14 11:05:29 +01:00",
+    "name": "14 januari 09.15, Brand, Sundsvall",
+    "summary": "Larm om rökutveckling i villa i Allsta-Kingsta.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-09.15-brand-sundsvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Sundsvall",
+      "gps": "62.390811,17.306927"
+    }
+  },
+  {
+    "id": 621019,
+    "datetime": "2026-01-14 8:06:05 +01:00",
+    "name": "14 januari 07.54, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka på Västerslätt, Umeå.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.54-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Umeå",
+      "gps": "63.825847,20.263035"
+    }
+  },
+  {
+    "id": 621109,
+    "datetime": "2026-01-14 9:35:42 +01:00",
+    "name": "14 januari 08.50, Brand, Halmstad",
+    "summary": "Larm om brand i sommarstuga i Haverdal.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.50-brand-halmstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Halmstad",
+      "gps": "56.674375,12.857789"
+    }
+  },
+  {
+    "id": 621015,
+    "datetime": "2026-01-14 7:59:09 +01:00",
+    "name": "14 januari 07.29, Trafikolycka, Falköping",
+    "summary": "Olycka mellan två personbilar på länsväg 2781, strax utanför Falköping.",
+    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.29-trafikolycka-falkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Falköping",
+      "gps": "58.175029,13.553217"
+    }
+  },
+  {
     "id": 621020,
     "datetime": "2026-01-14 8:09:54 +01:00",
     "name": "14 januari 07.29, Trafikolycka, Hallsberg",
@@ -84,18 +168,6 @@
     }
   },
   {
-    "id": 621109,
-    "datetime": "2026-01-14 9:35:42 +01:00",
-    "name": "14 januari 08.50, Brand, Halmstad",
-    "summary": "Larm om brand i sommarstuga i Haverdal.",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-08.50-brand-halmstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Halmstad",
-      "gps": "56.674375,12.857789"
-    }
-  },
-  {
     "id": 621013,
     "datetime": "2026-01-14 7:51:48 +01:00",
     "name": "14 januari 07.35, Trafikolycka, Umeå",
@@ -141,18 +213,6 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 621019,
-    "datetime": "2026-01-14 8:06:05 +01:00",
-    "name": "14 januari 07.54, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka på Västerslätt, Umeå.",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.54-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Umeå",
-      "gps": "63.825847,20.263035"
     }
   },
   {
@@ -225,18 +285,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 621015,
-    "datetime": "2026-01-14 7:59:09 +01:00",
-    "name": "14 januari 07.29, Trafikolycka, Falköping",
-    "summary": "Olycka mellan två personbilar på länsväg 2781, strax utanför Falköping.",
-    "url": "/aktuellt/handelser/2026/januari/14/14-januari-07.29-trafikolycka-falkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Falköping",
-      "gps": "58.175029,13.553217"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 620258,
-    "datetime": "2026-01-06 8:56:35 +01:00",
-    "name": "06 januari 08.56, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-08.56-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 620271,
-    "datetime": "2026-01-06 13:45:13 +01:00",
-    "name": "06 januari 12.35, Stöld/inbrott, Nyköping",
-    "summary": "Inbrott i byggcontainer.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-12.35-stoldinbrott-nykoping/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Nyköping",
-      "gps": "58.752844,17.009159"
-    }
-  },
-  {
-    "id": 620265,
-    "datetime": "2026-01-06 12:52:13 +01:00",
-    "name": "06 januari 12.43, Trafikolycka, Borlänge",
-    "summary": "Trafikolycka med flera fordon inblandade på E 16 i Borlnge",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-12.43-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borlänge",
-      "gps": "60.484304,15.433969"
-    }
-  },
-  {
-    "id": 620270,
-    "datetime": "2026-01-06 13:26:41 +01:00",
-    "name": "06 januari 11.58, Trafikolycka, Bollnäs",
-    "summary": "Trafikolycka på väg 50.",
-    "url": "/aktuellt/handelser/2026/januari/6/06-januari-11.58-trafikolycka-bollnas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Bollnäs",
-      "gps": "61.34838,16.394269"
     }
   }
 ]
