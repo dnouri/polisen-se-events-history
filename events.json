@@ -1,5 +1,65 @@
 [
   {
+    "id": 621658,
+    "datetime": "2026-01-15 12:21:00 +01:00",
+    "name": "15 januari 10.30, Arbetsplatsolycka, Lund",
+    "summary": "Man förd till sjukhus efter larm om misstänkt arbetsplatsolycka",
+    "url": "/aktuellt/handelser/2026/januari/15/15-januari-10.30-arbetsplatsolycka-lund/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Lund",
+      "gps": "55.70466,13.191007"
+    }
+  },
+  {
+    "id": 621638,
+    "datetime": "2026-01-15 9:56:35 +01:00",
+    "name": "15 januari 09.55, Trafikolycka, Strängnäs",
+    "summary": "Väg 55 blockerad efter olycka",
+    "url": "/aktuellt/handelser/2026/januari/15/15-januari-09.55-trafikolycka-strangnas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Strängnäs",
+      "gps": "59.377452,17.032119"
+    }
+  },
+  {
+    "id": 621657,
+    "datetime": "2026-01-15 11:56:35 +01:00",
+    "name": "15 januari 11.01, Arbetsplatsolycka, Örebro",
+    "summary": "En arbetsplatsolycka har inträffat i syd-västra delarna av Örebro.",
+    "url": "/aktuellt/handelser/2026/januari/15/15-januari-11.01-arbetsplatsolycka-orebro/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Örebro",
+      "gps": "59.275263,15.213411"
+    }
+  },
+  {
+    "id": 621565,
+    "datetime": "2026-01-15 6:48:11 +01:00",
+    "name": "15 januari 06.31, Brand, Malmö",
+    "summary": "Bilbrand, Spillepengen.",
+    "url": "/aktuellt/handelser/2026/januari/15/15-januari-06.31-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Malmö",
+      "gps": "55.604981,13.003822"
+    }
+  },
+  {
+    "id": 621656,
+    "datetime": "2026-01-15 11:52:39 +01:00",
+    "name": "15 januari 11.33, Brand, Skurup",
+    "summary": "Brand i villa, Ölöv.",
+    "url": "/aktuellt/handelser/2026/januari/15/15-januari-11.33-brand-skurup/",
+    "type": "Brand",
+    "location": {
+      "name": "Skurup",
+      "gps": "55.48045,13.502349"
+    }
+  },
+  {
     "id": 621646,
     "datetime": "2026-01-15 10:53:21 +01:00",
     "name": "15 januari 10.23, Trafikolycka, Umeå",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 621638,
-    "datetime": "2026-01-15 9:56:35 +01:00",
-    "name": "15 januari 09.55, Trafikolycka, Strängnäs",
-    "summary": "Väg 55 blockerad efter olycka",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-09.55-trafikolycka-strangnas/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Strängnäs",
-      "gps": "59.377452,17.032119"
     }
   },
   {
@@ -285,18 +333,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 621565,
-    "datetime": "2026-01-15 6:48:11 +01:00",
-    "name": "15 januari 06.31, Brand, Malmö",
-    "summary": "Bilbrand, Spillepengen.",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-06.31-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 620411,
-    "datetime": "2026-01-08 7:07:24 +01:00",
-    "name": "08 januari 01.54, Inbrott, försök, Lidingö",
-    "summary": "Ett inbrottslarm till en bostad på Lidingö aktiverades. Vid kontroll kunde konstateras att en balkongdörr var ",
-    "url": "/aktuellt/handelser/2026/januari/8/08-januari-01.54-inbrott-forsok-lidingo/",
-    "type": "Inbrott, försök",
-    "location": {
-      "name": "Lidingö",
-      "gps": "59.36296,18.1468"
-    }
-  },
-  {
-    "id": 620406,
-    "datetime": "2026-01-08 7:01:56 +01:00",
-    "name": "08 januari 06.59, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2026/januari/8/08-januari-06.59-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 620408,
-    "datetime": "2026-01-08 7:01:50 +01:00",
-    "name": "08 januari 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/januari/8/08-januari-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
