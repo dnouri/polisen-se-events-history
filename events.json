@@ -1,14 +1,74 @@
 [
   {
-    "id": 622040,
-    "datetime": "2026-01-19 16:27:23 +01:00",
-    "name": "19 januari 16.16, Trafikhinder, Haninge",
-    "summary": "Flera körfält är avstängda med anledning av en olycka på RV73, trafikplats Handen.",
-    "url": "/aktuellt/handelser/2026/januari/19/19-januari-16.16-trafikhinder-haninge/",
-    "type": "Trafikhinder",
+    "id": 622047,
+    "datetime": "2026-01-19 17:40:25 +01:00",
+    "name": "19 januari 17.12, Trafikolycka, Linköping",
+    "summary": "Flera bilar i kökrock.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-17.12-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Haninge",
-      "gps": "59.17555,18.14137"
+      "name": "Linköping",
+      "gps": "58.410807,15.621373"
+    }
+  },
+  {
+    "id": 622046,
+    "datetime": "2026-01-19 17:38:36 +01:00",
+    "name": "19 januari 17.34, Stöld, Västerbottens län",
+    "summary": "Polisen har hanterat två butiksstölder under eftermiddagen.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-17.34-stold-vasterbottens-lan/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 622045,
+    "datetime": "2026-01-19 17:24:31 +01:00",
+    "name": "19 januari 15.14, Trafikolycka, Göteborg",
+    "summary": "Larm inkommer till SOS gällande en trafikolycka på Långströmsgatan.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-15.14-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Göteborg",
+      "gps": "57.70887,11.97456"
+    }
+  },
+  {
+    "id": 622027,
+    "datetime": "2026-01-19 15:12:53 +01:00",
+    "name": "19 januari 13.30, Arbetsplatsolycka, Kungsbacka",
+    "summary": "En man får en stålbalk över sig på en arbetsplats på Varlabergsvägen.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-13.30-arbetsplatsolycka-kungsbacka/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Kungsbacka",
+      "gps": "57.487492,12.076193"
+    }
+  },
+  {
+    "id": 622044,
+    "datetime": "2026-01-19 17:07:36 +01:00",
+    "name": "19 januari 14.14, Trafikbrott, Falun",
+    "summary": "En man i trettioårsåldern misstänks för vårdslöshet i trafik, skadegörelse och våld mot tjänsteman.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-14.14-trafikbrott-falun/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Falun",
+      "gps": "60.60646,15.6355"
+    }
+  },
+  {
+    "id": 622043,
+    "datetime": "2026-01-19 17:00:17 +01:00",
+    "name": "19 januari 16.48, Trafikolycka, Gislaved",
+    "summary": "Två personbilar i krock.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-16.48-trafikolycka-gislaved/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gislaved",
+      "gps": "57.2985,13.54326"
     }
   },
   {
@@ -21,6 +81,42 @@
     "location": {
       "name": "Jönköping",
       "gps": "57.782614,14.161788"
+    }
+  },
+  {
+    "id": 622042,
+    "datetime": "2026-01-19 16:56:00 +01:00",
+    "name": "19 januari 13.05, Fjällräddning, Härjedalen",
+    "summary": "Långflon, Funäsdalen. En man som är ute på en skotertur har drabbats av sjukdom.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-13.05-fjallraddning-harjedalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Härjedalen",
+      "gps": "62.369341,13.407971"
+    }
+  },
+  {
+    "id": 622041,
+    "datetime": "2026-01-19 16:41:34 +01:00",
+    "name": "19 januari 15.11, Knivlagen, Luleå",
+    "summary": "Örnäset, polisen uppmärksammas på att en man som är inne i en matbutik bär på en kniv.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-15.11-knivlagen-lulea/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Luleå",
+      "gps": "65.584819,22.156703"
+    }
+  },
+  {
+    "id": 622040,
+    "datetime": "2026-01-19 16:27:23 +01:00",
+    "name": "19 januari 16.16, Trafikhinder, Haninge",
+    "summary": "Flera körfält är avstängda med anledning av en olycka på RV73, trafikplats Handen.",
+    "url": "/aktuellt/handelser/2026/januari/19/19-januari-16.16-trafikhinder-haninge/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Haninge",
+      "gps": "59.17555,18.14137"
     }
   },
   {
@@ -57,18 +153,6 @@
     "location": {
       "name": "Sollentuna",
       "gps": "59.43911,17.94148"
-    }
-  },
-  {
-    "id": 622027,
-    "datetime": "2026-01-19 15:12:53 +01:00",
-    "name": "19 januari 13.30, Arbetsplatsolycka, Kungsbacka",
-    "summary": "En man får en stålbalk över sig på en arbetsplats på Varlabergsvägen.",
-    "url": "/aktuellt/handelser/2026/januari/19/19-januari-13.30-arbetsplatsolycka-kungsbacka/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Kungsbacka",
-      "gps": "57.487492,12.076193"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Luleå",
       "gps": "65.584819,22.156703"
-    }
-  },
-  {
-    "id": 620859,
-    "datetime": "2026-01-12 21:02:21 +01:00",
-    "name": "12 januari 16.50, Trafikbrott, Timrå",
-    "summary": "Vivsta, A-traktor stoppad för kontroll",
-    "url": "/aktuellt/handelser/2026/januari/12/12-januari-16.50-trafikbrott-timra/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Timrå",
-      "gps": "62.485456,17.324865"
-    }
-  },
-  {
-    "id": 620863,
-    "datetime": "2026-01-12 20:42:27 +01:00",
-    "name": "12 januari 15.45, Trafikolycka, Krokom",
-    "summary": "E14 Ås, en bilist har kört av vägen",
-    "url": "/aktuellt/handelser/2026/januari/12/12-januari-15.45-trafikolycka-krokom/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Krokom",
-      "gps": "63.326242,14.448654"
-    }
-  },
-  {
-    "id": 620869,
-    "datetime": "2026-01-12 20:40:11 +01:00",
-    "name": "12 januari 15.26, Misshandel, grov, Nynäshamn",
-    "summary": "En kvinna har blivit misshandlad av en man.",
-    "url": "/aktuellt/handelser/2026/januari/12/12-januari-15.26-misshandel-grov-nynashamn/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Nynäshamn",
-      "gps": "58.902926,17.946529"
-    }
-  },
-  {
-    "id": 620868,
-    "datetime": "2026-01-12 20:25:34 +01:00",
-    "name": "12 januari 19.39, Trafikbrott, Sala",
-    "summary": "Bilist fick ordningsbot.",
-    "url": "/aktuellt/handelser/2026/januari/12/12-januari-19.39-trafikbrott-sala/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Sala",
-      "gps": "59.920859,16.606328"
-    }
-  },
-  {
-    "id": 620867,
-    "datetime": "2026-01-12 20:20:40 +01:00",
-    "name": "12 januari 19.36, Misshandel, Köping",
-    "summary": "Samtal om fyrverkerier.",
-    "url": "/aktuellt/handelser/2026/januari/12/12-januari-19.36-misshandel-koping/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Köping",
-      "gps": "59.512096,15.99451"
-    }
-  },
-  {
-    "id": 620866,
-    "datetime": "2026-01-12 20:14:37 +01:00",
-    "name": "12 januari 20.13, Bedrägeri, Jönköping",
-    "summary": "90-åring utsatt för bedrägeriförsök",
-    "url": "/aktuellt/handelser/2026/januari/12/12-januari-20.13-bedrageri-jonkoping/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 620865,
-    "datetime": "2026-01-12 20:08:00 +01:00",
-    "name": "12 januari 19.32, Trafikbrott, Robertsfors",
-    "summary": "Robertsfors tätort, en skoterförare stoppad för kontroll vid Strandvägen",
-    "url": "/aktuellt/handelser/2026/januari/12/12-januari-19.32-trafikbrott-robertsfors/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Robertsfors",
-      "gps": "64.191835,20.84891"
     }
   }
 ]
