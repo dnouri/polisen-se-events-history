@@ -1,5 +1,101 @@
 [
   {
+    "id": 622428,
+    "datetime": "2026-01-22 21:19:28 +01:00",
+    "name": "22 januari 20.45, Brand, Kristinehamn",
+    "summary": "Det brinner i en villa i Kroksvik",
+    "url": "/aktuellt/handelser/2026/januari/22/22-januari-20.45-brand-kristinehamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 622432,
+    "datetime": "2026-01-22 21:33:33 +01:00",
+    "name": "22 januari 19.21, Trafikolycka, Staffanstorp",
+    "summary": "En personbil kör på en parkerad personbil i Nordanå.",
+    "url": "/aktuellt/handelser/2026/januari/22/22-januari-19.21-trafikolycka-staffanstorp/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 622431,
+    "datetime": "2026-01-22 21:32:08 +01:00",
+    "name": "22 januari 19.17, Mord/dråp, försök, Stockholm",
+    "summary": "Misshandel på av stadens sociala boenden.",
+    "url": "/aktuellt/handelser/2026/januari/22/22-januari-19.17-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 622430,
+    "datetime": "2026-01-22 21:29:34 +01:00",
+    "name": "22 januari 21.19, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i Usta",
+    "url": "/aktuellt/handelser/2026/januari/22/22-januari-21.19-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 622389,
+    "datetime": "2026-01-22 16:04:29 +01:00",
+    "name": "22 januari 15.14, Försvunnen person, Uppsala",
+    "summary": "Polisen söker efter en försvunnen man.",
+    "url": "/aktuellt/handelser/2026/januari/22/22-januari-15.14-forsvunnen-person-uppsala/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 622429,
+    "datetime": "2026-01-22 21:19:51 +01:00",
+    "name": "22 januari 21.19, Misshandel, Sundsvall",
+    "summary": "Man anhållen misstänkt för brott mot kvinna.",
+    "url": "/aktuellt/handelser/2026/januari/22/22-januari-21.19-misshandel-sundsvall/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 622427,
+    "datetime": "2026-01-22 21:13:02 +01:00",
+    "name": "22 januari 18.45, Trafikolycka, smitning från, Vallentuna",
+    "summary": "Ett barn har blivit påkört i Vallentuna.",
+    "url": "/aktuellt/handelser/2026/januari/22/22-januari-18.45-trafikolycka-smitning-fran-vallentuna/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 622426,
+    "datetime": "2026-01-22 21:03:36 +01:00",
+    "name": "22 januari 17.24, Trafikbrott, Luleå",
+    "summary": "Bilist fick sitt körkort omhändertaget.",
+    "url": "/aktuellt/handelser/2026/januari/22/22-januari-17.24-trafikbrott-lulea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 622425,
     "datetime": "2026-01-22 20:46:05 +01:00",
     "name": "22 januari 19.59, Mord/dråp, Katrineholm",
@@ -393,18 +489,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 622389,
-    "datetime": "2026-01-22 16:04:29 +01:00",
-    "name": "22 januari 15.14, Försvunnen person, Uppsala",
-    "summary": "Polisen söker efter en försvunnen man.",
-    "url": "/aktuellt/handelser/2026/januari/22/22-januari-15.14-forsvunnen-person-uppsala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Växjö",
       "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 621714,
-    "datetime": "2026-01-15 19:25:45 +01:00",
-    "name": "15 januari 17.59, Trafikolycka, Sundsvall",
-    "summary": "Matfors, en snöskoter och en bil har kolliderat.",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-17.59-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Sundsvall",
-      "gps": "62.390811,17.306927"
-    }
-  },
-  {
-    "id": 621713,
-    "datetime": "2026-01-15 19:06:50 +01:00",
-    "name": "15 januari 19.02, Trafikhinder, Jönköping",
-    "summary": "Var uppmärksam på stillastående fordon",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-19.02-trafikhinder-jonkoping/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Jönköping",
-      "gps": "57.782614,14.161788"
-    }
-  },
-  {
-    "id": 621712,
-    "datetime": "2026-01-15 18:59:30 +01:00",
-    "name": "15 januari 17.30, Trafikolycka, Borås",
-    "summary": "Cykel och personbil i trafikolycka.",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-17.30-trafikolycka-boras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Borås",
-      "gps": "57.721035,12.939819"
-    }
-  },
-  {
-    "id": 621676,
-    "datetime": "2026-01-15 13:34:40 +01:00",
-    "name": "15 januari 12.56, Kontroll, Växjö",
-    "summary": "Kontroll av försändelse, Växjö.",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-12.56-kontroll-vaxjo/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Växjö",
-      "gps": "56.879004,14.805852"
-    }
-  },
-  {
-    "id": 621693,
-    "datetime": "2026-01-15 15:58:05 +01:00",
-    "name": "15 januari 15.26, Trafikolycka, Lindesberg",
-    "summary": "Bilist och lastbil kollision på Rv 50 vid Baggaboda.",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-15.26-trafikolycka-lindesberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Lindesberg",
-      "gps": "59.597698,15.222911"
-    }
-  },
-  {
-    "id": 621708,
-    "datetime": "2026-01-15 17:29:19 +01:00",
-    "name": "15 januari 17.06, Bedrägeri, Lidingö",
-    "summary": "En kvinna i 80-årsålden har blivit utsatt för ett bedrägeri.",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-17.06-bedrageri-lidingo/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Lidingö",
-      "gps": "59.36296,18.1468"
-    }
-  },
-  {
-    "id": 621709,
-    "datetime": "2026-01-15 17:53:12 +01:00",
-    "name": "15 januari 15.45, Trafikolycka, Nässjö",
-    "summary": "Bil påkörd - fastnade på tågräls",
-    "url": "/aktuellt/handelser/2026/januari/15/15-januari-15.45-trafikolycka-nassjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Nässjö",
-      "gps": "57.653036,14.696725"
     }
   }
 ]
