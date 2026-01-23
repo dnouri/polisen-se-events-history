@@ -1,5 +1,53 @@
 [
   {
+    "id": 622519,
+    "datetime": "2026-01-23 14:52:29 +01:00",
+    "name": "23 januari 13.24, Stöld, Skellefteå",
+    "summary": "Skellefteå, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2026/januari/23/23-januari-13.24-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 622499,
+    "datetime": "2026-01-23 12:55:22 +01:00",
+    "name": "23 januari 11.42, Brand, Luleå",
+    "summary": "Larm om rökutveckling i ett garage i centrala Luleå.",
+    "url": "/aktuellt/handelser/2026/januari/23/23-januari-11.42-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 622501,
+    "datetime": "2026-01-23 13:05:53 +01:00",
+    "name": "23 januari 12.45, Farligt föremål, misstänkt, Rättvik",
+    "summary": "Polisen har fått in uppgifter om ett misstänkt farligt föremål i centrala Rättvik. Föremålet kommer att kontro",
+    "url": "/aktuellt/handelser/2026/januari/23/23-januari-12.45-farligt-foremal-misstankt-rattvik/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 622516,
+    "datetime": "2026-01-23 14:13:28 +01:00",
+    "name": "23 januari 14.06, Trafikolycka, Karlstad",
+    "summary": "Två bilister är inblandade i en sidokollision på Bogsprötsgatan",
+    "url": "/aktuellt/handelser/2026/januari/23/23-januari-14.06-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 622427,
     "datetime": "2026-01-22 21:13:02 +01:00",
     "name": "22 januari 18.45, Trafikolycka, smitning från, Vallentuna",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Västmanlands län",
       "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 622501,
-    "datetime": "2026-01-23 13:05:53 +01:00",
-    "name": "23 januari 12.45, Farligt föremål, misstänkt, Rättvik",
-    "summary": "Polisen har fått in uppgifter om ett misstänkt farligt föremål i centrala Rättvik. Föremålet kommer att kontro",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-12.45-farligt-foremal-misstankt-rattvik/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   },
   {
@@ -141,18 +177,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 622499,
-    "datetime": "2026-01-23 12:55:22 +01:00",
-    "name": "23 januari 11.42, Brand, Luleå",
-    "summary": "Larm om rökutveckling i ett garage i centrala Luleå.",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-11.42-brand-lulea/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 621775,
-    "datetime": "2026-01-16 11:15:06 +01:00",
-    "name": "16 januari 08.31, Olaga hot, Malmö",
-    "summary": "Man hotad på Ystadvägen.",
-    "url": "/aktuellt/handelser/2026/januari/16/16-januari-08.31-olaga-hot-malmo/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Malmö",
-      "gps": "55.604981,13.003822"
-    }
-  },
-  {
-    "id": 621774,
-    "datetime": "2026-01-16 11:12:41 +01:00",
-    "name": "16 januari 09.50, Misshandel, Göteborg",
-    "summary": "Polisen larmas till Annas gård i Högsbohöjd.",
-    "url": "/aktuellt/handelser/2026/januari/16/16-januari-09.50-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Göteborg",
-      "gps": "57.70887,11.97456"
     }
   }
 ]
