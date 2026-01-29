@@ -1,5 +1,101 @@
 [
   {
+    "id": 623053,
+    "datetime": "2026-01-29 14:01:08 +01:00",
+    "name": "29 januari 11.17, Misshandel, Piteå",
+    "summary": "Piteå, man gripen misstänkt för misshandel",
+    "url": "/aktuellt/handelser/2026/januari/29/29-januari-11.17-misshandel-pitea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 623057,
+    "datetime": "2026-01-29 13:41:18 +01:00",
+    "name": "29 januari 13.29, Brand, Örebro",
+    "summary": "Brand i lägenhet i ett flermailjshus i området Mellringe i Örebro.",
+    "url": "/aktuellt/handelser/2026/januari/29/29-januari-13.29-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 623038,
+    "datetime": "2026-01-29 13:56:32 +01:00",
+    "name": "29 januari 13.50, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/januari/29/29-januari-13.50-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 623020,
+    "datetime": "2026-01-29 7:38:59 +01:00",
+    "name": "29 januari 06.58, Brand, Hudiksvall",
+    "summary": "Det brinner i en lägenhet på Hästahöjden.",
+    "url": "/aktuellt/handelser/2026/januari/29/29-januari-06.58-brand-hudiksvall/",
+    "type": "Brand",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 622993,
+    "datetime": "2026-01-28 21:04:55 +01:00",
+    "name": "28 januari 18.34, Sexualbrott, Stockholm",
+    "summary": "Sexuellt övergrepp mot pojke i Liljeholmen.",
+    "url": "/aktuellt/handelser/2026/januari/28/28-januari-18.34-sexualbrott-stockholm/",
+    "type": "Sexualbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 623056,
+    "datetime": "2026-01-29 13:32:51 +01:00",
+    "name": "29 januari 12.09, Stöld, Boden",
+    "summary": "Centrum, ung person stoppad efter misstänkt ringa stöld i butik",
+    "url": "/aktuellt/handelser/2026/januari/29/29-januari-12.09-stold-boden/",
+    "type": "Stöld",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 623051,
+    "datetime": "2026-01-29 12:52:16 +01:00",
+    "name": "29 januari 12.51, Övrigt, Västra Götalands län",
+    "summary": "Är på möte och återkommer vid 15-tiden.",
+    "url": "/aktuellt/handelser/2026/januari/29/29-januari-12.51-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 623050,
+    "datetime": "2026-01-29 12:51:11 +01:00",
+    "name": "29 januari 12.50, Övrigt, Hallands län",
+    "summary": "Är på möte och återkommer vid 15-tiden.",
+    "url": "/aktuellt/handelser/2026/januari/29/29-januari-12.50-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
     "id": 623049,
     "datetime": "2026-01-29 12:36:56 +01:00",
     "name": "29 januari 10.20, Brand, Stenungsund",
@@ -117,18 +213,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 623020,
-    "datetime": "2026-01-29 7:38:59 +01:00",
-    "name": "29 januari 06.58, Brand, Hudiksvall",
-    "summary": "Det brinner i en lägenhet på Hästahöjden.",
-    "url": "/aktuellt/handelser/2026/januari/29/29-januari-06.58-brand-hudiksvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
     }
   },
   {
@@ -441,18 +525,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 622993,
-    "datetime": "2026-01-28 21:04:55 +01:00",
-    "name": "28 januari 18.34, Sexualbrott, Stockholm",
-    "summary": "Sexuellt övergrepp mot pojke i Liljeholmen.",
-    "url": "/aktuellt/handelser/2026/januari/28/28-januari-18.34-sexualbrott-stockholm/",
-    "type": "Sexualbrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 622283,
-    "datetime": "2026-01-21 21:26:48 +01:00",
-    "name": "21 januari 20.01, Misshandel, Luleå",
-    "summary": "Misstänkt misshandel i centrala Luleå.",
-    "url": "/aktuellt/handelser/2026/januari/21/21-januari-20.01-misshandel-lulea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 622277,
-    "datetime": "2026-01-21 21:03:29 +01:00",
-    "name": "21 januari 20.29, Skadegörelse, Örkelljunga",
-    "summary": "Skadegörelse på bilar på Sonnarpsvägen.",
-    "url": "/aktuellt/handelser/2026/januari/21/21-januari-20.29-skadegorelse-orkelljunga/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 622276,
-    "datetime": "2026-01-21 20:47:52 +01:00",
-    "name": "21 januari 20.18, Trafikolycka, Luleå",
-    "summary": "Trafikolycka på Färjledsvägen i Södra Sunderbyn.",
-    "url": "/aktuellt/handelser/2026/januari/21/21-januari-20.18-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 622259,
-    "datetime": "2026-01-21 17:20:51 +01:00",
-    "name": "21 januari 17.04, Trafikolycka, Karlskoga",
-    "summary": "En olycka har inträffat i höjd med Våtsjön",
-    "url": "/aktuellt/handelser/2026/januari/21/21-januari-17.04-trafikolycka-karlskoga/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 622275,
-    "datetime": "2026-01-21 19:45:13 +01:00",
-    "name": "21 januari 19.45, Trafikolycka, vilt, Västernorrlands län",
-    "summary": "Viltolyckor i Västernorrland under eftermiddagen.",
-    "url": "/aktuellt/handelser/2026/januari/21/21-januari-19.45-trafikolycka-vilt-vasternorrlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 622274,
-    "datetime": "2026-01-21 19:25:55 +01:00",
-    "name": "21 januari 17.48, Stöld, Örebro",
-    "summary": "En person är misstänkt för brott i Marieberg galleria",
-    "url": "/aktuellt/handelser/2026/januari/21/21-januari-17.48-stold-orebro/",
-    "type": "Stöld",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
