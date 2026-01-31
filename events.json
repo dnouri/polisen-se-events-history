@@ -1,5 +1,101 @@
 [
   {
+    "id": 623242,
+    "datetime": "2026-01-31 12:55:08 +01:00",
+    "name": "31 januari 12.20, Skyddslagen, Göteborg",
+    "summary": "Polisen får uppgifter om att en okänd man fotograferat ett skyddsobjekt i Delsjöområdet.",
+    "url": "/aktuellt/handelser/2026/januari/31/31-januari-12.20-skyddslagen-goteborg/",
+    "type": "Skyddslagen",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 623248,
+    "datetime": "2026-01-31 13:57:19 +01:00",
+    "name": "31 januari 13.49, Brand, Avesta",
+    "summary": "Det brinner i en lokal i Nordanö",
+    "url": "/aktuellt/handelser/2026/januari/31/31-januari-13.49-brand-avesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 623199,
+    "datetime": "2026-01-30 19:28:53 +01:00",
+    "name": "30 januari 18.38, Explosion, Västerås",
+    "summary": "Misstänkt explosion vid Öster Mälarstrand.",
+    "url": "/aktuellt/handelser/2026/januari/30/30-januari-18.38-explosion-vasteras/",
+    "type": "Explosion",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 623247,
+    "datetime": "2026-01-31 13:50:50 +01:00",
+    "name": "31 januari 12.50, Misshandel, Helsingborg",
+    "summary": "Misshandel i Helsingborg.",
+    "url": "/aktuellt/handelser/2026/januari/31/31-januari-12.50-misshandel-helsingborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 623246,
+    "datetime": "2026-01-31 13:38:47 +01:00",
+    "name": "31 januari 11.18, Trafikolycka, Arjeplog",
+    "summary": "Riksväg 95, tre bilar, varav en med släpvagn, har kolliderat.",
+    "url": "/aktuellt/handelser/2026/januari/31/31-januari-11.18-trafikolycka-arjeplog/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 623245,
+    "datetime": "2026-01-31 13:24:08 +01:00",
+    "name": "31 januari 13.21, Trafikkontroll, Jämtlands län",
+    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen.",
+    "url": "/aktuellt/handelser/2026/januari/31/31-januari-13.21-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 623244,
+    "datetime": "2026-01-31 13:19:12 +01:00",
+    "name": "31 januari 10.51, Olaga intrång, Sundsvall",
+    "summary": "Essvik, polisen kontaktas angående att någon olovligen ska uppehålla sig i ett fritidshus.",
+    "url": "/aktuellt/handelser/2026/januari/31/31-januari-10.51-olaga-intrang-sundsvall/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 623243,
+    "datetime": "2026-01-31 13:11:32 +01:00",
+    "name": "31 januari 11.30, Fylleri/LOB, Umeå",
+    "summary": "Ersboda, polisen kontaktas angående en berusad kvinna utomhus.",
+    "url": "/aktuellt/handelser/2026/januari/31/31-januari-11.30-fyllerilob-umea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 623236,
     "datetime": "2026-01-31 11:11:10 +01:00",
     "name": "31 januari 10.56, Trafikolycka, Knivsta",
@@ -357,18 +453,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 623199,
-    "datetime": "2026-01-30 19:28:53 +01:00",
-    "name": "30 januari 18.38, Explosion, Västerås",
-    "summary": "Misstänkt explosion vid Öster Mälarstrand.",
-    "url": "/aktuellt/handelser/2026/januari/30/30-januari-18.38-explosion-vasteras/",
-    "type": "Explosion",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 622547,
-    "datetime": "2026-01-23 17:49:54 +01:00",
-    "name": "23 januari 17.49, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-17.49-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 622555,
-    "datetime": "2026-01-23 17:28:29 +01:00",
-    "name": "23 januari 16.33, Fylleri/LOB, Härnösand",
-    "summary": "Härnösand, en person omhändertagen.",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-16.33-fyllerilob-harnosand/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 622521,
-    "datetime": "2026-01-23 14:59:38 +01:00",
-    "name": "23 januari 14.30, Trafikolycka, Grästorp",
-    "summary": "Larm inkommer om en trafikolycka på väg 2544 i Tammstorp. Det ska vara två personbilar som kolliderat.",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-14.30-trafikolycka-grastorp/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 622553,
-    "datetime": "2026-01-23 17:10:54 +01:00",
-    "name": "23 januari 16.27, Misshandel, Uppsala",
-    "summary": "Man blev sparkad i ryggen av annan man.",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-16.27-misshandel-uppsala/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 622541,
-    "datetime": "2026-01-23 15:55:55 +01:00",
-    "name": "23 januari 15.39, Trafikolycka, Västerås",
-    "summary": "Kollision på E18.",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-15.39-trafikolycka-vasteras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 622551,
-    "datetime": "2026-01-23 16:32:43 +01:00",
-    "name": "23 januari 16.27, Trafikolycka, Kristinehamn",
-    "summary": "En så kallad kökrock har inträffat i Kristinehamn.",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-16.27-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 622516,
-    "datetime": "2026-01-23 14:13:28 +01:00",
-    "name": "23 januari 14.06, Trafikolycka, Karlstad",
-    "summary": "Två bilister är inblandade i en sidokollision på Bogsprötsgatan",
-    "url": "/aktuellt/handelser/2026/januari/23/23-januari-14.06-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
