@@ -1,14 +1,62 @@
 [
   {
-    "id": 623341,
-    "datetime": "2026-02-02 9:41:51 +01:00",
-    "name": "02 februari 08.49, Trafikolycka, Uppsala",
-    "summary": "Olycka i Luthagen.",
-    "url": "/aktuellt/handelser/2026/februari/2/02-februari-08.49-trafikolycka-uppsala/",
+    "id": 623346,
+    "datetime": "2026-02-02 10:57:57 +01:00",
+    "name": "02 februari 10.15, Rån, Varberg",
+    "summary": "Vid Västra Vallgatan griper en allmänhet en misstänkt maskerad rånare som krossat ett fönster till Guldfyndsbu",
+    "url": "/aktuellt/handelser/2026/februari/2/02-februari-10.15-ran-varberg/",
+    "type": "Rån",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 623345,
+    "datetime": "2026-02-02 10:53:41 +01:00",
+    "name": "02 februari 10.41, Misshandel, Gnesta",
+    "summary": "Man anhållen efter misshandel.",
+    "url": "/aktuellt/handelser/2026/februari/2/02-februari-10.41-misshandel-gnesta/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 623344,
+    "datetime": "2026-02-02 10:53:05 +01:00",
+    "name": "02 februari 09.15, Mord/dråp, Falköping",
+    "summary": "Polisen larmas till en adress i Falköpings kommun med anledning av att två avlidna personer anträffas  i en bo",
+    "url": "/aktuellt/handelser/2026/februari/2/02-februari-09.15-morddrap-falkoping/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 623343,
+    "datetime": "2026-02-02 10:26:18 +01:00",
+    "name": "02 februari 09.52, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i höjd med Lillkyrka",
+    "url": "/aktuellt/handelser/2026/februari/2/02-februari-09.52-trafikolycka-orebro/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 623342,
+    "datetime": "2026-02-02 10:17:40 +01:00",
+    "name": "02 februari 10.30, Övrigt, Stockholm",
+    "summary": "Smällar kan höras när polis övar på Norrmalm.",
+    "url": "/aktuellt/handelser/2026/februari/2/02-februari-10.30-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -21,6 +69,18 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 623341,
+    "datetime": "2026-02-02 9:41:51 +01:00",
+    "name": "02 februari 08.49, Trafikolycka, Uppsala",
+    "summary": "Olycka i Luthagen.",
+    "url": "/aktuellt/handelser/2026/februari/2/02-februari-08.49-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 622638,
-    "datetime": "2026-01-25 8:11:59 +01:00",
-    "name": "25 januari 08.11, Sammanfattning natt, Östergötlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2026/januari/25/25-januari-08.11-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 622644,
-    "datetime": "2026-01-25 8:11:34 +01:00",
-    "name": "25 januari 08.11, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2026/januari/25/25-januari-08.11-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 622643,
-    "datetime": "2026-01-25 8:11:14 +01:00",
-    "name": "25 januari 04.49, Skadegörelse, Södertälje",
-    "summary": "Misstänkt anlagd brand i bil på Lundbygatan.",
-    "url": "/aktuellt/handelser/2026/januari/25/25-januari-04.49-skadegorelse-sodertalje/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 622642,
-    "datetime": "2026-01-25 8:05:57 +01:00",
-    "name": "25 januari 08.05, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en lugn natt för polisen i länet, utan allvarliga brott eller händelser.",
-    "url": "/aktuellt/handelser/2026/januari/25/25-januari-08.05-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 622641,
-    "datetime": "2026-01-25 8:05:01 +01:00",
-    "name": "25 januari 08.04, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt för polisen i länet, utan allvarliga brott eller händelser.",
-    "url": "/aktuellt/handelser/2026/januari/25/25-januari-08.04-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
