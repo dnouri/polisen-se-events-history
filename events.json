@@ -1,5 +1,65 @@
 [
   {
+    "id": 623524,
+    "datetime": "2026-02-03 21:00:48 +01:00",
+    "name": "03 februari 20.31, Explosion, Malmö",
+    "summary": "Larm om en smäll på Hallingsgatan.",
+    "url": "/aktuellt/handelser/2026/februari/3/03-februari-20.31-explosion-malmo/",
+    "type": "Explosion",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 623523,
+    "datetime": "2026-02-03 20:58:58 +01:00",
+    "name": "03 februari 18.38, Övrigt, Arjeplog",
+    "summary": "Man minsstänks för märkesförfalskning.",
+    "url": "/aktuellt/handelser/2026/februari/3/03-februari-18.38-ovrigt-arjeplog/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 623522,
+    "datetime": "2026-02-03 20:48:17 +01:00",
+    "name": "03 februari 18.59, Våld/hot mot tjänsteman, Umeå",
+    "summary": "Man gripen för hot mot tjänsteman.",
+    "url": "/aktuellt/handelser/2026/februari/3/03-februari-18.59-valdhot-mot-tjansteman-umea/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 623521,
+    "datetime": "2026-02-03 20:36:00 +01:00",
+    "name": "03 februari 18.11, Rattfylleri, Stockholm",
+    "summary": "En lastbilschaufför som skulle ombord på en färja körde in i en annan lastbil i Värtahamnen. Föraren är krafti",
+    "url": "/aktuellt/handelser/2026/februari/3/03-februari-18.11-rattfylleri-stockholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 623508,
+    "datetime": "2026-02-03 18:49:34 +01:00",
+    "name": "03 februari 18.34, Trafikolycka, Ludvika",
+    "summary": "En singelolycka har inträffat på länsväg 600/Hammarvägen i Grängesberg",
+    "url": "/aktuellt/handelser/2026/februari/3/03-februari-18.34-trafikolycka-ludvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
     "id": 623515,
     "datetime": "2026-02-03 19:21:15 +01:00",
     "name": "03 februari 19.13, Brand, Säter",
@@ -141,18 +201,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 623508,
-    "datetime": "2026-02-03 18:49:34 +01:00",
-    "name": "03 februari 18.34, Trafikolycka, Ludvika",
-    "summary": "En singelolycka har inträffat på länsväg 600/Hammarvägen i Grängesberg",
-    "url": "/aktuellt/handelser/2026/februari/3/03-februari-18.34-trafikolycka-ludvika/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 622823,
-    "datetime": "2026-01-27 10:40:36 +01:00",
-    "name": "27 januari 07.12, Fylleri/LOB, Sundsvall",
-    "summary": "Inre Hamnen, polisen kontaktas angående en man som går trafikfarligt nära E4:an.",
-    "url": "/aktuellt/handelser/2026/januari/27/27-januari-07.12-fyllerilob-sundsvall/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 622822,
-    "datetime": "2026-01-27 10:38:16 +01:00",
-    "name": "27 januari 07.43, Trafikolycka, personskada, Österåker",
-    "summary": "Två personbilar inblandade i en trafikolycka på E18 i höjd med TPL Rosenkälla.",
-    "url": "/aktuellt/handelser/2026/januari/27/27-januari-07.43-trafikolycka-personskada-osteraker/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 622821,
-    "datetime": "2026-01-27 10:35:17 +01:00",
-    "name": "27 januari 09.24, Rattfylleri, Ludvika",
-    "summary": "En bilist är misstänkt för brott i Grangärde",
-    "url": "/aktuellt/handelser/2026/januari/27/27-januari-09.24-rattfylleri-ludvika/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 622797,
-    "datetime": "2026-01-27 7:43:01 +01:00",
-    "name": "27 januari 07.13, Trafikolycka, singel, Linköping",
-    "summary": "Trafikolycka blockerar Haningeleden",
-    "url": "/aktuellt/handelser/2026/januari/27/27-januari-07.13-trafikolycka-singel-linkoping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
