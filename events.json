@@ -1,5 +1,53 @@
 [
   {
+    "id": 623344,
+    "datetime": "2026-02-02 10:53:05 +01:00",
+    "name": "02 februari 09.15, Mord/dråp, Falköping",
+    "summary": "Polisen larmas till en adress i Falköpings kommun med anledning av att två avlidna personer anträffas  i en bo",
+    "url": "/aktuellt/handelser/2026/februari/2/02-februari-09.15-morddrap-falkoping/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 623453,
+    "datetime": "2026-02-03 10:20:11 +01:00",
+    "name": "03 februari 07.54, Rån, Göteborg",
+    "summary": "En kiosk i Majorna har blivit rånad i samband med att de öppnade kiosken.",
+    "url": "/aktuellt/handelser/2026/februari/3/03-februari-07.54-ran-goteborg/",
+    "type": "Rån",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 623444,
+    "datetime": "2026-02-03 10:10:57 +01:00",
+    "name": "03 februari 09.22, Trafikolycka, Piteå",
+    "summary": "Larm om trafikolycka på E4, Norrfjärden.",
+    "url": "/aktuellt/handelser/2026/februari/3/03-februari-09.22-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 623439,
+    "datetime": "2026-02-03 8:49:33 +01:00",
+    "name": "03 februari 07.54, Försvunnen person, Kristianstad",
+    "summary": "Försvunnen man.",
+    "url": "/aktuellt/handelser/2026/februari/3/03-februari-07.54-forsvunnen-person-kristianstad/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 623445,
     "datetime": "2026-02-03 9:33:53 +01:00",
     "name": "03 februari 09.05, Trafikolycka, Åstorp",
@@ -30,18 +78,6 @@
     "summary": "Lastbilar i krock.",
     "url": "/aktuellt/handelser/2026/februari/3/03-februari-08.45-trafikolycka-helsingborg/",
     "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 623439,
-    "datetime": "2026-02-03 8:49:33 +01:00",
-    "name": "03 februari 07.54, Försvunnen person, Kristianstad",
-    "summary": "Försvunnen man.",
-    "url": "/aktuellt/handelser/2026/februari/3/03-februari-07.54-forsvunnen-person-kristianstad/",
-    "type": "Försvunnen person",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
@@ -669,18 +705,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 623344,
-    "datetime": "2026-02-02 10:53:05 +01:00",
-    "name": "02 februari 09.15, Mord/dråp, Falköping",
-    "summary": "Polisen larmas till en adress i Falköpings kommun med anledning av att två avlidna personer anträffas  i en bo",
-    "url": "/aktuellt/handelser/2026/februari/2/02-februari-09.15-morddrap-falkoping/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 622727,
-    "datetime": "2026-01-26 12:30:25 +01:00",
-    "name": "26 januari 12.30, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från några av förmiddagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2026/januari/26/26-januari-12.30-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 622726,
-    "datetime": "2026-01-26 12:26:12 +01:00",
-    "name": "26 januari 12.26, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, resultat från några av förmiddagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2026/januari/26/26-januari-12.26-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
