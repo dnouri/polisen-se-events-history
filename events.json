@@ -1,26 +1,14 @@
 [
   {
-    "id": 623908,
-    "datetime": "2026-02-06 16:07:00 +01:00",
-    "name": "06 februari 15.47, Rattfylleri, Örebro",
-    "summary": "En olycka har inträffat i höjd med Norrplan",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-15.47-rattfylleri-orebro/",
-    "type": "Rattfylleri",
+    "id": 623899,
+    "datetime": "2026-02-06 13:36:50 +01:00",
+    "name": "06 februari 13.34, Trafikolycka, Jönköping",
+    "summary": "Två lastbilar i krock.",
+    "url": "/aktuellt/handelser/2026/februari/6/06-februari-13.34-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 623907,
-    "datetime": "2026-02-06 16:01:31 +01:00",
-    "name": "06 februari 12.57, Fylleri/LOB, Sollefteå",
-    "summary": "Polisen kontaktas angående att ett antal personer ska vara stökiga inne på busstationen.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-12.57-fyllerilob-solleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -36,15 +24,27 @@
     }
   },
   {
-    "id": 623904,
-    "datetime": "2026-02-06 14:52:22 +01:00",
-    "name": "06 februari 14.42, Trafikolycka, personskada, Göteborg",
-    "summary": "Trafikolycka med personskador.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-14.42-trafikolycka-personskada-goteborg/",
+    "id": 623910,
+    "datetime": "2026-02-06 16:29:04 +01:00",
+    "name": "06 februari 16.20, Trafikolycka, personskada, Tibro",
+    "summary": "3 personbilar krockat på rv49 (Strax söder om Fagersanna)",
+    "url": "/aktuellt/handelser/2026/februari/6/06-februari-16.20-trafikolycka-personskada-tibro/",
     "type": "Trafikolycka, personskada",
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 623908,
+    "datetime": "2026-02-06 16:07:00 +01:00",
+    "name": "06 februari 15.47, Rattfylleri, Örebro",
+    "summary": "En olycka har inträffat i höjd med Norrplan",
+    "url": "/aktuellt/handelser/2026/februari/6/06-februari-15.47-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -60,18 +60,6 @@
     }
   },
   {
-    "id": 623900,
-    "datetime": "2026-02-06 13:37:10 +01:00",
-    "name": "06 februari 13.15, Trafikolycka, Härryda",
-    "summary": "Flera fordon är inblandade i en kollision på riksväg 40 i Hindås.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-13.15-trafikolycka-harryda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
     "id": 623905,
     "datetime": "2026-02-06 14:55:54 +01:00",
     "name": "06 februari 14.10, Trafikolycka, personskada, Nässjö",
@@ -81,6 +69,42 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 623907,
+    "datetime": "2026-02-06 16:01:31 +01:00",
+    "name": "06 februari 12.57, Fylleri/LOB, Sollefteå",
+    "summary": "Polisen kontaktas angående att ett antal personer ska vara stökiga inne på busstationen.",
+    "url": "/aktuellt/handelser/2026/februari/6/06-februari-12.57-fyllerilob-solleftea/",
+    "type": "Fylleri/LOB",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 623904,
+    "datetime": "2026-02-06 14:52:22 +01:00",
+    "name": "06 februari 14.42, Trafikolycka, personskada, Göteborg",
+    "summary": "Trafikolycka med personskador.",
+    "url": "/aktuellt/handelser/2026/februari/6/06-februari-14.42-trafikolycka-personskada-goteborg/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 623900,
+    "datetime": "2026-02-06 13:37:10 +01:00",
+    "name": "06 februari 13.15, Trafikolycka, Härryda",
+    "summary": "Flera fordon är inblandade i en kollision på riksväg 40 i Hindås.",
+    "url": "/aktuellt/handelser/2026/februari/6/06-februari-13.15-trafikolycka-harryda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -105,18 +129,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 623899,
-    "datetime": "2026-02-06 13:36:50 +01:00",
-    "name": "06 februari 13.34, Trafikolycka, Jönköping",
-    "summary": "Två lastbilar i krock.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-13.34-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 623134,
-    "datetime": "2026-01-30 11:47:22 +01:00",
-    "name": "30 januari 07.59, Djur, Linköping",
-    "summary": "Fågel orsakade utryckning i Ljungsbro",
-    "url": "/aktuellt/handelser/2026/januari/30/30-januari-07.59-djur-linkoping/",
-    "type": "Djur",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
