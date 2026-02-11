@@ -1,14 +1,62 @@
 [
   {
-    "id": 624116,
-    "datetime": "2026-02-09 13:32:46 +01:00",
-    "name": "09 februari 13.32, Försvunnen person, Borås",
-    "summary": "Polisen söker efter försvunnen man.",
-    "url": "/aktuellt/handelser/2026/februari/9/09-februari-13.32-forsvunnen-person-boras/",
-    "type": "Försvunnen person",
+    "id": 624330,
+    "datetime": "2026-02-11 21:45:21 +01:00",
+    "name": "11 februari 21.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-21.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 624331,
+    "datetime": "2026-02-11 21:45:16 +01:00",
+    "name": "11 februari 21.45, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-212.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 624332,
+    "datetime": "2026-02-11 21:16:46 +01:00",
+    "name": "11 februari 20.48, Trafikolycka, singel, Eskilstuna",
+    "summary": "Singelolycka i Årbyrondellen.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-20.48-trafikolycka-singel-eskilstuna/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 624333,
+    "datetime": "2026-02-11 21:31:32 +01:00",
+    "name": "11 februari 18.54, Stöld, Umeå",
+    "summary": "Teg, polisen larmas till en matbutik.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-18.54-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 624306,
+    "datetime": "2026-02-11 16:03:19 +01:00",
+    "name": "11 februari 15.45, Mord/dråp, försök, Katrineholm",
+    "summary": "Man skadad av vasst tillhygge.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-15.45-morddrap-forsok-katrineholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -24,15 +72,15 @@
     }
   },
   {
-    "id": 624325,
-    "datetime": "2026-02-11 20:22:00 +01:00",
-    "name": "11 februari 20.21, Trafikolycka, vilt, Norrbottens län",
-    "summary": "Ett antal viltolyckor och renpåkörningar har rapporterats in till polisen under eftermiddagen/kvällen.",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-20.21-trafikolycka-vilt-norrbottens-lan/",
-    "type": "Trafikolycka, vilt",
+    "id": 624328,
+    "datetime": "2026-02-11 20:53:05 +01:00",
+    "name": "11 februari 19.45, Narkotikabrott, Linköping",
+    "summary": "Tre unga män misstänks för ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-19.45-narkotikabrott-linkoping/",
+    "type": "Narkotikabrott",
     "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -45,6 +93,42 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 624327,
+    "datetime": "2026-02-11 20:43:22 +01:00",
+    "name": "11 februari 20.42, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Ett antal viltolyckor och renpåkörningar har rapporterats in till polisen under kvällen.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-20.42-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 624116,
+    "datetime": "2026-02-09 13:32:46 +01:00",
+    "name": "09 februari 13.32, Försvunnen person, Borås",
+    "summary": "Polisen söker efter försvunnen man.",
+    "url": "/aktuellt/handelser/2026/februari/9/09-februari-13.32-forsvunnen-person-boras/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 624325,
+    "datetime": "2026-02-11 20:22:00 +01:00",
+    "name": "11 februari 20.21, Trafikolycka, vilt, Norrbottens län",
+    "summary": "Ett antal viltolyckor och renpåkörningar har rapporterats in till polisen under eftermiddagen/kvällen.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-20.21-trafikolycka-vilt-norrbottens-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -249,18 +333,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 624306,
-    "datetime": "2026-02-11 16:03:19 +01:00",
-    "name": "11 februari 15.45, Misshandel, Katrineholm",
-    "summary": "Man skadad av vasst tillhygge.",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-15.45-misshandel-katrineholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5922,78 +5994,6 @@
     "summary": "Samtal till polisen om att man försökt locka in ett barn i en bil.",
     "url": "/aktuellt/handelser/2026/februari/4/04-februari-08.27-olaga-frihetsberovandemanniskorov-vallentuna/",
     "type": "Olaga frihetsberövande/människorov",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 623582,
-    "datetime": "2026-02-04 13:12:13 +01:00",
-    "name": "04 februari 10.40, Trafikolycka, Härjedalen",
-    "summary": "Singelolycka på riksväg 84 Tänndalen.",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-10.40-trafikolycka-harjedalen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 623564,
-    "datetime": "2026-02-04 10:28:38 +01:00",
-    "name": "04 februari 09.32, Brand, Kalmar",
-    "summary": "Brand i ladugård",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-09.32-brand-kalmar/",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 623558,
-    "datetime": "2026-02-04 9:35:36 +01:00",
-    "name": "04 februari 09.23, Brand, Hagfors",
-    "summary": "En industribyggnad är rökfylld i Hagfors.",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-09.23-brand-hagfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 623578,
-    "datetime": "2026-02-04 11:54:05 +01:00",
-    "name": "04 februari 11.53, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-11.53-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 623577,
-    "datetime": "2026-02-04 11:43:57 +01:00",
-    "name": "04 februari 11.24, Övrigt, Stockholm",
-    "summary": "Polisen övar i Hjorthagen och Hässelby.",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-11.24-ovrigt-stockholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 623571,
-    "datetime": "2026-02-04 11:15:17 +01:00",
-    "name": "04 februari 10.34, Kontroll, Stockholm",
-    "summary": "Tung last faller från hög höjd och träffar en parkerad bil.",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-10.34-kontroll-stockholm/",
-    "type": "Kontroll",
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
