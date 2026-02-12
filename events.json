@@ -1,5 +1,89 @@
 [
   {
+    "id": 624359,
+    "datetime": "2026-02-12 8:55:33 +01:00",
+    "name": "12 februari 08.44, Brand, Mellerud",
+    "summary": "Larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-08.44-brand-mellerud/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 624358,
+    "datetime": "2026-02-12 8:48:37 +01:00",
+    "name": "12 februari 08.31, Trafikolycka, Falun",
+    "summary": "Två bilister har kolliderat vid trafikplats Norslund.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-08.31-trafikolycka-falun/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 624306,
+    "datetime": "2026-02-11 16:03:19 +01:00",
+    "name": "11 februari 15.45, Misshandel, grov, Katrineholm",
+    "summary": "Man skadad av vasst tillhygge.",
+    "url": "/aktuellt/handelser/2026/februari/11/11-februari-15.45-misshandel-grov-katrineholm/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 624353,
+    "datetime": "2026-02-12 7:49:56 +01:00",
+    "name": "12 februari 07.48, Sammanfattning natt, Östergötlands län",
+    "summary": "God morgon. Här följer ett urval av nattens ärenden.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.48-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 624352,
+    "datetime": "2026-02-12 7:48:27 +01:00",
+    "name": "12 februari 07.47, Sammanfattning natt, Södermanlands län",
+    "summary": "God morgon. Här följer ett urval av nattens ärenden.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.47-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 624351,
+    "datetime": "2026-02-12 7:47:51 +01:00",
+    "name": "12 februari 07.47, Sammanfattning natt, Jönköpings län",
+    "summary": "God morgon. Här följer ett urval av nattens ärenden.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.47-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 624350,
+    "datetime": "2026-02-12 7:46:49 +01:00",
+    "name": "12 februari 02.47, Olaga intrång, Uppsala",
+    "summary": "Man misstänks för olaga intrång.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-02.47-olaga-intrang-uppsala/",
+    "type": "Olaga intrång",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
     "id": 624349,
     "datetime": "2026-02-12 7:11:48 +01:00",
     "name": "12 februari 02.07, Misshandel, Stockholm",
@@ -108,18 +192,6 @@
     }
   },
   {
-    "id": 624345,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 624339,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -129,6 +201,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 624345,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till torsdag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -225,18 +309,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 624306,
-    "datetime": "2026-02-11 16:03:19 +01:00",
-    "name": "11 februari 15.45, Mord/dråp, försök, Katrineholm",
-    "summary": "Man skadad av vasst tillhygge.",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-15.45-morddrap-forsok-katrineholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 623622,
-    "datetime": "2026-02-04 17:03:57 +01:00",
-    "name": "04 februari 16.24, Trafikolycka, Borås",
-    "summary": "Larm inkommer om en trafikolycka på riksväg 41 i höjd med Fagerhult. Det ska röra sig om en sammanstötning mel",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-16.24-trafikolycka-boras/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 623624,
-    "datetime": "2026-02-04 17:44:25 +01:00",
-    "name": "04 februari 15.46, Fylleri/LOB, Östersund",
-    "summary": "Centrum, polis beordras till centrum med anledning av påverkad man",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-15.46-fyllerilob-ostersund/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 623623,
-    "datetime": "2026-02-04 17:31:19 +01:00",
-    "name": "04 februari 14.12, Trafikolycka, Örnsköldsvik",
-    "summary": "Svartby, två trafikanter har kolliderat vid Arnäsvägen/Myrängsvägen",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-14.12-trafikolycka-ornskoldsvik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 623613,
-    "datetime": "2026-02-04 15:26:50 +01:00",
-    "name": "04 februari 14.11, Fjällräddning, Dorotea",
-    "summary": "Strax norr om Borgafjäll, laviner uppges ha gått vid Klöverfjället",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-14.11-fjallraddning-dorotea/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 623621,
-    "datetime": "2026-02-04 17:00:37 +01:00",
-    "name": "04 februari 11.43, Trafikolycka, Lomma",
-    "summary": "Man i 100-årsåldern förs med ambulans till sjukhus efter trafikolycka.",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-11.43-trafikolycka-lomma/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 623619,
-    "datetime": "2026-02-04 16:39:04 +01:00",
-    "name": "04 februari 14.57, Brand, Älvkarleby",
-    "summary": "Brand i villa.",
-    "url": "/aktuellt/handelser/2026/februari/4/04-februari-14.57-brand-alvkarleby/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
     }
   }
 ]
