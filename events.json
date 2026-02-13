@@ -1,5 +1,53 @@
 [
   {
+    "id": 624522,
+    "datetime": "2026-02-13 21:25:05 +01:00",
+    "name": "13 februari 15.00, Misshandel, Jönköping",
+    "summary": "Man anhållen efter misshandel.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-15.00-misshandel-jonkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 624520,
+    "datetime": "2026-02-13 19:49:48 +01:00",
+    "name": "13 februari 19.25, Brand, Norrköping",
+    "summary": "Brand i villa vid Bråviken.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-19.25-brand-norrkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 624508,
+    "datetime": "2026-02-13 16:49:09 +01:00",
+    "name": "13 februari 16.38, Trafikolycka, Linköping",
+    "summary": "Buss i kollision på E4.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-16.38-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 624532,
+    "datetime": "2026-02-13 21:10:33 +01:00",
+    "name": "13 februari 19.40, Misshandel, grov, Eskilstuna",
+    "summary": "Kvinna gripen efter misstänkt grov misshandel.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-19.40-misshandel-grov-eskilstuna/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
     "id": 624530,
     "datetime": "2026-02-13 20:53:16 +01:00",
     "name": "13 februari 20.21, Trafikolycka, Örnsköldsvik",
@@ -69,18 +117,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 624520,
-    "datetime": "2026-02-13 19:49:48 +01:00",
-    "name": "13 februari 19.25, Brand, Norrköping",
-    "summary": "Brand i villa vid Bråviken.",
-    "url": "/aktuellt/handelser/2026/februari/13/13-februari-19.25-brand-norrkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -189,18 +225,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 624508,
-    "datetime": "2026-02-13 16:49:09 +01:00",
-    "name": "13 februari 16.38, Trafikolycka, Linköping",
-    "summary": "Buss i kollision på E4.",
-    "url": "/aktuellt/handelser/2026/februari/13/13-februari-16.38-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -1548,18 +1572,6 @@
     }
   },
   {
-    "id": 624339,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 624345,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
@@ -1569,6 +1581,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 624339,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 623824,
-    "datetime": "2026-02-06 7:00:15 +01:00",
-    "name": "06 februari 07.00, Sammanfattning kväll och natt, Örebro län",
-    "summary": "Natt till fredag i polisområde Örebro.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-07.00-sammanfattning-kvall-och-natt-orebro-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 623823,
-    "datetime": "2026-02-06 7:00:09 +01:00",
-    "name": "06 februari 07.00, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till fredag i polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-07.00-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
