@@ -1,5 +1,77 @@
 [
   {
+    "id": 624520,
+    "datetime": "2026-02-13 19:49:48 +01:00",
+    "name": "13 februari 19.25, Brand, Norrköping",
+    "summary": "Övertänd villa vid Bråviken.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-19.25-brand-norrkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 624523,
+    "datetime": "2026-02-13 19:58:42 +01:00",
+    "name": "13 februari 19.34, Trafikolycka, vilt, Kil",
+    "summary": "En kollision mellan en bilist och en älg har inträffat i höjd med Frykeruds kyrka",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-19.34-trafikolycka-vilt-kil/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 624521,
+    "datetime": "2026-02-13 19:55:05 +01:00",
+    "name": "13 februari 19.00, Misshandel, Jönköping",
+    "summary": "Man gripen efter bråk på buss.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-19.00-misshandel-jonkoping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 624518,
+    "datetime": "2026-02-13 19:31:46 +01:00",
+    "name": "13 februari 18.16, Misshandel, Sigtuna",
+    "summary": "Polispatruller har sökt efter såväl målsägare som misstänkta ungdomar till en misshandel i Nymärsta kulle.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.16-misshandel-sigtuna/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 624513,
+    "datetime": "2026-02-13 18:39:59 +01:00",
+    "name": "13 februari 18.24, Trafikolycka, Ronneby",
+    "summary": "Trafikolyckor på E22 vid Listerby",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.24-trafikolycka-ronneby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 624517,
+    "datetime": "2026-02-13 19:10:22 +01:00",
+    "name": "13 februari 15.50, Trafikolycka, Åsele",
+    "summary": "Polispatrull beordras till Fredrika med anledning av en skoterolycka.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-15.50-trafikolycka-asele/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 624516,
     "datetime": "2026-02-13 18:53:36 +01:00",
     "name": "13 februari 18.09, Brand, Gällivare",
@@ -21,18 +93,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 624513,
-    "datetime": "2026-02-13 18:39:59 +01:00",
-    "name": "13 februari 18.24, Trafikolycka, Ronneby",
-    "summary": "Trafikolyckor på E22 vid Listerby",
-    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.24-trafikolycka-ronneby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
     }
   },
   {
@@ -1428,18 +1488,6 @@
     }
   },
   {
-    "id": 624339,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 624345,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
@@ -1449,6 +1497,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 624339,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 623796,
-    "datetime": "2026-02-05 21:55:32 +01:00",
-    "name": "05 februari 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 623797,
-    "datetime": "2026-02-05 21:55:24 +01:00",
-    "name": "05 februari 21.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-21.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 623810,
-    "datetime": "2026-02-05 21:55:14 +01:00",
-    "name": "05 februari 19.53, Övrigt, Enköping",
-    "summary": "Polishelikopter över Enköping.",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-19.53-ovrigt-enkoping/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 623809,
-    "datetime": "2026-02-05 21:48:53 +01:00",
-    "name": "05 februari 17.46, Misshandel, grov, Stockholm",
-    "summary": "Misshandlad tonåring ringer 112 från Sätra.",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-17.46-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 623808,
-    "datetime": "2026-02-05 21:45:14 +01:00",
-    "name": "05 februari 21.34, Trafikolycka, Malmö",
-    "summary": "En singelolycka med en personbil inträffar på Öresundsbron.",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-21.34-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
