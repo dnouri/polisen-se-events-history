@@ -1,9 +1,81 @@
 [
   {
+    "id": 624530,
+    "datetime": "2026-02-13 20:53:16 +01:00",
+    "name": "13 februari 20.21, Trafikolycka, Örnsköldsvik",
+    "summary": "Polisen kontaktas om en trafikolycka på Läroverksgatan/Nygatan i Örnsköldsvik.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-20.21-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 624529,
+    "datetime": "2026-02-13 20:51:20 +01:00",
+    "name": "13 februari 19.30, Skadegörelse, Härnösand",
+    "summary": "Polispatrull beordras till Gådeåstaden med anledning av en misstänkt skadegörelse på en fönsterruta.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-19.30-skadegorelse-harnosand/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 624528,
+    "datetime": "2026-02-13 20:48:25 +01:00",
+    "name": "13 februari 20.48, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-20.48-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 624527,
+    "datetime": "2026-02-13 20:47:42 +01:00",
+    "name": "13 februari 20.47, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-20.47-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 624515,
+    "datetime": "2026-02-13 18:51:37 +01:00",
+    "name": "13 februari 18.03, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på länsväg 356/Gunnarsbyvägen, Niemisel.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.03-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 624526,
+    "datetime": "2026-02-13 20:34:25 +01:00",
+    "name": "13 februari 20.20, Smällar, Karlstad",
+    "summary": "Information om larm från skolområde i Karlstad",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-20.20-smallar-karlstad/",
+    "type": "Smällar",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 624520,
     "datetime": "2026-02-13 19:49:48 +01:00",
     "name": "13 februari 19.25, Brand, Norrköping",
-    "summary": "Övertänd villa vid Bråviken.",
+    "summary": "Brand i villa vid Bråviken.",
     "url": "/aktuellt/handelser/2026/februari/13/13-februari-19.25-brand-norrkoping/",
     "type": "Brand",
     "location": {
@@ -78,18 +150,6 @@
     "summary": "Larm om brand i en bil i centrala Gällivare.",
     "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.09-brand-gallivare/",
     "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 624515,
-    "datetime": "2026-02-13 18:51:37 +01:00",
-    "name": "13 februari 18.03, Trafikolycka, Luleå",
-    "summary": "Larm om trafikolycka på länsväg 356/Gunnarsbyvägen, Niemisel.",
-    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.03-trafikolycka-lulea/",
-    "type": "Trafikolycka",
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
@@ -1488,18 +1548,6 @@
     }
   },
   {
-    "id": 624345,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 624339,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -1509,6 +1557,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 624345,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till torsdag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 623822,
-    "datetime": "2026-02-06 7:00:07 +01:00",
-    "name": "06 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till fredag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 623818,
-    "datetime": "2026-02-06 6:45:53 +01:00",
-    "name": "06 februari 05.43, Trafikolycka, Västervik",
-    "summary": "Singelolycka på E22 vid Gamleby.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-05.43-trafikolycka-vastervik/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 623817,
-    "datetime": "2026-02-06 6:39:34 +01:00",
-    "name": "06 februari 00.38, Brand, Ljungby",
-    "summary": "Villabrand i Dörarp.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-00.38-brand-ljungby/",
-    "type": "Brand",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 623816,
-    "datetime": "2026-02-06 1:08:48 +01:00",
-    "name": "06 februari 00.48, Trafikolycka, singel, Ängelholm",
-    "summary": "Lastbil kört av vägen",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-00.48-trafikolycka-singel-angelholm/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 623811,
-    "datetime": "2026-02-05 22:01:15 +01:00",
-    "name": "05 februari 20.10, Brand, Solna",
-    "summary": "Brand i frisersalong misstänks vara anlagd.",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-20.10-brand-solna/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
