@@ -1,5 +1,65 @@
 [
   {
+    "id": 624516,
+    "datetime": "2026-02-13 18:53:36 +01:00",
+    "name": "13 februari 18.09, Brand, Gällivare",
+    "summary": "Larm om brand i en bil i centrala Gällivare.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.09-brand-gallivare/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 624515,
+    "datetime": "2026-02-13 18:51:37 +01:00",
+    "name": "13 februari 18.03, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på länsväg 356/Gunnarsbyvägen, Niemisel.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.03-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 624513,
+    "datetime": "2026-02-13 18:39:59 +01:00",
+    "name": "13 februari 18.24, Trafikolycka, Ronneby",
+    "summary": "Trafikolyckor på E22 vid Listerby",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.24-trafikolycka-ronneby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 624497,
+    "datetime": "2026-02-13 15:36:43 +01:00",
+    "name": "13 februari 14.48, Brand, Motala",
+    "summary": "Larm om husbrand i Motala.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-14.48-brand-motala/",
+    "type": "Brand",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 624514,
+    "datetime": "2026-02-13 18:42:14 +01:00",
+    "name": "13 februari 18.42, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-18.42-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 624510,
     "datetime": "2026-02-13 17:46:50 +01:00",
     "name": "13 februari 17.26, Trafikolycka, Munkedal",
@@ -9,6 +69,54 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 624508,
+    "datetime": "2026-02-13 16:49:09 +01:00",
+    "name": "13 februari 16.38, Trafikolycka, Linköping",
+    "summary": "Buss i kollision på E4.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-16.38-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 624512,
+    "datetime": "2026-02-13 18:34:14 +01:00",
+    "name": "13 februari 14.30, Narkotikabrott, Rättvik",
+    "summary": "En man har omhändertagits i centrum",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-14.30-narkotikabrott-rattvik/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 624511,
+    "datetime": "2026-02-13 18:31:07 +01:00",
+    "name": "13 februari 15.42, Ofredande/förargelse, Falun",
+    "summary": "Ungdomar har kastat snöbollar mot en vuxen man",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-15.42-ofredandeforargelse-falun/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 624505,
+    "datetime": "2026-02-13 16:28:49 +01:00",
+    "name": "13 februari 15.49, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på Skepparegatan/Svartövägen, Svartön.",
+    "url": "/aktuellt/handelser/2026/februari/13/13-februari-15.49-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -33,30 +141,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 624508,
-    "datetime": "2026-02-13 16:49:09 +01:00",
-    "name": "13 februari 16.38, Trafikolycka, Linköping",
-    "summary": "Buss i kollision på E4.",
-    "url": "/aktuellt/handelser/2026/februari/13/13-februari-16.38-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 624505,
-    "datetime": "2026-02-13 16:28:49 +01:00",
-    "name": "13 februari 15.49, Trafikolycka, Luleå",
-    "summary": "Larm om trafikolycka på Skepparegatan/Svartövägen, Svartön.",
-    "url": "/aktuellt/handelser/2026/februari/13/13-februari-15.49-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -105,18 +189,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 624497,
-    "datetime": "2026-02-13 15:36:43 +01:00",
-    "name": "13 februari 14.48, Brand, Motala",
-    "summary": "Larm om husbrand i Motala.",
-    "url": "/aktuellt/handelser/2026/februari/13/13-februari-14.48-brand-motala/",
-    "type": "Brand",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -1356,18 +1428,6 @@
     }
   },
   {
-    "id": 624345,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 624339,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -1377,6 +1437,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 624345,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till torsdag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 623807,
-    "datetime": "2026-02-05 21:34:51 +01:00",
-    "name": "05 februari 20.58, Trafikolycka, Helsingborg",
-    "summary": "Lastbil kör in i mitträcket på E6 i höjd med Rydebäck.",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-20.58-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 623806,
-    "datetime": "2026-02-05 21:32:48 +01:00",
-    "name": "05 februari 20.50, Stöld, Östersund",
-    "summary": "Centrum, kvinna stoppad efter misstänkt ringa stöld i livsmedelsbutik",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-20.50-stold-ostersund/",
-    "type": "Stöld",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 623805,
-    "datetime": "2026-02-05 21:24:38 +01:00",
-    "name": "05 februari 16.39, Kontroll, Danderyd",
-    "summary": "Brandfarlig vätska har hällts i ett brevinkast.",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-16.39-kontroll-danderyd/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 623783,
-    "datetime": "2026-02-05 21:19:41 +01:00",
-    "name": "05 februari 15.10, Misshandel, Skellefteå",
-    "summary": "Burträsk, polis kontaktas gällande bråk mellan två män vid en adress",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-15.10-misshandel-skelleftea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 623803,
-    "datetime": "2026-02-05 21:12:51 +01:00",
-    "name": "05 februari 19.34, Trafikolycka, Jönköping",
-    "summary": "Personbil, skåpbil och lastbil i kollision på E4:an utanför Gränna.",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-19.34-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 623804,
-    "datetime": "2026-02-05 21:05:43 +01:00",
-    "name": "05 februari 20.19, Bråk, Ljungby",
-    "summary": "Flera personer ses bråka utomhus i Ljungby.",
-    "url": "/aktuellt/handelser/2026/februari/5/05-februari-20.19-brak-ljungby/",
-    "type": "Bråk",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   }
 ]
