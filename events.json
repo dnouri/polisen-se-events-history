@@ -1,5 +1,77 @@
 [
   {
+    "id": 624574,
+    "datetime": "2026-02-14 14:01:33 +01:00",
+    "name": "14 februari 10.15, Rattfylleri, Kiruna",
+    "summary": "Kiruna, misstänkt rattfylleri.",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-10.15-rattfylleri-kiruna/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 624573,
+    "datetime": "2026-02-14 13:59:35 +01:00",
+    "name": "14 februari 13.45, Brand, Alvesta",
+    "summary": "Brand i byggnad, Slätthög.",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-13.45-brand-alvesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 624568,
+    "datetime": "2026-02-14 11:36:47 +01:00",
+    "name": "14 februari 11.21, Trafikolycka, Sunne",
+    "summary": "En olycka har inträffat i höjd med Bäckalund",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-11.21-trafikolycka-sunne/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 624572,
+    "datetime": "2026-02-14 13:35:08 +01:00",
+    "name": "14 februari 12.10, Trafikolycka, Karlsborg",
+    "summary": "Bil i singelolycka.",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-12.10-trafikolycka-karlsborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 624571,
+    "datetime": "2026-02-14 13:21:05 +01:00",
+    "name": "14 februari 12.34, Trafikolycka, Umeå",
+    "summary": "Umeå, trafikolycka på Backen.",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-12.34-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 624570,
+    "datetime": "2026-02-14 13:03:33 +01:00",
+    "name": "14 februari 07.49, Brand, Sala",
+    "summary": "Brand i villa.",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-07.49-brand-sala/",
+    "type": "Brand",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
     "id": 624562,
     "datetime": "2026-02-14 10:12:19 +01:00",
     "name": "14 februari 09.06, Brand, Berg",
@@ -33,18 +105,6 @@
     "location": {
       "name": "Kronobergs län",
       "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 624568,
-    "datetime": "2026-02-14 11:36:47 +01:00",
-    "name": "14 februari 11.21, Trafikolycka, Sunne",
-    "summary": "En olycka har inträffat i höjd med Bäckalund",
-    "url": "/aktuellt/handelser/2026/februari/14/14-februari-11.21-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -2028,18 +2088,6 @@
     }
   },
   {
-    "id": 624345,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 624339,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -2049,6 +2097,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 624345,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till torsdag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5934,66 +5994,6 @@
     "summary": "Trafikolycka- Lastbil har kört in i mitträcket på E20 strax söder om Ingared.",
     "url": "/aktuellt/handelser/2026/februari/6/06-februari-15.42-trafikolycka-singel-alingsas/",
     "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 623908,
-    "datetime": "2026-02-06 16:07:00 +01:00",
-    "name": "06 februari 15.47, Rattfylleri, Örebro",
-    "summary": "En olycka har inträffat i höjd med Norrplan",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-15.47-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 623903,
-    "datetime": "2026-02-06 14:26:14 +01:00",
-    "name": "06 februari 14.06, Trafikolycka, Eda",
-    "summary": "Två bilister har kolliderat i Åmotsfors.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-14.06-trafikolycka-eda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 623907,
-    "datetime": "2026-02-06 16:01:31 +01:00",
-    "name": "06 februari 12.57, Fylleri/LOB, Sollefteå",
-    "summary": "Polisen kontaktas angående att ett antal personer ska vara stökiga inne på busstationen.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-12.57-fyllerilob-solleftea/",
-    "type": "Fylleri/LOB",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 623904,
-    "datetime": "2026-02-06 14:52:22 +01:00",
-    "name": "06 februari 14.42, Trafikolycka, personskada, Göteborg",
-    "summary": "Trafikolycka med personskador.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-14.42-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 623900,
-    "datetime": "2026-02-06 13:37:10 +01:00",
-    "name": "06 februari 13.15, Trafikolycka, Härryda",
-    "summary": "Flera fordon är inblandade i en kollision på riksväg 40 i Hindås.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-13.15-trafikolycka-harryda/",
-    "type": "Trafikolycka",
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
