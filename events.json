@@ -1,5 +1,41 @@
 [
   {
+    "id": 624568,
+    "datetime": "2026-02-14 11:36:47 +01:00",
+    "name": "14 februari 11.21, Trafikolycka, Sunne",
+    "summary": "En olycka har inträffat i höjd med Bäckalund",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-11.21-trafikolycka-sunne/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 624567,
+    "datetime": "2026-02-14 11:20:24 +01:00",
+    "name": "14 februari 10.38, Trafikolycka, personskada, Jönköping",
+    "summary": "Bilist stannade inte på polismans tecken",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-10.38-trafikolycka-personskada-jonkoping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 624566,
+    "datetime": "2026-02-14 11:09:19 +01:00",
+    "name": "14 februari 10.32, Rattfylleri, Borlänge",
+    "summary": "En bilist är misstänkt för brott vid Norra Backa",
+    "url": "/aktuellt/handelser/2026/februari/14/14-februari-10.32-rattfylleri-borlange/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
     "id": 624559,
     "datetime": "2026-02-14 9:10:43 +01:00",
     "name": "14 februari 08.59, Brand, Borås",
@@ -303,7 +339,7 @@
     "id": 624542,
     "datetime": "2026-02-14 7:09:10 +01:00",
     "name": "14 februari 04.46, Misshandel, Malmö",
-    "summary": "Man i 25-årsålndern grips misstänkt för misshandel.",
+    "summary": "Man i 25-årsåldern grips misstänkt för misshandel.",
     "url": "/aktuellt/handelser/2026/februari/14/14-februari-04.46-misshandel-malmo/",
     "type": "Misshandel",
     "location": {
@@ -1980,18 +2016,6 @@
     }
   },
   {
-    "id": 624345,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 624339,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -2001,6 +2025,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 624345,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till torsdag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 623902,
-    "datetime": "2026-02-06 14:21:36 +01:00",
-    "name": "06 februari 12.37, Rattfylleri, Luleå",
-    "summary": "Innerstaden, polisen kontrollerar en personbil.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-12.37-rattfylleri-lulea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 623896,
-    "datetime": "2026-02-06 13:23:39 +01:00",
-    "name": "06 februari 12.31, Trafikolycka, Jönköping",
-    "summary": "Ansträngt trafikläget efter olycka.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-12.31-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 623898,
-    "datetime": "2026-02-06 13:28:55 +01:00",
-    "name": "06 februari 13.04, Brand, Nyköping",
-    "summary": "Fullt utvecklad brand i lada.",
-    "url": "/aktuellt/handelser/2026/februari/6/06-februari-13.04-brand-nykoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
