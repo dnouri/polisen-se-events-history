@@ -1,5 +1,29 @@
 [
   {
+    "id": 624740,
+    "datetime": "2026-02-16 14:27:39 +01:00",
+    "name": "16 februari 13.59, Brand, Lund",
+    "summary": "Det brinner i en lastbil på Bryggaregatan.",
+    "url": "/aktuellt/handelser/2026/februari/16/16-februari-13.59-brand-lund/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 624737,
+    "datetime": "2026-02-16 14:20:53 +01:00",
+    "name": "16 februari 14.01, Trafikolycka, Rättvik",
+    "summary": "En olycka har inträffat i Nedre Gärdsjö",
+    "url": "/aktuellt/handelser/2026/februari/16/16-februari-14.01-trafikolycka-rattvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
     "id": 624726,
     "datetime": "2026-02-16 12:42:47 +01:00",
     "name": "16 februari 12.03, Farligt föremål, misstänkt, Malmö",
@@ -12,18 +36,6 @@
     }
   },
   {
-    "id": 624720,
-    "datetime": "2026-02-16 11:47:38 +01:00",
-    "name": "16 februari 11.41, Brand, Ronneby",
-    "summary": "Rökutveckling i lägenhet, Kallinge.",
-    "url": "/aktuellt/handelser/2026/februari/16/16-februari-11.41-brand-ronneby/",
-    "type": "Brand",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
     "id": 624725,
     "datetime": "2026-02-16 12:40:41 +01:00",
     "name": "16 februari 11.42, Brand, Stockholm",
@@ -33,6 +45,66 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 624729,
+    "datetime": "2026-02-16 13:12:33 +01:00",
+    "name": "16 februari 12.26, Brand, Högsby",
+    "summary": "Brand i villa, Långemåla.",
+    "url": "/aktuellt/handelser/2026/februari/16/16-februari-12.26-brand-hogsby/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 624731,
+    "datetime": "2026-02-16 13:33:57 +01:00",
+    "name": "16 februari 10.51, Trafikolycka, singel, Heby",
+    "summary": "Singelolycka med lastbil.",
+    "url": "/aktuellt/handelser/2026/februari/16/16-februari-10.51-trafikolycka-singel-heby/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 624730,
+    "datetime": "2026-02-16 13:22:08 +01:00",
+    "name": "16 februari 12.51, Trafikolycka, Osby",
+    "summary": "Personbil och lastbil i olycka, Osby.",
+    "url": "/aktuellt/handelser/2026/februari/16/16-februari-12.51-trafikolycka-osby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 624728,
+    "datetime": "2026-02-16 13:03:40 +01:00",
+    "name": "16 februari 11.08, Farligt föremål, misstänkt, Herrljunga",
+    "summary": "Allmänheten anträffar en väska på en gångbana i närheten av en förskola i centrum.",
+    "url": "/aktuellt/handelser/2026/februari/16/16-februari-11.08-farligt-foremal-misstankt-herrljunga/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 624720,
+    "datetime": "2026-02-16 11:47:38 +01:00",
+    "name": "16 februari 11.41, Brand, Ronneby",
+    "summary": "Rökutveckling i lägenhet, Kallinge.",
+    "url": "/aktuellt/handelser/2026/februari/16/16-februari-11.41-brand-ronneby/",
+    "type": "Brand",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
     }
   },
   {
@@ -3288,18 +3360,6 @@
     }
   },
   {
-    "id": 624339,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 624345,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
@@ -3309,6 +3369,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 624339,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 624020,
-    "datetime": "2026-02-08 8:05:17 +01:00",
-    "name": "08 februari 08.05, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2026/februari/8/08-februari-08.05-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 624021,
-    "datetime": "2026-02-08 8:04:46 +01:00",
-    "name": "08 februari 08.04, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2026/februari/8/08-februari-08.04-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 624019,
-    "datetime": "2026-02-08 7:55:56 +01:00",
-    "name": "07 februari 23.30, Stöld/inbrott, Västerås",
-    "summary": "Inbrott i källarförråd.",
-    "url": "/aktuellt/handelser/2026/februari/7/07-februari-23.30-stoldinbrott-vasteras/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 624018,
-    "datetime": "2026-02-08 7:53:35 +01:00",
-    "name": "08 februari 01.59, Skadegörelse, Hofors",
-    "summary": "Brand i bil.",
-    "url": "/aktuellt/handelser/2026/februari/8/08-februari-01.59-skadegorelse-hofors/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 624017,
-    "datetime": "2026-02-08 7:51:42 +01:00",
-    "name": "08 februari 00.08, Skadegörelse, Gävle",
-    "summary": "Skadegörelse på företagsfastighet.",
-    "url": "/aktuellt/handelser/2026/februari/8/08-februari-00.08-skadegorelse-gavle/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 624016,
-    "datetime": "2026-02-08 7:50:06 +01:00",
-    "name": "08 februari 07.43, Bedrägeri, Norrköping",
-    "summary": "Äldre kvinna utsatt för fysisk vishing.",
-    "url": "/aktuellt/handelser/2026/februari/8/08-februari-07.43-bedrageri-norrkoping/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
