@@ -1,5 +1,65 @@
 [
   {
+    "id": 624829,
+    "datetime": "2026-02-17 14:27:26 +01:00",
+    "name": "17 februari 10.52, Trafikbrott, Sunne",
+    "summary": "Polisen har omhändertagit körkortet från en man i 25-årsåldern efter en vårdslös körning norr om Sunne.",
+    "url": "/aktuellt/handelser/2026/februari/17/17-februari-10.52-trafikbrott-sunne/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 624823,
+    "datetime": "2026-02-17 13:43:15 +01:00",
+    "name": "17 februari 12.40, Trafikolycka, Luleå",
+    "summary": "Porsön, en bil har kört upp på en refug och in i en stolpe.",
+    "url": "/aktuellt/handelser/2026/februari/17/17-februari-12.40-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 624821,
+    "datetime": "2026-02-17 13:38:35 +01:00",
+    "name": "17 februari 09.16, Stöld/inbrott, Kalix",
+    "summary": "Djuptjärn, polisen kontaktas av en husägare som misstänker att det har varit inbrott i hans garage under natte",
+    "url": "/aktuellt/handelser/2026/februari/17/17-februari-09.16-stoldinbrott-kalix/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 624811,
+    "datetime": "2026-02-17 11:33:55 +01:00",
+    "name": "17 februari 11.33, Försvunnen person, Eskilstuna",
+    "summary": "Polisen söker en försvunnen man i 70-årsåldern.",
+    "url": "/aktuellt/handelser/2026/februari/17/17-februari-11.33-forsvunnen-person-eskilstuna/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 624817,
+    "datetime": "2026-02-17 13:02:21 +01:00",
+    "name": "17 februari 09.46, Rattfylleri, Östersund",
+    "summary": "Centrum, polisen kontrollerar trafiken.",
+    "url": "/aktuellt/handelser/2026/februari/17/17-februari-09.46-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 624815,
     "datetime": "2026-02-17 12:50:33 +01:00",
     "name": "17 februari 12.50, Övrigt, Hallands län",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 624811,
-    "datetime": "2026-02-17 11:33:55 +01:00",
-    "name": "17 februari 11.33, Försvunnen person, Eskilstuna",
-    "summary": "Polisen söker en försvunnen man i 70-årsåldern.",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-11.33-forsvunnen-person-eskilstuna/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -3948,18 +3996,6 @@
     }
   },
   {
-    "id": 624345,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 624339,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -3969,6 +4005,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 624345,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till torsdag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 624089,
-    "datetime": "2026-02-09 10:46:09 +01:00",
-    "name": "09 februari 10.46, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/februari/9/09-februari-10.46-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 624087,
-    "datetime": "2026-02-09 10:11:24 +01:00",
-    "name": "09 februari 08.38, Trafikbrott, Fagersta",
-    "summary": "Förare körde med oskrapade bilrutor.",
-    "url": "/aktuellt/handelser/2026/februari/9/09-februari-08.38-trafikbrott-fagersta/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 624086,
-    "datetime": "2026-02-09 9:19:16 +01:00",
-    "name": "09 februari 09.19, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Flertalet viltolyckor i länet under morgonen",
-    "url": "/aktuellt/handelser/2026/februari/9/09-februari-09.19-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 624081,
-    "datetime": "2026-02-09 8:33:32 +01:00",
-    "name": "09 februari 08.02, Trafikhinder, Sundsvall",
-    "summary": "Stillastående lastbil på E4 Skönsberg, Sundsvall.",
-    "url": "/aktuellt/handelser/2026/februari/9/09-februari-08.02-trafikhinder-sundsvall/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
