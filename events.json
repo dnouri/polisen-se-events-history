@@ -1,5 +1,65 @@
 [
   {
+    "id": 625123,
+    "datetime": "2026-02-19 17:39:40 +01:00",
+    "name": "19 februari 17.27, Trafikolycka, Sundsvall",
+    "summary": "Singelolycka på E4 vid Birsta, Sundsvall.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-17.27-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 625102,
+    "datetime": "2026-02-19 15:42:25 +01:00",
+    "name": "19 februari 15.35, Trafikolycka, Vimmerby",
+    "summary": "Två personbilar i kollision på riksväg 40.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-15.35-trafikolycka-vimmerby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 625121,
+    "datetime": "2026-02-19 17:30:51 +01:00",
+    "name": "19 februari 16.32, Brand, Luleå",
+    "summary": "Brand i personbil på Björkskatan i Luleå.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-16.32-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 625120,
+    "datetime": "2026-02-19 17:27:55 +01:00",
+    "name": "19 februari 17.27, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-17.27-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 625119,
+    "datetime": "2026-02-19 17:23:10 +01:00",
+    "name": "19 februari 17.22, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-17.22-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 625117,
     "datetime": "2026-02-19 16:53:47 +01:00",
     "name": "19 februari 16.15, Trafikolycka, Oskarshamn",
@@ -105,18 +165,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 625102,
-    "datetime": "2026-02-19 15:42:25 +01:00",
-    "name": "19 februari 15.35, Trafikolycka, Vimmerby",
-    "summary": "Två personbilar i kollision på riksväg 40.",
-    "url": "/aktuellt/handelser/2026/februari/19/19-februari-15.35-trafikolycka-vimmerby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 624347,
-    "datetime": "2026-02-12 7:00:18 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Örebro län",
-    "summary": "Natt till torsdag i polisområde Örebro.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 624338,
-    "datetime": "2026-02-12 7:00:17 +01:00",
-    "name": "12 februari 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 624346,
-    "datetime": "2026-02-12 7:00:15 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till torsdag i polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 624345,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
