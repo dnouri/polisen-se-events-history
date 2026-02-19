@@ -1,5 +1,101 @@
 [
   {
+    "id": 625051,
+    "datetime": "2026-02-19 8:18:03 +01:00",
+    "name": "19 februari 07.41, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en lugn natt för polisen i länet. Nedan beskrivs ett urval av haändelser polisen haft att hanter",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-07.41-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 625046,
+    "datetime": "2026-02-19 7:45:12 +01:00",
+    "name": "19 februari 07.07, Trafikolycka, vilt, Kramfors",
+    "summary": "Viltolycka på riksväg 90 norr om Bollstabruk.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-07.07-trafikolycka-vilt-kramfors/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 625050,
+    "datetime": "2026-02-19 7:59:04 +01:00",
+    "name": "19 februari 07.54, Trafikolycka, Norrköping",
+    "summary": "Trafikolycka påverkar trafiken på E4, Åby, Norrköping",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-07.54-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 625049,
+    "datetime": "2026-02-19 7:54:12 +01:00",
+    "name": "19 februari 07.53, Sammanfattning natt, Jönköpings län",
+    "summary": "God morgon. Här följer ett urval av nattens ärenden.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-07.53-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 625048,
+    "datetime": "2026-02-19 7:53:18 +01:00",
+    "name": "19 februari 07.52, Sammanfattning natt, Södermanlands län",
+    "summary": "God morgon. Här följer ett urval av nattens ärenden.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-07.52-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 625047,
+    "datetime": "2026-02-19 7:52:36 +01:00",
+    "name": "19 februari 07.49, Sammanfattning natt, Östergötlands län",
+    "summary": "God morgon. Här följer ett urval av nattens ärenden.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-07.49-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 625044,
+    "datetime": "2026-02-19 7:41:37 +01:00",
+    "name": "19 februari 07.27, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en mycket lugn natt för polisen i länet utan allvarliga händelser eller brott.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-07.27-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 625045,
+    "datetime": "2026-02-19 7:41:37 +01:00",
+    "name": "19 februari 06.34, Trafikolycka, vilt, Arboga",
+    "summary": "Viltolycka på E20.",
+    "url": "/aktuellt/handelser/2026/februari/19/19-februari-06.34-trafikolycka-vilt-arboga/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
     "id": 625042,
     "datetime": "2026-02-19 7:26:53 +01:00",
     "name": "19 februari 07.15, Sammanfattning natt, Värmlands län",
@@ -5544,18 +5640,6 @@
     }
   },
   {
-    "id": 624345,
-    "datetime": "2026-02-12 7:00:12 +01:00",
-    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till torsdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 624339,
     "datetime": "2026-02-12 7:00:12 +01:00",
     "name": "12 februari 07.00, Sammanfattning kväll och natt, Hallands län",
@@ -5565,6 +5649,18 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 624345,
+    "datetime": "2026-02-12 7:00:12 +01:00",
+    "name": "12 februari 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till torsdag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2026/februari/12/12-februari-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 624307,
-    "datetime": "2026-02-11 16:25:24 +01:00",
-    "name": "11 februari 15.39, Rattfylleri, Örebro",
-    "summary": "En bilist är misstänkt för brott i City",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-15.39-rattfylleri-orebro/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 624304,
-    "datetime": "2026-02-11 15:39:15 +01:00",
-    "name": "11 februari 15.34, Trafikkontroll, Jämtlands län",
-    "summary": "Ett urval av polisens arbete i trafiken under eftermiddagen.",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-15.34-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 624303,
-    "datetime": "2026-02-11 15:24:35 +01:00",
-    "name": "11 februari 13.06, Stöld, Luleå",
-    "summary": "Storheden, polisen larmas till en butik.",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-13.06-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 624301,
-    "datetime": "2026-02-11 15:05:18 +01:00",
-    "name": "11 februari 13.42, Fjällräddning, Älvdalen",
-    "summary": "En person har skadat sig i Grövelsjön",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-13.42-fjallraddning-alvdalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 624298,
-    "datetime": "2026-02-11 14:41:09 +01:00",
-    "name": "11 februari 12.39, Trafikkontroll, Sundsvall",
-    "summary": "Länsväg 562/Norrstigen, Bredsand. Polisen kontrollerar trafiken.",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-12.39-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 624290,
-    "datetime": "2026-02-11 13:39:16 +01:00",
-    "name": "11 februari 12.39, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-12.39-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 624293,
-    "datetime": "2026-02-11 13:39:06 +01:00",
-    "name": "11 februari 13.39, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-13.39-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 624294,
-    "datetime": "2026-02-11 13:38:57 +01:00",
-    "name": "11 februari 13.38, Trafikkontroll, Västernorrlands län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/februari/11/11-februari-13.38-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
