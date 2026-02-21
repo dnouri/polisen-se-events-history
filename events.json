@@ -1,17 +1,5 @@
 [
   {
-    "id": 625300,
-    "datetime": "2026-02-21 12:47:52 +01:00",
-    "name": "21 februari 12.31, Trafikolycka, Strömstad",
-    "summary": "Larm inkommer om en trafikolycka på E6:an i höjd med Hogdalsmotet. Det ska vara flera  personbilar inblandade.",
-    "url": "/aktuellt/handelser/2026/februari/21/21-februari-12.31-trafikolycka-stromstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
     "id": 625299,
     "datetime": "2026-02-21 11:48:23 +01:00",
     "name": "21 februari 11.27, Fjällräddning, Härjedalen",
@@ -21,6 +9,42 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 625302,
+    "datetime": "2026-02-21 13:38:07 +01:00",
+    "name": "21 februari 13.37, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/februari/21/21-februari-13.37-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 625301,
+    "datetime": "2026-02-21 13:33:40 +01:00",
+    "name": "21 februari 13.33, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/februari/21/21-februari-13.33-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 625300,
+    "datetime": "2026-02-21 12:47:52 +01:00",
+    "name": "21 februari 12.31, Trafikolycka, Strömstad",
+    "summary": "Larm inkommer om en trafikolycka på E6:an i höjd med Hogdalsmotet. Det ska vara flera  personbilar inblandade.",
+    "url": "/aktuellt/handelser/2026/februari/21/21-februari-12.31-trafikolycka-stromstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kalmar län",
       "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 624535,
-    "datetime": "2026-02-14 6:35:51 +01:00",
-    "name": "14 februari 03.32, Misshandel, Växjö",
-    "summary": "Slagsmål på Stortorget.",
-    "url": "/aktuellt/handelser/2026/februari/14/14-februari-03.32-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 624524,
-    "datetime": "2026-02-13 21:56:26 +01:00",
-    "name": "13 februari 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/februari/13/13-februari-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
