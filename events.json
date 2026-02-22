@@ -1,14 +1,50 @@
 [
   {
-    "id": 625353,
-    "datetime": "2026-02-22 12:28:41 +01:00",
-    "name": "22 februari 11.56, Brand, Kristianstad",
-    "summary": "Fullt utvecklad brand, Åhus",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-11.56-brand-kristianstad/",
+    "id": 625362,
+    "datetime": "2026-02-22 14:59:48 +01:00",
+    "name": "22 februari 14.52, Trafikolycka, Nora",
+    "summary": "Singelolycka på Rv 50 vid Fingerboda.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-14.52-trafikolycka-nora/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 625361,
+    "datetime": "2026-02-22 14:56:50 +01:00",
+    "name": "22 februari 14.55, Övrigt, Hallands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-14.55-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 625360,
+    "datetime": "2026-02-22 14:56:21 +01:00",
+    "name": "22 februari 14.55, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-14.55-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 625356,
+    "datetime": "2026-02-22 14:26:17 +01:00",
+    "name": "22 februari 13.36, Brand, Uppsala",
+    "summary": "Brand i flerfamiljshus.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-13.36-brand-uppsala/",
     "type": "Brand",
     "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -21,6 +57,66 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 625359,
+    "datetime": "2026-02-22 14:43:39 +01:00",
+    "name": "22 februari 14.06, Trafikolycka, Lekeberg",
+    "summary": "Singelolycka på E 18 vid Lekhyttan.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-14.06-trafikolycka-lekeberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 625358,
+    "datetime": "2026-02-22 14:37:34 +01:00",
+    "name": "22 februari 14.37, Sabotage mot blåljusverksamhet, Kiruna",
+    "summary": "Polisen söker iakttagelser efter blåljussabotage i Riksgränsen.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-14.37-sabotage-mot-blaljusverksamhet-kiruna/",
+    "type": "Sabotage mot blåljusverksamhet",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 625357,
+    "datetime": "2026-02-22 14:36:20 +01:00",
+    "name": "22 februari 14.26, Stöld, Hällefors",
+    "summary": "Flertalet extraljus stulna från parkerade fordon.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-14.26-stold-hallefors/",
+    "type": "Stöld",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 625355,
+    "datetime": "2026-02-22 14:26:08 +01:00",
+    "name": "22 februari 14.25, Stöld/inbrott, Örebro",
+    "summary": "Polis genomför brottsplatsundersökning efter en stöld.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-14.25-stoldinbrott-orebro/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 625353,
+    "datetime": "2026-02-22 12:28:41 +01:00",
+    "name": "22 februari 11.56, Brand, Kristianstad",
+    "summary": "Fullt utvecklad brand, Åhus",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-11.56-brand-kristianstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 624597,
-    "datetime": "2026-02-15 7:06:47 +01:00",
-    "name": "15 februari 00.05, Misshandel, Stockholm",
-    "summary": "En kvinna misstänks ha misshandlat en man på ett hotell i Stockholm. Kvinnan grips.",
-    "url": "/aktuellt/handelser/2026/februari/15/15-februari-00.05-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 624585,
-    "datetime": "2026-02-14 19:39:42 +01:00",
-    "name": "14 februari 18.30, Mord/dråp, försök, Umeå",
-    "summary": "Umeå, två män är anhållna misstänkta för mordförsök.",
-    "url": "/aktuellt/handelser/2026/februari/14/14-februari-18.30-morddrap-forsok-umea/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 624596,
-    "datetime": "2026-02-15 6:52:41 +01:00",
-    "name": "15 februari 06.52, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/februari/15/15-februari-06.52-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 624595,
-    "datetime": "2026-02-15 6:52:08 +01:00",
-    "name": "15 februari 06.51, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/februari/15/15-februari-06.51-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 624594,
-    "datetime": "2026-02-15 6:42:33 +01:00",
-    "name": "15 februari 01.23, Misshandel, Malmö",
-    "summary": "Man och pojke misstänks för misshandel utanför nattklubb.",
-    "url": "/aktuellt/handelser/2026/februari/15/15-februari-01.23-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 624593,
-    "datetime": "2026-02-15 6:18:52 +01:00",
-    "name": "15 februari 02.44, Misshandel, Växjö",
-    "summary": "Två personer anmäler varnadra för misshandel.",
-    "url": "/aktuellt/handelser/2026/februari/15/15-februari-02.44-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 624592,
-    "datetime": "2026-02-15 6:11:40 +01:00",
-    "name": "15 februari 01.08, Misshandel, Olofström",
-    "summary": "Man i 20-årsåldern blir misshandlad.",
-    "url": "/aktuellt/handelser/2026/februari/15/15-februari-01.08-misshandel-olofstrom/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 624578,
-    "datetime": "2026-02-14 21:55:24 +01:00",
-    "name": "14 februari 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/februari/14/14-februari-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
