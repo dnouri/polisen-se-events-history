@@ -1,5 +1,53 @@
 [
   {
+    "id": 625576,
+    "datetime": "2026-02-24 16:04:21 +01:00",
+    "name": "24 februari 13.28, Olaga hot, Umeå",
+    "summary": "Alvik, en man ska ha ätit på en restaurang i ett köpcentrum och sedan vägrat betala.",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-13.28-olaga-hot-umea/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 625575,
+    "datetime": "2026-02-24 16:01:01 +01:00",
+    "name": "24 februari 15.34, Brand, Essunga",
+    "summary": "Vi får larm om en brand i ett hus vid Fåglum.",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-15.34-brand-essunga/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 625574,
+    "datetime": "2026-02-24 15:52:26 +01:00",
+    "name": "24 februari 14.00, Trafikolycka, Kalix",
+    "summary": "Gammelgården, en personbil har voltat.",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-14.00-trafikolycka-kalix/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 625573,
+    "datetime": "2026-02-24 15:19:44 +01:00",
+    "name": "24 februari 15.01, Trafikolycka, singel, Norrköping",
+    "summary": "En person skadad i singelolycka.",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-15.01-trafikolycka-singel-norrkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 625568,
     "datetime": "2026-02-24 14:36:47 +01:00",
     "name": "24 februari 14.19, Trafikolycka, Uppsala",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 625570,
+    "datetime": "2026-02-24 15:18:31 +01:00",
+    "name": "24 februari 15.15, Försvunnen person, Örebro",
+    "summary": "Polisen har anträffat mannen.",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-15.15-forsvunnen-person-orebro/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 624780,
-    "datetime": "2026-02-17 6:37:17 +01:00",
-    "name": "16 februari 23.11, Misshandel, grov, Helsingborg",
-    "summary": "Man misshandlad, Helsingborg.",
-    "url": "/aktuellt/handelser/2026/februari/16/16-februari-23.11-misshandel-grov-helsingborg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 624779,
-    "datetime": "2026-02-17 2:08:19 +01:00",
-    "name": "16 februari 23.16, Knivlagen, Sigtuna",
-    "summary": "Man som sover i trapphus blir misstänkt för brott.",
-    "url": "/aktuellt/handelser/2026/februari/16/16-februari-23.16-knivlagen-sigtuna/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 624778,
-    "datetime": "2026-02-17 2:01:58 +01:00",
-    "name": "17 februari 00.24, Brand, Stockholm",
-    "summary": "Cykelbatteri orsakar brand i trapphus.",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-00.24-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 624777,
-    "datetime": "2026-02-17 1:56:07 +01:00",
-    "name": "17 februari 00.46, Explosion, Stockholm",
-    "summary": "Explosion förstör port i Rinkeby.",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-00.46-explosion-stockholm/",
-    "type": "Explosion",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 624772,
-    "datetime": "2026-02-16 21:53:37 +01:00",
-    "name": "16 februari 21.53, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
-    "url": "/aktuellt/handelser/2026/februari/16/16-februari-21.53-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
