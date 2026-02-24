@@ -1,5 +1,53 @@
 [
   {
+    "id": 625533,
+    "datetime": "2026-02-24 9:59:09 +01:00",
+    "name": "24 februari 09.04, Brand, Umeå",
+    "summary": "Röbäck, larm om brand i byggnad",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-09.04-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 625370,
+    "datetime": "2026-02-22 23:41:46 +01:00",
+    "name": "22 februari 22.24, Explosion, Sollentuna",
+    "summary": "Bilar skadas vid explosion i Rotebro.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-22.24-explosion-sollentuna/",
+    "type": "Explosion",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 625334,
+    "datetime": "2026-02-22 7:16:28 +01:00",
+    "name": "22 februari 05.11, Explosion, Nacka",
+    "summary": "Explosion vid bostad på Älgö.",
+    "url": "/aktuellt/handelser/2026/februari/22/22-februari-05.11-explosion-nacka/",
+    "type": "Explosion",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 625532,
+    "datetime": "2026-02-24 9:29:47 +01:00",
+    "name": "24 februari 08.11, Trafikolycka, Uppsala",
+    "summary": "Sidokrock på länsväg 282.",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-08.11-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
     "id": 625529,
     "datetime": "2026-02-24 8:17:48 +01:00",
     "name": "24 februari 08.17, Trafikolycka, Katrineholm",
@@ -1068,18 +1116,6 @@
     }
   },
   {
-    "id": 625370,
-    "datetime": "2026-02-22 23:41:46 +01:00",
-    "name": "22 februari 22.24, Explosion, Sollentuna",
-    "summary": "Bilar skadas vid explosion i Rotebro.",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-22.24-explosion-sollentuna/",
-    "type": "Explosion",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
     "id": 625368,
     "datetime": "2026-02-22 20:20:34 +01:00",
     "name": "22 februari 20.03, Trafikolycka, singel, Trelleborg",
@@ -1533,18 +1569,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 625334,
-    "datetime": "2026-02-22 7:16:28 +01:00",
-    "name": "22 februari 05.11, Explosion, Nacka",
-    "summary": "Explosion vid bostad på Älgö.",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-05.11-explosion-nacka/",
-    "type": "Explosion",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 624760,
-    "datetime": "2026-02-16 17:35:18 +01:00",
-    "name": "16 februari 16.18, Trafikolycka, Enköping",
-    "summary": "Två personbilar i kollision.",
-    "url": "/aktuellt/handelser/2026/februari/16/16-februari-16.18-trafikolycka-enkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 624758,
-    "datetime": "2026-02-16 16:50:05 +01:00",
-    "name": "16 februari 16.15, Brand, Borås",
-    "summary": "SOS får larm om brand i ett flerfamiljshus. Inringaren ser svart rök från en lägenhet.",
-    "url": "/aktuellt/handelser/2026/februari/16/16-februari-16.15-brand-boras/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
