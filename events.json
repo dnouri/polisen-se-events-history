@@ -1,5 +1,101 @@
 [
   {
+    "id": 625637,
+    "datetime": "2026-02-25 8:46:26 +01:00",
+    "name": "25 februari 08.09, Trafikolycka, Malmö",
+    "summary": "Kollision mellan två personbilar i rondellen vid Inre Ringvägen/Trelleborgsvägen.",
+    "url": "/aktuellt/handelser/2026/februari/25/25-februari-08.09-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 625631,
+    "datetime": "2026-02-25 8:45:31 +01:00",
+    "name": "25 februari 03.54, Misshandel, Stockholm",
+    "summary": "Två män misshandlar en annan man på Medborgarplatsen, Södermalm.",
+    "url": "/aktuellt/handelser/2026/februari/25/25-februari-03.54-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 625633,
+    "datetime": "2026-02-25 8:25:38 +01:00",
+    "name": "24 februari 20.39, Misshandel, Sundsvall",
+    "summary": "Sundsvall, grov misshandel.",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-20.39-misshandel-sundsvall/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 625632,
+    "datetime": "2026-02-25 8:17:12 +01:00",
+    "name": "25 februari 06.17, Knivlagen, Sandviken",
+    "summary": "Anträffade man med kniv i sin bil.",
+    "url": "/aktuellt/handelser/2026/februari/25/25-februari-06.17-knivlagen-sandviken/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 625629,
+    "datetime": "2026-02-25 7:59:36 +01:00",
+    "name": "25 februari 02.16, Stöld/inbrott, Järfälla",
+    "summary": "Tre personer har gjort inbrott i ett garage i Kallhäll.",
+    "url": "/aktuellt/handelser/2026/februari/25/25-februari-02.16-stoldinbrott-jarfalla/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 625538,
+    "datetime": "2026-02-24 10:35:42 +01:00",
+    "name": "24 februari 10.26, Trafikolycka, personskada, Gävle",
+    "summary": "Lastbil och personbilar i olycka på E4.",
+    "url": "/aktuellt/handelser/2026/februari/24/24-februari-10.26-trafikolycka-personskada-gavle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 625628,
+    "datetime": "2026-02-25 7:49:15 +01:00",
+    "name": "25 februari 03.12, Stöld/inbrott, Västerås",
+    "summary": "Inbrott på byggarbetsplats.",
+    "url": "/aktuellt/handelser/2026/februari/25/25-februari-03.12-stoldinbrott-vasteras/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 625627,
+    "datetime": "2026-02-25 7:25:44 +01:00",
+    "name": "25 februari 07.19, Brand, Örebro",
+    "summary": "Det brinner i en lokal i City",
+    "url": "/aktuellt/handelser/2026/februari/25/25-februari-07.19-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 625622,
     "datetime": "2026-02-25 7:33:25 +01:00",
     "name": "25 februari 07.32, Sammanfattning natt, Östergötlands län",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 625627,
-    "datetime": "2026-02-25 7:25:44 +01:00",
-    "name": "25 februari 07.19, Brand, Örebro",
-    "summary": "Det brinner i en lokal i City",
-    "url": "/aktuellt/handelser/2026/februari/25/25-februari-07.19-brand-orebro/",
-    "type": "Brand",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -549,18 +633,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 625538,
-    "datetime": "2026-02-24 10:35:42 +01:00",
-    "name": "24 februari 10.26, Trafikolycka, personskada, Gävle",
-    "summary": "Lastbil och personbilar i olycka på E4.",
-    "url": "/aktuellt/handelser/2026/februari/24/24-februari-10.26-trafikolycka-personskada-gavle/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
     }
   },
   {
@@ -5922,78 +5994,6 @@
     "summary": "En person misstänks för skadegörelse och hets mot folkgrupp efter att ha målat ett hakkors på en grannes dörr.",
     "url": "/aktuellt/handelser/2026/februari/17/17-februari-18.38-hets-mot-folkgrupp-solna/",
     "type": "Hets mot folkgrupp",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 624885,
-    "datetime": "2026-02-17 20:10:45 +01:00",
-    "name": "17 februari 19.57, Brand, Malmö",
-    "summary": "Bilbrand i Oxie.",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-19.57-brand-malmo/",
-    "type": "Brand",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 624858,
-    "datetime": "2026-02-17 20:14:55 +01:00",
-    "name": "17 februari 14.51, Mord/dråp, försök, Härnösand",
-    "summary": "Härnösand, polis kontaktas gällande misshandel på anstalt",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-14.51-morddrap-forsok-harnosand/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 624875,
-    "datetime": "2026-02-17 18:34:20 +01:00",
-    "name": "17 februari 18.16, Trafikolycka, singel, Burlöv",
-    "summary": "Lastbil kör in i byggnad.",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-18.16-trafikolycka-singel-burlov/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 624872,
-    "datetime": "2026-02-17 18:00:09 +01:00",
-    "name": "17 februari 16.23, Olaga hot, Alingsås",
-    "summary": "Polisen larmades under tisdagseftermiddagen till ett bostadsområde i Alingsås för att kontrollera uppgifter om",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-16.23-olaga-hot-alingsas/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 624883,
-    "datetime": "2026-02-17 19:54:55 +01:00",
-    "name": "17 februari 16.44, Trafikolycka, personskada, Heby",
-    "summary": "Singelolycka i Heby.",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-16.44-trafikolycka-personskada-heby/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 624882,
-    "datetime": "2026-02-17 19:46:16 +01:00",
-    "name": "17 februari 19.06, Bråk, Stockholm",
-    "summary": "Ett 20-tal ungdomar slåss i Vällingby.",
-    "url": "/aktuellt/handelser/2026/februari/17/17-februari-19.06-brak-stockholm/",
-    "type": "Bråk",
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
