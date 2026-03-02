@@ -1,14 +1,26 @@
 [
   {
-    "id": 626068,
-    "datetime": "2026-03-02 9:40:29 +01:00",
-    "name": "02 mars 07.27, Stöld, Västerås",
-    "summary": "Stöld ur bil.",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-07.27-stold-vasteras/",
-    "type": "Stöld",
+    "id": 626086,
+    "datetime": "2026-03-02 10:35:56 +01:00",
+    "name": "02 mars 10.07, Trafikolycka, Karlstad",
+    "summary": "Polisen är på plats vid en trafikolycka på E18 utanför Karlstad.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-10.07-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 626090,
+    "datetime": "2026-03-02 10:53:24 +01:00",
+    "name": "02 mars 08.12, Anträffat gods, Upplands-Bro",
+    "summary": "Föremål i Bro som inte kan avfärdas som ofarligt.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-08.12-antraffat-gods-upplands-bro/",
+    "type": "Anträffat gods",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -21,6 +33,18 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 626068,
+    "datetime": "2026-03-02 9:40:29 +01:00",
+    "name": "02 mars 07.27, Stöld, Västerås",
+    "summary": "Stöld ur bil.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-07.27-stold-vasteras/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 625329,
-    "datetime": "2026-02-22 7:03:21 +01:00",
-    "name": "22 februari 07.03, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-07.03-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 625328,
-    "datetime": "2026-02-22 7:01:39 +01:00",
-    "name": "22 februari 02.39, Misshandel, Karlskrona",
-    "summary": "Man slagen, Trossö.",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-02.39-misshandel-karlskrona/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
     }
   }
 ]
