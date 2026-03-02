@@ -1,5 +1,29 @@
 [
   {
+    "id": 626153,
+    "datetime": "2026-03-02 17:58:32 +01:00",
+    "name": "02 mars 16.49, Brand, Mölndal",
+    "summary": "Det brinner på en adress på Kryptongatan i Mölndal.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-16.49-brand-molndal/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 626139,
+    "datetime": "2026-03-02 16:21:14 +01:00",
+    "name": "02 mars 15.30, Trafikolycka, Luleå",
+    "summary": "Larm om trafikolycka på E4, Strömsund.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-15.30-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 626147,
     "datetime": "2026-03-02 17:02:17 +01:00",
     "name": "02 mars 16.36, Trafikolycka, personskada, Nyköping",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 626149,
+    "datetime": "2026-03-02 17:16:00 +01:00",
+    "name": "02 mars 16.10, Misshandel, Umeå",
+    "summary": "Polis beordras till Umedalen där det varit någon typ av bråk utomhus.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-16.10-misshandel-umea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -33,18 +69,6 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 626139,
-    "datetime": "2026-03-02 16:21:14 +01:00",
-    "name": "02 mars 15.30, Trafikolycka, Luleå",
-    "summary": "Larm om trafikolycka på E4, Strömsund.",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-15.30-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 625353,
-    "datetime": "2026-02-22 12:28:41 +01:00",
-    "name": "22 februari 11.56, Brand, Kristianstad",
-    "summary": "Fullt utvecklad brand, Åhus",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-11.56-brand-kristianstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 625352,
-    "datetime": "2026-02-22 12:02:52 +01:00",
-    "name": "22 februari 12.02, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-12.02-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
