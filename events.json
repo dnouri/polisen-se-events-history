@@ -1,5 +1,77 @@
 [
   {
+    "id": 626116,
+    "datetime": "2026-03-02 12:26:21 +01:00",
+    "name": "02 mars 07.57, Stöld/inbrott, Uppsala",
+    "summary": "Inbrott på skola.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-07.57-stoldinbrott-uppsala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 626115,
+    "datetime": "2026-03-02 12:25:24 +01:00",
+    "name": "02 mars 10.29, Trafikolycka, personskada, Ulricehamn",
+    "summary": "På riksväg 46 vid Timmele centrum är det en manlig bilist som kör på en kvinnlig bilist bakifrån.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-10.29-trafikolycka-personskada-ulricehamn/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 626114,
+    "datetime": "2026-03-02 12:21:41 +01:00",
+    "name": "02 mars 06.54, Stöld/inbrott, Västerås",
+    "summary": "Tre personer misstänks för brott.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-06.54-stoldinbrott-vasteras/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 626064,
+    "datetime": "2026-03-02 9:11:27 +01:00",
+    "name": "02 mars 08.37, Farligt föremål, misstänkt, Klippan",
+    "summary": "Kontroll av föremål i centrala Klippan",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-08.37-farligt-foremal-misstankt-klippan/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 626113,
+    "datetime": "2026-03-02 12:14:55 +01:00",
+    "name": "02 mars 09.55, Brand, Skellefteå",
+    "summary": "Renström, polis och räddningstjänst larmas om en brand i en gruva.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-09.55-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 626108,
+    "datetime": "2026-03-02 12:11:05 +01:00",
+    "name": "02 mars 11.06, Trafikkontroll, Skellefteå",
+    "summary": "Klockarbergsvägen, Sjungande dalen. Polisen kontrollerar hastighet.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-11.06-trafikkontroll-skelleftea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 626099,
     "datetime": "2026-03-02 11:20:04 +01:00",
     "name": "02 mars 08.42, Rattfylleri, Umeå",
@@ -45,18 +117,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 626064,
-    "datetime": "2026-03-02 9:11:27 +01:00",
-    "name": "02 mars 08.37, Farligt föremål, misstänkt, Klippan",
-    "summary": "Kontroll av föremål i centrala Klippan",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-08.37-farligt-foremal-misstankt-klippan/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 625340,
-    "datetime": "2026-02-22 7:41:36 +01:00",
-    "name": "22 februari 07.41, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-07.41-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 625337,
-    "datetime": "2026-02-22 7:22:17 +01:00",
-    "name": "22 februari 07.20, Sammanfattning natt, Örebro län",
-    "summary": "Natt till söndag i polisområde Örebro.",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-07.20-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 625335,
-    "datetime": "2026-02-22 7:22:12 +01:00",
-    "name": "22 februari 07.20, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till söndag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-07.20-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 625336,
-    "datetime": "2026-02-22 7:22:14 +01:00",
-    "name": "22 februari 07.20, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till söndag i polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-07.20-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 625333,
-    "datetime": "2026-02-22 7:11:40 +01:00",
-    "name": "22 februari 07.11, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet klockan 00:00-07:00:",
-    "url": "/aktuellt/handelser/2026/februari/22/22-februari-07.11-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
