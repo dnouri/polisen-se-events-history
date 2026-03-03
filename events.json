@@ -1,5 +1,89 @@
 [
   {
+    "id": 626213,
+    "datetime": "2026-03-03 8:54:42 +01:00",
+    "name": "03 mars 08.15, Brand, Borås",
+    "summary": "Larm inkommer till SOS gällande en brand i en tvåvåningsvilla i Fristad.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-08.15-brand-boras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 626209,
+    "datetime": "2026-03-03 8:45:55 +01:00",
+    "name": "03 mars 08.44, Trafikolycka, Norrköping",
+    "summary": "Barn till sjukhus för kontroll",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-08.44-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 626208,
+    "datetime": "2026-03-03 8:36:18 +01:00",
+    "name": "03 mars 08.35, Trafikolycka, Västra Götalands län",
+    "summary": "Det råder just nu halt väglag på flera platser i Västra Götalands län.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-08.35-trafikolycka-vastra-gotalands-lan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 626118,
+    "datetime": "2026-03-02 13:06:15 +01:00",
+    "name": "02 mars 12.45, Smällar, Stockholm",
+    "summary": "Explosion vid port i Rågsved.",
+    "url": "/aktuellt/handelser/2026/mars/2/02-mars-12.45-smallar-stockholm/",
+    "type": "Smällar",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 626188,
+    "datetime": "2026-03-03 6:59:00 +01:00",
+    "name": "03 mars 06.41, Trafikolycka, Svedala",
+    "summary": "Två personbilar i olycka, Hyby.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-06.41-trafikolycka-svedala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 626207,
+    "datetime": "2026-03-03 8:24:04 +01:00",
+    "name": "03 mars 08.17, Trafikolycka, Sjöbo",
+    "summary": "Personbil och lastbil i olycka, Björka.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-08.17-trafikolycka-sjobo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 626206,
+    "datetime": "2026-03-03 8:16:07 +01:00",
+    "name": "03 mars 02.07, Stöld, Sandviken",
+    "summary": "Man misstänkt för stöld.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-02.07-stold-sandviken/",
+    "type": "Stöld",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
     "id": 626203,
     "datetime": "2026-03-03 7:57:21 +01:00",
     "name": "03 mars 07.10, Trafikolycka, Härryda",
@@ -9,6 +93,18 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 626189,
+    "datetime": "2026-03-03 7:03:39 +01:00",
+    "name": "03 mars 06.30, Trafikolycka, Halmstad",
+    "summary": "Larm inkommer om en singelolycka på E6 i södergående körriktning, strax norr om Holm.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-06.30-trafikolycka-halmstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -180,18 +276,6 @@
     }
   },
   {
-    "id": 626189,
-    "datetime": "2026-03-03 7:03:39 +01:00",
-    "name": "03 mars 06.30, Trafikolycka, Halmstad",
-    "summary": "Larm inkommer om en singelolycka på E6 i södergående körriktning, strax norr om Holm.",
-    "url": "/aktuellt/handelser/2026/mars/3/03-mars-06.30-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
     "id": 626186,
     "datetime": "2026-03-03 7:00:18 +01:00",
     "name": "03 mars 07.00, Sammanfattning kväll och natt, Västra Götalands län",
@@ -213,18 +297,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 626188,
-    "datetime": "2026-03-03 6:59:00 +01:00",
-    "name": "03 mars 06.41, Trafikolycka, Svedala",
-    "summary": "Två personbilar i olycka, Hyby.",
-    "url": "/aktuellt/handelser/2026/mars/3/03-mars-06.41-trafikolycka-svedala/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -633,18 +705,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626118,
-    "datetime": "2026-03-02 13:06:15 +01:00",
-    "name": "02 mars 12.45, Smällar, Stockholm",
-    "summary": "Explosion vid port i Rågsved.",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-12.45-smallar-stockholm/",
-    "type": "Smällar",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 625417,
-    "datetime": "2026-02-23 10:41:58 +01:00",
-    "name": "23 februari 07.15, Stöld/inbrott, Kramfors",
-    "summary": "Centrum, stöld ur container upptäckt",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-07.15-stoldinbrott-kramfors/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 625415,
-    "datetime": "2026-02-23 9:39:23 +01:00",
-    "name": "23 februari 08.33, Trafikolycka, Linköping",
-    "summary": "SOS-larm om påkörd person vid Järnvägsgatan.",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-08.33-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 625399,
-    "datetime": "2026-02-23 10:00:31 +01:00",
-    "name": "23 februari 07.39, Stöld/inbrott, Tierp",
-    "summary": "Inbrott på byggarbetsplats.",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-07.39-stoldinbrott-tierp/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 625416,
-    "datetime": "2026-02-23 9:50:37 +01:00",
-    "name": "23 februari 09.45, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-09.45-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 625391,
-    "datetime": "2026-02-23 9:25:16 +01:00",
-    "name": "23 februari 07.30, Stöld, Söderhamn",
-    "summary": "Bil stulen och anträffad.",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-07.30-stold-soderhamn/",
-    "type": "Stöld",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
     }
   }
 ]
