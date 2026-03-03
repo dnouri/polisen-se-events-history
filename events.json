@@ -1,14 +1,50 @@
 [
   {
-    "id": 626258,
-    "datetime": "2026-03-03 15:13:13 +01:00",
-    "name": "03 mars 13.41, Trafikolycka, Kiruna",
-    "summary": "Larm om trafikolycka på E45, mellan Svappavaara och Vittangi.",
-    "url": "/aktuellt/handelser/2026/mars/3/03-mars-13.41-trafikolycka-kiruna/",
+    "id": 626269,
+    "datetime": "2026-03-03 16:24:13 +01:00",
+    "name": "03 mars 15.56, Rattfylleri, Rättvik",
+    "summary": "En bilist är misstänkt för brott i centrum",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-15.56-rattfylleri-rattvik/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 626247,
+    "datetime": "2026-03-03 16:19:01 +01:00",
+    "name": "03 mars 16.19, Övrigt, Dals-ed",
+    "summary": "Uppdatering gällande den avlidne personen som anträffades i ett skogsområde under söndagseftermiddagen.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-16.19-ovrigt-dals-ed/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 626268,
+    "datetime": "2026-03-03 16:14:58 +01:00",
+    "name": "03 mars 13.11, Trafikolycka, Perstorp",
+    "summary": "Singeolycka med en personbil.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-13.11-trafikolycka-perstorp/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 626265,
+    "datetime": "2026-03-03 16:04:47 +01:00",
+    "name": "03 mars 14.33, Stöld, Eskilstuna",
+    "summary": "Allmänhet förhindrade cykelstöld.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-14.33-stold-eskilstuna/",
+    "type": "Stöld",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -21,6 +57,30 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 626264,
+    "datetime": "2026-03-03 15:41:59 +01:00",
+    "name": "03 mars 12.20, Trafikolycka, personskada, Stockholm",
+    "summary": "En kvinna har blivit påkörd av en personbil på Norrmalm i Stockholm.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-12.20-trafikolycka-personskada-stockholm/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 626258,
+    "datetime": "2026-03-03 15:13:13 +01:00",
+    "name": "03 mars 13.41, Trafikolycka, Kiruna",
+    "summary": "Larm om trafikolycka på E45, mellan Svappavaara och Vittangi.",
+    "url": "/aktuellt/handelser/2026/mars/3/03-mars-13.41-trafikolycka-kiruna/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 625486,
-    "datetime": "2026-02-23 18:24:22 +01:00",
-    "name": "23 februari 16.34, Rån, Sävsjö",
-    "summary": "En gripen misstänkt för rån.",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-16.34-ran-savsjo/",
-    "type": "Rån",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 625483,
-    "datetime": "2026-02-23 16:56:10 +01:00",
-    "name": "23 februari 16.38, Trafikolycka, Sunne",
-    "summary": "Två bilister i kollision på E 45.",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-16.38-trafikolycka-sunne/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 625485,
-    "datetime": "2026-02-23 18:06:02 +01:00",
-    "name": "23 februari 16.25, Misshandel, Simrishamn",
-    "summary": "Man i 30-årsåldern grips misstänkt för grov misshandel.",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-16.25-misshandel-simrishamn/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 625482,
-    "datetime": "2026-02-23 16:53:44 +01:00",
-    "name": "23 februari 16.50, Trafikolycka, Borlänge",
-    "summary": "Kollision mellan bilist och cyklist i Borlänge.",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-16.50-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 625481,
-    "datetime": "2026-02-23 16:53:19 +01:00",
-    "name": "23 februari 15.05, Trafikolycka, Östersund",
-    "summary": "E14/Riksväg 87, Spikbodarna. En personbil har kört in i vägräcket.",
-    "url": "/aktuellt/handelser/2026/februari/23/23-februari-15.05-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
