@@ -1,14 +1,50 @@
 [
   {
-    "id": 626496,
-    "datetime": "2026-03-05 12:42:13 +01:00",
-    "name": "05 mars 12.42, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2026/mars/5/05-mars-12.42-trafikkontroll-vasternorrlands-lan/",
+    "id": 626510,
+    "datetime": "2026-03-05 14:06:47 +01:00",
+    "name": "05 mars 14.06, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-14.06-trafikkontroll-jamtlands-lan/",
     "type": "Trafikkontroll",
     "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 626506,
+    "datetime": "2026-03-05 13:41:07 +01:00",
+    "name": "05 mars 13.41, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-13.41-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 626501,
+    "datetime": "2026-03-05 12:48:00 +01:00",
+    "name": "05 mars 12.44, Trafikolycka, Malmö",
+    "summary": "En personbil och elspark-cyklist kolliderar i korsningen Malmöhusvägen/Slottsgatan.",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-12.44-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 626477,
+    "datetime": "2026-03-05 10:25:39 +01:00",
+    "name": "05 mars 10.05, Trafikolycka, Skurup",
+    "summary": "En buss kör av vägen på Sockenvägen, Abbekås.",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-10.05-trafikolycka-skurup/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -21,6 +57,54 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 626504,
+    "datetime": "2026-03-05 13:30:40 +01:00",
+    "name": "05 mars 13.18, Brand, Bollnäs",
+    "summary": "Fordon brinner.",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-13.18-brand-bollnas/",
+    "type": "Brand",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 626503,
+    "datetime": "2026-03-05 13:02:32 +01:00",
+    "name": "05 mars 10.27, Övrigt, Stockholm",
+    "summary": "Personer stör vid en konferens på Vasagatan.",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-10.27-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 626434,
+    "datetime": "2026-03-05 9:09:54 +01:00",
+    "name": "05 mars 09.02, Brand, Gnosjö",
+    "summary": "Rökfullt efter brand i bostad",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-09.02-brand-gnosjo/",
+    "type": "Brand",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 626496,
+    "datetime": "2026-03-05 12:42:13 +01:00",
+    "name": "05 mars 12.42, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-12.42-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -96,18 +180,6 @@
     }
   },
   {
-    "id": 626477,
-    "datetime": "2026-03-05 10:25:39 +01:00",
-    "name": "05 mars 10.05, Trafikolycka, Skurup",
-    "summary": "En buss kör av vägen på Sockenvägen, Abbekås.",
-    "url": "/aktuellt/handelser/2026/mars/5/05-mars-10.05-trafikolycka-skurup/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
     "id": 626454,
     "datetime": "2026-03-05 9:30:49 +01:00",
     "name": "05 mars 06.23, Trafikolycka, Östhammar",
@@ -117,18 +189,6 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 626434,
-    "datetime": "2026-03-05 9:09:54 +01:00",
-    "name": "05 mars 09.02, Brand, Gnosjö",
-    "summary": "Rökfullt efter brand i bostad",
-    "url": "/aktuellt/handelser/2026/mars/5/05-mars-09.02-brand-gnosjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 625666,
-    "datetime": "2026-02-25 14:16:10 +01:00",
-    "name": "25 februari 14.16, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2026/februari/25/25-februari-14.16-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 625665,
-    "datetime": "2026-02-25 14:05:07 +01:00",
-    "name": "25 februari 06.44, Mord/dråp, försök, Hässleholm",
-    "summary": "Misstänkt mordförsök.",
-    "url": "/aktuellt/handelser/2026/februari/25/25-februari-06.44-morddrap-forsok-hassleholm/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 625663,
-    "datetime": "2026-02-25 13:40:15 +01:00",
-    "name": "25 februari 13.25, Rattfylleri, Kävlinge",
-    "summary": "Misstänkt rattfylleri på väg 108.",
-    "url": "/aktuellt/handelser/2026/februari/25/25-februari-13.25-rattfylleri-kavlinge/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 625658,
-    "datetime": "2026-02-25 13:35:31 +01:00",
-    "name": "25 februari 13.18, Trafikolycka, Mölndal",
-    "summary": "Två personbilar i krock.",
-    "url": "/aktuellt/handelser/2026/februari/25/25-februari-13.18-trafikolycka-molndal/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 625613,
-    "datetime": "2026-02-25 6:27:02 +01:00",
-    "name": "25 februari 22.27, Stöld/inbrott, Landskrona",
-    "summary": "Flera personer bryter sig in på byggarbetsplats på Idrottsvägen.",
-    "url": "/aktuellt/handelser/2026/februari/25/25-februari-22.27-stoldinbrott-landskrona/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
