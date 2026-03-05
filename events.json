@@ -1,5 +1,41 @@
 [
   {
+    "id": 626495,
+    "datetime": "2026-03-05 12:20:20 +01:00",
+    "name": "05 mars 12.00, Brand, Luleå",
+    "summary": "Luleå, larm om rök i källare.",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-12.00-brand-lulea/",
+    "type": "Brand",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 626522,
+    "datetime": "2026-03-05 16:02:11 +01:00",
+    "name": "05 mars 14.05, Rattfylleri, Piteå",
+    "summary": "Piteå, bilist stoppas för kontroll",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-14.05-rattfylleri-pitea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 626520,
+    "datetime": "2026-03-05 15:58:16 +01:00",
+    "name": "05 mars 15.30, Narkotikabrott, Skellefteå",
+    "summary": "Skellefteå kommun, polisen har under dagen kontrollerat personer och fordon söder om Skellefteå",
+    "url": "/aktuellt/handelser/2026/mars/5/05-mars-15.30-narkotikabrott-skelleftea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 626510,
     "datetime": "2026-03-05 14:06:47 +01:00",
     "name": "05 mars 14.06, Trafikkontroll, Jämtlands län",
@@ -45,18 +81,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 626495,
-    "datetime": "2026-03-05 12:20:20 +01:00",
-    "name": "05 mars 12.00, Brand, Luleå",
-    "summary": "Luleå, larm om rök i källare.",
-    "url": "/aktuellt/handelser/2026/mars/5/05-mars-12.00-brand-lulea/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 625674,
-    "datetime": "2026-02-25 15:54:06 +01:00",
-    "name": "25 februari 15.50, Rattfylleri, Karlstad",
-    "summary": "Mopedist har lämnat ett positivt utandningsprov.",
-    "url": "/aktuellt/handelser/2026/februari/25/25-februari-15.50-rattfylleri-karlstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 625669,
-    "datetime": "2026-02-25 15:25:33 +01:00",
-    "name": "25 februari 15.25, Bedrägeri, Norrbottens län",
-    "summary": "Flertalet Kalixbor utsatta för sms-bedrägerier.",
-    "url": "/aktuellt/handelser/2026/februari/25/25-februari-15.25-bedrageri-norrbottens-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
