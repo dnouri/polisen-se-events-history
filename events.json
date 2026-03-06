@@ -1,14 +1,74 @@
 [
   {
-    "id": 626615,
-    "datetime": "2026-03-06 11:12:21 +01:00",
-    "name": "06 mars 10.57, Trafikolycka, Markaryd",
-    "summary": "Kollision mellan personbil och lastbil på E4:an norr om trafikplats Markaryd Södra.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-10.57-trafikolycka-markaryd/",
+    "id": 626642,
+    "datetime": "2026-03-06 14:05:13 +01:00",
+    "name": "06 mars 13.32, Trafikolycka, Ludvika",
+    "summary": "En olycka har inträffat i centrum",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-13.32-trafikolycka-ludvika/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 626620,
+    "datetime": "2026-03-06 13:38:06 +01:00",
+    "name": "06 mars 13.38, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-13.38-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 626618,
+    "datetime": "2026-03-06 13:38:29 +01:00",
+    "name": "06 mars 13.38, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-13.38-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 626637,
+    "datetime": "2026-03-06 13:41:59 +01:00",
+    "name": "06 mars 13.21, Trafikolycka, singel, Karlskrona",
+    "summary": "Singelolycka med motorcykel på länsväg 736.",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-13.21-trafikolycka-singel-karlskrona/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 626632,
+    "datetime": "2026-03-06 13:37:46 +01:00",
+    "name": "06 mars 09.54, Trafikkontroll, Boden",
+    "summary": "Resultat efter en trafikkontroll på Sadelmakaregatan i Boden.",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-09.54-trafikkontroll-boden/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 626621,
+    "datetime": "2026-03-06 13:37:34 +01:00",
+    "name": "06 mars 13.37, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-13.37-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -33,6 +93,42 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 626617,
+    "datetime": "2026-03-06 11:22:29 +01:00",
+    "name": "06 mars 10.29, Trafikolycka, Göteborg",
+    "summary": "SOS larmar polis om en trafikolycka på Söderleden.",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-10.29-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 626628,
+    "datetime": "2026-03-06 12:44:06 +01:00",
+    "name": "06 mars 10.33, Fjällräddning, Åre",
+    "summary": "Fjällräddningsinsats, Enkälen.",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-10.33-fjallraddning-are/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 626615,
+    "datetime": "2026-03-06 11:12:21 +01:00",
+    "name": "06 mars 10.57, Trafikolycka, Markaryd",
+    "summary": "Kollision mellan personbil och lastbil på E4:an norr om trafikplats Markaryd Södra.",
+    "url": "/aktuellt/handelser/2026/mars/6/06-mars-10.57-trafikolycka-markaryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
     }
   },
   {
@@ -81,18 +177,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 626617,
-    "datetime": "2026-03-06 11:22:29 +01:00",
-    "name": "06 mars 10.29, Trafikolycka, Göteborg",
-    "summary": "SOS larmar polis om en trafikolycka på Söderleden.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-10.29-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 625755,
-    "datetime": "2026-02-26 9:15:21 +01:00",
-    "name": "26 februari 08.18, Trafikolycka, Åre",
-    "summary": "Järpen, trafikolycka på E14.",
-    "url": "/aktuellt/handelser/2026/februari/26/26-februari-08.18-trafikolycka-are/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 625756,
-    "datetime": "2026-02-26 9:22:31 +01:00",
-    "name": "26 februari 07.45, Brand, Svedala",
-    "summary": "Rökutveckling i ett boende på Bankgatan.",
-    "url": "/aktuellt/handelser/2026/februari/26/26-februari-07.45-brand-svedala/",
-    "type": "Brand",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 625753,
-    "datetime": "2026-02-26 9:09:33 +01:00",
-    "name": "26 februari 06.38, Våld/hot mot tjänsteman, Kristianstad",
-    "summary": "Misstänkt inbrott på Lilla torg.",
-    "url": "/aktuellt/handelser/2026/februari/26/26-februari-06.38-valdhot-mot-tjansteman-kristianstad/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 625743,
-    "datetime": "2026-02-26 7:41:54 +01:00",
-    "name": "26 februari 07.24, Brand, Mölndal",
-    "summary": "Larm om brand i lägenhetshus.",
-    "url": "/aktuellt/handelser/2026/februari/26/26-februari-07.24-brand-molndal/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 625746,
-    "datetime": "2026-02-26 8:20:28 +01:00",
-    "name": "26 februari 07.31, Trafikolycka, Falun",
-    "summary": "En singelolycka har inträffat på riksväg 50, i höjd med Bengtsheden",
-    "url": "/aktuellt/handelser/2026/februari/26/26-februari-07.31-trafikolycka-falun/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 625749,
-    "datetime": "2026-02-26 8:39:23 +01:00",
-    "name": "26 februari 08.01, Rattfylleri, Österåker",
-    "summary": "Samtal om bil i Rydbo som körts av vägen.",
-    "url": "/aktuellt/handelser/2026/februari/26/26-februari-08.01-rattfylleri-osteraker/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 625745,
-    "datetime": "2026-02-26 8:02:40 +01:00",
-    "name": "26 februari 06.07, Trafikolycka, singel, Gislaved",
-    "summary": "Singelolycka på riksväg 26.",
-    "url": "/aktuellt/handelser/2026/februari/26/26-februari-06.07-trafikolycka-singel-gislaved/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
