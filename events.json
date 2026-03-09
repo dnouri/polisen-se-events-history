@@ -1,5 +1,89 @@
 [
   {
+    "id": 626829,
+    "datetime": "2026-03-09 8:23:34 +01:00",
+    "name": "09 mars 07.09, Stöld/inbrott, Västerås",
+    "summary": "Ratt och display stulna ur fordon.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-07.09-stoldinbrott-vasteras/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 626828,
+    "datetime": "2026-03-09 7:58:33 +01:00",
+    "name": "08 mars 17.45, Stöld/inbrott, Nordanstig",
+    "summary": "Inbrott i skola.",
+    "url": "/aktuellt/handelser/2026/mars/8/08-mars-17.45-stoldinbrott-nordanstig/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 626820,
+    "datetime": "2026-03-09 7:48:57 +01:00",
+    "name": "09 mars 07.48, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-07.48-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 626826,
+    "datetime": "2026-03-09 7:48:48 +01:00",
+    "name": "09 mars 07.48, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-07.48-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 626814,
+    "datetime": "2026-03-09 7:48:36 +01:00",
+    "name": "09 mars 07.48, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-07.48-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 626827,
+    "datetime": "2026-03-09 7:48:20 +01:00",
+    "name": "09 mars 07.48, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-07.48-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 626775,
+    "datetime": "2026-03-08 11:10:29 +01:00",
+    "name": "08 mars 10.58, Trafikolycka, Göteborg",
+    "summary": "En bil har kört av vägen längs E6 vid Klarebergsmotet.",
+    "url": "/aktuellt/handelser/2026/mars/8/08-mars-10.58-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 626825,
     "datetime": "2026-03-09 7:26:24 +01:00",
     "name": "09 mars 01.49, Inbrott, Järfälla",
@@ -453,18 +537,6 @@
     "location": {
       "name": "Kalmar län",
       "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 626775,
-    "datetime": "2026-03-08 11:10:29 +01:00",
-    "name": "08 mars 10.58, Trafikolycka, Göteborg",
-    "summary": "En bil har kört av vägen längs E6 vid Klarebergsmotet.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-10.58-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 625988,
-    "datetime": "2026-02-28 19:36:49 +01:00",
-    "name": "28 februari 18.38, Brand, Karlskrona",
-    "summary": "Bilbrand, Wämö.",
-    "url": "/aktuellt/handelser/2026/februari/28/28-februari-18.38-brand-karlskrona/",
-    "type": "Brand",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 625987,
-    "datetime": "2026-02-28 19:27:00 +01:00",
-    "name": "28 februari 18.46, Brand, Lidköping",
-    "summary": "Polis och räddningstjänsten larmas till Karabyberg med anledning av att det brinner i ett hus.",
-    "url": "/aktuellt/handelser/2026/februari/28/28-februari-18.46-brand-lidkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 625986,
-    "datetime": "2026-02-28 15:41:07 +01:00",
-    "name": "28 februari 15.32, Brand, Ronneby",
-    "summary": "Bilbrand, Ronneby.",
-    "url": "/aktuellt/handelser/2026/februari/28/28-februari-15.32-brand-ronneby/",
-    "type": "Brand",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 625983,
-    "datetime": "2026-02-28 14:54:08 +01:00",
-    "name": "28 februari 12.46, Arbetsplatsolycka, Ydre",
-    "summary": "Arbetstagare klämskadad vid vindkraftverk.",
-    "url": "/aktuellt/handelser/2026/februari/28/28-februari-12.46-arbetsplatsolycka-ydre/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 625981,
-    "datetime": "2026-02-28 14:35:03 +01:00",
-    "name": "28 februari 13.11, Trafikolycka, singel, Luleå",
-    "summary": "Bälinge, en skoterolycka har inträffat i terrängen",
-    "url": "/aktuellt/handelser/2026/februari/28/28-februari-13.11-trafikolycka-singel-lulea/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 625974,
-    "datetime": "2026-02-28 14:01:06 +01:00",
-    "name": "28 februari 14.00, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/februari/28/28-februari-14.00-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
