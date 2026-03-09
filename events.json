@@ -1,5 +1,65 @@
 [
   {
+    "id": 626893,
+    "datetime": "2026-03-09 17:08:23 +01:00",
+    "name": "09 mars 14.46, Arbetsplatsolycka, Östersund",
+    "summary": "Östersund, arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-14.46-arbetsplatsolycka-ostersund/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 626856,
+    "datetime": "2026-03-09 13:56:58 +01:00",
+    "name": "09 mars 12.09, Trafikolycka, Kristianstad",
+    "summary": "Larm om trafikolycka, Norra Åsum",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-12.09-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 626892,
+    "datetime": "2026-03-09 17:04:04 +01:00",
+    "name": "09 mars 16.24, Trafikolycka, Luleå",
+    "summary": "Luleå, singelolycka på Kronanområdet.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-16.24-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 626891,
+    "datetime": "2026-03-09 16:55:37 +01:00",
+    "name": "09 mars 16.28, Trafikolycka, Karlstad",
+    "summary": "Polisen är på plats vid en trafikolycka i Karlstad.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-16.28-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 626876,
+    "datetime": "2026-03-09 15:45:16 +01:00",
+    "name": "09 mars 15.44, Försvunnen person, Karlstad",
+    "summary": "Den försvunna mannen är anträffad.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-15.44-forsvunnen-person-karlstad/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 626879,
     "datetime": "2026-03-09 16:05:06 +01:00",
     "name": "09 mars 15.30, Trafikolycka, Karlskrona",
@@ -21,18 +81,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 626876,
-    "datetime": "2026-03-09 15:45:16 +01:00",
-    "name": "09 mars 15.44, Försvunnen person, Karlstad",
-    "summary": "Polisen söker efter en försvunnen man i Karlstad.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-15.44-forsvunnen-person-karlstad/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -69,18 +117,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626856,
-    "datetime": "2026-03-09 13:56:58 +01:00",
-    "name": "09 mars 12.09, Trafikolycka, Kristianstad",
-    "summary": "Larm om trafikolycka, Norra Åsum",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-12.09-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 626010,
-    "datetime": "2026-03-01 11:42:21 +01:00",
-    "name": "01 mars 09.37, Stöld, Lerum",
-    "summary": "Samtal inkommer till polisen om att cirka 300 liter diesel stulits från en lastbil vid Tolleredsmotet under na",
-    "url": "/aktuellt/handelser/2026/mars/1/01-mars-09.37-stold-lerum/",
-    "type": "Stöld",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 626009,
-    "datetime": "2026-03-01 8:57:37 +01:00",
-    "name": "01 mars 04.48, Misshandel, Stockholm",
-    "summary": "En man i Bromma har misshandlat en kvinna han har, eller har haft, en relation med.",
-    "url": "/aktuellt/handelser/2026/mars/1/01-mars-04.48-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 625990,
-    "datetime": "2026-02-28 22:52:20 +01:00",
-    "name": "28 februari 22.24, Kontroll, Stockholm",
-    "summary": "Polis prejar personbil vid Johannes i centrala Stockholm.",
-    "url": "/aktuellt/handelser/2026/februari/28/28-februari-22.24-kontroll-stockholm/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
