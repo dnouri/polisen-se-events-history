@@ -1,14 +1,38 @@
 [
   {
-    "id": 626905,
-    "datetime": "2026-03-09 19:59:00 +01:00",
-    "name": "09 mars 19.12, Brand, Stockholm",
-    "summary": "En brand uppstod i ett flerbostadshus i Rinkeby.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-19.12-brand-stockholm/",
-    "type": "Brand",
+    "id": 626909,
+    "datetime": "2026-03-09 21:36:52 +01:00",
+    "name": "09 mars 21.36, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-21.36-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
     "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 626908,
+    "datetime": "2026-03-09 21:22:35 +01:00",
+    "name": "09 mars 21.22, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-21.22-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 626907,
+    "datetime": "2026-03-09 21:22:22 +01:00",
+    "name": "09 mars 21.22, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-21.22-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -21,6 +45,18 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 626905,
+    "datetime": "2026-03-09 19:59:00 +01:00",
+    "name": "09 mars 19.12, Brand, Stockholm",
+    "summary": "En brand uppstod i ett flerbostadshus i Rinkeby.",
+    "url": "/aktuellt/handelser/2026/mars/9/09-mars-19.12-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5958,42 +5994,6 @@
     "summary": "Krossade rutor på restaurang",
     "url": "/aktuellt/handelser/2026/mars/2/02-mars-03.04-skadegorelse-helsingborg/",
     "type": "Skadegörelse",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 626036,
-    "datetime": "2026-03-02 6:17:00 +01:00",
-    "name": "02 mars 02.52, Stöld/inbrott, Malmö",
-    "summary": "Stöld ur lastbil, Lockarp",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-02.52-stoldinbrott-malmo/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 626025,
-    "datetime": "2026-03-01 21:43:48 +01:00",
-    "name": "01 mars 15.40, Vapenlagen, Växjö",
-    "summary": "Misstänkt skotthål, Teleborg.",
-    "url": "/aktuellt/handelser/2026/mars/1/01-mars-15.40-vapenlagen-vaxjo/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 626024,
-    "datetime": "2026-03-01 20:42:18 +01:00",
-    "name": "01 mars 20.01, Rån, Tomelilla",
-    "summary": "Pojke rånad, Tomelilla.",
-    "url": "/aktuellt/handelser/2026/mars/1/01-mars-20.01-ran-tomelilla/",
-    "type": "Rån",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
