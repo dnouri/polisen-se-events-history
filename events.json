@@ -1,5 +1,65 @@
 [
   {
+    "id": 627002,
+    "datetime": "2026-03-10 18:01:25 +01:00",
+    "name": "10 mars 17.46, Brand, Norrköping",
+    "summary": "Larm om brand i byggnad",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-17.46-brand-norrkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 627001,
+    "datetime": "2026-03-10 17:39:36 +01:00",
+    "name": "10 mars 16.50, Rattfylleri, Örebro",
+    "summary": "En man i 25-årsåldern misstänkt för drograttfylleri efter att ha stoppats av polis på norr i Örebro.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-16.50-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 627000,
+    "datetime": "2026-03-10 17:35:36 +01:00",
+    "name": "10 mars 16.54, Rattfylleri, Karlskoga",
+    "summary": "Man i 50-årsåldern misstänkt för drograttfylleri efter att ha stippats av polis i Karlskoga på tisdagseftermid",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-16.54-rattfylleri-karlskoga/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 626998,
+    "datetime": "2026-03-10 17:16:52 +01:00",
+    "name": "10 mars 17.16, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-17.16-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 626997,
+    "datetime": "2026-03-10 17:15:26 +01:00",
+    "name": "10 mars 17.15, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-17.15-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 626990,
     "datetime": "2026-03-10 14:29:14 +01:00",
     "name": "10 mars 14.18, Försvunnen person, Jönköping",
@@ -9,6 +69,42 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 626737,
+    "datetime": "2026-03-07 18:31:43 +01:00",
+    "name": "07 mars 17.22, Skottlossning, Stockholm",
+    "summary": "En person har påträffats skottskadad i Fagersjö i södra Stockholm.",
+    "url": "/aktuellt/handelser/2026/mars/7/07-mars-17.22-skottlossning-stockholm/",
+    "type": "Skottlossning",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 626996,
+    "datetime": "2026-03-10 16:51:57 +01:00",
+    "name": "10 mars 16.04, Stöld, Umeå",
+    "summary": "Umeå, ringa stöld i butik.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-16.04-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 626975,
+    "datetime": "2026-03-10 12:23:51 +01:00",
+    "name": "10 mars 10.53, Farligt föremål, misstänkt, Kalmar",
+    "summary": "Misstänkt farligt föremål i Gamla stan.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-10.53-farligt-foremal-misstankt-kalmar/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
     }
   },
   {
@@ -69,18 +165,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626975,
-    "datetime": "2026-03-10 12:23:51 +01:00",
-    "name": "10 mars 10.53, Farligt föremål, misstänkt, Kalmar",
-    "summary": "Misstänkt farligt föremål i Gamla stan.",
-    "url": "/aktuellt/handelser/2026/mars/10/10-mars-10.53-farligt-foremal-misstankt-kalmar/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
     }
   },
   {
@@ -1785,18 +1869,6 @@
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 626737,
-    "datetime": "2026-03-07 18:31:43 +01:00",
-    "name": "07 mars 17.22, Skottlossning, Stockholm",
-    "summary": "En person har påträffats skottskadad i Fagersjö i södra Stockholm.",
-    "url": "/aktuellt/handelser/2026/mars/7/07-mars-17.22-skottlossning-stockholm/",
-    "type": "Skottlossning",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 626140,
-    "datetime": "2026-03-02 16:12:12 +01:00",
-    "name": "02 mars 16.02, Trafikolycka, Jönköping",
-    "summary": "Trafiken blockerad efter olycka",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-16.02-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 626154,
-    "datetime": "2026-03-02 18:20:18 +01:00",
-    "name": "02 mars 18.20, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-18.20-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626155,
-    "datetime": "2026-03-02 18:29:18 +01:00",
-    "name": "02 mars 18.29, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-18.29-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626139,
-    "datetime": "2026-03-02 16:21:14 +01:00",
-    "name": "02 mars 15.30, Trafikolycka, Luleå",
-    "summary": "Larm om trafikolycka på E4, Strömsund.",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-15.30-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626147,
-    "datetime": "2026-03-02 17:02:17 +01:00",
-    "name": "02 mars 16.36, Trafikolycka, personskada, Nyköping",
-    "summary": "Larm om påkörd person",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-16.36-trafikolycka-personskada-nykoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 626149,
-    "datetime": "2026-03-02 17:16:00 +01:00",
-    "name": "02 mars 16.10, Misshandel, Umeå",
-    "summary": "Polis beordras till Umedalen där det varit någon typ av bråk utomhus.",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-16.10-misshandel-umea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
