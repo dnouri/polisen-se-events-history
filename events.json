@@ -1,14 +1,74 @@
 [
   {
-    "id": 627015,
-    "datetime": "2026-03-10 20:38:42 +01:00",
-    "name": "10 mars 18.22, Rattfylleri, Kramfors",
-    "summary": "Kramfors, förare misstänks för grovt rattfylleri.",
-    "url": "/aktuellt/handelser/2026/mars/10/10-mars-18.22-rattfylleri-kramfors/",
-    "type": "Rattfylleri",
+    "id": 627019,
+    "datetime": "2026-03-10 21:46:28 +01:00",
+    "name": "10 mars 19.37, Bedrägeri, Göteborg",
+    "summary": "Polisen kontaktas med anledning av ett bedrägeri.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-19.37-bedrageri-goteborg/",
+    "type": "Bedrägeri",
     "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 627020,
+    "datetime": "2026-03-10 21:20:14 +01:00",
+    "name": "10 mars 20.51, Brand, Östersund",
+    "summary": "Östersund, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-20.51-brand-ostersund/",
+    "type": "Brand",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 627018,
+    "datetime": "2026-03-10 21:10:36 +01:00",
+    "name": "10 mars 20.50, Rån, Lund",
+    "summary": "Man gripen, Dalby.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-20.50-ran-lund/",
+    "type": "Rån",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627017,
+    "datetime": "2026-03-10 21:07:29 +01:00",
+    "name": "10 mars 18.31, Trafikolycka, vilt, Aneby",
+    "summary": "Bilist krockade med älg",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-18.31-trafikolycka-vilt-aneby/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 627016,
+    "datetime": "2026-03-10 20:59:50 +01:00",
+    "name": "10 mars 20.09, Trafikolycka, personskada, Valdemarsvik",
+    "summary": "En skadad efter olycka med vilt",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-20.09-trafikolycka-personskada-valdemarsvik/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 626995,
+    "datetime": "2026-03-10 15:45:54 +01:00",
+    "name": "10 mars 15.18, Trafikolycka, Vindeln",
+    "summary": "Singelolycka söder om Åmsele.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-15.18-trafikolycka-vindeln/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -21,6 +81,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 627015,
+    "datetime": "2026-03-10 20:38:42 +01:00",
+    "name": "10 mars 18.22, Rattfylleri, Kramfors",
+    "summary": "Kramfors, förare misstänks för grovt rattfylleri.",
+    "url": "/aktuellt/handelser/2026/mars/10/10-mars-18.22-rattfylleri-kramfors/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -261,18 +333,6 @@
     "location": {
       "name": "Kalmar län",
       "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 626995,
-    "datetime": "2026-03-10 15:45:54 +01:00",
-    "name": "10 mars 15.18, Trafikolycka, Vindeln",
-    "summary": "Singelolycka söder om Åmsele.",
-    "url": "/aktuellt/handelser/2026/mars/10/10-mars-15.18-trafikolycka-vindeln/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 626164,
-    "datetime": "2026-03-02 21:55:40 +01:00",
-    "name": "02 mars 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 626165,
-    "datetime": "2026-03-02 21:55:30 +01:00",
-    "name": "02 mars 21.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-21.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 626167,
-    "datetime": "2026-03-02 19:39:38 +01:00",
-    "name": "02 mars 19.05, Brand, Örnsköldsvik",
-    "summary": "Larm om brand i ett garage/pannrum, väster om Bjästa.",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-19.05-brand-ornskoldsvik/",
-    "type": "Brand",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 626153,
-    "datetime": "2026-03-02 17:58:32 +01:00",
-    "name": "02 mars 16.49, Brand, Mölndal",
-    "summary": "Det brinner på en adress på Kryptongatan i Mölndal.",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-16.49-brand-molndal/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 626178,
-    "datetime": "2026-03-02 21:20:08 +01:00",
-    "name": "02 mars 21.20, Information, Örebro",
-    "summary": "I samband med kvällens fotbollsmatch i Örebro uppstod en ordningsstörning",
-    "url": "/aktuellt/handelser/2026/mars/2/02-mars-21.20-information-orebro/",
-    "type": "Information",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
