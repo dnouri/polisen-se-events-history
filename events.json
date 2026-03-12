@@ -1,5 +1,101 @@
 [
   {
+    "id": 627231,
+    "datetime": "2026-03-12 14:26:59 +01:00",
+    "name": "12 mars 14.12, Trafikolycka, Leksand",
+    "summary": "En olycka har inträffat i Hjortnäs",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-14.12-trafikolycka-leksand/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 627229,
+    "datetime": "2026-03-12 13:56:17 +01:00",
+    "name": "12 mars 12.49, Försvunnen person, Malmö",
+    "summary": "Man försvunnen på sjukhusområdet.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-12.49-forsvunnen-person-malmo/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627192,
+    "datetime": "2026-03-12 11:44:07 +01:00",
+    "name": "12 mars 09.58, Trafikolycka, Härjedalen",
+    "summary": "Polishelikoptern undsätter skadad person.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-09.58-trafikolycka-harjedalen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 627206,
+    "datetime": "2026-03-12 13:01:29 +01:00",
+    "name": "12 mars 11.53, Rattfylleri, Oskarshamn",
+    "summary": "Bil som kört in i byggnader.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-11.53-rattfylleri-oskarshamn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 627202,
+    "datetime": "2026-03-12 12:50:30 +01:00",
+    "name": "12 mars 11.44, Brand, Landskrona",
+    "summary": "Brand i flerfamiljshus.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-11.44-brand-landskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627200,
+    "datetime": "2026-03-12 12:46:53 +01:00",
+    "name": "12 mars 09.53, Häleri, Luleå",
+    "summary": "Misstänkt stöldgods anträffades.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-09.53-haleri-lulea/",
+    "type": "Häleri",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 627197,
+    "datetime": "2026-03-12 12:46:51 +01:00",
+    "name": "12 mars 12.45, Övrigt, Hallands län",
+    "summary": "Mellan klockan 13-15 är presstalespersonen på möte.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-12.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 627198,
+    "datetime": "2026-03-12 12:46:46 +01:00",
+    "name": "12 mars 12.45, Övrigt, Västra Götalands län",
+    "summary": "Mellan klockan 13-15 är presstalespersonen på möte.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-12.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 627194,
     "datetime": "2026-03-12 12:13:36 +01:00",
     "name": "12 mars 12.13, Trafikkontroll, Västernorrlands län",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 627192,
-    "datetime": "2026-03-12 11:44:07 +01:00",
-    "name": "12 mars 09.58, Trafikolycka, Härjedalen",
-    "summary": "Polishelikoptern undsätter skadad person.",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-09.58-trafikolycka-harjedalen/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 626364,
-    "datetime": "2026-03-04 16:38:17 +01:00",
-    "name": "04 mars 13.40, Misshandel, Katrineholm",
-    "summary": "Man anhållen efter misstänkt misshandel.",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-13.40-misshandel-katrineholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 626362,
-    "datetime": "2026-03-04 16:16:03 +01:00",
-    "name": "04 mars 14.56, Arbetsplatsolycka, Umeå",
-    "summary": "Arbetsplatsolycka på Universitetsområdet i Umeå.",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-14.56-arbetsplatsolycka-umea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626361,
-    "datetime": "2026-03-04 15:57:46 +01:00",
-    "name": "04 mars 15.36, Fjällräddning, Åre",
-    "summary": "Larm om lavin i Tegefjäll, Åre.",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-15.36-fjallraddning-are/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 626358,
-    "datetime": "2026-03-04 15:46:26 +01:00",
-    "name": "04 mars 10.14, Rattfylleri, Vännäs",
-    "summary": "Bilförare misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-10.14-rattfylleri-vannas/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626336,
-    "datetime": "2026-03-04 13:18:23 +01:00",
-    "name": "04 mars 11.17, Trafikolycka, Boden",
-    "summary": "Länsväg 356/972, två trafikanter har kolliderat",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-11.17-trafikolycka-boden/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626350,
-    "datetime": "2026-03-04 13:53:23 +01:00",
-    "name": "04 mars 13.50, Trafikbrott, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-13.50-trafikbrott-vasterbottens-lan/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626346,
-    "datetime": "2026-03-04 13:24:37 +01:00",
-    "name": "04 mars 10.40, Fylleri/LOB, Skellefteå",
-    "summary": "Centrum, polis kontaktas gällande berusad person",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-10.40-fyllerilob-skelleftea/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
