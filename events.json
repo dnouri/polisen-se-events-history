@@ -1,5 +1,89 @@
 [
   {
+    "id": 627251,
+    "datetime": "2026-03-12 18:08:38 +01:00",
+    "name": "12 mars 18.00, Övrigt, Surahammar",
+    "summary": "Falskt larm orsakade utryckning.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-18.00-ovrigt-surahammar/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 627250,
+    "datetime": "2026-03-12 17:52:18 +01:00",
+    "name": "12 mars 17.32, Brand, Göteborg",
+    "summary": "Vi får larm om en brand i ett radhus på Paprikagatan.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-17.32-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 627246,
+    "datetime": "2026-03-12 17:30:38 +01:00",
+    "name": "12 mars 17.28, Brand, Jönköpings län",
+    "summary": "Lastbilsbrand vid Klevshult",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-17.28-brand-jonkopings-lan/",
+    "type": "Brand",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 627249,
+    "datetime": "2026-03-12 17:50:20 +01:00",
+    "name": "12 mars 15.51, Fylleri, Sundsvall",
+    "summary": "Stenstan, polis kontaktas gällande kvinna som skriker på förbipasserande",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-15.51-fylleri-sundsvall/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 627238,
+    "datetime": "2026-03-12 15:33:54 +01:00",
+    "name": "12 mars 15.17, Trafikolycka, Oskarshamn",
+    "summary": "Kollision mellan två personbilar på E22, norrgående riktning, i höjd med trafikplats Oskarshamn Norra.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-15.17-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 627243,
+    "datetime": "2026-03-12 16:26:12 +01:00",
+    "name": "12 mars 15.56, Trafikolycka, Kalmar",
+    "summary": "Cyklist i kollision med personbil på Kaggensgatan.",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-15.56-trafikolycka-kalmar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 627248,
+    "datetime": "2026-03-12 17:41:17 +01:00",
+    "name": "12 mars 17.03, Fylleri, Östersund",
+    "summary": "Centrum, polis kontaktas gällande berusad man som ramlat",
+    "url": "/aktuellt/handelser/2026/mars/12/12-mars-17.03-fylleri-ostersund/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 627247,
     "datetime": "2026-03-12 17:36:20 +01:00",
     "name": "12 mars 15.56, Sexualbrott, Stockholm",
@@ -36,18 +120,6 @@
     }
   },
   {
-    "id": 627246,
-    "datetime": "2026-03-12 17:30:38 +01:00",
-    "name": "12 mars 17.28, Brand, Jönköpings län",
-    "summary": "Lastbilsbrand vid Klevshult",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-17.28-brand-jonkopings-lan/",
-    "type": "Brand",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 627244,
     "datetime": "2026-03-12 16:27:36 +01:00",
     "name": "12 mars 15.07, Sjukdom/olycksfall, Örebro",
@@ -57,18 +129,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 627243,
-    "datetime": "2026-03-12 16:26:12 +01:00",
-    "name": "12 mars 15.56, Trafikolycka, Kalmar",
-    "summary": "Cyklist i kollision med personbil på Kaggensgatan.",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-15.56-trafikolycka-kalmar/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
     }
   },
   {
@@ -129,18 +189,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 627238,
-    "datetime": "2026-03-12 15:33:54 +01:00",
-    "name": "12 mars 15.17, Trafikolycka, Oskarshamn",
-    "summary": "Kollision mellan två personbilar på E22, norrgående riktning, i höjd med trafikplats Oskarshamn Norra.",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-15.17-trafikolycka-oskarshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 626380,
-    "datetime": "2026-03-04 21:01:09 +01:00",
-    "name": "04 mars 21.00, Trafikolycka, vilt, Västerbottens län",
-    "summary": "Flertalet viltolyckor i länet under eftermiddag och kväll.",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-21.00-trafikolycka-vilt-vasterbottens-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626379,
-    "datetime": "2026-03-04 20:56:12 +01:00",
-    "name": "04 mars 20.56, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Flertalet viltolyckor i länet under eftermiddag och kväll.",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-20.56-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 626376,
-    "datetime": "2026-03-04 20:42:42 +01:00",
-    "name": "04 mars 18.15, Trafikolycka, personskada, Västerås",
-    "summary": "Fotgängare påkörd.",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-18.15-trafikolycka-personskada-vasteras/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 626372,
-    "datetime": "2026-03-04 18:38:28 +01:00",
-    "name": "04 mars 17.40, Försvunnen person, Örnsköldsvik",
-    "summary": "Polisen söker iakttagelser efter försvunnen man i Örnsköldsvik.",
-    "url": "/aktuellt/handelser/2026/mars/4/04-mars-17.40-forsvunnen-person-ornskoldsvik/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
