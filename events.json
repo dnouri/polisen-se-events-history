@@ -1,5 +1,41 @@
 [
   {
+    "id": 627440,
+    "datetime": "2026-03-14 10:43:03 +01:00",
+    "name": "14 mars 10.40, Trafikhinder, Jönköping",
+    "summary": "Stillastående trafik på E4.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-10.40-trafikhinder-jonkoping/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 627438,
+    "datetime": "2026-03-14 10:30:14 +01:00",
+    "name": "14 mars 10.25, Brand, Uddevalla",
+    "summary": "Larm kommer in till polisen från SOS om att det brinner i ett flerfamiljshus på Hyggestråket i Uddevalla.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-10.25-brand-uddevalla/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 627439,
+    "datetime": "2026-03-14 10:39:48 +01:00",
+    "name": "14 mars 10.39, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-10.39-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 627435,
     "datetime": "2026-03-14 8:58:05 +01:00",
     "name": "14 mars 08.10, Trafikolycka, Vimmerby",
@@ -21,6 +57,30 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627437,
+    "datetime": "2026-03-14 10:00:50 +01:00",
+    "name": "14 mars 10.00, Misshandel, Umeå",
+    "summary": "Man anhållen misstänkt för brott mot närstående kvinna.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-10.00-misshandel-umea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 627436,
+    "datetime": "2026-03-14 9:52:39 +01:00",
+    "name": "14 mars 07.36, Fylleri, Örnsköldsvik",
+    "summary": "Man omhändertagen på snabbmatsrestaurang.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-07.36-fylleri-ornskoldsvik/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Kalmar län",
       "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 626613,
-    "datetime": "2026-03-06 10:46:48 +01:00",
-    "name": "06 mars 10.33, Trafikolycka, Mora",
-    "summary": "En olycka har inträffat i Våmhus",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-10.33-trafikolycka-mora/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 626610,
-    "datetime": "2026-03-06 11:19:56 +01:00",
-    "name": "06 mars 10.21, Trafikolycka, Haparanda",
-    "summary": "Larm om trafikolycka på Björnholmsgatan/Norra Industrivägen i Haparanda.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-10.21-trafikolycka-haparanda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626609,
-    "datetime": "2026-03-06 10:21:00 +01:00",
-    "name": "06 mars 09.33, Trafikolycka, Luleå",
-    "summary": "Polisen kontaktas om en trafikolycka på E4, Strömsund.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-09.33-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626608,
-    "datetime": "2026-03-06 10:14:52 +01:00",
-    "name": "06 mars 07.08, Rattfylleri, Enköping",
-    "summary": "Vinglig färd ledde till misstänkt drograttfylla.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-07.08-rattfylleri-enkoping/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 626589,
-    "datetime": "2026-03-06 9:19:52 +01:00",
-    "name": "06 mars 09.05, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i Ormesta",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-09.05-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
