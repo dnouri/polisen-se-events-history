@@ -1,5 +1,65 @@
 [
   {
+    "id": 627453,
+    "datetime": "2026-03-14 14:54:07 +01:00",
+    "name": "14 mars 10.23, Trafikolycka, Gällivare",
+    "summary": "Ingen misstanke om brott efter skoterolycka.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-10.23-trafikolycka-gallivare/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 627452,
+    "datetime": "2026-03-14 14:44:36 +01:00",
+    "name": "14 mars 13.27, Rattfylleri, Haparanda",
+    "summary": "Misstänkt rattfylleri på E4 i centrum.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-13.27-rattfylleri-haparanda/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 627450,
+    "datetime": "2026-03-14 14:24:12 +01:00",
+    "name": "14 mars 13.58, Misshandel, Malmö",
+    "summary": "Bråk mellan kunder och personal, Seved.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-13.58-misshandel-malmo/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627442,
+    "datetime": "2026-03-14 14:26:39 +01:00",
+    "name": "14 mars 08.41, Rattfylleri, Skellefteå",
+    "summary": "Misstänkt rattfylleri på Solbacken.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-08.41-rattfylleri-skelleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 627451,
+    "datetime": "2026-03-14 14:25:05 +01:00",
+    "name": "14 mars 10.46, Fylleri, Skellefteå",
+    "summary": "Man omhändertogs efter stök på matbutik.",
+    "url": "/aktuellt/handelser/2026/mars/14/14-mars-10.46-fylleri-skelleftea/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 627449,
     "datetime": "2026-03-14 14:10:40 +01:00",
     "name": "14 mars 12.05, Fjällräddning, Åre",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626637,
-    "datetime": "2026-03-06 13:41:59 +01:00",
-    "name": "06 mars 13.21, Trafikolycka, singel, Karlskrona",
-    "summary": "Singelolycka med motorcykel på länsväg 736.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-13.21-trafikolycka-singel-karlskrona/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 626632,
-    "datetime": "2026-03-06 13:37:46 +01:00",
-    "name": "06 mars 09.54, Trafikkontroll, Boden",
-    "summary": "Resultat efter en trafikkontroll på Sadelmakaregatan i Boden.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-09.54-trafikkontroll-boden/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626621,
-    "datetime": "2026-03-06 13:37:34 +01:00",
-    "name": "06 mars 13.37, Trafikkontroll, Jämtlands län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-13.37-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 626625,
-    "datetime": "2026-03-06 12:33:57 +01:00",
-    "name": "06 mars 12.27, Trafikolycka, personskada, Norrköping",
-    "summary": "Person påkörd av lastbil.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-12.27-trafikolycka-personskada-norrkoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 626624,
-    "datetime": "2026-03-06 12:31:17 +01:00",
-    "name": "06 mars 12.13, Trafikolycka, Norrköping",
-    "summary": "Två personbilar i krock.",
-    "url": "/aktuellt/handelser/2026/mars/6/06-mars-12.13-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
