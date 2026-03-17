@@ -1,5 +1,53 @@
 [
   {
+    "id": 627777,
+    "datetime": "2026-03-17 21:02:47 +01:00",
+    "name": "17 mars 20.30, Skadegörelse, Örebro",
+    "summary": "Samtal inkommer till polisen om att någon krossar glasrutor på Karlsgatan.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-20.30-skadegorelse-orebro/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 627776,
+    "datetime": "2026-03-17 20:55:35 +01:00",
+    "name": "17 mars 20.33, Brand, Lund",
+    "summary": "Det brinner i en källare på Norra Fäladen.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-20.33-brand-lund/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627775,
+    "datetime": "2026-03-17 20:53:33 +01:00",
+    "name": "17 mars 20.21, Brand, Södertälje",
+    "summary": "Polis och räddningstjänst kallas till tågstation Södertälje syd med anledning av rökutveckling i en av vagnarn",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-20.21-brand-sodertalje/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 627715,
+    "datetime": "2026-03-17 10:34:43 +01:00",
+    "name": "17 mars 10.07, Trafikolycka, personskada, Malung-Sälen",
+    "summary": "En skoterolycka har inträffat i Sälen.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-10.07-trafikolycka-personskada-malung-salen/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
     "id": 627773,
     "datetime": "2026-03-17 19:57:00 +01:00",
     "name": "17 mars 18.51, Misshandel, Avesta",
@@ -9,6 +57,18 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 627774,
+    "datetime": "2026-03-17 20:20:39 +01:00",
+    "name": "17 mars 16.18, Rattfylleri, Bollnäs",
+    "summary": "Vinglig bilförare var kraftigt berusad.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-16.18-rattfylleri-bollnas/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
     }
   },
   {
@@ -393,18 +453,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 627715,
-    "datetime": "2026-03-17 10:34:43 +01:00",
-    "name": "17 mars 10.07, Trafikolycka, personskada, Malung-Sälen",
-    "summary": "En skoterolycka har inträffat i Sälen.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-10.07-trafikolycka-personskada-malung-salen/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 626851,
-    "datetime": "2026-03-09 12:50:56 +01:00",
-    "name": "09 mars 11.43, Trafikolycka, personskada, Salem",
-    "summary": "Polis och ambulans kallas till E4:an strax söder om trafikplats Salem i norrgående riktning med anledning av e",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-11.43-trafikolycka-personskada-salem/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 626844,
-    "datetime": "2026-03-09 11:53:26 +01:00",
-    "name": "09 mars 11.10, Brand, Luleå",
-    "summary": "Larm om brand i en stillastående bil, Notviken.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-11.10-brand-lulea/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626837,
-    "datetime": "2026-03-09 9:18:43 +01:00",
-    "name": "09 mars 08.18, Brand, Växjö",
-    "summary": "Brand i villa utanför Växjö",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-08.18-brand-vaxjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 626835,
-    "datetime": "2026-03-09 9:03:24 +01:00",
-    "name": "08 mars 17.45, Stöld, Sandviken",
-    "summary": "Bråk i tvättstuga.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-17.45-stold-sandviken/",
-    "type": "Stöld",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
     }
   }
 ]
