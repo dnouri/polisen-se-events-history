@@ -1,5 +1,125 @@
 [
   {
+    "id": 627696,
+    "datetime": "2026-03-17 7:09:42 +01:00",
+    "name": "17 mars 07.09, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Norrbottens län.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.09-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 627695,
+    "datetime": "2026-03-17 7:04:22 +01:00",
+    "name": "17 mars 07.04, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.04-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 627694,
+    "datetime": "2026-03-17 7:02:34 +01:00",
+    "name": "17 mars 07.00, Sammanfattning natt, Örebro län",
+    "summary": "Natt till tisdag i polisområde Örebro.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.00-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 627693,
+    "datetime": "2026-03-17 7:02:31 +01:00",
+    "name": "17 mars 07.00, Sammanfattning natt, Dalarnas län",
+    "summary": "Natt till tisdag i polisområde Dalarna.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.00-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 627692,
+    "datetime": "2026-03-17 7:02:29 +01:00",
+    "name": "17 mars 07.00, Sammanfattning natt, Värmlands län",
+    "summary": "Natt till tisdag i polisområde Värmland.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.00-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 627688,
+    "datetime": "2026-03-17 7:00:42 +01:00",
+    "name": "17 mars 07.00, Sammanfattning natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.00-sammanfattning-natt-hallands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 627690,
+    "datetime": "2026-03-17 7:00:29 +01:00",
+    "name": "17 mars 07.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 627691,
+    "datetime": "2026-03-17 6:59:52 +01:00",
+    "name": "17 mars 06.46, Trafikolycka, Helsingborg",
+    "summary": "Trafikolycka i rondellen på västra Länken.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-06.46-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627689,
+    "datetime": "2026-03-17 6:37:33 +01:00",
+    "name": "17 mars 03.48, Stöld, Ljungby",
+    "summary": "Stöld av mobiltelefon.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-03.48-stold-ljungby/",
+    "type": "Stöld",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 627687,
+    "datetime": "2026-03-17 6:24:06 +01:00",
+    "name": "16 mars 22.28, Misshandel, Kalmar",
+    "summary": "Misshandel på Ljungbyholm.",
+    "url": "/aktuellt/handelser/2026/mars/16/16-mars-22.28-misshandel-kalmar/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
     "id": 627682,
     "datetime": "2026-03-17 2:58:18 +01:00",
     "name": "17 mars 02.43, Försvunnen person, Uppsala",
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 626783,
-    "datetime": "2026-03-08 13:10:53 +01:00",
-    "name": "08 mars 09.07, Brand, Härnösand",
-    "summary": "Skadegörelse genom brand i Härnösand.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-09.07-brand-harnosand/",
-    "type": "Brand",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 626782,
-    "datetime": "2026-03-08 12:48:41 +01:00",
-    "name": "08 mars 09.25, Fylleri/LOB, Ragunda",
-    "summary": "Omhändertagen man misstänks för narkotikabrott.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-09.25-fyllerilob-ragunda/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 626780,
-    "datetime": "2026-03-08 12:16:53 +01:00",
-    "name": "08 mars 10.55, Brand, Umeå",
-    "summary": "Larm om brand i matbutik på Mariehem.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-10.55-brand-umea/",
-    "type": "Brand",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626779,
-    "datetime": "2026-03-08 12:03:20 +01:00",
-    "name": "08 mars 09.00, Misshandel, Mörbylånga",
-    "summary": "Misstänkt rattfylleri och misshandel i Mörbylånga kommun.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-09.00-misshandel-morbylanga/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 626776,
-    "datetime": "2026-03-08 11:15:48 +01:00",
-    "name": "08 mars 10.49, Trafikolycka, singel, Lund",
-    "summary": "Motorcykelolycka på Norra Gränsvägen, Norra Fäladen.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-10.49-trafikolycka-singel-lund/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 626774,
-    "datetime": "2026-03-08 10:31:14 +01:00",
-    "name": "08 mars 06.37, Hemfridsbrott, Härnösand",
-    "summary": "Anmälan upprättas om försök till grovt hemfridsbrott.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-06.37-hemfridsbrott-harnosand/",
-    "type": "Hemfridsbrott",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 626773,
-    "datetime": "2026-03-08 10:18:15 +01:00",
-    "name": "08 mars 09.50, Rattfylleri, Gagnef",
-    "summary": "En bilist är misstänkt för brott i Gröntuv",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-09.50-rattfylleri-gagnef/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 626772,
-    "datetime": "2026-03-08 10:03:14 +01:00",
-    "name": "08 mars 09.43, Brand, Växjö",
-    "summary": "Rökutveckling i hotell på Liedbergsgatan i centrala Växjö.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-09.43-brand-vaxjo/",
-    "type": "Brand",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 626771,
-    "datetime": "2026-03-08 9:48:17 +01:00",
-    "name": "08 mars 09.48, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-09.48-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 626770,
-    "datetime": "2026-03-08 9:01:47 +01:00",
-    "name": "08 mars 04.43, Skadegörelse, Gävle",
-    "summary": "Flertalet fönsterrutor krossade på sjukhuset i Gävle.",
-    "url": "/aktuellt/handelser/2026/mars/8/08-mars-04.43-skadegorelse-gavle/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
     }
   }
 ]
