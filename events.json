@@ -1,5 +1,65 @@
 [
   {
+    "id": 627860,
+    "datetime": "2026-03-18 13:07:43 +01:00",
+    "name": "18 mars 12.26, Trafikolycka, Piteå",
+    "summary": "Larm om trafikolycka på Batterigatan/Industrigatan, Backens industriområde.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-12.26-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 627823,
+    "datetime": "2026-03-18 9:38:13 +01:00",
+    "name": "18 mars 08.58, Trafikolycka, Lund",
+    "summary": "Trafikolycka på väg 108, Lund.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-08.58-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627863,
+    "datetime": "2026-03-18 12:51:17 +01:00",
+    "name": "18 mars 11.49, Arbetsplatsolycka, Malmö",
+    "summary": "Arbetsplats olycka i Oxie, malmö",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-11.49-arbetsplatsolycka-malmo/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 627855,
+    "datetime": "2026-03-18 11:28:12 +01:00",
+    "name": "18 mars 11.21, Trafikolycka, singel, Vetlanda",
+    "summary": "Singelolycka på väg 776.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-11.21-trafikolycka-singel-vetlanda/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 627858,
+    "datetime": "2026-03-18 12:29:57 +01:00",
+    "name": "18 mars 09.59, Brand, Östersund",
+    "summary": "Larm om rökutveckling i en lägenhet, Östra Odensala.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-09.59-brand-ostersund/",
+    "type": "Brand",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 627857,
     "datetime": "2026-03-18 12:26:18 +01:00",
     "name": "18 mars 10.41, Brand, Göteborg",
@@ -36,18 +96,6 @@
     }
   },
   {
-    "id": 627855,
-    "datetime": "2026-03-18 11:28:12 +01:00",
-    "name": "18 mars 11.21, Trafikolycka, singel, Vetlanda",
-    "summary": "Singelolycka på väg 776.",
-    "url": "/aktuellt/handelser/2026/mars/18/18-mars-11.21-trafikolycka-singel-vetlanda/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
     "id": 627847,
     "datetime": "2026-03-18 10:46:43 +01:00",
     "name": "18 mars 10.11, Räddningsinsats, Ystad",
@@ -66,18 +114,6 @@
     "summary": "Man gripen efter larm om misshandel",
     "url": "/aktuellt/handelser/2026/mars/18/18-mars-08.44-morddrap-forsok-malmo/",
     "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 627823,
-    "datetime": "2026-03-18 9:38:13 +01:00",
-    "name": "18 mars 08.58, Trafikolycka, Lund",
-    "summary": "Trafikolycka på väg 108, Lund.",
-    "url": "/aktuellt/handelser/2026/mars/18/18-mars-08.58-trafikolycka-lund/",
-    "type": "Trafikolycka",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 626913,
-    "datetime": "2026-03-09 22:07:59 +01:00",
-    "name": "09 mars 21.21, Rån, Kristianstad",
-    "summary": "Rån i bostad.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-21.21-ran-kristianstad/",
-    "type": "Rån",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 626917,
-    "datetime": "2026-03-10 7:01:52 +01:00",
-    "name": "10 mars 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
-    "url": "/aktuellt/handelser/2026/mars/10/10-mars-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 626920,
-    "datetime": "2026-03-10 7:01:40 +01:00",
-    "name": "10 mars 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/10/10-mars-072.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
