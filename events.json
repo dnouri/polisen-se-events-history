@@ -1,14 +1,98 @@
 [
   {
-    "id": 627802,
-    "datetime": "2026-03-18 7:40:12 +01:00",
-    "name": "18 mars 07.11, Trafikolycka, Uppsala",
-    "summary": "LV596 avstängd pga olycka.",
-    "url": "/aktuellt/handelser/2026/mars/18/18-mars-07.11-trafikolycka-uppsala/",
+    "id": 627804,
+    "datetime": "2026-03-18 8:16:08 +01:00",
+    "name": "17 mars 23.35, Misshandel, Nacka",
+    "summary": "En man som misstänks ha misshandlat han har en nära relation till spåras upp med hund och grips.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-23.35-misshandel-nacka/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 627811,
+    "datetime": "2026-03-18 8:42:21 +01:00",
+    "name": "18 mars 08.42, Information, Örebro län",
+    "summary": "Idag onsdag har Regionalt mediacenter i Bergslagen stängt.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-08.42-information-orebro-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 627810,
+    "datetime": "2026-03-18 8:42:16 +01:00",
+    "name": "18 mars 08.42, Information, Dalarnas län",
+    "summary": "Idag onsdag har Regionalt mediacenter i Bergslagen stängt.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-08.42-information-dalarnas-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 627809,
+    "datetime": "2026-03-18 8:42:10 +01:00",
+    "name": "18 mars 08.42, Information, Värmlands län",
+    "summary": "Idag onsdagen den 18/3 har Regionalt mediacenter i Bergslagen stängt.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-08.42-information-varmlands-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 627803,
+    "datetime": "2026-03-18 7:50:10 +01:00",
+    "name": "18 mars 07.34, Trafikolycka, Karlstad",
+    "summary": "Larm inkommer via SOS om en trafikolycka i närheten av Kronoparken. Det ska röra sig om en sammanstötning mell",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-07.34-trafikolycka-karlstad/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 627807,
+    "datetime": "2026-03-18 8:16:16 +01:00",
+    "name": "18 mars 03.43, Olaga hot, Stockholm",
+    "summary": "Fårhuvud lämnas på restaurang.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-03.43-olaga-hot-stockholm/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 627806,
+    "datetime": "2026-03-18 8:16:12 +01:00",
+    "name": "18 mars 01.28, Stöld, försök, Stockholm",
+    "summary": "Försök till stöld av katalysator i Sundby.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-01.28-stold-forsok-stockholm/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 627799,
+    "datetime": "2026-03-18 8:16:03 +01:00",
+    "name": "17 mars 22.57, Brand, Botkyrka",
+    "summary": "Bilbrand i Norsborg. I samband med branden hörs en smäll.",
+    "url": "/aktuellt/handelser/2026/mars/17/17-mars-22.57-brand-botkyrka/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -21,6 +105,18 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 627802,
+    "datetime": "2026-03-18 7:40:12 +01:00",
+    "name": "18 mars 07.11, Trafikolycka, Uppsala",
+    "summary": "LV596 avstängd pga olycka.",
+    "url": "/aktuellt/handelser/2026/mars/18/18-mars-07.11-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 626901,
-    "datetime": "2026-03-09 19:07:16 +01:00",
-    "name": "09 mars 18.31, Trafikolycka, vilt, Uppsala",
-    "summary": "Vildsvin vållar flera olyckor på länsväg 288.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-18.31-trafikolycka-vilt-uppsala/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 626902,
-    "datetime": "2026-03-09 19:25:51 +01:00",
-    "name": "09 mars 18.33, Trafikolycka, Töreboda",
-    "summary": "Larm inkommer om en trafikolycka på väg 200 söder om Töreboda. Det ska vara två personbilar som kolliderat.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-18.33-trafikolycka-toreboda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 626904,
-    "datetime": "2026-03-09 19:53:39 +01:00",
-    "name": "09 mars 18.55, Rattfylleri, Gnesta",
-    "summary": "Rattfyllerist i Skottvång.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-18.55-rattfylleri-gnesta/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 626903,
-    "datetime": "2026-03-09 19:34:31 +01:00",
-    "name": "09 mars 18.19, Djur, Sala",
-    "summary": "Död örn anträffad av allmänhet i Kila.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-18.19-djur-sala/",
-    "type": "Djur",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 626900,
-    "datetime": "2026-03-09 18:52:21 +01:00",
-    "name": "09 mars 16.38, Bråk, Tierp",
-    "summary": "Bråk på en skola.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-16.38-brak-tierp/",
-    "type": "Bråk",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 626899,
-    "datetime": "2026-03-09 18:18:43 +01:00",
-    "name": "09 mars 17.57, Trafikolycka, singel, Motala",
-    "summary": "Singelolycka vid Vinnerstad.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-17.57-trafikolycka-singel-motala/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 626898,
-    "datetime": "2026-03-09 18:15:56 +01:00",
-    "name": "09 mars 16.24, Brand, Hultsfred",
-    "summary": "Brand i terräng, Silverslätten.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-16.24-brand-hultsfred/",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 626896,
-    "datetime": "2026-03-09 17:27:59 +01:00",
-    "name": "09 mars 16.23, Trafikolycka, Åsele",
-    "summary": "Länsväg 365, singelolycka i trakten av Lillögda.",
-    "url": "/aktuellt/handelser/2026/mars/9/09-mars-16.23-trafikolycka-asele/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
