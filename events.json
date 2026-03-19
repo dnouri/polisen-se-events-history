@@ -1,5 +1,53 @@
 [
   {
+    "id": 627921,
+    "datetime": "2026-03-19 7:30:48 +01:00",
+    "name": "19 mars 07.00, Sammanfattning natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2026/mars/19/19-mars-07.00-sammanfattning-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 627933,
+    "datetime": "2026-03-19 8:14:07 +01:00",
+    "name": "19 mars 08.03, Trafikolycka, Nyköping",
+    "summary": "Två personbilar i krock.",
+    "url": "/aktuellt/handelser/2026/mars/19/19-mars-08.03-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 620027,
+    "datetime": "2026-01-02 23:52:32 +01:00",
+    "name": "02 januari 16.17, Mord/dråp, Ånge",
+    "summary": "Två personer har under fredagen anträffats avlidna i en bostad i Ånge.",
+    "url": "/aktuellt/handelser/2026/januari/2/02-januari-16.17-morddrap-ange/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 627928,
+    "datetime": "2026-03-19 7:37:46 +01:00",
+    "name": "19 mars 06.31, Trafikolycka, Skellefteå",
+    "summary": "Larm om trafikolycka på E4, Boviken.",
+    "url": "/aktuellt/handelser/2026/mars/19/19-mars-06.31-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 627926,
     "datetime": "2026-03-19 7:34:22 +01:00",
     "name": "19 mars 07.33, Sammanfattning natt, Jönköpings län",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 627921,
-    "datetime": "2026-03-19 7:30:48 +01:00",
-    "name": "19 mars 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -170,13 +206,13 @@
   {
     "id": 627917,
     "datetime": "2026-03-19 6:53:30 +01:00",
-    "name": "19 mars 06.53, Sammanfattning natt, Västernorrlands län",
+    "name": "19 mars 06.53, Sammanfattning natt, Västerbottens län",
     "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-062.53-sammanfattning-natt-vasternorrlands-lan/",
+    "url": "/aktuellt/handelser/2026/mars/19/19-mars-06.53-sammanfattning-natt-vasterbottens-lan/",
     "type": "Sammanfattning natt",
     "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 627014,
-    "datetime": "2026-03-10 20:31:14 +01:00",
-    "name": "10 mars 20.11, Brand, Arvika",
-    "summary": "Brand i villa i Östra Brevik.",
-    "url": "/aktuellt/handelser/2026/mars/10/10-mars-20.11-brand-arvika/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 627015,
-    "datetime": "2026-03-10 20:38:42 +01:00",
-    "name": "10 mars 18.22, Rattfylleri, Kramfors",
-    "summary": "Kramfors, förare misstänks för grovt rattfylleri.",
-    "url": "/aktuellt/handelser/2026/mars/10/10-mars-18.22-rattfylleri-kramfors/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 627013,
-    "datetime": "2026-03-10 20:21:13 +01:00",
-    "name": "10 mars 19.05, Trafikolycka, Stockholm",
-    "summary": "En personbil och en moped har krockat på Hornsgatan på Södermalm.",
-    "url": "/aktuellt/handelser/2026/mars/10/10-mars-19.05-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
