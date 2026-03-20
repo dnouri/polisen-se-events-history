@@ -1,5 +1,77 @@
 [
   {
+    "id": 628141,
+    "datetime": "2026-03-20 17:15:07 +01:00",
+    "name": "20 mars 16.20, Fylleri, Skellefteå",
+    "summary": "Centrum, polis kontaktas gällande personer som uppträder stökigt i butik",
+    "url": "/aktuellt/handelser/2026/mars/20/20-mars-16.20-fylleri-skelleftea/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 628140,
+    "datetime": "2026-03-20 17:10:53 +01:00",
+    "name": "20 mars 14.39, Fylleri, Umeå",
+    "summary": "Berghem, polis kontaktas gällande berusad man utomhus",
+    "url": "/aktuellt/handelser/2026/mars/20/20-mars-14.39-fylleri-umea/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 628138,
+    "datetime": "2026-03-20 16:57:32 +01:00",
+    "name": "20 mars 16.16, Trafikolycka, Göteborg",
+    "summary": "En cyklist och en bilist är inblandade i en kollision på Häradsdomarevägen på Hisingen.",
+    "url": "/aktuellt/handelser/2026/mars/20/20-mars-16.16-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 628137,
+    "datetime": "2026-03-20 16:52:08 +01:00",
+    "name": "20 mars 13.07, Misshandel, Piteå",
+    "summary": "Piteå, polis kontaktas gällande misshandel på en adress",
+    "url": "/aktuellt/handelser/2026/mars/20/20-mars-13.07-misshandel-pitea/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 628130,
+    "datetime": "2026-03-20 15:33:23 +01:00",
+    "name": "20 mars 15.16, Trafikolycka, personskada, Strängnäs",
+    "summary": "Cyklist och bil i krock",
+    "url": "/aktuellt/handelser/2026/mars/20/20-mars-15.16-trafikolycka-personskada-strangnas/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 628136,
+    "datetime": "2026-03-20 16:39:11 +01:00",
+    "name": "20 mars 10.36, Stöld, Luleå",
+    "summary": "Innerstaden, en person stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2026/mars/20/20-mars-10.36-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 628135,
     "datetime": "2026-03-20 16:17:42 +01:00",
     "name": "20 mars 15.31, Misshandel, Malmö",
@@ -30,18 +102,6 @@
     "summary": "Trafiken blockeras av en trafikolycka på E20 i höjd med Valhalla i Eskilstuna. Trafikanter uppmanas att ta en ",
     "url": "/aktuellt/handelser/2026/mars/20/20-mars-13.35-trafikolycka-eskilstuna/",
     "type": "Trafikolycka",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 628130,
-    "datetime": "2026-03-20 15:33:23 +01:00",
-    "name": "20 mars 15.16, Trafikolycka, personskada, Strängnäs",
-    "summary": "Cyklist och bil i krock",
-    "url": "/aktuellt/handelser/2026/mars/20/20-mars-15.16-trafikolycka-personskada-strangnas/",
-    "type": "Trafikolycka, personskada",
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 627169,
-    "datetime": "2026-03-12 7:15:18 +01:00",
-    "name": "12 mars 07.15, Sammanfattning natt, Norrbottens län",
-    "summary": "Nattens polisverksamhet i Norrbottens län.",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-07.15-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 627165,
-    "datetime": "2026-03-12 7:10:15 +01:00",
-    "name": "12 mars 07.10, Sammanfattning natt, Örebro län",
-    "summary": "Dagens presstalesperson är på plats. Nedan ett urval av nattens händelser i länet.",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-07.10-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 627166,
-    "datetime": "2026-03-12 7:09:56 +01:00",
-    "name": "12 mars 07.10, Sammanfattning natt, Dalarnas län",
-    "summary": "Dagens presstalesperson är på plats. Natten har varit lugn och inget grövre brott har kommit till polisens kän",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-07.10-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 627167,
-    "datetime": "2026-03-12 7:09:34 +01:00",
-    "name": "12 mars 07.10, Sammanfattning natt, Värmlands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-07.10-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 627168,
-    "datetime": "2026-03-12 7:08:22 +01:00",
-    "name": "12 mars 07.07, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
-    "url": "/aktuellt/handelser/2026/mars/12/12-mars-07.07-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
