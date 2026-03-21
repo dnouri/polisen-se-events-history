@@ -1,5 +1,65 @@
 [
   {
+    "id": 628199,
+    "datetime": "2026-03-21 13:37:06 +01:00",
+    "name": "21 mars 10.41, Trafikolycka, Arvidsjaur",
+    "summary": "Larm om skoterolycka, sydväst om Arvidsjaur.",
+    "url": "/aktuellt/handelser/2026/mars/21/21-mars-10.41-trafikolycka-arvidsjaur/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 628191,
+    "datetime": "2026-03-21 8:38:31 +01:00",
+    "name": "21 mars 08.18, Trafikolycka, singel, Ljusnarsberg",
+    "summary": "En singelolycka har inträffat på Rv 63.",
+    "url": "/aktuellt/handelser/2026/mars/21/21-mars-08.18-trafikolycka-singel-ljusnarsberg/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 628194,
+    "datetime": "2026-03-21 12:25:25 +01:00",
+    "name": "21 mars 12.13, Trafikolycka, Örebro",
+    "summary": "Bilist och permobilfordon har kolliderat på söder i Örebro.",
+    "url": "/aktuellt/handelser/2026/mars/21/21-mars-12.13-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 628193,
+    "datetime": "2026-03-21 12:14:10 +01:00",
+    "name": "21 mars 11.48, Trafikolycka, Göteborg",
+    "summary": "Trafikolycka mellan två personbilar på E20, strax innan Olskroksmotet och i riktning mot centrum.",
+    "url": "/aktuellt/handelser/2026/mars/21/21-mars-11.48-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 628156,
+    "datetime": "2026-03-20 20:21:03 +01:00",
+    "name": "20 mars 18.53, Övrigt, Göteborg",
+    "summary": "Larm inkommer om ett ras på Österhögsvägen i Rödbo.",
+    "url": "/aktuellt/handelser/2026/mars/20/20-mars-18.53-ovrigt-goteborg/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 628198,
     "datetime": "2026-03-21 12:39:08 +01:00",
     "name": "21 mars 12.38, Rattfylleri, Forshaga",
@@ -39,36 +99,12 @@
     "id": 628195,
     "datetime": "2026-03-21 12:28:42 +01:00",
     "name": "21 mars 12.25, Övrigt, Örebro",
-    "summary": "Förundersökning gällande falsk larm inledd.",
+    "summary": "Förundersökning gällande falskt larm inledd.",
     "url": "/aktuellt/handelser/2026/mars/21/21-mars-12.25-ovrigt-orebro/",
     "type": "Övrigt",
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 628194,
-    "datetime": "2026-03-21 12:25:25 +01:00",
-    "name": "21 mars 12.13, Trafikolycka, Örebro",
-    "summary": "Bilist och permobilfordon har kolliderat på söder i Örebro.",
-    "url": "/aktuellt/handelser/2026/mars/21/21-mars-12.13-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 628193,
-    "datetime": "2026-03-21 12:14:10 +01:00",
-    "name": "21 mars 11.48, Trafikolycka, Göteborg",
-    "summary": "Trafikolycka mellan två personbilar på E20, strax innan Olskroksmotet och i riktning mot centrum.",
-    "url": "/aktuellt/handelser/2026/mars/21/21-mars-11.48-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -105,18 +141,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 628191,
-    "datetime": "2026-03-21 8:38:31 +01:00",
-    "name": "21 mars 08.18, Trafikolycka, singel, Ljusnarsberg",
-    "summary": "En singelolycka har inträffat på Rv 63.",
-    "url": "/aktuellt/handelser/2026/mars/21/21-mars-08.18-trafikolycka-singel-ljusnarsberg/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -473,18 +497,6 @@
     "name": "20 mars 21.46, Övrigt, Västra Götalands län",
     "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
     "url": "/aktuellt/handelser/2026/mars/20/20-mars-21.46-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 628156,
-    "datetime": "2026-03-20 20:21:03 +01:00",
-    "name": "20 mars 18.53, Övrigt, Göteborg",
-    "summary": "Larm inkommer om ett ras på Österhögsvägen i Rödbo.",
-    "url": "/aktuellt/handelser/2026/mars/20/20-mars-18.53-ovrigt-goteborg/",
     "type": "Övrigt",
     "location": {
       "name": "Västra Götalands län",
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 627279,
-    "datetime": "2026-03-13 6:58:34 +01:00",
-    "name": "13 mars 06.58, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2026/mars/13/13-mars-06.58-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
