@@ -1,5 +1,89 @@
 [
   {
+    "id": 628457,
+    "datetime": "2026-03-23 17:58:43 +01:00",
+    "name": "23 mars 15.47, Misshandel, Sundsvall",
+    "summary": "Nacksta, en person uppges ha blivit misshandlad utomhus",
+    "url": "/aktuellt/handelser/2026/mars/23/23-mars-15.47-misshandel-sundsvall/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 628475,
+    "datetime": "2026-03-23 21:58:58 +01:00",
+    "name": "23 mars 21.55, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/mars/23/23-mars-21.55-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 628474,
+    "datetime": "2026-03-23 21:58:52 +01:00",
+    "name": "23 mars 21.55, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/mars/23/23-mars-21.55-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 628473,
+    "datetime": "2026-03-23 21:51:32 +01:00",
+    "name": "23 mars 21.50, Misshandel, Borås",
+    "summary": "Under måndagskvällen larmades polis till en bostad i Borås, efter uppgifter om att en kvinna blivit misshandla",
+    "url": "/aktuellt/handelser/2026/mars/23/23-mars-21.50-misshandel-boras/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 628461,
+    "datetime": "2026-03-23 19:03:00 +01:00",
+    "name": "23 mars 18.40, Försvunnen person, Mora",
+    "summary": "Den försvunna flicka som polisen sökt efter är anträffad och mår efter omständigheterna bra.",
+    "url": "/aktuellt/handelser/2026/mars/23/23-mars-18.40-forsvunnen-person-mora/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 628463,
+    "datetime": "2026-03-23 19:40:24 +01:00",
+    "name": "23 mars 16.54, Mord/dråp, försök, Härnösand",
+    "summary": "Härnösand, polis kontaktas gällande höga röster som hörts på en adress",
+    "url": "/aktuellt/handelser/2026/mars/23/23-mars-16.54-morddrap-forsok-harnosand/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 628472,
+    "datetime": "2026-03-23 21:09:28 +01:00",
+    "name": "23 mars 20.43, Brand, Kävlinge",
+    "summary": "Brand i bostad.",
+    "url": "/aktuellt/handelser/2026/mars/23/23-mars-20.43-brand-kavlinge/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 628471,
     "datetime": "2026-03-23 21:05:52 +01:00",
     "name": "23 mars 16.47, Trafikkontroll, Luleå",
@@ -84,36 +168,12 @@
     }
   },
   {
-    "id": 628461,
-    "datetime": "2026-03-23 19:03:00 +01:00",
-    "name": "23 mars 18.40, Försvunnen person, Mora",
-    "summary": "Polisen söker efter en försvunnen flicka i Mora.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-18.40-forsvunnen-person-mora/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
     "id": 628464,
     "datetime": "2026-03-23 19:42:10 +01:00",
     "name": "23 mars 17.37, Misshandel, Härnösand",
     "summary": "Centrum, polis beordras till Storgatan med anledning av pågående misshandel",
     "url": "/aktuellt/handelser/2026/mars/23/23-mars-17.37-misshandel-harnosand/",
     "type": "Misshandel",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 628463,
-    "datetime": "2026-03-23 19:40:24 +01:00",
-    "name": "23 mars 16.54, Mord/dråp, försök, Härnösand",
-    "summary": "Härnösand, polis kontaktas gällande höga röster som hörts på en adress",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-16.54-morddrap-forsok-harnosand/",
-    "type": "Mord/dråp, försök",
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
@@ -177,18 +237,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 628457,
-    "datetime": "2026-03-23 17:58:43 +01:00",
-    "name": "23 mars 15.47, Misshandel, Sundsvall",
-    "summary": "Nacksta, en person uppges ha blivit misshandlad utomhus",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-15.47-misshandel-sundsvall/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 627507,
-    "datetime": "2026-03-15 14:45:09 +01:00",
-    "name": "15 mars 14.45, Övrigt, Kiruna",
-    "summary": "Resultat av polisens arbete i samband med Rautaspremiären.",
-    "url": "/aktuellt/handelser/2026/mars/15/15-mars-14.45-ovrigt-kiruna/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 627504,
-    "datetime": "2026-03-15 14:13:33 +01:00",
-    "name": "15 mars 14.13, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/mars/15/15-mars-14.13-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 627503,
-    "datetime": "2026-03-15 13:34:41 +01:00",
-    "name": "15 mars 13.34, Bedrägeri, Östersund",
-    "summary": "Våg av sms-bedrägerier mot äldre i Östersund.",
-    "url": "/aktuellt/handelser/2026/mars/15/15-mars-13.34-bedrageri-ostersund/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 627495,
-    "datetime": "2026-03-15 11:52:44 +01:00",
-    "name": "15 mars 11.27, Trafikolycka, Tomelilla",
-    "summary": "Larm om trafikolycka, Trydevägen",
-    "url": "/aktuellt/handelser/2026/mars/15/15-mars-11.27-trafikolycka-tomelilla/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
