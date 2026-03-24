@@ -1,17 +1,5 @@
 [
   {
-    "id": 628587,
-    "datetime": "2026-03-24 14:59:33 +01:00",
-    "name": "24 mars 13.00, Försvunnen person, Lund",
-    "summary": "Flicka försvunnen från Vipeholmsvägen.",
-    "url": "/aktuellt/handelser/2026/mars/24/24-mars-13.00-forsvunnen-person-lund/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
     "id": 628572,
     "datetime": "2026-03-24 14:32:39 +01:00",
     "name": "24 mars 13.44, Brand, Norsjö",
@@ -21,6 +9,54 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 628598,
+    "datetime": "2026-03-24 16:01:32 +01:00",
+    "name": "24 mars 15.15, Trafikolycka, Piteå",
+    "summary": "Centrum, två bilister har kolliderat vid Västergatan",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-15.15-trafikolycka-pitea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 628592,
+    "datetime": "2026-03-24 15:40:01 +01:00",
+    "name": "24 mars 12.25, Fjällräddning, Storuman",
+    "summary": "Väster om Hemavan, larm om skoterolycka i terräng",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-12.25-fjallraddning-storuman/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 628591,
+    "datetime": "2026-03-24 15:19:53 +01:00",
+    "name": "24 mars 15.19, Skyddslagen, Storuman",
+    "summary": "Polisen kontrollerade under måndagskvällen fyra personer som fiskat från båt nära ett kraftverk i Storuman.",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-15.19-skyddslagen-storuman/",
+    "type": "Skyddslagen",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 628587,
+    "datetime": "2026-03-24 14:59:33 +01:00",
+    "name": "24 mars 13.00, Försvunnen person, Lund",
+    "summary": "Flicka försvunnen från Vipeholmsvägen.",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-13.00-forsvunnen-person-lund/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -398,10 +434,10 @@
   {
     "id": 628454,
     "datetime": "2026-03-23 17:17:27 +01:00",
-    "name": "23 mars 16.49, Mord/dråp, försök, Huddinge",
+    "name": "23 mars 16.49, Mord/dråp, Huddinge",
     "summary": "Polis och ambulans kallas Vårbyparkens bollplan med uppgifter om att en person skottskadats.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-16.49-morddrap-forsok-huddinge/",
-    "type": "Mord/dråp, försök",
+    "url": "/aktuellt/handelser/2026/mars/23/23-mars-16.49-morddrap-huddinge/",
+    "type": "Mord/dråp",
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 627568,
-    "datetime": "2026-03-16 12:18:26 +01:00",
-    "name": "16 mars 07.50, Övrigt, Härnösand",
-    "summary": "Polispatrull beordras till centralstationen i Härnösand där en person uppges uppehålla sig på/vid tågspåret.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-07.50-ovrigt-harnosand/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 627563,
-    "datetime": "2026-03-16 12:05:07 +01:00",
-    "name": "16 mars 10.43, Trafikolycka, Luleå",
-    "summary": "Larm om olycka med snöskoter, Karlsvik.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-10.43-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 627549,
-    "datetime": "2026-03-16 10:41:04 +01:00",
-    "name": "16 mars 10.02, Trafikolycka, Härryda",
-    "summary": "Larm inkommer om olycka mellan fotgängare och personbil vid Landvetters flygplats.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-10.02-trafikolycka-harryda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
