@@ -1,5 +1,101 @@
 [
   {
+    "id": 628609,
+    "datetime": "2026-03-24 17:35:58 +01:00",
+    "name": "24 mars 15.01, Trafikbrott, Linköping",
+    "summary": "Man misstänks för grov vårdslöshet i trafik.",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-15.01-trafikbrott-linkoping/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 628607,
+    "datetime": "2026-03-24 17:33:06 +01:00",
+    "name": "24 mars 17.00, Trafikkontroll, Sundsvall",
+    "summary": "Njurunda, resultat efter trafikkontroll vid Skedlovägen",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-17.00-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 628606,
+    "datetime": "2026-03-24 17:27:26 +01:00",
+    "name": "24 mars 14.09, Trafikbrott, Åre",
+    "summary": "E14, lastbil stoppad i samband med trafikkontroll",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-14.09-trafikbrott-are/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 628605,
+    "datetime": "2026-03-24 17:26:18 +01:00",
+    "name": "24 mars 14.52, Stöld/inbrott, Mark",
+    "summary": "En person ringer in till polisen om att tre personer har gjort inbrott i en släktings hus, som skall vara ett ",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-14.52-stoldinbrott-mark/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 628604,
+    "datetime": "2026-03-24 17:18:15 +01:00",
+    "name": "24 mars 17.02, Brand, Simrishamn",
+    "summary": "Det brinner i ett bostadshus, Baskemölla.",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-17.02-brand-simrishamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 628603,
+    "datetime": "2026-03-24 16:22:02 +01:00",
+    "name": "24 mars 15.30, Trafikolycka, Sollefteå",
+    "summary": "Riksväg 87 Långsele, två bilister har kolliderat",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-15.30-trafikolycka-solleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 628587,
+    "datetime": "2026-03-24 14:59:33 +01:00",
+    "name": "24 mars 13.00, Försvunnen person, Lund",
+    "summary": "Försvunnen flicka anträffad.",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-13.00-forsvunnen-person-lund/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 628602,
+    "datetime": "2026-03-24 16:18:07 +01:00",
+    "name": "24 mars 14.38, Bråk, Härnösand",
+    "summary": "Hälletorp, en man och en kvinna uppges ha uppträtt bråkigt vid en adress",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-14.38-brak-harnosand/",
+    "type": "Bråk",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 628572,
     "datetime": "2026-03-24 14:32:39 +01:00",
     "name": "24 mars 13.44, Brand, Norsjö",
@@ -45,18 +141,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 628587,
-    "datetime": "2026-03-24 14:59:33 +01:00",
-    "name": "24 mars 13.00, Försvunnen person, Lund",
-    "summary": "Flicka försvunnen från Vipeholmsvägen.",
-    "url": "/aktuellt/handelser/2026/mars/24/24-mars-13.00-forsvunnen-person-lund/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 627607,
-    "datetime": "2026-03-16 13:57:58 +01:00",
-    "name": "16 mars 13.01, Misshandel, Linköping",
-    "summary": "En man misstänks efter bråk.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-13.01-misshandel-linkoping/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 627573,
-    "datetime": "2026-03-16 13:54:24 +01:00",
-    "name": "16 mars 12.49, Trafikkontroll, Kramfors",
-    "summary": "Resultat efter en nykterhetskontroll på länsväg 334, Lugnvik.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-12.49-trafikkontroll-kramfors/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 627576,
-    "datetime": "2026-03-16 13:53:41 +01:00",
-    "name": "16 mars 13.53, Trafikkontroll, Västerbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-13.53-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 627593,
-    "datetime": "2026-03-16 13:51:31 +01:00",
-    "name": "16 mars 13.49, Rattfylleri, Linköping",
-    "summary": "Kvinna misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-13.49-rattfylleri-linkoping/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 627575,
-    "datetime": "2026-03-16 13:16:25 +01:00",
-    "name": "16 mars 13.16, Trafikkontroll, Norrbottens län",
-    "summary": "Urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-13.16-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 627571,
-    "datetime": "2026-03-16 13:11:41 +01:00",
-    "name": "16 mars 12.37, Misshandel, Göteborg",
-    "summary": "Polisen larmas om en aggressiv och utåtagerande man i en lägenhet i Länsmansgården.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-12.37-misshandel-goteborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 627566,
-    "datetime": "2026-03-16 12:52:17 +01:00",
-    "name": "16 mars 10.46, Arbetsplatsolycka, Umeå",
-    "summary": "Polispatrull beordras till Klockarbäcken med anledning av en arbetsplatsolycka.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-10.46-arbetsplatsolycka-umea/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
