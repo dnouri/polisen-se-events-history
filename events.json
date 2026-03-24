@@ -1,5 +1,29 @@
 [
   {
+    "id": 628520,
+    "datetime": "2026-03-24 9:59:28 +01:00",
+    "name": "24 mars 09.38, Trafikolycka, Kristinehamn",
+    "summary": "En olycka har inträffat i Sanna",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-09.38-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 628519,
+    "datetime": "2026-03-24 9:53:33 +01:00",
+    "name": "24 mars 07.19, Trafikhinder, Luleå",
+    "summary": "Luleå, trafikhinder på riksväg 97.",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-07.19-trafikhinder-lulea/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 628502,
     "datetime": "2026-03-24 8:26:29 +01:00",
     "name": "24 mars 08.08, Farligt föremål, misstänkt, Åstorp",
@@ -9,6 +33,18 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 628496,
+    "datetime": "2026-03-24 8:05:41 +01:00",
+    "name": "24 mars 08.05, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2026/mars/24/24-mars-08.05-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -33,18 +69,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 628496,
-    "datetime": "2026-03-24 8:05:41 +01:00",
-    "name": "24 mars 08.05, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2026/mars/24/24-mars-08.05-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 627526,
-    "datetime": "2026-03-16 7:27:10 +01:00",
-    "name": "16 mars 07.26, Sammanfattning natt, Södermanlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-07.26-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 627528,
-    "datetime": "2026-03-16 7:26:59 +01:00",
-    "name": "16 mars 07.26, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av nattens händelser",
-    "url": "/aktuellt/handelser/2026/mars/16/16-mars-07.26-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
