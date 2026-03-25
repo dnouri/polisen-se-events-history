@@ -1,5 +1,89 @@
 [
   {
+    "id": 628716,
+    "datetime": "2026-03-25 14:59:15 +01:00",
+    "name": "25 mars 14.33, Brand, Karlskrona",
+    "summary": "Larm om brand i flerfamiljshus, Lyckeby",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-14.33-brand-karlskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 628715,
+    "datetime": "2026-03-25 14:53:25 +01:00",
+    "name": "25 mars 14.30, Trafikolycka, Landskrona",
+    "summary": "Larm om trafikolycka på trafikplats Landskrona Södra",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-14.30-trafikolycka-landskrona/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 628706,
+    "datetime": "2026-03-25 13:35:10 +01:00",
+    "name": "25 mars 12.51, Fjällräddning, Kiruna",
+    "summary": "Larm om lavin i Vassitjåkko, Kiruna.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-12.51-fjallraddning-kiruna/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 628714,
+    "datetime": "2026-03-25 14:26:34 +01:00",
+    "name": "25 mars 13.19, Kontroll, Solna",
+    "summary": "Kontroll av föremål.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-13.19-kontroll-solna/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 628713,
+    "datetime": "2026-03-25 14:23:24 +01:00",
+    "name": "25 mars 14.09, Trafikolycka, singel, Nyköping",
+    "summary": "Singelolycka i centrala Nyköping.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-14.09-trafikolycka-singel-nykoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 628659,
+    "datetime": "2026-03-25 9:05:18 +01:00",
+    "name": "25 mars 07.50, Övrigt, Timrå",
+    "summary": "Kontroll av personer vid tågspåret på Östrand, Timrå.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-07.50-ovrigt-timra/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 628707,
+    "datetime": "2026-03-25 13:39:04 +01:00",
+    "name": "25 mars 12.32, Trafikolycka, personskada, Uppsala",
+    "summary": "Lastbil och personbil i kollision.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-12.32-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
     "id": 628666,
     "datetime": "2026-03-25 10:18:25 +01:00",
     "name": "25 mars 10.18, Trafikkontroll, Västerbottens län",
@@ -57,18 +141,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 628659,
-    "datetime": "2026-03-25 9:05:18 +01:00",
-    "name": "25 mars 07.50, Övrigt, Timrå",
-    "summary": "Kontroll av personer vid tågspåret på Östrand, Timrå.",
-    "url": "/aktuellt/handelser/2026/mars/25/25-mars-07.50-ovrigt-timra/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 627746,
-    "datetime": "2026-03-17 14:53:30 +01:00",
-    "name": "17 mars 14.26, Övrigt, Dalarnas län",
-    "summary": "Sammanställning av trafikvecka v 11. Trafiksäkerhet-hastighet",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-14.26-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 627748,
-    "datetime": "2026-03-17 14:53:18 +01:00",
-    "name": "17 mars 14.45, Övrigt, Örebro län",
-    "summary": "Sammanställning av trafikvecka v 11. Trafiksäkerhet-hastighet",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-14.45-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 627726,
-    "datetime": "2026-03-17 12:17:31 +01:00",
-    "name": "17 mars 11.44, Trafikolycka, Krokom",
-    "summary": "Trafikolycka på E14 Dvärtsätt, Krokom.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-11.44-trafikolycka-krokom/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 627733,
-    "datetime": "2026-03-17 13:57:55 +01:00",
-    "name": "17 mars 11.03, Knivlagen, Stockholm",
-    "summary": "Elev bär kniv på skola.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-11.03-knivlagen-stockholm/",
-    "type": "Knivlagen",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 627734,
-    "datetime": "2026-03-17 13:57:50 +01:00",
-    "name": "17 mars 12.34, Olaga hot, Stockholm",
-    "summary": "En man beter sig störande på ett kafé.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-12.34-olaga-hot-stockholm/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 627739,
-    "datetime": "2026-03-17 13:57:43 +01:00",
-    "name": "17 mars 10.05, Motorfordon, anträffat stulet, Huddinge",
-    "summary": "Stulen bil hittas i Skogås.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-10.05-motorfordon-antraffat-stulet-huddinge/",
-    "type": "Motorfordon, anträffat stulet",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
