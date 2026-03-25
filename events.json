@@ -1,5 +1,65 @@
 [
   {
+    "id": 628645,
+    "datetime": "2026-03-25 7:51:16 +01:00",
+    "name": "25 mars 01.44, Stöld, Uppsala",
+    "summary": "Tre gripna misstänkta för stöld.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-01.44-stold-uppsala/",
+    "type": "Stöld",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 628644,
+    "datetime": "2026-03-25 7:49:52 +01:00",
+    "name": "25 mars 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 628642,
+    "datetime": "2026-03-25 7:49:31 +01:00",
+    "name": "25 mars 08.00, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-08.00-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 628641,
+    "datetime": "2026-03-25 7:48:58 +01:00",
+    "name": "25 mars 08.00, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-08.00-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 628643,
+    "datetime": "2026-03-25 7:47:57 +01:00",
+    "name": "25 mars 01.55, Skadegörelse, Hudiksvall",
+    "summary": "Brand i fordon.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-012.55-skadegorelse-hudiksvall/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
     "id": 628640,
     "datetime": "2026-03-25 7:23:55 +01:00",
     "name": "25 mars 07.23, Sammanfattning natt, Västernorrlands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 627704,
-    "datetime": "2026-03-17 7:57:41 +01:00",
-    "name": "17 mars 01.49, Inbrott, försök, Stockholm",
-    "summary": "Larm om pågående inbrott på byggarbetsplats i Farsta.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-01.49-inbrott-forsok-stockholm/",
-    "type": "Inbrott, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 627701,
-    "datetime": "2026-03-17 7:26:27 +01:00",
-    "name": "17 mars 07.26, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.26-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 627699,
-    "datetime": "2026-03-17 7:22:40 +01:00",
-    "name": "17 mars 07.20, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.20-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 627698,
-    "datetime": "2026-03-17 7:22:26 +01:00",
-    "name": "17 mars 07.20, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.20-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 627700,
-    "datetime": "2026-03-17 7:20:56 +01:00",
-    "name": "17 mars 07.20, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-07.20-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   }
 ]
