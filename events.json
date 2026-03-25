@@ -1,14 +1,62 @@
 [
   {
+    "id": 628706,
+    "datetime": "2026-03-25 13:35:10 +01:00",
+    "name": "25 mars 12.51, Fjällräddning, Kiruna",
+    "summary": "Larm om lavin i Vassitjåkko, Kiruna.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-12.51-fjallraddning-kiruna/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 628746,
     "datetime": "2026-03-25 18:56:21 +01:00",
-    "name": "25 mars 18.39, Skottlossning, misstänkt, Malmö",
+    "name": "25 mars 18.39, Mord/dråp, Malmö",
     "summary": "Larm om misstänkt skottlossning.",
-    "url": "/aktuellt/handelser/2026/mars/25/25-mars-18.39-skottlossning-misstankt-malmo/",
-    "type": "Skottlossning, misstänkt",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-18.39-morddrap-malmo/",
+    "type": "Mord/dråp",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 628751,
+    "datetime": "2026-03-25 20:41:48 +01:00",
+    "name": "25 mars 20.41, Rattfylleri, Västernorrlands län",
+    "summary": "Två misstänkta rattfyllerier under eftermiddag/kväll.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-20.41-rattfylleri-vasternorrlands-lan/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 628750,
+    "datetime": "2026-03-25 20:35:58 +01:00",
+    "name": "25 mars 18.41, Misshandel, grov, Malmö",
+    "summary": "Två män grips misstänkt för grov misshandel.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-18.41-misshandel-grov-malmo/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 628749,
+    "datetime": "2026-03-25 20:33:13 +01:00",
+    "name": "25 mars 15.53, Stöld, Håbo",
+    "summary": "Rattfull förare greps efter fynd i bilen.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-15.53-stold-habo/",
+    "type": "Stöld",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -141,18 +189,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 628706,
-    "datetime": "2026-03-25 13:35:10 +01:00",
-    "name": "25 mars 12.51, Fjällräddning, Kiruna",
-    "summary": "Larm om lavin i Vassitjåkko, Kiruna.",
-    "url": "/aktuellt/handelser/2026/mars/25/25-mars-12.51-fjallraddning-kiruna/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 627773,
-    "datetime": "2026-03-17 19:57:00 +01:00",
-    "name": "17 mars 18.51, Misshandel, Avesta",
-    "summary": "Polisen får uppgifter om att en ungdom ska ha slagit en annan ungdom med knytnävslag i centrala Avesta.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-18.51-misshandel-avesta/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 627774,
-    "datetime": "2026-03-17 20:20:39 +01:00",
-    "name": "17 mars 16.18, Rattfylleri, Bollnäs",
-    "summary": "Vinglig bilförare var kraftigt berusad.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-16.18-rattfylleri-bollnas/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 627772,
-    "datetime": "2026-03-17 19:33:38 +01:00",
-    "name": "17 mars 16.17, Rattfylleri, Strömsund",
-    "summary": "Misstänkt drograttfylleri på E45 söder om Hammerdal.",
-    "url": "/aktuellt/handelser/2026/mars/17/17-mars-16.17-rattfylleri-stromsund/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
