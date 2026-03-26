@@ -1,14 +1,14 @@
 [
   {
-    "id": 628809,
-    "datetime": "2026-03-26 9:49:54 +01:00",
-    "name": "26 mars 07.38, Trafikolycka, Skellefteå",
-    "summary": "Skelleftehamn, trafikolycka vid Järnvägsleden",
-    "url": "/aktuellt/handelser/2026/mars/26/26-mars-07.38-trafikolycka-skelleftea/",
+    "id": 628823,
+    "datetime": "2026-03-26 12:07:09 +01:00",
+    "name": "26 mars 11.58, Trafikolycka, Trelleborg",
+    "summary": "Trafikolycka mellan 2 st personbilar.",
+    "url": "/aktuellt/handelser/2026/mars/26/26-mars-11.58-trafikolycka-trelleborg/",
     "type": "Trafikolycka",
     "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -21,6 +21,42 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 628822,
+    "datetime": "2026-03-26 11:32:04 +01:00",
+    "name": "26 mars 07.20, Stöld/inbrott, Enköping",
+    "summary": "Ett inbrott har skett i en byggcontainer i Lillsidan.",
+    "url": "/aktuellt/handelser/2026/mars/26/26-mars-07.20-stoldinbrott-enkoping/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 628726,
+    "datetime": "2026-03-25 15:33:01 +01:00",
+    "name": "25 mars 15.08, Mord/dråp, försök, Tyresö",
+    "summary": "Skottlossning i Bollmora. En person skadas.",
+    "url": "/aktuellt/handelser/2026/mars/25/25-mars-15.08-morddrap-forsok-tyreso/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 628809,
+    "datetime": "2026-03-26 9:49:54 +01:00",
+    "name": "26 mars 07.38, Trafikolycka, Skellefteå",
+    "summary": "Skelleftehamn, trafikolycka vid Järnvägsleden",
+    "url": "/aktuellt/handelser/2026/mars/26/26-mars-07.38-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -345,18 +381,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 628726,
-    "datetime": "2026-03-25 15:33:01 +01:00",
-    "name": "25 mars 15.08, Mord/dråp, försök, Tyresö",
-    "summary": "Skottlossning i Bollmora. En person skadas.",
-    "url": "/aktuellt/handelser/2026/mars/25/25-mars-15.08-morddrap-forsok-tyreso/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 627811,
-    "datetime": "2026-03-18 8:42:21 +01:00",
-    "name": "18 mars 08.42, Information, Örebro län",
-    "summary": "Idag onsdag har Regionalt mediacenter i Bergslagen stängt.",
-    "url": "/aktuellt/handelser/2026/mars/18/18-mars-08.42-information-orebro-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 627810,
-    "datetime": "2026-03-18 8:42:16 +01:00",
-    "name": "18 mars 08.42, Information, Dalarnas län",
-    "summary": "Idag onsdag har Regionalt mediacenter i Bergslagen stängt.",
-    "url": "/aktuellt/handelser/2026/mars/18/18-mars-08.42-information-dalarnas-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
