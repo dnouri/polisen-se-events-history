@@ -1,5 +1,41 @@
 [
   {
+    "id": 629038,
+    "datetime": "2026-03-27 19:24:02 +01:00",
+    "name": "27 mars 19.13, Brand, Kristianstad",
+    "summary": "Brand i verkstad/garage, Bjärlöv.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-19.13-brand-kristianstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 629037,
+    "datetime": "2026-03-27 19:08:36 +01:00",
+    "name": "27 mars 17.00, Fjällräddning, Krokom",
+    "summary": "Fjällräddningsinsats öster om Grubbfjället.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-17.00-fjallraddning-krokom/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 629036,
+    "datetime": "2026-03-27 18:59:09 +01:00",
+    "name": "27 mars 16.22, Bråk, Ronneby",
+    "summary": "Tre gripna, Ronneby.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-16.22-brak-ronneby/",
+    "type": "Bråk",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
     "id": 629031,
     "datetime": "2026-03-27 17:43:55 +01:00",
     "name": "27 mars 14.54, Trafikolycka, Kinda",
@@ -9,6 +45,54 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 629035,
+    "datetime": "2026-03-27 18:34:22 +01:00",
+    "name": "27 mars 15.03, Ofredande/förargelse, Östersund",
+    "summary": "Polispatrull beordras till centrala Östersund där en man uppges ha varit verbalt aggressiv inne på ett kontor.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-15.03-ofredandeforargelse-ostersund/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 629034,
+    "datetime": "2026-03-27 18:21:33 +01:00",
+    "name": "27 mars 16.30, Trafikolycka, personskada, Uppsala",
+    "summary": "Kollision mellan personbil och elsparkcykel.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-16.30-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 629033,
+    "datetime": "2026-03-27 18:18:52 +01:00",
+    "name": "27 mars 17.19, Trafikolycka, Sundsvall",
+    "summary": "Polis beordras till Sidjö där det inträffat en trafikolycka i anslutning till en rondell.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-17.19-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 629032,
+    "datetime": "2026-03-27 18:13:58 +01:00",
+    "name": "27 mars 16.22, Trafikolycka, personskada, Heby",
+    "summary": "Bil körde av vägen på länsväg 881.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-16.22-trafikolycka-personskada-heby/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 627999,
-    "datetime": "2026-03-19 20:17:00 +01:00",
-    "name": "19 mars 19.52, Trafikolycka, singel, Staffanstorp",
-    "summary": "Personbil i mitträcket, i höjd med Djurslöv, norrgående riktning.",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-19.52-trafikolycka-singel-staffanstorp/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 627969,
-    "datetime": "2026-03-19 14:18:14 +01:00",
-    "name": "19 mars 13.57, Arbetsplatsolycka, Hallsberg",
-    "summary": "Polisen är på plats vid en arbetsplatsolycka i Hallsbergs kommun",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-13.57-arbetsplatsolycka-hallsberg/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 628000,
-    "datetime": "2026-03-19 20:22:00 +01:00",
-    "name": "19 mars 17.40, Trafikolycka, Gällivare",
-    "summary": "En man har kraschat med en skoter utanför en by norr om Gällivare.",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-17.40-trafikolycka-gallivare/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 627996,
-    "datetime": "2026-03-19 19:26:08 +01:00",
-    "name": "19 mars 18.49, Farligt föremål, misstänkt, Uddevalla",
-    "summary": "En person har ringt in till polisen och uppgett att det skall finnas ett farligt föremål i en  livsmedelsbutik",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-18.49-farligt-foremal-misstankt-uddevalla/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 627997,
-    "datetime": "2026-03-19 19:12:15 +01:00",
-    "name": "19 mars 19.00, Brand, Örebro",
-    "summary": "Larm om brand i byggnad",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-19.00-brand-orebro/",
-    "type": "Brand",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 627995,
-    "datetime": "2026-03-19 19:03:35 +01:00",
-    "name": "19 mars 18.57, Bråk, Stockholm",
-    "summary": "Enligt ett vittne verkar det vara bråk i en lägenhet i Midsommarkransen.",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-18.57-brak-stockholm/",
-    "type": "Bråk",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 627998,
-    "datetime": "2026-03-19 19:16:32 +01:00",
-    "name": "19 mars 17.16, Fylleri, Härnösand",
-    "summary": "Centrum, en berusad man ska vara kontaktsökande och otrevlig mot förbipasserande.",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-17.16-fylleri-harnosand/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
