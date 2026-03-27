@@ -1,14 +1,74 @@
 [
   {
-    "id": 629015,
-    "datetime": "2026-03-27 15:48:37 +01:00",
-    "name": "27 mars 12.16, Fjällräddning, Åre",
-    "summary": "Fjällräddningsinsats, Sylarna.",
-    "url": "/aktuellt/handelser/2026/mars/27/27-mars-12.16-fjallraddning-are/",
-    "type": "Fjällräddning",
+    "id": 629029,
+    "datetime": "2026-03-27 16:36:11 +01:00",
+    "name": "27 mars 15.04, Larm Inbrott, Sollentuna",
+    "summary": "Pågående inbrott i Tureberg.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-15.04-larm-inbrott-sollentuna/",
+    "type": "Larm Inbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 629028,
+    "datetime": "2026-03-27 16:29:57 +01:00",
+    "name": "27 mars 15.29, Trafikolycka, Strömsund",
+    "summary": "Larm om trafikolycka på länsväg 998, mellan Tåsjö och Hoting.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-15.29-trafikolycka-stromsund/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 629026,
+    "datetime": "2026-03-27 16:29:39 +01:00",
+    "name": "27 mars 15.54, Brand, Kristinehamn",
+    "summary": "Det har brunnit vid en träbro i centrum",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-15.54-brand-kristinehamn/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 629027,
+    "datetime": "2026-03-27 16:29:39 +01:00",
+    "name": "27 mars 15.15, Trafikolycka, personskada, Huddinge",
+    "summary": "En elsparkcyklist skadas när han blir påkörd.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-15.15-trafikolycka-personskada-huddinge/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 629025,
+    "datetime": "2026-03-27 16:21:43 +01:00",
+    "name": "27 mars 16.08, Brand, Mölndal",
+    "summary": "Vi får in larm om brand i terräng samt fordon vid Lackarebäck.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-16.08-brand-molndal/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 629024,
+    "datetime": "2026-03-27 16:21:06 +01:00",
+    "name": "27 mars 14.45, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka på E4, Stöcksjö.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-14.45-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -21,6 +81,18 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 629015,
+    "datetime": "2026-03-27 15:48:37 +01:00",
+    "name": "27 mars 12.16, Fjällräddning, Åre",
+    "summary": "Fjällräddningsinsats, Sylarna.",
+    "url": "/aktuellt/handelser/2026/mars/27/27-mars-12.16-fjallraddning-are/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 627994,
-    "datetime": "2026-03-19 18:20:34 +01:00",
-    "name": "19 mars 15.48, Rattfylleri, Krokom",
-    "summary": "Polisen kontrollerar en personbil i centrala Krokom.",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-15.48-rattfylleri-krokom/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 627992,
-    "datetime": "2026-03-19 18:16:25 +01:00",
-    "name": "19 mars 17.52, Trafikolycka, Torsby",
-    "summary": "En singelolycka har inträffat i Sysslebäck",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-17.52-trafikolycka-torsby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 627991,
-    "datetime": "2026-03-19 18:14:26 +01:00",
-    "name": "19 mars 15.06, Misshandel, Sundsvall",
-    "summary": "Stenstan, två män ska ha hamnat i bråk.",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-15.06-misshandel-sundsvall/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 627985,
-    "datetime": "2026-03-19 17:09:50 +01:00",
-    "name": "19 mars 17.02, Brand, Karlstad",
-    "summary": "Larm om brand i byggnad",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-17.02-brand-karlstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 627977,
-    "datetime": "2026-03-19 16:16:37 +01:00",
-    "name": "19 mars 15.20, Fjällräddning, Älvdalen",
-    "summary": "Beslut om fjällräddning efter att en person ramlat i samband med skidåkning i Foskros",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-15.20-fjallraddning-alvdalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 627990,
-    "datetime": "2026-03-19 17:46:44 +01:00",
-    "name": "19 mars 16.41, Trafikolycka, Avesta",
-    "summary": "En bilist är misstänkt för brott efter påkörningsolycka",
-    "url": "/aktuellt/handelser/2026/mars/19/19-mars-16.41-trafikolycka-avesta/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
