@@ -1,5 +1,65 @@
 [
   {
+    "id": 629352,
+    "datetime": "2026-03-31 15:33:35 +02:00",
+    "name": "31 mars 15.20, Brand, Eda",
+    "summary": "En fullt utvecklad brand rasar i en ladugård just nu",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-15.20-brand-eda/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 629358,
+    "datetime": "2026-03-31 15:59:19 +02:00",
+    "name": "31 mars 13.19, Övrigt, Enköping",
+    "summary": "Inringare såg sin stulna cykel nyttjas av annan.",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-13.19-ovrigt-enkoping/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 629356,
+    "datetime": "2026-03-31 15:42:26 +02:00",
+    "name": "31 mars 14.19, Trafikbrott, Luleå",
+    "summary": "Notviken, polisen kontrollerar en lätt lastbil.",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-14.19-trafikbrott-lulea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 629346,
+    "datetime": "2026-03-31 14:54:50 +02:00",
+    "name": "31 mars 11.30, Rattfylleri, Sollefteå",
+    "summary": "Hågesta, polisen kontrollerar en personbil.",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-11.30-rattfylleri-solleftea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 629344,
+    "datetime": "2026-03-31 14:42:27 +02:00",
+    "name": "31 mars 08.34, Hemfridsbrott, Luleå",
+    "summary": "Örnäset, polisen får uppgifter om att en obehörig man ska befinna sig i en källare till ett flerfamiljshus.",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-08.34-hemfridsbrott-lulea/",
+    "type": "Hemfridsbrott",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 629343,
     "datetime": "2026-03-31 14:32:56 +02:00",
     "name": "31 mars 14.32, Övrigt, Västra Götalands län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 628448,
-    "datetime": "2026-03-23 16:30:11 +01:00",
-    "name": "23 mars 14.57, Trafikolycka, Norrköping",
-    "summary": "Inget brott efter spårvagnskollision",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-14.57-trafikolycka-norrkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 628394,
-    "datetime": "2026-03-23 16:03:18 +01:00",
-    "name": "23 mars 14.00, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, resultat från några av dagens trafikkontroller",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-14.00-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 628447,
-    "datetime": "2026-03-23 15:53:03 +01:00",
-    "name": "23 mars 11.36, Trafikbrott, Arboga",
-    "summary": "Samtal om vinglig färd.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-11.36-trafikbrott-arboga/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 628398,
-    "datetime": "2026-03-23 15:49:32 +01:00",
-    "name": "23 mars 15.30, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-15.30-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 628445,
-    "datetime": "2026-03-23 15:37:18 +01:00",
-    "name": "23 mars 14.46, Trafikolycka, Halmstad",
-    "summary": "En patrull uppmärksammar att en trafikolycka nyss skett i korsningen Västervallvägen/Laholmsvägen.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-14.46-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
