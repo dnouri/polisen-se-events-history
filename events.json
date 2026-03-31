@@ -1,11 +1,59 @@
 [
   {
+    "id": 629364,
+    "datetime": "2026-03-31 18:05:13 +02:00",
+    "name": "31 mars 16.18, Trafikolycka, Kristinehamn",
+    "summary": "En trafikolycka har inträffat i Kvarnbyn",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-16.18-trafikolycka-kristinehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 629363,
+    "datetime": "2026-03-31 17:49:08 +02:00",
+    "name": "31 mars 17.43, Misshandel, Härnösand",
+    "summary": "Under eftermiddagen kontaktas polisen angående att en man i Härnösands kommun ska vara våldsam mot en kvinna.",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-17.43-misshandel-harnosand/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 629362,
+    "datetime": "2026-03-31 17:47:09 +02:00",
+    "name": "31 mars 16.47, Trafikolycka, personskada, Uppsala",
+    "summary": "Trafikolycka på E4 vid trafikplats Säby.",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-16.47-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 629361,
+    "datetime": "2026-03-31 16:53:56 +02:00",
+    "name": "31 mars 16.12, Misshandel, Uddevalla",
+    "summary": "Larm om skadad man.",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-16.12-misshandel-uddevalla/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 629352,
     "datetime": "2026-03-31 15:33:35 +02:00",
-    "name": "31 mars 15.20, Brand, Eda",
+    "name": "31 mars 15.20, Mordbrand, Eda",
     "summary": "En fullt utvecklad brand rasar i en ladugård just nu",
-    "url": "/aktuellt/handelser/2026/mars/31/31-mars-15.20-brand-eda/",
-    "type": "Brand",
+    "url": "/aktuellt/handelser/2026/mars/31/31-mars-15.20-mordbrand-eda/",
+    "type": "Mordbrand",
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 628453,
-    "datetime": "2026-03-23 17:11:02 +01:00",
-    "name": "23 mars 14.30, Rån övrigt, Uppsala",
-    "summary": "Anmälan om rån i motvärnsfallet.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-14.30-ran-ovrigt-uppsala/",
-    "type": "Rån övrigt",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 628452,
-    "datetime": "2026-03-23 17:08:46 +01:00",
-    "name": "23 mars 15.46, Arbetsplatsolycka, Ljusdal",
-    "summary": "Man till sjukhus.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-15.46-arbetsplatsolycka-ljusdal/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 628451,
-    "datetime": "2026-03-23 16:50:52 +01:00",
-    "name": "23 mars 15.34, Brand, Uppsala",
-    "summary": "Larm om brand.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-15.34-brand-uppsala/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 628449,
-    "datetime": "2026-03-23 16:38:49 +01:00",
-    "name": "23 mars 15.52, Trafikolycka, Malmö",
-    "summary": "Trafikolycka mellan två fordon.",
-    "url": "/aktuellt/handelser/2026/mars/23/23-mars-15.52-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
