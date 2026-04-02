@@ -1,14 +1,38 @@
 [
   {
-    "id": 629586,
-    "datetime": "2026-04-02 8:21:17 +02:00",
-    "name": "02 april 06.29, Stöld, Sandviken",
-    "summary": "Inbrott i skola.",
-    "url": "/aktuellt/handelser/2026/april/2/02-april-06.29-stold-sandviken/",
-    "type": "Stöld",
+    "id": 629580,
+    "datetime": "2026-04-02 9:56:39 +02:00",
+    "name": "02 april 07.18, Stöld/inbrott, Ale",
+    "summary": "Polisen har i närtid sett att vi har ett ökat inflöde gällande stölder i nordöstra Ale kommun.",
+    "url": "/aktuellt/handelser/2026/april/2/02-april-07.18-stoldinbrott-ale/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 629599,
+    "datetime": "2026-04-02 9:45:25 +02:00",
+    "name": "02 april 08.01, Stöld/inbrott, Sandviken",
+    "summary": "Anmälan om stöld genom inbrott.",
+    "url": "/aktuellt/handelser/2026/april/2/02-april-08.01-stoldinbrott-sandviken/",
+    "type": "Stöld/inbrott",
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 629595,
+    "datetime": "2026-04-02 9:30:22 +02:00",
+    "name": "02 april 09.29, Trafikolycka, Örkelljunga",
+    "summary": "Larm om trafikolycka, E4:an",
+    "url": "/aktuellt/handelser/2026/april/2/02-april-09.29-trafikolycka-orkelljunga/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -21,6 +45,30 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 629560,
+    "datetime": "2026-04-02 6:47:29 +02:00",
+    "name": "01 april 19.16, Försvunnen person, Växjö",
+    "summary": "En person saknas efter larm om vält kanot utanför Åby",
+    "url": "/aktuellt/handelser/2026/april/1/01-april-19.16-forsvunnen-person-vaxjo/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 629586,
+    "datetime": "2026-04-02 8:21:17 +02:00",
+    "name": "02 april 06.29, Stöld, Sandviken",
+    "summary": "Inbrott i skola.",
+    "url": "/aktuellt/handelser/2026/april/2/02-april-06.29-stold-sandviken/",
+    "type": "Stöld",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
     }
   },
   {
@@ -249,18 +297,6 @@
     "location": {
       "name": "Blekinge län",
       "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 629560,
-    "datetime": "2026-04-02 6:47:29 +02:00",
-    "name": "01 april 19.16, Försvunnen person, Växjö",
-    "summary": "En person saknas efter larm om vält kanot utanför Åby",
-    "url": "/aktuellt/handelser/2026/april/1/01-april-19.16-forsvunnen-person-vaxjo/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 628738,
-    "datetime": "2026-03-25 16:59:49 +01:00",
-    "name": "25 mars 14.59, Stöld, Umeå",
-    "summary": "Misstänkt ringa stöld i matbutik på Gimonäs.",
-    "url": "/aktuellt/handelser/2026/mars/25/25-mars-14.59-stold-umea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 628737,
-    "datetime": "2026-03-25 16:58:48 +01:00",
-    "name": "25 mars 16.10, Trafikolycka, Växjö",
-    "summary": "Tre personbilar kolliderar på Liedbergsgatan.",
-    "url": "/aktuellt/handelser/2026/mars/25/25-mars-16.10-trafikolycka-vaxjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 628736,
-    "datetime": "2026-03-25 16:49:36 +01:00",
-    "name": "25 mars 16.18, Rattfylleri, Katrineholm",
-    "summary": "Man misstänks för drograttfylleri.",
-    "url": "/aktuellt/handelser/2026/mars/25/25-mars-16.18-rattfylleri-katrineholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
