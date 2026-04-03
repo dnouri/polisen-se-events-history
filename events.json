@@ -1,5 +1,101 @@
 [
   {
+    "id": 629774,
+    "datetime": "2026-04-03 13:16:00 +02:00",
+    "name": "03 april 13.00, Trafikolycka, Torsås",
+    "summary": "Singelolycka i Bergkvara.",
+    "url": "/aktuellt/handelser/2026/april/3/03-april-13.00-trafikolycka-torsas/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 629773,
+    "datetime": "2026-04-03 13:13:31 +02:00",
+    "name": "03 april 10.59, Rattfylleri, Umeå",
+    "summary": "Teg, polisen kontrollerar en personbil.",
+    "url": "/aktuellt/handelser/2026/april/3/03-april-10.59-rattfylleri-umea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 629766,
+    "datetime": "2026-04-03 11:11:15 +02:00",
+    "name": "03 april 09.00, Försvunnen person, Kristianstad",
+    "summary": "Försvunnen kvinnan hittad.",
+    "url": "/aktuellt/handelser/2026/april/3/03-april-09.00-forsvunnen-person-kristianstad/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 629770,
+    "datetime": "2026-04-03 12:29:36 +02:00",
+    "name": "03 april 12.15, Trafikolycka, Jönköping",
+    "summary": "Ännu en olycka på E4.",
+    "url": "/aktuellt/handelser/2026/april/3/03-april-12.15-trafikolycka-jonkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 629772,
+    "datetime": "2026-04-03 12:42:38 +02:00",
+    "name": "03 april 12.36, Trafikkontroll, Västernorrlands län",
+    "summary": "Ett urval av polisens arbete i trafiken under förmiddagen.",
+    "url": "/aktuellt/handelser/2026/april/3/03-april-12.36-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 629765,
+    "datetime": "2026-04-03 11:07:59 +02:00",
+    "name": "03 april 11.00, Trafikolycka, Nyköping",
+    "summary": "Två personbilar i krock.",
+    "url": "/aktuellt/handelser/2026/april/3/03-april-11.00-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 629771,
+    "datetime": "2026-04-03 12:33:56 +02:00",
+    "name": "03 april 11.45, Trafikbrott, Umeå",
+    "summary": "Alvik, polisen kontrollerar en personbil.",
+    "url": "/aktuellt/handelser/2026/april/3/03-april-11.45-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 629769,
+    "datetime": "2026-04-03 12:28:45 +02:00",
+    "name": "03 april 11.37, Olovlig körning, Kiruna",
+    "summary": "Riksgränsen, polisen kontrollerar en snöskoter.",
+    "url": "/aktuellt/handelser/2026/april/3/03-april-11.37-olovlig-korning-kiruna/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 629763,
     "datetime": "2026-04-03 10:44:27 +02:00",
     "name": "03 april 10.16, Trafikhinder, Jönköping",
@@ -33,30 +129,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 629766,
-    "datetime": "2026-04-03 11:11:15 +02:00",
-    "name": "03 april 09.00, Försvunnen person, Kristianstad",
-    "summary": "Polisen söker efter en kvinna som anmälts försvunnen i Yngsjö.",
-    "url": "/aktuellt/handelser/2026/april/3/03-april-09.00-forsvunnen-person-kristianstad/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 629765,
-    "datetime": "2026-04-03 11:07:59 +02:00",
-    "name": "03 april 11.00, Trafikolycka, Nyköping",
-    "summary": "Två personbilar i krock.",
-    "url": "/aktuellt/handelser/2026/april/3/03-april-11.00-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5922,78 +5994,6 @@
     "summary": "En bilförare som stoppas vid Estuna misstänks för rattfylleri - i samband med stoppet uppstår misstankar om do",
     "url": "/aktuellt/handelser/2026/mars/26/26-mars-18.15-rattfylleri-norrtalje/",
     "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 628901,
-    "datetime": "2026-03-26 20:46:58 +01:00",
-    "name": "26 mars 19.56, Misshandel, Karlstad",
-    "summary": "En man är misstänkt för ringa misshandel",
-    "url": "/aktuellt/handelser/2026/mars/26/26-mars-19.56-misshandel-karlstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 628900,
-    "datetime": "2026-03-26 20:45:01 +01:00",
-    "name": "26 mars 17.39, Rattfylleri, Värmlands län",
-    "summary": "Två misstänkta rattfyllerister har stoppats från framfart på värmländska vägar",
-    "url": "/aktuellt/handelser/2026/mars/26/26-mars-17.39-rattfylleri-varmlands-lan/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 628894,
-    "datetime": "2026-03-26 20:11:00 +01:00",
-    "name": "26 mars 19.45, Försvunnen person, Kristinehamn",
-    "summary": "Den man som polisen letat efter är anträffad",
-    "url": "/aktuellt/handelser/2026/mars/26/26-mars-19.45-forsvunnen-person-kristinehamn/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 628899,
-    "datetime": "2026-03-26 20:37:48 +01:00",
-    "name": "26 mars 19.54, Fylleri, Boden",
-    "summary": "Boden, person omhändertagen.",
-    "url": "/aktuellt/handelser/2026/mars/26/26-mars-19.54-fylleri-boden/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 628898,
-    "datetime": "2026-03-26 20:29:10 +01:00",
-    "name": "26 mars 19.42, Rattfylleri, Stockholm",
-    "summary": "En bilförare som kör vingligt på E4 i höjd med Kista misstänks för rattfylleri och tas med för provtagning.",
-    "url": "/aktuellt/handelser/2026/mars/26/26-mars-19.42-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 628897,
-    "datetime": "2026-03-26 20:25:13 +01:00",
-    "name": "26 mars 18.08, Misshandel, Stockholm",
-    "summary": "En man misstänks ha utsatt en person han har en relation med för misshandel. Mannen grips.",
-    "url": "/aktuellt/handelser/2026/mars/26/26-mars-18.08-misshandel-stockholm/",
-    "type": "Misshandel",
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
