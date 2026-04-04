@@ -1,5 +1,65 @@
 [
   {
+    "id": 629810,
+    "datetime": "2026-04-04 9:29:02 +02:00",
+    "name": "04 april 09.14, Trafikolycka, singel, Mörbylånga",
+    "summary": "Singelolycka, Algutsrum.",
+    "url": "/aktuellt/handelser/2026/april/4/04-april-09.14-trafikolycka-singel-morbylanga/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 629809,
+    "datetime": "2026-04-04 9:11:33 +02:00",
+    "name": "04 april 08.26, Trafikolycka, personskada, Köping",
+    "summary": "Bil körde av vägen och in i träd.",
+    "url": "/aktuellt/handelser/2026/april/4/04-april-08.26-trafikolycka-personskada-koping/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 629808,
+    "datetime": "2026-04-04 9:04:16 +02:00",
+    "name": "04 april 08.43, Rattfylleri, Smedjebacken",
+    "summary": "En bilist är misstänkt för brott i Smedjebacken",
+    "url": "/aktuellt/handelser/2026/april/4/04-april-08.43-rattfylleri-smedjebacken/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 629807,
+    "datetime": "2026-04-04 8:53:28 +02:00",
+    "name": "04 april 08.25, Brand, Markaryd",
+    "summary": "Brand i bostad, Strömsnäsbruk.",
+    "url": "/aktuellt/handelser/2026/april/4/04-april-08.25-brand-markaryd/",
+    "type": "Brand",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 629806,
+    "datetime": "2026-04-04 8:41:02 +02:00",
+    "name": "04 april 08.15, Sammanfattning natt, Jämtlands län",
+    "summary": "Jämtland, ett urval av nattens polisverksamhet",
+    "url": "/aktuellt/handelser/2026/april/4/04-april-08.15-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 629801,
     "datetime": "2026-04-04 7:41:47 +02:00",
     "name": "04 april 07.00, Trafikolycka, Ljusnarsberg",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 628970,
-    "datetime": "2026-03-27 12:30:49 +01:00",
-    "name": "27 mars 11.50, Trafikbrott, Vindeln",
-    "summary": "Lillsele, bilist stoppad för kontroll på E12",
-    "url": "/aktuellt/handelser/2026/mars/27/27-mars-11.50-trafikbrott-vindeln/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 628966,
-    "datetime": "2026-03-27 12:24:35 +01:00",
-    "name": "27 mars 11.22, Trafikkontroll, Boden",
-    "summary": "Länsväg 356 Moråsen, resultat efter trafikkontroll",
-    "url": "/aktuellt/handelser/2026/mars/27/27-mars-11.22-trafikkontroll-boden/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 628965,
-    "datetime": "2026-03-27 12:13:05 +01:00",
-    "name": "27 mars 12.00, Trafikolycka, Värnamo",
-    "summary": "Två bilar i krock.",
-    "url": "/aktuellt/handelser/2026/mars/27/27-mars-12.00-trafikolycka-varnamo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 628963,
-    "datetime": "2026-03-27 11:52:10 +01:00",
-    "name": "27 mars 11.52, Mord/dråp, Kumla",
-    "summary": "Förundersökning om mord inledd i Kumla.",
-    "url": "/aktuellt/handelser/2026/mars/27/27-mars-11.52-morddrap-kumla/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 628952,
-    "datetime": "2026-03-27 10:50:47 +01:00",
-    "name": "27 mars 10.18, Trafikkontroll, Storuman",
-    "summary": "E12 Tärna tätort, resultat efter nykterhetskontroll",
-    "url": "/aktuellt/handelser/2026/mars/27/27-mars-10.18-trafikkontroll-storuman/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   }
 ]
