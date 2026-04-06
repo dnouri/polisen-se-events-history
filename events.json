@@ -1,5 +1,125 @@
 [
   {
+    "id": 629935,
+    "datetime": "2026-04-06 7:54:33 +02:00",
+    "name": "05 april 19.27, Misshandel, Köping",
+    "summary": "Bråk på tåg.",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-19.27-misshandel-koping/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 629934,
+    "datetime": "2026-04-06 7:40:02 +02:00",
+    "name": "05 april 18.01, Trafikolycka, Uppsala",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-18.01-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 629933,
+    "datetime": "2026-04-06 7:33:37 +02:00",
+    "name": "05 april 19.23, Fylleri, Gävle",
+    "summary": "Man omhändertagen enligt LOB.",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-19.23-fylleri-gavle/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 629932,
+    "datetime": "2026-04-06 7:27:15 +02:00",
+    "name": "05 april 16.03, Stöld, Gävle",
+    "summary": "Anmälan om stöld.",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-16.03-stold-gavle/",
+    "type": "Stöld",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 629931,
+    "datetime": "2026-04-06 7:24:46 +02:00",
+    "name": "05 april 15.44, Trafikolycka, Hudiksvall",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-15.44-trafikolycka-hudiksvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 629924,
+    "datetime": "2026-04-06 7:22:32 +02:00",
+    "name": "06 april 07.22, Sammanfattning natt, Östergötlands län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.22-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 629927,
+    "datetime": "2026-04-06 7:22:02 +02:00",
+    "name": "06 april 07.21, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.21-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 629930,
+    "datetime": "2026-04-06 7:21:53 +02:00",
+    "name": "06 april 07.21, Sammanfattning natt, Jönköpings län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.21-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 629929,
+    "datetime": "2026-04-06 7:20:09 +02:00",
+    "name": "05 april 14.45, Bedrägeri, Tierp",
+    "summary": "Äldre kvinna utsatt för brott.",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-14.45-bedrageri-tierp/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 629928,
+    "datetime": "2026-04-06 7:15:33 +02:00",
+    "name": "05 april 14.05, Trafikolycka, personskada, Östhammar",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-14.05-trafikolycka-personskada-osthammar/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
     "id": 629909,
     "datetime": "2026-04-06 3:03:34 +02:00",
     "name": "06 april 01.05, Explosion, Järfälla",
@@ -9,6 +129,198 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 629923,
+    "datetime": "2026-04-06 7:10:28 +02:00",
+    "name": "06 april 07.05, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en lugn natt operativt i länet",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.05-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 629925,
+    "datetime": "2026-04-06 7:09:42 +02:00",
+    "name": "06 april 07.08, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en lugn natt operativt i länet",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.08-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 629926,
+    "datetime": "2026-04-06 7:09:37 +02:00",
+    "name": "06 april 07.08, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en lugn natt operativt i länet",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.08-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 629922,
+    "datetime": "2026-04-06 7:01:10 +02:00",
+    "name": "06 april 07.00, Sammanfattning natt, Norrbottens län",
+    "summary": "Inga ärenden att rapportera om från natten.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.00-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 629921,
+    "datetime": "2026-04-06 7:00:53 +02:00",
+    "name": "06 april 07.00, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av polisens arbete under natten.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.00-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 629920,
+    "datetime": "2026-04-06 7:00:29 +02:00",
+    "name": "06 april 07.00, Sammanfattning natt, Västernorrlands län",
+    "summary": "Inga ärenden att rapportera om från natten.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.00-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 629918,
+    "datetime": "2026-04-06 7:00:17 +02:00",
+    "name": "06 april 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 629917,
+    "datetime": "2026-04-06 7:00:12 +02:00",
+    "name": "06 april 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats. Inga större händelser i länet under kvällen/natten.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 629919,
+    "datetime": "2026-04-06 7:00:08 +02:00",
+    "name": "06 april 06.59, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av polisens arbete under natten.",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-06.59-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 629916,
+    "datetime": "2026-04-06 6:56:31 +02:00",
+    "name": "05 april 22.38, Trafikolycka, Västervik",
+    "summary": "Larm om trafikolycka, Lofta",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-22.38-trafikolycka-vastervik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 629915,
+    "datetime": "2026-04-06 6:48:58 +02:00",
+    "name": "06 april 02.55, Skadegörelse, Helsingborg",
+    "summary": "Skadegörelse på bostad, Laröd",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-02.55-skadegorelse-helsingborg/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 629914,
+    "datetime": "2026-04-06 6:45:08 +02:00",
+    "name": "05 april 22.10, Inbrott, Helsingborg",
+    "summary": "Larm om inbrott i bostad, Ramlösagården",
+    "url": "/aktuellt/handelser/2026/april/5/05-april-22.10-inbrott-helsingborg/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 629913,
+    "datetime": "2026-04-06 6:38:47 +02:00",
+    "name": "06 april 05.25, Trafikolycka, Bjuv",
+    "summary": "Larm om trafikolycka, Ekeby",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-05.25-trafikolycka-bjuv/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 629912,
+    "datetime": "2026-04-06 6:36:00 +02:00",
+    "name": "06 april 04.03, Brand, Malmö",
+    "summary": "Försök till grov mordbrand, Fosie",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-04.03-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 629911,
+    "datetime": "2026-04-06 6:14:35 +02:00",
+    "name": "06 april 00.29, Brand, Kristianstad",
+    "summary": "Larm om brand i villa, Nosaby",
+    "url": "/aktuellt/handelser/2026/april/6/06-april-00.29-brand-kristianstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 629910,
+    "datetime": "2026-04-06 6:10:09 +02:00",
+    "name": "05 april 20.15, Misshandel, Ängelholm",
+    "summary": "Man gripen misshandel av närstående",
+    "url": "/aktuellt/handelser/2026/april/6/05-april-20.15-misshandel-angelholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5682,318 +5994,6 @@
     "summary": "Duved, larm om brand i byggnad.",
     "url": "/aktuellt/handelser/2026/mars/28/28-mars-17.33-brand-are/",
     "type": "Brand",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 629111,
-    "datetime": "2026-03-29 8:15:48 +02:00",
-    "name": "29 mars 08.15, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-08.15-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 629116,
-    "datetime": "2026-03-29 8:15:11 +02:00",
-    "name": "29 mars 08.15, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-08.15-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 629121,
-    "datetime": "2026-03-29 8:14:49 +02:00",
-    "name": "29 mars 08.14, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-08.14-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 629122,
-    "datetime": "2026-03-29 8:14:20 +02:00",
-    "name": "29 mars 08.14, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-08.14-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 629120,
-    "datetime": "2026-03-29 8:03:02 +02:00",
-    "name": "29 mars 03.39, Misshandel, Växjö",
-    "summary": "Man i 30-årsåldern grips misstänkt för misshandel.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-03.39-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 629118,
-    "datetime": "2026-03-29 7:49:04 +02:00",
-    "name": "28 mars 23.38, Kontroll, Västerås",
-    "summary": "Samtal om man som gick på E18.",
-    "url": "/aktuellt/handelser/2026/mars/28/28-mars-23.38-kontroll-vasteras/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 629113,
-    "datetime": "2026-03-29 7:48:58 +02:00",
-    "name": "29 mars 07.48, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-07.48-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 629110,
-    "datetime": "2026-03-29 7:48:49 +02:00",
-    "name": "29 mars 07.48, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-07.48-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 629117,
-    "datetime": "2026-03-29 7:48:39 +02:00",
-    "name": "29 mars 07.48, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-07.48-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 629115,
-    "datetime": "2026-03-29 7:36:55 +02:00",
-    "name": "28 mars 23.24, Brand, Uppsala",
-    "summary": "Larm om brand.",
-    "url": "/aktuellt/handelser/2026/mars/28/28-mars-23.24-brand-uppsala/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 629114,
-    "datetime": "2026-03-29 7:35:01 +02:00",
-    "name": "28 mars 21.46, Fylleri, Uppsala",
-    "summary": "Man omhändertagen enligt LOB.",
-    "url": "/aktuellt/handelser/2026/mars/28/28-mars-21.46-fylleri-uppsala/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 629112,
-    "datetime": "2026-03-29 7:21:26 +02:00",
-    "name": "28 mars 16.26, Trafikolycka, Ovanåker",
-    "summary": "Larm om trafikolycka.",
-    "url": "/aktuellt/handelser/2026/mars/28/28-mars-16.26-trafikolycka-ovanaker/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 629109,
-    "datetime": "2026-03-29 7:00:45 +02:00",
-    "name": "29 mars 07.00, Sammanfattning natt, Örebro län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-07.00-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 629108,
-    "datetime": "2026-03-29 7:00:39 +02:00",
-    "name": "29 mars 07.00, Sammanfattning natt, Dalarnas län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-07.00-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 629107,
-    "datetime": "2026-03-29 7:00:34 +02:00",
-    "name": "29 mars 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer en sammanfattning av natten.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 629106,
-    "datetime": "2026-03-29 6:55:06 +02:00",
-    "name": "29 mars 05.12, Misshandel, Mölndal",
-    "summary": "Man förs till sjukhus. Uppger att han blivit slagen.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-05.12-misshandel-molndal/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 629095,
-    "datetime": "2026-03-29 0:26:20 +01:00",
-    "name": "28 mars 22.34, Vapenlagen, Örnsköldsvik",
-    "summary": "Samtal om två personer med ett vapenliknande föremål",
-    "url": "/aktuellt/handelser/2026/mars/28/28-mars-22.34-vapenlagen-ornskoldsvik/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 629105,
-    "datetime": "2026-03-29 6:39:59 +02:00",
-    "name": "29 mars 04.31, Misshandel, Kristianstad",
-    "summary": "Misshandel på snabbmatsrestaurang.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-04.31-misshandel-kristianstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 629104,
-    "datetime": "2026-03-29 6:37:01 +02:00",
-    "name": "29 mars 06.36, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-06.36-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 629103,
-    "datetime": "2026-03-29 6:36:55 +02:00",
-    "name": "29 mars 03.51, Skadegörelse, Hässleholm",
-    "summary": "Brand i byggnad.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-03.51-skadegorelse-hassleholm/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 629102,
-    "datetime": "2026-03-29 6:35:51 +02:00",
-    "name": "29 mars 06.35, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-06.35-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 629101,
-    "datetime": "2026-03-29 6:33:16 +02:00",
-    "name": "29 mars 01.48, Rattfylleri, Eslöv",
-    "summary": "Man i 40-årsåldern misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-01.48-rattfylleri-eslov/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 629100,
-    "datetime": "2026-03-29 6:30:54 +02:00",
-    "name": "29 mars 00.46, Misshandel, Helsingborg",
-    "summary": "Man i 20-årsåldern blir misshandlad.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-00.46-misshandel-helsingborg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 629099,
-    "datetime": "2026-03-29 6:26:17 +02:00",
-    "name": "29 mars 03.39, Rån, försök, Ronneby",
-    "summary": "Man blir utsatt för rånförsök.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-03.39-ran-forsok-ronneby/",
-    "type": "Rån, försök",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 629098,
-    "datetime": "2026-03-29 6:18:28 +02:00",
-    "name": "29 mars 04.17, Misshandel, Oskarshamn",
-    "summary": "Bråk i centrala Oskarshamn.",
-    "url": "/aktuellt/handelser/2026/mars/29/29-mars-04.17-misshandel-oskarshamn/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 629096,
-    "datetime": "2026-03-29 0:27:06 +01:00",
-    "name": "28 mars 23.12, Vapenlagen, Östersund",
-    "summary": "Samtal om vapenlikande föremål",
-    "url": "/aktuellt/handelser/2026/mars/28/28-mars-23.12-vapenlagen-ostersund/",
-    "type": "Vapenlagen",
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
