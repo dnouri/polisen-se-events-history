@@ -1,5 +1,65 @@
 [
   {
+    "id": 630101,
+    "datetime": "2026-04-07 18:14:38 +02:00",
+    "name": "07 april 14.57, Bedrägeri, Stockholm",
+    "summary": "Kvinna utsatt för bedrägeri efter att ha blivit kontaktad av \"banken\".",
+    "url": "/aktuellt/handelser/2026/april/7/07-april-14.57-bedrageri-stockholm/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 630100,
+    "datetime": "2026-04-07 18:00:41 +02:00",
+    "name": "07 april 17.51, Anträffad död, Växjö",
+    "summary": "Den försvunna kanotisten anträffad.",
+    "url": "/aktuellt/handelser/2026/april/7/07-april-17.51-antraffad-dod-vaxjo/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 630098,
+    "datetime": "2026-04-07 17:34:30 +02:00",
+    "name": "07 april 17.00, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/april/7/07-april-17.00-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 630095,
+    "datetime": "2026-04-07 16:55:01 +02:00",
+    "name": "07 april 12.59, Olovlig körning, Krokom",
+    "summary": "Ås, bilist med släp stoppad för kontroll",
+    "url": "/aktuellt/handelser/2026/april/7/07-april-12.59-olovlig-korning-krokom/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 630094,
+    "datetime": "2026-04-07 16:48:16 +02:00",
+    "name": "07 april 15.55, Fjällräddning, Åre",
+    "summary": "Norr om Storulvåns fjällstation, en lavin har gått",
+    "url": "/aktuellt/handelser/2026/april/7/07-april-15.55-fjallraddning-are/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 630086,
     "datetime": "2026-04-07 16:20:30 +02:00",
     "name": "07 april 13.21, Fjällräddning, Dorotea",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 629272,
-    "datetime": "2026-03-31 6:37:01 +02:00",
-    "name": "30 mars 23.10, Bedrägeri, Malmö",
-    "summary": "Kvinna i 70-årsåldern utsatt för bedrägeri",
-    "url": "/aktuellt/handelser/2026/mars/30/30-mars-23.10-bedrageri-malmo/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 629271,
-    "datetime": "2026-03-31 6:22:29 +02:00",
-    "name": "30 mars 22.11, Misshandel, Simrishamn",
-    "summary": "Misshandel i nära relation",
-    "url": "/aktuellt/handelser/2026/mars/30/30-mars-22.11-misshandel-simrishamn/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 629268,
-    "datetime": "2026-03-30 22:01:19 +02:00",
-    "name": "30 mars 21.59, Misshandel, Hultsfred",
-    "summary": "Man gripen, Hultsfred.",
-    "url": "/aktuellt/handelser/2026/mars/30/30-mars-21.59-misshandel-hultsfred/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 629266,
-    "datetime": "2026-03-30 21:56:14 +02:00",
-    "name": "30 mars 21.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/mars/30/30-mars-21.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 629267,
-    "datetime": "2026-03-30 21:56:07 +02:00",
-    "name": "30 mars 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/mars/30/30-mars-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
