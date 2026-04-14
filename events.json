@@ -1,14 +1,122 @@
 [
   {
-    "id": 630848,
-    "datetime": "2026-04-14 16:13:33 +02:00",
-    "name": "14 april 14.04, Trafikolycka, Enköping",
-    "summary": "Larm om trafikolycka.",
-    "url": "/aktuellt/handelser/2026/april/14/14-april-14.04-trafikolycka-enkoping/",
-    "type": "Trafikolycka",
+    "id": 630860,
+    "datetime": "2026-04-14 18:04:34 +02:00",
+    "name": "14 april 15.08, Arbetsplatsolycka, Solna",
+    "summary": "Man påkörd med pallyft.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-15.08-arbetsplatsolycka-solna/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 630859,
+    "datetime": "2026-04-14 18:04:29 +02:00",
+    "name": "14 april 15.22, Sexualbrott, Stockholm",
+    "summary": "En kvinna blottar sig för barn i Högdalen.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-15.22-sexualbrott-stockholm/",
+    "type": "Sexualbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 630857,
+    "datetime": "2026-04-14 18:04:23 +02:00",
+    "name": "14 april 17.05, Sexualbrott, Nacka",
+    "summary": "En främmande man onanerar mot inringarens bil.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-17.05-sexualbrott-nacka/",
+    "type": "Sexualbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 630856,
+    "datetime": "2026-04-14 18:04:18 +02:00",
+    "name": "14 april 14.02, Trafikbrott, Norrtälje",
+    "summary": "En bilförare misstänks för brott efter ha voltat med bilen och landat upp och ner på en cykelbana.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-14.02-trafikbrott-norrtalje/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 630858,
+    "datetime": "2026-04-14 17:55:25 +02:00",
+    "name": "14 april 16.25, Djur, Uppsala",
+    "summary": "Hund hittades och lämnades åter till ägare.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-16.25-djur-uppsala/",
+    "type": "Djur",
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 630843,
+    "datetime": "2026-04-14 16:10:15 +02:00",
+    "name": "14 april 13.40, Trafikolycka, personskada, Tierp",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-13.40-trafikolycka-personskada-tierp/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 630852,
+    "datetime": "2026-04-14 17:03:34 +02:00",
+    "name": "14 april 16.35, Trafikolycka, singel, Alvesta",
+    "summary": "Personbil kör in i vägräcke på riksväg 25.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-16.35-trafikolycka-singel-alvesta/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 630855,
+    "datetime": "2026-04-14 17:24:57 +02:00",
+    "name": "14 april 15.43, Trafikolycka, Hallstahammar",
+    "summary": "Trafikolycka på E18.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-15.43-trafikolycka-hallstahammar/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 630854,
+    "datetime": "2026-04-14 17:19:58 +02:00",
+    "name": "14 april 17.19, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-17.19-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 630853,
+    "datetime": "2026-04-14 17:14:34 +02:00",
+    "name": "14 april 17.14, Trafikkontroll, Västerbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-17.14-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -24,12 +132,24 @@
     }
   },
   {
-    "id": 630843,
-    "datetime": "2026-04-14 16:10:15 +02:00",
-    "name": "14 april 13.40, Trafikolycka, personskada, Tierp",
+    "id": 630851,
+    "datetime": "2026-04-14 16:57:41 +02:00",
+    "name": "14 april 15.23, Fylleri, Sundsvall",
+    "summary": "Man omhändertagen för fylleri på Birsta.",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-15.23-fylleri-sundsvall/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 630848,
+    "datetime": "2026-04-14 16:13:33 +02:00",
+    "name": "14 april 14.04, Trafikolycka, Enköping",
     "summary": "Larm om trafikolycka.",
-    "url": "/aktuellt/handelser/2026/april/14/14-april-13.40-trafikolycka-personskada-tierp/",
-    "type": "Trafikolycka, personskada",
+    "url": "/aktuellt/handelser/2026/april/14/14-april-14.04-trafikolycka-enkoping/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
@@ -5877,126 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 630035,
-    "datetime": "2026-04-07 12:03:13 +02:00",
-    "name": "07 april 10.15, Försvunnen person, Kalmar län",
-    "summary": "Försvunnen kvinna anträffad",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-10.15-forsvunnen-person-kalmar-lan/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 630028,
-    "datetime": "2026-04-07 11:01:10 +02:00",
-    "name": "07 april 10.37, Farligt föremål, misstänkt, Malmö",
-    "summary": "Område avspärrat, Skeppsbron",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-10.37-farligt-foremal-misstankt-malmo/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 630038,
-    "datetime": "2026-04-07 12:41:36 +02:00",
-    "name": "07 april 12.38, Övrigt, Örebro län",
-    "summary": "RMC stänger tidigare idag, tisdag",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-12.38-ovrigt-orebro-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 630040,
-    "datetime": "2026-04-07 12:41:30 +02:00",
-    "name": "07 april 12.40, Övrigt, Dalarnas län",
-    "summary": "RMC stänger tidigare idag, tisdag",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-12.40-ovrigt-dalarnas-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 630041,
-    "datetime": "2026-04-07 12:41:25 +02:00",
-    "name": "07 april 12.40, Övrigt, Värmlands län",
-    "summary": "RMC stänger tidigare idag, tisdag",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-12.40-ovrigt-varmlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 630036,
-    "datetime": "2026-04-07 12:21:33 +02:00",
-    "name": "07 april 12.20, Trafikkontroll, Umeå",
-    "summary": "Ett urval av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-12.20-trafikkontroll-umea/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 630034,
-    "datetime": "2026-04-07 11:45:10 +02:00",
-    "name": "07 april 08.17, Rattfylleri, Ystad",
-    "summary": "Personbil kör ner i diket från en privat väg mellan Ystad och Marsvinsholm.",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-08.17-rattfylleri-ystad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 630033,
-    "datetime": "2026-04-07 11:33:21 +02:00",
-    "name": "07 april 10.42, Brand, Karlstad",
-    "summary": "Det brinner i terräng vid Vallargärdet",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-10.42-brand-karlstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 630032,
-    "datetime": "2026-04-07 11:30:40 +02:00",
-    "name": "07 april 09.39, Stöld, Karlstad",
-    "summary": "En man är misstänkt för stöld",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-09.39-stold-karlstad/",
-    "type": "Stöld",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 630031,
-    "datetime": "2026-04-07 11:20:49 +02:00",
-    "name": "07 april 06.25, Stöld/inbrott, Västerås",
-    "summary": "Stöld från byggarbetsplats.",
-    "url": "/aktuellt/handelser/2026/april/7/07-april-06.25-stoldinbrott-vasteras/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
     }
   }
 ]
