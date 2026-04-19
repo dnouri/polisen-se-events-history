@@ -1,5 +1,53 @@
 [
   {
+    "id": 631310,
+    "datetime": "2026-04-19 9:10:56 +02:00",
+    "name": "19 april 08.27, Trafikolycka, Övertorneå",
+    "summary": "Larm om trafikolycka på länsväg 398, söder om Koutojärvi.",
+    "url": "/aktuellt/handelser/2026/april/19/19-april-08.27-trafikolycka-overtornea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 631300,
+    "datetime": "2026-04-19 7:52:45 +02:00",
+    "name": "19 april 07.51, Sammanfattning natt, Östergötlands län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/april/19/19-april-07.51-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 631308,
+    "datetime": "2026-04-19 8:44:23 +02:00",
+    "name": "19 april 08.44, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "url": "/aktuellt/handelser/2026/april/19/19-april-08.44-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 631309,
+    "datetime": "2026-04-19 8:20:10 +02:00",
+    "name": "19 april 08.20, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
+    "url": "/aktuellt/handelser/2026/april/19/19-april-08.20-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 631307,
     "datetime": "2026-04-19 7:55:51 +02:00",
     "name": "19 april 06.06, Olaga intrång, Eskilstuna",
@@ -21,18 +69,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 631300,
-    "datetime": "2026-04-19 7:52:45 +02:00",
-    "name": "19 april 07.51, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/april/19/19-april-07.51-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 630562,
-    "datetime": "2026-04-11 14:40:48 +02:00",
-    "name": "11 april 12.55, Brand, Arvidsjaur",
-    "summary": "Centrum, polis och räddningstjänst larmas om rökutveckling i en lägenhet.",
-    "url": "/aktuellt/handelser/2026/april/11/11-april-12.55-brand-arvidsjaur/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 630561,
-    "datetime": "2026-04-11 14:32:59 +02:00",
-    "name": "11 april 12.37, Trafikolycka, Stockholms län",
-    "summary": "En cyklist träffades av ett släp med en båt på Rindö.",
-    "url": "/aktuellt/handelser/2026/april/11/11-april-12.37-trafikolycka-stockholms-lan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 630554,
-    "datetime": "2026-04-11 13:09:45 +02:00",
-    "name": "11 april 12.13, Trafikolycka, personskada, Hudiksvall",
-    "summary": "Två bilar har kolliderat i korsning.",
-    "url": "/aktuellt/handelser/2026/april/11/11-april-12.13-trafikolycka-personskada-hudiksvall/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
     }
   }
 ]
