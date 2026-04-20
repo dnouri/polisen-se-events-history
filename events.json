@@ -1,5 +1,65 @@
 [
   {
+    "id": 632450,
+    "datetime": "2026-04-20 20:21:41 +02:00",
+    "name": "20 april 18.37, Brand, Växjö",
+    "summary": "Brand i återvinningshus, Araby.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-18.37-brand-vaxjo/",
+    "type": "Brand",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 632448,
+    "datetime": "2026-04-20 19:51:14 +02:00",
+    "name": "20 april 18.59, Rattfylleri, Örebro",
+    "summary": "En bilist är misstänkt för brott i Vivalla",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-18.59-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 632447,
+    "datetime": "2026-04-20 18:44:26 +02:00",
+    "name": "20 april 18.02, Trafikolycka, Borlänge",
+    "summary": "En olycka har inträffat på Barkargärdet",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-18.02-trafikolycka-borlange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 632432,
+    "datetime": "2026-04-20 17:05:02 +02:00",
+    "name": "20 april 16.29, Trafikolycka, Ale",
+    "summary": "Larm inkommer via SOS om en trafikolycka på E45 mellan Bohus och Nödinge.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-16.29-trafikolycka-ale/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 632436,
+    "datetime": "2026-04-20 17:17:01 +02:00",
+    "name": "20 april 14.13, Rattfylleri, Vallentuna",
+    "summary": "Polisen larmas om en misstänkt rattfull förare i Kårsta.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-14.13-rattfylleri-vallentuna/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
     "id": 632445,
     "datetime": "2026-04-20 18:15:32 +02:00",
     "name": "20 april 17.13, Brand, Högsby",
@@ -33,18 +93,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 632447,
-    "datetime": "2026-04-20 18:44:26 +02:00",
-    "name": "20 april 18.02, Trafikolycka, Borlänge",
-    "summary": "En olycka har inträffat på Barkargärdet",
-    "url": "/aktuellt/handelser/2026/april/20/20-april-18.02-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   },
   {
@@ -84,18 +132,6 @@
     }
   },
   {
-    "id": 632432,
-    "datetime": "2026-04-20 17:05:02 +02:00",
-    "name": "20 april 16.29, Trafikolycka, Ale",
-    "summary": "Larm inkommer via SOS om en trafikolycka på E45 mellan Bohus och Nödinge.",
-    "url": "/aktuellt/handelser/2026/april/20/20-april-16.29-trafikolycka-ale/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
     "id": 632434,
     "datetime": "2026-04-20 17:13:12 +02:00",
     "name": "20 april 16.34, Försvunnen person, Strömsund",
@@ -129,18 +165,6 @@
     "location": {
       "name": "Gotlands län",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 632436,
-    "datetime": "2026-04-20 17:17:01 +02:00",
-    "name": "20 april 14.13, Rattfylleri, Vallentuna",
-    "summary": "Polisen larmas om en misstänkt rattfull förare i Kårsta.",
-    "url": "/aktuellt/handelser/2026/april/20/20-april-14.13-rattfylleri-vallentuna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Kronobergs län",
       "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 630644,
-    "datetime": "2026-04-13 7:58:56 +02:00",
-    "name": "12 april 23.54, Skadegörelse, Gävle",
-    "summary": "Krossad fönsterruta på bostad.",
-    "url": "/aktuellt/handelser/2026/april/12/12-april-23.54-skadegorelse-gavle/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 630643,
-    "datetime": "2026-04-13 7:45:44 +02:00",
-    "name": "12 april 21.14, Brand, Enköping",
-    "summary": "Brand vid ett bad i Fjärdhundra.",
-    "url": "/aktuellt/handelser/2026/april/12/12-april-21.14-brand-enkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
     }
   }
 ]
