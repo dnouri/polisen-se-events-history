@@ -1,5 +1,65 @@
 [
   {
+    "id": 632372,
+    "datetime": "2026-04-20 10:03:40 +02:00",
+    "name": "20 april 10.00, Övrigt, Stockholm",
+    "summary": "Polisen och Stockholm stad övar tillsammans i Rålambshovsparken under tisdag, onsdag och torsdag.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-10.00-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 631315,
+    "datetime": "2026-04-19 11:57:12 +02:00",
+    "name": "19 april 11.57, Försvunnen person, Umeå",
+    "summary": "Polisen önskar tips och iakttagelser av en försvunnen man i Umeå.",
+    "url": "/aktuellt/handelser/2026/april/19/19-april-11.57-forsvunnen-person-umea/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 632371,
+    "datetime": "2026-04-20 9:51:12 +02:00",
+    "name": "20 april 08.07, Trafikolycka, Sundsvall",
+    "summary": "Trafikolycka i Sidsjö, Sundsvall.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-08.07-trafikolycka-sundsvall/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 632360,
+    "datetime": "2026-04-20 8:25:17 +02:00",
+    "name": "20 april 08.14, Brand, Eskilstuna",
+    "summary": "Larm om brand i villa",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-08.14-brand-eskilstuna/",
+    "type": "Brand",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 632363,
+    "datetime": "2026-04-20 8:38:04 +02:00",
+    "name": "20 april 07.12, Arbetsplatsolycka, Kalmar",
+    "summary": "Larm om arbetsplatsolycka på industri",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-07.12-arbetsplatsolycka-kalmar/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
     "id": 632359,
     "datetime": "2026-04-20 8:14:02 +02:00",
     "name": "20 april 03.59, Misshandel, grov, Stockholm",
@@ -501,18 +561,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 631315,
-    "datetime": "2026-04-19 11:57:12 +02:00",
-    "name": "19 april 11.57, Försvunnen person, Umeå",
-    "summary": "Polisen önskar tips och iakttagelser av en försvunnen man i Umeå.",
-    "url": "/aktuellt/handelser/2026/april/19/19-april-11.57-forsvunnen-person-umea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 630612,
-    "datetime": "2026-04-12 14:31:50 +02:00",
-    "name": "12 april 14.17, Brand, Borlänge",
-    "summary": "En mindre brand har uppstått i terräng vid Siljansvägen",
-    "url": "/aktuellt/handelser/2026/april/12/12-april-14.17-brand-borlange/",
-    "type": "Brand",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 630610,
-    "datetime": "2026-04-12 14:01:24 +02:00",
-    "name": "12 april 13.48, Brand, Ljusdal",
-    "summary": "Eld i tunna spred sig till gräs och skog.",
-    "url": "/aktuellt/handelser/2026/april/12/12-april-13.48-brand-ljusdal/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 630609,
-    "datetime": "2026-04-12 13:41:46 +02:00",
-    "name": "12 april 01.45, Misshandel, Årjäng",
-    "summary": "En man i 30-årsåldern sitter anhållen misstänkt för försök till grov misshandel",
-    "url": "/aktuellt/handelser/2026/april/12/12-april-01.45-misshandel-arjang/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 630608,
-    "datetime": "2026-04-12 13:28:20 +02:00",
-    "name": "12 april 11.45, Trafikolycka, Trelleborg",
-    "summary": "Två personer till sjukhus efter trafikolycka, Smygehamn",
-    "url": "/aktuellt/handelser/2026/april/12/12-april-11.45-trafikolycka-trelleborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
