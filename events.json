@@ -1,5 +1,101 @@
 [
   {
+    "id": 632420,
+    "datetime": "2026-04-20 15:00:57 +02:00",
+    "name": "20 april 14.50, Brand, Göteborg",
+    "summary": "Larm inkommer via SOS om en brand i ett flerfamiljshus i Gårdsten.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-14.50-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 632423,
+    "datetime": "2026-04-20 15:54:01 +02:00",
+    "name": "20 april 15.20, Brand, Skellefteå",
+    "summary": "Larm om brand sydöst om Bureå.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-15.20-brand-skelleftea/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 632427,
+    "datetime": "2026-04-20 15:40:00 +02:00",
+    "name": "20 april 13.31, Fylleri, Härnösand",
+    "summary": "Härnösand, man omhändertagen på matbutik.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-13.31-fylleri-harnosand/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 632417,
+    "datetime": "2026-04-20 14:50:52 +02:00",
+    "name": "20 april 14.24, Trafikolycka, Hultsfred",
+    "summary": "Påkörd person i korsningen Skolgatan och Västra Långgatan.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-14.24-trafikolycka-hultsfred/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 631315,
+    "datetime": "2026-04-19 11:57:12 +02:00",
+    "name": "19 april 11.57, Försvunnen person, Umeå",
+    "summary": "Polisen önskar tips och iakttagelser av en försvunnen man i Umeå.",
+    "url": "/aktuellt/handelser/2026/april/19/19-april-11.57-forsvunnen-person-umea/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 632414,
+    "datetime": "2026-04-20 14:41:32 +02:00",
+    "name": "20 april 11.37, Övrigt, Tierp",
+    "summary": "Polisen utreder ett brott på en skola.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-11.37-ovrigt-tierp/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 632411,
+    "datetime": "2026-04-20 14:20:12 +02:00",
+    "name": "20 april 13.27, Trafikolycka, Motala",
+    "summary": "Två bilar i krock.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-13.27-trafikolycka-motala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 632413,
+    "datetime": "2026-04-20 14:37:56 +02:00",
+    "name": "20 april 12.44, Stöld, Norrköping",
+    "summary": "En person gripen för stöld och misshandel.",
+    "url": "/aktuellt/handelser/2026/april/20/20-april-12.44-stold-norrkoping/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 632407,
     "datetime": "2026-04-20 12:55:31 +02:00",
     "name": "20 april 12.35, Trafikolycka, Sundsvall",
@@ -105,18 +201,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 631315,
-    "datetime": "2026-04-19 11:57:12 +02:00",
-    "name": "19 april 11.57, Försvunnen person, Umeå",
-    "summary": "Polisen önskar tips och iakttagelser av en försvunnen man i Umeå.",
-    "url": "/aktuellt/handelser/2026/april/19/19-april-11.57-forsvunnen-person-umea/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 630630,
-    "datetime": "2026-04-13 7:02:23 +02:00",
-    "name": "13 april 07.00, Sammanfattning kväll och natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/april/13/13-april-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 630629,
-    "datetime": "2026-04-13 7:00:33 +02:00",
-    "name": "13 april 07.00, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2026/april/13/13-april-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 630625,
-    "datetime": "2026-04-13 6:36:04 +02:00",
-    "name": "13 april 03.17, Stöld, Markaryd",
-    "summary": "Stöld av diesel.",
-    "url": "/aktuellt/handelser/2026/april/13/13-april-03.17-stold-markaryd/",
-    "type": "Stöld",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 630624,
-    "datetime": "2026-04-13 6:33:14 +02:00",
-    "name": "13 april 02.04, Skadegörelse, Trelleborg",
-    "summary": "Brand i förråd.",
-    "url": "/aktuellt/handelser/2026/april/13/13-april-02.04-skadegorelse-trelleborg/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 630623,
-    "datetime": "2026-04-13 6:29:23 +02:00",
-    "name": "13 april 00.25, Rattfylleri, Kristianstad",
-    "summary": "Kvinna i 20-årsåldern misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2026/april/13/13-april-00.25-rattfylleri-kristianstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 630621,
-    "datetime": "2026-04-13 6:25:45 +02:00",
-    "name": "12 april 23.47, Mord/dråp, Helsingborg",
-    "summary": "Skottlossning på Adolfsberg.",
-    "url": "/aktuellt/handelser/2026/april/12/12-april-23.47-morddrap-helsingborg/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 630618,
-    "datetime": "2026-04-12 17:53:09 +02:00",
-    "name": "12 april 17.24, Farligt föremål, misstänkt, Malmö",
-    "summary": "Kontroll av föremål på Rådmansgatan.",
-    "url": "/aktuellt/handelser/2026/april/12/12-april-17.24-farligt-foremal-misstankt-malmo/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
