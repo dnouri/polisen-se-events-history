@@ -1,14 +1,38 @@
 [
   {
-    "id": 632675,
-    "datetime": "2026-04-22 16:45:09 +02:00",
-    "name": "22 april 14.53, Trafikolycka, Stockholm",
-    "summary": "Polisbil och SL-buss kolliderade.",
-    "url": "/aktuellt/handelser/2026/april/22/22-april-14.53-trafikolycka-stockholm/",
+    "id": 632678,
+    "datetime": "2026-04-22 17:28:21 +02:00",
+    "name": "22 april 17.13, Trafikolycka, Malmö",
+    "summary": "Två bilar i krock.",
+    "url": "/aktuellt/handelser/2026/april/22/22-april-17.13-trafikolycka-malmo/",
     "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 632679,
+    "datetime": "2026-04-22 17:51:17 +02:00",
+    "name": "22 april 16.44, Rattfylleri, Värmdö",
+    "summary": "Fordonsförare misstänks för drograttfylleri.",
+    "url": "/aktuellt/handelser/2026/april/22/22-april-16.44-rattfylleri-varmdo/",
+    "type": "Rattfylleri",
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 632637,
+    "datetime": "2026-04-22 13:05:43 +02:00",
+    "name": "22 april 12.52, Misshandel, grov, Åtvidaberg",
+    "summary": "Person misshandlad.",
+    "url": "/aktuellt/handelser/2026/april/22/22-april-12.52-misshandel-grov-atvidaberg/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -17,6 +41,30 @@
     "name": "22 april 15.42, Trafikolycka, Norrtälje",
     "summary": "Singelolycka i Rimbo.",
     "url": "/aktuellt/handelser/2026/april/22/22-april-15.42-trafikolycka-norrtalje/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 632677,
+    "datetime": "2026-04-22 17:10:33 +02:00",
+    "name": "22 april 15.46, Knivlagen, Helsingborg",
+    "summary": "Tårgas och kniv hittad på besökare.",
+    "url": "/aktuellt/handelser/2026/april/22/22-april-15.46-knivlagen-helsingborg/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 632675,
+    "datetime": "2026-04-22 16:45:09 +02:00",
+    "name": "22 april 14.53, Trafikolycka, Stockholm",
+    "summary": "Polisbil och SL-buss kolliderade.",
+    "url": "/aktuellt/handelser/2026/april/22/22-april-14.53-trafikolycka-stockholm/",
     "type": "Trafikolycka",
     "location": {
       "name": "Stockholms län",
@@ -57,18 +105,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 632637,
-    "datetime": "2026-04-22 13:05:43 +02:00",
-    "name": "22 april 12.52, Misshandel, grov, Åtvidaberg",
-    "summary": "Person misshandlad.",
-    "url": "/aktuellt/handelser/2026/april/22/22-april-12.52-misshandel-grov-atvidaberg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5958,42 +5994,6 @@
     "summary": "Bil stoppades.",
     "url": "/aktuellt/handelser/2026/april/14/14-april-19.36-trafikbrott-gavle/",
     "type": "Trafikbrott",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 630870,
-    "datetime": "2026-04-14 20:53:12 +02:00",
-    "name": "14 april 20.05, Djur, Norrköping",
-    "summary": "Älg orsakade utryckning",
-    "url": "/aktuellt/handelser/2026/april/14/14-april-20.05-djur-norrkoping/",
-    "type": "Djur",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 630869,
-    "datetime": "2026-04-14 20:35:10 +02:00",
-    "name": "14 april 20.34, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/april/14/14-april-20.34-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 630868,
-    "datetime": "2026-04-14 20:33:25 +02:00",
-    "name": "14 april 18.32, Stöld/inbrott, Gävle",
-    "summary": "Anmälan om inbrottsstöld.",
-    "url": "/aktuellt/handelser/2026/april/14/14-april-18.32-stoldinbrott-gavle/",
-    "type": "Stöld/inbrott",
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
