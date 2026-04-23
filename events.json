@@ -1,5 +1,41 @@
 [
   {
+    "id": 632774,
+    "datetime": "2026-04-23 19:15:28 +02:00",
+    "name": "23 april 18.09, Fylleri, Härnösand",
+    "summary": "E4, Gådeåstaden. En man står på vägen och stör trafiken.",
+    "url": "/aktuellt/handelser/2026/april/23/23-april-18.09-fylleri-harnosand/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 632773,
+    "datetime": "2026-04-23 19:07:11 +02:00",
+    "name": "23 april 15.43, Rattfylleri, Härnösand",
+    "summary": "Granudden, polisen kontrollerar en personbil.",
+    "url": "/aktuellt/handelser/2026/april/23/23-april-15.43-rattfylleri-harnosand/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 632772,
+    "datetime": "2026-04-23 18:58:47 +02:00",
+    "name": "23 april 15.50, Stöld, Umeå",
+    "summary": "Centrala stan, ordningsvakt larmar polisen till en galleria.",
+    "url": "/aktuellt/handelser/2026/april/23/23-april-15.50-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 632762,
     "datetime": "2026-04-23 15:45:04 +02:00",
     "name": "23 april 15.27, Trafikolycka, Linköping",
@@ -12,24 +48,24 @@
     }
   },
   {
-    "id": 632771,
-    "datetime": "2026-04-23 17:45:07 +02:00",
-    "name": "23 april 17.36, Trafikolycka, Malmö",
-    "summary": "Trafikolycka i Malmö",
-    "url": "/aktuellt/handelser/2026/april/23/23-april-17.36-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
     "id": 632770,
     "datetime": "2026-04-23 17:26:27 +02:00",
     "name": "23 april 15.12, Övrigt, Malmö",
     "summary": "En person som inte mår bra.",
     "url": "/aktuellt/handelser/2026/april/23/23-april-15.12-ovrigt-malmo/",
     "type": "Övrigt",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 632771,
+    "datetime": "2026-04-23 17:45:07 +02:00",
+    "name": "23 april 17.36, Trafikolycka, Malmö",
+    "summary": "Trafikolycka i Malmö",
+    "url": "/aktuellt/handelser/2026/april/23/23-april-17.36-trafikolycka-malmo/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 630963,
-    "datetime": "2026-04-15 17:15:32 +02:00",
-    "name": "15 april 16.43, Trafikolycka, Skara",
-    "summary": "Stopp på E20 efter trafikolycka.",
-    "url": "/aktuellt/handelser/2026/april/15/15-april-16.43-trafikolycka-skara/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 630964,
-    "datetime": "2026-04-15 17:28:37 +02:00",
-    "name": "15 april 15.49, Brand, Haninge",
-    "summary": "Polisen har inlett en förundersökning om allmänfarlig vårdslöshet efter en bostadsbrand i Tungelsta.",
-    "url": "/aktuellt/handelser/2026/april/15/15-april-15.49-brand-haninge/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 630962,
-    "datetime": "2026-04-15 16:48:20 +02:00",
-    "name": "15 april 16.18, Trafikolycka, Halmstad",
-    "summary": "Lastbil och mc i trafikolycka.",
-    "url": "/aktuellt/handelser/2026/april/15/15-april-16.18-trafikolycka-halmstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
