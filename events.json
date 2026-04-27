@@ -1,5 +1,77 @@
 [
   {
+    "id": 633135,
+    "datetime": "2026-04-27 11:24:17 +02:00",
+    "name": "27 april 10.25, Trafikolycka, Enköping",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-10.25-trafikolycka-enkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 633134,
+    "datetime": "2026-04-27 11:21:41 +02:00",
+    "name": "27 april 10.30, Brand, Uppsala",
+    "summary": "Larm om brand.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-10.30-brand-uppsala/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 633118,
+    "datetime": "2026-04-27 10:33:57 +02:00",
+    "name": "27 april 10.10, Trafikolycka, Klippan",
+    "summary": "Trafikolycka i korsningen riksväg 13 och Fabriksvägen.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-10.10-trafikolycka-klippan/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 633115,
+    "datetime": "2026-04-27 10:21:28 +02:00",
+    "name": "27 april 08.50, Trafikkontroll, Sundsvall",
+    "summary": "Sundsvall, sex stycken körde för fort på 30-väg.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-08.50-trafikkontroll-sundsvall/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 633092,
+    "datetime": "2026-04-27 8:02:07 +02:00",
+    "name": "27 april 07.15, Trafikolycka, Hylte",
+    "summary": "På länsväg 721 välter en timmerbil.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-07.15-trafikolycka-hylte/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 633110,
+    "datetime": "2026-04-27 9:33:42 +02:00",
+    "name": "27 april 09.19, Trafikolycka, Malmö",
+    "summary": "Påkörd cyklist i korsningen Kronborgsvägen och Köpenhamnsvägen.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-09.19-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 633091,
     "datetime": "2026-04-27 8:49:04 +02:00",
     "name": "27 april 07.52, Trafikolycka, Göteborg",
@@ -33,18 +105,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 633092,
-    "datetime": "2026-04-27 8:02:07 +02:00",
-    "name": "27 april 07.15, Trafikolycka, Hylte",
-    "summary": "På länsväg 721 välter en timmerbil.",
-    "url": "/aktuellt/handelser/2026/april/27/27-april-07.15-trafikolycka-hylte/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -132,18 +192,6 @@
     }
   },
   {
-    "id": 633085,
-    "datetime": "2026-04-27 7:20:15 +02:00",
-    "name": "27 april 07.19, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
-    "url": "/aktuellt/handelser/2026/april/27/27-april-07.19-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 633084,
     "datetime": "2026-04-27 7:20:15 +02:00",
     "name": "27 april 00.57, Stöld, försök, Huddinge",
@@ -153,6 +201,18 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 633085,
+    "datetime": "2026-04-27 7:20:15 +02:00",
+    "name": "27 april 07.19, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-07.19-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 631312,
-    "datetime": "2026-04-19 11:02:17 +02:00",
-    "name": "19 april 10.41, Trafikolycka, Lindesberg",
-    "summary": "En singelolycka har inträffat på länsväg 249 i Fellingsbro.",
-    "url": "/aktuellt/handelser/2026/april/19/19-april-10.41-trafikolycka-lindesberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 631311,
-    "datetime": "2026-04-19 10:43:52 +02:00",
-    "name": "19 april 09.03, Rattfylleri, Torsby",
-    "summary": "Polisen stoppar ett fordon och föraren blir misstänkt för drograttfylleri.",
-    "url": "/aktuellt/handelser/2026/april/19/19-april-09.03-rattfylleri-torsby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 631310,
-    "datetime": "2026-04-19 9:10:56 +02:00",
-    "name": "19 april 08.27, Trafikolycka, Övertorneå",
-    "summary": "Larm om trafikolycka på länsväg 398, söder om Koutojärvi.",
-    "url": "/aktuellt/handelser/2026/april/19/19-april-08.27-trafikolycka-overtornea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 631300,
-    "datetime": "2026-04-19 7:52:45 +02:00",
-    "name": "19 april 07.51, Sammanfattning natt, Östergötlands län",
-    "summary": "Sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/april/19/19-april-07.51-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 631308,
-    "datetime": "2026-04-19 8:44:23 +02:00",
-    "name": "19 april 08.44, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 00.00–07.00.",
-    "url": "/aktuellt/handelser/2026/april/19/19-april-08.44-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
