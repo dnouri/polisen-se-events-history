@@ -1,5 +1,53 @@
 [
   {
+    "id": 633226,
+    "datetime": "2026-04-27 21:55:31 +02:00",
+    "name": "27 april 21.54, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-21.54-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 633225,
+    "datetime": "2026-04-27 21:55:25 +02:00",
+    "name": "27 april 21.55, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-21.55-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 633224,
+    "datetime": "2026-04-27 21:53:00 +02:00",
+    "name": "27 april 21.05, Rattfylleri, Borlänge",
+    "summary": "Man i 30-årsåldern misstänkt för drograttfylleri.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-21.05-rattfylleri-borlange/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 633223,
+    "datetime": "2026-04-27 21:48:01 +02:00",
+    "name": "27 april 20.20, Misshandel, Botkyrka",
+    "summary": "En man misstänks ha misshandlat en person han har en relation med. Mannen grips.",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-20.20-misshandel-botkyrka/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
     "id": 633222,
     "datetime": "2026-04-27 21:39:28 +02:00",
     "name": "27 april 20.23, Misshandel, Skellefteå",
@@ -756,18 +804,6 @@
     }
   },
   {
-    "id": 633084,
-    "datetime": "2026-04-27 7:20:15 +02:00",
-    "name": "27 april 00.57, Stöld, försök, Huddinge",
-    "summary": "En inringare i Skogås såg när två personer försökte slanga bensin från ett fordon. När inringaren upptäckte de",
-    "url": "/aktuellt/handelser/2026/april/27/27-april-00.57-stold-forsok-huddinge/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
     "id": 633085,
     "datetime": "2026-04-27 7:20:15 +02:00",
     "name": "27 april 07.19, Sammanfattning natt, Värmlands län",
@@ -777,6 +813,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 633084,
+    "datetime": "2026-04-27 7:20:15 +02:00",
+    "name": "27 april 00.57, Stöld, försök, Huddinge",
+    "summary": "En inringare i Skogås såg när två personer försökte slanga bensin från ett fordon. När inringaren upptäckte de",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-00.57-stold-forsok-huddinge/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 632397,
-    "datetime": "2026-04-20 11:21:05 +02:00",
-    "name": "20 april 08.19, Trafikbrott, Hudiksvall",
-    "summary": "Fyra trafikanter bötfällda vid trafikkontroll.",
-    "url": "/aktuellt/handelser/2026/april/20/20-april-08.19-trafikbrott-hudiksvall/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 632377,
-    "datetime": "2026-04-20 10:59:44 +02:00",
-    "name": "20 april 10.59, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/april/20/20-april-10.59-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 632375,
-    "datetime": "2026-04-20 10:55:56 +02:00",
-    "name": "20 april 10.55, Trafikkontroll, Västerbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/april/20/20-april-10.55-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 632372,
-    "datetime": "2026-04-20 10:03:40 +02:00",
-    "name": "20 april 10.00, Övrigt, Stockholm",
-    "summary": "Polisen och Stockholm stad övar tillsammans i Rålambshovsparken under tisdag, onsdag och torsdag.",
-    "url": "/aktuellt/handelser/2026/april/20/20-april-10.00-ovrigt-stockholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
