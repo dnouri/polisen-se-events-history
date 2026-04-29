@@ -1,5 +1,101 @@
 [
   {
+    "id": 633371,
+    "datetime": "2026-04-29 6:56:21 +02:00",
+    "name": "29 april 01.56, Knivlagen, Upplands Väsby",
+    "summary": "En bilist kontrollerades i centrala Upplands Väsby och i samband med kontrollen påträffades en kniv.",
+    "url": "/aktuellt/handelser/2026/april/29/29-april-01.56-knivlagen-upplands-vasby/",
+    "type": "Knivlagen",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 633370,
+    "datetime": "2026-04-29 6:54:44 +02:00",
+    "name": "29 april 06.54, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet i Västerbottens län.",
+    "url": "/aktuellt/handelser/2026/april/29/29-april-06.54-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 633369,
+    "datetime": "2026-04-29 6:50:19 +02:00",
+    "name": "29 april 06.50, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Västernorrlands län.",
+    "url": "/aktuellt/handelser/2026/april/29/29-april-06.50-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 633368,
+    "datetime": "2026-04-29 6:43:36 +02:00",
+    "name": "29 april 02.25, Arbetsplatsolycka, Nybro",
+    "summary": "Misstänkt arbetsplatsolycka.",
+    "url": "/aktuellt/handelser/2026/april/29/29-april-02.25-arbetsplatsolycka-nybro/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 633367,
+    "datetime": "2026-04-29 6:39:34 +02:00",
+    "name": "29 april 01.55, Narkotikabrott, Kristianstad",
+    "summary": "Misstänkt narkotikabrott, Hammarslund.",
+    "url": "/aktuellt/handelser/2026/april/29/29-april-01.55-narkotikabrott-kristianstad/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 633366,
+    "datetime": "2026-04-29 6:36:32 +02:00",
+    "name": "29 april 06.31, Brand, Malmö",
+    "summary": "Brand i flerfamiljshus, Oxie.",
+    "url": "/aktuellt/handelser/2026/april/29/29-april-06.31-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 633365,
+    "datetime": "2026-04-29 6:31:43 +02:00",
+    "name": "29 april 00.36, Brand, Tingsryd",
+    "summary": "Larm om brand i boende, Mossbrohult.",
+    "url": "/aktuellt/handelser/2026/april/29/29-april-00.36-brand-tingsryd/",
+    "type": "Brand",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 633363,
+    "datetime": "2026-04-29 6:28:02 +02:00",
+    "name": "28 april 22.53, Narkotikabrott, Malmö",
+    "summary": "Misstänkt narkotikabrott, centrala Malmö.",
+    "url": "/aktuellt/handelser/2026/april/28/28-april-22.53-narkotikabrott-malmo/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 633350,
     "datetime": "2026-04-28 21:13:53 +02:00",
     "name": "28 april 21.01, Mord/dråp, försök, Norrköping",
@@ -1404,18 +1500,6 @@
     }
   },
   {
-    "id": 633084,
-    "datetime": "2026-04-27 7:20:15 +02:00",
-    "name": "27 april 00.57, Stöld, försök, Huddinge",
-    "summary": "En inringare i Skogås såg när två personer försökte slanga bensin från ett fordon. När inringaren upptäckte de",
-    "url": "/aktuellt/handelser/2026/april/27/27-april-00.57-stold-forsok-huddinge/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
     "id": 633085,
     "datetime": "2026-04-27 7:20:15 +02:00",
     "name": "27 april 07.19, Sammanfattning natt, Värmlands län",
@@ -1425,6 +1509,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 633084,
+    "datetime": "2026-04-27 7:20:15 +02:00",
+    "name": "27 april 00.57, Stöld, försök, Huddinge",
+    "summary": "En inringare i Skogås såg när två personer försökte slanga bensin från ett fordon. När inringaren upptäckte de",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-00.57-stold-forsok-huddinge/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Kronobergs län",
       "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 632491,
-    "datetime": "2026-04-21 8:32:18 +02:00",
-    "name": "20 april 22.00, Misshandel, grov, Stockholm",
-    "summary": "Man misshandlad i lägenhet.",
-    "url": "/aktuellt/handelser/2026/april/20/20-april-22.00-misshandel-grov-stockholm/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 632494,
-    "datetime": "2026-04-21 8:32:13 +02:00",
-    "name": "21 april 05.09, Mord/dråp, försök, Botkyrka",
-    "summary": "Man misshandlas med tillhygge utomhus i Norsborg.",
-    "url": "/aktuellt/handelser/2026/april/21/21-april-05.09-morddrap-forsok-botkyrka/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 632490,
-    "datetime": "2026-04-21 8:13:18 +02:00",
-    "name": "21 april 06.00, Sammanfattning kväll och natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/april/21/21-april-06.00-sammanfattning-kvall-och-natt-jamtlands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 632486,
-    "datetime": "2026-04-21 7:54:20 +02:00",
-    "name": "21 april 06.00, Sammanfattning kväll och natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/april/21/21-april-06.00-sammanfattning-kvall-och-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 632485,
-    "datetime": "2026-04-21 7:41:15 +02:00",
-    "name": "21 april 06.00, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/april/21/21-april-06.00-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 632480,
-    "datetime": "2026-04-21 7:33:39 +02:00",
-    "name": "21 april 07.18, Trafikolycka, Malmö",
-    "summary": "Två personbilar kolliderar på inre ringvägen.",
-    "url": "/aktuellt/handelser/2026/april/21/21-april-07.18-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 632479,
-    "datetime": "2026-04-21 7:22:24 +02:00",
-    "name": "21 april 07.21, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/april/21/21-april-07.21-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 632478,
-    "datetime": "2026-04-21 7:21:55 +02:00",
-    "name": "21 april 07.21, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/april/21/21-april-07.21-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   }
 ]
