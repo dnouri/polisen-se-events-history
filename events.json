@@ -1,5 +1,77 @@
 [
   {
+    "id": 633594,
+    "datetime": "2026-04-30 16:14:29 +02:00",
+    "name": "30 april 15.00, Trafikolycka, personskada, Huddinge",
+    "summary": "En bilist har krockat med en rullstolsburen person i Segeltorp.",
+    "url": "/aktuellt/handelser/2026/april/30/30-april-15.00-trafikolycka-personskada-huddinge/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 633588,
+    "datetime": "2026-04-30 15:40:31 +02:00",
+    "name": "30 april 14.56, Trafikolycka, Göteborg",
+    "summary": "En person och en buss är involverade i en olycka på Linnégatan.",
+    "url": "/aktuellt/handelser/2026/april/30/30-april-14.56-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 633587,
+    "datetime": "2026-04-30 15:31:29 +02:00",
+    "name": "30 april 14.42, Trafikolycka, Ystad",
+    "summary": "Två personbilar kolliderar på Östeleden.",
+    "url": "/aktuellt/handelser/2026/april/30/30-april-14.42-trafikolycka-ystad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 633586,
+    "datetime": "2026-04-30 15:30:21 +02:00",
+    "name": "30 april 14.24, Trafikolycka, Orust",
+    "summary": "En person på elspark och föraren av en personbil är involverade i en olycka.",
+    "url": "/aktuellt/handelser/2026/april/30/30-april-14.24-trafikolycka-orust/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 633477,
+    "datetime": "2026-04-29 19:25:11 +02:00",
+    "name": "29 april 17.31, Försvunnen person, Norrköping",
+    "summary": "Polisen eftersöker försvunnen man i Skärblacka",
+    "url": "/aktuellt/handelser/2026/april/29/29-april-17.31-forsvunnen-person-norrkoping/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 633582,
+    "datetime": "2026-04-30 14:51:21 +02:00",
+    "name": "30 april 13.43, Brand, Örebro",
+    "summary": "Det brinner i Garphyttan",
+    "url": "/aktuellt/handelser/2026/april/30/30-april-13.43-brand-orebro/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 633577,
     "datetime": "2026-04-30 14:02:38 +02:00",
     "name": "30 april 12.59, Arbetsplatsolycka, Hallsberg",
@@ -9,6 +81,30 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 633576,
+    "datetime": "2026-04-30 14:19:17 +02:00",
+    "name": "30 april 06.05, Brand, Klippan",
+    "summary": "Brand i bostad utanför Ljungbyhed.",
+    "url": "/aktuellt/handelser/2026/april/30/30-april-06.05-brand-klippan/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 633578,
+    "datetime": "2026-04-30 14:12:14 +02:00",
+    "name": "30 april 12.11, Olaga hot, Sundsvall",
+    "summary": "Man gripen misstänkt för grovt olaga hot.",
+    "url": "/aktuellt/handelser/2026/april/30/30-april-12.11-olaga-hot-sundsvall/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -177,18 +273,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 633477,
-    "datetime": "2026-04-29 19:25:11 +02:00",
-    "name": "29 april 17.31, Försvunnen person, Norrköping",
-    "summary": "Polisen eftersöker försvunnen man i Skärblacka",
-    "url": "/aktuellt/handelser/2026/april/29/29-april-17.31-forsvunnen-person-norrkoping/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 632730,
-    "datetime": "2026-04-23 10:34:02 +02:00",
-    "name": "23 april 10.18, Trafikolycka, Falun",
-    "summary": "Polisen är på plats vid en trafikolycka i Falun.",
-    "url": "/aktuellt/handelser/2026/april/23/23-april-10.18-trafikolycka-falun/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 632724,
-    "datetime": "2026-04-23 9:41:25 +02:00",
-    "name": "23 april 08.47, Brand, Sandviken",
-    "summary": "Larm om brand.",
-    "url": "/aktuellt/handelser/2026/april/23/23-april-08.47-brand-sandviken/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 632725,
-    "datetime": "2026-04-23 9:45:12 +02:00",
-    "name": "23 april 08.23, Trafikolycka, vilt, Åre",
-    "summary": "Polisen får in en anmälan om en olycka med en lastbil och en ren på E14, Undersåker.",
-    "url": "/aktuellt/handelser/2026/april/23/23-april-08.23-trafikolycka-vilt-are/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 632720,
-    "datetime": "2026-04-23 8:52:12 +02:00",
-    "name": "23 april 08.25, Brand, Borås",
-    "summary": "Flera patruller är på plats på Ögärdsvägen i Viskafors med anledning av en lägenhetsbrand.",
-    "url": "/aktuellt/handelser/2026/april/23/23-april-08.25-brand-boras/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 632717,
-    "datetime": "2026-04-23 8:05:36 +02:00",
-    "name": "23 april 07.56, Trafikolycka, personskada, Strängnäs",
-    "summary": "Pojke påkörd av bil.",
-    "url": "/aktuellt/handelser/2026/april/23/23-april-07.56-trafikolycka-personskada-strangnas/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 632715,
-    "datetime": "2026-04-23 7:59:14 +02:00",
-    "name": "23 april 07.23, Trafikolycka, Nordmaling",
-    "summary": "Larm om trafikolycka på väg 512, Nordmaling.",
-    "url": "/aktuellt/handelser/2026/april/23/23-april-07.23-trafikolycka-nordmaling/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 632719,
-    "datetime": "2026-04-23 8:21:29 +02:00",
-    "name": "23 april 07.25, Brand, Halmstad",
-    "summary": "Larm inkommer till SOS gällande en brand i en lägenhet på Källegatan.",
-    "url": "/aktuellt/handelser/2026/april/23/23-april-07.25-brand-halmstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
