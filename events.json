@@ -1,5 +1,41 @@
 [
   {
+    "id": 633686,
+    "datetime": "2026-05-01 21:44:21 +02:00",
+    "name": "01 maj 21.39, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i höjd med Norra bro",
+    "url": "/aktuellt/handelser/2026/maj/1/01-maj-21.39-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 633684,
+    "datetime": "2026-05-01 21:36:49 +02:00",
+    "name": "01 maj 21.30, Brand, Arvika",
+    "summary": "Det brinner i en villa i Glava",
+    "url": "/aktuellt/handelser/2026/maj/1/01-maj-21.30-brand-arvika/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 633683,
+    "datetime": "2026-05-01 21:13:49 +02:00",
+    "name": "01 maj 19.40, Trafikolycka, personskada, Gävle",
+    "summary": "Trafikolycka mellan personbil och motorcyklist i korsningen Tordönsgatan och Vändkretsen i Gävle",
+    "url": "/aktuellt/handelser/2026/maj/1/01-maj-19.40-trafikolycka-personskada-gavle/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
     "id": 633682,
     "datetime": "2026-05-01 19:53:07 +02:00",
     "name": "01 maj 19.37, Brand, Örebro",
@@ -4056,18 +4092,6 @@
     }
   },
   {
-    "id": 633084,
-    "datetime": "2026-04-27 7:20:15 +02:00",
-    "name": "27 april 00.57, Stöld, försök, Huddinge",
-    "summary": "En inringare i Skogås såg när två personer försökte slanga bensin från ett fordon. När inringaren upptäckte de",
-    "url": "/aktuellt/handelser/2026/april/27/27-april-00.57-stold-forsok-huddinge/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
     "id": 633085,
     "datetime": "2026-04-27 7:20:15 +02:00",
     "name": "27 april 07.19, Sammanfattning natt, Värmlands län",
@@ -4077,6 +4101,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 633084,
+    "datetime": "2026-04-27 7:20:15 +02:00",
+    "name": "27 april 00.57, Stöld, försök, Huddinge",
+    "summary": "En inringare i Skogås såg när två personer försökte slanga bensin från ett fordon. När inringaren upptäckte de",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-00.57-stold-forsok-huddinge/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 632894,
-    "datetime": "2026-04-24 16:11:19 +02:00",
-    "name": "24 april 16.11, Bedrägeri, Västerbottens län",
-    "summary": "Varning för falska polis-sms/e-post i polisregion Nord",
-    "url": "/aktuellt/handelser/2026/april/24/24-april-16.11-bedrageri-vasterbottens-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 632895,
-    "datetime": "2026-04-24 16:11:08 +02:00",
-    "name": "24 april 16.11, Bedrägeri, Västernorrlands län",
-    "summary": "Varning för falska polis-sms/e-post i polisregion Nord",
-    "url": "/aktuellt/handelser/2026/april/24/24-april-16.11-bedrageri-vasternorrlands-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 632896,
-    "datetime": "2026-04-24 16:10:51 +02:00",
-    "name": "24 april 16.10, Bedrägeri, Jämtlands län",
-    "summary": "Varning för falska polis-sms/e-post i polisregion Nord",
-    "url": "/aktuellt/handelser/2026/april/24/24-april-16.10-bedrageri-jamtlands-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
