@@ -1,5 +1,65 @@
 [
   {
+    "id": 633676,
+    "datetime": "2026-05-01 18:20:47 +02:00",
+    "name": "01 maj 17.00, Sabotage mot blåljusverksamhet, Malmö",
+    "summary": "En person grips misstänkt för blåljussabotage.",
+    "url": "/aktuellt/handelser/2026/maj/1/01-maj-17.00-sabotage-mot-blaljusverksamhet-malmo/",
+    "type": "Sabotage mot blåljusverksamhet",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 633675,
+    "datetime": "2026-05-01 18:02:05 +02:00",
+    "name": "01 maj 16.53, Rattfylleri, Örebro",
+    "summary": "En bilist är misstänkt för brott i City",
+    "url": "/aktuellt/handelser/2026/maj/1/01-maj-16.53-rattfylleri-orebro/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 633674,
+    "datetime": "2026-05-01 17:57:46 +02:00",
+    "name": "01 maj 17.26, Trafikolycka, Ludvika",
+    "summary": "En olycka har inträffat i närheten av Tyfors",
+    "url": "/aktuellt/handelser/2026/maj/1/01-maj-17.26-trafikolycka-ludvika/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 633671,
+    "datetime": "2026-05-01 16:29:04 +02:00",
+    "name": "01 maj 16.15, Trafikolycka, Lindesberg",
+    "summary": "En olycka har inträffat i närheten av Fellingsbro kyrka",
+    "url": "/aktuellt/handelser/2026/maj/1/01-maj-16.15-trafikolycka-lindesberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 633668,
+    "datetime": "2026-05-01 15:31:38 +02:00",
+    "name": "01 maj 15.20, Trafikolycka, Örebro",
+    "summary": "En olycka har inträffat i höjd med Stora Mellösa",
+    "url": "/aktuellt/handelser/2026/maj/1/01-maj-15.20-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 633661,
     "datetime": "2026-05-01 14:36:31 +02:00",
     "name": "01 maj 14.20, Trafikolycka, singel, Munkfors",
@@ -45,30 +105,6 @@
     "location": {
       "name": "Kronobergs län",
       "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 633671,
-    "datetime": "2026-05-01 16:29:04 +02:00",
-    "name": "01 maj 16.15, Trafikolycka, Lindesberg",
-    "summary": "En olycka har inträffat i närheten av Fellingsbro kyrka",
-    "url": "/aktuellt/handelser/2026/maj/1/01-maj-16.15-trafikolycka-lindesberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 633668,
-    "datetime": "2026-05-01 15:31:38 +02:00",
-    "name": "01 maj 15.20, Trafikolycka, Örebro",
-    "summary": "En olycka har inträffat i höjd med Stora Mellösa",
-    "url": "/aktuellt/handelser/2026/maj/1/01-maj-15.20-trafikolycka-orebro/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -3948,18 +3984,6 @@
     }
   },
   {
-    "id": 633084,
-    "datetime": "2026-04-27 7:20:15 +02:00",
-    "name": "27 april 00.57, Stöld, försök, Huddinge",
-    "summary": "En inringare i Skogås såg när två personer försökte slanga bensin från ett fordon. När inringaren upptäckte de",
-    "url": "/aktuellt/handelser/2026/april/27/27-april-00.57-stold-forsok-huddinge/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
     "id": 633085,
     "datetime": "2026-04-27 7:20:15 +02:00",
     "name": "27 april 07.19, Sammanfattning natt, Värmlands län",
@@ -3969,6 +3993,18 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 633084,
+    "datetime": "2026-04-27 7:20:15 +02:00",
+    "name": "27 april 00.57, Stöld, försök, Huddinge",
+    "summary": "En inringare i Skogås såg när två personer försökte slanga bensin från ett fordon. När inringaren upptäckte de",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-00.57-stold-forsok-huddinge/",
+    "type": "Stöld, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 632867,
-    "datetime": "2026-04-24 14:32:24 +02:00",
-    "name": "24 april 14.10, Rattfylleri, Säffle",
-    "summary": "En bilist är misstänkt för brott i Sundstorp",
-    "url": "/aktuellt/handelser/2026/april/24/24-april-14.10-rattfylleri-saffle/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 632866,
-    "datetime": "2026-04-24 14:26:59 +02:00",
-    "name": "24 april 14.15, Bedrägeri, Örebro län",
-    "summary": "Ny variant av bedrägeriförsök via SMS.",
-    "url": "/aktuellt/handelser/2026/april/24/24-april-14.15-bedrageri-orebro-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 632864,
-    "datetime": "2026-04-24 14:26:44 +02:00",
-    "name": "24 april 14.15, Bedrägeri, Värmlands län",
-    "summary": "Ny variant av bedrägeriförsök via SMS.",
-    "url": "/aktuellt/handelser/2026/april/24/24-april-14.15-bedrageri-varmlands-lan/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
