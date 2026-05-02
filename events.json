@@ -1,5 +1,41 @@
 [
   {
+    "id": 633741,
+    "datetime": "2026-05-02 21:13:43 +02:00",
+    "name": "02 maj 21.10, Polisinsats/kommendering, Stockholm",
+    "summary": "En person har frihetsberövats i polisens utredning av den senaste tidens bränder på Stora Essingen.",
+    "url": "/aktuellt/handelser/2026/maj/2/02-maj-21.10-polisinsatskommendering-stockholm/",
+    "type": "Polisinsats/kommendering",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 633740,
+    "datetime": "2026-05-02 20:49:41 +02:00",
+    "name": "02 maj 20.25, Trafikolycka, Växjö",
+    "summary": "Kollision mellan personbil och moped.",
+    "url": "/aktuellt/handelser/2026/maj/2/02-maj-20.25-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 633733,
+    "datetime": "2026-05-02 17:05:43 +02:00",
+    "name": "02 maj 16.36, Brand, Alvesta",
+    "summary": "Brand i en lada, Torne.",
+    "url": "/aktuellt/handelser/2026/maj/2/02-maj-16.36-brand-alvesta/",
+    "type": "Brand",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
     "id": 633738,
     "datetime": "2026-05-02 19:47:44 +02:00",
     "name": "02 maj 19.36, Trafikolycka, Helsingborg",
@@ -15,7 +51,7 @@
     "id": 633737,
     "datetime": "2026-05-02 19:39:56 +02:00",
     "name": "02 maj 19.22, Trafikolycka, Västervik",
-    "summary": "Olycka mellan personbil och fotgängare.",
+    "summary": "Olycka mellan personbil och cyklist.",
     "url": "/aktuellt/handelser/2026/maj/2/02-maj-19.22-trafikolycka-vastervik/",
     "type": "Trafikolycka",
     "location": {
@@ -45,18 +81,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 633733,
-    "datetime": "2026-05-02 17:05:43 +02:00",
-    "name": "02 maj 16.36, Brand, Alvesta",
-    "summary": "Brand i en lada, Torne.",
-    "url": "/aktuellt/handelser/2026/maj/2/02-maj-16.36-brand-alvesta/",
-    "type": "Brand",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   },
   {
@@ -4716,18 +4740,6 @@
     }
   },
   {
-    "id": 633085,
-    "datetime": "2026-04-27 7:20:15 +02:00",
-    "name": "27 april 07.19, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
-    "url": "/aktuellt/handelser/2026/april/27/27-april-07.19-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 633084,
     "datetime": "2026-04-27 7:20:15 +02:00",
     "name": "27 april 00.57, Stöld, försök, Huddinge",
@@ -4737,6 +4749,18 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 633085,
+    "datetime": "2026-04-27 7:20:15 +02:00",
+    "name": "27 april 07.19, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
+    "url": "/aktuellt/handelser/2026/april/27/27-april-07.19-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 632958,
-    "datetime": "2026-04-25 8:04:46 +02:00",
-    "name": "25 april 08.00, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2026/april/25/25-april-08.00-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 632962,
-    "datetime": "2026-04-25 8:04:26 +02:00",
-    "name": "25 april 08.00, Sammanfattning natt, Södermanlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2026/april/25/25-april-08.00-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
