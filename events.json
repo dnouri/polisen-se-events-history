@@ -1,14 +1,74 @@
 [
   {
-    "id": 633843,
-    "datetime": "2026-05-04 9:30:25 +02:00",
-    "name": "04 maj 08.26, Trafikolycka, personskada, Uppsala",
-    "summary": "Pojke på elsparkcykel påkörd av personbil.",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-08.26-trafikolycka-personskada-uppsala/",
+    "id": 633856,
+    "datetime": "2026-05-04 12:17:53 +02:00",
+    "name": "04 maj 12.00, Trafikkontroll, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/maj/4/04-maj-12.00-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 633851,
+    "datetime": "2026-05-04 11:16:47 +02:00",
+    "name": "04 maj 09.37, Efterlyst person, Vänersborg",
+    "summary": "Polisen söker efter en man i 30-årsåldern som avvikit från Brinkåsens rättspsykiatriska avdelning.",
+    "url": "/aktuellt/handelser/2026/maj/4/04-maj-09.37-efterlyst-person-vanersborg/",
+    "type": "Efterlyst person",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 633854,
+    "datetime": "2026-05-04 11:59:35 +02:00",
+    "name": "04 maj 11.00, Trafikbrott, Vänersborg",
+    "summary": "I korsningen Belfragegatan/Torpavägen kolliderar en moped och en lätt lastbil.",
+    "url": "/aktuellt/handelser/2026/maj/4/04-maj-11.00-trafikbrott-vanersborg/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 633853,
+    "datetime": "2026-05-04 11:31:15 +02:00",
+    "name": "04 maj 08.02, Trafikolycka, personskada, Stockholm",
+    "summary": "En pojke blir påkörd av en personbil vid ett övergångsställe i Skärholmen.",
+    "url": "/aktuellt/handelser/2026/maj/4/04-maj-08.02-trafikolycka-personskada-stockholm/",
     "type": "Trafikolycka, personskada",
     "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 633845,
+    "datetime": "2026-05-04 10:59:40 +02:00",
+    "name": "04 maj 10.59, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, ett urval av polisens arbete under morgon och förmiddag",
+    "url": "/aktuellt/handelser/2026/maj/4/04-maj-10.59-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 633808,
+    "datetime": "2026-05-03 22:48:00 +02:00",
+    "name": "03 maj 22.27, Explosion, Stockholm",
+    "summary": "Ett okänt föremål har exploderat i en port i Tensta. Polisen genomför en omfattande insats i norra Stockholm.",
+    "url": "/aktuellt/handelser/2026/maj/3/03-maj-22.27-explosion-stockholm/",
+    "type": "Explosion",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -21,6 +81,18 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 633843,
+    "datetime": "2026-05-04 9:30:25 +02:00",
+    "name": "04 maj 08.26, Trafikolycka, personskada, Uppsala",
+    "summary": "Pojke på elsparkcykel påkörd av personbil.",
+    "url": "/aktuellt/handelser/2026/maj/4/04-maj-08.26-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -269,18 +341,6 @@
     "name": "03 maj 23.41, Explosion, Södertälje",
     "summary": "Ett i nuläget okänt föremål har exploderat i centrala Södertälje. Det har orsakat begränsade skador på en fasa",
     "url": "/aktuellt/handelser/2026/maj/3/03-maj-23.41-explosion-sodertalje/",
-    "type": "Explosion",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 633808,
-    "datetime": "2026-05-03 22:48:00 +02:00",
-    "name": "03 maj 22.27, Explosion, Stockholm",
-    "summary": "Ett okänt föremål har exploderat i en port i Tensta. Polisen genomför en omfattande insats i norra Stockholm.",
-    "url": "/aktuellt/handelser/2026/maj/3/03-maj-22.27-explosion-stockholm/",
     "type": "Explosion",
     "location": {
       "name": "Stockholms län",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 633055,
-    "datetime": "2026-04-26 18:30:02 +02:00",
-    "name": "26 april 18.29, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 18:30 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/april/26/26-april-18.29-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 633054,
-    "datetime": "2026-04-26 18:29:47 +02:00",
-    "name": "26 april 18.29, Övrigt, Hallands län",
-    "summary": "Efter klockan 18:30 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/april/26/26-april-18.29-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 633053,
-    "datetime": "2026-04-26 16:08:14 +02:00",
-    "name": "26 april 16.01, Trafikolycka, Tingsryd",
-    "summary": "Personbil och A-traktor i olycka, Ålshult.",
-    "url": "/aktuellt/handelser/2026/april/26/26-april-16.01-trafikolycka-tingsryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 633048,
-    "datetime": "2026-04-26 14:30:50 +02:00",
-    "name": "26 april 13.52, Trafikolycka, Öckerö",
-    "summary": "Flera fordon är inblandade i en trafikolycka på Skarviksvägen på Björkö.",
-    "url": "/aktuellt/handelser/2026/april/26/26-april-13.52-trafikolycka-ockero/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 633052,
-    "datetime": "2026-04-26 14:56:04 +02:00",
-    "name": "26 april 09.25, Rattfylleri, Kramfors",
-    "summary": "Centrum, bilist stoppad för kontroll",
-    "url": "/aktuellt/handelser/2026/april/26/26-april-09.25-rattfylleri-kramfors/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
