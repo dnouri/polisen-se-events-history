@@ -1,5 +1,89 @@
 [
   {
+    "id": 634130,
+    "datetime": "2026-05-06 18:57:27 +02:00",
+    "name": "06 maj 18.20, Rattfylleri, Mjölby",
+    "summary": "Flera misstänkta för brott efter fordonskontroll",
+    "url": "/aktuellt/handelser/2026/maj/6/06-maj-18.20-rattfylleri-mjolby/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 634129,
+    "datetime": "2026-05-06 18:20:24 +02:00",
+    "name": "06 maj 16.30, Skadegörelse, Eskilstuna",
+    "summary": "Unga pojkar misstänkta för skadegörelse",
+    "url": "/aktuellt/handelser/2026/maj/6/06-maj-16.30-skadegorelse-eskilstuna/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 634100,
+    "datetime": "2026-05-06 14:44:24 +02:00",
+    "name": "06 maj 13.47, Farligt föremål, misstänkt, Mölndal",
+    "summary": "Larm om potentiellt explosivt ämne. Delar av sjukhusområde avspärrat.",
+    "url": "/aktuellt/handelser/2026/maj/6/06-maj-13.47-farligt-foremal-misstankt-molndal/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 634124,
+    "datetime": "2026-05-06 16:32:07 +02:00",
+    "name": "06 maj 16.23, Trafikolycka, Luleå",
+    "summary": "Luleå, trafikolycka på Lövöskatan.",
+    "url": "/aktuellt/handelser/2026/maj/6/06-maj-16.23-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 634128,
+    "datetime": "2026-05-06 17:58:06 +02:00",
+    "name": "06 maj 15.48, Rattfylleri, Falun",
+    "summary": "Bilist i Ingarvet misstänkt för brott",
+    "url": "/aktuellt/handelser/2026/maj/6/06-maj-15.48-rattfylleri-falun/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 634123,
+    "datetime": "2026-05-06 16:20:47 +02:00",
+    "name": "06 maj 15.58, Trafikolycka, Falkenberg",
+    "summary": "Cyklist och personbil i trafikolycka.",
+    "url": "/aktuellt/handelser/2026/maj/6/06-maj-15.58-trafikolycka-falkenberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 634127,
+    "datetime": "2026-05-06 17:33:14 +02:00",
+    "name": "06 maj 16.03, Trafikolycka, Växjö",
+    "summary": "Flicka till sjukhus, Teleborg.",
+    "url": "/aktuellt/handelser/2026/maj/6/06-maj-16.03-trafikolycka-vaxjo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
     "id": 634125,
     "datetime": "2026-05-06 16:51:59 +02:00",
     "name": "06 maj 14.22, Skadegörelse, Borlänge",
@@ -21,42 +105,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 634124,
-    "datetime": "2026-05-06 16:32:07 +02:00",
-    "name": "06 maj 16.23, Trafikolycka, Luleå",
-    "summary": "Luleå, trafikolycka på Lövöskatan.",
-    "url": "/aktuellt/handelser/2026/maj/6/06-maj-16.23-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 634123,
-    "datetime": "2026-05-06 16:20:47 +02:00",
-    "name": "06 maj 15.58, Trafikolycka, Falkenberg",
-    "summary": "Cyklist och personbil i trafikolycka.",
-    "url": "/aktuellt/handelser/2026/maj/6/06-maj-15.58-trafikolycka-falkenberg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 634100,
-    "datetime": "2026-05-06 14:44:24 +02:00",
-    "name": "06 maj 13.47, Farligt föremål, misstänkt, Mölndal",
-    "summary": "Larm om potentiellt explosivt ämne. Delar av sjukhusområde avspärrat.",
-    "url": "/aktuellt/handelser/2026/maj/6/06-maj-13.47-farligt-foremal-misstankt-molndal/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 633385,
-    "datetime": "2026-04-29 7:56:45 +02:00",
-    "name": "29 april 07.55, Sammanfattning natt, Östergötlands län",
-    "summary": "God morgon. Här följer ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/april/29/29-april-07.55-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 633383,
-    "datetime": "2026-04-29 7:45:18 +02:00",
-    "name": "29 april 03.49, Brand, Västerås",
-    "summary": "En bilbrand inträffade på Färnebogatan och allt tyder på att branden är anlagd. Ingen gärningsperson är gripen",
-    "url": "/aktuellt/handelser/2026/april/29/29-april-03.49-brand-vasteras/",
-    "type": "Brand",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 633384,
-    "datetime": "2026-04-29 7:42:59 +02:00",
-    "name": "29 april 06.14, Trafikolycka, Norsjö",
-    "summary": "Singelolycka på länsväg 370/ G.a Fromhedsvägen, Norsjö.",
-    "url": "/aktuellt/handelser/2026/april/29/29-april-06.14-trafikolycka-norsjo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 633382,
-    "datetime": "2026-04-29 7:37:39 +02:00",
-    "name": "29 april 07.12, Trafikolycka, Klippan",
-    "summary": "Larm om trafikolycka.",
-    "url": "/aktuellt/handelser/2026/april/29/29-april-07.12-trafikolycka-klippan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
