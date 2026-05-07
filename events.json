@@ -1,5 +1,101 @@
 [
   {
+    "id": 634250,
+    "datetime": "2026-05-07 16:22:55 +02:00",
+    "name": "07 maj 16.08, Brand, Lindesberg",
+    "summary": "Det brinner i ett garage intill en villafastighet invid järnvägen norr om Storå",
+    "url": "/aktuellt/handelser/2026/maj/7/07-maj-16.08-brand-lindesberg/",
+    "type": "Brand",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 634255,
+    "datetime": "2026-05-07 16:47:40 +02:00",
+    "name": "07 maj 16.18, Trafikolycka, Härryda",
+    "summary": "Ett flertal fordon är involverade i en olycka på riksväg 27 vid Grandalsmotet.",
+    "url": "/aktuellt/handelser/2026/maj/7/07-maj-16.18-trafikolycka-harryda/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 634282,
+    "datetime": "2026-05-07 21:45:48 +02:00",
+    "name": "07 maj 21.45, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22.00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2026/maj/7/07-maj-21.45-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 634283,
+    "datetime": "2026-05-07 21:45:43 +02:00",
+    "name": "07 maj 21.45, Övrigt, Hallands län",
+    "summary": "Efter klockan 22.00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscent",
+    "url": "/aktuellt/handelser/2026/maj/7/07-maj-21.45-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 634281,
+    "datetime": "2026-05-07 21:20:29 +02:00",
+    "name": "07 maj 21.20, Trafikkontroll, Jämtlands län",
+    "summary": "Jämtland, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/maj/7/07-maj-21.20-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 634197,
+    "datetime": "2026-05-07 10:37:31 +02:00",
+    "name": "07 maj 09.21, Försvunnen person, Borlänge",
+    "summary": "Polisen söker efter en man som är anmäld försvunnen av sina anhöriga",
+    "url": "/aktuellt/handelser/2026/maj/7/07-maj-09.21-forsvunnen-person-borlange/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 634280,
+    "datetime": "2026-05-07 21:00:32 +02:00",
+    "name": "07 maj 21.00, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/maj/7/07-maj-21.00-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 634279,
+    "datetime": "2026-05-07 20:56:12 +02:00",
+    "name": "07 maj 20.56, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/maj/7/07-maj-20.56-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 634278,
     "datetime": "2026-05-07 20:54:24 +02:00",
     "name": "07 maj 19.13, Brand, Stockholm",
@@ -276,18 +372,6 @@
     }
   },
   {
-    "id": 634255,
-    "datetime": "2026-05-07 16:47:40 +02:00",
-    "name": "07 maj 16.18, Trafikolycka, Härryda",
-    "summary": "Ett flertal fordon är involverade i en olycka på riksväg 27 vid Grandalsmotet.",
-    "url": "/aktuellt/handelser/2026/maj/7/07-maj-16.18-trafikolycka-harryda/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
     "id": 634239,
     "datetime": "2026-05-07 16:10:01 +02:00",
     "name": "07 maj 14.48, Försvunnen person, Bollnäs",
@@ -309,18 +393,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 634250,
-    "datetime": "2026-05-07 16:22:55 +02:00",
-    "name": "07 maj 16.08, Brand, Lindesberg",
-    "summary": "Det brinner i ett garage intill en villafastighet invid järnvägen norr om Storå",
-    "url": "/aktuellt/handelser/2026/maj/7/07-maj-16.08-brand-lindesberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -561,18 +633,6 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 634197,
-    "datetime": "2026-05-07 10:37:31 +02:00",
-    "name": "07 maj 09.21, Försvunnen person, Borlänge",
-    "summary": "Polisen söker efter en man som är anmäld försvunnen av sina anhöriga",
-    "url": "/aktuellt/handelser/2026/maj/7/07-maj-09.21-forsvunnen-person-borlange/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 633523,
-    "datetime": "2026-04-30 8:13:57 +02:00",
-    "name": "30 april 07.46, Trafikolycka, personskada, Stockholm",
-    "summary": "Frontalkrock mellan buss och skåpbil på Hornsgatan.",
-    "url": "/aktuellt/handelser/2026/april/30/30-april-07.46-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 633537,
-    "datetime": "2026-04-30 10:08:29 +02:00",
-    "name": "30 april 07.54, Trafikbrott, Uppsala",
-    "summary": "Förare blev av med körkortet.",
-    "url": "/aktuellt/handelser/2026/april/30/30-april-07.54-trafikbrott-uppsala/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 633536,
-    "datetime": "2026-04-30 10:04:12 +02:00",
-    "name": "30 april 06.48, Brand, Sundsvall",
-    "summary": "Brand i vindskydd i Njurunda, Sundsvall.",
-    "url": "/aktuellt/handelser/2026/april/30/30-april-06.48-brand-sundsvall/",
-    "type": "Brand",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 633535,
-    "datetime": "2026-04-30 9:58:28 +02:00",
-    "name": "30 april 07.15, Trafikbrott, Arvika",
-    "summary": "En bilist är misstänkt för brott",
-    "url": "/aktuellt/handelser/2026/april/30/30-april-07.15-trafikbrott-arvika/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 633482,
-    "datetime": "2026-04-29 20:24:06 +02:00",
-    "name": "29 april 19.48, Brand, Kalix",
-    "summary": "Larm om rökutveckling i ett hus i Morjärv.",
-    "url": "/aktuellt/handelser/2026/april/29/29-april-19.48-brand-kalix/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
