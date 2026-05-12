@@ -1,5 +1,125 @@
 [
   {
+    "id": 634774,
+    "datetime": "2026-05-12 12:39:42 +02:00",
+    "name": "12 maj 12.33, Trafikolycka, singel, Norrköping",
+    "summary": "Personbil i diket.",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-12.33-trafikolycka-singel-norrkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 634766,
+    "datetime": "2026-05-12 11:06:58 +02:00",
+    "name": "12 maj 10.56, Trafikolycka, Karlstad",
+    "summary": "En olycka har inträffat i Färjestad",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-10.56-trafikolycka-karlstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 634773,
+    "datetime": "2026-05-12 12:36:49 +02:00",
+    "name": "12 maj 12.36, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-12.36-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 634772,
+    "datetime": "2026-05-12 12:35:06 +02:00",
+    "name": "12 maj 12.35, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-12.35-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 634771,
+    "datetime": "2026-05-12 12:26:59 +02:00",
+    "name": "12 maj 09.38, Vållande till kroppsskada, Älvsbyn",
+    "summary": "Älvsbyn, polisen utreder incident med hund.",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-09.38-vallande-till-kroppsskada-alvsbyn/",
+    "type": "Vållande till kroppsskada",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 634767,
+    "datetime": "2026-05-12 11:11:38 +02:00",
+    "name": "12 maj 11.01, Arbetsplatsolycka, Örebro",
+    "summary": "En olycka har inträffat på ett företag i Marieberg",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-11.01-arbetsplatsolycka-orebro/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 634758,
+    "datetime": "2026-05-12 10:30:40 +02:00",
+    "name": "12 maj 10.04, Trafikolycka, Kumla",
+    "summary": "En olycka har inträffat i höjd med Hörsta",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-10.04-trafikolycka-kumla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 634768,
+    "datetime": "2026-05-12 11:15:04 +02:00",
+    "name": "12 maj 06.48, Mord/dråp, Västerås",
+    "summary": "Polis utreder misstänkt mord i Västersås.",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-06.48-morddrap-vasteras/",
+    "type": "Mord/dråp",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 634743,
+    "datetime": "2026-05-12 9:39:30 +02:00",
+    "name": "12 maj 08.58, Trafikolycka, Strömstad",
+    "summary": "En lastbil kör av okänd anledning in i ett mitträcke på E6, söder om Sältenmotet och i norrgående färdriktning",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-08.58-trafikolycka-stromstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 634757,
+    "datetime": "2026-05-12 10:29:14 +02:00",
+    "name": "12 maj 10.21, Trafikolycka, Karlshamn",
+    "summary": "Två lastbilar i olycka, Åryd.",
+    "url": "/aktuellt/handelser/2026/maj/12/12-maj-10.21-trafikolycka-karlshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
     "id": 634733,
     "datetime": "2026-05-12 8:57:45 +02:00",
     "name": "12 maj 08.49, Brand, Karlstad",
@@ -21,18 +141,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 634743,
-    "datetime": "2026-05-12 9:39:30 +02:00",
-    "name": "12 maj 08.58, Trafikolycka, Strömstad",
-    "summary": "En lastbil kör av okänd anledning in i ett mitträcke på E6, söder om Sältenmotet och i norrgående färdriktning",
-    "url": "/aktuellt/handelser/2026/maj/12/12-maj-08.58-trafikolycka-stromstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 633905,
-    "datetime": "2026-05-04 19:10:51 +02:00",
-    "name": "04 maj 19.10, Stöld, Norrbottens län",
-    "summary": "Polisen har hanterat två butiksstölder under eftermiddagen.",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-19.10-stold-norrbottens-lan/",
-    "type": "Stöld",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 633903,
-    "datetime": "2026-05-04 18:38:21 +02:00",
-    "name": "04 maj 17.57, Brand, Klippan",
-    "summary": "Villa brand i Hyllinge.",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-17.57-brand-klippan/",
-    "type": "Brand",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 633900,
-    "datetime": "2026-05-04 17:54:30 +02:00",
-    "name": "04 maj 17.15, Rattfylleri, Kumla",
-    "summary": "En bilist är misstänkt för brott i Kvarnparken",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-17.15-rattfylleri-kumla/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 633901,
-    "datetime": "2026-05-04 17:56:08 +02:00",
-    "name": "04 maj 17.15, Rattfylleri, Hallsberg",
-    "summary": "En mopedist är misstänkt för brott i Östansjö",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-17.15-rattfylleri-hallsberg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 633899,
-    "datetime": "2026-05-04 17:54:24 +02:00",
-    "name": "04 maj 16.09, Rattfylleri, Östersund",
-    "summary": "Odenslund, polisen kontrollerar trafiken.",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-16.09-rattfylleri-ostersund/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 633892,
-    "datetime": "2026-05-04 17:46:15 +02:00",
-    "name": "04 maj 14.58, Stöld/inbrott, Stockholm",
-    "summary": "Flera personer har gjort inbrott i en bostad i Kista.",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-14.58-stoldinbrott-stockholm/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 633898,
-    "datetime": "2026-05-04 17:21:35 +02:00",
-    "name": "04 maj 16.08, Sexualbrott, Stockholm",
-    "summary": "En man har ofredat en kvinna på en simhall i Skärholmen.",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-16.08-sexualbrott-stockholm/",
-    "type": "Sexualbrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 633897,
-    "datetime": "2026-05-04 17:11:26 +02:00",
-    "name": "04 maj 16.44, Trafikolycka, personskada, Nyköping",
-    "summary": "Person påkörd av bil",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-16.44-trafikolycka-personskada-nykoping/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 633896,
-    "datetime": "2026-05-04 16:48:32 +02:00",
-    "name": "04 maj 14.28, Trafikbrott, Västerås",
-    "summary": "Bilist fick ordningsbot.",
-    "url": "/aktuellt/handelser/2026/maj/4/04-maj-14.28-trafikbrott-vasteras/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
     }
   }
 ]
