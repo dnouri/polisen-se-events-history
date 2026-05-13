@@ -1,5 +1,101 @@
 [
   {
+    "id": 634934,
+    "datetime": "2026-05-13 18:42:13 +02:00",
+    "name": "13 maj 18.11, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på E4 Stöcksjö/Ansmark, Umeå.",
+    "url": "/aktuellt/handelser/2026/maj/13/13-maj-18.11-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 634922,
+    "datetime": "2026-05-13 16:51:51 +02:00",
+    "name": "13 maj 16.17, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på Kvarnvägen/Storgatan, Väst på stan.",
+    "url": "/aktuellt/handelser/2026/maj/13/13-maj-16.17-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 634939,
+    "datetime": "2026-05-13 20:09:31 +02:00",
+    "name": "13 maj 18.31, Stöld, Östersund",
+    "summary": "Ringa stöld från butik i centrum.",
+    "url": "/aktuellt/handelser/2026/maj/13/13-maj-18.31-stold-ostersund/",
+    "type": "Stöld",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 634938,
+    "datetime": "2026-05-13 20:00:44 +02:00",
+    "name": "13 maj 19.35, Trafikolycka, Bollebygd",
+    "summary": "Singelolycka på RV 40",
+    "url": "/aktuellt/handelser/2026/maj/13/13-maj-19.35-trafikolycka-bollebygd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 634937,
+    "datetime": "2026-05-13 19:55:07 +02:00",
+    "name": "13 maj 19.34, Trafikolycka, Munkedal",
+    "summary": "Två personbilar inblandade i olycka på E6 Saltkällemotet",
+    "url": "/aktuellt/handelser/2026/maj/13/13-maj-19.34-trafikolycka-munkedal/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 634935,
+    "datetime": "2026-05-13 18:50:04 +02:00",
+    "name": "13 maj 17.21, Narkotikabrott, Kramfors",
+    "summary": "Man misstänks för ringa narkotikabrott.",
+    "url": "/aktuellt/handelser/2026/maj/13/13-maj-17.21-narkotikabrott-kramfors/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 634932,
+    "datetime": "2026-05-13 18:42:46 +02:00",
+    "name": "13 maj 17.43, Vapenlagen, Eskilstuna",
+    "summary": "Kontroll i fastighet efter vapenlarm.",
+    "url": "/aktuellt/handelser/2026/maj/13/13-maj-17.43-vapenlagen-eskilstuna/",
+    "type": "Vapenlagen",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 634933,
+    "datetime": "2026-05-13 18:42:02 +02:00",
+    "name": "13 maj 17.08, Trafikolycka, Hultsfred",
+    "summary": "Singelolycka på länsväg 680.",
+    "url": "/aktuellt/handelser/2026/maj/13/13-maj-17.08-trafikolycka-hultsfred/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
     "id": 634930,
     "datetime": "2026-05-13 17:54:07 +02:00",
     "name": "13 maj 17.50, Trafikolycka, Kungsbacka",
@@ -33,18 +129,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 634922,
-    "datetime": "2026-05-13 16:51:51 +02:00",
-    "name": "13 maj 16.17, Trafikolycka, Umeå",
-    "summary": "Trafikolycka på Kvarnvägen/Storgatan, Väst på stan.",
-    "url": "/aktuellt/handelser/2026/maj/13/13-maj-16.17-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Blekinge län",
       "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 634023,
-    "datetime": "2026-05-06 6:16:22 +02:00",
-    "name": "05 maj 22.22, Stöld, Skurup",
-    "summary": "Två män grips misstänkta för stöld.",
-    "url": "/aktuellt/handelser/2026/maj/6/05-maj-22.22-stold-skurup/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 634020,
-    "datetime": "2026-05-05 21:55:34 +02:00",
-    "name": "05 maj 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/maj/5/05-maj-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 634019,
-    "datetime": "2026-05-05 21:55:25 +02:00",
-    "name": "05 maj 21.55, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/maj/5/05-maj-21.55-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 634017,
-    "datetime": "2026-05-05 20:48:23 +02:00",
-    "name": "05 maj 20.26, Misshandel, Borås",
-    "summary": "Larm om bråk.",
-    "url": "/aktuellt/handelser/2026/maj/5/05-maj-20.26-misshandel-boras/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 634018,
-    "datetime": "2026-05-05 21:11:29 +02:00",
-    "name": "05 maj 19.50, Trafikbrott, Skellefteå",
-    "summary": "Lövånger, polisen kontrollerar en personbil.",
-    "url": "/aktuellt/handelser/2026/maj/5/05-maj-19.50-trafikbrott-skelleftea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 634016,
-    "datetime": "2026-05-05 20:47:12 +02:00",
-    "name": "05 maj 19.10, Brand, Söderköping",
-    "summary": "Brand i byggnad utanför Söderköping.",
-    "url": "/aktuellt/handelser/2026/maj/5/05-maj-19.10-brand-soderkoping/",
-    "type": "Brand",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 634015,
-    "datetime": "2026-05-05 20:46:15 +02:00",
-    "name": "05 maj 19.16, Olaga hot, Örebro",
-    "summary": "En man är misstänkt för brott i City",
-    "url": "/aktuellt/handelser/2026/maj/5/05-maj-19.16-olaga-hot-orebro/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
