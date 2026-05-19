@@ -1,5 +1,77 @@
 [
   {
+    "id": 635686,
+    "datetime": "2026-05-19 18:27:17 +02:00",
+    "name": "19 maj 15.49, Misshandel, Kristianstad",
+    "summary": "Man i 45-årsåldern grips misstänt för misshandel.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-15.49-misshandel-kristianstad/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 635684,
+    "datetime": "2026-05-19 17:31:08 +02:00",
+    "name": "19 maj 17.24, Trafikolycka, Luleå",
+    "summary": "Luleå, trafikolycka vid Notviksrondellen.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-17.24-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 635683,
+    "datetime": "2026-05-19 16:54:55 +02:00",
+    "name": "19 maj 15.43, Trafikolycka, Östersund",
+    "summary": "Trafikolycka på E45 mellan Fåker och Näs.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-15.43-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 635681,
+    "datetime": "2026-05-19 16:41:04 +02:00",
+    "name": "19 maj 14.34, Trafikolycka, Västervik",
+    "summary": "Kollission mellan tåg och personbil.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-14.34-trafikolycka-vastervik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 635679,
+    "datetime": "2026-05-19 16:29:21 +02:00",
+    "name": "19 maj 15.02, Bedrägeri, Luleå",
+    "summary": "Luleå, man misstänkt för ringa bedrägeri.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-15.02-bedrageri-lulea/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 635675,
+    "datetime": "2026-05-19 16:07:32 +02:00",
+    "name": "19 maj 11.03, Narkotikabrott, Södertälje",
+    "summary": "En man beter sig avvikande på en plats med många barn.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-11.03-narkotikabrott-sodertalje/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
     "id": 635665,
     "datetime": "2026-05-19 14:49:08 +02:00",
     "name": "19 maj 14.16, Brand, Stockholm",
@@ -9,6 +81,54 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 635671,
+    "datetime": "2026-05-19 15:41:30 +02:00",
+    "name": "19 maj 15.14, Trafikolycka, Varberg",
+    "summary": "Krock mellan buss och personbil.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-15.14-trafikolycka-varberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 635637,
+    "datetime": "2026-05-19 12:42:50 +02:00",
+    "name": "19 maj 11.17, Farligt föremål, misstänkt, Sotenäs",
+    "summary": "Ett okänt föremål hittas på en soptipp på Hovenäset.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-11.17-farligt-foremal-misstankt-sotenas/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 635635,
+    "datetime": "2026-05-19 12:26:35 +02:00",
+    "name": "19 maj 10.58, Kontroll, Tingsryd",
+    "summary": "Kontroll av försändelse i kommmunhuset.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-10.58-kontroll-tingsryd/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 635664,
+    "datetime": "2026-05-19 14:57:58 +02:00",
+    "name": "19 maj 14.01, Trafikolycka, personskada, Uppsala",
+    "summary": "Fotgängare påkörd.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-14.01-trafikolycka-personskada-uppsala/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
     }
   },
   {
@@ -141,30 +261,6 @@
     "location": {
       "name": "Jönköpings län",
       "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 635637,
-    "datetime": "2026-05-19 12:42:50 +02:00",
-    "name": "19 maj 11.17, Farligt föremål, misstänkt, Sotenäs",
-    "summary": "Ett okänt föremål hittas på en soptipp på Hovenäset.",
-    "url": "/aktuellt/handelser/2026/maj/19/19-maj-11.17-farligt-foremal-misstankt-sotenas/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 635635,
-    "datetime": "2026-05-19 12:26:35 +02:00",
-    "name": "19 maj 10.58, Kontroll, Tingsryd",
-    "summary": "Kontroll av försändelse i kommmunhuset.",
-    "url": "/aktuellt/handelser/2026/maj/19/19-maj-10.58-kontroll-tingsryd/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 634697,
-    "datetime": "2026-05-11 19:19:38 +02:00",
-    "name": "11 maj 18.20, Kontroll, Vänersborg",
-    "summary": "Fartyg kört in i kaj.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-18.20-kontroll-vanersborg/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 634691,
-    "datetime": "2026-05-11 18:27:03 +02:00",
-    "name": "11 maj 18.00, Trafikolycka, Umeå",
-    "summary": "Trafikolycka på Flygplatsvägen/Norra Obbolavägen, Umeå.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-18.00-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 634695,
-    "datetime": "2026-05-11 18:53:52 +02:00",
-    "name": "11 maj 15.27, Rattfylleri, Umeå",
-    "summary": "Misstänkt rattfylleri i Umeå.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-15.27-rattfylleri-umea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 634694,
-    "datetime": "2026-05-11 18:42:31 +02:00",
-    "name": "11 maj 18.41, Trafikkontroll, Västernorrlands län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-18.41-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 634693,
-    "datetime": "2026-05-11 18:33:56 +02:00",
-    "name": "11 maj 16.59, Misshandel, Skellefteå",
-    "summary": "Omhändertagen man misstänks för brott.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-16.59-misshandel-skelleftea/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 634688,
-    "datetime": "2026-05-11 18:07:13 +02:00",
-    "name": "11 maj 16.45, Försvunnen person, Kalmar",
-    "summary": "Försvunnen flicka, anträffad.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-16.45-forsvunnen-person-kalmar/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 634692,
-    "datetime": "2026-05-11 18:28:29 +02:00",
-    "name": "11 maj 18.30, Stöld, Borlänge",
-    "summary": "Man gripen och sedermera anhållen misstänkt för grov stöld.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-18.30-stold-borlange/",
-    "type": "Stöld",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 634690,
-    "datetime": "2026-05-11 18:17:05 +02:00",
-    "name": "11 maj 17.24, Trafikolycka, Stenungsund",
-    "summary": "Lastbil i singelolycka.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-17.24-trafikolycka-stenungsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
