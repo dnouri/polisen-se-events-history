@@ -1,5 +1,101 @@
 [
   {
+    "id": 635695,
+    "datetime": "2026-05-19 21:47:19 +02:00",
+    "name": "19 maj 21.47, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-21.47-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 635694,
+    "datetime": "2026-05-19 21:47:06 +02:00",
+    "name": "19 maj 21.47, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-21.47-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 635693,
+    "datetime": "2026-05-19 21:39:52 +02:00",
+    "name": "19 maj 16.07, Trafikbrott, Sigtuna",
+    "summary": "En elsparkcykel visar sig gå i 80 km/h och tas i beslag.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-16.07-trafikbrott-sigtuna/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 635684,
+    "datetime": "2026-05-19 17:31:08 +02:00",
+    "name": "19 maj 17.24, Trafikolycka, Luleå",
+    "summary": "Luleå, trafikolycka vid Notviksrondellen.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-17.24-trafikolycka-lulea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 635692,
+    "datetime": "2026-05-19 21:24:51 +02:00",
+    "name": "19 maj 21.24, Trafikkontroll, Östersund",
+    "summary": "Östersunds kommun, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-21.24-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 635687,
+    "datetime": "2026-05-19 19:19:58 +02:00",
+    "name": "19 maj 18.55, Brand, Hagfors",
+    "summary": "Polisen är på plats vid en brand i Hagfors.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-18.55-brand-hagfors/",
+    "type": "Brand",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 635691,
+    "datetime": "2026-05-19 20:35:05 +02:00",
+    "name": "19 maj 20.31, Brand, Jönköping",
+    "summary": "Övertänd lastbil på E4",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-20.31-brand-jonkoping/",
+    "type": "Brand",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 635690,
+    "datetime": "2026-05-19 20:25:58 +02:00",
+    "name": "19 maj 20.15, Bedrägeri, Jönköping",
+    "summary": "Bedrägerier mot äldre.",
+    "url": "/aktuellt/handelser/2026/maj/19/19-maj-20.15-bedrageri-jonkoping/",
+    "type": "Bedrägeri",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 635689,
     "datetime": "2026-05-19 20:19:29 +02:00",
     "name": "19 maj 18.47, Brand, Sundsvall",
@@ -24,18 +120,6 @@
     }
   },
   {
-    "id": 635687,
-    "datetime": "2026-05-19 19:19:58 +02:00",
-    "name": "19 maj 18.55, Brand, Hagfors",
-    "summary": "Polisen är på plats vid en brand i Hagfors.",
-    "url": "/aktuellt/handelser/2026/maj/19/19-maj-18.55-brand-hagfors/",
-    "type": "Brand",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
     "id": 635683,
     "datetime": "2026-05-19 16:54:55 +02:00",
     "name": "19 maj 15.43, Trafikolycka, Östersund",
@@ -57,18 +141,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 635684,
-    "datetime": "2026-05-19 17:31:08 +02:00",
-    "name": "19 maj 17.24, Trafikolycka, Luleå",
-    "summary": "Luleå, trafikolycka vid Notviksrondellen.",
-    "url": "/aktuellt/handelser/2026/maj/19/19-maj-17.24-trafikolycka-lulea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 634711,
-    "datetime": "2026-05-12 6:22:50 +02:00",
-    "name": "12 maj 06.19, Misshandel, Hässleholm",
-    "summary": "Man gripen, Hässleholm.",
-    "url": "/aktuellt/handelser/2026/maj/12/12-maj-06.19-misshandel-hassleholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 634709,
-    "datetime": "2026-05-11 21:39:22 +02:00",
-    "name": "11 maj 20.56, Narkotikabrott, Umeå",
-    "summary": "Man misstänks för ringa narkotikainnehav.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-20.56-narkotikabrott-umea/",
-    "type": "Narkotikabrott",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 634708,
-    "datetime": "2026-05-11 21:29:19 +02:00",
-    "name": "11 maj 21.16, Brand, Örkelljunga",
-    "summary": "Rökutveckling i en villa.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-21.16-brand-orkelljunga/",
-    "type": "Brand",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 634707,
-    "datetime": "2026-05-11 21:07:50 +02:00",
-    "name": "11 maj 18.00, Misshandel, Växjö",
-    "summary": "Larm om misshandel, norr om Växjö.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-18.00-misshandel-vaxjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 634703,
-    "datetime": "2026-05-11 20:48:44 +02:00",
-    "name": "11 maj 19.00, Misshandel, Nässjö",
-    "summary": "Man gripen för misshandel i Nässjö",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-19.00-misshandel-nassjo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 634702,
-    "datetime": "2026-05-11 20:23:04 +02:00",
-    "name": "11 maj 16.55, Rattfylleri, Sundsvall",
-    "summary": "Misstänkt drograttfylleri i Sundsvall.",
-    "url": "/aktuellt/handelser/2026/maj/11/11-maj-16.55-rattfylleri-sundsvall/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
