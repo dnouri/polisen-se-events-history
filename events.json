@@ -1,5 +1,41 @@
 [
   {
+    "id": 636121,
+    "datetime": "2026-05-23 12:41:46 +02:00",
+    "name": "23 maj 11.37, Trafikolycka, Vara",
+    "summary": "Traktor kört av vägen.",
+    "url": "/aktuellt/handelser/2026/maj/23/23-maj-11.37-trafikolycka-vara/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 636115,
+    "datetime": "2026-05-23 11:26:18 +02:00",
+    "name": "23 maj 10.33, Mord/dråp, försök, Stockholm",
+    "summary": "Trer personer har skottskadats vid en villa i Älvsjö. En misstänkt är gripen och ett arbete pågår för att ta r",
+    "url": "/aktuellt/handelser/2026/maj/23/23-maj-10.33-morddrap-forsok-stockholm/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 636116,
+    "datetime": "2026-05-23 11:34:04 +02:00",
+    "name": "23 maj 10.25, Trafikolycka, Grums",
+    "summary": "En kollision mellan lasbil och personbil har inträffat på E18 vid motorbanan i Grums",
+    "url": "/aktuellt/handelser/2026/maj/23/23-maj-10.25-trafikolycka-grums/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 636114,
     "datetime": "2026-05-23 11:12:45 +02:00",
     "name": "23 maj 10.44, Trafikolycka, Mark",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 636099,
+    "datetime": "2026-05-23 8:42:24 +02:00",
+    "name": "23 maj 08.42, Stöld, Jämtlands län",
+    "summary": "Ökad risk för fyrhjulingsstölder i Jämtland",
+    "url": "/aktuellt/handelser/2026/maj/23/23-maj-08.42-stold-jamtlands-lan/",
+    "type": "Stöld",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 636117,
+    "datetime": "2026-05-23 11:49:14 +02:00",
+    "name": "23 maj 10.38, Skadegörelse, Sundsvall",
+    "summary": "Polispatrull beordras till en skola på Södermalm med anledning av en misstänkt skadegörelse.",
+    "url": "/aktuellt/handelser/2026/maj/23/23-maj-10.38-skadegorelse-sundsvall/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
     }
   },
   {
@@ -117,18 +177,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 636099,
-    "datetime": "2026-05-23 8:42:24 +02:00",
-    "name": "23 maj 08.42, Stöld, Jämtlands län",
-    "summary": "Ökad risk för fyrhjulingsstölder i Jämtland",
-    "url": "/aktuellt/handelser/2026/maj/23/23-maj-08.42-stold-jamtlands-lan/",
-    "type": "Stöld",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 635325,
-    "datetime": "2026-05-16 7:52:56 +02:00",
-    "name": "16 maj 07.52, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon. Här följer ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/maj/16/16-maj-07.52-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 635323,
-    "datetime": "2026-05-16 7:42:18 +02:00",
-    "name": "15 maj 23.28, Olaga intrång, Stockholm",
-    "summary": "Polis larmas till ett flerfamiljshus på Södermalm med anledning av att obehöriga tagit sig in i fastighetens t",
-    "url": "/aktuellt/handelser/2026/maj/15/15-maj-23.28-olaga-intrang-stockholm/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 635317,
-    "datetime": "2026-05-16 7:08:50 +02:00",
-    "name": "16 maj 07.05, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/maj/16/16-maj-07.05-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 635321,
-    "datetime": "2026-05-16 7:08:42 +02:00",
-    "name": "16 maj 07.07, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/maj/16/16-maj-07.07-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
