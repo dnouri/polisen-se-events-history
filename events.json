@@ -1,5 +1,89 @@
 [
   {
+    "id": 636347,
+    "datetime": "2026-05-25 20:07:21 +02:00",
+    "name": "25 maj 18.56, Fylleri, Umeå",
+    "summary": "Umeå, man omhändertagen på Östra Ersboda.",
+    "url": "/aktuellt/handelser/2026/maj/25/25-maj-18.56-fylleri-umea/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 636342,
+    "datetime": "2026-05-25 18:49:39 +02:00",
+    "name": "25 maj 18.44, Trafikolycka, Nyköping",
+    "summary": "Olycka på E4.",
+    "url": "/aktuellt/handelser/2026/maj/25/25-maj-18.44-trafikolycka-nykoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 636320,
+    "datetime": "2026-05-25 14:53:50 +02:00",
+    "name": "25 maj 14.28, Trafikolycka, Oskarshamn",
+    "summary": "MC-olycka, Kristdala.",
+    "url": "/aktuellt/handelser/2026/maj/25/25-maj-14.28-trafikolycka-oskarshamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 636346,
+    "datetime": "2026-05-25 19:25:35 +02:00",
+    "name": "25 maj 16.02, Stöld, Umeå",
+    "summary": "Umeå, ringa stöld i matbutik.",
+    "url": "/aktuellt/handelser/2026/maj/25/25-maj-16.02-stold-umea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 636343,
+    "datetime": "2026-05-25 18:56:21 +02:00",
+    "name": "25 maj 18.44, Trafikolycka, Örnsköldsvik",
+    "summary": "Örnsköldsvik, singelolycka i Järvsta-Lungvik.",
+    "url": "/aktuellt/handelser/2026/maj/25/25-maj-18.44-trafikolycka-ornskoldsvik/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 636344,
+    "datetime": "2026-05-25 18:57:02 +02:00",
+    "name": "25 maj 18.51, Trafikolycka, Svedala",
+    "summary": "Personbil i olycka, Bara.",
+    "url": "/aktuellt/handelser/2026/maj/25/25-maj-18.51-trafikolycka-svedala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 636341,
+    "datetime": "2026-05-25 18:21:55 +02:00",
+    "name": "25 maj 18.09, Försvunnen person, Örebro län",
+    "summary": "Kvinnan är hittad",
+    "url": "/aktuellt/handelser/2026/maj/25/25-maj-18.09-forsvunnen-person-orebro-lan/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 636334,
     "datetime": "2026-05-25 17:12:41 +02:00",
     "name": "25 maj 17.07, Trafikolycka, Nyköping",
@@ -9,18 +93,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 636341,
-    "datetime": "2026-05-25 18:21:55 +02:00",
-    "name": "25 maj 18.09, Försvunnen person, Örebro län",
-    "summary": "Polisen söker en anmäld försvunnen kvinna",
-    "url": "/aktuellt/handelser/2026/maj/25/25-maj-18.09-forsvunnen-person-orebro-lan/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   },
   {
@@ -141,18 +213,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 636320,
-    "datetime": "2026-05-25 14:53:50 +02:00",
-    "name": "25 maj 14.28, Trafikolycka, Oskarshamn",
-    "summary": "MC-olycka, Kristdala.",
-    "url": "/aktuellt/handelser/2026/maj/25/25-maj-14.28-trafikolycka-oskarshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 635485,
-    "datetime": "2026-05-18 12:48:28 +02:00",
-    "name": "18 maj 11.58, Trafikolycka, Hudiksvall",
-    "summary": "Larm om trafikolycka.",
-    "url": "/aktuellt/handelser/2026/maj/18/18-maj-11.58-trafikolycka-hudiksvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 635482,
-    "datetime": "2026-05-18 12:46:41 +02:00",
-    "name": "18 maj 06.43, Olovlig körning, Krokom",
-    "summary": "Misstänkt grov olovlig körning",
-    "url": "/aktuellt/handelser/2026/maj/18/18-maj-06.43-olovlig-korning-krokom/",
-    "type": "Olovlig körning",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 635480,
-    "datetime": "2026-05-18 12:35:18 +02:00",
-    "name": "18 maj 10.27, Trafikbrott, Stockholm",
-    "summary": "En cyklist hamnade under en lastbil vid ett övergångställ på centrala Kungsholmen.",
-    "url": "/aktuellt/handelser/2026/maj/18/18-maj-10.27-trafikbrott-stockholm/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 635479,
-    "datetime": "2026-05-18 12:33:38 +02:00",
-    "name": "18 maj 11.56, Brand, Boden",
-    "summary": "Larm om brand i en bil väster om Vittjärv.",
-    "url": "/aktuellt/handelser/2026/maj/18/18-maj-11.56-brand-boden/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 635472,
-    "datetime": "2026-05-18 12:04:28 +02:00",
-    "name": "18 maj 11.38, Trafikolycka, smitning från, Örebro",
-    "summary": "En olycka har inträffat i Vivalla",
-    "url": "/aktuellt/handelser/2026/maj/18/18-maj-11.38-trafikolycka-smitning-fran-orebro/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
