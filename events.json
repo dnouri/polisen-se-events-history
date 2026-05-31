@@ -1,5 +1,65 @@
 [
   {
+    "id": 639918,
+    "datetime": "2026-05-31 6:45:42 +02:00",
+    "name": "30 maj 22.56, Misshandel, Lund",
+    "summary": "Larm om bråk utanför Stadsbiblioteket.",
+    "url": "/aktuellt/handelser/2026/maj/30/30-maj-22.56-misshandel-lund/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 639917,
+    "datetime": "2026-05-31 6:30:37 +02:00",
+    "name": "31 maj 02.04, Misshandel, Karlshamn",
+    "summary": "Misstänkt misshandel, centrala Karlshamn.",
+    "url": "/aktuellt/handelser/2026/maj/31/31-maj-02.04-misshandel-karlshamn/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 639916,
+    "datetime": "2026-05-31 6:26:56 +02:00",
+    "name": "31 maj 05.31, Rattfylleri, Lessebo",
+    "summary": "Misstänkt rattfylleri, länsväg 838.",
+    "url": "/aktuellt/handelser/2026/maj/31/31-maj-05.31-rattfylleri-lessebo/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 639914,
+    "datetime": "2026-05-31 2:50:14 +02:00",
+    "name": "31 maj 01.45, Brand, Ljungby",
+    "summary": "Brand i villa",
+    "url": "/aktuellt/handelser/2026/maj/31/31-maj-01.45-brand-ljungby/",
+    "type": "Brand",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 639915,
+    "datetime": "2026-05-31 6:22:34 +02:00",
+    "name": "31 maj 00.51, Våld/hot mot tjänsteman, Växjö",
+    "summary": "Våldsamt motstånd, centrala Växjö.",
+    "url": "/aktuellt/handelser/2026/maj/31/31-maj-00.51-valdhot-mot-tjansteman-vaxjo/",
+    "type": "Våld/hot mot tjänsteman",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
     "id": 639909,
     "datetime": "2026-05-30 21:01:23 +02:00",
     "name": "30 maj 20.46, Trafikbrott, Landskrona",
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Kalmar län",
       "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 636151,
-    "datetime": "2026-05-23 20:45:03 +02:00",
-    "name": "23 maj 20.32, Information, Sundsvall",
-    "summary": "Vårdnadshavare uppmanas att hämta sina barn från pågående cruising på Alnö.",
-    "url": "/aktuellt/handelser/2026/maj/23/23-maj-20.32-information-sundsvall/",
-    "type": "Information",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 636150,
-    "datetime": "2026-05-23 20:43:36 +02:00",
-    "name": "23 maj 15.09, Bedrägeri, Stockholm",
-    "summary": "Äldre par utsatt för bedrägeri och blivit av med guldsmycken.",
-    "url": "/aktuellt/handelser/2026/maj/23/23-maj-15.09-bedrageri-stockholm/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 636149,
-    "datetime": "2026-05-23 20:21:52 +02:00",
-    "name": "23 maj 17.43, Rattfylleri, Solna",
-    "summary": "Polisen får samtal om en man som tankar bilen och som upplevs berusad i Järva.",
-    "url": "/aktuellt/handelser/2026/maj/23/23-maj-17.43-rattfylleri-solna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 636148,
-    "datetime": "2026-05-23 19:32:30 +02:00",
-    "name": "23 maj 19.23, Trafikolycka, Karlskrona",
-    "summary": "Singelolycka på riksväg 28 vid trafikplats 64, Karlskrona östra.",
-    "url": "/aktuellt/handelser/2026/maj/23/23-maj-19.23-trafikolycka-karlskrona/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 636147,
-    "datetime": "2026-05-23 17:40:03 +02:00",
-    "name": "23 maj 17.24, Trafikolycka, personskada, Göteborg",
-    "summary": "SOS larmar om en trafikolycka där en person har blivit påkörd av en annan person på en elsparkcykel. Det har h",
-    "url": "/aktuellt/handelser/2026/maj/23/23-maj-17.24-trafikolycka-personskada-goteborg/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
