@@ -1,5 +1,113 @@
 [
   {
+    "id": 641801,
+    "datetime": "2026-06-14 12:28:09 +02:00",
+    "name": "14 juni 09.40, Trafikolycka, Knivsta",
+    "summary": "Singelolycka på E4.",
+    "url": "/aktuellt/handelser/2026/juni/14/14-juni-09.40-trafikolycka-knivsta/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 641800,
+    "datetime": "2026-06-14 12:22:54 +02:00",
+    "name": "14 juni 10.48, Trafikolycka, Linköping",
+    "summary": "Krock mellan två bilar på riksväg 34 utanför Malmslätt.",
+    "url": "/aktuellt/handelser/2026/juni/14/14-juni-10.48-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 641799,
+    "datetime": "2026-06-14 11:59:56 +02:00",
+    "name": "14 juni 11.27, Trafikolycka, Malmö",
+    "summary": "Larm om trafikolycka, Dammfri",
+    "url": "/aktuellt/handelser/2026/juni/14/14-juni-11.27-trafikolycka-malmo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 641798,
+    "datetime": "2026-06-14 11:27:33 +02:00",
+    "name": "14 juni 00.19, Olaga hot, Gällivare",
+    "summary": "Gällivare, polis beordras till en adress efter att det varit någon form av bråk på en fest",
+    "url": "/aktuellt/handelser/2026/juni/14/14-juni-00.19-olaga-hot-gallivare/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 641797,
+    "datetime": "2026-06-14 10:51:10 +02:00",
+    "name": "14 juni 10.37, Trafikhinder, Stockholm",
+    "summary": "En man som åkt cykel på Centralbron har stoppats av polis och kontrolleras just nu.",
+    "url": "/aktuellt/handelser/2026/juni/14/14-juni-10.37-trafikhinder-stockholm/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 641796,
+    "datetime": "2026-06-14 9:43:29 +02:00",
+    "name": "14 juni 08.25, Trafikolycka, singel, Sotenäs",
+    "summary": "Polis får in ett larm om en personbil som voltat ned i diket på länsväg 902, Hamburgsund.",
+    "url": "/aktuellt/handelser/2026/juni/14/14-juni-08.25-trafikolycka-singel-sotenas/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 641795,
+    "datetime": "2026-06-14 9:26:22 +02:00",
+    "name": "14 juni 09.08, Sammanfattning natt, Jämtlands län",
+    "summary": "Jämtland, ett urval av polisens arbete under natten",
+    "url": "/aktuellt/handelser/2026/juni/14/14-juni-09.08-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 641759,
+    "datetime": "2026-06-13 12:31:47 +02:00",
+    "name": "13 juni 10.58, Mord/dråp, försök, Alvesta",
+    "summary": "Två personer förda till sjukhus, utreds som försök till mord",
+    "url": "/aktuellt/handelser/2026/juni/13/13-juni-10.58-morddrap-forsok-alvesta/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 641794,
+    "datetime": "2026-06-14 9:08:31 +02:00",
+    "name": "14 juni 09.00, Sammanfattning natt, Västernorrlands län",
+    "summary": "Västernorrland, ett urval av polisens arbete under natten",
+    "url": "/aktuellt/handelser/2026/juni/14/14-juni-09.00-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 641793,
     "datetime": "2026-06-14 8:51:44 +02:00",
     "name": "13 juni 23.53, Misshandel, Kristianstad",
@@ -141,18 +249,6 @@
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 641759,
-    "datetime": "2026-06-13 12:31:47 +02:00",
-    "name": "13 juni 10.58, Mord/dråp, försök, Alvesta",
-    "summary": "Två personer förda till sjukhus, utreds som försök till mord",
-    "url": "/aktuellt/handelser/2026/juni/13/13-juni-10.58-morddrap-forsok-alvesta/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 640784,
-    "datetime": "2026-06-06 5:12:25 +02:00",
-    "name": "05 juni 22.50, Mord/dråp, försök, Skellefteå",
-    "summary": "Försök till mord, Skellefteå",
-    "url": "/aktuellt/handelser/2026/juni/5/05-juni-22.50-morddrap-forsok-skelleftea/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 640815,
-    "datetime": "2026-06-06 12:29:24 +02:00",
-    "name": "06 juni 12.04, Trafikolycka, Timrå",
-    "summary": "Timrå, trafikolycka på E4 i höjd med Sörberge.",
-    "url": "/aktuellt/handelser/2026/juni/6/06-juni-12.04-trafikolycka-timra/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 640816,
-    "datetime": "2026-06-06 12:40:53 +02:00",
-    "name": "06 juni 09.32, Misshandel, Filipstad",
-    "summary": "En man är misstänkt för misshandel mot en kvinna i en bostad",
-    "url": "/aktuellt/handelser/2026/juni/6/06-juni-09.32-misshandel-filipstad/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 640814,
-    "datetime": "2026-06-06 12:11:20 +02:00",
-    "name": "06 juni 07.37, Misshandel, Hallsberg",
-    "summary": "En man är misstänkt för brott mot en kvinna",
-    "url": "/aktuellt/handelser/2026/juni/6/06-juni-07.37-misshandel-hallsberg/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 640813,
-    "datetime": "2026-06-06 12:09:50 +02:00",
-    "name": "06 juni 10.38, Stöld, Luleå",
-    "summary": "Luleå, ringa stöld i butik.",
-    "url": "/aktuellt/handelser/2026/juni/6/06-juni-10.38-stold-lulea/",
-    "type": "Stöld",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 640812,
-    "datetime": "2026-06-06 11:52:14 +02:00",
-    "name": "06 juni 04.43, Försvunnen person, Osby",
-    "summary": "Försvunnen person",
-    "url": "/aktuellt/handelser/2026/juni/6/06-juni-04.43-forsvunnen-person-osby/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 640811,
-    "datetime": "2026-06-06 11:36:46 +02:00",
-    "name": "06 juni 07.41, Misshandel, Stockholm",
-    "summary": "En man har misshandlat sin flickvän.",
-    "url": "/aktuellt/handelser/2026/juni/6/06-juni-07.41-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 640810,
-    "datetime": "2026-06-06 11:29:06 +02:00",
-    "name": "06 juni 09.12, Olaga intrång, Töreboda",
-    "summary": "Ett vaktbolag larmar polis om vad som misstänks vara ett pågående inbrott på en återvinningscentral.",
-    "url": "/aktuellt/handelser/2026/juni/6/06-juni-09.12-olaga-intrang-toreboda/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   }
 ]
