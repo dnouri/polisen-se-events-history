@@ -1,5 +1,89 @@
 [
   {
+    "id": 643200,
+    "datetime": "2026-06-17 19:48:55 +02:00",
+    "name": "17 juni 19.35, Trafikolycka, Ulricehamn",
+    "summary": "Larm om en trafikolycka på länsväg 157 i Marbäck. Det ska röra sig om en singelolycka med en mc.",
+    "url": "/aktuellt/handelser/2026/juni/17/17-juni-19.35-trafikolycka-ulricehamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 643197,
+    "datetime": "2026-06-17 18:19:08 +02:00",
+    "name": "17 juni 18.03, Trafikolycka, Vimmerby",
+    "summary": "Mc som gått omkull.",
+    "url": "/aktuellt/handelser/2026/juni/17/17-juni-18.03-trafikolycka-vimmerby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 643195,
+    "datetime": "2026-06-17 18:17:01 +02:00",
+    "name": "17 juni 17.45, Trafikolycka, Simrishamn",
+    "summary": "Bil som kört av vägen",
+    "url": "/aktuellt/handelser/2026/juni/17/17-juni-17.45-trafikolycka-simrishamn/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 643203,
+    "datetime": "2026-06-17 20:41:20 +02:00",
+    "name": "17 juni 20.41, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av kvällens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/juni/17/17-juni-20.41-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 642065,
+    "datetime": "2026-06-16 19:19:47 +02:00",
+    "name": "16 juni 18.42, Mord/dråp, försök, Haninge",
+    "summary": "Ett flertal personer ringer om att de hört smällar i Jordbro. Det visar sig att en person är skjuten och får å",
+    "url": "/aktuellt/handelser/2026/juni/16/16-juni-18.42-morddrap-forsok-haninge/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 643202,
+    "datetime": "2026-06-17 20:01:27 +02:00",
+    "name": "17 juni 15.50, Ofredande/förargelse, Stockholm",
+    "summary": "En kvinna ringer in om en man som brukar förfölja henne, och nu dykt upp på hennes arbete.",
+    "url": "/aktuellt/handelser/2026/juni/17/17-juni-15.50-ofredandeforargelse-stockholm/",
+    "type": "Ofredande/förargelse",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 643201,
+    "datetime": "2026-06-17 20:00:29 +02:00",
+    "name": "17 juni 19.23, Trafikolycka, Kalix",
+    "summary": "Kalix, trafikolycka i centrum.",
+    "url": "/aktuellt/handelser/2026/juni/17/17-juni-19.23-trafikolycka-kalix/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 643192,
     "datetime": "2026-06-17 19:08:43 +02:00",
     "name": "17 juni 17.21, Trafikolycka, Sundsvall",
@@ -45,30 +129,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 643197,
-    "datetime": "2026-06-17 18:19:08 +02:00",
-    "name": "17 juni 18.03, Trafikolycka, Vimmerby",
-    "summary": "Mc som gått omkull.",
-    "url": "/aktuellt/handelser/2026/juni/17/17-juni-18.03-trafikolycka-vimmerby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 643195,
-    "datetime": "2026-06-17 18:17:01 +02:00",
-    "name": "17 juni 17.45, Trafikolycka, Simrishamn",
-    "summary": "Bil som kört av vägen",
-    "url": "/aktuellt/handelser/2026/juni/17/17-juni-17.45-trafikolycka-simrishamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -729,18 +789,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 642065,
-    "datetime": "2026-06-16 19:19:47 +02:00",
-    "name": "16 juni 18.42, Mord/dråp, försök, Haninge",
-    "summary": "Ett flertal personer ringer om att de hört smällar i Jordbro. Det visar sig att en person är skjuten och får å",
-    "url": "/aktuellt/handelser/2026/juni/16/16-juni-18.42-morddrap-forsok-haninge/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 641149,
-    "datetime": "2026-06-09 13:28:57 +02:00",
-    "name": "09 juni 13.00, Trafikkontroll, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/juni/9/09-juni-13.00-trafikkontroll-jamtlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 641136,
-    "datetime": "2026-06-09 12:42:43 +02:00",
-    "name": "09 juni 12.30, Trafikolycka, Jönköping",
-    "summary": "Två bilar i krock.",
-    "url": "/aktuellt/handelser/2026/juni/9/09-juni-12.30-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 641145,
-    "datetime": "2026-06-09 13:07:19 +02:00",
-    "name": "09 juni 13.02, Vapenlagen, Malmö",
-    "summary": "De två män som greps i en taxi i Malmö natten till måndagen misstänks för förberedelse till mord och grovt vap",
-    "url": "/aktuellt/handelser/2026/juni/9/09-juni-13.02-vapenlagen-malmo/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 641144,
-    "datetime": "2026-06-09 12:56:02 +02:00",
-    "name": "09 juni 12.50, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/juni/9/09-juni-12.50-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
