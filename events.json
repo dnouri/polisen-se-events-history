@@ -1,14 +1,26 @@
 [
   {
-    "id": 643860,
-    "datetime": "2026-06-24 11:33:16 +02:00",
-    "name": "24 juni 11.27, Brand, Malmö",
-    "summary": "Larm om brand, Ärtholmen.",
-    "url": "/aktuellt/handelser/2026/juni/24/24-juni-11.27-brand-malmo/",
-    "type": "Brand",
+    "id": 643888,
+    "datetime": "2026-06-24 14:53:06 +02:00",
+    "name": "24 juni 13.46, Fylleri, Härnösand",
+    "summary": "Berusad man omhändertogs i Bondsjöstaden.",
+    "url": "/aktuellt/handelser/2026/juni/24/24-juni-13.46-fylleri-harnosand/",
+    "type": "Fylleri",
     "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 643885,
+    "datetime": "2026-06-24 14:48:07 +02:00",
+    "name": "24 juni 12.56, Rattfylleri, Piteå",
+    "summary": "Man misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2026/juni/24/24-juni-12.56-rattfylleri-pitea/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -24,15 +36,75 @@
     }
   },
   {
+    "id": 643816,
+    "datetime": "2026-06-24 8:34:51 +02:00",
+    "name": "24 juni 07.25, Anträffad död, Askersund",
+    "summary": "Två personer anträffade efter båttur i Askersund",
+    "url": "/aktuellt/handelser/2026/juni/24/24-juni-07.25-antraffad-dod-askersund/",
+    "type": "Anträffad död",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
     "id": 643876,
     "datetime": "2026-06-24 12:41:09 +02:00",
     "name": "24 juni 10.54, Försvunnen person, Kalmar",
-    "summary": "Polisen söker efter en man i 80-årsåldern som anmälts försvunnen.",
+    "summary": "Försvunnen man hittad.",
     "url": "/aktuellt/handelser/2026/juni/24/24-juni-10.54-forsvunnen-person-kalmar/",
     "type": "Försvunnen person",
     "location": {
       "name": "Kalmar län",
       "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 643883,
+    "datetime": "2026-06-24 13:38:20 +02:00",
+    "name": "24 juni 09.56, Narkotikabrott, Sundsvall",
+    "summary": "Nacksta, polisen kontrollerar en man utomhus.",
+    "url": "/aktuellt/handelser/2026/juni/24/24-juni-09.56-narkotikabrott-sundsvall/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 643882,
+    "datetime": "2026-06-24 13:35:42 +02:00",
+    "name": "24 juni 11.16, Rattfylleri, Nordmaling",
+    "summary": "Länsväg 539, Gräsmyr. Vid en trafikkontroll blåser en man positivt i polisens sållningsinstrument.",
+    "url": "/aktuellt/handelser/2026/juni/24/24-juni-11.16-rattfylleri-nordmaling/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 643881,
+    "datetime": "2026-06-24 13:25:08 +02:00",
+    "name": "24 juni 12.27, Trafikolycka, Norrköping",
+    "summary": "Två bilar i olycka i centrala stan.",
+    "url": "/aktuellt/handelser/2026/juni/24/24-juni-12.27-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 643860,
+    "datetime": "2026-06-24 11:33:16 +02:00",
+    "name": "24 juni 11.27, Brand, Malmö",
+    "summary": "Larm om brand, Ärtholmen.",
+    "url": "/aktuellt/handelser/2026/juni/24/24-juni-11.27-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -150,18 +222,6 @@
     "summary": "En allvarlig olycka har inträffat i samband med arbete på en skola i Hjärsta",
     "url": "/aktuellt/handelser/2026/juni/24/24-juni-09.14-arbetsplatsolycka-orebro/",
     "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 643816,
-    "datetime": "2026-06-24 8:34:51 +02:00",
-    "name": "24 juni 07.25, Räddningsinsats, Örebro län",
-    "summary": "Två personer anträffade efter båttur i Askersund",
-    "url": "/aktuellt/handelser/2026/juni/24/24-juni-07.25-raddningsinsats-orebro-lan/",
-    "type": "Räddningsinsats",
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 642097,
-    "datetime": "2026-06-17 7:48:20 +02:00",
-    "name": "17 juni 07.47, Sammanfattning natt, Östergötlands län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2026/juni/17/17-juni-07.47-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 642096,
-    "datetime": "2026-06-17 7:47:40 +02:00",
-    "name": "17 juni 07.44, Sammanfattning natt, Jönköpings län",
-    "summary": "Nattsammanfattning",
-    "url": "/aktuellt/handelser/2026/juni/17/17-juni-07.44-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 642095,
-    "datetime": "2026-06-17 7:47:03 +02:00",
-    "name": "17 juni 07.41, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2026/juni/17/17-juni-07.41-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 642094,
-    "datetime": "2026-06-17 7:41:27 +02:00",
-    "name": "17 juni 07.24, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2026/juni/17/17-juni-07.24-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 642090,
-    "datetime": "2026-06-17 7:01:05 +02:00",
-    "name": "17 juni 07.00, Sammanfattning natt, Örebro län",
-    "summary": "Natt till onsdag i polisområde Örebro.",
-    "url": "/aktuellt/handelser/2026/juni/17/17-juni-07.00-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
