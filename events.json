@@ -1,5 +1,65 @@
 [
   {
+    "id": 645598,
+    "datetime": "2026-06-29 22:00:31 +02:00",
+    "name": "29 juni 22.00, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/juni/29/29-juni-22.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 645599,
+    "datetime": "2026-06-29 22:00:24 +02:00",
+    "name": "29 juni 22.00, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
+    "url": "/aktuellt/handelser/2026/juni/29/29-juni-22.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 645597,
+    "datetime": "2026-06-29 21:30:17 +02:00",
+    "name": "29 juni 19.22, Trafikolycka, Ånge",
+    "summary": "Polisen kontaktas om en trafikolycka på länsväg 314, sydväst om Ånge.",
+    "url": "/aktuellt/handelser/2026/juni/29/29-juni-19.22-trafikolycka-ange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 645596,
+    "datetime": "2026-06-29 20:47:27 +02:00",
+    "name": "29 juni 17.22, Fylleri, Östersund",
+    "summary": "Polisen kontaktas av en ordningsvakt angående en berusad man i centrala Östersund.",
+    "url": "/aktuellt/handelser/2026/juni/29/29-juni-17.22-fylleri-ostersund/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 645595,
+    "datetime": "2026-06-29 20:37:02 +02:00",
+    "name": "29 juni 19.03, Fylleri, Skellefteå",
+    "summary": "Polisen kontaktas angående en berusad man i Boviken.",
+    "url": "/aktuellt/handelser/2026/juni/29/29-juni-19.03-fylleri-skelleftea/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 645594,
     "datetime": "2026-06-29 20:26:55 +02:00",
     "name": "29 juni 16.20, Stöld, Solna",
@@ -5934,66 +5994,6 @@
     "summary": "Polisen får in en anmälan om en olycka med en buss och ett rådjur på E12, Nysäter.",
     "url": "/aktuellt/handelser/2026/juni/22/22-juni-18.42-trafikolycka-vilt-lycksele/",
     "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 643578,
-    "datetime": "2026-06-22 18:52:46 +02:00",
-    "name": "22 juni 16.39, Arbetsplatsolycka, Malmö",
-    "summary": "Man till sjukhus, Fosie.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-16.39-arbetsplatsolycka-malmo/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 643572,
-    "datetime": "2026-06-22 17:37:01 +02:00",
-    "name": "22 juni 17.14, Trafikolycka, Linköping",
-    "summary": "Stopp på E4:an i höjd med Herrbeta efter kollision.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-17.14-trafikolycka-linkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 643570,
-    "datetime": "2026-06-22 16:56:43 +02:00",
-    "name": "22 juni 16.38, Trafikolycka, Kungsbacka",
-    "summary": "Via SOS kommer larm om en singelolycka på länsväg 934 strax öster om Sundsjön.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-16.38-trafikolycka-kungsbacka/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 643563,
-    "datetime": "2026-06-22 16:34:23 +02:00",
-    "name": "22 juni 16.30, Trafikolycka, Trelleborg",
-    "summary": "Personbil och mopedist i olycka, Trelleborg.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-16.30-trafikolycka-trelleborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 643566,
-    "datetime": "2026-06-22 16:42:58 +02:00",
-    "name": "22 juni 14.23, Misshandel, Umeå",
-    "summary": "Polispatrull beordras till Vänortsparken där två kvinnor uppges vara inblandade i någon typ av bråk.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-14.23-misshandel-umea/",
-    "type": "Misshandel",
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
