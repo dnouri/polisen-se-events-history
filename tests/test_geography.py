@@ -4,12 +4,16 @@ from pathlib import Path
 import pytest
 
 from geography import (
+    EXPECTED_COUNTY_CODE_TO_NAME,
+    EXPECTED_MUNICIPALITY_CODES,
+    EXPECTED_REFERENCE_SHA256,
     GEOGRAPHY_EXPORT_FIELDS,
     classify_location_name,
     load_geography_reference,
     normalize_name,
     parse_gps,
     parse_title_suffix,
+    reference_file_sha256,
     resolve_event_geography,
 )
 
@@ -36,31 +40,15 @@ def assert_only_v2_geography_fields(result):
 
 
 def test_reference_completeness(reference):
+    reference_path = Path(__file__).resolve().parents[1] / "reference" / "swedish_admin_areas.csv"
+    assert reference_file_sha256(reference_path) == EXPECTED_REFERENCE_SHA256
+
     assert len(reference.municipalities) == 290
     assert len(reference.counties) == 21
-    assert [county.county_code for county in reference.counties] == [
-        "01",
-        "03",
-        "04",
-        "05",
-        "06",
-        "07",
-        "08",
-        "09",
-        "10",
-        "12",
-        "13",
-        "14",
-        "17",
-        "18",
-        "19",
-        "20",
-        "21",
-        "22",
-        "23",
-        "24",
-        "25",
-    ]
+    assert {county.county_code: county.county_name for county in reference.counties} == dict(
+        EXPECTED_COUNTY_CODE_TO_NAME
+    )
+    assert {area.municipality_code for area in reference.municipalities} == EXPECTED_MUNICIPALITY_CODES
 
     assert all(re.fullmatch(r"\d{4}", area.municipality_code) for area in reference.municipalities)
     assert all(re.fullmatch(r"\d{2}", area.county_code) for area in reference.municipalities)
@@ -85,6 +73,36 @@ def test_loader_rejects_truncated_internally_valid_reference(tmp_path):
 
     with pytest.raises(ValueError, match="expected 290 municipalities"):
         load_geography_reference(truncated)
+
+
+def test_loader_rejects_wrong_county_name_even_when_codes_and_counts_are_valid(tmp_path):
+    source = Path(__file__).resolve().parents[1] / "reference" / "swedish_admin_areas.csv"
+    mutated = tmp_path / "wrong_county_name.csv"
+    mutated.write_text(
+        source.read_text(encoding="utf-8").replace(
+            ",05,Östergötlands län",
+            ",05,Östergötland län",
+        ),
+        encoding="utf-8",
+    )
+
+    with pytest.raises(ValueError, match="county code/name mapping mismatch"):
+        load_geography_reference(mutated)
+
+
+def test_loader_rejects_wrong_municipality_code_even_when_shape_and_counts_are_valid(tmp_path):
+    source = Path(__file__).resolve().parents[1] / "reference" / "swedish_admin_areas.csv"
+    mutated = tmp_path / "wrong_municipality_code.csv"
+    mutated.write_text(
+        source.read_text(encoding="utf-8").replace(
+            "0114,Upplands Väsby,01,Stockholms län",
+            "0116,Upplands Väsby,01,Stockholms län",
+        ),
+        encoding="utf-8",
+    )
+
+    with pytest.raises(ValueError, match="expected municipality code set"):
+        load_geography_reference(mutated)
 
 
 def test_classify_location_name_exact_reference_matches(reference):
@@ -211,6 +229,71 @@ def test_resolver_api_municipality_and_different_same_county_title_municipality(
     assert result["derived_county_name"] == "Stockholms län"
 
 
+def test_resolver_api_municipality_and_same_county_title_county_keeps_municipality(reference):
+    result = resolve_event_geography(
+        make_event("Linköping", "30 juni 10.36, Sammanfattning natt, Östergötlands län"),
+        reference,
+    )
+
+    assert result["api_location_granularity"] == "municipality"
+    assert result["derived_municipality_code"] == "0580"
+    assert result["derived_municipality_name"] == "Linköping"
+    assert result["derived_county_code"] == "05"
+    assert result["derived_county_name"] == "Östergötlands län"
+
+
+def test_resolver_api_municipality_and_different_title_county_is_cross_county_conflict(reference):
+    result = resolve_event_geography(
+        make_event("Linköping", "30 juni 10.36, Sammanfattning natt, Stockholms län"),
+        reference,
+    )
+
+    assert result["api_location_granularity"] == "municipality"
+    assert result["derived_municipality_code"] is None
+    assert result["derived_municipality_name"] is None
+    assert result["derived_county_code"] is None
+    assert result["derived_county_name"] is None
+
+
+def test_resolver_api_municipality_and_cross_county_title_municipality_is_conflict(reference):
+    result = resolve_event_geography(
+        make_event("Linköping", "30 juni 10.36, Trafikolycka, Stockholm"),
+        reference,
+    )
+
+    assert result["api_location_granularity"] == "municipality"
+    assert result["derived_municipality_code"] is None
+    assert result["derived_municipality_name"] is None
+    assert result["derived_county_code"] is None
+    assert result["derived_county_name"] is None
+
+
+def test_resolver_api_county_and_different_title_county_is_cross_county_conflict(reference):
+    result = resolve_event_geography(
+        make_event("Östergötlands län", "30 juni 10.36, Sammanfattning natt, Stockholms län"),
+        reference,
+    )
+
+    assert result["api_location_granularity"] == "county"
+    assert result["derived_municipality_code"] is None
+    assert result["derived_municipality_name"] is None
+    assert result["derived_county_code"] is None
+    assert result["derived_county_name"] is None
+
+
+def test_resolver_api_county_without_title_municipality_keeps_county_only(reference):
+    result = resolve_event_geography(
+        make_event("Östergötlands län", "Title without comma"),
+        reference,
+    )
+
+    assert result["api_location_granularity"] == "county"
+    assert result["derived_municipality_code"] is None
+    assert result["derived_municipality_name"] is None
+    assert result["derived_county_code"] == "05"
+    assert result["derived_county_name"] == "Östergötlands län"
+
+
 def test_resolver_unknown_api_with_exact_title_municipality_is_accepted(reference):
     result = resolve_event_geography(
         make_event("Okänd plats", "30 juni 10.36, Trafikolycka, Linköping"),
@@ -220,6 +303,19 @@ def test_resolver_unknown_api_with_exact_title_municipality_is_accepted(referenc
     assert result["api_location_granularity"] == "unknown"
     assert result["derived_municipality_code"] == "0580"
     assert result["derived_municipality_name"] == "Linköping"
+    assert result["derived_county_code"] == "05"
+    assert result["derived_county_name"] == "Östergötlands län"
+
+
+def test_resolver_unknown_api_with_exact_title_county_derives_county_only(reference):
+    result = resolve_event_geography(
+        make_event("Okänd plats", "30 juni 10.36, Sammanfattning natt, Östergötlands län"),
+        reference,
+    )
+
+    assert result["api_location_granularity"] == "unknown"
+    assert result["derived_municipality_code"] is None
+    assert result["derived_municipality_name"] is None
     assert result["derived_county_code"] == "05"
     assert result["derived_county_name"] == "Östergötlands län"
 

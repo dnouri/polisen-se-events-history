@@ -36,18 +36,20 @@ jobs:
       - name: Get event count and date range
         id: stats
         run: |
-          # Use DuckDB to get stats from the parquet file
+          # Use DuckDB to get stats from the parquet file. Cast the date prefix before
+          # aggregation so DuckDB does not satisfy MIN/MAX from truncated Parquet
+          # VARCHAR statistics.
           STATS=$(uv run --with duckdb python -c "
           import duckdb
           conn = duckdb.connect(':memory:')
           result = conn.execute('''
               SELECT
-                  COUNT(*) as count,
-                  MIN(datetime) as min_date,
-                  MAX(datetime) as max_date
+                  COUNT(*) AS count,
+                  CAST(MIN(CAST(substr(datetime, 1, 10) AS DATE)) AS VARCHAR) AS min_date,
+                  CAST(MAX(CAST(substr(datetime, 1, 10) AS DATE)) AS VARCHAR) AS max_date
               FROM read_parquet('events.parquet')
           ''').fetchone()
-          print(f'{result[0]}|{result[1][:10]}|{result[2][:10]}')
+          print(f'{result[0]}|{result[1]}|{result[2]}')
           ")
           echo "count=$(echo $STATS | cut -d'|' -f1)" >> $GITHUB_OUTPUT
           echo "min_date=$(echo $STATS | cut -d'|' -f2)" >> $GITHUB_OUTPUT

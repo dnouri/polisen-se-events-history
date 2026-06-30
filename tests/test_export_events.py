@@ -4,19 +4,8 @@ from pathlib import Path
 import duckdb
 import pytest
 
+from export_schema import BASE_EXPORT_FIELDS, HTML_EXPORT_FIELDS, LEGACY_GEOGRAPHY_COLUMNS, PARQUET_EXPORT_SCHEMA
 from geography import GEOGRAPHY_EXPORT_FIELDS, load_geography_reference
-
-
-BASE_EXPORT_FIELDS = ["event_id", "datetime", "name", "summary", "url", "type"]
-HTML_EXPORT_FIELDS = [
-    "html_title",
-    "html_preamble",
-    "html_body",
-    "html_published_datetime",
-    "html_author",
-    "html_available",
-]
-LEGACY_GEOGRAPHY_FIELDS = {"location_name", "latitude", "longitude"}
 
 
 @pytest.fixture(scope="module")
@@ -61,9 +50,9 @@ def test_flatten_event_emits_v2_schema_and_preserves_base_and_html(exporter, ref
 
     row = exporter.flatten_event_for_export(event, reference)
 
-    assert list(row) == BASE_EXPORT_FIELDS + list(GEOGRAPHY_EXPORT_FIELDS) + HTML_EXPORT_FIELDS
+    assert list(row) == list(BASE_EXPORT_FIELDS) + list(GEOGRAPHY_EXPORT_FIELDS) + list(HTML_EXPORT_FIELDS)
     assert set(GEOGRAPHY_EXPORT_FIELDS).issubset(row)
-    assert LEGACY_GEOGRAPHY_FIELDS.isdisjoint(row)
+    assert LEGACY_GEOGRAPHY_COLUMNS.isdisjoint(row)
 
     assert row["event_id"] == "645690"
     assert row["datetime"] == event["datetime"]
@@ -123,7 +112,7 @@ def test_flatten_event_invalid_or_missing_gps_emits_null_parsed_coords(
     assert row["derived_municipality_name"] == "Linköping"
     assert row["derived_county_code"] == "05"
     assert row["derived_county_name"] == "Östergötlands län"
-    assert LEGACY_GEOGRAPHY_FIELDS.isdisjoint(row)
+    assert LEGACY_GEOGRAPHY_COLUMNS.isdisjoint(row)
 
 
 def test_export_to_parquet_preserves_literal_schema_for_sparse_all_null_derived_municipality(
@@ -166,28 +155,6 @@ def test_export_to_parquet_preserves_literal_schema_for_sparse_all_null_derived_
     finally:
         conn.close()
 
-    assert actual_schema == [
-        ("event_id", "VARCHAR"),
-        ("datetime", "VARCHAR"),
-        ("name", "VARCHAR"),
-        ("summary", "VARCHAR"),
-        ("url", "VARCHAR"),
-        ("type", "VARCHAR"),
-        ("api_location_name", "VARCHAR"),
-        ("api_location_gps", "VARCHAR"),
-        ("api_location_granularity", "VARCHAR"),
-        ("api_location_latitude", "DOUBLE"),
-        ("api_location_longitude", "DOUBLE"),
-        ("derived_municipality_code", "VARCHAR"),
-        ("derived_municipality_name", "VARCHAR"),
-        ("derived_county_code", "VARCHAR"),
-        ("derived_county_name", "VARCHAR"),
-        ("html_title", "VARCHAR"),
-        ("html_preamble", "VARCHAR"),
-        ("html_body", "VARCHAR"),
-        ("html_published_datetime", "VARCHAR"),
-        ("html_author", "VARCHAR"),
-        ("html_available", "BOOLEAN"),
-    ]
-    assert LEGACY_GEOGRAPHY_FIELDS.isdisjoint({name for name, _type in actual_schema})
+    assert actual_schema == list(PARQUET_EXPORT_SCHEMA)
+    assert LEGACY_GEOGRAPHY_COLUMNS.isdisjoint({name for name, _type in actual_schema})
     assert sparse_values == (None, None, None)

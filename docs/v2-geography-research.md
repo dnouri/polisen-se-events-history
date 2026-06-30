@@ -309,7 +309,7 @@ Do not add per-row confidence/source/notes/status fields in v2. The rule is reco
 
 ## Compatibility and release-artifact decision
 
-The chosen Phase 2 rollout is a clean breaking schema in the existing `events.parquet` release asset:
+The chosen Phase 2 rollout is a clean breaking schema in the existing `events.parquet` release asset. The public `data-latest/events.parquet` URL reflects this only after the daily release workflow regenerates and republishes the asset; immediately after code/docs merge it may still serve the previous schema.
 
 - Remove `location_name`, `latitude`, and `longitude`.
 - Add explicit `api_location_*` and `derived_*` fields in the same artifact.

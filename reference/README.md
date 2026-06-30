@@ -19,6 +19,8 @@ One row per current Swedish municipality:
 
 ## Validation and updates
 
-`geography.load_geography_reference()` validates completeness at runtime: 290 municipalities, 21 counties, and the expected SCB county-code set.
+`geography.load_geography_reference()` validates reference identity at runtime: 290 municipalities, 21 counties, the exact current 290 municipality-code set, and the exact 21 county code/name mappings.
+
+Current file SHA-256: `67231be90bf963dfaae89f70157ec41a0f35ab86ee3265feda93438dc277497e`. The default runtime reference is checked against this hash until the reference is intentionally refreshed.
 
 When SCB regional divisions change, update this CSV in the same shape, keep names/codes official, and update the expected administrative constants in `geography.py` plus the corresponding geography tests; do not change the CSV alone. Then run the geography/export tests and `scripts/validate_export_schema.py` against a generated Parquet file before publishing.

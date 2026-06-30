@@ -42,6 +42,7 @@ import duckdb
 from lxml import html as lxml_html
 from tqdm import tqdm
 
+from export_schema import PARQUET_EXPORT_COLUMNS, PARQUET_EXPORT_SCHEMA
 from geography import GeographyReference, load_geography_reference, resolve_event_geography
 
 # Configure logging
@@ -51,32 +52,6 @@ logging.basicConfig(
     datefmt='%H:%M:%S'
 )
 logger = logging.getLogger(__name__)
-
-
-PARQUET_EXPORT_SCHEMA = (
-    ("event_id", "VARCHAR"),
-    ("datetime", "VARCHAR"),
-    ("name", "VARCHAR"),
-    ("summary", "VARCHAR"),
-    ("url", "VARCHAR"),
-    ("type", "VARCHAR"),
-    ("api_location_name", "VARCHAR"),
-    ("api_location_gps", "VARCHAR"),
-    ("api_location_granularity", "VARCHAR"),
-    ("api_location_latitude", "DOUBLE"),
-    ("api_location_longitude", "DOUBLE"),
-    ("derived_municipality_code", "VARCHAR"),
-    ("derived_municipality_name", "VARCHAR"),
-    ("derived_county_code", "VARCHAR"),
-    ("derived_county_name", "VARCHAR"),
-    ("html_title", "VARCHAR"),
-    ("html_preamble", "VARCHAR"),
-    ("html_body", "VARCHAR"),
-    ("html_published_datetime", "VARCHAR"),
-    ("html_author", "VARCHAR"),
-    ("html_available", "BOOLEAN"),
-)
-PARQUET_EXPORT_COLUMNS = tuple(column for column, _type in PARQUET_EXPORT_SCHEMA)
 
 
 def extract_html_data(html_path: Path) -> dict:
