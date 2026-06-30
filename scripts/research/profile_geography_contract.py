@@ -30,6 +30,7 @@ import math
 import os
 import re
 import subprocess
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
@@ -43,6 +44,7 @@ DEFAULT_BOUNDARIES = DEFAULT_CRIMECITY_ROOT / "data" / "municipalities" / "bound
 DEFAULT_POPULATION = DEFAULT_CRIMECITY_ROOT / "data" / "municipalities" / "population.csv"
 DEFAULT_RAW_EVENTS_JSON = REPO_ROOT / "events.json"
 DEFAULT_OUTPUT_DIR = REPO_ROOT / "tmp" / "geography-profile"
+DEFAULT_EXPECTED_MANIFEST = REPO_ROOT / "docs" / "v2-geography-profile-manifest.json"
 
 # Spike-only county names/codes, manually inlined from SCB's official current
 # county-code set ("Län och kommuner i kodnummerordning" / regional divisions;
@@ -114,6 +116,47 @@ def quarter_key(datetime_value: str | None) -> str:
     return f"{year}-Q{math.ceil(month / 3)}"
 
 
+def datetime_sort_key(datetime_value: str | None) -> tuple[int, int, int, int, int, int, str]:
+    """Return a stable sortable key for Police API datetime strings."""
+
+    text = datetime_value or ""
+    match = re.match(r"^(\d{4})-(\d{2})-(\d{2})\s+(\d{1,2}):(\d{2}):(\d{2})", text)
+    if not match:
+        return (0, 0, 0, 0, 0, 0, text)
+    year, month, day, hour, minute, second = (int(group) for group in match.groups())
+    return (year, month, day, hour, minute, second, text)
+
+
+def numeric_id(value: Any) -> int | None:
+    try:
+        return int(str(value))
+    except (TypeError, ValueError):
+        return None
+
+
+def dataset_cutoffs(rows: list[dict[str, Any]], id_key: str, datetime_key: str) -> dict[str, Any]:
+    """Summarize which moving data snapshot a profile used."""
+
+    if not rows:
+        return {
+            "row_count": 0,
+            "min_datetime": None,
+            "max_datetime": None,
+            "min_event_id": None,
+            "max_event_id": None,
+        }
+
+    ids = [event_id for row in rows if (event_id := numeric_id(row.get(id_key))) is not None]
+    datetime_values = [row.get(datetime_key) or "" for row in rows if row.get(datetime_key)]
+    return {
+        "row_count": len(rows),
+        "min_datetime": min(datetime_values, key=datetime_sort_key) if datetime_values else None,
+        "max_datetime": max(datetime_values, key=datetime_sort_key) if datetime_values else None,
+        "min_event_id": min(ids) if ids else None,
+        "max_event_id": max(ids) if ids else None,
+    }
+
+
 def sql_path(path: Path) -> str:
     return str(path).replace("'", "''")
 
@@ -171,13 +214,14 @@ def git_info_for_path(path: Path) -> dict[str, Any] | None:
 
     root = Path(root_text)
     head = git_output(root, "rev-parse", "HEAD")
-    tracked_status = git_output(root, "status", "--short", "--untracked-files=no") or ""
     rel_to_root = os.path.relpath(path.resolve(strict=False), root)
     path_status = git_output(root, "status", "--short", "--untracked-files=all", "--", rel_to_root) or ""
     return {
         "root": portable_path(root),
         "head": head,
-        "tracked_dirty": bool(tracked_status),
+        # Path-specific dirtiness matters here; unrelated dirty files in a sibling
+        # checkout should not make the recorded input snapshot look modified.
+        "tracked_dirty": bool(path_status),
         "path_status": path_status,
     }
 
@@ -399,13 +443,15 @@ def load_raw_events_window(raw_events_path: Path, reference: dict[str, Any]) -> 
     with raw_events_path.open("r", encoding="utf-8") as f:
         events = json.load(f)
 
+    raw_events = events if isinstance(events, list) else []
     granularity_counts: Counter[str] = Counter()
     gps_missing = 0
     gps_invalid = 0
     with_gps = 0
     samples: list[dict[str, Any]] = []
+    cutoff_rows: list[dict[str, Any]] = []
 
-    for event in events if isinstance(events, list) else []:
+    for event in raw_events:
         location = event.get("location") or {}
         location_name = location.get("name") or ""
         gps = location.get("gps") or ""
@@ -417,6 +463,7 @@ def load_raw_events_window(raw_events_path: Path, reference: dict[str, Any]) -> 
                 gps_invalid += 1
         else:
             gps_missing += 1
+        cutoff_rows.append({"event_id": event.get("id"), "datetime": event.get("datetime")})
         if len(samples) < 5:
             samples.append(
                 {
@@ -432,7 +479,8 @@ def load_raw_events_window(raw_events_path: Path, reference: dict[str, Any]) -> 
     return {
         "available": True,
         "path": portable_path(raw_events_path),
-        "event_count": len(events) if isinstance(events, list) else 0,
+        "event_count": len(raw_events),
+        "cutoffs": dataset_cutoffs(cutoff_rows, "event_id", "datetime"),
         "with_location_gps": with_gps,
         "missing_location_gps": gps_missing,
         "invalid_location_gps": gps_invalid,
@@ -457,6 +505,8 @@ def empty_stats() -> dict[str, int]:
         "cross_county_conflicts": 0,
         "api_municipality_title_mismatch_same_county": 0,
         "api_municipality_title_mismatch_different_county": 0,
+        "api_municipality_title_county_same_county": 0,
+        "api_municipality_title_county_different_county": 0,
         "api_county_title_municipality_conflict": 0,
     }
 
@@ -480,6 +530,10 @@ def apply_stat(stats: dict[str, int], record: dict[str, Any]) -> None:
         stats["api_municipality_title_mismatch_same_county"] += 1
     if record["api_municipality_title_mismatch_different_county"]:
         stats["api_municipality_title_mismatch_different_county"] += 1
+    if record["api_municipality_title_county_same_county"]:
+        stats["api_municipality_title_county_same_county"] += 1
+    if record["api_municipality_title_county_different_county"]:
+        stats["api_municipality_title_county_different_county"] += 1
     if record["api_county_title_municipality_conflict"]:
         stats["api_county_title_municipality_conflict"] += 1
 
@@ -503,6 +557,8 @@ def classify_records(events: list[dict[str, Any]], reference: dict[str, Any]) ->
         api_county_title_municipality_conflict = False
         api_municipality_title_mismatch_same_county = False
         api_municipality_title_mismatch_different_county = False
+        api_municipality_title_county_same_county = False
+        api_municipality_title_county_different_county = False
 
         if raw["granularity"] == "municipality":
             raw_county_code = raw["county_code"]
@@ -518,6 +574,20 @@ def classify_records(events: list[dict[str, Any]], reference: dict[str, Any]) ->
                     api_municipality_title_mismatch_different_county = True
                     cross_county_conflict = True
                     validation_status = "api_municipality_title_mismatch_different_county"
+            elif title["granularity"] == "county":
+                if title["code"] == raw_county_code:
+                    api_municipality_title_county_same_county = True
+                    derived_municipality_code = raw["code"]
+                    derived_municipality_name = raw["name"]
+                    derived_county_code = raw_county_code
+                    derived_county_name = raw_county_name
+                    derivation_rule = "api_location_municipality"
+                    validation_status = "accepted_api_municipality_title_county_same_county"
+                else:
+                    api_municipality_title_county_different_county = True
+                    cross_county_conflict = True
+                    validation_status = "api_municipality_title_county_conflict"
+                    # Leave unresolved: municipality and title county contradict.
             else:
                 derived_municipality_code = raw["code"]
                 derived_municipality_name = raw["name"]
@@ -599,6 +669,8 @@ def classify_records(events: list[dict[str, Any]], reference: dict[str, Any]) ->
             "api_county_title_municipality_conflict": api_county_title_municipality_conflict,
             "api_municipality_title_mismatch_same_county": api_municipality_title_mismatch_same_county,
             "api_municipality_title_mismatch_different_county": api_municipality_title_mismatch_different_county,
+            "api_municipality_title_county_same_county": api_municipality_title_county_same_county,
+            "api_municipality_title_county_different_county": api_municipality_title_county_different_county,
         }
         records.append(record)
 
@@ -744,6 +816,7 @@ def render_stats_row(label: str, stats: dict[str, int]) -> list[Any]:
 def render_markdown(
     inputs: dict[str, str],
     input_provenance: dict[str, dict[str, Any]],
+    data_cutoffs: dict[str, Any],
     reference: dict[str, Any],
     raw_window: dict[str, Any],
     aggregate_result: dict[str, Any],
@@ -787,10 +860,26 @@ def render_markdown(
         )
     lines.append(
         markdown_table(
-            ["Input", "Path", "Size bytes", "SHA-256", "Git repo", "Git HEAD", "Tracked dirty?", "Path status"],
+            ["Input", "Path", "Size bytes", "SHA-256", "Git repo", "Git HEAD", "Path dirty?", "Path status"],
             provenance_rows,
         )
     )
+
+    lines.append("## Data cutoffs\n")
+    cutoff_rows = []
+    for key, cutoff in data_cutoffs.items():
+        cutoff = cutoff or {}
+        cutoff_rows.append(
+            [
+                key,
+                cutoff.get("row_count", ""),
+                cutoff.get("min_datetime", ""),
+                cutoff.get("max_datetime", ""),
+                cutoff.get("min_event_id", ""),
+                cutoff.get("max_event_id", ""),
+            ]
+        )
+    lines.append(markdown_table(["Input", "Rows", "Min datetime", "Max datetime", "Min event id", "Max event id"], cutoff_rows))
 
     lines.append("## Reference checks\n")
     lines.append(
@@ -974,6 +1063,11 @@ def render_markdown(
                 ],
             )
         )
+        lines.append(
+            "This checks only the current raw API window. Full-history raw `location.gps` validity is not proven by "
+            "the v1 parquet because that export preserved only parsed latitude/longitude; Phase 2 must preserve "
+            "the raw GPS string directly while flattening raw JSON.\n"
+        )
 
     lines.append("## Accepted raw-county/title-municipality examples\n")
     lines.append(example_table(examples["accepted_county_title_municipality_examples"]))
@@ -1026,6 +1120,277 @@ def example_table(examples: list[dict[str, Any]]) -> str:
     )
 
 
+def self_check_reference() -> dict[str, Any]:
+    counties = (
+        {"code": "01", "name": "One län"},
+        {"code": "02", "name": "Two län"},
+    )
+    municipalities = [
+        {"code": "0101", "name": "Alpha", "county_code": "01", "county_name": "One län"},
+        {"code": "0102", "name": "Beta", "county_code": "01", "county_name": "One län"},
+        {"code": "0201", "name": "Gamma", "county_code": "02", "county_name": "Two län"},
+    ]
+    return {
+        "municipalities": municipalities,
+        "counties": list(counties),
+        "municipality_by_norm": {normalize_name(item["name"]): item for item in municipalities},
+        "municipality_by_code": {item["code"]: item for item in municipalities},
+        "county_by_norm": {normalize_name(item["name"]): dict(item) for item in counties},
+        "county_by_code": {item["code"]: dict(item) for item in counties},
+        "checks": {},
+    }
+
+
+def synthetic_event(raw_location: str, title_suffix: str) -> dict[str, Any]:
+    return {
+        "event_id": "1",
+        "datetime": "2026-01-01 00:00:00 +01:00",
+        "name": f"1 januari 00.00, Test, {title_suffix}",
+        "summary": "",
+        "url": "",
+        "type": "Test",
+        "location_name": raw_location,
+        "latitude": None,
+        "longitude": None,
+    }
+
+
+def run_self_checks() -> int:
+    """Table-driven checks for the API-granularity/title-granularity matrix."""
+
+    reference = self_check_reference()
+    cases = [
+        {
+            "name": "api municipality + same title municipality",
+            "raw": "Alpha",
+            "suffix": "Alpha",
+            "derived_municipality": "0101",
+            "derived_county": "01",
+            "status": "accepted_api_municipality",
+            "conflict": False,
+        },
+        {
+            "name": "api municipality + different title municipality in same county",
+            "raw": "Alpha",
+            "suffix": "Beta",
+            "derived_municipality": None,
+            "derived_county": "01",
+            "status": "api_municipality_title_mismatch_same_county",
+            "conflict": False,
+        },
+        {
+            "name": "api municipality + title municipality in different county",
+            "raw": "Alpha",
+            "suffix": "Gamma",
+            "derived_municipality": None,
+            "derived_county": None,
+            "status": "api_municipality_title_mismatch_different_county",
+            "conflict": True,
+        },
+        {
+            "name": "api municipality + same title county",
+            "raw": "Alpha",
+            "suffix": "One län",
+            "derived_municipality": "0101",
+            "derived_county": "01",
+            "status": "accepted_api_municipality_title_county_same_county",
+            "conflict": False,
+        },
+        {
+            "name": "api municipality + different title county",
+            "raw": "Alpha",
+            "suffix": "Two län",
+            "derived_municipality": None,
+            "derived_county": None,
+            "status": "api_municipality_title_county_conflict",
+            "conflict": True,
+        },
+        {
+            "name": "api municipality + unknown title suffix",
+            "raw": "Alpha",
+            "suffix": "Nowhere",
+            "derived_municipality": "0101",
+            "derived_county": "01",
+            "status": "accepted_api_municipality",
+            "conflict": False,
+        },
+        {
+            "name": "api county + title municipality in same county",
+            "raw": "One län",
+            "suffix": "Alpha",
+            "derived_municipality": "0101",
+            "derived_county": "01",
+            "status": "accepted_title_municipality_within_api_county",
+            "conflict": False,
+        },
+        {
+            "name": "api county + title municipality in different county",
+            "raw": "One län",
+            "suffix": "Gamma",
+            "derived_municipality": None,
+            "derived_county": None,
+            "status": "api_county_title_municipality_conflict",
+            "conflict": True,
+        },
+        {
+            "name": "api county + same title county",
+            "raw": "One län",
+            "suffix": "One län",
+            "derived_municipality": None,
+            "derived_county": "01",
+            "status": "title_county_matches_api_county",
+            "conflict": False,
+        },
+        {
+            "name": "api county + different title county",
+            "raw": "One län",
+            "suffix": "Two län",
+            "derived_municipality": None,
+            "derived_county": None,
+            "status": "title_county_differs_from_api_county",
+            "conflict": True,
+        },
+        {
+            "name": "api county + unknown title suffix",
+            "raw": "One län",
+            "suffix": "Nowhere",
+            "derived_municipality": None,
+            "derived_county": "01",
+            "status": "api_county_no_title_municipality",
+            "conflict": False,
+        },
+        {
+            "name": "api unknown + title municipality",
+            "raw": "Mystery",
+            "suffix": "Alpha",
+            "derived_municipality": "0101",
+            "derived_county": "01",
+            "status": "accepted_title_municipality_api_unknown",
+            "conflict": False,
+        },
+        {
+            "name": "api unknown + title county",
+            "raw": "Mystery",
+            "suffix": "One län",
+            "derived_municipality": None,
+            "derived_county": "01",
+            "status": "accepted_title_county_api_unknown",
+            "conflict": False,
+        },
+        {
+            "name": "api unknown + unknown title suffix",
+            "raw": "Mystery",
+            "suffix": "Nowhere",
+            "derived_municipality": None,
+            "derived_county": None,
+            "status": "unresolved_api_and_title_unknown",
+            "conflict": False,
+        },
+    ]
+
+    for case in cases:
+        record = classify_records([synthetic_event(case["raw"], case["suffix"])], reference)[0]
+        actual = {
+            "derived_municipality": record["derived_municipality_code"],
+            "derived_county": record["derived_county_code"],
+            "status": record["validation_status"],
+            "conflict": record["cross_county_conflict"],
+        }
+        expected = {
+            "derived_municipality": case["derived_municipality"],
+            "derived_county": case["derived_county"],
+            "status": case["status"],
+            "conflict": case["conflict"],
+        }
+        if actual != expected:
+            raise AssertionError(f"self-check failed for {case['name']}: expected {expected}, got {actual}")
+
+    return len(cases)
+
+
+def build_manifest(json_summary: dict[str, Any]) -> dict[str, Any]:
+    profile = json_summary["profile"]
+    return {
+        "schema_version": 1,
+        "generated_by": json_summary["run_context"]["script"],
+        "inputs": json_summary["inputs"],
+        "input_provenance": json_summary["input_provenance"],
+        "data_cutoffs": json_summary["data_cutoffs"],
+        "reference_checks": json_summary["reference"]["checks"],
+        "current_raw_events_window": {
+            "event_count": json_summary["current_raw_events_window"].get("event_count"),
+            "with_location_gps": json_summary["current_raw_events_window"].get("with_location_gps"),
+            "missing_location_gps": json_summary["current_raw_events_window"].get("missing_location_gps"),
+            "invalid_location_gps": json_summary["current_raw_events_window"].get("invalid_location_gps"),
+            "api_location_granularity_counts": json_summary["current_raw_events_window"].get(
+                "api_location_granularity_counts"
+            ),
+        },
+        "profile": {
+            "overall": profile["overall"],
+            "summary_split": profile["summary_split"],
+            "cross_api_title": profile["cross_api_title"],
+            "derivation_rules": profile["derivation_rules"],
+            "validation_statuses": profile["validation_statuses"],
+        },
+    }
+
+
+def compare_manifest(current: dict[str, Any], expected: dict[str, Any]) -> list[str]:
+    mismatches: list[str] = []
+
+    for input_name, metadata in current.get("input_provenance", {}).items():
+        expected_metadata = expected.get("input_provenance", {}).get(input_name)
+        if not expected_metadata:
+            mismatches.append(f"input {input_name!r} is missing from expected manifest")
+            continue
+        for field in ("sha256", "size_bytes"):
+            if metadata.get(field) != expected_metadata.get(field):
+                mismatches.append(
+                    f"input {input_name!r} {field} differs: expected {expected_metadata.get(field)!r}, "
+                    f"got {metadata.get(field)!r}"
+                )
+
+    for cutoff_name, cutoff in current.get("data_cutoffs", {}).items():
+        expected_cutoff = expected.get("data_cutoffs", {}).get(cutoff_name)
+        if cutoff != expected_cutoff:
+            mismatches.append(f"data cutoff {cutoff_name!r} differs: expected {expected_cutoff!r}, got {cutoff!r}")
+
+    for field in ("reference_checks", "current_raw_events_window"):
+        if current.get(field) != expected.get(field):
+            mismatches.append(f"{field} differs from expected manifest")
+
+    for field in ("overall", "summary_split", "cross_api_title", "derivation_rules", "validation_statuses"):
+        current_value = current.get("profile", {}).get(field)
+        expected_value = expected.get("profile", {}).get(field)
+        if current_value != expected_value:
+            mismatches.append(f"profile.{field} differs from expected manifest")
+
+    return mismatches
+
+
+def load_manifest(path: Path) -> dict[str, Any] | None:
+    if not path.exists():
+        return None
+    with path.open("r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def warn_or_fail_manifest_mismatches(path: Path, mismatches: list[str], strict: bool) -> int:
+    if not mismatches:
+        print(f"manifest check: {portable_path(path)} matches")
+        return 0
+
+    print(
+        f"WARNING: current inputs/results differ from expected manifest {portable_path(path)}.",
+        file=sys.stderr,
+    )
+    print("This usually means the moving data snapshot changed; update the research report/manifest if intentional.", file=sys.stderr)
+    for mismatch in mismatches:
+        print(f"- {mismatch}", file=sys.stderr)
+    return 1 if strict else 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--events-parquet", type=Path, default=DEFAULT_EVENTS_PARQUET)
@@ -1035,7 +1400,17 @@ def main() -> int:
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
     parser.add_argument("--json-out", type=Path, default=None)
     parser.add_argument("--markdown-out", type=Path, default=None)
+    parser.add_argument("--manifest-out", type=Path, default=None)
+    parser.add_argument("--expected-manifest", type=Path, default=DEFAULT_EXPECTED_MANIFEST)
+    parser.add_argument("--no-expected-manifest", action="store_true")
+    parser.add_argument("--strict-provenance", action="store_true")
+    parser.add_argument("--self-check", action="store_true", help="Run table-driven classification self-checks and exit")
     args = parser.parse_args()
+
+    self_check_count = run_self_checks()
+    if args.self_check:
+        print(f"self-checks: {self_check_count} passed")
+        return 0
 
     output_dir = args.output_dir
     json_out = args.json_out or output_dir / "summary.json"
@@ -1047,6 +1422,10 @@ def main() -> int:
     aggregate_result = aggregate(records)
     examples = choose_examples(records)
     raw_window = load_raw_events_window(args.raw_events_json, reference)
+    data_cutoffs = {
+        "full_export_parquet": dataset_cutoffs(events, "event_id", "datetime"),
+        "current_raw_events_window": raw_window.get("cutoffs") if raw_window.get("available") else None,
+    }
 
     inputs = {
         "events_parquet": portable_path(args.events_parquet),
@@ -1067,6 +1446,7 @@ def main() -> int:
     json_summary = {
         "inputs": inputs,
         "input_provenance": input_provenance,
+        "data_cutoffs": data_cutoffs,
         "run_context": {
             "script": portable_path(Path(__file__)),
             "repo_root": portable_path(REPO_ROOT),
@@ -1088,13 +1468,38 @@ def main() -> int:
         "examples": examples,
     }
 
-    markdown = render_markdown(inputs, input_provenance, reference, raw_window, aggregate_result, examples)
+    markdown = render_markdown(inputs, input_provenance, data_cutoffs, reference, raw_window, aggregate_result, examples)
+    manifest = build_manifest(json_summary)
+
+    expected_manifest_path = None if args.no_expected_manifest else args.expected_manifest
+    manifest_status = 0
+    if expected_manifest_path and expected_manifest_path.exists():
+        expected_manifest = load_manifest(expected_manifest_path)
+        if expected_manifest is not None:
+            manifest_status = warn_or_fail_manifest_mismatches(
+                expected_manifest_path,
+                compare_manifest(manifest, expected_manifest),
+                args.strict_provenance,
+            )
+    elif expected_manifest_path:
+        message = f"expected manifest {portable_path(expected_manifest_path)} does not exist"
+        if args.strict_provenance:
+            print(f"ERROR: {message}; strict provenance requires it.", file=sys.stderr)
+            manifest_status = 1
+        else:
+            print(f"WARNING: {message}; skipping manifest comparison.", file=sys.stderr)
 
     output_dir.mkdir(parents=True, exist_ok=True)
     json_out.parent.mkdir(parents=True, exist_ok=True)
     markdown_out.parent.mkdir(parents=True, exist_ok=True)
     json_out.write_text(json.dumps(json_summary, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     markdown_out.write_text(markdown, encoding="utf-8")
+    if args.manifest_out:
+        args.manifest_out.parent.mkdir(parents=True, exist_ok=True)
+        args.manifest_out.write_text(
+            json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
+            encoding="utf-8",
+        )
 
     overall = aggregate_result["overall"]
     print(f"events: {overall['total']:,}")
@@ -1104,9 +1509,12 @@ def main() -> int:
     print(f"prospective derived municipality: {overall['prospective_derived_municipality']:,}")
     print(f"unresolved municipality: {overall['unresolved_municipality']:,}")
     print(f"cross-county conflicts: {overall['cross_county_conflicts']:,}")
+    print(f"self-checks: {self_check_count} passed")
     print(f"wrote: {portable_path(json_out)}")
     print(f"wrote: {portable_path(markdown_out)}")
-    return 0
+    if args.manifest_out:
+        print(f"wrote: {portable_path(args.manifest_out)}")
+    return manifest_status
 
 
 if __name__ == "__main__":

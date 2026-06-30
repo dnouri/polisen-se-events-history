@@ -1,0 +1,202 @@
+{
+  "current_raw_events_window": {
+    "api_location_granularity_counts": {
+      "county": 500
+    },
+    "event_count": 500,
+    "invalid_location_gps": 0,
+    "missing_location_gps": 0,
+    "with_location_gps": 500
+  },
+  "data_cutoffs": {
+    "current_raw_events_window": {
+      "max_datetime": "2026-06-30 10:57:12 +02:00",
+      "max_event_id": 645690,
+      "min_datetime": "2026-06-19 20:50:07 +02:00",
+      "min_event_id": 643372,
+      "row_count": 500
+    },
+    "full_export_parquet": {
+      "max_datetime": "2026-06-30 7:32:17 +02:00",
+      "max_event_id": 645625,
+      "min_datetime": "2022-09-26 15:55:23 +02:00",
+      "min_event_id": 371971,
+      "row_count": 81946
+    }
+  },
+  "generated_by": "scripts/research/profile_geography_contract.py",
+  "input_provenance": {
+    "boundaries": {
+      "exists": true,
+      "git": {
+        "head": "2fd6066a3dd2bd29bb3e1255130bca3ce5a6c53c",
+        "path_status": "",
+        "root": "../crimecity3k",
+        "tracked_dirty": false
+      },
+      "path": "../crimecity3k/data/municipalities/boundaries.geojson",
+      "sha256": "5b65a1b22e3dd34731a1c1a4ec0ccd09c36ebb4da36e1d9e56d72fac04cfe25a",
+      "size_bytes": 1979751
+    },
+    "events_parquet": {
+      "exists": true,
+      "git": {
+        "head": "2fd6066a3dd2bd29bb3e1255130bca3ce5a6c53c",
+        "path_status": "",
+        "root": "../crimecity3k",
+        "tracked_dirty": false
+      },
+      "path": "../crimecity3k/data/events.parquet",
+      "sha256": "172684e33024a8050514e6a03bced421214cca89b7118a230a68b6cbf7865bf3",
+      "size_bytes": 13340714
+    },
+    "population": {
+      "exists": true,
+      "git": {
+        "head": "2fd6066a3dd2bd29bb3e1255130bca3ce5a6c53c",
+        "path_status": "",
+        "root": "../crimecity3k",
+        "tracked_dirty": false
+      },
+      "path": "../crimecity3k/data/municipalities/population.csv",
+      "sha256": "df002b4dff7b70ca33970b7d36ad7177df5a734ab00e0eca76e4c2f303e9f0c3",
+      "size_bytes": 5772
+    },
+    "raw_events_json": {
+      "exists": true,
+      "git": {
+        "head": "bb6b2b36742dfcb8b8d67c9a754ff5a261a2bb4c",
+        "path_status": "",
+        "root": ".",
+        "tracked_dirty": false
+      },
+      "path": "events.json",
+      "sha256": "5788d9cf164d3f7f0dbf1fcd1b4d2183af244ccc58907e2dc976869276e48df6",
+      "size_bytes": 206295
+    }
+  },
+  "inputs": {
+    "boundaries": "../crimecity3k/data/municipalities/boundaries.geojson",
+    "events_parquet": "../crimecity3k/data/events.parquet",
+    "output_dir": "tmp/geography-profile",
+    "population": "../crimecity3k/data/municipalities/population.csv",
+    "raw_events_json": "events.json"
+  },
+  "profile": {
+    "cross_api_title": {
+      "api=county|title=county": 21670,
+      "api=county|title=municipality": 7265,
+      "api=county|title=unknown": 2,
+      "api=municipality|title=municipality": 53009
+    },
+    "derivation_rules": {
+      "api_location_municipality": 53008,
+      "title_municipality_validated_by_api_county": 7265,
+      "unresolved": 21673
+    },
+    "overall": {
+      "api_county": 28937,
+      "api_county_title_municipality_conflict": 0,
+      "api_municipality": 53009,
+      "api_municipality_title_county_different_county": 0,
+      "api_municipality_title_county_same_county": 0,
+      "api_municipality_title_mismatch_different_county": 0,
+      "api_municipality_title_mismatch_same_county": 1,
+      "api_unknown": 0,
+      "cross_county_conflicts": 0,
+      "non_summary": 67992,
+      "prospective_derived_municipality": 60273,
+      "summary": 13954,
+      "title_county": 21670,
+      "title_municipality": 60274,
+      "title_unknown": 2,
+      "total": 81946,
+      "unresolved_municipality": 21673
+    },
+    "summary_split": {
+      "non_summary": {
+        "api_county": 15021,
+        "api_county_title_municipality_conflict": 0,
+        "api_municipality": 52971,
+        "api_municipality_title_county_different_county": 0,
+        "api_municipality_title_county_same_county": 0,
+        "api_municipality_title_mismatch_different_county": 0,
+        "api_municipality_title_mismatch_same_county": 1,
+        "api_unknown": 0,
+        "cross_county_conflicts": 0,
+        "non_summary": 67992,
+        "prospective_derived_municipality": 60231,
+        "summary": 0,
+        "title_county": 7758,
+        "title_municipality": 60232,
+        "title_unknown": 2,
+        "total": 67992,
+        "unresolved_municipality": 7761
+      },
+      "summary": {
+        "api_county": 13916,
+        "api_county_title_municipality_conflict": 0,
+        "api_municipality": 38,
+        "api_municipality_title_county_different_county": 0,
+        "api_municipality_title_county_same_county": 0,
+        "api_municipality_title_mismatch_different_county": 0,
+        "api_municipality_title_mismatch_same_county": 0,
+        "api_unknown": 0,
+        "cross_county_conflicts": 0,
+        "non_summary": 0,
+        "prospective_derived_municipality": 42,
+        "summary": 13954,
+        "title_county": 13912,
+        "title_municipality": 42,
+        "title_unknown": 0,
+        "total": 13954,
+        "unresolved_municipality": 13912
+      }
+    },
+    "validation_statuses": {
+      "accepted_api_municipality": 53008,
+      "accepted_title_municipality_within_api_county": 7265,
+      "api_county_no_title_municipality": 2,
+      "api_municipality_title_mismatch_same_county": 1,
+      "title_county_matches_api_county": 21670
+    }
+  },
+  "reference_checks": {
+    "boundaries_feature_count": 290,
+    "boundary_codes_missing_in_population": [],
+    "boundary_county_codes": [
+      "01",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "12",
+      "13",
+      "14",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "boundary_population_name_mismatches_normalized": [],
+    "county_codes_missing_in_static_table": [],
+    "county_count": 21,
+    "duplicate_normalized_county_names": {},
+    "duplicate_normalized_municipality_names": {},
+    "municipality_code_prefix_mismatches": [],
+    "municipality_county_name_collisions": [],
+    "population_codes_missing_in_boundaries": [],
+    "population_row_count": 290,
+    "static_county_codes_not_used_by_boundaries": []
+  },
+  "schema_version": 1
+}
