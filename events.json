@@ -1,5 +1,101 @@
 [
   {
+    "id": 645690,
+    "datetime": "2026-06-30 10:57:12 +02:00",
+    "name": "30 juni 10.36, Trafikolycka, Mariestad",
+    "summary": "Larm inkommer via SOS om en singelolycka på E20.",
+    "url": "/aktuellt/handelser/2026/juni/30/30-juni-10.36-trafikolycka-mariestad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 645630,
+    "datetime": "2026-06-30 9:36:12 +02:00",
+    "name": "30 juni 08.11, Försvunnen person, Västerås",
+    "summary": "Polisen söker försvunnen äldre kvinna.",
+    "url": "/aktuellt/handelser/2026/juni/30/30-juni-08.11-forsvunnen-person-vasteras/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 645663,
+    "datetime": "2026-06-30 10:41:07 +02:00",
+    "name": "30 juni 09.39, Stöld, Norrköping",
+    "summary": "Tre gripna efter misstänkt stöld.",
+    "url": "/aktuellt/handelser/2026/juni/30/30-juni-09.39-stold-norrkoping/",
+    "type": "Stöld",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 645605,
+    "datetime": "2026-06-30 6:45:31 +02:00",
+    "name": "30 juni 06.45, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
+    "url": "/aktuellt/handelser/2026/juni/30/30-juni-06.45-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 645652,
+    "datetime": "2026-06-30 10:15:26 +02:00",
+    "name": "30 juni 08.45, Stöld/inbrott, Kungsbacka",
+    "summary": "Inringare larmar om ett pågående misstänkt inbrott mot en villa i Åsa.",
+    "url": "/aktuellt/handelser/2026/juni/30/30-juni-08.45-stoldinbrott-kungsbacka/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 645633,
+    "datetime": "2026-06-30 9:40:25 +02:00",
+    "name": "30 juni 08.34, Brand, Umeå",
+    "summary": "Brand på industri i Obbola, Umeå.",
+    "url": "/aktuellt/handelser/2026/juni/30/30-juni-08.34-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 645629,
+    "datetime": "2026-06-30 9:25:20 +02:00",
+    "name": "30 juni 09.17, Trafikolycka, Hässleholm",
+    "summary": "Singelolycka på Södra Kringelvägen.",
+    "url": "/aktuellt/handelser/2026/juni/30/30-juni-09.17-trafikolycka-hassleholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 645626,
+    "datetime": "2026-06-30 7:53:20 +02:00",
+    "name": "30 juni 21.29, Olaga hot, Gävle",
+    "summary": "Hotade exflickvännens nya pojkvän.",
+    "url": "/aktuellt/handelser/2026/juni/30/30-juni-21.29-olaga-hot-gavle/",
+    "type": "Olaga hot",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
     "id": 645625,
     "datetime": "2026-06-30 7:32:17 +02:00",
     "name": "30 juni 06.45, Trafikolycka, Linköping",
@@ -201,18 +297,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 645605,
-    "datetime": "2026-06-30 6:45:31 +02:00",
-    "name": "30 juni 06.45, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet i Jämtlands län.",
-    "url": "/aktuellt/handelser/2026/juni/30/30-juni-06.45-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Kalmar län",
       "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 643603,
-    "datetime": "2026-06-22 23:25:51 +02:00",
-    "name": "22 juni 23.20, Försvunnen person, Blekinge län",
-    "summary": "Försvunnen person Olofström",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-23.20-forsvunnen-person-blekinge-lan/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 643598,
-    "datetime": "2026-06-22 21:26:20 +02:00",
-    "name": "22 juni 19.31, Försvunnen person, Olofström",
-    "summary": "Försvunnen man, Olofström.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-19.31-forsvunnen-person-olofstrom/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 643601,
-    "datetime": "2026-06-22 21:51:02 +02:00",
-    "name": "22 juni 21.50, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-21.50-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 643602,
-    "datetime": "2026-06-22 21:50:56 +02:00",
-    "name": "22 juni 21.50, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-21.50-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 643575,
-    "datetime": "2026-06-22 18:37:31 +02:00",
-    "name": "22 juni 18.26, Trafikolycka, Ljungby",
-    "summary": "Cyklist och personbil i olycka, Hjortsberg.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-18.26-trafikolycka-ljungby/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 643600,
-    "datetime": "2026-06-22 21:40:00 +02:00",
-    "name": "22 juni 20.00, Brand, Gällivare",
-    "summary": "Det inkommer ett larm om brand i ett hus i Koskullskulle.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-20.00-brand-gallivare/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 643594,
-    "datetime": "2026-06-22 20:49:49 +02:00",
-    "name": "22 juni 20.31, Trafikbrott, Lomma",
-    "summary": "Buskörning, Lomma.",
-    "url": "/aktuellt/handelser/2026/juni/22/22-juni-20.31-trafikbrott-lomma/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
