@@ -1,6 +1,6 @@
 # Swedish Police Events Archive
 
-68,000+ Swedish police events (2022-2025) queryable directly via DuckDB - no download required.
+81,000+ Swedish police events (2022-2026) queryable directly via DuckDB - no download required.
 
 [![Latest Scrape](https://github.com/dnouri/polisen-se-events-history/workflows/Scrape%20latest%20data/badge.svg)](https://github.com/dnouri/polisen-se-events-history/actions)
 
@@ -8,7 +8,7 @@
 
 ## Query Now
 
-Analyze 2+ years of Swedish crime data directly from your terminal:
+Analyze 3+ years of Swedish crime data directly from your terminal:
 
 ```sql
 -- Top event types (run with: duckdb -c "...")
@@ -21,20 +21,20 @@ GROUP BY type ORDER BY count DESC LIMIT 10;
 ┌───────────────────────────┬───────┐
 │           type            │ count │
 ├───────────────────────────┼───────┤
-│ Trafikolycka              │ 10434 │
-│ Sammanfattning natt       │ 10092 │
-│ Brand                     │  4407 │
-│ Trafikkontroll            │  4068 │
-│ Rattfylleri               │  4001 │
-│ Misshandel                │  3124 │
-│ Stöld                     │  2497 │
-│ Trafikolycka, personskada │  2095 │
+│ Trafikolycka              │ 12738 │
+│ Sammanfattning natt       │ 12337 │
+│ Brand                     │  5357 │
+│ Rattfylleri               │  4842 │
+│ Trafikkontroll            │  4793 │
+│ Övrigt                    │  4674 │
+│ Misshandel                │  3821 │
+│ Stöld                     │  2911 │
 │ ...                       │   ... │
 └───────────────────────────┴───────┘
 ```
 
 ```sql
--- Traffic accidents by city
+-- Traffic accidents by API location (municipality or county)
 SELECT location_name, COUNT(*) as accidents
 FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
 WHERE type = 'Trafikolycka'
@@ -45,14 +45,14 @@ GROUP BY location_name ORDER BY accidents DESC LIMIT 10;
 ┌──────────────┬───────────┐
 │ location_name│ accidents │
 ├──────────────┼───────────┤
-│ Malmö        │       466 │
-│ Örebro       │       291 │
-│ Helsingborg  │       257 │
-│ Umeå         │       254 │
-│ Göteborg     │       248 │
-│ Sundsvall    │       227 │
-│ Växjö        │       208 │
-│ Luleå        │       206 │
+│ Malmö        │       482 │
+│ Skåne län    │       389 │
+│ Örebro       │       302 │
+│ Göteborg     │       270 │
+│ Umeå         │       270 │
+│ Helsingborg  │       266 │
+│ Sundsvall    │       235 │
+│ Luleå        │       215 │
 │ ...          │       ... │
 └──────────────┴───────────┘
 ```
@@ -68,12 +68,12 @@ GROUP BY month ORDER BY month DESC LIMIT 6;
 ┌─────────┬────────┐
 │  month  │ events │
 ├─────────┼────────┤
-│ 2025-11 │   2112 │
-│ 2025-10 │   2151 │
-│ 2025-09 │   2140 │
-│ 2025-08 │   2060 │
-│ 2025-07 │   1862 │
-│ 2025-06 │   2108 │
+│ 2026-06 │   1920 │
+│ 2026-05 │   2052 │
+│ 2026-04 │   1971 │
+│ 2026-03 │   1872 │
+│ 2026-02 │   1820 │
+│ 2026-01 │   2022 │
 └─────────┴────────┘
 ```
 
@@ -83,12 +83,12 @@ GROUP BY month ORDER BY month DESC LIMIT 6;
 
 | Metric | Value |
 |--------|-------|
-| Total events | 68,000+ |
+| Total events | 81,000+ |
 | Date range | Sept 2022 - Present |
-| Event types | 94 categories |
-| Locations | 311 municipalities |
+| Event types | 97 categories |
+| API location names | 311 administrative names (municipalities/counties) |
 | Update frequency | Daily (04:15 UTC) |
-| Format | Apache Parquet (~11 MB) |
+| Format | Apache Parquet (~13 MB) |
 
 **All text is in Swedish.** Event types (`Trafikolycka`, `Misshandel`, `Stöld`), summaries, and locations use Swedish terminology.
 
@@ -96,13 +96,13 @@ GROUP BY month ORDER BY month DESC LIMIT 6;
 
 | Swedish | English | Count |
 |---------|---------|-------|
-| Trafikolycka | Traffic accident | 10,434 |
-| Sammanfattning natt | Night summary | 10,092 |
-| Brand | Fire | 4,407 |
-| Trafikkontroll | Traffic control | 4,068 |
-| Rattfylleri | Drunk driving | 4,001 |
-| Misshandel | Assault | 3,124 |
-| Stöld | Theft | 2,497 |
+| Trafikolycka | Traffic accident | 12,738 |
+| Sammanfattning natt | Night summary | 12,337 |
+| Brand | Fire | 5,357 |
+| Rattfylleri | Drunk driving | 4,842 |
+| Trafikkontroll | Traffic control | 4,793 |
+| Övrigt | Other | 4,674 |
+| Misshandel | Assault | 3,821 |
 
 ---
 
@@ -119,10 +119,10 @@ DESCRIBE SELECT * FROM 'events.parquet';
 | `name` | VARCHAR | Event title (Swedish) |
 | `summary` | VARCHAR | Brief description |
 | `url` | VARCHAR | Path to full report on polisen.se |
-| `type` | VARCHAR | Event category (94 types) |
-| `location_name` | VARCHAR | Municipality/city name |
-| `latitude` | DOUBLE | WGS84 latitude |
-| `longitude` | DOUBLE | WGS84 longitude |
+| `type` | VARCHAR | Event category (97 types) |
+| `location_name` | VARCHAR | Raw Police API `location.name`; can be a municipality or county (`län`) |
+| `latitude` | DOUBLE | WGS84 latitude parsed from Police API `location.gps` |
+| `longitude` | DOUBLE | WGS84 longitude parsed from Police API `location.gps` |
 | `html_title` | VARCHAR | Full title from archived HTML |
 | `html_preamble` | VARCHAR | Summary paragraph |
 | `html_body` | VARCHAR | Complete narrative text |
@@ -132,10 +132,10 @@ DESCRIBE SELECT * FROM 'events.parquet';
 
 ### Location Precision
 
-**Coordinates are municipality centroids, not incident addresses.** The Swedish Police API reports all events for a city at a single point (e.g., all Stockholm events at 59.33°N, 18.07°E). This affects analysis:
+**Coordinates are administrative-area centroids, not incident addresses.** The [Swedish Police API documentation](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/) describes event `location` as a county (`län`) or municipality, with `location.gps` pointing to the center of that area. The export keeps that raw API location as `location_name` plus parsed coordinates.
 
-- Suitable for: Municipality-level aggregation, regional trends, event type distribution
-- Not suitable for: Street-level analysis, neighborhood patterns, distance calculations
+- Suitable for: Administrative-area trends after handling county vs municipality granularity, event type distribution
+- Not suitable for: Street-level analysis, neighborhood patterns, precise distance calculations, or municipality-only aggregation without classifying county-level rows
 
 ---
 
@@ -156,12 +156,12 @@ curl -s https://raw.githubusercontent.com/dnouri/polisen-se-events-history/main/
 
 ```json
 {
-  "id": 612685,
-  "datetime": "2025-11-13 20:14:24 +01:00",
-  "name": "13 november 18.28, Stöld, Härnösand",
-  "summary": "Misstänkt stöld i butik, Kronholmen.",
-  "type": "Stöld",
-  "location": { "name": "Härnösand", "gps": "62.63227,17.940871" }
+  "id": 645690,
+  "datetime": "2026-06-30 10:57:12 +02:00",
+  "name": "30 juni 10.36, Trafikolycka, Mariestad",
+  "summary": "Larm inkommer via SOS om en singelolycka på E20.",
+  "type": "Trafikolycka",
+  "location": { "name": "Västra Götalands län", "gps": "58.252793,13.059643" }
 }
 ```
 
@@ -192,7 +192,7 @@ This project uses the [git-scraping pattern](https://simonwillison.net/2020/Oct/
 3. **Git history**: Changes are committed, preserving full history
 4. **Daily export**: All events are extracted from git history and published as Parquet
 
-With 28,000+ commits over 2+ years, this provides a reliable historical dataset.
+With 31,000+ commits over 3+ years, this provides a reliable historical dataset.
 
 ### Data Pipeline
 
@@ -200,10 +200,10 @@ With 28,000+ commits over 2+ years, this provides a reliable historical dataset.
 polisen.se/api/events (9-day rolling window)
     ↓ GitHub Actions (every 30 min)
 events.json + html/{id}.html
-    ↓ Git history (28,000+ commits)
+    ↓ Git history (31,000+ commits)
 export-events.py --include-html
     ↓ Daily release
-events.parquet (68,000+ unique events)
+events.parquet (81,000+ unique events)
 ```
 
 ### Generate Parquet Locally
@@ -224,7 +224,7 @@ uv run export-events.py --start-date 2024-01-01 --end-date 2024-12-31 --output 2
 
 ## Known Limitations
 
-1. **Municipality centroids**: Coordinates are city center points, not actual incident locations
+1. **Administrative centroids**: Coordinates are Police API county/municipality center points, not actual incident locations
 2. **Night summaries**: `Sammanfattning natt` entries aggregate multiple incidents (~15% of events)
 3. **Swedish only**: All text in Swedish
 4. **HTML snapshots**: Only first version of each event page is archived; updates are lost
@@ -241,6 +241,8 @@ This project archives publicly available data from the **Swedish Police Authorit
 | Official API | [polisen.se/api/events](https://polisen.se/api/events) |
 | API Documentation | [Öppna data - API över polisens händelser](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/) |
 | Terms of Use | [polisen.se](https://polisen.se) |
+
+The Police API's event location is raw administrative geography: a county (`län`) or municipality, with GPS at that area's center point.
 
 ### How Data Is Collected
 
