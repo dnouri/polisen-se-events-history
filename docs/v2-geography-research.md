@@ -9,7 +9,7 @@ This report profiles the current geography contract in `polisen-se-events-histor
   - `53,009` municipality rows (`64.69%`)
   - `28,937` county rows (`35.31%`)
   - `0` unknown rows
-- Exact title-suffix matching after the final comma resolves many county-level API rows:
+- A conservative title-suffix rule would deterministically assign a municipality for many county-level API rows, but only as derived enrichment rather than raw Police location evidence:
   - `60,274` rows have an official municipality as title suffix (`73.55%`).
   - `7,265` raw-county rows have a title municipality in the same county.
   - `0` raw-county/title-municipality cross-county conflicts were found.
@@ -19,9 +19,9 @@ This report profiles the current geography contract in `polisen-se-events-histor
   - Current `events.json` window: `500/500` rows are raw API county locations, all with `location.gps` present.
 - Recommended v2 contract: preserve raw API geography as `api_location_*`, add deterministic derived administrative fields as `derived_*`, and keep legacy `location_name`, `latitude`, `longitude` as compatibility aliases during rollout.
 
-## Reproducibility
+## Local reproducibility and provenance
 
-The profile is a local Phase 1 spike. It is reproducible from pinned local files, but three inputs currently come from a sibling CrimeCity checkout and are **not** part of this repository. A clean upstream checkout can read the report and committed manifest, but cannot recompute the full profile unless those sibling inputs are present. That is acceptable for evidence gathering only; Phase 2 must commit its own SCB-derived reference CSV and must not depend on CrimeCity at runtime.
+The profile is a local Phase 1 spike. It is reproducible from the exact command below plus pinned local file hashes, but three inputs currently come from a sibling CrimeCity checkout and are **not** part of this repository. A clean upstream checkout can read the report and committed manifest, but cannot recompute the full profile unless those sibling inputs are present. That is acceptable for evidence gathering only; Phase 2 must commit its own SCB-derived reference CSV and must not depend on CrimeCity at runtime.
 
 Run from this repository root:
 
@@ -35,12 +35,12 @@ uv run scripts/research/profile_geography_contract.py \
   --strict-provenance
 ```
 
-The script compares the current inputs and headline results with the committed `docs/v2-geography-profile-manifest.json`. Mismatches print a clear warning by default; `--strict-provenance` exits non-zero on mismatches or when the expected manifest is missing. Non-strict runs warn and skip comparison if the manifest is absent. To intentionally refresh the pinned manifest after reviewing a new data cut, run the same command with `--manifest-out docs/v2-geography-profile-manifest.json --no-expected-manifest`.
+The script compares the current run with the committed `docs/v2-geography-profile-manifest.json`. Strict comparison validates the manifest schema, script path/version/SHA-256, data input paths/existence/sizes/SHA-256 hashes, data cutoffs, reference checks, current raw-window GPS/API-granularity metrics, and headline profile/validation counts. Recorded git repo/head/dirty metadata is diagnostic only and is not part of strict comparison; content hashes are the authoritative input identity. Mismatches print a clear warning by default; `--strict-provenance` exits non-zero on mismatches or when the expected manifest is missing. Non-strict runs warn and skip comparison if the manifest is absent. To intentionally refresh the pinned manifest after reviewing a new data cut or script change, run the same command with `--manifest-out docs/v2-geography-profile-manifest.json --no-expected-manifest`.
 
 Observed strict run result:
 
 ```text
-manifest check: docs/v2-geography-profile-manifest.json matches
+manifest check: docs/v2-geography-profile-manifest.json matches strict content/script/profile invariants (git metadata diagnostic only)
 events: 81,946
 api municipality: 53,009
 api county: 28,937
@@ -56,18 +56,18 @@ wrote: tmp/geography-profile/summary.md
 Artifacts and commit hygiene:
 
 - `scripts/research/profile_geography_contract.py` — tracked reproducible Phase 1 spike script.
-- `docs/v2-geography-profile-manifest.json` — tracked machine-readable manifest with input hashes, cutoffs, reference checks, and headline metrics.
+- `docs/v2-geography-profile-manifest.json` — tracked machine-readable manifest with script hash/version, input hashes, cutoffs, reference checks, and headline metrics.
 - `tmp/geography-profile/summary.json` — generated full machine-readable profile; ignored by `.gitignore`, not intended for commit.
 - `tmp/geography-profile/summary.md` — generated Markdown profile with longer tables/examples; ignored by `.gitignore`, not intended for commit.
 
-Input provenance from the regenerated profile:
+Input provenance from the regenerated profile. Git fields are retained to aid investigation but are diagnostic only; strict mode validates the path/content fields and deterministic outputs instead.
 
 | Input | Path | Size bytes | SHA-256 | Git repo | Git HEAD | Path dirty? |
 | --- | --- | ---: | --- | --- | --- | --- |
 | events parquet | `../crimecity3k/data/events.parquet` | 13,340,714 | `172684e33024a8050514e6a03bced421214cca89b7118a230a68b6cbf7865bf3` | `../crimecity3k` | `2fd6066a3dd2bd29bb3e1255130bca3ce5a6c53c` | no |
 | boundaries | `../crimecity3k/data/municipalities/boundaries.geojson` | 1,979,751 | `5b65a1b22e3dd34731a1c1a4ec0ccd09c36ebb4da36e1d9e56d72fac04cfe25a` | `../crimecity3k` | `2fd6066a3dd2bd29bb3e1255130bca3ce5a6c53c` | no |
 | population | `../crimecity3k/data/municipalities/population.csv` | 5,772 | `df002b4dff7b70ca33970b7d36ad7177df5a734ab00e0eca76e4c2f303e9f0c3` | `../crimecity3k` | `2fd6066a3dd2bd29bb3e1255130bca3ce5a6c53c` | no |
-| raw events window | `events.json` | 206,295 | `5788d9cf164d3f7f0dbf1fcd1b4d2183af244ccc58907e2dc976869276e48df6` | `.` | `bb6b2b36742dfcb8b8d67c9a754ff5a261a2bb4c` | no |
+| raw events window | `events.json` | 206,295 | `5788d9cf164d3f7f0dbf1fcd1b4d2183af244ccc58907e2dc976869276e48df6` | `.` | `b1c9a6d3b24987979a736b2b45bab58214fb1090` | no |
 
 Data cutoffs are separate because the full v1 parquet and current raw `events.json` are different snapshots:
 
@@ -90,7 +90,7 @@ Algorithm constraints:
 | Source | Local file / link | Role | Phase 1 finding |
 | --- | --- | --- | --- |
 | Swedish Police API docs | <https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/> | Defines raw event `location.name`/`location.gps` semantics. | API location may be county (`län`) or municipality; GPS is the center point for that administrative area, not incident coordinates. |
-| Current raw API window | `events.json` | Verifies raw `location.gps` availability before export flattening for the current 9-day window only. | `500/500` current rows have `location.gps`; v1 parquet loses the raw GPS string, so full-history raw GPS validity is not proven in Phase 1. |
+| Current raw API window | `events.json` | Verifies raw `location.gps` availability before export flattening for the latest 500/current API window only. | `500/500` current rows have `location.gps`; v1 parquet loses the raw GPS string, so full-history raw GPS validity is not proven in Phase 1. |
 | Full current v1 export | `../crimecity3k/data/events.parquet` | Data profile input. | `81,946` rows; schema has only `location_name`, parsed `latitude`, parsed `longitude` for geography. |
 | Municipality boundaries | `../crimecity3k/data/municipalities/boundaries.geojson` | Provides 290 municipality codes/names and `lan_code`. | 290 features; 21 county codes; every municipality code prefix equals `lan_code`. |
 | Population / SCB-derived region metadata | `../crimecity3k/data/municipalities/population.csv` | Provides municipality code/name reference already used by CrimeCity. | 290 rows; exact one-to-one code match with boundaries; 0 normalized name mismatches. |
@@ -224,7 +224,7 @@ No profiled row had raw API municipality plus a title-county suffix. The script 
 
 ## Examples
 
-### Raw-county rows accepted by title municipality + county validation
+### Raw-county rows assigned by title municipality + API-county validation
 
 | event_id | datetime | type | API location | title suffix | derived municipality |
 | --- | --- | --- | --- | --- | --- |
@@ -301,7 +301,7 @@ Recommended deterministic assignment policy:
 3. If API location is a municipality and the title suffix is the same municipality or unknown, set derived municipality from API location.
 4. If API location is a municipality and the title suffix is that municipality's county, set derived municipality from API location but count that broader title signal separately in aggregate metrics.
 5. If API location is a municipality and the title suffix points to a different municipality or a different county, leave `derived_municipality_code` null and count the mismatch/conflict.
-6. If API location is a county and title suffix is a municipality in that county, set derived municipality from the title suffix.
+6. If API location is a county and title suffix is a municipality in that county, set derived municipality from the title suffix as deterministic title-derived enrichment.
 7. If API location is a county and the title suffix is a different county or a municipality in a different county, leave conflicting derived geography unresolved and count the cross-county conflict.
 8. If API location is unknown and title suffix is a municipality, set derived municipality from title suffix but count it separately in quality metrics.
 9. Never parse body text and never distribute county-only rows across municipalities.
@@ -334,4 +334,4 @@ Alternative options:
 
 ## Phase 1 conclusion
 
-The data supports a simple, explainable v2 contract. Raw Police API geography must be preserved as raw API fields; deterministic municipality enrichment should be separate and nullable. Exact title-suffix matching validated by API county recovers substantial recent county-level rows without overclaiming. County-only summaries and county-only non-summary rows remain valid unresolved rows and need downstream global search rather than forced municipality assignment. The Phase 1 rollout/reference/conflict/alias decisions above are no longer open questions for implementation planning.
+The data supports a simple, explainable v2 contract. Raw Police API geography must be preserved as raw API fields; deterministic municipality enrichment should be separate and nullable. Exact title-suffix matching validated by API county provides useful title-derived assignments for many recent county-level rows without claiming that titles are raw location evidence. County-only summaries and county-only non-summary rows remain valid unresolved rows and need downstream global search rather than forced municipality assignment. The Phase 1 rollout/reference/conflict/alias decisions above are no longer open questions for implementation planning.

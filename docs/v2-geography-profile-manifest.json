@@ -65,7 +65,7 @@
     "raw_events_json": {
       "exists": true,
       "git": {
-        "head": "bb6b2b36742dfcb8b8d67c9a754ff5a261a2bb4c",
+        "head": "b1c9a6d3b24987979a736b2b45bab58214fb1090",
         "path_status": "",
         "root": ".",
         "tracked_dirty": false
@@ -198,5 +198,28 @@
     "population_row_count": 290,
     "static_county_codes_not_used_by_boundaries": []
   },
-  "schema_version": 1
+  "schema_version": 2,
+  "script": {
+    "path": "scripts/research/profile_geography_contract.py",
+    "sha256": "5363451097e6c1c2d875f7c78cd9db3ba43983a4a3fffba24e41fbed289314f2",
+    "version": 2
+  },
+  "strict_provenance_policy": {
+    "diagnostic_only": [
+      "input_provenance.*.git.root",
+      "input_provenance.*.git.head",
+      "input_provenance.*.git.tracked_dirty",
+      "input_provenance.*.git.path_status"
+    ],
+    "note": "Git metadata is recorded to aid investigation, but strict comparison uses content hashes and deterministic outputs as the authoritative provenance.",
+    "validated": [
+      "manifest schema_version",
+      "script path, version, and SHA-256",
+      "data input paths, existence, size_bytes, and SHA-256",
+      "full export and current raw-window data cutoffs",
+      "reference-data checks",
+      "current raw-window GPS and API-granularity metrics",
+      "headline profile metrics and validation-status counts"
+    ]
+  }
 }

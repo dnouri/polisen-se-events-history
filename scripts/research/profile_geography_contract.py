@@ -45,6 +45,25 @@ DEFAULT_POPULATION = DEFAULT_CRIMECITY_ROOT / "data" / "municipalities" / "popul
 DEFAULT_RAW_EVENTS_JSON = REPO_ROOT / "events.json"
 DEFAULT_OUTPUT_DIR = REPO_ROOT / "tmp" / "geography-profile"
 DEFAULT_EXPECTED_MANIFEST = REPO_ROOT / "docs" / "v2-geography-profile-manifest.json"
+SCRIPT_VERSION = 2
+STRICT_PROVENANCE_POLICY = {
+    "validated": [
+        "manifest schema_version",
+        "script path, version, and SHA-256",
+        "data input paths, existence, size_bytes, and SHA-256",
+        "full export and current raw-window data cutoffs",
+        "reference-data checks",
+        "current raw-window GPS and API-granularity metrics",
+        "headline profile metrics and validation-status counts",
+    ],
+    "diagnostic_only": [
+        "input_provenance.*.git.root",
+        "input_provenance.*.git.head",
+        "input_provenance.*.git.tracked_dirty",
+        "input_provenance.*.git.path_status",
+    ],
+    "note": "Git metadata is recorded to aid investigation, but strict comparison uses content hashes and deterministic outputs as the authoritative provenance.",
+}
 
 # Spike-only county names/codes, manually inlined from SCB's official current
 # county-code set ("Län och kommuner i kodnummerordning" / regional divisions;
@@ -836,13 +855,18 @@ def render_markdown(
     lines.append(f"  --boundaries {inputs['boundaries']} \\")
     lines.append(f"  --population {inputs['population']} \\")
     lines.append(f"  --raw-events-json {inputs['raw_events_json']} \\")
-    lines.append(f"  --output-dir {inputs['output_dir']}")
+    lines.append(f"  --output-dir {inputs['output_dir']} \\")
+    lines.append("  --strict-provenance")
     lines.append("```\n")
 
     lines.append("## Inputs\n")
     lines.append(markdown_table(["Input", "Path"], [[key, value] for key, value in inputs.items()]))
 
     lines.append("## Input provenance\n")
+    lines.append(
+        "Git repo/head/path status are diagnostic only; strict comparison validates path, existence, size, "
+        "SHA-256, script metadata, cutoffs, and deterministic outputs.\n"
+    )
     provenance_rows = []
     for key, metadata in input_provenance.items():
         git = metadata.get("git") or {}
@@ -1069,7 +1093,7 @@ def render_markdown(
             "the raw GPS string directly while flattening raw JSON.\n"
         )
 
-    lines.append("## Accepted raw-county/title-municipality examples\n")
+    lines.append("## Raw-county rows assigned by title municipality + API-county validation\n")
     lines.append(example_table(examples["accepted_county_title_municipality_examples"]))
 
     lines.append("## Unresolved examples\n")
@@ -1311,8 +1335,10 @@ def run_self_checks() -> int:
 def build_manifest(json_summary: dict[str, Any]) -> dict[str, Any]:
     profile = json_summary["profile"]
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "generated_by": json_summary["run_context"]["script"],
+        "script": json_summary["run_context"]["script_metadata"],
+        "strict_provenance_policy": STRICT_PROVENANCE_POLICY,
         "inputs": json_summary["inputs"],
         "input_provenance": json_summary["input_provenance"],
         "data_cutoffs": json_summary["data_cutoffs"],
@@ -1339,32 +1365,76 @@ def build_manifest(json_summary: dict[str, Any]) -> dict[str, Any]:
 def compare_manifest(current: dict[str, Any], expected: dict[str, Any]) -> list[str]:
     mismatches: list[str] = []
 
-    for input_name, metadata in current.get("input_provenance", {}).items():
-        expected_metadata = expected.get("input_provenance", {}).get(input_name)
-        if not expected_metadata:
-            mismatches.append(f"input {input_name!r} is missing from expected manifest")
+    def add_value_mismatch(path: str, current_value: Any, expected_value: Any) -> None:
+        mismatches.append(f"{path} differs: expected {expected_value!r}, got {current_value!r}")
+
+    def compare_exact(path: str) -> None:
+        current_value = current.get(path)
+        expected_value = expected.get(path)
+        if current_value != expected_value:
+            add_value_mismatch(path, current_value, expected_value)
+
+    for field in ("schema_version", "generated_by", "script", "strict_provenance_policy"):
+        compare_exact(field)
+
+    data_input_keys = ("events_parquet", "boundaries", "population", "raw_events_json")
+    current_inputs = current.get("inputs", {})
+    expected_inputs = expected.get("inputs", {})
+    for input_name in data_input_keys:
+        if current_inputs.get(input_name) != expected_inputs.get(input_name):
+            add_value_mismatch(
+                f"inputs.{input_name}",
+                current_inputs.get(input_name),
+                expected_inputs.get(input_name),
+            )
+
+    current_provenance = current.get("input_provenance", {})
+    expected_provenance = expected.get("input_provenance", {})
+    current_keys = set(current_provenance)
+    expected_keys = set(expected_provenance)
+    if current_keys != expected_keys:
+        mismatches.append(
+            "input provenance keys differ: "
+            f"expected {sorted(expected_keys)!r}, got {sorted(current_keys)!r}"
+        )
+
+    for input_name in sorted(current_keys | expected_keys):
+        metadata = current_provenance.get(input_name)
+        expected_metadata = expected_provenance.get(input_name)
+        if metadata is None or expected_metadata is None:
             continue
-        for field in ("sha256", "size_bytes"):
+        for field in ("path", "exists", "size_bytes", "sha256"):
             if metadata.get(field) != expected_metadata.get(field):
-                mismatches.append(
-                    f"input {input_name!r} {field} differs: expected {expected_metadata.get(field)!r}, "
-                    f"got {metadata.get(field)!r}"
+                add_value_mismatch(
+                    f"input_provenance.{input_name}.{field}",
+                    metadata.get(field),
+                    expected_metadata.get(field),
                 )
 
-    for cutoff_name, cutoff in current.get("data_cutoffs", {}).items():
-        expected_cutoff = expected.get("data_cutoffs", {}).get(cutoff_name)
+    current_cutoffs = current.get("data_cutoffs", {})
+    expected_cutoffs = expected.get("data_cutoffs", {})
+    current_cutoff_keys = set(current_cutoffs)
+    expected_cutoff_keys = set(expected_cutoffs)
+    if current_cutoff_keys != expected_cutoff_keys:
+        mismatches.append(
+            "data cutoff keys differ: "
+            f"expected {sorted(expected_cutoff_keys)!r}, got {sorted(current_cutoff_keys)!r}"
+        )
+    for cutoff_name in sorted(current_cutoff_keys | expected_cutoff_keys):
+        cutoff = current_cutoffs.get(cutoff_name)
+        expected_cutoff = expected_cutoffs.get(cutoff_name)
         if cutoff != expected_cutoff:
-            mismatches.append(f"data cutoff {cutoff_name!r} differs: expected {expected_cutoff!r}, got {cutoff!r}")
+            add_value_mismatch(f"data_cutoffs.{cutoff_name}", cutoff, expected_cutoff)
 
     for field in ("reference_checks", "current_raw_events_window"):
         if current.get(field) != expected.get(field):
-            mismatches.append(f"{field} differs from expected manifest")
+            add_value_mismatch(field, current.get(field), expected.get(field))
 
     for field in ("overall", "summary_split", "cross_api_title", "derivation_rules", "validation_statuses"):
         current_value = current.get("profile", {}).get(field)
         expected_value = expected.get("profile", {}).get(field)
         if current_value != expected_value:
-            mismatches.append(f"profile.{field} differs from expected manifest")
+            add_value_mismatch(f"profile.{field}", current_value, expected_value)
 
     return mismatches
 
@@ -1378,11 +1448,19 @@ def load_manifest(path: Path) -> dict[str, Any] | None:
 
 def warn_or_fail_manifest_mismatches(path: Path, mismatches: list[str], strict: bool) -> int:
     if not mismatches:
-        print(f"manifest check: {portable_path(path)} matches")
+        print(
+            f"manifest check: {portable_path(path)} matches strict content/script/profile invariants "
+            "(git metadata diagnostic only)"
+        )
         return 0
 
     print(
         f"WARNING: current inputs/results differ from expected manifest {portable_path(path)}.",
+        file=sys.stderr,
+    )
+    print(
+        "Strict comparison validates pinned content hashes, script metadata, cutoffs, reference checks, "
+        "raw-window metrics, and headline profile metrics; recorded git metadata is diagnostic only.",
         file=sys.stderr,
     )
     print("This usually means the moving data snapshot changed; update the research report/manifest if intentional.", file=sys.stderr)
@@ -1403,7 +1481,11 @@ def main() -> int:
     parser.add_argument("--manifest-out", type=Path, default=None)
     parser.add_argument("--expected-manifest", type=Path, default=DEFAULT_EXPECTED_MANIFEST)
     parser.add_argument("--no-expected-manifest", action="store_true")
-    parser.add_argument("--strict-provenance", action="store_true")
+    parser.add_argument(
+        "--strict-provenance",
+        action="store_true",
+        help="Exit non-zero on expected-manifest invariant mismatches; recorded git metadata is diagnostic only",
+    )
     parser.add_argument("--self-check", action="store_true", help="Run table-driven classification self-checks and exit")
     args = parser.parse_args()
 
@@ -1443,12 +1525,22 @@ def main() -> int:
         }
     )
 
+    script_path = Path(__file__).resolve()
+    script_metadata = {
+        "path": portable_path(script_path),
+        "version": SCRIPT_VERSION,
+        "sha256": sha256_file(script_path),
+    }
+
     json_summary = {
         "inputs": inputs,
         "input_provenance": input_provenance,
         "data_cutoffs": data_cutoffs,
         "run_context": {
-            "script": portable_path(Path(__file__)),
+            "script": script_metadata["path"],
+            "script_version": SCRIPT_VERSION,
+            "script_sha256": script_metadata["sha256"],
+            "script_metadata": script_metadata,
             "repo_root": portable_path(REPO_ROOT),
             "cwd": portable_path(Path.cwd()),
         },

@@ -14,7 +14,7 @@ Analyze 3+ years of Swedish crime data directly from your terminal:
 -- Top event types (run with: duckdb -c "...")
 SELECT type, COUNT(*) as count
 FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
-GROUP BY type ORDER BY count DESC LIMIT 10;
+GROUP BY type ORDER BY count DESC, type ASC LIMIT 10;
 ```
 
 ```
@@ -38,7 +38,7 @@ GROUP BY type ORDER BY count DESC LIMIT 10;
 SELECT location_name, COUNT(*) as accidents
 FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
 WHERE type = 'Trafikolycka'
-GROUP BY location_name ORDER BY accidents DESC LIMIT 10;
+GROUP BY location_name ORDER BY accidents DESC, location_name ASC LIMIT 10;
 ```
 
 ```
@@ -145,12 +145,12 @@ DESCRIBE SELECT * FROM 'events.parquet';
 
 **Live Site:** [dnouri.github.io/polisen-se-events-history](https://dnouri.github.io/polisen-se-events-history/)
 
-A basic web interface showing recent events (9-day window) with filtering by type and date.
+A basic web interface showing recent events (latest 500/current API window) with filtering by type and date.
 
 ### Current Events JSON
 
 ```bash
-# Latest ~500 events (9-day rolling window, updates every 30 min)
+# Latest ~500 events (current API window, updates every 30 min)
 curl -s https://raw.githubusercontent.com/dnouri/polisen-se-events-history/main/events.json | jq '.[0]'
 ```
 
@@ -197,7 +197,7 @@ With 31,000+ commits over 3+ years, this provides a reliable historical dataset.
 ### Data Pipeline
 
 ```
-polisen.se/api/events (9-day rolling window)
+polisen.se/api/events (latest 500/current API window)
     ↓ GitHub Actions (every 30 min)
 events.json + html/{id}.html
     ↓ Git history (31,000+ commits)
@@ -228,7 +228,7 @@ uv run export-events.py --start-date 2024-01-01 --end-date 2024-12-31 --output 2
 2. **Night summaries**: `Sammanfattning natt` entries aggregate multiple incidents (~15% of events)
 3. **Swedish only**: All text in Swedish
 4. **HTML snapshots**: Only first version of each event page is archived; updates are lost
-5. **9-day API window**: Historical data requires git archaeology or the Parquet export
+5. **Current API window**: Historical data requires git archaeology or the Parquet export
 
 ---
 
@@ -246,7 +246,7 @@ The Police API's event location is raw administrative geography: a county (`län
 
 ### How Data Is Collected
 
-This project uses automated git-scraping to archive the Police API's 9-day rolling window before events expire. The [git-scraping pattern](https://simonwillison.net/2020/Oct/9/git-scraping/) (by Simon Willison) enables historical preservation of otherwise ephemeral public data.
+This project uses automated git-scraping to archive the Police API's latest ~500-event/current API window before events expire. The [git-scraping pattern](https://simonwillison.net/2020/Oct/9/git-scraping/) (by Simon Willison) enables historical preservation of otherwise ephemeral public data.
 
 ### Legal Context
 
