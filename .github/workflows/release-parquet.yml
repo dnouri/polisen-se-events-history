@@ -24,8 +24,14 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v4
 
+      - name: Run tests
+        run: uv run --with pytest --with lxml --with cssselect --with duckdb --with tqdm pytest
+
       - name: Generate events.parquet
         run: uv run export-events.py --include-html --output events.parquet
+
+      - name: Validate v2 release contract
+        run: uv run scripts/validate_export_schema.py events.parquet
 
       - name: Get event count and date range
         id: stats
@@ -58,6 +64,10 @@ jobs:
             **Updated:** ${{ github.event.repository.updated_at || 'Daily at 04:15 UTC' }}
             **Events:** ${{ steps.stats.outputs.count }} unique events
             **Date range:** ${{ steps.stats.outputs.min_date }} to ${{ steps.stats.outputs.max_date }}
+
+            ### Schema
+
+            `events.parquet` uses the breaking v2 geography schema. Legacy columns `location_name`, `latitude`, and `longitude` have been removed; use `api_location_name`, `api_location_latitude`, and `api_location_longitude` instead.
 
             ### Download
 

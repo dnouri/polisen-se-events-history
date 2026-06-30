@@ -34,27 +34,19 @@ GROUP BY type ORDER BY count DESC, type ASC LIMIT 10;
 ```
 
 ```sql
--- Traffic accidents by API location (municipality or county)
-SELECT location_name, COUNT(*) as accidents
+-- Raw Police API location granularity
+SELECT api_location_granularity, COUNT(*) as events
 FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
-WHERE type = 'Trafikolycka'
-GROUP BY location_name ORDER BY accidents DESC, location_name ASC LIMIT 10;
+GROUP BY api_location_granularity ORDER BY events DESC;
 ```
 
 ```
-┌──────────────┬───────────┐
-│ location_name│ accidents │
-├──────────────┼───────────┤
-│ Malmö        │       482 │
-│ Skåne län    │       389 │
-│ Örebro       │       302 │
-│ Göteborg     │       270 │
-│ Umeå         │       270 │
-│ Helsingborg  │       266 │
-│ Sundsvall    │       235 │
-│ Luleå        │       215 │
-│ ...          │       ... │
-└──────────────┴───────────┘
+┌──────────────────────────┬────────┐
+│ api_location_granularity │ events │
+├──────────────────────────┼────────┤
+│ municipality             │  53009 │
+│ county                   │  28937 │
+└──────────────────────────┴────────┘
 ```
 
 ```sql
@@ -86,7 +78,8 @@ GROUP BY month ORDER BY month DESC LIMIT 6;
 | Total events | 81,000+ |
 | Date range | Sept 2022 - Present |
 | Event types | 97 categories |
-| API location names | 311 administrative names (municipalities/counties) |
+| Geography reference | 290 municipalities / 21 counties |
+| Geography fields | Raw Police API area + nullable derived municipality/county |
 | Update frequency | Daily (04:15 UTC) |
 | Format | Apache Parquet (~13 MB) |
 
@@ -120,9 +113,15 @@ DESCRIBE SELECT * FROM 'events.parquet';
 | `summary` | VARCHAR | Brief description |
 | `url` | VARCHAR | Path to full report on polisen.se |
 | `type` | VARCHAR | Event category (97 types) |
-| `location_name` | VARCHAR | Raw Police API `location.name`; can be a municipality or county (`län`) |
-| `latitude` | DOUBLE | WGS84 latitude parsed from Police API `location.gps` |
-| `longitude` | DOUBLE | WGS84 longitude parsed from Police API `location.gps` |
+| `api_location_name` | VARCHAR | Raw Police API `location.name`; can be a municipality, county (`län`), or unmatched value |
+| `api_location_gps` | VARCHAR | Raw Police API `location.gps` string |
+| `api_location_granularity` | VARCHAR | Exact reference classification: `municipality`, `county`, or `unknown` |
+| `api_location_latitude` | DOUBLE | WGS84 latitude parsed from `api_location_gps`; null if missing/invalid/out of bounds |
+| `api_location_longitude` | DOUBLE | WGS84 longitude parsed from `api_location_gps`; null if missing/invalid/out of bounds |
+| `derived_municipality_code` | VARCHAR | Official 4-digit municipality code when deterministically assigned; otherwise null |
+| `derived_municipality_name` | VARCHAR | Official municipality name when deterministically assigned; otherwise null |
+| `derived_county_code` | VARCHAR | Official 2-digit county code when deterministically assigned; otherwise null |
+| `derived_county_name` | VARCHAR | Official county name when deterministically assigned; otherwise null |
 | `html_title` | VARCHAR | Full title from archived HTML |
 | `html_preamble` | VARCHAR | Summary paragraph |
 | `html_body` | VARCHAR | Complete narrative text |
@@ -132,10 +131,14 @@ DESCRIBE SELECT * FROM 'events.parquet';
 
 ### Location Precision
 
-**Coordinates are administrative-area centroids, not incident addresses.** The [Swedish Police API documentation](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/) describes event `location` as a county (`län`) or municipality, with `location.gps` pointing to the center of that area. The export keeps that raw API location as `location_name` plus parsed coordinates.
+**Coordinates are administrative-area centroids, not incident addresses.** The [Swedish Police API documentation](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/) describes event `location` as a county (`län`) or municipality, with `location.gps` pointing to the center of that area. The export preserves that raw API geography as `api_location_*` fields and adds nullable `derived_*` municipality/county fields from exact administrative-name matching.
+
+`derived_municipality_*` is null when no municipality can be deterministically assigned. Missing or invalid GPS parses to null latitude/longitude. Summary text, HTML body text, and other narrative fields are intentionally not parsed for geography.
+
+**Breaking v2 schema note:** `events.parquet` no longer includes legacy geography columns `location_name`, `latitude`, or `longitude`. Use `api_location_name`, `api_location_latitude`, and `api_location_longitude` instead.
 
 - Suitable for: Administrative-area trends after handling county vs municipality granularity, event type distribution
-- Not suitable for: Street-level analysis, neighborhood patterns, precise distance calculations, or municipality-only aggregation without classifying county-level rows
+- Not suitable for: Street-level analysis, neighborhood patterns, precise distance calculations, or forcing county-only rows into municipalities
 
 ---
 
@@ -242,7 +245,7 @@ This project archives publicly available data from the **Swedish Police Authorit
 | API Documentation | [Öppna data - API över polisens händelser](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/) |
 | Terms of Use | [polisen.se](https://polisen.se) |
 
-The Police API's event location is raw administrative geography: a county (`län`) or municipality, with GPS at that area's center point.
+The Police API's event location is raw administrative geography: a county (`län`) or municipality, with GPS at that area's center point. The export keeps raw API geography separate from nullable derived municipality/county fields.
 
 ### How Data Is Collected
 

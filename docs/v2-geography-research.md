@@ -2,6 +2,8 @@
 
 This report profiles the current geography contract in `polisen-se-events-history` for the planned v2 export. It uses the current full v1 parquet from CrimeCity plus local administrative reference data; it does not use live network calls.
 
+> **Phase 2 implementation update:** The final implementation decision is a clean breaking v2 schema in the existing `events.parquet` release asset. Legacy geography aliases `location_name`, `latitude`, and `longitude` are removed rather than kept for rollout compatibility.
+
 ## Executive summary
 
 - The current `location_name` column is the raw Swedish Police API `location.name`, not always a municipality.
@@ -17,11 +19,11 @@ This report profiles the current geography contract in `polisen-se-events-histor
 - Recent source behavior has changed materially:
   - 2026-Q2: `5,943/5,943` rows (`100%`) have raw API county locations.
   - Current `events.json` window: `500/500` rows are raw API county locations, all with `location.gps` present.
-- Recommended v2 contract: preserve raw API geography as `api_location_*`, add deterministic derived administrative fields as `derived_*`, and keep legacy `location_name`, `latitude`, `longitude` as compatibility aliases during rollout.
+- Final v2 contract: preserve raw API geography as `api_location_*`, add deterministic derived administrative fields as `derived_*`, and remove legacy `location_name`, `latitude`, `longitude` from the export schema.
 
 ## Local reproducibility and provenance
 
-The profile is a local Phase 1 spike. It is reproducible from the exact command below plus pinned local file hashes, but three inputs currently come from a sibling CrimeCity checkout and are **not** part of this repository. A clean upstream checkout can read the report and committed manifest, but cannot recompute the full profile unless those sibling inputs are present. That is acceptable for evidence gathering only; Phase 2 must commit its own SCB-derived reference CSV and must not depend on CrimeCity at runtime.
+The profile is a local Phase 1 spike. It is reproducible from the exact command below plus pinned local file hashes, but three inputs currently come from a sibling CrimeCity checkout and are **not** part of this repository. A clean upstream checkout can read the report and committed manifest, but cannot recompute the full profile unless those sibling inputs are present. That is acceptable for evidence gathering only; the production exporter uses the vendored SCB-derived `reference/swedish_admin_areas.csv` and must not depend on CrimeCity at runtime.
 
 Run from this repository root:
 
@@ -96,7 +98,7 @@ Algorithm constraints:
 | Population / SCB-derived region metadata | `../crimecity3k/data/municipalities/population.csv` | Provides municipality code/name reference already used by CrimeCity. | 290 rows; exact one-to-one code match with boundaries; 0 normalized name mismatches. |
 | Static county code/name table in spike | `scripts/research/profile_geography_contract.py` plus SCB regional divisions (<https://www.scb.se/hitta-statistik/regional-statistik-och-kartor/regionala-indelningar/>) | Spike-only inlined table of 21 county codes/names. | Manually copied from SCB's official current county-code set ("Län och kommuner i kodnummerordning" / regional divisions), checked 2026-06-30; covers every `lan_code` used by boundaries and has no duplicate normalized county names. |
 
-Raw GPS scope note: this phase checked raw `location.gps` only in the current `events.json` window. The full-history v1 parquet has parsed `latitude`/`longitude` but not the original GPS string, so it cannot prove raw GPS validity for historical rows. Phase 2 must preserve `api_location_gps` directly from raw JSON during export instead of reconstructing it from parsed coordinates.
+Raw GPS scope note: this phase checked raw `location.gps` only in the current `events.json` window. The full-history v1 parquet has parsed `latitude`/`longitude` but not the original GPS string, so it cannot prove raw GPS validity for historical rows. The v2 export preserves `api_location_gps` directly from raw JSON instead of reconstructing it from parsed coordinates.
 
 Reference checks from the spike:
 
@@ -116,7 +118,7 @@ Reference checks from the spike:
 
 Production reference-data decision for Phase 2:
 
-1. Commit a small upstream reference file generated from official SCB region metadata, e.g. `reference/swedish_municipalities.csv` with `municipality_code`, `municipality_name`, `county_code`, `county_name`.
+1. Use the vendored upstream reference file generated from official SCB region metadata: `reference/swedish_admin_areas.csv` with `municipality_code`, `municipality_name`, `county_code`, `county_name`.
 2. Use the existing CrimeCity files only as Phase 1 evidence; do not make the export depend on the CrimeCity repo at runtime.
 3. Keep aliases/spelling variants out of v2. If aliases become necessary later, add an explicit alias table with tests and reject ambiguous aliases.
 
@@ -290,9 +292,6 @@ Same-county API/title municipality mismatch:
 | `derived_municipality_name` | string | Official municipality name for `derived_municipality_code`; null whenever code is null. |
 | `derived_county_code` | string | Official 2-digit county code when deterministically assigned from accepted API/title evidence; null for unknown or conflicting evidence. County may be populated even when municipality is null. |
 | `derived_county_name` | string | Official county name for `derived_county_code`; null whenever code is null. |
-| `location_name` | legacy string | Compatibility alias for `api_location_name` during rollout. Document clearly that it is raw API geography, not necessarily municipality. |
-| `latitude` | legacy double | Compatibility alias for `api_location_latitude` during rollout. |
-| `longitude` | legacy double | Compatibility alias for `api_location_longitude` during rollout. |
 
 Recommended deterministic assignment policy:
 
@@ -308,27 +307,21 @@ Recommended deterministic assignment policy:
 
 Do not add per-row confidence/source/notes/status fields in v2. The rule is reconstructible from `api_location_*`, title, and the committed reference data, while derivation-rule/validation counts belong in release metrics. Daily release checks should publish real source-data mismatches/conflicts as metrics rather than fail solely because they are non-zero; fail the release for impossible reference/schema conditions such as duplicate official names, missing reference codes, invalid code shapes, or missing required columns.
 
-## Compatibility and release-artifact options
+## Compatibility and release-artifact decision
 
-Recommended rollout option:
+The chosen Phase 2 rollout is a clean breaking schema in the existing `events.parquet` release asset:
 
-- Publish an additive schema in the existing `events.parquet`.
-- Keep `location_name`, `latitude`, and `longitude` as legacy aliases for at least one release cycle.
+- Remove `location_name`, `latitude`, and `longitude`.
 - Add explicit `api_location_*` and `derived_*` fields in the same artifact.
-- Add a small release metrics artifact such as `geography-quality.json` containing row counts, coverage, conflicts, unresolved counts, and reference version/source.
+- Do not publish compatibility aliases or a parallel v1/v2 artifact for this phase.
+- Optionally add a future release metrics artifact such as `geography-quality.json` containing row counts, coverage, conflicts, unresolved counts, and reference version/source.
 
-Alternative options:
-
-| Option | Pros | Cons |
-| --- | --- | --- |
-| Additive `events.parquet` only | Easiest for downstream; no parallel data URL; no breaking rename. | Existing consumers may keep misusing `location_name` unless docs/release notes are explicit. |
-| Parallel `events-v2.parquet` plus v1 `events.parquet` | Safest for cautious consumers; easy side-by-side validation. | More workflow/release complexity; risks two contracts drifting. |
-| Breaking rename/removal of legacy fields | Forces correct semantics. | Likely breaks current users and CrimeCity before migration. Not recommended for this project phase. |
+This supersedes the Phase 1 compatibility recommendation to keep legacy aliases for a transition period.
 
 ## Phase 1 decisions encoded
 
-1. **V2 rollout posture:** publish additive v2 geography fields in the existing `events.parquet`; keep `location_name`, `latitude`, and `longitude` as legacy aliases during rollout.
-2. **Production reference data:** in Phase 2, commit a small SCB-derived upstream reference file such as `reference/swedish_municipalities.csv` with `municipality_code`, `municipality_name`, `county_code`, `county_name`. Do not depend on CrimeCity at runtime.
+1. **V2 rollout posture:** publish a clean breaking v2 geography schema in the existing `events.parquet`; remove `location_name`, `latitude`, and `longitude` rather than keeping compatibility aliases.
+2. **Production reference data:** use the vendored SCB-derived upstream reference file `reference/swedish_admin_areas.csv` with `municipality_code`, `municipality_name`, `county_code`, `county_name`. Do not depend on CrimeCity at runtime.
 3. **Conflict/mismatch policy:** if API/title evidence points to different municipalities, including the observed same-county mismatch, leave `derived_municipality_code` null. If API/title evidence points to different counties, including raw-municipality plus different title county, leave conflicting derived geography unresolved and count it in release metrics. Do not fail a daily release solely for real source-data conflicts; do fail for impossible reference/schema conditions.
 4. **Aliases/spelling variants:** no aliases in v2 unless a future explicit alias table documents and tests them. Use exact official names only for now.
 

@@ -8,7 +8,7 @@ and exports to Parquet, JSON, or JSONL format for analysis and visualization.
 Architecture:
 1. Git Archaeology: Extract events.json from all commits
 2. Deduplication: Keep most recent version of each event
-3. GPS Parsing: Convert "lat,lon" strings to separate DOUBLE columns
+3. Geography Enrichment: Preserve raw API geography and add derived admin fields
 4. HTML Enrichment: Extract structured narrative data (optional)
 5. Date Filtering: Filter by event datetime (optional)
 6. Export: Auto-detect format from file extension
@@ -42,6 +42,8 @@ import duckdb
 from lxml import html as lxml_html
 from tqdm import tqdm
 
+from geography import GeographyReference, load_geography_reference, resolve_event_geography
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -51,35 +53,30 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def parse_gps_string(gps_str: str) -> tuple[float, float]:
-    """
-    Parse GPS string to (latitude, longitude) tuple.
-
-    Input format: "62.63227,17.940871" (lat,lon)
-    Output: (62.63227, 17.940871)
-
-    Raises ValueError if format is invalid or coordinates out of Swedish bounds.
-    """
-    if not gps_str or ',' not in gps_str:
-        raise ValueError(f"Invalid GPS format: {gps_str}")
-
-    parts = gps_str.split(',')
-    if len(parts) != 2:
-        raise ValueError(f"Expected 2 coordinates, got {len(parts)}: {gps_str}")
-
-    try:
-        lat = float(parts[0].strip())
-        lon = float(parts[1].strip())
-    except ValueError as e:
-        raise ValueError(f"Could not parse coordinates: {gps_str}") from e
-
-    # Validate Swedish bounds (permissive)
-    if not (55.0 <= lat <= 70.0):
-        raise ValueError(f"Latitude {lat} outside Swedish bounds (55-70°N)")
-    if not (10.0 <= lon <= 25.0):
-        raise ValueError(f"Longitude {lon} outside Swedish bounds (10-25°E)")
-
-    return lat, lon
+PARQUET_EXPORT_SCHEMA = (
+    ("event_id", "VARCHAR"),
+    ("datetime", "VARCHAR"),
+    ("name", "VARCHAR"),
+    ("summary", "VARCHAR"),
+    ("url", "VARCHAR"),
+    ("type", "VARCHAR"),
+    ("api_location_name", "VARCHAR"),
+    ("api_location_gps", "VARCHAR"),
+    ("api_location_granularity", "VARCHAR"),
+    ("api_location_latitude", "DOUBLE"),
+    ("api_location_longitude", "DOUBLE"),
+    ("derived_municipality_code", "VARCHAR"),
+    ("derived_municipality_name", "VARCHAR"),
+    ("derived_county_code", "VARCHAR"),
+    ("derived_county_name", "VARCHAR"),
+    ("html_title", "VARCHAR"),
+    ("html_preamble", "VARCHAR"),
+    ("html_body", "VARCHAR"),
+    ("html_published_datetime", "VARCHAR"),
+    ("html_author", "VARCHAR"),
+    ("html_available", "BOOLEAN"),
+)
+PARQUET_EXPORT_COLUMNS = tuple(column for column, _type in PARQUET_EXPORT_SCHEMA)
 
 
 def extract_html_data(html_path: Path) -> dict:
@@ -173,6 +170,15 @@ def get_all_commits() -> list[tuple[str, str]]:
     return commits
 
 
+def parse_event_datetime(datetime_str: str) -> datetime:
+    """Parse Police API event datetimes, including non-zero-padded hours."""
+
+    try:
+        return datetime.fromisoformat(datetime_str)
+    except ValueError:
+        return datetime.strptime(datetime_str, "%Y-%m-%d %H:%M:%S %z")
+
+
 def extract_events_from_commit(commit_sha: str) -> list[dict]:
     """
     Extract events from a specific git commit.
@@ -238,8 +244,9 @@ def extract_all_events(
                 continue
 
             try:
-                # Parse datetime: "2025-11-13 20:14:24 +01:00"
-                event_dt = datetime.fromisoformat(event_datetime_str)
+                # Parse datetime: "2025-11-13 20:14:24 +01:00".
+                # Date filters are calendar-day bounds, so compare naive local times.
+                event_dt = parse_event_datetime(event_datetime_str).replace(tzinfo=None)
 
                 if start_date and event_dt < start_date:
                     continue
@@ -305,14 +312,13 @@ def enrich_with_html(
     return events
 
 
-def flatten_event_for_export(event: dict) -> dict:
+def flatten_event_for_export(event: dict, geography_reference: GeographyReference) -> dict:
     """
     Flatten event structure for export.
 
-    Converts:
-        - location.name -> location_name
-        - location.gps -> latitude, longitude (parsed)
-        - id -> event_id (string)
+    Field order is base event fields, v2 raw/derived geography fields, then optional
+    HTML fields.  Legacy geography aliases (location_name, latitude, longitude)
+    are intentionally not emitted in the v2 export schema.
     """
     flattened = {
         'event_id': str(event.get('id', '')),
@@ -323,23 +329,7 @@ def flatten_event_for_export(event: dict) -> dict:
         'type': event.get('type', ''),
     }
 
-    # Parse location
-    location = event.get('location', {})
-    flattened['location_name'] = location.get('name', '')
-
-    gps_str = location.get('gps', '')
-    if gps_str:
-        try:
-            lat, lon = parse_gps_string(gps_str)
-            flattened['latitude'] = lat
-            flattened['longitude'] = lon
-        except ValueError as e:
-            logger.warning(f"Invalid GPS for event {flattened['event_id']}: {e}")
-            flattened['latitude'] = None
-            flattened['longitude'] = None
-    else:
-        flattened['latitude'] = None
-        flattened['longitude'] = None
+    flattened.update(resolve_event_geography(event, geography_reference))
 
     # Add HTML fields if present
     if 'html_available' in event:
@@ -354,21 +344,39 @@ def flatten_event_for_export(event: dict) -> dict:
 
 
 def export_to_parquet(events: list[dict], output_path: Path) -> None:
-    """Export events to Parquet using DuckDB.
+    """Export events to Parquet using an explicit v2 artifact schema."""
 
-    Uses parameter binding with unnest() to convert Python list to DuckDB relation.
-    All dictionaries must have the same keys.
-    """
     logger.info(f"Exporting to Parquet: {output_path}")
 
-    # Create relation from Python list using unnest with parameter binding
-    rel = duckdb.query(
-        "SELECT x.* FROM (SELECT unnest($events) as x)",
-        params={"events": events}
+    normalized_events = [
+        {column: event.get(column) for column in PARQUET_EXPORT_COLUMNS}
+        for event in events
+    ]
+    table_schema_sql = ",\n".join(
+        f'    "{column}" {duckdb_type}' for column, duckdb_type in PARQUET_EXPORT_SCHEMA
+    )
+    projection_sql = ",\n".join(
+        f"    CAST(struct_extract(x, '{column}') AS {duckdb_type}) AS \"{column}\""
+        for column, duckdb_type in PARQUET_EXPORT_SCHEMA
     )
 
-    # Write directly to Parquet
-    rel.to_parquet(str(output_path), compression='zstd')
+    conn = duckdb.connect(database=":memory:")
+    try:
+        conn.execute(f"CREATE TEMP TABLE export_events (\n{table_schema_sql}\n)")
+        if normalized_events:
+            conn.execute(
+                f"""
+                INSERT INTO export_events
+                SELECT
+{projection_sql}
+                FROM (SELECT unnest($events) AS x)
+                """,
+                {"events": normalized_events},
+            )
+
+        conn.table("export_events").to_parquet(str(output_path), compression='zstd')
+    finally:
+        conn.close()
 
     file_size = output_path.stat().st_size
     logger.info(f"Exported {len(events):,} events to {output_path} ({file_size:,} bytes)")
@@ -483,7 +491,7 @@ Format is auto-detected from file extension (.parquet, .json, .jsonl)
 
     if args.start_date:
         try:
-            start_date = datetime.fromisoformat(args.start_date).replace(hour=0, minute=0, second=0)
+            start_date = datetime.fromisoformat(args.start_date).replace(hour=0, minute=0, second=0, tzinfo=None)
             logger.info(f"Start date: {start_date.isoformat()}")
         except ValueError:
             logger.error(f"Invalid start date format: {args.start_date}. Use YYYY-MM-DD")
@@ -491,7 +499,7 @@ Format is auto-detected from file extension (.parquet, .json, .jsonl)
 
     if args.end_date:
         try:
-            end_date = datetime.fromisoformat(args.end_date).replace(hour=23, minute=59, second=59)
+            end_date = datetime.fromisoformat(args.end_date).replace(hour=23, minute=59, second=59, tzinfo=None)
             logger.info(f"End date: {end_date.isoformat()}")
         except ValueError:
             logger.error(f"Invalid end date format: {args.end_date}. Use YYYY-MM-DD")
@@ -515,8 +523,11 @@ Format is auto-detected from file extension (.parquet, .json, .jsonl)
         events_by_id = enrich_with_html(events_by_id, args.html_dir)
 
     # Step 3: Flatten for export
+    logger.info("Loading geography reference...")
+    geography_reference = load_geography_reference()
+
     logger.info("Flattening events for export...")
-    events_list = [flatten_event_for_export(e) for e in events_by_id.values()]
+    events_list = [flatten_event_for_export(e, geography_reference) for e in events_by_id.values()]
 
     # Step 4: Export
     output_format = get_format_from_filename(args.output)
