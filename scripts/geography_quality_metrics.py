@@ -24,7 +24,6 @@ import duckdb
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT))
 
-from export_schema import PARQUET_EXPORT_COLUMNS  # noqa: E402
 from geography import (  # noqa: E402
     DEFAULT_REFERENCE_PATH,
     EXPECTED_REFERENCE_SHA256,
@@ -52,6 +51,19 @@ EXAMPLE_CATEGORIES = (
 DEFAULT_EXAMPLE_LIMIT = 10
 DEFAULT_EVENT_TYPE_LIMIT = 15
 DATE_PREFIX_RE = re.compile(r"^\d{4}-\d{2}-\d{2}")
+METRICS_PARQUET_COLUMNS = (
+    "event_id",
+    "datetime",
+    "type",
+    "name",
+    "api_location_name",
+    "api_location_gps",
+    "api_location_granularity",
+    "derived_municipality_code",
+    "derived_municipality_name",
+    "derived_county_code",
+    "derived_county_name",
+)
 
 MUNICIPALITY_ASSIGNMENT_RULES = (
     "api_location_municipality",
@@ -137,10 +149,10 @@ def _json_scalar(value: Any) -> Any:
 
 
 def read_v2_rows(parquet_path: Path) -> list[dict[str, Any]]:
-    """Read v2 parquet rows in deterministic order."""
+    """Read only the v2 parquet columns needed for metrics in deterministic order."""
 
     parquet_literal = _duckdb_string_literal(str(parquet_path))
-    column_sql = ", ".join(_duckdb_identifier(column) for column in PARQUET_EXPORT_COLUMNS)
+    column_sql = ", ".join(_duckdb_identifier(column) for column in METRICS_PARQUET_COLUMNS)
     order_sql = "datetime NULLS FIRST, event_id NULLS FIRST"
 
     conn = duckdb.connect(database=":memory:")
@@ -153,7 +165,7 @@ def read_v2_rows(parquet_path: Path) -> list[dict[str, Any]]:
         conn.close()
 
     return [
-        {column: _json_scalar(value) for column, value in zip(PARQUET_EXPORT_COLUMNS, row)}
+        {column: _json_scalar(value) for column, value in zip(METRICS_PARQUET_COLUMNS, row)}
         for row in rows
     ]
 
@@ -881,11 +893,20 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--markdown", type=Path, help="write metrics Markdown to this path")
     parser.add_argument(
         "--check",
+        dest="check",
         action="store_true",
+        default=True,
         help=(
-            "fail on empty artifacts, invalid datetimes, schema/reference/contract/arithmetic "
-            "inconsistencies, but not real unresolved/conflict rows"
+            "run release-safety checks (default): fail on empty artifacts, invalid datetimes, "
+            "schema/reference/contract/arithmetic inconsistencies, but not real "
+            "unresolved/conflict rows"
         ),
+    )
+    parser.add_argument(
+        "--no-check",
+        dest="check",
+        action="store_false",
+        help="skip release-safety semantic/consistency checks; schema validation still runs",
     )
     parser.add_argument(
         "--github-output",
@@ -906,6 +927,11 @@ def main(argv: list[str] | None = None) -> int:
         if args.check:
             validate_parquet_semantics(args.parquet, reference)
             check_metrics_consistency(metrics)
+        else:
+            print(
+                "WARNING: --no-check used; skipped release-safety semantic/consistency checks",
+                file=sys.stderr,
+            )
         if args.json:
             write_json(metrics, args.json)
         if args.markdown:

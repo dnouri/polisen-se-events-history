@@ -136,6 +136,21 @@ def sample_parquet(tmp_path, reference):
     return parquet_path
 
 
+def test_read_v2_rows_projects_only_metric_columns_with_irrelevant_giant_html(tmp_path, reference):
+    rows = sample_rows(reference)
+    rows[0]["summary"] = "irrelevant summary " * 1_000
+    rows[0]["html_body"] = "irrelevant html " * 100_000
+    parquet_path = tmp_path / "giant_html.parquet"
+    write_parquet(parquet_path, rows)
+
+    read_rows = gqm.read_v2_rows(parquet_path)
+
+    assert list(read_rows[0]) == list(gqm.METRICS_PARQUET_COLUMNS)
+    assert "summary" not in read_rows[0]
+    assert "html_body" not in read_rows[0]
+    assert gqm.build_metrics(parquet_path, reference=reference)["dataset"]["total_rows"] == 5
+
+
 def test_build_metrics_json_shape_and_counts(sample_parquet, reference):
     metrics = gqm.build_metrics(sample_parquet, reference=reference, example_limit=2)
 
@@ -200,7 +215,7 @@ def test_build_metrics_json_shape_and_counts(sample_parquet, reference):
     gqm.check_metrics_consistency(metrics)
 
 
-def test_cli_check_writes_json_markdown_and_workflow_outputs(sample_parquet, tmp_path):
+def test_cli_default_checks_write_json_markdown_and_workflow_outputs(sample_parquet, tmp_path):
     json_path = tmp_path / "geography-quality.json"
     markdown_path = tmp_path / "geography-quality.md"
     github_output_path = tmp_path / "github-output.txt"
@@ -215,7 +230,6 @@ def test_cli_check_writes_json_markdown_and_workflow_outputs(sample_parquet, tmp
                 str(markdown_path),
                 "--github-output",
                 str(github_output_path),
-                "--check",
             ]
         )
         == 0
@@ -269,6 +283,7 @@ def test_release_workflow_only_consumes_declared_geography_outputs(sample_parque
 
     assert consumed_outputs
     assert consumed_outputs <= produced_outputs
+    assert "--no-check" not in workflow
     assert "steps.stats.outputs" not in workflow
 
 
@@ -300,24 +315,37 @@ def test_check_metrics_consistency_rejects_arithmetic_mismatch(sample_parquet, r
         gqm.check_metrics_consistency(broken)
 
 
-def test_cli_check_rejects_empty_v2_parquet(tmp_path):
+def test_cli_default_checks_reject_empty_v2_parquet(tmp_path):
     parquet_path = tmp_path / "empty.parquet"
     write_parquet(parquet_path, [])
 
-    assert gqm.main([str(parquet_path), "--check"]) == 1
+    assert gqm.main([str(parquet_path)]) == 1
 
 
 @pytest.mark.parametrize("bad_datetime", ["not a date", "2026-01-01 garbage", "2026-01-01 10:00:00", None])
-def test_cli_check_rejects_invalid_or_missing_datetime(tmp_path, reference, bad_datetime):
+def test_cli_default_checks_reject_invalid_or_missing_datetime(tmp_path, reference, bad_datetime):
     rows = sample_rows(reference)
     rows[0]["datetime"] = bad_datetime
     parquet_path = tmp_path / "bad_datetime.parquet"
     write_parquet(parquet_path, rows)
 
-    assert gqm.main([str(parquet_path), "--check"]) == 1
+    assert gqm.main([str(parquet_path)]) == 1
 
 
-def test_cli_check_rejects_resolver_contract_mismatch(tmp_path, reference):
+def test_cli_no_check_allows_invalid_datetime_with_explicit_warning(tmp_path, reference, capsys):
+    rows = sample_rows(reference)
+    rows[0]["datetime"] = "not a date"
+    parquet_path = tmp_path / "bad_datetime.parquet"
+    write_parquet(parquet_path, rows)
+
+    assert gqm.main([str(parquet_path), "--no-check"]) == 0
+
+    captured = capsys.readouterr()
+    assert "WARNING: --no-check used" in captured.err
+    assert '"invalid_datetime_rows": 1' in captured.out
+
+
+def test_cli_default_checks_reject_resolver_contract_mismatch(tmp_path, reference):
     rows = sample_rows(reference)
     rows[3].update(
         {
@@ -330,10 +358,10 @@ def test_cli_check_rejects_resolver_contract_mismatch(tmp_path, reference):
     parquet_path = tmp_path / "bad_contract.parquet"
     write_parquet(parquet_path, rows)
 
-    assert gqm.main([str(parquet_path), "--check"]) == 1
+    assert gqm.main([str(parquet_path)]) == 1
 
 
-def test_cli_check_rejects_schema_mismatch(tmp_path):
+def test_cli_default_checks_reject_schema_mismatch(tmp_path):
     bad_parquet = tmp_path / "bad.parquet"
     conn = duckdb.connect(database=":memory:")
     try:
@@ -342,4 +370,4 @@ def test_cli_check_rejects_schema_mismatch(tmp_path):
     finally:
         conn.close()
 
-    assert gqm.main([str(bad_parquet), "--check"]) == 1
+    assert gqm.main([str(bad_parquet)]) == 1

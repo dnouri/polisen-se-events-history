@@ -44,7 +44,6 @@ jobs:
           uv run scripts/geography_quality_metrics.py events.parquet \
             --json geography-quality.json \
             --markdown geography-quality.md \
-            --check \
             "${GITHUB_OUTPUT_ARG[@]}"
 
           if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then

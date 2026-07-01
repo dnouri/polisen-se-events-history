@@ -4,7 +4,7 @@ This report profiles the current geography contract in `polisen-se-events-histor
 
 > **Phase 2 implementation update:** The final implementation decision is a clean breaking v2 schema in the existing `events.parquet` release asset. Legacy geography aliases `location_name`, `latitude`, and `longitude` are removed rather than kept for rollout compatibility.
 >
-> **Phase 3 implementation update:** The daily release workflow now generates release-level geography quality metrics from the actual v2 `events.parquet` after schema validation. It publishes `geography-quality.json` and `geography-quality.md`, includes a compact metrics summary in the GitHub release body, and appends the Markdown report to the GitHub Step Summary. Metrics checks fail on empty artifacts, invalid datetimes, schema/reference/arithmetic/resolver-contract impossibilities, not on real unresolved/conflict source-data rows.
+> **Phase 3 implementation update:** The daily release workflow now generates release-level geography quality metrics from the actual v2 `events.parquet` after schema validation. It publishes `geography-quality.json` and `geography-quality.md`, includes a compact metrics summary in the GitHub release body, and appends the Markdown report to the GitHub Step Summary. Metrics checks run by default and fail on empty artifacts, invalid datetimes, schema/reference/arithmetic/resolver-contract impossibilities, not on real unresolved/conflict source-data rows. The metrics assets may 404 until the first successful release run after this change.
 
 ## Executive summary
 
@@ -318,11 +318,14 @@ uv run export-events.py --include-html --output events.parquet
 uv run scripts/validate_export_schema.py events.parquet
 uv run scripts/geography_quality_metrics.py events.parquet \
   --json geography-quality.json \
-  --markdown geography-quality.md \
-  --check
+  --markdown geography-quality.md
 ```
 
+Release-safety checks run by default; use `--no-check` only for exploratory output when intentionally skipping semantic/consistency checks.
+
 Published release assets:
+
+These metrics files are attached by the release workflow and may 404 until the first successful release run after the metrics change.
 
 - `events.parquet` — the breaking v2 dataset.
 - `geography-quality.json` — machine-readable release-level coverage with separate exported-shape counts, deterministic assignment-rule counts, source conflict counts, ancillary source signal counts, compact month/event-type breakdowns, examples, and reference provenance.
@@ -337,7 +340,7 @@ The chosen Phase 2 rollout is a clean breaking schema in the existing `events.pa
 - Remove `location_name`, `latitude`, and `longitude`.
 - Add explicit `api_location_*` and `derived_*` fields in the same artifact.
 - Do not publish compatibility aliases or a parallel v1/v2 artifact for this phase.
-- Publish release metrics artifacts `geography-quality.json` and `geography-quality.md` containing row counts, coverage, exported-shape counts, assignment-rule counts, source conflict counts, ancillary source signal counts, compact breakdowns, representative examples, and reference version/source.
+- Publish release metrics artifacts `geography-quality.json` and `geography-quality.md` containing row counts, coverage, exported-shape counts, assignment-rule counts, source conflict counts, ancillary source signal counts, compact breakdowns, representative examples, and reference version/source. These assets may be absent until the first successful post-change release run.
 
 This supersedes the Phase 1 compatibility recommendation to keep legacy aliases for a transition period.
 
