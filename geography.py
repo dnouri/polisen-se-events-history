@@ -16,6 +16,42 @@ from pathlib import Path
 from typing import Any, Literal, Mapping
 
 LocationGranularity = Literal["municipality", "county", "unknown"]
+GeographyShapeName = Literal["municipality_assigned", "county_only", "fully_unresolved"]
+GeographyAssignmentRule = Literal[
+    "api_location_municipality",
+    "title_municipality_validated_by_api_county",
+    "api_county_only",
+    "title_municipality_without_api_admin_match",
+    "title_county_without_api_admin_match",
+    "same_county_municipality_mismatch_county_only",
+    "cross_county_conflict_unresolved",
+    "unresolved",
+]
+GeographyConflictStatus = Literal[
+    "none",
+    "same_county_municipality_mismatch",
+    "cross_county_conflict",
+]
+
+GEOGRAPHY_SHAPE_ORDER: tuple[GeographyShapeName, ...] = (
+    "municipality_assigned",
+    "county_only",
+    "fully_unresolved",
+)
+GEOGRAPHY_ASSIGNMENT_RULE_ORDER: tuple[GeographyAssignmentRule, ...] = (
+    "api_location_municipality",
+    "title_municipality_validated_by_api_county",
+    "api_county_only",
+    "title_municipality_without_api_admin_match",
+    "title_county_without_api_admin_match",
+    "same_county_municipality_mismatch_county_only",
+    "cross_county_conflict_unresolved",
+    "unresolved",
+)
+GEOGRAPHY_CONFLICT_ORDER: tuple[GeographyConflictStatus, ...] = (
+    "same_county_municipality_mismatch",
+    "cross_county_conflict",
+)
 
 DEFAULT_REFERENCE_PATH = Path(__file__).resolve().parent / "reference" / "swedish_admin_areas.csv"
 EXPECTED_REFERENCE_SHA256 = "67231be90bf963dfaae89f70157ec41a0f35ab86ee3265feda93438dc277497e"
@@ -152,6 +188,24 @@ class LocationClassification:
         if self.granularity == "county":
             return self.county_name
         return None
+
+
+@dataclass(frozen=True)
+class GeographyResolution:
+    """Export fields plus release/report-only geography decision metadata."""
+
+    export_fields: Mapping[str, Any]
+    geography_shape: GeographyShapeName
+    assignment_rule: GeographyAssignmentRule
+    conflict_status: GeographyConflictStatus
+    reason: str
+    title_suffix: str | None
+    api_granularity: LocationGranularity
+    title_granularity: LocationGranularity
+    api_county_code: str | None
+    title_county_code: str | None
+    api_municipality_code: str | None
+    title_municipality_code: str | None
 
 
 def normalize_name(name: str | None) -> str:
@@ -406,8 +460,27 @@ def parse_gps(gps: str | None) -> tuple[float, float] | None:
     return latitude, longitude
 
 
-def resolve_event_geography(event: Mapping[str, Any], reference: GeographyReference) -> dict[str, Any]:
-    """Resolve v2 geography export fields for one raw Police API event."""
+def _geography_shape_from_derived(
+    derived_municipality_code: str | None,
+    derived_county_code: str | None,
+) -> GeographyShapeName:
+    if derived_municipality_code is not None:
+        return "municipality_assigned"
+    if derived_county_code is not None:
+        return "county_only"
+    return "fully_unresolved"
+
+
+def explain_event_geography(
+    event: Mapping[str, Any],
+    reference: GeographyReference,
+) -> GeographyResolution:
+    """Resolve export fields and report-only decision metadata for one event.
+
+    The export schema remains limited to ``GEOGRAPHY_EXPORT_FIELDS``.  The extra
+    shape, assignment-rule, and conflict metadata is for release metrics and tests
+    so the metrics generator does not reimplement resolver policy.
+    """
 
     location = event.get("location")
     location_mapping = location if isinstance(location, Mapping) else {}
@@ -423,38 +496,60 @@ def resolve_event_geography(event: Mapping[str, Any], reference: GeographyRefere
     derived_municipality_name: str | None = None
     derived_county_code: str | None = None
     derived_county_name: str | None = None
+    assignment_rule: GeographyAssignmentRule = "unresolved"
+    conflict_status: GeographyConflictStatus = "none"
+    reason = "no deterministic municipality or county assignment"
 
     if api_location.granularity == "municipality":
-        if title_location.granularity == "municipality" and title_location.municipality_code != api_location.municipality_code:
+        if (
+            title_location.granularity == "municipality"
+            and title_location.municipality_code != api_location.municipality_code
+        ):
             if title_location.county_code == api_location.county_code:
                 # Two municipality signals disagree, but they agree on county.
                 derived_county_code = api_location.county_code
                 derived_county_name = api_location.county_name
-            # Cross-county municipality conflicts remain fully unresolved.
+                assignment_rule = "same_county_municipality_mismatch_county_only"
+                conflict_status = "same_county_municipality_mismatch"
+                reason = "API municipality and title municipality differ but share a county"
+            else:
+                assignment_rule = "cross_county_conflict_unresolved"
+                conflict_status = "cross_county_conflict"
+                reason = "API municipality and title municipality are in different counties"
         elif title_location.granularity == "county" and title_location.county_code != api_location.county_code:
-            # Municipality signal and title county contradict each other.
-            pass
+            assignment_rule = "cross_county_conflict_unresolved"
+            conflict_status = "cross_county_conflict"
+            reason = "API municipality and title county are in different counties"
         else:
             derived_municipality_code = api_location.municipality_code
             derived_municipality_name = api_location.municipality_name
             derived_county_code = api_location.county_code
             derived_county_name = api_location.county_name
+            assignment_rule = "api_location_municipality"
+            reason = "API municipality accepted; title geography is absent or not contradictory"
 
     elif api_location.granularity == "county":
-        derived_county_code = api_location.county_code
-        derived_county_name = api_location.county_name
         if title_location.granularity == "municipality":
             if title_location.county_code == api_location.county_code:
                 derived_municipality_code = title_location.municipality_code
                 derived_municipality_name = title_location.municipality_name
                 derived_county_code = title_location.county_code
                 derived_county_name = title_location.county_name
+                assignment_rule = "title_municipality_validated_by_api_county"
+                reason = "title municipality validated by matching API county"
             else:
-                derived_county_code = None
-                derived_county_name = None
+                assignment_rule = "cross_county_conflict_unresolved"
+                conflict_status = "cross_county_conflict"
+                reason = "API county and title municipality are in different counties"
         elif title_location.granularity == "county" and title_location.county_code != api_location.county_code:
-            derived_county_code = None
-            derived_county_name = None
+            assignment_rule = "cross_county_conflict_unresolved"
+            conflict_status = "cross_county_conflict"
+            reason = "API county and title county are different"
+        else:
+            derived_county_code = api_location.county_code
+            derived_county_name = api_location.county_name
+            assignment_rule = "api_county_only"
+            reason = "API county accepted; no title municipality in the same county"
 
     else:
         if title_location.granularity == "municipality":
@@ -462,11 +557,15 @@ def resolve_event_geography(event: Mapping[str, Any], reference: GeographyRefere
             derived_municipality_name = title_location.municipality_name
             derived_county_code = title_location.county_code
             derived_county_name = title_location.county_name
+            assignment_rule = "title_municipality_without_api_admin_match"
+            reason = "title municipality accepted because API location did not match an official area"
         elif title_location.granularity == "county":
             derived_county_code = title_location.county_code
             derived_county_name = title_location.county_name
+            assignment_rule = "title_county_without_api_admin_match"
+            reason = "title county accepted because API location did not match an official area"
 
-    return {
+    export_fields = {
         "api_location_name": api_location_name,
         "api_location_gps": api_location_gps,
         "api_location_granularity": api_location.granularity,
@@ -477,6 +576,27 @@ def resolve_event_geography(event: Mapping[str, Any], reference: GeographyRefere
         "derived_county_code": derived_county_code,
         "derived_county_name": derived_county_name,
     }
+
+    return GeographyResolution(
+        export_fields=export_fields,
+        geography_shape=_geography_shape_from_derived(derived_municipality_code, derived_county_code),
+        assignment_rule=assignment_rule,
+        conflict_status=conflict_status,
+        reason=reason,
+        title_suffix=title_suffix,
+        api_granularity=api_location.granularity,
+        title_granularity=title_location.granularity,
+        api_county_code=api_location.county_code,
+        title_county_code=title_location.county_code,
+        api_municipality_code=api_location.municipality_code,
+        title_municipality_code=title_location.municipality_code,
+    )
+
+
+def resolve_event_geography(event: Mapping[str, Any], reference: GeographyReference) -> dict[str, Any]:
+    """Resolve v2 geography export fields for one raw Police API event."""
+
+    return dict(explain_event_geography(event, reference).export_fields)
 
 
 def _optional_string(value: Any) -> str | None:

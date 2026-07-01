@@ -52,6 +52,44 @@ GROUP BY api_location_granularity ORDER BY events DESC;
 ```
 
 ```sql
+-- Derived municipality coverage
+SELECT
+  COUNT(*) AS events,
+  COUNT(derived_municipality_code) AS with_derived_municipality,
+  COUNT(*) - COUNT(derived_municipality_code) AS without_derived_municipality,
+  ROUND(100.0 * COUNT(derived_municipality_code) / COUNT(*), 1) AS pct_with_derived_municipality
+FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet';
+```
+
+```sql
+-- County-only and fully unresolved rows
+SELECT
+  CASE
+    WHEN derived_municipality_code IS NOT NULL THEN 'municipality_assigned'
+    WHEN derived_county_code IS NOT NULL THEN 'county_only'
+    ELSE 'fully_unresolved'
+  END AS geography_shape,
+  COUNT(*) AS events
+FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
+GROUP BY geography_shape
+ORDER BY events DESC;
+```
+
+```sql
+-- Top derived municipalities
+SELECT
+  derived_municipality_code,
+  derived_municipality_name,
+  derived_county_name,
+  COUNT(*) AS events
+FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
+WHERE derived_municipality_code IS NOT NULL
+GROUP BY 1, 2, 3
+ORDER BY events DESC, derived_municipality_code
+LIMIT 10;
+```
+
+```sql
 -- Events per month
 SELECT substr(datetime, 1, 7) as month, COUNT(*) as events
 FROM 'https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet'
@@ -101,6 +139,13 @@ GROUP BY month ORDER BY month DESC LIMIT 6;
 
 ---
 
+## Release Notes
+
+- **v2 geography schema (breaking):** `events.parquet` no longer publishes the legacy geography columns `location_name`, `latitude`, or `longitude`; use the raw API fields `api_location_name`, `api_location_latitude`, and `api_location_longitude` plus nullable `derived_*` administrative fields.
+- **Geography quality metrics:** daily releases attach `geography-quality.json` and `geography-quality.md`, generated from the same v2 Parquet artifact after schema validation. Metrics separate exported geography shape counts, deterministic assignment-rule counts, and source conflict counts; `source_signal_counts` is ancillary API/title granularity context.
+
+---
+
 ## Data Schema
 
 ```sql
@@ -135,7 +180,9 @@ DESCRIBE SELECT * FROM 'events.parquet';
 
 **Coordinates are administrative-area centroids, not incident addresses.** The [Swedish Police API documentation](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/) describes event `location` as a county (`län`) or municipality, with `location.gps` pointing to the center of that area. The export preserves that raw API geography as `api_location_*` fields and adds nullable `derived_*` municipality/county fields from exact administrative-name matching.
 
-`derived_municipality_*` is null when no municipality can be deterministically assigned. Missing or invalid GPS parses to null latitude/longitude. Summary text, HTML body text, and other narrative fields are intentionally not parsed for geography.
+`derived_municipality_*` is null when no municipality can be deterministically assigned. Missing or invalid GPS parses to null `api_location_latitude`/`api_location_longitude`. Summary text, HTML body text, and other narrative fields are intentionally not parsed for geography.
+
+Release metrics keep taxonomy separate: `geography_shape_counts` describes the exported null-shape, `assignment_rule_counts` explains which deterministic rule produced that shape, and `source_conflict_counts` reports API/title disagreements. `source_signal_counts` is ancillary API-location/title-suffix granularity context (for example, `api_county__title_municipality`). These are report-level metrics, not additional per-row export columns.
 
 **Breaking v2 schema note:** `events.parquet` no longer includes legacy geography columns `location_name`, `latitude`, or `longitude`. Use `api_location_name`, `api_location_latitude`, and `api_location_longitude` instead.
 
@@ -180,11 +227,17 @@ git clone https://github.com/dnouri/polisen-se-events-history.git
 git clone --depth 1 https://github.com/dnouri/polisen-se-events-history.git
 ```
 
-### Download Parquet
+### Download Release Assets
 
 ```bash
 curl -LO https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/events.parquet
+curl -LO https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/geography-quality.json
+curl -LO https://github.com/dnouri/polisen-se-events-history/releases/download/data-latest/geography-quality.md
 ```
+
+- `events.parquet` — the current v2 dataset.
+- `geography-quality.json` — machine-readable release-level geography coverage, assignment-rule counts, source conflict counts, ancillary source signal counts, compact month/event-type breakdowns, examples, and reference provenance.
+- `geography-quality.md` — human-readable report with the same headline metrics plus ancillary source signal counts and compact month/event-type breakdowns, also appended to the release workflow's GitHub Step Summary.
 
 ---
 
@@ -207,8 +260,8 @@ polisen.se/api/events (latest 500/current API window)
 events.json + html/{id}.html
     ↓ Git history (31,000+ commits)
 export-events.py --include-html
-    ↓ Daily release
-events.parquet (81,000+ unique events)
+    ↓ Daily release schema validation + geography quality metrics
+events.parquet (81,000+ unique events) + geography-quality.json/md
 ```
 
 ### Generate Parquet Locally
@@ -223,6 +276,13 @@ uv run export-events.py --include-html --output events.parquet
 
 # Export specific date range
 uv run export-events.py --start-date 2024-01-01 --end-date 2024-12-31 --output 2024.parquet
+
+# Validate and regenerate release-level geography quality metrics
+uv run scripts/validate_export_schema.py events.parquet
+uv run scripts/geography_quality_metrics.py events.parquet \
+  --json geography-quality.json \
+  --markdown geography-quality.md \
+  --check
 ```
 
 ---

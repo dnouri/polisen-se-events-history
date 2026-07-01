@@ -33,27 +33,23 @@ jobs:
       - name: Validate v2 release contract
         run: uv run scripts/validate_export_schema.py events.parquet
 
-      - name: Get event count and date range
-        id: stats
+      - name: Generate geography quality metrics
+        id: geography_quality
         run: |
-          # Use DuckDB to get stats from the parquet file. Cast the date prefix before
-          # aggregation so DuckDB does not satisfy MIN/MAX from truncated Parquet
-          # VARCHAR statistics.
-          STATS=$(uv run --with duckdb python -c "
-          import duckdb
-          conn = duckdb.connect(':memory:')
-          result = conn.execute('''
-              SELECT
-                  COUNT(*) AS count,
-                  CAST(MIN(CAST(substr(datetime, 1, 10) AS DATE)) AS VARCHAR) AS min_date,
-                  CAST(MAX(CAST(substr(datetime, 1, 10) AS DATE)) AS VARCHAR) AS max_date
-              FROM read_parquet('events.parquet')
-          ''').fetchone()
-          print(f'{result[0]}|{result[1]}|{result[2]}')
-          ")
-          echo "count=$(echo $STATS | cut -d'|' -f1)" >> $GITHUB_OUTPUT
-          echo "min_date=$(echo $STATS | cut -d'|' -f2)" >> $GITHUB_OUTPUT
-          echo "max_date=$(echo $STATS | cut -d'|' -f3)" >> $GITHUB_OUTPUT
+          GITHUB_OUTPUT_ARG=()
+          if [ -n "${GITHUB_OUTPUT:-}" ]; then
+            GITHUB_OUTPUT_ARG=(--github-output "$GITHUB_OUTPUT")
+          fi
+
+          uv run scripts/geography_quality_metrics.py events.parquet \
+            --json geography-quality.json \
+            --markdown geography-quality.md \
+            --check \
+            "${GITHUB_OUTPUT_ARG[@]}"
+
+          if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
+            cat geography-quality.md >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Create or update release
         uses: softprops/action-gh-release@v2
@@ -64,17 +60,31 @@ jobs:
             ## Swedish Police Events Dataset
 
             **Updated:** ${{ github.event.repository.updated_at || 'Daily at 04:15 UTC' }}
-            **Events:** ${{ steps.stats.outputs.count }} unique events
-            **Date range:** ${{ steps.stats.outputs.min_date }} to ${{ steps.stats.outputs.max_date }}
+            **Events:** ${{ steps.geography_quality.outputs.total_rows }} unique events
+            **Date range:** ${{ steps.geography_quality.outputs.min_date }} to ${{ steps.geography_quality.outputs.max_date }}
 
             ### Schema
 
             `events.parquet` uses the breaking v2 geography schema. Legacy columns `location_name`, `latitude`, and `longitude` have been removed; use `api_location_name`, `api_location_latitude`, and `api_location_longitude` instead.
 
+            ### Geography Quality
+
+            Metrics are generated from the released `events.parquet` after schema validation. Non-zero unresolved/conflict source-data counts are reported here and in the attached metrics assets; they do not fail a release. The metrics check does fail empty artifacts, invalid datetimes, arithmetic inconsistencies, or schema/reference/resolver-contract impossibilities.
+
+            - Derived municipality assigned: ${{ steps.geography_quality.outputs.derived_municipality_assigned }} (${{ steps.geography_quality.outputs.derived_municipality_assigned_pct }})
+            - County-only rows: ${{ steps.geography_quality.outputs.county_only_rows }} (${{ steps.geography_quality.outputs.county_only_pct }})
+            - No derived geography rows: ${{ steps.geography_quality.outputs.fully_unresolved_rows }} (${{ steps.geography_quality.outputs.fully_unresolved_pct }})
+            - Same-county municipality mismatches: ${{ steps.geography_quality.outputs.same_county_municipality_mismatch }} (${{ steps.geography_quality.outputs.same_county_municipality_mismatch_pct }})
+            - Cross-county conflicts: ${{ steps.geography_quality.outputs.cross_county_conflict }} (${{ steps.geography_quality.outputs.cross_county_conflict_pct }})
+
+            Full reports: `geography-quality.json` and `geography-quality.md`.
+
             ### Download
 
             ```bash
             curl -LO https://github.com/${{ github.repository }}/releases/download/data-latest/events.parquet
+            curl -LO https://github.com/${{ github.repository }}/releases/download/data-latest/geography-quality.json
+            curl -LO https://github.com/${{ github.repository }}/releases/download/data-latest/geography-quality.md
             ```
 
             ### Quick Analysis with DuckDB
@@ -87,5 +97,8 @@ jobs:
             ORDER BY count DESC
             LIMIT 10;
             ```
-          files: events.parquet
+          files: |
+            events.parquet
+            geography-quality.json
+            geography-quality.md
           make_latest: true

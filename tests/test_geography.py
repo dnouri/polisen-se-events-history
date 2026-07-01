@@ -8,6 +8,7 @@ from geography import (
     EXPECTED_MUNICIPALITY_CODES,
     EXPECTED_REFERENCE_SHA256,
     GEOGRAPHY_EXPORT_FIELDS,
+    explain_event_geography,
     classify_location_name,
     load_geography_reference,
     normalize_name,
@@ -155,6 +156,135 @@ def test_parse_title_suffix_final_comma_no_comma_and_empty_suffix():
     assert parse_title_suffix("No comma") is None
     assert parse_title_suffix(None) is None
     assert parse_title_suffix("Trailing comma, ") == ""
+
+
+@pytest.mark.parametrize(
+    (
+        "api_location_name",
+        "title_suffix",
+        "expected_rule",
+        "expected_shape",
+        "expected_conflict",
+    ),
+    [
+        (
+            "Linköping",
+            "Linköping",
+            "api_location_municipality",
+            "municipality_assigned",
+            "none",
+        ),
+        (
+            "Linköping",
+            "Östergötlands län",
+            "api_location_municipality",
+            "municipality_assigned",
+            "none",
+        ),
+        (
+            "Linköping",
+            None,
+            "api_location_municipality",
+            "municipality_assigned",
+            "none",
+        ),
+        (
+            "Järfälla",
+            "Upplands-Bro",
+            "same_county_municipality_mismatch_county_only",
+            "county_only",
+            "same_county_municipality_mismatch",
+        ),
+        (
+            "Linköping",
+            "Stockholm",
+            "cross_county_conflict_unresolved",
+            "fully_unresolved",
+            "cross_county_conflict",
+        ),
+        (
+            "Linköping",
+            "Stockholms län",
+            "cross_county_conflict_unresolved",
+            "fully_unresolved",
+            "cross_county_conflict",
+        ),
+        (
+            "Östergötlands län",
+            "Linköping",
+            "title_municipality_validated_by_api_county",
+            "municipality_assigned",
+            "none",
+        ),
+        (
+            "Östergötlands län",
+            "Östergötlands län",
+            "api_county_only",
+            "county_only",
+            "none",
+        ),
+        (
+            "Östergötlands län",
+            None,
+            "api_county_only",
+            "county_only",
+            "none",
+        ),
+        (
+            "Östergötlands län",
+            "Stockholm",
+            "cross_county_conflict_unresolved",
+            "fully_unresolved",
+            "cross_county_conflict",
+        ),
+        (
+            "Östergötlands län",
+            "Stockholms län",
+            "cross_county_conflict_unresolved",
+            "fully_unresolved",
+            "cross_county_conflict",
+        ),
+        (
+            "Okänd plats",
+            "Linköping",
+            "title_municipality_without_api_admin_match",
+            "municipality_assigned",
+            "none",
+        ),
+        (
+            "Okänd plats",
+            "Östergötlands län",
+            "title_county_without_api_admin_match",
+            "county_only",
+            "none",
+        ),
+        (
+            "Okänd plats",
+            None,
+            "unresolved",
+            "fully_unresolved",
+            "none",
+        ),
+    ],
+)
+def test_explain_event_geography_locks_api_title_decision_matrix(
+    reference,
+    api_location_name,
+    title_suffix,
+    expected_rule,
+    expected_shape,
+    expected_conflict,
+):
+    title = "Title without comma" if title_suffix is None else f"30 juni 10.36, Händelse, {title_suffix}"
+    event = make_event(api_location_name, title)
+
+    decision = explain_event_geography(event, reference)
+
+    assert decision.assignment_rule == expected_rule
+    assert decision.geography_shape == expected_shape
+    assert decision.conflict_status == expected_conflict
+    assert dict(decision.export_fields) == resolve_event_geography(event, reference)
+    assert tuple(decision.export_fields) == GEOGRAPHY_EXPORT_FIELDS
 
 
 def test_resolver_clear_api_municipality_match(reference):
