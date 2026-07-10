@@ -1,14 +1,86 @@
 [
   {
-    "id": 646702,
-    "datetime": "2026-07-10 14:31:50 +02:00",
-    "name": "10 juli 14.23, Övrigt, Malmö",
-    "summary": "Bevakning med UAS i delar av centrala Malmö.",
-    "url": "/aktuellt/handelser/2026/juli/10/10-juli-14.23-ovrigt-malmo/",
-    "type": "Övrigt",
+    "id": 646717,
+    "datetime": "2026-07-10 17:14:18 +02:00",
+    "name": "10 juli 15.53, Stöld, Halmstad",
+    "summary": "En kvinna kontaktar polisen och berättar att en man stulit en väska från hennes cykelkorg.",
+    "url": "/aktuellt/handelser/2026/juli/10/10-juli-15.53-stold-halmstad/",
+    "type": "Stöld",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 646716,
+    "datetime": "2026-07-10 17:12:46 +02:00",
+    "name": "10 juli 15.12, Stöld, Eskilstuna",
+    "summary": "Person bestulen på telefon",
+    "url": "/aktuellt/handelser/2026/juli/10/10-juli-15.12-stold-eskilstuna/",
+    "type": "Stöld",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 646713,
+    "datetime": "2026-07-10 16:51:26 +02:00",
+    "name": "10 juli 13.34, Försvunnen person, Uppsala",
+    "summary": "Polisen söker efter en försvunnen kvinna.",
+    "url": "/aktuellt/handelser/2026/juli/10/10-juli-13.34-forsvunnen-person-uppsala/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 646712,
+    "datetime": "2026-07-10 16:22:51 +02:00",
+    "name": "10 juli 15.54, Brand, Lilla edet",
+    "summary": "SOS larmas om brand i en industribyggnad.",
+    "url": "/aktuellt/handelser/2026/juli/10/10-juli-15.54-brand-lilla-edet/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 646707,
+    "datetime": "2026-07-10 15:09:38 +02:00",
+    "name": "10 juli 14.45, Trafikolycka, Mariestad",
+    "summary": "Olycka mellan flera fordon på E20, i höjd med Lugnås.",
+    "url": "/aktuellt/handelser/2026/juli/10/10-juli-14.45-trafikolycka-mariestad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 646709,
+    "datetime": "2026-07-10 15:58:33 +02:00",
+    "name": "10 juli 15.45, Trafikolycka, Helsingborg",
+    "summary": "Personbil i olycka, Rydebäck.",
+    "url": "/aktuellt/handelser/2026/juli/10/10-juli-15.45-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 646700,
+    "datetime": "2026-07-10 13:41:32 +02:00",
+    "name": "10 juli 13.13, Trafikolycka, Varberg",
+    "summary": "Polis, räddningstjänst och ambulans larmas till en trafikolycka på E6:an strax norr om Varberg.",
+    "url": "/aktuellt/handelser/2026/juli/10/10-juli-13.13-trafikolycka-varberg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
     }
   },
   {
@@ -24,15 +96,15 @@
     }
   },
   {
-    "id": 646700,
-    "datetime": "2026-07-10 13:41:32 +02:00",
-    "name": "10 juli 13.13, Trafikolycka, Varberg",
-    "summary": "Polis, räddningstjänst och ambulans larmas till en trafikolycka på E6:an strax norr om Varberg.",
-    "url": "/aktuellt/handelser/2026/juli/10/10-juli-13.13-trafikolycka-varberg/",
-    "type": "Trafikolycka",
+    "id": 646702,
+    "datetime": "2026-07-10 14:31:50 +02:00",
+    "name": "10 juli 14.23, Övrigt, Malmö",
+    "summary": "Bevakning med UAS i delar av centrala Malmö.",
+    "url": "/aktuellt/handelser/2026/juli/10/10-juli-14.23-ovrigt-malmo/",
+    "type": "Övrigt",
     "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Dalarnas län",
       "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 645900,
-    "datetime": "2026-07-02 7:30:27 +02:00",
-    "name": "2 juli 07.16, Sammanfattning natt, Värmlands län",
-    "summary": "Nedan följer ett urval av nattens operativa arbete i länet",
-    "url": "/aktuellt/handelser/2026/juli/2/2-juli-07.16-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 645905,
-    "datetime": "2026-07-02 7:30:09 +02:00",
-    "name": "2 juli 07.30, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2026/juli/2/2-juli-07.30-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 645904,
-    "datetime": "2026-07-02 7:28:57 +02:00",
-    "name": "2 juli 07.28, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2026/juli/2/2-juli-07.28-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 645902,
-    "datetime": "2026-07-02 7:23:12 +02:00",
-    "name": "2 juli 06.51, Brand, Hultsfred",
-    "summary": "Bilbrand på industriområde",
-    "url": "/aktuellt/handelser/2026/juli/2/2-juli-06.51-brand-hultsfred/",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 645898,
-    "datetime": "2026-07-02 7:12:18 +02:00",
-    "name": "2 juli 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/juli/2/2-juli-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 645899,
-    "datetime": "2026-07-02 7:12:10 +02:00",
-    "name": "2 juli 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/juli/2/2-juli-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
