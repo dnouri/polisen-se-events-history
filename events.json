@@ -1,5 +1,125 @@
 [
   {
+    "id": 646814,
+    "datetime": "2026-07-12 10:45:38 +02:00",
+    "name": "12 juli 10.37, Trafikhinder, Söderhamn",
+    "summary": "Svanfamilj försöker passera E4 vid Tönnebro.",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-10.37-trafikhinder-soderhamn/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 646820,
+    "datetime": "2026-07-12 11:25:47 +02:00",
+    "name": "12 juli 10.45, Kontroll, Älmhult",
+    "summary": "Kontroll på Älmhult tågstation",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-10.45-kontroll-almhult/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 646817,
+    "datetime": "2026-07-12 10:56:27 +02:00",
+    "name": "12 juli 10.46, Brand, Härnösand",
+    "summary": "Larm om brand i en personbil på Kronholmen i Härnösand.",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-10.46-brand-harnosand/",
+    "type": "Brand",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 646819,
+    "datetime": "2026-07-12 11:11:06 +02:00",
+    "name": "12 juli 09.27, Brand, Smedjebacken",
+    "summary": "Det har brunnit i en fastighet i Smedjebacken",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-09.27-brand-smedjebacken/",
+    "type": "Brand",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 646818,
+    "datetime": "2026-07-12 11:10:58 +02:00",
+    "name": "12 juli 10.54, Trafikolycka, Ljungby",
+    "summary": "Larm om trafikolycka i centrala Ljungby",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-10.54-trafikolycka-ljungby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 646815,
+    "datetime": "2026-07-12 10:50:43 +02:00",
+    "name": "12 juli 10.34, Trafikolycka, Vilhelmina",
+    "summary": "Det kommer in ett larm om en trafikolycka på Ryttarvägen/Volgsjövägen i Vilhelmina,",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-10.34-trafikolycka-vilhelmina/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 646816,
+    "datetime": "2026-07-12 10:51:21 +02:00",
+    "name": "12 juli 10.49, Övrigt, Malmö",
+    "summary": "Information om fotbollsmatchen MFF-IFK Göteborg.",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-10.49-ovrigt-malmo/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 646813,
+    "datetime": "2026-07-12 10:43:45 +02:00",
+    "name": "12 juli 10.14, Trafikolycka, vilt, Arvidsjaur",
+    "summary": "Polisen får in en anmälan om en olycka med en husbil och en ren strax norr om länsväg 95/Legerträskvägen, Abbo",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-10.14-trafikolycka-vilt-arvidsjaur/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 646812,
+    "datetime": "2026-07-12 10:38:25 +02:00",
+    "name": "12 juli 10.30, Trafikolycka, singel, Norrköping",
+    "summary": "Trafikolycka på riksväg 55",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-10.30-trafikolycka-singel-norrkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 646809,
+    "datetime": "2026-07-12 8:12:00 +02:00",
+    "name": "12 juli 07.58, Brand, Kristianstad",
+    "summary": "Larm om brand i husbil",
+    "url": "/aktuellt/handelser/2026/juli/12/12-juli-07.58-brand-kristianstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 646811,
     "datetime": "2026-07-12 9:16:43 +02:00",
     "name": "12 juli 02.23, Mordbrand, Stockholm",
@@ -69,18 +189,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 646809,
-    "datetime": "2026-07-12 8:12:00 +02:00",
-    "name": "12 juli 07.58, Brand, Kristianstad",
-    "summary": "Larm om brand i husbil",
-    "url": "/aktuellt/handelser/2026/juli/12/12-juli-07.58-brand-kristianstad/",
-    "type": "Brand",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 646083,
-    "datetime": "2026-07-03 17:14:44 +02:00",
-    "name": "3 juli 10.49, Misshandel, Staffanstorp",
-    "summary": "Misshandel i nära relation",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-10.49-misshandel-staffanstorp/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 646135,
-    "datetime": "2026-07-03 15:53:20 +02:00",
-    "name": "3 juli 14.59, Trafikolycka, Stockholm",
-    "summary": "Bilförare får böter efter trafikolycka på Essingeleden .",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-14.59-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 646096,
-    "datetime": "2026-07-03 14:50:36 +02:00",
-    "name": "3 juli 12.22, Trafikolycka, singel, Enköping",
-    "summary": "Elsparkcykel i singelolycka.",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-12.22-trafikolycka-singel-enkoping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 646091,
-    "datetime": "2026-07-03 14:03:06 +02:00",
-    "name": "3 juli 13.37, Trafikolycka, Värnamo",
-    "summary": "Två personer påkörda i Värnamo",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-13.37-trafikolycka-varnamo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 646095,
-    "datetime": "2026-07-03 14:36:19 +02:00",
-    "name": "3 juli 14.34, Rattfylleri, Piteå",
-    "summary": "Öjebyn, polisen kontrollerar en personbil.",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-14.34-rattfylleri-pitea/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 646074,
-    "datetime": "2026-07-03 12:43:40 +02:00",
-    "name": "3 juli 11.31, Trafikolycka, Strömsund",
-    "summary": "Det inkommer ett larm om en trafikolycka på väg 815, söder om Svansele.",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-11.31-trafikolycka-stromsund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 646088,
-    "datetime": "2026-07-03 13:49:06 +02:00",
-    "name": "3 juli 12.35, Skadegörelse, Skellefteå",
-    "summary": "Polispatrull beordras till en butik i centrala Skellefteå med anledning av en skadegörelse.",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-12.35-skadegorelse-skelleftea/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 646087,
-    "datetime": "2026-07-03 13:42:57 +02:00",
-    "name": "3 juli 13.22, Farligt föremål, misstänkt, Sundsvall",
-    "summary": "Polisen kontaktas om att en väska lämnats på en bank i centrala Sundsvall.",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-13.22-farligt-foremal-misstankt-sundsvall/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 646085,
-    "datetime": "2026-07-03 13:37:03 +02:00",
-    "name": "3 juli 11.58, Trafikolycka, smitning från, Karlstad",
-    "summary": "Smitning från trafikolycka på Orrholmen.",
-    "url": "/aktuellt/handelser/2026/juli/3/3-juli-11.58-trafikolycka-smitning-fran-karlstad/",
-    "type": "Trafikolycka, smitning från",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
