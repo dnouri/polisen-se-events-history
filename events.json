@@ -1,5 +1,101 @@
 [
   {
+    "id": 646980,
+    "datetime": "2026-07-14 18:25:05 +02:00",
+    "name": "14 juli 17.10, Räddningsinsats, Falkenberg",
+    "summary": "En person har anträffats livlös i vattnet vid Glommen i Falkenberg.",
+    "url": "/aktuellt/handelser/2026/juli/14/14-juli-17.10-raddningsinsats-falkenberg/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 646981,
+    "datetime": "2026-07-14 18:21:00 +02:00",
+    "name": "14 juli 16.03, Misshandel, Stockholm",
+    "summary": "Kvinna kastar glas på restaurang.",
+    "url": "/aktuellt/handelser/2026/juli/14/14-juli-16.03-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 646979,
+    "datetime": "2026-07-14 18:11:49 +02:00",
+    "name": "14 juli 14.30, Stöld/inbrott, Stockholm",
+    "summary": "Inbrott i flera lägenheter på Selmedalsvägen i Hägersten.",
+    "url": "/aktuellt/handelser/2026/juli/14/14-juli-14.30-stoldinbrott-stockholm/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 646978,
+    "datetime": "2026-07-14 18:11:33 +02:00",
+    "name": "14 juli 14.47, Räddningsinsats, Laholm",
+    "summary": "Polis, räddningstjänst och ambulans larmas till Mellbystrand med anledning av en livlös person, en kvinna i 70",
+    "url": "/aktuellt/handelser/2026/juli/14/14-juli-14.47-raddningsinsats-laholm/",
+    "type": "Räddningsinsats",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 646976,
+    "datetime": "2026-07-14 17:29:15 +02:00",
+    "name": "14 juli 14.20, Övrigt, Sigtuna",
+    "summary": "Polis tillkallas efter att en magnetfiskare hittat ett föremål i vattnet utanför Ångbåtsbryggan.",
+    "url": "/aktuellt/handelser/2026/juli/14/14-juli-14.20-ovrigt-sigtuna/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 646970,
+    "datetime": "2026-07-14 16:24:23 +02:00",
+    "name": "14 juli 15.47, Arbetsplatsolycka, Helsingborg",
+    "summary": "Misstänkt arbetsplatsolycka, Industrigatan.",
+    "url": "/aktuellt/handelser/2026/juli/14/14-juli-15.47-arbetsplatsolycka-helsingborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 646975,
+    "datetime": "2026-07-14 17:19:06 +02:00",
+    "name": "14 juli 17.05, Trafikolycka, Göteborg",
+    "summary": "Polis larmas till Wavrinskys plats med anledning av en trafikolycka mellan en personbil och en spårvagn.",
+    "url": "/aktuellt/handelser/2026/juli/14/14-juli-17.05-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 646963,
+    "datetime": "2026-07-14 15:17:39 +02:00",
+    "name": "14 juli 13.00, Försvunnen person, Ljungby",
+    "summary": "Försvunnen man hittad.",
+    "url": "/aktuellt/handelser/2026/juli/14/14-juli-13.00-forsvunnen-person-ljungby/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
     "id": 646969,
     "datetime": "2026-07-14 16:35:21 +02:00",
     "name": "14 juli 13.38, Stöld/inbrott, Sigtuna",
@@ -60,18 +156,6 @@
     }
   },
   {
-    "id": 646970,
-    "datetime": "2026-07-14 16:24:23 +02:00",
-    "name": "14 juli 15.47, Arbetsplatsolycka, Helsingborg",
-    "summary": "Misstänkt arbetsplatsolycka, Industrigatan.",
-    "url": "/aktuellt/handelser/2026/juli/14/14-juli-15.47-arbetsplatsolycka-helsingborg/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
     "id": 646967,
     "datetime": "2026-07-14 16:04:05 +02:00",
     "name": "14 juli 15.17, Trafikolycka, Ängelholm",
@@ -81,18 +165,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 646963,
-    "datetime": "2026-07-14 15:17:39 +02:00",
-    "name": "14 juli 13.00, Försvunnen person, Ljungby",
-    "summary": "Man försvunnen, Bolmen.",
-    "url": "/aktuellt/handelser/2026/juli/14/14-juli-13.00-forsvunnen-person-ljungby/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 646257,
-    "datetime": "2026-07-05 14:46:25 +02:00",
-    "name": "5 juli 14.45, Övrigt, Hallands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2026/juli/5/5-juli-14.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 646255,
-    "datetime": "2026-07-05 14:17:29 +02:00",
-    "name": "5 juli 14.05, Trafikolycka, Piteå",
-    "summary": "Singelolycka på länsväg 502 Holmfors, Piteå.",
-    "url": "/aktuellt/handelser/2026/juli/5/5-juli-14.05-trafikolycka-pitea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 646254,
-    "datetime": "2026-07-05 14:07:57 +02:00",
-    "name": "5 juli 12.11, Rattfylleri, Motala",
-    "summary": "Rattfylleri i Motala",
-    "url": "/aktuellt/handelser/2026/juli/5/5-juli-12.11-rattfylleri-motala/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 646253,
-    "datetime": "2026-07-05 13:59:34 +02:00",
-    "name": "5 juli 11.35, Stöld, försök, Umeå",
-    "summary": "Försök till stöld av elsparkcykel.",
-    "url": "/aktuellt/handelser/2026/juli/5/5-juli-11.35-stold-forsok-umea/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 646252,
-    "datetime": "2026-07-05 13:39:18 +02:00",
-    "name": "5 juli 11.03, Våld/hot mot tjänsteman, Haparanda",
-    "summary": "Man gripen misstänkt för våld mot tjänsteman mm.",
-    "url": "/aktuellt/handelser/2026/juli/5/5-juli-11.03-valdhot-mot-tjansteman-haparanda/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 646251,
-    "datetime": "2026-07-05 12:25:24 +02:00",
-    "name": "5 juli 10.46, Rattfylleri, Pajala",
-    "summary": "Rattfylleri i Pajala.",
-    "url": "/aktuellt/handelser/2026/juli/5/5-juli-10.46-rattfylleri-pajala/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
