@@ -1,5 +1,77 @@
 [
   {
+    "id": 647068,
+    "datetime": "2026-07-15 15:38:30 +02:00",
+    "name": "15 juli 15.19, Brand, Landskrona",
+    "summary": "Brand i lastbil på E6 vid Glömslöv.",
+    "url": "/aktuellt/handelser/2026/juli/15/15-juli-15.19-brand-landskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 647067,
+    "datetime": "2026-07-15 15:17:13 +02:00",
+    "name": "15 juli 15.16, Övrigt, Södermanlands län",
+    "summary": "Presstalesperson",
+    "url": "/aktuellt/handelser/2026/juli/15/15-juli-15.16-ovrigt-sodermanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 647066,
+    "datetime": "2026-07-15 15:16:48 +02:00",
+    "name": "15 juli 15.16, Övrigt, Östergötlands län",
+    "summary": "presstalesperson",
+    "url": "/aktuellt/handelser/2026/juli/15/15-juli-15.16-ovrigt-ostergotlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 647065,
+    "datetime": "2026-07-15 15:16:19 +02:00",
+    "name": "15 juli 15.14, Övrigt, Jönköpings län",
+    "summary": "Presstalesperson",
+    "url": "/aktuellt/handelser/2026/juli/15/15-juli-15.14-ovrigt-jonkopings-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 646894,
+    "datetime": "2026-07-13 19:25:50 +02:00",
+    "name": "13 juli 19.23, Försvunnen person, Pajala",
+    "summary": "Försvunnen man i Lautakoski Pajala",
+    "url": "/aktuellt/handelser/2026/juli/13/13-juli-19.23-forsvunnen-person-pajala/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 647063,
+    "datetime": "2026-07-15 14:59:38 +02:00",
+    "name": "15 juli 14.31, Trafikolycka, Östersund",
+    "summary": "Det inkommer ett larm om en trafikolycka på E14, Lockne.",
+    "url": "/aktuellt/handelser/2026/juli/15/15-juli-14.31-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
     "id": 647062,
     "datetime": "2026-07-15 14:40:35 +02:00",
     "name": "15 juli 14.40, Trafikkontroll, Västerbottens län",
@@ -813,18 +885,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 646894,
-    "datetime": "2026-07-13 19:25:50 +02:00",
-    "name": "13 juli 19.23, Försvunnen person, Pajala",
-    "summary": "Försvunnen man i Lautakoski Pajala",
-    "url": "/aktuellt/handelser/2026/juli/13/13-juli-19.23-forsvunnen-person-pajala/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 646345,
-    "datetime": "2026-07-06 16:25:36 +02:00",
-    "name": "6 juli 16.25, Information, Västra Götalands län",
-    "summary": "Polisen i Region Väst uppmanar till ökad vaksamhet för bostadsinbrott efter flera fall av inbrott när de boend",
-    "url": "/aktuellt/handelser/2026/juli/6/6-juli-16.25-information-vastra-gotalands-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 646346,
-    "datetime": "2026-07-06 16:25:14 +02:00",
-    "name": "6 juli 16.25, Information, Hallands län",
-    "summary": "Polisen i Region Väst uppmanar till ökad vaksamhet för bostadsinbrott efter flera fall av inbrott när de boend",
-    "url": "/aktuellt/handelser/2026/juli/6/6-juli-16.25-information-hallands-lan/",
-    "type": "Information",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 646344,
-    "datetime": "2026-07-06 16:02:01 +02:00",
-    "name": "6 juli 15.58, Misshandel, grov, Göteborg",
-    "summary": "Polis larmas till en adress i Kviberg, där en man uppges ha blivit misshandlad med ett tillhygge.",
-    "url": "/aktuellt/handelser/2026/juli/6/6-juli-15.58-misshandel-grov-goteborg/",
-    "type": "Misshandel, grov",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 646341,
-    "datetime": "2026-07-06 15:15:46 +02:00",
-    "name": "6 juli 15.06, Arbetsplatsolycka, Hässleholm",
-    "summary": "Två personer skadade, Hässleholm.",
-    "url": "/aktuellt/handelser/2026/juli/6/6-juli-15.06-arbetsplatsolycka-hassleholm/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 646337,
-    "datetime": "2026-07-06 14:41:19 +02:00",
-    "name": "6 juli 14.39, Olaga hot, Avesta",
-    "summary": "Man gripen misstänkt för skadegörelse samt grovt olaga hot.",
-    "url": "/aktuellt/handelser/2026/juli/6/6-juli-14.39-olaga-hot-avesta/",
-    "type": "Olaga hot",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
