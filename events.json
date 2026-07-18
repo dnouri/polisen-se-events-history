@@ -1,11 +1,59 @@
 [
   {
-    "id": 647305,
-    "datetime": "2026-07-18 11:20:26 +02:00",
-    "name": "18 juli 11.08, Bråk, Täby",
-    "summary": "Från en lägenhet i Grindtorp kan man höra ljud som om det det skulle pågå ett omfattande bråk i en lägenhet.",
-    "url": "/aktuellt/handelser/2026/juli/18/18-juli-11.08-brak-taby/",
-    "type": "Bråk",
+    "id": 647306,
+    "datetime": "2026-07-18 11:21:43 +02:00",
+    "name": "18 juli 11.07, Brand, Älvdalen",
+    "summary": "Det brinner i en mindre byggnad i Holen",
+    "url": "/aktuellt/handelser/2026/juli/18/18-juli-11.07-brand-alvdalen/",
+    "type": "Brand",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 647307,
+    "datetime": "2026-07-18 11:23:51 +02:00",
+    "name": "18 juli 11.08, Arbetsplatsolycka, Ludvika",
+    "summary": "En olycka har inträffat på en arbetsplats i centrum",
+    "url": "/aktuellt/handelser/2026/juli/18/18-juli-11.08-arbetsplatsolycka-ludvika/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 647304,
+    "datetime": "2026-07-18 11:14:12 +02:00",
+    "name": "18 juli 10.55, Trafikolycka, Umeå",
+    "summary": "Larm om trafikolycka på länsväg 522/ Stöcksjö Degernäsväg.",
+    "url": "/aktuellt/handelser/2026/juli/18/18-juli-10.55-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 647312,
+    "datetime": "2026-07-18 12:49:13 +02:00",
+    "name": "18 juli 12.49, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/juli/18/18-juli-12.49-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 647310,
+    "datetime": "2026-07-18 12:19:56 +02:00",
+    "name": "18 juli 12.14, Larm Överfall, Salem",
+    "summary": "Chauffören på en buss i linjetrafik som befinner sig Rönninge har utlöst överfallslarm.",
+    "url": "/aktuellt/handelser/2026/juli/18/18-juli-12.14-larm-overfall-salem/",
+    "type": "Larm Överfall",
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
@@ -24,39 +72,27 @@
     }
   },
   {
-    "id": 647307,
-    "datetime": "2026-07-18 11:23:51 +02:00",
-    "name": "18 juli 11.08, Arbetsplatsolycka, Ludvika",
-    "summary": "En olycka har inträffat på en arbetsplats i centrum",
-    "url": "/aktuellt/handelser/2026/juli/18/18-juli-11.08-arbetsplatsolycka-ludvika/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 647306,
-    "datetime": "2026-07-18 11:21:43 +02:00",
-    "name": "18 juli 11.07, Brand, Älvdalen",
-    "summary": "Det brinner i en mindre byggnad i Holen",
-    "url": "/aktuellt/handelser/2026/juli/18/18-juli-11.07-brand-alvdalen/",
-    "type": "Brand",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 647304,
-    "datetime": "2026-07-18 11:14:12 +02:00",
-    "name": "18 juli 10.55, Trafikolycka, Umeå",
-    "summary": "Larm om trafikolycka på länsväg 522/ Stöcksjö Degernäsväg.",
-    "url": "/aktuellt/handelser/2026/juli/18/18-juli-10.55-trafikolycka-umea/",
-    "type": "Trafikolycka",
+    "id": 647309,
+    "datetime": "2026-07-18 12:05:30 +02:00",
+    "name": "18 juli 07.01, Fjällräddning, Sorsele",
+    "summary": "Helikopter undsatte skadad kvinna i Ammarnäs.",
+    "url": "/aktuellt/handelser/2026/juli/18/18-juli-07.01-fjallraddning-sorsele/",
+    "type": "Fjällräddning",
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 647305,
+    "datetime": "2026-07-18 11:20:26 +02:00",
+    "name": "18 juli 11.08, Bråk, Täby",
+    "summary": "Från en lägenhet i Grindtorp kan man höra ljud som om det det skulle pågå ett omfattande bråk i en lägenhet.",
+    "url": "/aktuellt/handelser/2026/juli/18/18-juli-11.08-brak-taby/",
+    "type": "Bråk",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Kalmar län",
       "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 646619,
-    "datetime": "2026-07-09 17:16:16 +02:00",
-    "name": "9 juli 15.53, Bråk, Järfälla",
-    "summary": "Flera personer bråkar på Datavägen i Barkarby.",
-    "url": "/aktuellt/handelser/2026/juli/9/9-juli-15.53-brak-jarfalla/",
-    "type": "Bråk",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 646605,
-    "datetime": "2026-07-09 14:22:22 +02:00",
-    "name": "9 juli 13.58, Trafikolycka, Ystad",
-    "summary": "Sidokollision på Österleden.",
-    "url": "/aktuellt/handelser/2026/juli/9/9-juli-13.58-trafikolycka-ystad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 646601,
-    "datetime": "2026-07-09 13:52:30 +02:00",
-    "name": "9 juli 13.03, Trafikolycka, Karlstad",
-    "summary": "Två bilister har kolliderat på riksväg 63",
-    "url": "/aktuellt/handelser/2026/juli/9/9-juli-13.03-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
