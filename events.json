@@ -1,5 +1,41 @@
 [
   {
+    "id": 647613,
+    "datetime": "2026-07-22 11:11:49 +02:00",
+    "name": "22 juli 08.45, Rån, försök, Malmö",
+    "summary": "Man gripen för försök till rån, Fosie.",
+    "url": "/aktuellt/handelser/2026/juli/22/22-juli-08.45-ran-forsok-malmo/",
+    "type": "Rån, försök",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 647614,
+    "datetime": "2026-07-22 11:08:17 +02:00",
+    "name": "22 juli 10.06, Kontroll, Sundsvall",
+    "summary": "Granloholm, polis beordras till sjukhuset för att kontrollera en man",
+    "url": "/aktuellt/handelser/2026/juli/22/22-juli-10.06-kontroll-sundsvall/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 647577,
+    "datetime": "2026-07-22 10:48:11 +02:00",
+    "name": "22 juli 08.33, Trafikkontroll, Örnsköldsvik",
+    "summary": "Hästmarksvägen, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2026/juli/22/22-juli-08.33-trafikkontroll-ornskoldsvik/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 647572,
     "datetime": "2026-07-22 8:57:16 +02:00",
     "name": "22 juli 08.49, Trafikolycka, Lund",
@@ -9,6 +45,30 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 647573,
+    "datetime": "2026-07-22 10:26:58 +02:00",
+    "name": "22 juli 09.35, Brand, Ljungby",
+    "summary": "Larm om brand i terräng",
+    "url": "/aktuellt/handelser/2026/juli/22/22-juli-09.35-brand-ljungby/",
+    "type": "Brand",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 647546,
+    "datetime": "2026-07-21 22:09:57 +02:00",
+    "name": "21 juli 21.44, Mord/dråp, försök, Botkyrka",
+    "summary": "Knivskadad person i Alby förd till sjukhus.",
+    "url": "/aktuellt/handelser/2026/juli/21/21-juli-21.44-morddrap-forsok-botkyrka/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -273,18 +333,6 @@
     "location": {
       "name": "Kronobergs län",
       "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 647546,
-    "datetime": "2026-07-21 22:09:57 +02:00",
-    "name": "21 juli 21.44, Mord/dråp, försök, Botkyrka",
-    "summary": "Knivskadad person i Alby förd till sjukhus.",
-    "url": "/aktuellt/handelser/2026/juli/21/21-juli-21.44-morddrap-forsok-botkyrka/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 646886,
-    "datetime": "2026-07-13 15:08:13 +02:00",
-    "name": "13 juli 14.36, Trafikolycka, Kristianstad",
-    "summary": "Kollision mellan lastbil och personbil.",
-    "url": "/aktuellt/handelser/2026/juli/13/13-juli-14.36-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 646860,
-    "datetime": "2026-07-13 8:05:06 +02:00",
-    "name": "13 juli 04.51, Brand, Ånge",
-    "summary": "Brand i villa i Alby, Ånge.",
-    "url": "/aktuellt/handelser/2026/juli/13/13-juli-04.51-brand-ange/",
-    "type": "Brand",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 646885,
-    "datetime": "2026-07-13 14:18:46 +02:00",
-    "name": "13 juli 11.36, Skadegörelse, Sundsvall",
-    "summary": "Man ska ha försökt ta sig in i bil.",
-    "url": "/aktuellt/handelser/2026/juli/13/13-juli-11.36-skadegorelse-sundsvall/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 646874,
-    "datetime": "2026-07-13 12:11:46 +02:00",
-    "name": "13 juli 11.30, Farligt föremål, misstänkt, Stockholm",
-    "summary": "Polisen kontrollerar ett föremål i en garderob i en källare till en flerfamiljsfastighet i Tallkrogen.",
-    "url": "/aktuellt/handelser/2026/juli/13/13-juli-11.30-farligt-foremal-misstankt-stockholm/",
-    "type": "Farligt föremål, misstänkt",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
