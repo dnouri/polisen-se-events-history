@@ -1,5 +1,41 @@
 [
   {
+    "id": 647847,
+    "datetime": "2026-07-25 13:04:25 +02:00",
+    "name": "25 juli 12.50, Brand, Halmstad",
+    "summary": "Brand i restauranglokal.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-12.50-brand-halmstad/",
+    "type": "Brand",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 647850,
+    "datetime": "2026-07-25 13:31:22 +02:00",
+    "name": "25 juli 11.50, Trafikolycka, Håbo",
+    "summary": "Kollision mellan cyklist och bilist.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-11.50-trafikolycka-habo/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 647849,
+    "datetime": "2026-07-25 13:26:05 +02:00",
+    "name": "25 juli 12.20, Misshandel, Göteborg",
+    "summary": "Kvinna gripen misstänkt för grov misshandel.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-12.20-misshandel-goteborg/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 647844,
     "datetime": "2026-07-25 12:13:43 +02:00",
     "name": "25 juli 12.00, Brand, Stockholm",
@@ -12,27 +48,27 @@
     }
   },
   {
-    "id": 647843,
-    "datetime": "2026-07-25 12:11:20 +02:00",
-    "name": "25 juli 10.18, Rattfylleri, Östersund",
-    "summary": "Östersund, förare misstänks för rattfylleri.",
-    "url": "/aktuellt/handelser/2026/juli/25/25-juli-10.18-rattfylleri-ostersund/",
-    "type": "Rattfylleri",
+    "id": 647846,
+    "datetime": "2026-07-25 13:20:33 +02:00",
+    "name": "25 juli 10.40, Stöld, Kalix",
+    "summary": "Kalix, stöld i butik.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-10.40-stold-kalix/",
+    "type": "Stöld",
     "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
     }
   },
   {
-    "id": 647842,
-    "datetime": "2026-07-25 12:06:38 +02:00",
-    "name": "25 juli 10.32, Stöld, Sundsvall",
-    "summary": "Birsta, stöld i butik.",
-    "url": "/aktuellt/handelser/2026/juli/25/25-juli-10.32-stold-sundsvall/",
-    "type": "Stöld",
+    "id": 647838,
+    "datetime": "2026-07-25 11:08:45 +02:00",
+    "name": "25 juli 10.45, Brand, Sundbyberg",
+    "summary": "Det brinner i ett trapphus  till ett flerbostadshus i Stora Ursvik.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-10.45-brand-sundbyberg/",
+    "type": "Brand",
     "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -45,6 +81,30 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 647848,
+    "datetime": "2026-07-25 13:12:31 +02:00",
+    "name": "25 juli 10.18, Rattfylleri, Östersund",
+    "summary": "Östersund, förare misstänkt för rattfylleri.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-102.18-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 647845,
+    "datetime": "2026-07-25 12:54:35 +02:00",
+    "name": "25 juli 11.53, Misshandel, Gotlands län",
+    "summary": "En kvinna som tagit sin tillflykt till en granne uppger att hon blivit misshandlad av sin pojkvän.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-11.53-misshandel-gotlands-lan/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
     }
   },
   {
@@ -72,6 +132,30 @@
     }
   },
   {
+    "id": 647843,
+    "datetime": "2026-07-25 12:11:20 +02:00",
+    "name": "25 juli 10.18, Rattfylleri, Östersund",
+    "summary": "Östersund, förare misstänks för rattfylleri.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-10.18-rattfylleri-ostersund/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 647842,
+    "datetime": "2026-07-25 12:06:38 +02:00",
+    "name": "25 juli 10.32, Stöld, Sundsvall",
+    "summary": "Birsta, stöld i butik.",
+    "url": "/aktuellt/handelser/2026/juli/25/25-juli-10.32-stold-sundsvall/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
     "id": 647836,
     "datetime": "2026-07-25 10:55:33 +02:00",
     "name": "25 juli 10.48, Trafikolycka, Malmö",
@@ -93,18 +177,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 647838,
-    "datetime": "2026-07-25 11:08:45 +02:00",
-    "name": "25 juli 10.45, Brand, Sundbyberg",
-    "summary": "Det brinner i ett trapphus  till ett flerbostadshus i Stora Ursvik.",
-    "url": "/aktuellt/handelser/2026/juli/25/25-juli-10.45-brand-sundbyberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 647171,
-    "datetime": "2026-07-17 8:11:36 +02:00",
-    "name": "16 juli 23.26, Rattfylleri, Kristianstad",
-    "summary": "Man misstänkt för grovt rattfylleri, Degeberga",
-    "url": "/aktuellt/handelser/2026/juli/16/16-juli-23.26-rattfylleri-kristianstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 647169,
-    "datetime": "2026-07-17 8:03:52 +02:00",
-    "name": "17 juli 08.03, Sammanfattning natt, Jönköpings län",
-    "summary": "God morgon. Här följer ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/juli/17/17-juli-08.03-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 647168,
-    "datetime": "2026-07-17 8:03:30 +02:00",
-    "name": "17 juli 08.03, Sammanfattning natt, Södermanlands län",
-    "summary": "God morgon. Här följer ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/juli/17/17-juli-08.03-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 647167,
-    "datetime": "2026-07-17 8:03:12 +02:00",
-    "name": "17 juli 08.02, Sammanfattning natt, Östergötlands län",
-    "summary": "God morgon. Här följer ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/juli/17/17-juli-08.02-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 647165,
-    "datetime": "2026-07-17 7:43:40 +02:00",
-    "name": "17 juli 07.43, Sammanfattning natt, Jämtlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2026/juli/17/17-juli-07.43-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 647158,
-    "datetime": "2026-07-17 7:43:00 +02:00",
-    "name": "17 juli 07.42, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av nattens polisverksamhet 22.00–07.00.",
-    "url": "/aktuellt/handelser/2026/juli/17/17-juli-07.42-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
