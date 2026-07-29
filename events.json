@@ -1,14 +1,326 @@
 [
   {
-    "id": 648103,
-    "datetime": "2026-07-29 6:19:31 +02:00",
-    "name": "29 juli 00.52, Rattfylleri, Malmö",
-    "summary": "Misstänkt rattfylleri, E20.",
-    "url": "/aktuellt/handelser/2026/juli/29/29-juli-00.52-rattfylleri-malmo/",
-    "type": "Rattfylleri",
+    "id": 648143,
+    "datetime": "2026-07-29 9:07:57 +02:00",
+    "name": "29 juli 06.23, Fjällräddning, Älvdalen",
+    "summary": "En person behöver hjälp på fjällen i Grövelsjön",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-06.23-fjallraddning-alvdalen/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 648142,
+    "datetime": "2026-07-29 8:51:52 +02:00",
+    "name": "29 juli 08.00, Farligt föremål, misstänkt, Kiruna",
+    "summary": "Kiruna, misstänkt farligt föremål bedöms vara ofarligt.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-08.00-farligt-foremal-misstankt-kiruna/",
+    "type": "Farligt föremål, misstänkt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 648133,
+    "datetime": "2026-07-29 8:12:53 +02:00",
+    "name": "29 juli 03.20, Brand, Stockholm",
+    "summary": "Larm om brand under Skanstullsbron på Södermalm.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-032.20-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 648109,
+    "datetime": "2026-07-29 6:53:27 +02:00",
+    "name": "29 juli 06.28, Trafikolycka, Perstorp",
+    "summary": "Kollision mellan cyklist och elsparkcyklist, Elektrodvägen.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-06.28-trafikolycka-perstorp/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 648131,
+    "datetime": "2026-07-29 8:01:58 +02:00",
+    "name": "29 juli 08.00, Sammanfattning natt, Södermanlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-08.00-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 648106,
+    "datetime": "2026-07-29 6:45:14 +02:00",
+    "name": "29 juli 02.15, Mordbrand, Sölvesborg",
+    "summary": "Misstänkt försök till mordbrand, Stortoget.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-02.15-mordbrand-solvesborg/",
+    "type": "Mordbrand",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 648126,
+    "datetime": "2026-07-29 7:59:42 +02:00",
+    "name": "29 juli 07.47, Sammanfattning natt, Jönköpings län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.47-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 648128,
+    "datetime": "2026-07-29 7:59:35 +02:00",
+    "name": "29 juli 07.50, Sammanfattning natt, Östergötlands län",
+    "summary": "Nattsammanfattning",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.50-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 648129,
+    "datetime": "2026-07-29 7:56:21 +02:00",
+    "name": "28 juli 19.25, Trafikolycka, Gävle",
+    "summary": "Larm om trafikolycka.",
+    "url": "/aktuellt/handelser/2026/juli/28/28-juli-19.25-trafikolycka-gavle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 648127,
+    "datetime": "2026-07-29 7:53:12 +02:00",
+    "name": "28 juli 17.43, Trafikbrott, Hudiksvall",
+    "summary": "Urval av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/juli/28/28-juli-17.43-trafikbrott-hudiksvall/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 648125,
+    "datetime": "2026-07-29 7:43:17 +02:00",
+    "name": "28 juli 22.57, Trafikbrott, Håbo",
+    "summary": "Bil stoppades.",
+    "url": "/aktuellt/handelser/2026/juli/28/28-juli-22.57-trafikbrott-habo/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 648124,
+    "datetime": "2026-07-29 7:37:47 +02:00",
+    "name": "29 juli 01.45, Skadegörelse, Västerås",
+    "summary": "Samtal om skadegörelse.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-01.45-skadegorelse-vasteras/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 648117,
+    "datetime": "2026-07-29 7:35:38 +02:00",
+    "name": "29 juli 07.25, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.25-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 648118,
+    "datetime": "2026-07-29 7:35:30 +02:00",
+    "name": "29 juli 07.27, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.27-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 648119,
+    "datetime": "2026-07-29 7:35:23 +02:00",
+    "name": "29 juli 07.29, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.29-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 648121,
+    "datetime": "2026-07-29 7:35:14 +02:00",
+    "name": "29 juli 07.32, Information, Dalarnas län",
+    "summary": "Idag är RMC, Regionalt mediecenter, stängt",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.32-information-dalarnas-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 648122,
+    "datetime": "2026-07-29 7:35:08 +02:00",
+    "name": "29 juli 07.34, Information, Örebro län",
+    "summary": "Idag är RMC, Regionalt mediecenter, stängt",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.34-information-orebro-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 648123,
+    "datetime": "2026-07-29 7:35:03 +02:00",
+    "name": "29 juli 07.34, Information, Värmlands län",
+    "summary": "Idag är RMC, Regionalt mediecenter, stängt",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.34-information-varmlands-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 648120,
+    "datetime": "2026-07-29 7:32:39 +02:00",
+    "name": "28 juli 17.44, Bråk, Arboga",
+    "summary": "Samtal om bråk.",
+    "url": "/aktuellt/handelser/2026/juli/28/28-juli-17.44-brak-arboga/",
+    "type": "Bråk",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 648108,
+    "datetime": "2026-07-29 7:28:56 +02:00",
+    "name": "29 juli 07.28, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.28-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 648110,
+    "datetime": "2026-07-29 7:26:45 +02:00",
+    "name": "29 juli 07.26, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.26-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 648116,
+    "datetime": "2026-07-29 7:26:38 +02:00",
+    "name": "29 juli 03.20, Brand, Stockholm",
+    "summary": "Larm om brand under Skanstullsbron på Södermalm.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-03.20-brand-stockholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 648113,
+    "datetime": "2026-07-29 7:26:10 +02:00",
+    "name": "29 juli 07.26, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.26-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 648115,
+    "datetime": "2026-07-29 7:25:47 +02:00",
+    "name": "29 juli 07.25, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-07.25-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 648114,
+    "datetime": "2026-07-29 7:19:57 +02:00",
+    "name": "28 juli 20.36, Skadegörelse, Västerås",
+    "summary": "Skadegörelse på busshållplats.",
+    "url": "/aktuellt/handelser/2026/juli/28/28-juli-20.36-skadegorelse-vasteras/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 648112,
+    "datetime": "2026-07-29 7:12:06 +02:00",
+    "name": "29 juli 03.59, Brand, Knivsta",
+    "summary": "Larm om brand.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-03.59-brand-knivsta/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 648111,
+    "datetime": "2026-07-29 7:07:38 +02:00",
+    "name": "28 juli 15.48, Brand, Västerås",
+    "summary": "Larm om brand.",
+    "url": "/aktuellt/handelser/2026/juli/28/28-juli-15.48-brand-vasteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
     }
   },
   {
@@ -21,6 +333,54 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 648107,
+    "datetime": "2026-07-29 6:48:08 +02:00",
+    "name": "29 juli 02.34, Stöld/inbrott, Helsingborg",
+    "summary": "Man sliter i billdörrar, Högaborg.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-02.34-stoldinbrott-helsingborg/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 648105,
+    "datetime": "2026-07-29 6:35:09 +02:00",
+    "name": "29 juli 02.02, Bråk, Eslöv",
+    "summary": "Bråk, Flygstaden.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-02.02-brak-eslov/",
+    "type": "Bråk",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 648104,
+    "datetime": "2026-07-29 6:28:20 +02:00",
+    "name": "29 juli 01.10, Brand, Helsingborg",
+    "summary": "Brand i lagerlokal.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-01.10-brand-helsingborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 648103,
+    "datetime": "2026-07-29 6:19:31 +02:00",
+    "name": "29 juli 00.52, Rattfylleri, Malmö",
+    "summary": "Misstänkt rattfylleri, E20.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-00.52-rattfylleri-malmo/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5637,366 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 647453,
-    "datetime": "2026-07-20 19:47:25 +02:00",
-    "name": "20 juli 19.23, Trafikolycka, personskada, Kungälv",
-    "summary": "SOS larmar om en trafikolycka mellan två personbilar vid Hållslunga.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-19.23-trafikolycka-personskada-kungalv/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 647455,
-    "datetime": "2026-07-20 20:20:34 +02:00",
-    "name": "20 juli 19.48, Trafikolycka, personskada, Kungälv",
-    "summary": "En trafikolycka på avfarten E6 Kode/länsväg 621 i Kode.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-19.48-trafikolycka-personskada-kungalv/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 647454,
-    "datetime": "2026-07-20 19:55:34 +02:00",
-    "name": "20 juli 19.02, Trafikolycka, Stockholm",
-    "summary": "Tre till sjukhus efter trafikolycka i Rinkeby.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-19.02-trafikolycka-stockholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647452,
-    "datetime": "2026-07-20 19:41:50 +02:00",
-    "name": "20 juli 19.15, Trafikhinder, Täby",
-    "summary": "Samtal om man som sparkade på bilar.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-19.15-trafikhinder-taby/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647449,
-    "datetime": "2026-07-20 17:22:32 +02:00",
-    "name": "20 juli 16.55, Kontroll, Stockholm",
-    "summary": "Polisen biträder räddningstjänsten i Årsta.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-16.55-kontroll-stockholm/",
-    "type": "Kontroll",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647451,
-    "datetime": "2026-07-20 18:01:09 +02:00",
-    "name": "20 juli 16.59, Räddningsinsats, Falköping",
-    "summary": "SOS larmar polis om en flygolycka på Falköpings flygplats.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-16.59-raddningsinsats-falkoping/",
-    "type": "Räddningsinsats",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 647450,
-    "datetime": "2026-07-20 17:53:15 +02:00",
-    "name": "20 juli 16.26, Trafikolycka, personskada, Partille",
-    "summary": "Polis larmas till Parallellvägen med anledning av an trafikolycka.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-16.26-trafikolycka-personskada-partille/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 647448,
-    "datetime": "2026-07-20 17:07:30 +02:00",
-    "name": "20 juli 16.02, Rattfylleri, Stockholm",
-    "summary": "Fordonsförare på Södermalm misstänks för drograttfylleri.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-16.02-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647444,
-    "datetime": "2026-07-20 16:16:56 +02:00",
-    "name": "20 juli 16.04, Trafikolycka, Katrineholm",
-    "summary": "Lastbil och personbil i krock.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-16.04-trafikolycka-katrineholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 647445,
-    "datetime": "2026-07-20 16:18:10 +02:00",
-    "name": "20 juli 15.58, Trafikolycka, Nyköping",
-    "summary": "Fyrhjuling i diket.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-15.58-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 647446,
-    "datetime": "2026-07-20 16:29:31 +02:00",
-    "name": "20 juli 15.20, Trafikolycka, Markaryd",
-    "summary": "Lv 520, Strömsnäsbruk",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-15.20-trafikolycka-markaryd/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 647442,
-    "datetime": "2026-07-20 15:22:18 +02:00",
-    "name": "20 juli 14.42, Trafikolycka, Kristianstad",
-    "summary": "Kollision mellan flera fordon på E22, vid trafikplats Härlöv.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-14.42-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 647441,
-    "datetime": "2026-07-20 15:04:34 +02:00",
-    "name": "20 juli 15.04, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-15.04-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 647440,
-    "datetime": "2026-07-20 14:50:38 +02:00",
-    "name": "20 juli 14.20, Trafikolycka, Borlänge",
-    "summary": "En olycka har inträffat på Rv70 i höjd med Willys",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-14.20-trafikolycka-borlange/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 647439,
-    "datetime": "2026-07-20 14:45:40 +02:00",
-    "name": "20 juli 14.34, Trafikolycka, Lund",
-    "summary": "Olycka mellan cyklist och personbil.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-14.34-trafikolycka-lund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 647437,
-    "datetime": "2026-07-20 14:45:29 +02:00",
-    "name": "20 juli 12.01, Sexualbrott, Sundsvall",
-    "summary": "Sundsvall, man som misstänks för sexuellt ofredande är omhändertagen.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-12.01-sexualbrott-sundsvall/",
-    "type": "Sexualbrott",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 647423,
-    "datetime": "2026-07-20 11:39:58 +02:00",
-    "name": "20 juli 07.48, Misshandel, Norrköping",
-    "summary": "Misstänkt misshandel i Hageby",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-07.48-misshandel-norrkoping/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 647438,
-    "datetime": "2026-07-20 14:39:56 +02:00",
-    "name": "20 juli 14.31, Trafikolycka, Kil",
-    "summary": "En olycka har inträffat i centrum",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-14.31-trafikolycka-kil/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 647436,
-    "datetime": "2026-07-20 14:11:53 +02:00",
-    "name": "20 juli 12.38, Misshandel, Örebro",
-    "summary": "Polisen har varit på plats i Rosta",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-12.38-misshandel-orebro/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 647422,
-    "datetime": "2026-07-20 11:32:55 +02:00",
-    "name": "20 juli 11.13, Trafikolycka, Kristinehamn",
-    "summary": "Två bilar är inblandade i en olycka i Landa",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-11.13-trafikolycka-kristinehamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 647427,
-    "datetime": "2026-07-20 12:29:45 +02:00",
-    "name": "20 juli 07.08, Olaga intrång, Solna",
-    "summary": "En man anträffas i ett källarförråd i norra Sundbyberg.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-07.08-olaga-intrang-solna/",
-    "type": "Olaga intrång",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647426,
-    "datetime": "2026-07-20 12:25:16 +02:00",
-    "name": "20 juli 10.46, Fylleri, Kramfors",
-    "summary": "Kramfors, man omhändertagen.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-10.46-fylleri-kramfors/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 647416,
-    "datetime": "2026-07-20 9:48:22 +02:00",
-    "name": "20 juli 08.02, Rattfylleri, Sollentuna",
-    "summary": "Polisen får in tips om en bil som vinglar kraftigt mellan flera filer på E4:an, norrgående, i närheten av traf",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-08.02-rattfylleri-sollentuna/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647420,
-    "datetime": "2026-07-20 10:39:25 +02:00",
-    "name": "20 juli 09.35, Stöld, Stockholm",
-    "summary": "En person blir bestulen på sin ryggsäck på Smålandsgatan.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-09.35-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647418,
-    "datetime": "2026-07-20 10:32:33 +02:00",
-    "name": "20 juli 10.32, Sammanfattning helg, Norrbottens län",
-    "summary": "Norrbotten, sammanfattning av polisens arbete under olika evenemang i länet under helgen.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-10.32-sammanfattning-helg-norrbottens-lan/",
-    "type": "Sammanfattning helg",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 647414,
-    "datetime": "2026-07-20 8:44:33 +02:00",
-    "name": "20 juli 06.40, Stöld, Huddinge",
-    "summary": "Ett stort antal vattenpumpar har stulits från en lokal i Loviseberg.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-06.40-stold-huddinge/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647413,
-    "datetime": "2026-07-20 8:35:04 +02:00",
-    "name": "20 juli 07.56, Trafikolycka, Malmö",
-    "summary": "Larm om singelolycka, Trafikplats Flansbjer",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-07.56-trafikolycka-malmo/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 647412,
-    "datetime": "2026-07-20 8:33:43 +02:00",
-    "name": "20 juli 07.12, Stöld, Stockholm",
-    "summary": "Polis tillkallas till en adress i Årsta efter att en hjullastare stulits.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-07.12-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647411,
-    "datetime": "2026-07-20 8:24:28 +02:00",
-    "name": "20 juli 01.08, Ofredande/förargelse, Huddinge",
-    "summary": "Polis tillkallas till en adress i Stuvsta med anledning av en dispyt mellan taxichaufför och resenär.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-01.08-ofredandeforargelse-huddinge/",
-    "type": "Ofredande/förargelse",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647410,
-    "datetime": "2026-07-20 7:49:53 +02:00",
-    "name": "20 juli 03.03, Rattfylleri, Stockholm",
-    "summary": "Polispatrull kontrollerar en bilist på Maltesholmsvägen i Hässelby Gård.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-03.03-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
     }
   }
 ]
