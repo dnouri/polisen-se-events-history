@@ -1,17 +1,5 @@
 [
   {
-    "id": 648162,
-    "datetime": "2026-07-29 13:48:17 +02:00",
-    "name": "29 juli 13.18, Fylleri, Sundsvall",
-    "summary": "Sundsvall, person omhändertagen.",
-    "url": "/aktuellt/handelser/2026/juli/29/29-juli-13.18-fylleri-sundsvall/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
     "id": 648155,
     "datetime": "2026-07-29 12:12:20 +02:00",
     "name": "29 juli 11.51, Trafikolycka, Lund",
@@ -24,15 +12,27 @@
     }
   },
   {
-    "id": 648159,
-    "datetime": "2026-07-29 12:53:12 +02:00",
-    "name": "29 juli 09.38, Fjällräddning, Åre",
-    "summary": "Sylarna, fjällräddning utförd.",
-    "url": "/aktuellt/handelser/2026/juli/29/29-juli-09.38-fjallraddning-are/",
-    "type": "Fjällräddning",
+    "id": 648169,
+    "datetime": "2026-07-29 16:19:00 +02:00",
+    "name": "29 juli 16.11, Trafikolycka, Värnamo",
+    "summary": "Personbil och bärgningsbil i krock.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-16.11-trafikolycka-varnamo/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 648167,
+    "datetime": "2026-07-29 15:19:35 +02:00",
+    "name": "29 juli 13.32, Kontroll, Malmö",
+    "summary": "Personer som blockerar väg i Oljehamnen.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-13.32-kontroll-malmo/",
+    "type": "Kontroll",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -45,6 +45,90 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 648168,
+    "datetime": "2026-07-29 15:41:33 +02:00",
+    "name": "29 juli 15.37, Försvunnen person, Älvsbyn",
+    "summary": "Försvunnen person i Vidsel",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-15.37-forsvunnen-person-alvsbyn/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 648166,
+    "datetime": "2026-07-29 14:57:40 +02:00",
+    "name": "29 juli 14.57, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-14.57-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 648165,
+    "datetime": "2026-07-29 14:49:55 +02:00",
+    "name": "29 juli 14.36, Misshandel, Gotland",
+    "summary": "Man greps misstänkt för misshandel av kvinna han har relation med.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-14.36-misshandel-gotland/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Gotlands län",
+      "gps": "57.468412,18.486745"
+    }
+  },
+  {
+    "id": 648161,
+    "datetime": "2026-07-29 14:49:39 +02:00",
+    "name": "29 juli 14.49, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-14.49-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 648164,
+    "datetime": "2026-07-29 14:39:58 +02:00",
+    "name": "29 juli 11.06, Fjällräddning, Vilhelmina",
+    "summary": "Fjällräddning i Marsfjällen.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-11.06-fjallraddning-vilhelmina/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 648162,
+    "datetime": "2026-07-29 13:48:17 +02:00",
+    "name": "29 juli 13.18, Fylleri, Sundsvall",
+    "summary": "Sundsvall, person omhändertagen.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-13.18-fylleri-sundsvall/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 648159,
+    "datetime": "2026-07-29 12:53:12 +02:00",
+    "name": "29 juli 09.38, Fjällräddning, Åre",
+    "summary": "Sylarna, fjällräddning utförd.",
+    "url": "/aktuellt/handelser/2026/juli/29/29-juli-09.38-fjallraddning-are/",
+    "type": "Fjällräddning",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5910,90 +5994,6 @@
     "summary": "Ett vittne iakktar en man och en kvinna som stjäl blommor från en vagn vid en livsmedelsbutik i Älmsta.",
     "url": "/aktuellt/handelser/2026/juli/21/21-juli-00.45-stold-norrtalje/",
     "type": "Stöld",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647486,
-    "datetime": "2026-07-21 8:14:49 +02:00",
-    "name": "21 juli 03.48, Skadegörelse, Stockholm",
-    "summary": "Polispatrull påträffar en man på Magelungsvägen i Högdalen som klottrat.",
-    "url": "/aktuellt/handelser/2026/juli/21/21-juli-03.48-skadegorelse-stockholm/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647485,
-    "datetime": "2026-07-21 8:05:40 +02:00",
-    "name": "21 juli 02.00, Rattfylleri, Upplands Väsby",
-    "summary": "En man går och slår på bilar vid en återvinningstation i norra Upplands Väsby.",
-    "url": "/aktuellt/handelser/2026/juli/21/21-juli-02.00-rattfylleri-upplands-vasby/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 647484,
-    "datetime": "2026-07-21 8:05:30 +02:00",
-    "name": "20 juli 22.27, Skadegörelse, Växjö",
-    "summary": "Larm om utåtagerande man vid sjukhusbyggnad",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-22.27-skadegorelse-vaxjo/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 647474,
-    "datetime": "2026-07-21 7:53:58 +02:00",
-    "name": "21 juli 07.53, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/juli/21/21-juli-07.53-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 647463,
-    "datetime": "2026-07-21 7:52:09 +02:00",
-    "name": "21 juli 07.52, Sammanfattning natt, Norrbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/juli/21/21-juli-07.52-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 647477,
-    "datetime": "2026-07-21 7:33:57 +02:00",
-    "name": "21 juli 01.39, Häleri, Ronneby",
-    "summary": "Två personer misstänks för brott efter fordonskontroll",
-    "url": "/aktuellt/handelser/2026/juli/21/21-juli-01.39-haleri-ronneby/",
-    "type": "Häleri",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 647476,
-    "datetime": "2026-07-21 7:29:15 +02:00",
-    "name": "20 juli 22.17, Misshandel, Stockholm",
-    "summary": "En kvinna ringer in till polisen om en misshandel i hemmet i Råcksta.",
-    "url": "/aktuellt/handelser/2026/juli/20/20-juli-22.17-misshandel-stockholm/",
-    "type": "Misshandel",
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
