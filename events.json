@@ -1,5 +1,53 @@
 [
   {
+    "id": 648689,
+    "datetime": "2026-08-05 20:09:09 +02:00",
+    "name": "5 augusti 19.20, Bråk, Landskrona",
+    "summary": "Larm om bråk.",
+    "url": "/aktuellt/handelser/2026/augusti/5/5-augusti-19.20-brak-landskrona/",
+    "type": "Bråk",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 648671,
+    "datetime": "2026-08-05 14:29:34 +02:00",
+    "name": "5 augusti 13.29, Brand, Katrineholm",
+    "summary": "Brand i hus på landsbygden utanför Katrineholm.",
+    "url": "/aktuellt/handelser/2026/augusti/5/5-augusti-13.29-brand-katrineholm/",
+    "type": "Brand",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 648688,
+    "datetime": "2026-08-05 19:34:04 +02:00",
+    "name": "5 augusti 19.03, Trafikolycka, Kävlinge",
+    "summary": "Kollision mellan två personbilar på E6 i höjd med Löddeköpinge.",
+    "url": "/aktuellt/handelser/2026/augusti/5/5-augusti-19.03-trafikolycka-kavlinge/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 648686,
+    "datetime": "2026-08-05 17:24:00 +02:00",
+    "name": "5 augusti 15.03, Mord/dråp, försök, Helsingborg",
+    "summary": "Misstänkt mordförsök.",
+    "url": "/aktuellt/handelser/2026/augusti/5/5-augusti-15.03-morddrap-forsok-helsingborg/",
+    "type": "Mord/dråp, försök",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 648685,
     "datetime": "2026-08-05 16:38:05 +02:00",
     "name": "5 augusti 14.07, Sjölagen, Österåker",
@@ -15,7 +63,7 @@
     "id": 648683,
     "datetime": "2026-08-05 16:28:43 +02:00",
     "name": "5 augusti 16.03, Explosion, Malmö",
-    "summary": "Explosion vid port, Davidshall.",
+    "summary": "Explosion vid port.",
     "url": "/aktuellt/handelser/2026/augusti/5/5-augusti-16.03-explosion-malmo/",
     "type": "Explosion",
     "location": {
@@ -36,18 +84,6 @@
     }
   },
   {
-    "id": 648686,
-    "datetime": "2026-08-05 17:24:00 +02:00",
-    "name": "5 augusti 15.03, Mord/dråp, försök, Helsingborg",
-    "summary": "Misstänkt mordförsök.",
-    "url": "/aktuellt/handelser/2026/augusti/5/5-augusti-15.03-morddrap-forsok-helsingborg/",
-    "type": "Mord/dråp, försök",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
     "id": 648687,
     "datetime": "2026-08-05 17:10:53 +02:00",
     "name": "5 augusti 15.13, Brand, Gotland",
@@ -57,18 +93,6 @@
     "location": {
       "name": "Gotlands län",
       "gps": "57.468412,18.486745"
-    }
-  },
-  {
-    "id": 648671,
-    "datetime": "2026-08-05 14:29:34 +02:00",
-    "name": "5 augusti 13.29, Brand, Katrineholm",
-    "summary": "Brand i hus på landsbygden utanför Katrineholm.",
-    "url": "/aktuellt/handelser/2026/augusti/5/5-augusti-13.29-brand-katrineholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   },
   {
@@ -5973,30 +5997,6 @@
     "location": {
       "name": "Hallands län",
       "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 647994,
-    "datetime": "2026-07-27 21:46:45 +02:00",
-    "name": "27 juli 21.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/juli/27/27-juli-21.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 647949,
-    "datetime": "2026-07-27 8:53:52 +02:00",
-    "name": "27 juli 08.50, Försvunnen person, Kiruna",
-    "summary": "Jukkasjärvi, man i 80-årsåldern har anmälts saknad",
-    "url": "/aktuellt/handelser/2026/juli/27/27-juli-08.50-forsvunnen-person-kiruna/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
     }
   }
 ]
