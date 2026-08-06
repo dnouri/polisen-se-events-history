@@ -1,5 +1,101 @@
 [
   {
+    "id": 648750,
+    "datetime": "2026-08-06 13:27:16 +02:00",
+    "name": "6 augusti 13.25, Trafikolycka, singel, Finspång",
+    "summary": "Singelolycka i Rejmyre.",
+    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-13.25-trafikolycka-singel-finspang/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 648748,
+    "datetime": "2026-08-06 13:47:29 +02:00",
+    "name": "6 augusti 12.15, Trafikolycka, Uppsala",
+    "summary": "Cyklist till sjukhus efter trafikolycka.",
+    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-12.15-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 648752,
+    "datetime": "2026-08-06 13:45:53 +02:00",
+    "name": "6 augusti 13.07, Trafikolycka, Västerås",
+    "summary": "Flera forson inblandade i trafikolycka.",
+    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-13.07-trafikolycka-vasteras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 648751,
+    "datetime": "2026-08-06 13:42:06 +02:00",
+    "name": "6 augusti 13.17, Trafikolycka, Lund",
+    "summary": "Två personbilar kolliderar på E22.",
+    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-13.17-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 648749,
+    "datetime": "2026-08-06 13:18:29 +02:00",
+    "name": "6 augusti 08.47, Stöld/inbrott, Uppsala",
+    "summary": "Inbrott på adress i Polacksbacken.",
+    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-08.47-stoldinbrott-uppsala/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 648747,
+    "datetime": "2026-08-06 13:11:54 +02:00",
+    "name": "6 augusti 10.33, Stöld/inbrott, Luleå",
+    "summary": "Bergnäset, polis kontaktas gällande inbrott i en bil",
+    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-10.33-stoldinbrott-lulea/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 648746,
+    "datetime": "2026-08-06 12:27:05 +02:00",
+    "name": "6 augusti 09.28, Skyddslagen, Ekerö",
+    "summary": "Polisen griper två personer som har fått med ett skyddsobjekt på foto.",
+    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-09.28-skyddslagen-ekero/",
+    "type": "Skyddslagen",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 648741,
+    "datetime": "2026-08-06 9:51:54 +02:00",
+    "name": "6 augusti 09.44, Trafikolycka, Helsingborg",
+    "summary": "Singelolycka med buss.",
+    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-09.44-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 648745,
     "datetime": "2026-08-06 11:18:18 +02:00",
     "name": "6 augusti 11.13, Trafikolycka, Värnamo",
@@ -21,18 +117,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 648741,
-    "datetime": "2026-08-06 9:51:54 +02:00",
-    "name": "6 augusti 09.44, Trafikolycka, Helsingborg",
-    "summary": "Singelolycka med buss.",
-    "url": "/aktuellt/handelser/2026/augusti/6/6-augusti-09.44-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 648056,
-    "datetime": "2026-07-28 11:30:31 +02:00",
-    "name": "28 juli 06.13, Fjällräddning, Kiruna",
-    "summary": "Kebnekaise, vandrande sällskap i behov av hjälp",
-    "url": "/aktuellt/handelser/2026/juli/28/28-juli-06.13-fjallraddning-kiruna/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 648034,
-    "datetime": "2026-07-28 8:50:09 +02:00",
-    "name": "28 juli 08.30, Trafikolycka, Klippan",
-    "summary": "Kollision mellan flera bilar mellan Riseberga och Färingtofta.",
-    "url": "/aktuellt/handelser/2026/juli/28/28-juli-08.30-trafikolycka-klippan/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 648050,
-    "datetime": "2026-07-28 10:44:02 +02:00",
-    "name": "28 juli 10.28, Trafikolycka, singel, Lomma",
-    "summary": "Mc kör av vägen, E6 Flädie.",
-    "url": "/aktuellt/handelser/2026/juli/28/28-juli-10.28-trafikolycka-singel-lomma/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 648053,
-    "datetime": "2026-07-28 11:00:39 +02:00",
-    "name": "28 juli 09.31, Brand, Borlänge",
-    "summary": "Det har brunnit i en bil på Norra Backa",
-    "url": "/aktuellt/handelser/2026/juli/28/28-juli-09.31-brand-borlange/",
-    "type": "Brand",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 648049,
-    "datetime": "2026-07-28 10:43:20 +02:00",
-    "name": "25 juli 06.22, Mord/dråp, Uppsala",
-    "summary": "Polisen inledde en förundersökning gällande mord.",
-    "url": "/aktuellt/handelser/2026/juli/25/25-juli-06.22-morddrap-uppsala/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Uppsala län",
-      "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 648048,
-    "datetime": "2026-07-28 10:37:09 +02:00",
-    "name": "28 juli 10.30, Uppdatering, Östersund",
-    "summary": "Östersund, uppdatering gällande olycka med elsparkcykel 25 juli",
-    "url": "/aktuellt/handelser/2026/juli/28/28-juli-10.30-uppdatering-ostersund/",
-    "type": "Uppdatering",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 648045,
-    "datetime": "2026-07-28 10:25:00 +02:00",
-    "name": "28 juli 10.08, Trafikolycka, Helsingborg",
-    "summary": "Kollision mellan mc och personbil, Mörarp.",
-    "url": "/aktuellt/handelser/2026/juli/28/28-juli-10.08-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
