@@ -1,11 +1,23 @@
 [
   {
-    "id": 648900,
-    "datetime": "2026-08-08 19:31:07 +02:00",
-    "name": "8 augusti 17.33, Sjukdom/olycksfall, Ängelholm",
-    "summary": "Man som fallit från höghöjdsbana.",
-    "url": "/aktuellt/handelser/2026/augusti/8/8-augusti-17.33-sjukdomolycksfall-angelholm/",
-    "type": "Sjukdom/olycksfall",
+    "id": 648894,
+    "datetime": "2026-08-08 17:14:27 +02:00",
+    "name": "8 augusti 16.36, Brand, Botkyrka",
+    "summary": "Räddningstjänst och polis larmas till brand i flerbostadshus i Fittja.",
+    "url": "/aktuellt/handelser/2026/augusti/8/8-augusti-16.36-brand-botkyrka/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 648901,
+    "datetime": "2026-08-08 20:18:33 +02:00",
+    "name": "8 augusti 19.51, Trafikolycka, Malmö",
+    "summary": "Två personbilar i kollision, Djurhagegatan",
+    "url": "/aktuellt/handelser/2026/augusti/8/8-augusti-19.51-trafikolycka-malmo/",
+    "type": "Trafikolycka",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
@@ -21,6 +33,18 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 648900,
+    "datetime": "2026-08-08 19:31:07 +02:00",
+    "name": "8 augusti 17.33, Sjukdom/olycksfall, Ängelholm",
+    "summary": "Man som fallit från höghöjdsbana.",
+    "url": "/aktuellt/handelser/2026/augusti/8/8-augusti-17.33-sjukdomolycksfall-angelholm/",
+    "type": "Sjukdom/olycksfall",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -42,18 +66,6 @@
     "summary": "Larm om kollision mellan en segelbåt och ett fartyg på Riddarfjärden.",
     "url": "/aktuellt/handelser/2026/augusti/8/8-augusti-17.06-raddningsinsats-stockholm/",
     "type": "Räddningsinsats",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 648894,
-    "datetime": "2026-08-08 17:14:27 +02:00",
-    "name": "8 augusti 16.36, Brand, Botkyrka",
-    "summary": "Räddningstjänst och polis larmas till brand i flerbostadshus i Fittja.",
-    "url": "/aktuellt/handelser/2026/augusti/8/8-augusti-16.36-brand-botkyrka/",
-    "type": "Brand",
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
@@ -5985,18 +5997,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 648202,
-    "datetime": "2026-07-30 7:34:24 +02:00",
-    "name": "30 juli 07.28, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat.",
-    "url": "/aktuellt/handelser/2026/juli/30/30-juli-07.28-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
     }
   }
 ]
