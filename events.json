@@ -1,5 +1,77 @@
 [
   {
+    "id": 649369,
+    "datetime": "2026-08-13 10:32:18 +02:00",
+    "name": "13 augusti 10.24, Brand, Göteborg",
+    "summary": "Larm om brand i lägenhetshus.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-10.24-brand-goteborg/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 649368,
+    "datetime": "2026-08-13 10:30:03 +02:00",
+    "name": "13 augusti 08.26, Trafikbrott, Kil",
+    "summary": "En bilist är misstänkt för brott i Karlslund",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-08.26-trafikbrott-kil/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 649366,
+    "datetime": "2026-08-13 10:18:04 +02:00",
+    "name": "13 augusti 07.45, Trafikhinder, Västerås",
+    "summary": "Trafikhinder på E18.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-07.45-trafikhinder-vasteras/",
+    "type": "Trafikhinder",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 649255,
+    "datetime": "2026-08-13 7:05:19 +02:00",
+    "name": "13 augusti 06.50, Trafikolycka, Göteborg",
+    "summary": "Fotgängare och personbil i trafikolycka.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-06.50-trafikolycka-goteborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 649363,
+    "datetime": "2026-08-13 9:48:14 +02:00",
+    "name": "13 augusti 06.37, Stöld, Kramfors",
+    "summary": "Kramfors, inbrott i bilar.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-06.37-stold-kramfors/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 649277,
+    "datetime": "2026-08-13 8:46:09 +02:00",
+    "name": "12 augusti 22.47, Brand, Älvkarleby",
+    "summary": "Larm om brand.",
+    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-22.47-brand-alvkarleby/",
+    "type": "Brand",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
     "id": 649276,
     "datetime": "2026-08-13 8:35:24 +02:00",
     "name": "13 augusti 04.56, Trafikolycka, Stockholm",
@@ -249,18 +321,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 649255,
-    "datetime": "2026-08-13 7:05:19 +02:00",
-    "name": "13 augusti 06.50, Trafikolycka, Göteborg",
-    "summary": "Fotgängare och personbil i trafikolycka.",
-    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-06.50-trafikolycka-goteborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5937,66 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 648531,
-    "datetime": "2026-08-03 14:39:51 +02:00",
-    "name": "3 augusti 14.40, Övrigt, Östergötlands län",
-    "summary": "Information till media.",
-    "url": "/aktuellt/handelser/2026/augusti/3/3-augusti-14.40-ovrigt-ostergotlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 648530,
-    "datetime": "2026-08-03 14:39:39 +02:00",
-    "name": "3 augusti 14.40, Övrigt, Södermanlands län",
-    "summary": "Information till media.",
-    "url": "/aktuellt/handelser/2026/augusti/3/3-augusti-14.40-ovrigt-sodermanlands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 648532,
-    "datetime": "2026-08-03 14:39:32 +02:00",
-    "name": "3 augusti 14.40, Övrigt, Jönköpings län",
-    "summary": "Information till media.",
-    "url": "/aktuellt/handelser/2026/augusti/3/3-augusti-14.40-ovrigt-jonkopings-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 648525,
-    "datetime": "2026-08-03 13:13:17 +02:00",
-    "name": "3 augusti 11.48, Arbetsplatsolycka, Skara",
-    "summary": "Man fastklämd under arbete på lager i Nyboholm.",
-    "url": "/aktuellt/handelser/2026/augusti/3/3-augusti-11.48-arbetsplatsolycka-skara/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 648524,
-    "datetime": "2026-08-03 13:12:33 +02:00",
-    "name": "3 augusti 07.37, Brand, Ovanåker",
-    "summary": "Brand i flerfamiljshus.",
-    "url": "/aktuellt/handelser/2026/augusti/3/3-augusti-07.37-brand-ovanaker/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
     }
   }
 ]
