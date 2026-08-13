@@ -1,5 +1,77 @@
 [
   {
+    "id": 649390,
+    "datetime": "2026-08-13 13:17:43 +02:00",
+    "name": "13 augusti 13.17, Trafikkontroll, Västerbottens län",
+    "summary": "Västerbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-13.17-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 649389,
+    "datetime": "2026-08-13 13:15:07 +02:00",
+    "name": "13 augusti 13.14, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-13.14-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 649388,
+    "datetime": "2026-08-13 13:05:57 +02:00",
+    "name": "13 augusti 13.05, Våldtäkt, Sundsvall",
+    "summary": "Sundsvall, man misstänkt för våldtäkt.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-13.05-valdtakt-sundsvall/",
+    "type": "Våldtäkt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 649386,
+    "datetime": "2026-08-13 12:54:43 +02:00",
+    "name": "13 augusti 10.49, Stöld, Katrineholm",
+    "summary": "Stal pengar vid bankomat.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-10.49-stold-katrineholm/",
+    "type": "Stöld",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 649383,
+    "datetime": "2026-08-13 12:22:11 +02:00",
+    "name": "13 augusti 11.32, Fylleri, Örnsköldsvik",
+    "summary": "Örnsköldsvik, person omhändertagen.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-11.32-fylleri-ornskoldsvik/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 649382,
+    "datetime": "2026-08-13 12:20:30 +02:00",
+    "name": "13 augusti 10.10, Arbetsplatsolycka, Sigtuna",
+    "summary": "En person faller från en stadslift och slår i bakhuvudet.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-10.10-arbetsplatsolycka-sigtuna/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
     "id": 649381,
     "datetime": "2026-08-13 12:15:58 +02:00",
     "name": "13 augusti 11.40, Fylleri, Sundsvall",
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 648555,
-    "datetime": "2026-08-04 6:31:55 +02:00",
-    "name": "3 augusti 23.24, Brand, Helsingborg",
-    "summary": "Bilbrand",
-    "url": "/aktuellt/handelser/2026/augusti/3/3-augusti-23.24-brand-helsingborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 648553,
-    "datetime": "2026-08-04 6:23:25 +02:00",
-    "name": "4 augusti 03.51, Rattfylleri, Lessebo",
-    "summary": "Drograttfylleri i Kosta.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-03.51-rattfylleri-lessebo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 648552,
-    "datetime": "2026-08-04 6:21:25 +02:00",
-    "name": "4 augusti 02.20, Rattfylleri, Lessebo",
-    "summary": "Drograttfylleri.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-02.20-rattfylleri-lessebo/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 648551,
-    "datetime": "2026-08-04 6:17:58 +02:00",
-    "name": "4 augusti 00.02, Inbrott, Alvesta",
-    "summary": "Inbrott i fritidsgård.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-00.02-inbrott-alvesta/",
-    "type": "Inbrott",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 648549,
-    "datetime": "2026-08-03 21:59:46 +02:00",
-    "name": "3 augusti 21.04, Trafikolycka, personskada, Stockholm",
-    "summary": "En elsparkcykel har kört in i en skåpbil vid en vägkorsning med trafikljus på Östermalm i Stockholm.",
-    "url": "/aktuellt/handelser/2026/augusti/3/3-augusti-21.04-trafikolycka-personskada-stockholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 648542,
-    "datetime": "2026-08-03 21:55:12 +02:00",
-    "name": "3 augusti 21.55, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i m",
-    "url": "/aktuellt/handelser/2026/augusti/3/3-augusti-21.55-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
