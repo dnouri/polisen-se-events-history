@@ -1,5 +1,113 @@
 [
   {
+    "id": 649412,
+    "datetime": "2026-08-13 15:55:56 +02:00",
+    "name": "13 augusti 14.33, Fylleri, Skellefteå",
+    "summary": "Centrum, polis kontaktas gällande berusad man vid livsmedelsbutik",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-14.33-fylleri-skelleftea/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 649411,
+    "datetime": "2026-08-13 15:51:44 +02:00",
+    "name": "13 augusti 13.06, Arbetsplatsolycka, Skellefteå",
+    "summary": "Morö backe, en man uppges ha fått ström i sig i samband med arbete",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-13.06-arbetsplatsolycka-skelleftea/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 649410,
+    "datetime": "2026-08-13 15:48:49 +02:00",
+    "name": "13 augusti 15.38, Trafikolycka, singel, Norrköping",
+    "summary": "Singelolycka med personbil.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-15.38-trafikolycka-singel-norrkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 649409,
+    "datetime": "2026-08-13 15:46:32 +02:00",
+    "name": "13 augusti 14.48, Trafikolycka, Arvidsjaur",
+    "summary": "Riksväg 95, en trafikolycka har inträffat strax nordväst om Abborrträsk",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-14.48-trafikolycka-arvidsjaur/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 649408,
+    "datetime": "2026-08-13 15:42:40 +02:00",
+    "name": "13 augusti 13.45, Rattfylleri, Älvsbyn",
+    "summary": "Riksväg 94, bilist stoppad för kontroll väster om Älvsbyn",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-13.45-rattfylleri-alvsbyn/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 649407,
+    "datetime": "2026-08-13 15:39:35 +02:00",
+    "name": "13 augusti 13.27, Stöld, Luleå",
+    "summary": "Storheden, man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-13.27-stold-lulea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 649406,
+    "datetime": "2026-08-13 15:37:53 +02:00",
+    "name": "13 augusti 13.09, Skadegörelse, Jokkmokk",
+    "summary": "Jokkmokk, polis beordras till en adress där någon kastat ägg på fordon och fastighet",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-13.09-skadegorelse-jokkmokk/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 649400,
+    "datetime": "2026-08-13 14:45:56 +02:00",
+    "name": "13 augusti 14.01, Misshandel, grov, Göteborg",
+    "summary": "Polisen larmas om en aggressiv man inne i Bellevuemoskén, Gamlestaden.",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-14.01-misshandel-grov-goteborg/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 649398,
+    "datetime": "2026-08-13 14:30:59 +02:00",
+    "name": "13 augusti 13.47, Rattfylleri, Karlstad",
+    "summary": "En bilist är misstänkt för brott vid Bergvik",
+    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-13.47-rattfylleri-karlstad/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
     "id": 649397,
     "datetime": "2026-08-13 14:13:37 +02:00",
     "name": "13 augusti 11.33, Misshandel, Huddinge",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 648557,
-    "datetime": "2026-08-04 6:43:35 +02:00",
-    "name": "4 augusti 05.33, Trafikolycka, Falköping",
-    "summary": "Lastbil och personbil i krock på riksväg 47, utanför Falköping.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-05.33-trafikolycka-falkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 648567,
-    "datetime": "2026-08-04 7:38:43 +02:00",
-    "name": "4 augusti 07.35, Sammanfattning natt, Östergötlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-07.35-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 648571,
-    "datetime": "2026-08-04 7:51:01 +02:00",
-    "name": "4 augusti 05.35, Brand, Söderhamn",
-    "summary": "Brand i byggnad.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-05.35-brand-soderhamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Gävleborgs län",
-      "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 648559,
-    "datetime": "2026-08-04 7:20:02 +02:00",
-    "name": "4 augusti 07.19, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av nattens polisverksamhet.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-07.19-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 648563,
-    "datetime": "2026-08-04 7:36:37 +02:00",
-    "name": "4 augusti 07.35, Sammanfattning natt, Södermanlands län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-07.35-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 648569,
-    "datetime": "2026-08-04 7:36:09 +02:00",
-    "name": "4 augusti 07.35, Sammanfattning natt, Jönköpings län",
-    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-07.35-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 648566,
-    "datetime": "2026-08-04 7:27:57 +02:00",
-    "name": "4 augusti 07.25, Sammanfattning natt, Örebro län",
-    "summary": "Här följer ett urval av nattens operativa händelser i länet",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-07.25-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 648565,
-    "datetime": "2026-08-04 7:27:19 +02:00",
-    "name": "4 augusti 07.24, Sammanfattning natt, Värmlands län",
-    "summary": "Här följer ett urval av nattens operativa händelser i länet",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-07.24-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 648564,
-    "datetime": "2026-08-04 7:26:54 +02:00",
-    "name": "4 augusti 07.24, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en lugn natt ur polisiärt perspektiv i länet",
-    "url": "/aktuellt/handelser/2026/augusti/4/4-augusti-07.24-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
     }
   }
 ]
