@@ -1,5 +1,65 @@
 [
   {
+    "id": 649751,
+    "datetime": "2026-08-17 21:11:47 +02:00",
+    "name": "17 augusti 17.45, Olovlig körning, Umeå",
+    "summary": "Olovlig körning på E4 Stöcksjö.",
+    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-17.45-olovlig-korning-umea/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 649750,
+    "datetime": "2026-08-17 21:09:03 +02:00",
+    "name": "17 augusti 20.20, Olovlig körning, Älvsbyn",
+    "summary": "Kvinna rapporterad för olovlig körning.",
+    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-20.20-olovlig-korning-alvsbyn/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 649749,
+    "datetime": "2026-08-17 21:02:43 +02:00",
+    "name": "17 augusti 19.17, Fylleri, Härnösand",
+    "summary": "Påverkad man omhändertagen på Kronholmen.",
+    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-19.17-fylleri-harnosand/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 649748,
+    "datetime": "2026-08-17 20:55:47 +02:00",
+    "name": "17 augusti 18.44, Skadegörelse, Lycksele",
+    "summary": "Skadegörelse på barack i Lycksele.",
+    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-18.44-skadegorelse-lycksele/",
+    "type": "Skadegörelse",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 649743,
+    "datetime": "2026-08-17 19:46:45 +02:00",
+    "name": "17 augusti 19.36, Trafikolycka, Kungälv",
+    "summary": "Personbil i singelolycka.",
+    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-19.36-trafikolycka-kungalv/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
     "id": 649747,
     "datetime": "2026-08-17 20:32:50 +02:00",
     "name": "17 augusti 19.13, Fylleri, Luleå",
@@ -45,18 +105,6 @@
     "location": {
       "name": "Östergötlands län",
       "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 649743,
-    "datetime": "2026-08-17 19:46:45 +02:00",
-    "name": "17 augusti 19.36, Trafikolycka, Kungälv",
-    "summary": "Personbil i singelolycka.",
-    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-19.36-trafikolycka-kungalv/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5949,54 +5997,6 @@
     "location": {
       "name": "Kronobergs län",
       "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 648937,
-    "datetime": "2026-08-09 9:41:25 +02:00",
-    "name": "9 augusti 09.31, Trafikbrott, Rättvik",
-    "summary": "En olycka har inträffat i Dådran",
-    "url": "/aktuellt/handelser/2026/augusti/9/9-augusti-09.31-trafikbrott-rattvik/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 648939,
-    "datetime": "2026-08-09 10:26:02 +02:00",
-    "name": "9 augusti 01.42, Misshandel, Haninge",
-    "summary": "En fest spårar ur på en adress i Tungelsta.",
-    "url": "/aktuellt/handelser/2026/augusti/9/9-augusti-01.42-misshandel-haninge/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 648938,
-    "datetime": "2026-08-09 9:41:43 +02:00",
-    "name": "9 augusti 07.31, Övrigt, Sigtuna",
-    "summary": "En man omhändertas efter att ha hoppat över staketet och gått in på airside på Arlanda med en resväska.",
-    "url": "/aktuellt/handelser/2026/augusti/9/9-augusti-07.31-ovrigt-sigtuna/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 648935,
-    "datetime": "2026-08-09 9:31:21 +02:00",
-    "name": "9 augusti 07.33, Skadegörelse, Västerås",
-    "summary": "Fordon utsatta för skadegörelse.",
-    "url": "/aktuellt/handelser/2026/augusti/9/9-augusti-07.33-skadegorelse-vasteras/",
-    "type": "Skadegörelse",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
     }
   }
 ]
