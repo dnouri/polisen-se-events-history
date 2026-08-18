@@ -1,14 +1,38 @@
 [
   {
-    "id": 649803,
-    "datetime": "2026-08-18 11:23:22 +02:00",
-    "name": "18 augusti 10.42, Inbrott, Stockholm",
-    "summary": "En man iakttogs när denne försökte bryta sig in i ett källarförråd i Aspudden.",
-    "url": "/aktuellt/handelser/2026/augusti/18/18-augusti-10.42-inbrott-stockholm/",
-    "type": "Inbrott",
+    "id": 649793,
+    "datetime": "2026-08-18 10:36:53 +02:00",
+    "name": "18 augusti 10.05, Trafikolycka, Kungsbacka",
+    "summary": "En buss och en lastbil är involverade i en olycka på Valldavägen/Rörmöstvägen.",
+    "url": "/aktuellt/handelser/2026/augusti/18/18-augusti-10.05-trafikolycka-kungsbacka/",
+    "type": "Trafikolycka",
     "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 649807,
+    "datetime": "2026-08-18 12:13:46 +02:00",
+    "name": "18 augusti 12.10, Trafikkontroll, Västernorrlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/augusti/18/18-augusti-12.10-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 649806,
+    "datetime": "2026-08-18 12:07:47 +02:00",
+    "name": "18 augusti 12.03, Trafikkontroll, Jämtlands län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/augusti/18/18-augusti-12.03-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -24,15 +48,27 @@
     }
   },
   {
-    "id": 649793,
-    "datetime": "2026-08-18 10:36:53 +02:00",
-    "name": "18 augusti 10.05, Trafikolycka, Kungsbacka",
-    "summary": "En buss och en lastbil är involverade i en olycka på Valldavägen/Rörmöstvägen.",
-    "url": "/aktuellt/handelser/2026/augusti/18/18-augusti-10.05-trafikolycka-kungsbacka/",
-    "type": "Trafikolycka",
+    "id": 649805,
+    "datetime": "2026-08-18 12:03:46 +02:00",
+    "name": "18 augusti 12.00, Trafikkontroll, Norrbottens län",
+    "summary": "Resultat av polisens arbete i trafiken.",
+    "url": "/aktuellt/handelser/2026/augusti/18/18-augusti-12.00-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
     "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 649803,
+    "datetime": "2026-08-18 11:23:22 +02:00",
+    "name": "18 augusti 10.42, Inbrott, Stockholm",
+    "summary": "En man iakttogs när denne försökte bryta sig in i ett källarförråd i Aspudden.",
+    "url": "/aktuellt/handelser/2026/augusti/18/18-augusti-10.42-inbrott-stockholm/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -5961,42 +5997,6 @@
     "location": {
       "name": "Uppsala län",
       "gps": "60.009226,17.271459"
-    }
-  },
-  {
-    "id": 648977,
-    "datetime": "2026-08-10 7:30:51 +02:00",
-    "name": "10 augusti 07.20, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2026/augusti/10/10-augusti-07.20-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 648976,
-    "datetime": "2026-08-10 7:26:53 +02:00",
-    "name": "10 augusti 01.48, Stöld, Stockholm",
-    "summary": "Ett cyklist-bud på Södermalm uppgav att han blivit av med ett paket på sin cykel. Inringaren såg när paketet s",
-    "url": "/aktuellt/handelser/2026/augusti/10/10-augusti-01.48-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 648975,
-    "datetime": "2026-08-10 7:25:57 +02:00",
-    "name": "10 augusti 07.21, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
-    "url": "/aktuellt/handelser/2026/augusti/10/10-augusti-07.21-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
     }
   }
 ]
