@@ -1,5 +1,113 @@
 [
   {
+    "id": 649900,
+    "datetime": "2026-08-19 8:51:36 +02:00",
+    "name": "19 augusti 08.38, Brand, Älmhult",
+    "summary": "Det brinner i en bil.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-08.38-brand-almhult/",
+    "type": "Brand",
+    "location": {
+      "name": "Kronobergs län",
+      "gps": "56.71834,14.411467"
+    }
+  },
+  {
+    "id": 649898,
+    "datetime": "2026-08-19 8:25:13 +02:00",
+    "name": "19 augusti 07.29, Trafikolycka, Lund",
+    "summary": "Singelolycka med personbil.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-07.29-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 649897,
+    "datetime": "2026-08-19 8:11:52 +02:00",
+    "name": "19 augusti 08.10, Information, Örebro län",
+    "summary": "Regionalt mediecenter Bergslagen är under onsdagen stängt.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-08.10-information-orebro-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 649896,
+    "datetime": "2026-08-19 8:11:33 +02:00",
+    "name": "19 augusti 08.10, Information, Dalarnas län",
+    "summary": "Regionalt mediecenter Bergslagen är under onsdagen stängt.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-08.10-information-dalarnas-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 649895,
+    "datetime": "2026-08-19 8:11:18 +02:00",
+    "name": "19 augusti 08.10, Information, Värmlands län",
+    "summary": "Regionalt mediecenter Bergslagen är under onsdagen stängt.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-08.10-information-varmlands-lan/",
+    "type": "Information",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 649881,
+    "datetime": "2026-08-19 7:01:44 +02:00",
+    "name": "19 augusti 05.20, Brand, Vara",
+    "summary": "Larm inkommer via SOS om en brand i en villa i närheten av Längjum.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-05.20-brand-vara/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 649894,
+    "datetime": "2026-08-19 7:58:52 +02:00",
+    "name": "19 augusti 07.52, Trafikolycka, Linköping",
+    "summary": "Krock vid universitetet.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-07.52-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 649893,
+    "datetime": "2026-08-19 7:50:01 +02:00",
+    "name": "19 augusti 07.49, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-07.49-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 649891,
+    "datetime": "2026-08-19 7:45:28 +02:00",
+    "name": "19 augusti 07.45, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-07.45-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
     "id": 649892,
     "datetime": "2026-08-19 7:43:54 +02:00",
     "name": "19 augusti 07.43, Sammanfattning natt, Norrbottens län",
@@ -129,18 +237,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 649881,
-    "datetime": "2026-08-19 7:01:44 +02:00",
-    "name": "19 augusti 05.20, Brand, Vara",
-    "summary": "Larm inkommer via SOS om en brand i en villa i närheten av Längjum.",
-    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-05.20-brand-vara/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Västernorrlands län",
       "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 649107,
-    "datetime": "2026-08-11 16:23:30 +02:00",
-    "name": "11 augusti 13.03, Trafikbrott, Vännäs",
-    "summary": "Tätorten, polisen försöker stoppa en tonårspojke på moped.",
-    "url": "/aktuellt/handelser/2026/augusti/11/11-augusti-13.03-trafikbrott-vannas/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 649105,
-    "datetime": "2026-08-11 16:09:11 +02:00",
-    "name": "11 augusti 13.07, Trafikbrott, Luleå",
-    "summary": "E4, Ersnäs. Polisen kontrollerar en lastbil.",
-    "url": "/aktuellt/handelser/2026/augusti/11/11-augusti-13.07-trafikbrott-lulea/",
-    "type": "Trafikbrott",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 649095,
-    "datetime": "2026-08-11 14:37:27 +02:00",
-    "name": "11 augusti 14.35, Försvunnen person, Rättvik",
-    "summary": "Polis har anträffat den försvunnen kvinna i skogarna norr om Furudahl.",
-    "url": "/aktuellt/handelser/2026/augusti/11/11-augusti-14.35-forsvunnen-person-rattvik/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 649094,
-    "datetime": "2026-08-11 14:06:39 +02:00",
-    "name": "11 augusti 14.00, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/augusti/11/11-augusti-14.00-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 649093,
-    "datetime": "2026-08-11 13:53:40 +02:00",
-    "name": "11 augusti 10.36, Brand, Skellefteå",
-    "summary": "Morön, larm inkommer på grund av röklukt i trapphus till flerfamiljshus",
-    "url": "/aktuellt/handelser/2026/augusti/11/11-augusti-10.36-brand-skelleftea/",
-    "type": "Brand",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 649092,
-    "datetime": "2026-08-11 13:51:13 +02:00",
-    "name": "11 augusti 13.38, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/augusti/11/11-augusti-13.38-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 649091,
-    "datetime": "2026-08-11 13:38:36 +02:00",
-    "name": "11 augusti 13.35, Trafikkontroll, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/augusti/11/11-augusti-13.35-trafikkontroll-vasternorrlands-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 649090,
-    "datetime": "2026-08-11 13:03:19 +02:00",
-    "name": "11 augusti 13.00, Övrigt, Hallands län",
-    "summary": "Presstalesperson är på möte.",
-    "url": "/aktuellt/handelser/2026/augusti/11/11-augusti-13.00-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
