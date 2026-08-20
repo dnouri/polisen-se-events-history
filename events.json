@@ -1,14 +1,74 @@
 [
   {
-    "id": 649698,
-    "datetime": "2026-08-17 13:26:10 +02:00",
-    "name": "17 augusti 13.25, Försvunnen person, Åmål",
-    "summary": "Polisen söker efter en försvunnen man i 85-årsåldern i Tösse.",
-    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-13.25-forsvunnen-person-amal/",
-    "type": "Försvunnen person",
+    "id": 650122,
+    "datetime": "2026-08-20 16:13:50 +02:00",
+    "name": "20 augusti 14.50, Trafikolycka, Helsingborg",
+    "summary": "Kökrock på E6 i höjd med Raus.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-14.50-trafikolycka-helsingborg/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 650121,
+    "datetime": "2026-08-20 16:07:14 +02:00",
+    "name": "20 augusti 15.37, Trafikolycka, Ånge",
+    "summary": "Riksväg 83 Östavall, två bilister har kolliderat",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-15.37-trafikolycka-ange/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 650118,
+    "datetime": "2026-08-20 15:45:02 +02:00",
+    "name": "20 augusti 13.55, Trafikolycka, Krokom",
+    "summary": "Strax norr om Böle, en bilist har kört av vägen",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-13.55-trafikolycka-krokom/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 650117,
+    "datetime": "2026-08-20 15:43:16 +02:00",
+    "name": "20 augusti 15.40, Trafikolycka, Norrköping",
+    "summary": "Olycka Himmelstalundsrondellen Norrköping.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-15.40-trafikolycka-norrkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 650116,
+    "datetime": "2026-08-20 15:32:59 +02:00",
+    "name": "20 augusti 12.12, Trafikolycka, personskada, Trollhättan",
+    "summary": "SOS larmar om en trafikolycka med en mc som kört av vägen på länsväg 2537, Väne-Åsaka.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-12.12-trafikolycka-personskada-trollhattan/",
+    "type": "Trafikolycka, personskada",
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 650113,
+    "datetime": "2026-08-20 15:29:47 +02:00",
+    "name": "20 augusti 14.08, Trafikolycka, Skellefteå",
+    "summary": "Centrum, larm om trafikolycka vid Kanalgatan",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-14.08-trafikolycka-skelleftea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -21,6 +81,30 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 649881,
+    "datetime": "2026-08-19 7:01:44 +02:00",
+    "name": "19 augusti 05.20, Brand, Vara",
+    "summary": "Larm inkommer via SOS om en brand i en villa i närheten av Längjum.",
+    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-05.20-brand-vara/",
+    "type": "Brand",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 649698,
+    "datetime": "2026-08-17 13:26:10 +02:00",
+    "name": "17 augusti 13.25, Försvunnen person, Åmål",
+    "summary": "Polisen söker efter en försvunnen man i 85-årsåldern i Tösse.",
+    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-13.25-forsvunnen-person-amal/",
+    "type": "Försvunnen person",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -1053,18 +1137,6 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 649881,
-    "datetime": "2026-08-19 7:01:44 +02:00",
-    "name": "19 augusti 05.20, Brand, Vara",
-    "summary": "Larm inkommer via SOS om en brand i en villa i närheten av Längjum.",
-    "url": "/aktuellt/handelser/2026/augusti/19/19-augusti-05.20-brand-vara/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
     }
   },
   {
@@ -5925,78 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 649261,
-    "datetime": "2026-08-13 7:16:24 +02:00",
-    "name": "12 augusti 22.45, Rattfylleri, Stockholm",
-    "summary": "Ett fordonsstopp i Vällingby renderar i flertalet anmälningar.",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-22.45-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 649258,
-    "datetime": "2026-08-13 7:10:48 +02:00",
-    "name": "12 augusti 22.12, Stöld, Nynäshamn",
-    "summary": "Polisen får in flera samtal om en man med en ficklampa som rör sig bland några förråd på Backluravägen.",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-22.12-stold-nynashamn/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 649256,
-    "datetime": "2026-08-13 7:05:37 +02:00",
-    "name": "12 augusti 23.52, Rån, Malmö",
-    "summary": "Man i 40-årsåldern blir rånad på Möllevången.",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-23.52-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 649253,
-    "datetime": "2026-08-13 6:57:45 +02:00",
-    "name": "13 augusti 00.52, Stöld, försök, Klippan",
-    "summary": "Larm om inbrott i lastbil i Östra Ljungby",
-    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-00.52-stold-forsok-klippan/",
-    "type": "Stöld, försök",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 649252,
-    "datetime": "2026-08-13 6:47:34 +02:00",
-    "name": "13 augusti 01.12, Misshandel, Vimmerby",
-    "summary": "Larm om misshandel.",
-    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-01.12-misshandel-vimmerby/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 649251,
-    "datetime": "2026-08-13 6:45:40 +02:00",
-    "name": "13 augusti 06.45, Sammanfattning kväll och natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats.",
-    "url": "/aktuellt/handelser/2026/augusti/13/13-augusti-06.45-sammanfattning-kvall-och-natt-hallands-lan/",
-    "type": "Sammanfattning kväll och natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
     }
   }
 ]
