@@ -1,5 +1,113 @@
 [
   {
+    "id": 650024,
+    "datetime": "2026-08-20 7:57:12 +02:00",
+    "name": "20 augusti 07.39, Trafikolycka, Södertälje",
+    "summary": "Polis kallas till trafikplats Moraberg på E4:an i norrgående riktning med anledning av en trafikolycka.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-07.39-trafikolycka-sodertalje/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 650022,
+    "datetime": "2026-08-20 7:51:22 +02:00",
+    "name": "20 augusti 07.51, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-07.51-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 650021,
+    "datetime": "2026-08-20 7:49:32 +02:00",
+    "name": "20 augusti 00.38, Rattfylleri, Sollentuna",
+    "summary": "När en polispatrull stoppade en bil för kontroll av föraren på Uppsalavägen i Helenelund uppstod misstanke om ",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-00.38-rattfylleri-sollentuna/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 650018,
+    "datetime": "2026-08-20 7:29:10 +02:00",
+    "name": "20 augusti 07.28, Sammanfattning natt, Jönköpings län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-07.28-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 650019,
+    "datetime": "2026-08-20 7:28:57 +02:00",
+    "name": "20 augusti 07.28, Sammanfattning natt, Östergötlands län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-07.28-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 650020,
+    "datetime": "2026-08-20 7:28:49 +02:00",
+    "name": "20 augusti 07.28, Sammanfattning natt, Södermanlands län",
+    "summary": "Sammanfattning av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-07.28-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 650013,
+    "datetime": "2026-08-20 7:26:19 +02:00",
+    "name": "20 augusti 07.26, Sammanfattning natt, Västernorrlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-07.26-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 650009,
+    "datetime": "2026-08-20 7:25:13 +02:00",
+    "name": "20 augusti 07.25, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-07.25-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 650007,
+    "datetime": "2026-08-20 7:24:46 +02:00",
+    "name": "20 augusti 07.24, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/augusti/20/20-augusti-07.24-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 650017,
     "datetime": "2026-08-20 7:02:54 +02:00",
     "name": "20 augusti 07.02, Sammanfattning natt, Örebro län",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Västerbottens län",
       "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 649230,
-    "datetime": "2026-08-12 17:42:53 +02:00",
-    "name": "12 augusti 16.37, Trafikolycka, Umeå",
-    "summary": "Kolbäcksbron, två trafikanter har kolliderat",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-16.37-trafikolycka-umea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 649228,
-    "datetime": "2026-08-12 17:17:03 +02:00",
-    "name": "12 augusti 16.31, Trafikolycka, Mölndal",
-    "summary": "En bilist och en cyklist är involverade i en olycka vid Bifrostgatan.",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-16.31-trafikolycka-molndal/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 649226,
-    "datetime": "2026-08-12 16:51:25 +02:00",
-    "name": "12 augusti 16.33, Trafikolycka, Nyköping",
-    "summary": "Cyklist i krock med personbil.",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-16.33-trafikolycka-nykoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 649229,
-    "datetime": "2026-08-12 17:37:32 +02:00",
-    "name": "12 augusti 16.04, Brand, Järfälla",
-    "summary": "Det har brunnit i ventilationsanläggningen till ett flerbostadshus i Jakobsberg i Järfälla kommun.",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-16.04-brand-jarfalla/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 649225,
-    "datetime": "2026-08-12 16:45:09 +02:00",
-    "name": "12 augusti 14.36, Fylleri, Sundsvall",
-    "summary": "Stenstan, polis kontaktas gällande berusad man som urinerat utomhus",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-14.36-fylleri-sundsvall/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 649208,
-    "datetime": "2026-08-12 13:09:21 +02:00",
-    "name": "12 augusti 11.09, Arbetsplatsolycka, Jönköping",
-    "summary": "Man förd till sjukhus - fick truck över sig.",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-11.09-arbetsplatsolycka-jonkoping/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 649224,
-    "datetime": "2026-08-12 16:39:46 +02:00",
-    "name": "12 augusti 13.10, Stöld, Sundsvall",
-    "summary": "Birsta, ung person stoppad efter misstänkt försök till ringa stöld i klädbutik",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-13.10-stold-sundsvall/",
-    "type": "Stöld",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 649223,
-    "datetime": "2026-08-12 16:35:16 +02:00",
-    "name": "12 augusti 15.34, Arbetsplatsolycka, Nässjö",
-    "summary": "Person skadad av vasst föremål.",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-15.34-arbetsplatsolycka-nassjo/",
-    "type": "Arbetsplatsolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 649222,
-    "datetime": "2026-08-12 16:30:47 +02:00",
-    "name": "12 augusti 10.55, Vapenlagen, Sundsvall",
-    "summary": "Sundsbruk, vapenliknande föremål har hittats utomhus i en buske",
-    "url": "/aktuellt/handelser/2026/augusti/12/12-augusti-10.55-vapenlagen-sundsvall/",
-    "type": "Vapenlagen",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
