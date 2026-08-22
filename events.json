@@ -1,5 +1,113 @@
 [
   {
+    "id": 650265,
+    "datetime": "2026-08-22 7:35:51 +02:00",
+    "name": "22 augusti 07.10, Fylleri, Stockholms län",
+    "summary": "Sedan midnatt har polisen i region Stockholm hanterat 23 ärenden rubricerade fylleri. Det har dominerat kvälle",
+    "url": "/aktuellt/handelser/2026/augusti/22/22-augusti-07.10-fylleri-stockholms-lan/",
+    "type": "Fylleri",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 650262,
+    "datetime": "2026-08-22 7:33:37 +02:00",
+    "name": "22 augusti 07.28, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2026/augusti/22/22-augusti-07.28-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 650263,
+    "datetime": "2026-08-22 7:33:29 +02:00",
+    "name": "22 augusti 07.30, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2026/augusti/22/22-augusti-07.30-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 650264,
+    "datetime": "2026-08-22 7:33:22 +02:00",
+    "name": "22 augusti 07.31, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en normal natt i länet. Nedan följer ett urval av händelser som vi har hanterat",
+    "url": "/aktuellt/handelser/2026/augusti/22/22-augusti-07.31-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 650259,
+    "datetime": "2026-08-22 7:14:35 +02:00",
+    "name": "21 augusti 23.51, Misshandel, grov, Kristianstad",
+    "summary": "Sju personer har anhållits misstänkta för grov misshandel.",
+    "url": "/aktuellt/handelser/2026/augusti/21/21-augusti-23.51-misshandel-grov-kristianstad/",
+    "type": "Misshandel, grov",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 650258,
+    "datetime": "2026-08-22 7:14:18 +02:00",
+    "name": "22 augusti 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2026/augusti/22/22-augusti-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 650257,
+    "datetime": "2026-08-22 7:12:41 +02:00",
+    "name": "22 augusti 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/augusti/22/22-augusti-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 650255,
+    "datetime": "2026-08-22 6:55:16 +02:00",
+    "name": "21 augusti 22.12, Brand, Karlskrona",
+    "summary": "Brand i villa",
+    "url": "/aktuellt/handelser/2026/augusti/21/21-augusti-22.12-brand-karlskrona/",
+    "type": "Brand",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 650254,
+    "datetime": "2026-08-22 6:50:44 +02:00",
+    "name": "22 augusti 00.30, Brand, Malmö",
+    "summary": "Försök till mordbrand i Oxie.",
+    "url": "/aktuellt/handelser/2026/augusti/22/22-augusti-00.30-brand-malmo/",
+    "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 650253,
     "datetime": "2026-08-22 6:41:18 +02:00",
     "name": "22 augusti 00.18, Misshandel, Växjö",
@@ -5889,114 +5997,6 @@
     "location": {
       "name": "Västra Götalands län",
       "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 649463,
-    "datetime": "2026-08-14 7:24:54 +02:00",
-    "name": "14 augusti 02.07, Rattfylleri, Stockholm",
-    "summary": "En polispatrull i Fruängen stannade och kontrollerade en bilist. Mannen medtogs för vidare utredning.",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-02.07-rattfylleri-stockholm/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 649455,
-    "datetime": "2026-08-14 7:24:05 +02:00",
-    "name": "14 augusti 07.17, Sammanfattning natt, Dalarnas län",
-    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-07.17-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 649458,
-    "datetime": "2026-08-14 7:23:58 +02:00",
-    "name": "14 augusti 07.19, Sammanfattning natt, Örebro län",
-    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-07.19-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 649462,
-    "datetime": "2026-08-14 7:23:51 +02:00",
-    "name": "14 augusti 07.21, Sammanfattning natt, Värmlands län",
-    "summary": "Det har varit en lugn natt i länet. Nedan följer ett urval av ärenden som vi har hanterat",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-07.21-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 649461,
-    "datetime": "2026-08-14 7:22:02 +02:00",
-    "name": "14 augusti 07.21, Sammanfattning natt, Norrbottens län",
-    "summary": "Inga ärenden att rapportera om från natten.",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-07.21-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 649460,
-    "datetime": "2026-08-14 7:21:43 +02:00",
-    "name": "14 augusti 07.21, Sammanfattning natt, Västerbottens län",
-    "summary": "Ett urval av polisens arbete under natten.",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-07.21-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 649459,
-    "datetime": "2026-08-14 7:21:37 +02:00",
-    "name": "14 augusti 03.02, Stöld/inbrott, Huddinge",
-    "summary": "Väktare på plats vid en företagsbyggnad i Segeltorp konstaterade att en dörr stod öppen.",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-03.02-stoldinbrott-huddinge/",
-    "type": "Stöld/inbrott",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 649457,
-    "datetime": "2026-08-14 7:21:06 +02:00",
-    "name": "14 augusti 07.20, Sammanfattning natt, Västernorrlands län",
-    "summary": "Ett urval av polisens arbete under natten.",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-07.20-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 649456,
-    "datetime": "2026-08-14 7:20:15 +02:00",
-    "name": "14 augusti 07.19, Sammanfattning natt, Jämtlands län",
-    "summary": "Inga ärenden att rapportera om från natten.",
-    "url": "/aktuellt/handelser/2026/augusti/14/14-augusti-07.19-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   }
 ]
