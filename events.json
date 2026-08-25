@@ -1,5 +1,17 @@
 [
   {
+    "id": 650595,
+    "datetime": "2026-08-25 16:44:42 +02:00",
+    "name": "25 augusti 16.37, Trafikolycka, Linköping",
+    "summary": "Fotgängare påkörd av bil.",
+    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-16.37-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
     "id": 650592,
     "datetime": "2026-08-25 16:22:15 +02:00",
     "name": "25 augusti 16.18, Trafikolycka, Jönköping",
@@ -12,15 +24,51 @@
     }
   },
   {
-    "id": 650591,
-    "datetime": "2026-08-25 16:13:52 +02:00",
-    "name": "25 augusti 15.02, Brand, Mönsterås",
-    "summary": "Larm om brand i flerfamiljshus.",
-    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-15.02-brand-monsteras/",
+    "id": 650593,
+    "datetime": "2026-08-25 17:11:22 +02:00",
+    "name": "25 augusti 16.12, Trafikolycka, Kungälv",
+    "summary": "Trafikolycka med flera fordon.",
+    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-16.12-trafikolycka-kungalv/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 650600,
+    "datetime": "2026-08-25 17:09:16 +02:00",
+    "name": "25 augusti 14.36, Trafikolycka, Orust",
+    "summary": "Trafikolycka mellan personbil och motorcykel.",
+    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-14.36-trafikolycka-orust/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 650579,
+    "datetime": "2026-08-25 14:24:06 +02:00",
+    "name": "25 augusti 13.53, Brand, Karlshamn",
+    "summary": "Det brinner i en byggnad, Ronnebygatan.",
+    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-13.53-brand-karlshamn/",
     "type": "Brand",
     "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 650587,
+    "datetime": "2026-08-25 14:47:28 +02:00",
+    "name": "25 augusti 14.25, Övrigt, Stockholm",
+    "summary": "En buss i linjetrafik i Gamla Enskede har fått vad som bedöms vara gods från en lyftkran tappat i busstaket. I",
+    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-14.25-ovrigt-stockholm/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
     }
   },
   {
@@ -33,6 +81,18 @@
     "location": {
       "name": "Stockholms län",
       "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 650591,
+    "datetime": "2026-08-25 16:13:52 +02:00",
+    "name": "25 augusti 15.02, Brand, Mönsterås",
+    "summary": "Larm om brand i flerfamiljshus.",
+    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-15.02-brand-monsteras/",
+    "type": "Brand",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
     }
   },
   {
@@ -57,30 +117,6 @@
     "location": {
       "name": "Västmanlands län",
       "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 650587,
-    "datetime": "2026-08-25 14:47:28 +02:00",
-    "name": "25 augusti 14.25, Övrigt, Stockholm",
-    "summary": "En buss i linjetrafik i Gamla Enskede har fått vad som bedöms vara gods från en lyftkran tappat i busstaket. I",
-    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-14.25-ovrigt-stockholm/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 650579,
-    "datetime": "2026-08-25 14:24:06 +02:00",
-    "name": "25 augusti 13.53, Brand, Karlshamn",
-    "summary": "Det brinner i en byggnad, Ronnebygatan.",
-    "url": "/aktuellt/handelser/2026/augusti/25/25-augusti-13.53-brand-karlshamn/",
-    "type": "Brand",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
     }
   },
   {
@@ -5958,42 +5994,6 @@
     "summary": "Stöld av fyrhjuling i Svensbyn, Piteå.",
     "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-19.16-motorfordon-stold-pitea/",
     "type": "Motorfordon, stöld",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 649741,
-    "datetime": "2026-08-17 19:00:55 +02:00",
-    "name": "17 augusti 16.46, Trafikolycka, Sundsvall",
-    "summary": "Trafikolycka på E4 Bredsand.",
-    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-16.46-trafikolycka-sundsvall/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 649740,
-    "datetime": "2026-08-17 18:41:54 +02:00",
-    "name": "17 augusti 17.53, Trafikolycka, singel, Jönköping",
-    "summary": "Singelolycka på riksväg 40.",
-    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-17.53-trafikolycka-singel-jonkoping/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 649737,
-    "datetime": "2026-08-17 18:06:48 +02:00",
-    "name": "17 augusti 18.06, Trafikkontroll, Norrbottens län",
-    "summary": "Resultat av polisens arbete i trafiken.",
-    "url": "/aktuellt/handelser/2026/augusti/17/17-augusti-18.06-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
     "location": {
       "name": "Norrbottens län",
       "gps": "66.830922,20.399197"
