@@ -1,5 +1,113 @@
 [
   {
+    "id": 653265,
+    "datetime": "2026-09-17 21:54:51 +02:00",
+    "name": "17 september 21.50, Övrigt, Västra Götalands län",
+    "summary": "Mediasamtal under natten hanteras av vakthavande befäl och besvaras i mån av tid.",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-21.50-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 653264,
+    "datetime": "2026-09-17 21:52:29 +02:00",
+    "name": "17 september 21.50, Övrigt, Hallands län",
+    "summary": "Mediasamtal under natten hanteras av vakthavande befäl och besvaras i mån av tid.",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-21.50-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 653263,
+    "datetime": "2026-09-17 21:46:34 +02:00",
+    "name": "17 september 20.52, Misshandel, Nynäshamn",
+    "summary": "En man slår sin fru.",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-20.52-misshandel-nynashamn/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 653256,
+    "datetime": "2026-09-17 21:38:21 +02:00",
+    "name": "17 september 15.47, Stöld, Skellefteå",
+    "summary": "Skellefteå, man misstänkt för stöld.",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-15.47-stold-skelleftea/",
+    "type": "Stöld",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 653251,
+    "datetime": "2026-09-17 16:14:48 +02:00",
+    "name": "17 september 15.48, Brand, Umeå",
+    "summary": "Umeå, larm om brand i byggnad.",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-15.48-brand-umea/",
+    "type": "Brand",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 653261,
+    "datetime": "2026-09-17 19:58:31 +02:00",
+    "name": "17 september 19.41, Trafikolycka, vilt, Värnamo",
+    "summary": "Krock mellan mindre lastbil och älg.",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-19.41-trafikolycka-vilt-varnamo/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 653260,
+    "datetime": "2026-09-17 19:53:53 +02:00",
+    "name": "17 september 19.53, Trafikkontroll, Norrbottens län",
+    "summary": "Norrbotten, resultat från några av dagens trafikkontroller.",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-19.53-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 653249,
+    "datetime": "2026-09-17 19:10:36 +02:00",
+    "name": "17 september 08.37, Narkotikabrott, Piteå",
+    "summary": "Piteå, man misstänks för narkotikabrott.",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-08.37-narkotikabrott-pitea/",
+    "type": "Narkotikabrott",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 653252,
+    "datetime": "2026-09-17 16:24:16 +02:00",
+    "name": "17 september 16.09, Trafikolycka, Ängelholm",
+    "summary": "Trafikolycka",
+    "url": "/aktuellt/handelser/2026/september/17/17-september-16.09-trafikolycka-angelholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
     "id": 653259,
     "datetime": "2026-09-17 18:51:08 +02:00",
     "name": "17 september 18.51, Stöld, Västerbottens län",
@@ -36,18 +144,6 @@
     }
   },
   {
-    "id": 653251,
-    "datetime": "2026-09-17 16:14:48 +02:00",
-    "name": "17 september 15.48, Brand, Umeå",
-    "summary": "Umeå, larm om brand i byggnad.",
-    "url": "/aktuellt/handelser/2026/september/17/17-september-15.48-brand-umea/",
-    "type": "Brand",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
     "id": 653254,
     "datetime": "2026-09-17 16:42:03 +02:00",
     "name": "17 september 15.04, Trafikolycka, Älvkarleby",
@@ -69,18 +165,6 @@
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 653252,
-    "datetime": "2026-09-17 16:24:16 +02:00",
-    "name": "17 september 16.09, Trafikolycka, Ängelholm",
-    "summary": "Trafikolycka",
-    "url": "/aktuellt/handelser/2026/september/17/17-september-16.09-trafikolycka-angelholm/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   },
   {
@@ -5913,90 +5997,6 @@
     "location": {
       "name": "Jämtlands län",
       "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 652466,
-    "datetime": "2026-09-10 11:41:41 +02:00",
-    "name": "10 september 11.17, Brand, Göteborg",
-    "summary": "Räddningstjänst och polis larmas till en misstänkt brand i ett flerfamiljshus i Gamlestan. Det ska vara rök i ",
-    "url": "/aktuellt/handelser/2026/september/10/10-september-11.17-brand-goteborg/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 652478,
-    "datetime": "2026-09-10 12:44:15 +02:00",
-    "name": "10 september 12.32, Trafikolycka, singel, Vingåker",
-    "summary": "Lastbilssläp i diket.",
-    "url": "/aktuellt/handelser/2026/september/10/10-september-12.32-trafikolycka-singel-vingaker/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 652475,
-    "datetime": "2026-09-10 12:17:03 +02:00",
-    "name": "10 september 12.15, Övrigt, Kronobergs län",
-    "summary": "Under juni, juli och augusti har ledningscentralen i Polisregion Syd hanterat 867 ärenden om våld i relation s",
-    "url": "/aktuellt/handelser/2026/september/10/10-september-12.15-ovrigt-kronobergs-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
-    }
-  },
-  {
-    "id": 652474,
-    "datetime": "2026-09-10 12:15:04 +02:00",
-    "name": "10 september 12.13, Övrigt, Kalmar län",
-    "summary": "Under juni, juli och augusti har ledningscentralen i Polisregion Syd hanterat 867 ärenden om våld i relation s",
-    "url": "/aktuellt/handelser/2026/september/10/10-september-12.13-ovrigt-kalmar-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 652470,
-    "datetime": "2026-09-10 11:58:03 +02:00",
-    "name": "10 september 09.36, Fjällräddning, Härjedalen",
-    "summary": "Fjällräddningsinsats på Löddesåsen.",
-    "url": "/aktuellt/handelser/2026/september/10/10-september-09.36-fjallraddning-harjedalen/",
-    "type": "Fjällräddning",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 652473,
-    "datetime": "2026-09-10 12:13:17 +02:00",
-    "name": "10 september 12.09, Övrigt, Blekinge län",
-    "summary": "Under juni, juli och augusti har ledningscentralen i Polisregion Syd hanterat 867 ärenden om våld i relation s",
-    "url": "/aktuellt/handelser/2026/september/10/10-september-12.09-ovrigt-blekinge-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 652471,
-    "datetime": "2026-09-10 12:09:56 +02:00",
-    "name": "10 september 12.05, Övrigt, Skåne län",
-    "summary": "Under juni, juli och augusti har ledningscentralen i Polisregion Syd hanterat 867 ärenden om våld i relation s",
-    "url": "/aktuellt/handelser/2026/september/10/10-september-12.05-ovrigt-skane-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
     }
   }
 ]
