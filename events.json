@@ -1,5 +1,413 @@
 [
   {
+    "id": 656771,
+    "datetime": "2026-10-20 8:28:36 +02:00",
+    "name": "20 oktober 08.06, Trafikolycka, Skövde",
+    "summary": "En lastbil med släp har vält på länsväg 2761 utanför Timmersdala. Inga personskador inrapporterade.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-08.06-trafikolycka-skovde/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 656747,
+    "datetime": "2026-10-20 6:53:40 +02:00",
+    "name": "20 oktober 06.53, Sammanfattning natt, Västerbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-06.53-sammanfattning-natt-vasterbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 656769,
+    "datetime": "2026-10-20 7:44:29 +02:00",
+    "name": "20 oktober 07.21, Trafikolycka, Umeå",
+    "summary": "Trafikolycka på väg 531 i höjd med Villanäs.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.21-trafikolycka-umea/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 656770,
+    "datetime": "2026-10-20 7:59:59 +02:00",
+    "name": "20 oktober 07.42, Trafikolycka, Örebro",
+    "summary": "En singelolycka har inträffat på riksväg 52 i Asker",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.42-trafikolycka-orebro/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 656760,
+    "datetime": "2026-10-20 7:14:26 +02:00",
+    "name": "20 oktober 06.49, Trafikolycka, Stockholm",
+    "summary": "Olycka mellan cyklist och personbil, Örby.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-06.49-trafikolycka-stockholm/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 656762,
+    "datetime": "2026-10-20 7:44:02 +02:00",
+    "name": "20 oktober 07.43, Sammanfattning natt, Södermanlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.43-sammanfattning-natt-sodermanlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 656766,
+    "datetime": "2026-10-20 7:43:44 +02:00",
+    "name": "20 oktober 07.43, Sammanfattning natt, Östergötlands län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.43-sammanfattning-natt-ostergotlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 656768,
+    "datetime": "2026-10-20 7:43:26 +02:00",
+    "name": "20 oktober 07.43, Sammanfattning natt, Jönköpings län",
+    "summary": "Här kommer ett urval av nattens händelser i polisområdet.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.43-sammanfattning-natt-jonkopings-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 656767,
+    "datetime": "2026-10-20 7:42:03 +02:00",
+    "name": "19 oktober 22.27, Arbetsplatsolycka, Gävle",
+    "summary": "Man skadad på en arbetsplats.",
+    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-22.27-arbetsplatsolycka-gavle/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 656761,
+    "datetime": "2026-10-20 7:36:54 +02:00",
+    "name": "19 oktober 22.28, Bråk, Uppsala",
+    "summary": "Flera samtal om pågående bråk.",
+    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-22.28-brak-uppsala/",
+    "type": "Bråk",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 656765,
+    "datetime": "2026-10-20 7:33:53 +02:00",
+    "name": "20 oktober 07.33, Övrigt, Gävleborgs län",
+    "summary": "Varning för halka i hela Gävleborgs län.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.33-ovrigt-gavleborgs-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 656764,
+    "datetime": "2026-10-20 7:33:22 +02:00",
+    "name": "20 oktober 07.32, Övrigt, Uppsala län",
+    "summary": "Varning för halka i hela Uppsala län.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.32-ovrigt-uppsala-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 656763,
+    "datetime": "2026-10-20 7:32:57 +02:00",
+    "name": "20 oktober 07.29, Övrigt, Västmanlands län",
+    "summary": "Varning för halka i hela Västmanlands län.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.29-ovrigt-vastmanlands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västmanlands län",
+      "gps": "59.671388,16.215895"
+    }
+  },
+  {
+    "id": 656759,
+    "datetime": "2026-10-20 7:11:15 +02:00",
+    "name": "20 oktober 03.11, Häleri, Gävle",
+    "summary": "Misstänkt pågående stöld från klädinsamling.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-03.11-haleri-gavle/",
+    "type": "Häleri",
+    "location": {
+      "name": "Gävleborgs län",
+      "gps": "61.301199,16.153421"
+    }
+  },
+  {
+    "id": 656758,
+    "datetime": "2026-10-20 7:10:34 +02:00",
+    "name": "20 oktober 04.43, Brand, Järfälla",
+    "summary": "Det brinner i flera bilar, Snapphanevägen.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-04.43-brand-jarfalla/",
+    "type": "Brand",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 656754,
+    "datetime": "2026-10-20 7:01:29 +02:00",
+    "name": "20 oktober 06.59, Sammanfattning natt, Värmlands län",
+    "summary": "Det har varit en lugn natt operativt i länet",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-06.59-sammanfattning-natt-varmlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 656756,
+    "datetime": "2026-10-20 7:01:25 +02:00",
+    "name": "20 oktober 07.00, Sammanfattning natt, Örebro län",
+    "summary": "Det har varit en lugn natt operativt i länet",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.00-sammanfattning-natt-orebro-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 656757,
+    "datetime": "2026-10-20 7:01:22 +02:00",
+    "name": "20 oktober 07.00, Sammanfattning natt, Dalarnas län",
+    "summary": "Det har varit en lugn natt operativt i länet",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.00-sammanfattning-natt-dalarnas-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 656749,
+    "datetime": "2026-10-20 7:00:30 +02:00",
+    "name": "20 oktober 07.00, Sammanfattning kväll och natt, Västra Götalands län",
+    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 656750,
+    "datetime": "2026-10-20 7:00:22 +02:00",
+    "name": "20 oktober 07.00, Sammanfattning kväll och natt, Hallands län",
+    "summary": "Dagens presstalesperson är på plats.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
+    "type": "Sammanfattning kväll och natt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 656755,
+    "datetime": "2026-10-20 7:00:18 +02:00",
+    "name": "20 oktober 02.31, Misshandel, Stockholm",
+    "summary": "Bråk på bar, Hornsgatan.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-02.31-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 656753,
+    "datetime": "2026-10-20 6:54:04 +02:00",
+    "name": "20 oktober 00.50, Misshandel, Ronneby",
+    "summary": "Man gripen, Ronneby.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-00.50-misshandel-ronneby/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 656741,
+    "datetime": "2026-10-20 6:53:49 +02:00",
+    "name": "20 oktober 06.53, Sammanfattning natt, Norrbottens län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-06.53-sammanfattning-natt-norrbottens-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
+    "id": 656751,
+    "datetime": "2026-10-20 6:53:29 +02:00",
+    "name": "20 oktober 06.53, Sammanfattning natt, Västernorrlands län",
+    "summary": "Inga händelser att rapportera om.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-06.53-sammanfattning-natt-vasternorrlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 656752,
+    "datetime": "2026-10-20 6:53:20 +02:00",
+    "name": "20 oktober 06.53, Sammanfattning natt, Jämtlands län",
+    "summary": "Ett urval av nattens polisverksamhet.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-06.53-sammanfattning-natt-jamtlands-lan/",
+    "type": "Sammanfattning natt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 656748,
+    "datetime": "2026-10-20 6:48:09 +02:00",
+    "name": "20 oktober 00.46, Bråk, Helsingborg",
+    "summary": "Bråk utomhus, centrum.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-00.46-brak-helsingborg/",
+    "type": "Bråk",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 656746,
+    "datetime": "2026-10-20 6:42:17 +02:00",
+    "name": "19 oktober 23.51, Olovlig körning, Stockholm",
+    "summary": "Grov olovlig körning, Södermalm.",
+    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-23.51-olovlig-korning-stockholm/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 656745,
+    "datetime": "2026-10-20 6:41:57 +02:00",
+    "name": "20 oktober 00.46, Inbrott, Helsingborg",
+    "summary": "Inbrott i villa, Ramlösa.",
+    "url": "/aktuellt/handelser/2026/oktober/20/20-oktober-00.46-inbrott-helsingborg/",
+    "type": "Inbrott",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 656744,
+    "datetime": "2026-10-20 6:40:22 +02:00",
+    "name": "19 oktober 23.33, Rattfylleri, Sigtuna",
+    "summary": "Misstänkt drograttfylleri, Valsta.",
+    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-23.33-rattfylleri-sigtuna/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 656743,
+    "datetime": "2026-10-20 6:37:51 +02:00",
+    "name": "19 oktober 23.17, Trafikolycka, smitning från, Upplands Väsby",
+    "summary": "Misstänkt smitning efter påkörd bil i garage.",
+    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-23.17-trafikolycka-smitning-fran-upplands-vasby/",
+    "type": "Trafikolycka, smitning från",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 656742,
+    "datetime": "2026-10-20 6:36:50 +02:00",
+    "name": "19 oktober 23.27, Rattfylleri, Hässleholm",
+    "summary": "Vinglig färd, Vinslöv.",
+    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-23.27-rattfylleri-hassleholm/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 656740,
+    "datetime": "2026-10-20 6:31:44 +02:00",
+    "name": "19 oktober 22.55, Trafikolycka, Kristianstad",
+    "summary": "Kvinna till sjukhus efter olycka, Kristianstad.",
+    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-22.55-trafikolycka-kristianstad/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 656739,
+    "datetime": "2026-10-20 6:29:17 +02:00",
+    "name": "19 oktober 23.00, Motorfordon, stöld, Salem",
+    "summary": "Det inkommer samtal om en traktor som står på Gamlebovägen.",
+    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-23.00-motorfordon-stold-salem/",
+    "type": "Motorfordon, stöld",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 656738,
+    "datetime": "2026-10-20 6:26:18 +02:00",
+    "name": "19 oktober 22.38, Misshandel, Stockholm",
+    "summary": "Larm om misshandel, Albano.",
+    "url": "/aktuellt/handelser/2026/oktober/20/19-oktober-22.38-misshandel-stockholm/",
+    "type": "Misshandel",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
     "id": 656728,
     "datetime": "2026-10-19 20:20:55 +02:00",
     "name": "19 oktober 20.19, Brand, Nyköping",
@@ -5589,414 +5997,6 @@
     "location": {
       "name": "Gävleborgs län",
       "gps": "61.301199,16.153421"
-    }
-  },
-  {
-    "id": 656043,
-    "datetime": "2026-10-13 7:45:46 +02:00",
-    "name": "13 oktober 07.36, Sammanfattning natt, Jämtlands län",
-    "summary": "Jämtland, ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.36-sammanfattning-natt-jamtlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 656042,
-    "datetime": "2026-10-13 7:36:42 +02:00",
-    "name": "13 oktober 07.30, Sammanfattning natt, Västernorrlands län",
-    "summary": "Västernorrland, ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.30-sammanfattning-natt-vasternorrlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 656037,
-    "datetime": "2026-10-13 7:14:45 +02:00",
-    "name": "13 oktober 07.14, Sammanfattning natt, Östergötlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.14-sammanfattning-natt-ostergotlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Östergötlands län",
-      "gps": "58.345364,15.519784"
-    }
-  },
-  {
-    "id": 656035,
-    "datetime": "2026-10-13 7:14:30 +02:00",
-    "name": "13 oktober 07.14, Sammanfattning natt, Södermanlands län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.14-sammanfattning-natt-sodermanlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
-    }
-  },
-  {
-    "id": 656041,
-    "datetime": "2026-10-13 7:14:21 +02:00",
-    "name": "13 oktober 07.14, Sammanfattning natt, Jönköpings län",
-    "summary": "Här följer en sammanfattning av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.14-sammanfattning-natt-jonkopings-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 656040,
-    "datetime": "2026-10-13 7:14:06 +02:00",
-    "name": "13 oktober 07.13, Övrigt, Hallands län",
-    "summary": "Media",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.13-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 656039,
-    "datetime": "2026-10-13 7:13:30 +02:00",
-    "name": "13 oktober 06.53, Övrigt, Västra Götalands län",
-    "summary": "Media",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-06.53-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 656038,
-    "datetime": "2026-10-13 7:12:07 +02:00",
-    "name": "13 oktober 07.10, Sammanfattning natt, Västerbottens län",
-    "summary": "Västerbotten, inga händelser att rapportera om",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.10-sammanfattning-natt-vasterbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 656036,
-    "datetime": "2026-10-13 7:10:53 +02:00",
-    "name": "13 oktober 07.00, Sammanfattning natt, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete under natten",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.00-sammanfattning-natt-norrbottens-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 656034,
-    "datetime": "2026-10-13 7:00:11 +02:00",
-    "name": "13 oktober 07.00, Sammanfattning natt, Örebro län",
-    "summary": "Natt till tisdag i polisområde Örebro.",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.00-sammanfattning-natt-orebro-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 656033,
-    "datetime": "2026-10-13 7:00:09 +02:00",
-    "name": "13 oktober 07.00, Sammanfattning natt, Dalarnas län",
-    "summary": "Natt till tisdag i polisområde Dalarna.",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.00-sammanfattning-natt-dalarnas-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 656032,
-    "datetime": "2026-10-13 7:00:06 +02:00",
-    "name": "13 oktober 07.00, Sammanfattning natt, Värmlands län",
-    "summary": "Natt till tisdag i polisområde Värmland.",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-07.00-sammanfattning-natt-varmlands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 656031,
-    "datetime": "2026-10-13 6:53:53 +02:00",
-    "name": "13 oktober 02.27, Rattfylleri, Helsingborg",
-    "summary": "Rattfylleri",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-02.27-rattfylleri-helsingborg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656030,
-    "datetime": "2026-10-13 6:32:34 +02:00",
-    "name": "13 oktober 00.03, Rattfylleri, Helsingborg",
-    "summary": "Rattfylleri",
-    "url": "/aktuellt/handelser/2026/oktober/13/13-oktober-00.03-rattfylleri-helsingborg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656028,
-    "datetime": "2026-10-13 6:24:50 +02:00",
-    "name": "12 oktober 23.35, Rattfylleri, Helsingborg",
-    "summary": "Rattfylleri",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-23.35-rattfylleri-helsingborg/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656027,
-    "datetime": "2026-10-13 6:18:44 +02:00",
-    "name": "12 oktober 04.29, Trafikolycka, Oskarshamn",
-    "summary": "Bil i mitträcke",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-04.29-trafikolycka-oskarshamn/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 656025,
-    "datetime": "2026-10-12 22:04:32 +02:00",
-    "name": "12 oktober 20.47, Smällar, Lidingö",
-    "summary": "Knallar i Torsvik orsakades av smällare.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-20.47-smallar-lidingo/",
-    "type": "Smällar",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 656023,
-    "datetime": "2026-10-12 21:58:01 +02:00",
-    "name": "12 oktober 21.57, Övrigt, Hallands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-21.57-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 656024,
-    "datetime": "2026-10-12 21:57:53 +02:00",
-    "name": "12 oktober 21.57, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-21.57-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 656022,
-    "datetime": "2026-10-12 21:38:37 +02:00",
-    "name": "12 oktober 19.46, Stöld, Stockholm",
-    "summary": "Äldre man på Östermalm blir bestulen på en halskedja.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-19.46-stold-stockholm/",
-    "type": "Stöld",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 656021,
-    "datetime": "2026-10-12 21:29:09 +02:00",
-    "name": "12 oktober 20.16, Trafikkontroll, Sundsvall",
-    "summary": "Timmervägen, Birsta. Polisen kontrollerar hastighet.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-20.16-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 656020,
-    "datetime": "2026-10-12 21:28:33 +02:00",
-    "name": "12 oktober 19.12, Rattfylleri, Sunne",
-    "summary": "En bilist stoppades från fortsatt färd i Skäggeberg",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-19.12-rattfylleri-sunne/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 656019,
-    "datetime": "2026-10-12 21:14:02 +02:00",
-    "name": "12 oktober 19.10, Stöld, Köping",
-    "summary": "Köttjuvar togs på bar gärning.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-19.10-stold-koping/",
-    "type": "Stöld",
-    "location": {
-      "name": "Västmanlands län",
-      "gps": "59.671388,16.215895"
-    }
-  },
-  {
-    "id": 656008,
-    "datetime": "2026-10-12 18:16:37 +02:00",
-    "name": "12 oktober 17.30, Trafikolycka, singel, Malmö",
-    "summary": "Lastbil fast i bro, Rosengård.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-17.30-trafikolycka-singel-malmo/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656017,
-    "datetime": "2026-10-12 19:36:40 +02:00",
-    "name": "12 oktober 15.32, Bedrägeri, Nacka",
-    "summary": "Banken stoppar en äldre kvinna från att göra en större överföring av pengar till utlandet.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-15.32-bedrageri-nacka/",
-    "type": "Bedrägeri",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 656014,
-    "datetime": "2026-10-12 19:36:37 +02:00",
-    "name": "12 oktober 15.17, Brand, Stockholm",
-    "summary": "Balkongbrand på Gärdet.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-15.17-brand-stockholm/",
-    "type": "Brand",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 656012,
-    "datetime": "2026-10-12 19:36:32 +02:00",
-    "name": "12 oktober 16.09, Våld/hot mot tjänsteman, Stockholm",
-    "summary": "En man spottar mot en butikskontrollant.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-16.09-valdhot-mot-tjansteman-stockholm/",
-    "type": "Våld/hot mot tjänsteman",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 655997,
-    "datetime": "2026-10-12 16:44:31 +02:00",
-    "name": "12 oktober 15.19, Misshandel, Malmö",
-    "summary": "Skadad man.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-15.19-misshandel-malmo/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656016,
-    "datetime": "2026-10-12 19:31:27 +02:00",
-    "name": "12 oktober 17.26, Stöld, Göteborg",
-    "summary": "Polis larmas om en misstänkt stöld från en matbutik på Hvitfeldtsplatsen.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-17.26-stold-goteborg/",
-    "type": "Stöld",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 656015,
-    "datetime": "2026-10-12 19:16:06 +02:00",
-    "name": "12 oktober 16.23, Trafikolycka, Övertorneå",
-    "summary": "Riksväg 99, Lampisenpää. En personbil har kört av vägen.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-16.23-trafikolycka-overtornea/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 656013,
-    "datetime": "2026-10-12 19:03:36 +02:00",
-    "name": "12 oktober 19.03, Rattfylleri, Karlstad",
-    "summary": "En manlig bilist är misstänkt för brott",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-19.03-rattfylleri-karlstad/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 656011,
-    "datetime": "2026-10-12 18:33:08 +02:00",
-    "name": "12 oktober 18.32, Trafikkontroll, Sundsvall",
-    "summary": "Ett urval av polisens arbete i trafiken under eftermiddagen.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-18.32-trafikkontroll-sundsvall/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 656010,
-    "datetime": "2026-10-12 18:30:12 +02:00",
-    "name": "12 oktober 16.45, Brand, Mellerud",
-    "summary": "Larm om rökutveckling från en villa inkommer via SOS. Räddningstjänst, polis och ambulans beordras till platsen.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-16.45-brand-mellerud/",
-    "type": "Brand",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 656009,
-    "datetime": "2026-10-12 18:21:27 +02:00",
-    "name": "12 oktober 18.16, Stöld, Västernorrlands län",
-    "summary": "Polisen har hanterat två butiksstölder under eftermiddagen.",
-    "url": "/aktuellt/handelser/2026/oktober/12/12-oktober-18.16-stold-vasternorrlands-lan/",
-    "type": "Stöld",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
     }
   }
 ]
