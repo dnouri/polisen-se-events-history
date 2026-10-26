@@ -1,14 +1,362 @@
 [
   {
-    "id": 657376,
-    "datetime": "2026-10-26 14:41:32 +01:00",
-    "name": "26 oktober 14.32, Arbetsplatsolycka, Sölvesborg",
-    "summary": "Man skadad, Hörvik.",
-    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-14.32-arbetsplatsolycka-solvesborg/",
-    "type": "Arbetsplatsolycka",
+    "id": 657411,
+    "datetime": "2026-10-26 20:33:46 +01:00",
+    "name": "26 oktober 19.42, Övrigt, Sundsvall",
+    "summary": "Östermalm/Skönsmon, ung kvinna har påträffats i närheten av en lekpark",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-19.42-ovrigt-sundsvall/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 657406,
+    "datetime": "2026-10-26 19:23:59 +01:00",
+    "name": "26 oktober 19.08, Trafikolycka, Torsby",
+    "summary": "En olycka har inträffat i Fågelsången",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-19.08-trafikolycka-torsby/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 657421,
+    "datetime": "2026-10-26 21:33:10 +01:00",
+    "name": "26 oktober 21.21, Trafikkontroll, Östersund",
+    "summary": "E45, resultat efter trafikkontroll vid Häggenås",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-21.21-trafikkontroll-ostersund/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 657399,
+    "datetime": "2026-10-26 18:23:47 +01:00",
+    "name": "26 oktober 18.16, Trafikolycka, Lund",
+    "summary": "Person påkörd av buss, centrum.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-18.16-trafikolycka-lund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 657420,
+    "datetime": "2026-10-26 21:31:29 +01:00",
+    "name": "26 oktober 21.09, Stöld/inbrott, Katrineholm",
+    "summary": "Man gripen efter inbrott.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-21.09-stoldinbrott-katrineholm/",
+    "type": "Stöld/inbrott",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 657415,
+    "datetime": "2026-10-26 20:53:39 +01:00",
+    "name": "26 oktober 20.16, Trafikolycka, Sunne",
+    "summary": "En olycka har inträffat i Skäggeberg",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-20.16-trafikolycka-sunne/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 657417,
+    "datetime": "2026-10-26 21:19:12 +01:00",
+    "name": "26 oktober 20.42, Kontroll, Karlskrona",
+    "summary": "En man sätter sig i inringarens bil, Lyckeby.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-20.42-kontroll-karlskrona/",
+    "type": "Kontroll",
     "location": {
       "name": "Blekinge län",
       "gps": "56.278384,15.018006"
+    }
+  },
+  {
+    "id": 657416,
+    "datetime": "2026-10-26 21:01:21 +01:00",
+    "name": "26 oktober 11.08, Trafikbrott, Skellefteå",
+    "summary": "Skellefteå kommun, bilist stoppad för kontroll",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-11.08-trafikbrott-skelleftea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 657414,
+    "datetime": "2026-10-26 20:41:39 +01:00",
+    "name": "26 oktober 17.02, Trafikolycka, personskada, Täby",
+    "summary": "Fotgängare påkörd i Täby C.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-17.02-trafikolycka-personskada-taby/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 657413,
+    "datetime": "2026-10-26 20:41:32 +01:00",
+    "name": "26 oktober 16.39, Trafikbrott, Täby",
+    "summary": "Polisen använder hund för att leta rätt på en bilförare som sprungit från bilen.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-16.39-trafikbrott-taby/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 657412,
+    "datetime": "2026-10-26 20:34:40 +01:00",
+    "name": "26 oktober 20.03, Rattfylleri, Värnamo",
+    "summary": "Man misstänks för drograttfylleri.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-20.03-rattfylleri-varnamo/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 657409,
+    "datetime": "2026-10-26 19:52:58 +01:00",
+    "name": "26 oktober 18.09, Trafikolycka, Malung-Sälen",
+    "summary": "En olycka har inträffat i höjd med Granfjällsstöten",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-18.09-trafikolycka-malung-salen/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Dalarnas län",
+      "gps": "61.091701,14.666365"
+    }
+  },
+  {
+    "id": 657410,
+    "datetime": "2026-10-26 20:04:06 +01:00",
+    "name": "26 oktober 18.53, Arbetsplatsolycka, Oskarshamn",
+    "summary": "Arbetsplatsolycka, Västra industriområdet.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-18.53-arbetsplatsolycka-oskarshamn/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Kalmar län",
+      "gps": "57.235016,16.184935"
+    }
+  },
+  {
+    "id": 657408,
+    "datetime": "2026-10-26 19:43:28 +01:00",
+    "name": "26 oktober 18.20, Trafikolycka, Uppsala",
+    "summary": "Kollision vid fyra mackar.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-18.20-trafikolycka-uppsala/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Uppsala län",
+      "gps": "60.009226,17.271459"
+    }
+  },
+  {
+    "id": 657407,
+    "datetime": "2026-10-26 19:40:52 +01:00",
+    "name": "26 oktober 19.00, Trafikolycka, vilt, Västernorrlands län",
+    "summary": "Västernorrland, flera viltolyckor har anmälts under eftermiddagen och tidig kväll",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-19.00-trafikolycka-vilt-vasternorrlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 657401,
+    "datetime": "2026-10-26 18:43:55 +01:00",
+    "name": "26 oktober 18.25, Trafikolycka, Kumla",
+    "summary": "En olycka har inträffat i Kumlaby",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-18.25-trafikolycka-kumla/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 657405,
+    "datetime": "2026-10-26 19:06:40 +01:00",
+    "name": "26 oktober 19.05, Trafikolycka, vilt, Södermanlands län",
+    "summary": "Många viltolyckor i länet!",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-19.05-trafikolycka-vilt-sodermanlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Södermanlands län",
+      "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 657404,
+    "datetime": "2026-10-26 19:05:18 +01:00",
+    "name": "26 oktober 19.03, Trafikolycka, vilt, Östergötlands län",
+    "summary": "Många viltolyckor i länet!",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-19.03-trafikolycka-vilt-ostergotlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 657403,
+    "datetime": "2026-10-26 19:03:55 +01:00",
+    "name": "26 oktober 19.00, Trafikolycka, vilt, Jönköpings län",
+    "summary": "Många viltolyckor i länet!",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-19.00-trafikolycka-vilt-jonkopings-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 657402,
+    "datetime": "2026-10-26 19:00:26 +01:00",
+    "name": "26 oktober 18.34, Trafikkontroll, Umeå",
+    "summary": "E4, resultat efter trafikkontroll",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-18.34-trafikkontroll-umea/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 657389,
+    "datetime": "2026-10-26 17:11:01 +01:00",
+    "name": "26 oktober 17.03, Trafikolycka, singel, Jönköping",
+    "summary": "Lastbil i diket.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-17.03-trafikolycka-singel-jonkoping/",
+    "type": "Trafikolycka, singel",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 657400,
+    "datetime": "2026-10-26 18:30:34 +01:00",
+    "name": "26 oktober 18.14, Trafikolycka, Vaggeryd",
+    "summary": "Två bilar i krock på E4.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-18.14-trafikolycka-vaggeryd/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
+    "id": 657398,
+    "datetime": "2026-10-26 18:10:14 +01:00",
+    "name": "26 oktober 14.48, Rattfylleri, Lindesberg",
+    "summary": "En bilist är misstänkt för brott i Vedevåg",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-14.48-rattfylleri-lindesberg/",
+    "type": "Rattfylleri",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 657397,
+    "datetime": "2026-10-26 18:07:19 +01:00",
+    "name": "26 oktober 16.41, Trafikolycka, Säffle",
+    "summary": "En olycka har inträffat i Annelund",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-16.41-trafikolycka-saffle/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Värmlands län",
+      "gps": "59.729407,13.235402"
+    }
+  },
+  {
+    "id": 657390,
+    "datetime": "2026-10-26 17:12:36 +01:00",
+    "name": "26 oktober 17.09, Trafikolycka, Linköping",
+    "summary": "Person på elkick påkörd av bil.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-17.09-trafikolycka-linkoping/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Östergötlands län",
+      "gps": "58.345364,15.519784"
+    }
+  },
+  {
+    "id": 657395,
+    "datetime": "2026-10-26 17:43:32 +01:00",
+    "name": "26 oktober 15.42, Trafikolycka, Östersund",
+    "summary": "Centrum, larm om påkörd person vid Hamngatan/Strandgatan",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-15.42-trafikolycka-ostersund/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 657393,
+    "datetime": "2026-10-26 17:27:26 +01:00",
+    "name": "26 oktober 15.35, Rån, Sundsvall",
+    "summary": "Birsta, man stoppad efter misstänkt ringa stöld i livsmedelsbutik",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-15.35-ran-sundsvall/",
+    "type": "Rån",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 657391,
+    "datetime": "2026-10-26 17:25:40 +01:00",
+    "name": "26 oktober 13.55, Trafikolycka, personskada, Södertälje",
+    "summary": "En pojke på elspark skadas när han krockar med en bil.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-13.55-trafikolycka-personskada-sodertalje/",
+    "type": "Trafikolycka, personskada",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 657392,
+    "datetime": "2026-10-26 17:25:34 +01:00",
+    "name": "26 oktober 14.35, Trafikbrott, Nacka",
+    "summary": "En tonåring blir misstänkt för olovlig körning efter att ha kört elspark.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-14.35-trafikbrott-nacka/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Stockholms län",
+      "gps": "59.602496,18.138438"
+    }
+  },
+  {
+    "id": 657388,
+    "datetime": "2026-10-26 17:09:52 +01:00",
+    "name": "26 oktober 13.53, Trafikbrott, Umeå",
+    "summary": "Teg, A-traktor stoppad för kontroll",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-13.53-trafikbrott-umea/",
+    "type": "Trafikbrott",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
     }
   },
   {
@@ -18,6 +366,18 @@
     "summary": "Brinner i en personbil på E6.",
     "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-15.41-brand-lomma/",
     "type": "Brand",
+    "location": {
+      "name": "Skåne län",
+      "gps": "55.990257,13.595769"
+    }
+  },
+  {
+    "id": 657387,
+    "datetime": "2026-10-26 17:00:37 +01:00",
+    "name": "26 oktober 16.36, Trafikolycka, vilt, Ystad",
+    "summary": "Singelolycka på E6, i riktning mot Malmö.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-16.36-trafikolycka-vilt-ystad/",
+    "type": "Trafikolycka, vilt",
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
@@ -36,6 +396,18 @@
     }
   },
   {
+    "id": 657380,
+    "datetime": "2026-10-26 14:57:35 +01:00",
+    "name": "26 oktober 13.47, Explosion, Jönköping",
+    "summary": "Planerad sprängning gick snett.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-13.47-explosion-jonkoping/",
+    "type": "Explosion",
+    "location": {
+      "name": "Jönköpings län",
+      "gps": "57.370843,14.343917"
+    }
+  },
+  {
     "id": 657367,
     "datetime": "2026-10-26 14:05:46 +01:00",
     "name": "26 oktober 13.52, Trafikolycka, Eskilstuna",
@@ -45,6 +417,18 @@
     "location": {
       "name": "Södermanlands län",
       "gps": "59.033635,16.75189"
+    }
+  },
+  {
+    "id": 657376,
+    "datetime": "2026-10-26 14:41:32 +01:00",
+    "name": "26 oktober 14.32, Arbetsplatsolycka, Sölvesborg",
+    "summary": "Man skadad, Hörvik.",
+    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-14.32-arbetsplatsolycka-solvesborg/",
+    "type": "Arbetsplatsolycka",
+    "location": {
+      "name": "Blekinge län",
+      "gps": "56.278384,15.018006"
     }
   },
   {
@@ -69,18 +453,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 657380,
-    "datetime": "2026-10-26 14:57:35 +01:00",
-    "name": "26 oktober 13.47, Explosion, Jönköping",
-    "summary": "Planerad sprängning gick snett.",
-    "url": "/aktuellt/handelser/2026/oktober/26/26-oktober-13.47-explosion-jonkoping/",
-    "type": "Explosion",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
     }
   },
   {
@@ -5625,378 +5997,6 @@
     "location": {
       "name": "Värmlands län",
       "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 656624,
-    "datetime": "2026-10-19 7:00:36 +02:00",
-    "name": "19 oktober 07.00, Sammanfattning natt, Hallands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-07.00-sammanfattning-natt-hallands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 656625,
-    "datetime": "2026-10-19 7:00:30 +02:00",
-    "name": "19 oktober 07.00, Sammanfattning natt, Västra Götalands län",
-    "summary": "Dagens presstalesperson är på plats. Nedan följer ett urval av nattens händelser.",
-    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-    "type": "Sammanfattning natt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 656617,
-    "datetime": "2026-10-18 21:54:35 +02:00",
-    "name": "18 oktober 21.09, Brand, Olofström",
-    "summary": "En bil brinner i östra Olofström.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-21.09-brand-olofstrom/",
-    "type": "Brand",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 656623,
-    "datetime": "2026-10-19 6:33:54 +02:00",
-    "name": "19 oktober 02.30, Stöld, Simrishamn",
-    "summary": "Kappellskärning på bensinmack.",
-    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-02.30-stold-simrishamn/",
-    "type": "Stöld",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656622,
-    "datetime": "2026-10-19 6:27:17 +02:00",
-    "name": "19 oktober 04.31, Rattfylleri, Skurup",
-    "summary": "Misstänkt rattfylleri, Abbekås.",
-    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-04.31-rattfylleri-skurup/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656621,
-    "datetime": "2026-10-19 6:23:29 +02:00",
-    "name": "18 oktober 22.24, Brand, Västervik",
-    "summary": "Brandlarm i boende.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-22.24-brand-vastervik/",
-    "type": "Brand",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 656620,
-    "datetime": "2026-10-19 6:10:48 +02:00",
-    "name": "19 oktober 04.35, Trafikolycka, Trelleborg",
-    "summary": "Olycka med häst och lastbil, E6.",
-    "url": "/aktuellt/handelser/2026/oktober/19/19-oktober-04.35-trafikolycka-trelleborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656612,
-    "datetime": "2026-10-18 18:25:44 +02:00",
-    "name": "18 oktober 18.06, Brand, Karlskrona",
-    "summary": "Larm om brand på Kungsmarken.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-18.06-brand-karlskrona/",
-    "type": "Brand",
-    "location": {
-      "name": "Blekinge län",
-      "gps": "56.278384,15.018006"
-    }
-  },
-  {
-    "id": 656614,
-    "datetime": "2026-10-18 20:43:59 +02:00",
-    "name": "18 oktober 20.43, Försvunnen person, Karlstad",
-    "summary": "Polis har anträffat mannen som eftersöktes i Karlstad.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-20.43-forsvunnen-person-karlstad/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 656616,
-    "datetime": "2026-10-18 21:15:59 +02:00",
-    "name": "18 oktober 19.57, Luftfartslagen, Kalmar",
-    "summary": "Drönare observeras vid Kalmar flygplats.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-19.57-luftfartslagen-kalmar/",
-    "type": "Luftfartslagen",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 656615,
-    "datetime": "2026-10-18 20:54:06 +02:00",
-    "name": "18 oktober 20.53, Försvunnen person, Borlänge",
-    "summary": "Polisen söker en försvunnen man i Borlänge.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-20.53-forsvunnen-person-borlange/",
-    "type": "Försvunnen person",
-    "location": {
-      "name": "Dalarnas län",
-      "gps": "61.091701,14.666365"
-    }
-  },
-  {
-    "id": 656613,
-    "datetime": "2026-10-18 20:29:32 +02:00",
-    "name": "18 oktober 20.16, Trafikolycka, Kristianstad",
-    "summary": "En singelolycka med en personbil inträffar på Gamla Fjälkingevägen väster om Fjälkinge.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-20.16-trafikolycka-kristianstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656610,
-    "datetime": "2026-10-18 16:43:14 +02:00",
-    "name": "18 oktober 16.28, Trafikolycka, Eslöv",
-    "summary": "En personbil och moped kolliderar på riksväg 17.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-16.28-trafikolycka-eslov/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656611,
-    "datetime": "2026-10-18 17:30:06 +02:00",
-    "name": "18 oktober 17.19, Trafikolycka, Helsingborg",
-    "summary": "Kollission mellan personbil och cyklist.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-17.19-trafikolycka-helsingborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656609,
-    "datetime": "2026-10-18 16:22:49 +02:00",
-    "name": "18 oktober 14.57, Brand, Burlöv",
-    "summary": "Det brinner i en lägenhet i Arlöv.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-14.57-brand-burlov/",
-    "type": "Brand",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656608,
-    "datetime": "2026-10-18 14:49:18 +02:00",
-    "name": "18 oktober 14.10, Trafikolycka, Jönköping",
-    "summary": "Kollision mellan två bilar på riksväg 26 vid Järstorp.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-14.10-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 656607,
-    "datetime": "2026-10-18 14:45:40 +02:00",
-    "name": "18 oktober 14.45, Övrigt, Hallands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscentralen i mån av tid.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-14.45-ovrigt-hallands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Hallands län",
-      "gps": "56.896681,12.803399"
-    }
-  },
-  {
-    "id": 656606,
-    "datetime": "2026-10-18 14:45:28 +02:00",
-    "name": "18 oktober 14.45, Övrigt, Västra Götalands län",
-    "summary": "Efter klockan 15:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av befäl på ledningscentralen i mån av tid.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-14.45-ovrigt-vastra-gotalands-lan/",
-    "type": "Övrigt",
-    "location": {
-      "name": "Västra Götalands län",
-      "gps": "58.252793,13.059643"
-    }
-  },
-  {
-    "id": 656605,
-    "datetime": "2026-10-18 14:25:14 +02:00",
-    "name": "18 oktober 10.54, Fylleri, Sundsvall",
-    "summary": "Stenstan, polis kontaktas gällande man som uppges rycka i bildörrar och portar",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-10.54-fylleri-sundsvall/",
-    "type": "Fylleri",
-    "location": {
-      "name": "Västernorrlands län",
-      "gps": "63.427647,17.729244"
-    }
-  },
-  {
-    "id": 656604,
-    "datetime": "2026-10-18 14:16:55 +02:00",
-    "name": "18 oktober 13.55, Trafikolycka, Bjuv",
-    "summary": "En singelolycka inträffar på Bjuvsleden.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-13.55-trafikolycka-bjuv/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656602,
-    "datetime": "2026-10-18 14:07:46 +02:00",
-    "name": "18 oktober 14.00, Trafikkontroll, Västerbottens län",
-    "summary": "Västerbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-14.00-trafikkontroll-vasterbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 656597,
-    "datetime": "2026-10-18 12:51:24 +02:00",
-    "name": "18 oktober 12.40, Trafikolycka, Jönköping",
-    "summary": "Personbil har kört i mitträcket på E4 vid Gränna.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-12.40-trafikolycka-jonkoping/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 656601,
-    "datetime": "2026-10-18 13:52:36 +02:00",
-    "name": "18 oktober 12.25, Misshandel, Vetlanda",
-    "summary": "Kvinna misshandlad i flerbostadshus.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-12.25-misshandel-vetlanda/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Jönköpings län",
-      "gps": "57.370843,14.343917"
-    }
-  },
-  {
-    "id": 656594,
-    "datetime": "2026-10-18 12:36:51 +02:00",
-    "name": "18 oktober 11.19, Rån, Malmö",
-    "summary": "Misstänkt rån, Södervärn.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-11.19-ran-malmo/",
-    "type": "Rån",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 656600,
-    "datetime": "2026-10-18 13:32:30 +02:00",
-    "name": "18 oktober 13.23, Trafikhinder, Hultsfred",
-    "summary": "Lastbil i rondell, Målilla.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-13.23-trafikhinder-hultsfred/",
-    "type": "Trafikhinder",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 656595,
-    "datetime": "2026-10-18 12:05:20 +02:00",
-    "name": "18 oktober 11.46, Trafikolycka, Karlstad",
-    "summary": "En singelolycka har inträffat i Vålberg",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-11.46-trafikolycka-karlstad/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Värmlands län",
-      "gps": "59.729407,13.235402"
-    }
-  },
-  {
-    "id": 656599,
-    "datetime": "2026-10-18 13:15:29 +02:00",
-    "name": "18 oktober 13.00, Trafikkontroll, Norrbottens län",
-    "summary": "Norrbotten, ett urval av polisens arbete i trafiken",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-13.00-trafikkontroll-norrbottens-lan/",
-    "type": "Trafikkontroll",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 656598,
-    "datetime": "2026-10-18 12:58:54 +02:00",
-    "name": "18 oktober 12.02, Brand, Gällivare",
-    "summary": "Centrum, larm om brand i byggnad",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-12.02-brand-gallivare/",
-    "type": "Brand",
-    "location": {
-      "name": "Norrbottens län",
-      "gps": "66.830922,20.399197"
-    }
-  },
-  {
-    "id": 656596,
-    "datetime": "2026-10-18 12:50:14 +02:00",
-    "name": "18 oktober 11.55, Trafikolycka, singel, Kalmar",
-    "summary": "Olycka med mc, Norrliden.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-11.55-trafikolycka-singel-kalmar/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 656507,
-    "datetime": "2026-10-17 1:32:20 +02:00",
-    "name": "16 oktober 21.12, Mord/dråp, Skellefteå",
-    "summary": "Under fredagskvällen beordras polisen till en adress i Skellefteå med anledning av uppgifter om två skadade män.",
-    "url": "/aktuellt/handelser/2026/oktober/16/16-oktober-21.12-morddrap-skelleftea/",
-    "type": "Mord/dråp",
-    "location": {
-      "name": "Västerbottens län",
-      "gps": "65.333731,16.516169"
-    }
-  },
-  {
-    "id": 656593,
-    "datetime": "2026-10-18 11:17:36 +02:00",
-    "name": "18 oktober 11.07, Trafikolycka, singel, Alvesta",
-    "summary": "Singelolycka med en personbil i diket, strax nordöst om Västra Torsås.",
-    "url": "/aktuellt/handelser/2026/oktober/18/18-oktober-11.07-trafikolycka-singel-alvesta/",
-    "type": "Trafikolycka, singel",
-    "location": {
-      "name": "Kronobergs län",
-      "gps": "56.71834,14.411467"
     }
   }
 ]
