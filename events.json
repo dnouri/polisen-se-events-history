@@ -1,5 +1,113 @@
 [
   {
+    "id": 660021,
+    "datetime": "2026-11-18 21:05:16 +01:00",
+    "name": "18 november 20.08, Trafikolycka, Borås",
+    "summary": "En trafikolycka har inträffat mellan minst två personbilar på Riksväg 41/Trandaredsgatan.",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-20.08-trafikolycka-boras/",
+    "type": "Trafikolycka",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 660023,
+    "datetime": "2026-11-18 21:58:45 +01:00",
+    "name": "18 november 22.00, Övrigt, Västra Götalands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-22.00-ovrigt-vastra-gotalands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Västra Götalands län",
+      "gps": "58.252793,13.059643"
+    }
+  },
+  {
+    "id": 660022,
+    "datetime": "2026-11-18 21:58:35 +01:00",
+    "name": "18 november 22.00, Övrigt, Hallands län",
+    "summary": "Efter klockan 22:00 finns ingen presstalesperson i tjänst. Frågor från media besvaras av vakthavande befäl i mån av tid.",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-22.00-ovrigt-hallands-lan/",
+    "type": "Övrigt",
+    "location": {
+      "name": "Hallands län",
+      "gps": "56.896681,12.803399"
+    }
+  },
+  {
+    "id": 660026,
+    "datetime": "2026-11-18 21:41:42 +01:00",
+    "name": "18 november 21.41, Trafikkontroll, Västernorrlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-21.41-trafikkontroll-vasternorrlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västernorrlands län",
+      "gps": "63.427647,17.729244"
+    }
+  },
+  {
+    "id": 660025,
+    "datetime": "2026-11-18 21:41:10 +01:00",
+    "name": "18 november 21.41, Trafikkontroll, Västerbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-21.41-trafikkontroll-vasterbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Västerbottens län",
+      "gps": "65.333731,16.516169"
+    }
+  },
+  {
+    "id": 660027,
+    "datetime": "2026-11-18 21:40:55 +01:00",
+    "name": "18 november 21.40, Trafikkontroll, Jämtlands län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-21.40-trafikkontroll-jamtlands-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 660013,
+    "datetime": "2026-11-18 18:51:36 +01:00",
+    "name": "18 november 18.51, Trafikolycka, vilt, Jämtlands län",
+    "summary": "Flera viltolyckor anmälda till polisens ledningscentral",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-18.51-trafikolycka-vilt-jamtlands-lan/",
+    "type": "Trafikolycka, vilt",
+    "location": {
+      "name": "Jämtlands län",
+      "gps": "63.171192,14.95918"
+    }
+  },
+  {
+    "id": 660028,
+    "datetime": "2026-11-18 21:36:00 +01:00",
+    "name": "18 november 21.35, Olovlig körning, Örebro",
+    "summary": "Man misstänkt för grov olovlig körning.",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-21.35-olovlig-korning-orebro/",
+    "type": "Olovlig körning",
+    "location": {
+      "name": "Örebro län",
+      "gps": "59.535036,15.006573"
+    }
+  },
+  {
+    "id": 660024,
+    "datetime": "2026-11-18 21:11:54 +01:00",
+    "name": "18 november 21.11, Trafikkontroll, Norrbottens län",
+    "summary": "Urval av polisens arbete i trafiken",
+    "url": "/aktuellt/handelser/2026/november/18/18-november-21.11-trafikkontroll-norrbottens-lan/",
+    "type": "Trafikkontroll",
+    "location": {
+      "name": "Norrbottens län",
+      "gps": "66.830922,20.399197"
+    }
+  },
+  {
     "id": 660020,
     "datetime": "2026-11-18 20:02:37 +01:00",
     "name": "18 november 18.19, Stöld, Umeå",
@@ -117,18 +225,6 @@
     "location": {
       "name": "Skåne län",
       "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 660013,
-    "datetime": "2026-11-18 18:51:36 +01:00",
-    "name": "18 november 18.51, Trafikolycka, vilt, Jämtlands län",
-    "summary": "Flera viltolyckor anmälda till polisens ledningscentral",
-    "url": "/aktuellt/handelser/2026/november/18/18-november-18.51-trafikolycka-vilt-jamtlands-lan/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
     }
   },
   {
@@ -5901,102 +5997,6 @@
     "location": {
       "name": "Örebro län",
       "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 659167,
-    "datetime": "2026-11-11 19:05:51 +01:00",
-    "name": "11 november 18.14, Rattfylleri, Kumla",
-    "summary": "En bilist är misstänkt för brott i Byrsta",
-    "url": "/aktuellt/handelser/2026/november/11/11-november-18.14-rattfylleri-kumla/",
-    "type": "Rattfylleri",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 659166,
-    "datetime": "2026-11-11 18:56:20 +01:00",
-    "name": "11 november 13.13, Trafikolycka, personskada, Vaxholm",
-    "summary": "En MC-förare har avlidit efter att ha kört av vägen på Bogesundsvägen i Vaxholm.",
-    "url": "/aktuellt/handelser/2026/november/11/11-november-13.13-trafikolycka-personskada-vaxholm/",
-    "type": "Trafikolycka, personskada",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 659148,
-    "datetime": "2026-11-11 16:46:22 +01:00",
-    "name": "11 november 16.30, Trafikolycka, Östersund",
-    "summary": "Det kommer in ett larm om en trafikolycka på Rådhusgatan, Odenslund.",
-    "url": "/aktuellt/handelser/2026/november/11/11-november-16.30-trafikolycka-ostersund/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Jämtlands län",
-      "gps": "63.171192,14.95918"
-    }
-  },
-  {
-    "id": 659156,
-    "datetime": "2026-11-11 17:48:01 +01:00",
-    "name": "11 november 17.33, Trafikolycka, Trelleborg",
-    "summary": "Två personer påkörda, Kapellgatan.",
-    "url": "/aktuellt/handelser/2026/november/11/11-november-17.33-trafikolycka-trelleborg/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Skåne län",
-      "gps": "55.990257,13.595769"
-    }
-  },
-  {
-    "id": 659159,
-    "datetime": "2026-11-11 18:14:04 +01:00",
-    "name": "11 november 17.51, Trafikolycka, vilt, Oskarshamn",
-    "summary": "Viltolycka med kronhjort på E22.",
-    "url": "/aktuellt/handelser/2026/november/11/11-november-17.51-trafikolycka-vilt-oskarshamn/",
-    "type": "Trafikolycka, vilt",
-    "location": {
-      "name": "Kalmar län",
-      "gps": "57.235016,16.184935"
-    }
-  },
-  {
-    "id": 659158,
-    "datetime": "2026-11-11 18:06:52 +01:00",
-    "name": "11 november 14.46, Misshandel, Stockholm",
-    "summary": "En man grips efter larm om att han tagit stryptag på sin fru.",
-    "url": "/aktuellt/handelser/2026/november/11/11-november-14.46-misshandel-stockholm/",
-    "type": "Misshandel",
-    "location": {
-      "name": "Stockholms län",
-      "gps": "59.602496,18.138438"
-    }
-  },
-  {
-    "id": 659152,
-    "datetime": "2026-11-11 17:12:14 +01:00",
-    "name": "11 november 16.53, Brand, Lindesberg",
-    "summary": "Det är rökutveckling i en bostad i Fellingsbro",
-    "url": "/aktuellt/handelser/2026/november/11/11-november-16.53-brand-lindesberg/",
-    "type": "Brand",
-    "location": {
-      "name": "Örebro län",
-      "gps": "59.535036,15.006573"
-    }
-  },
-  {
-    "id": 659157,
-    "datetime": "2026-11-11 17:50:11 +01:00",
-    "name": "11 november 16.58, Trafikolycka, Eskilstuna",
-    "summary": "Bilist körde in i vajerräcke utanför Tumbo.",
-    "url": "/aktuellt/handelser/2026/november/11/11-november-16.58-trafikolycka-eskilstuna/",
-    "type": "Trafikolycka",
-    "location": {
-      "name": "Södermanlands län",
-      "gps": "59.033635,16.75189"
     }
   }
 ]
